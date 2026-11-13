@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote las mañanitas | quién escribió las mañanitas | las mañanitas meaning in english | las mañanitas del rey david | las mañanitas historia de la canción | las mañanitas origen y significado | las mañanitas lyrics
-original: El laúd hispano-americano (Los Angeles, 1921), p. 104, Library of Congress copy, Internet Archive | https://archive.org/details/ellaudhispanoame00sant/page/n109 || García Cubas, El libro de mis recuerdos (1904), p. 547, Internet Archive | https://archive.org/details/ellibrodemisrecu0000anto/page/n548
+original: El laúd hispano-americano (Los Angeles, 1921), Library of Congress copy, Internet Archive | https://archive.org/details/ellaudhispanoame00sant
 ---
 
 Las Mañanitas, also known by its first line, Estas son las mañanitas, and as Las mañanitas del rey David, is the song Mexicans sing at dawn to wake someone on their birthday or saint's day [^toor1947][^manfred1932][^brenner1929]. It is also sung to the Virgin of Guadalupe at her basilica on 12 December, her day [^toor1947][^ewtn2022]. No one knows who made it. Its tune and Amapolita verse were printed in 1904 by Antonio García Cubas, remembering a dawn serenade [^garciacubas1904]; the earliest printing of the King David verse we have found is a Los Angeles songbook of 1921 [^laud1921].
@@ -26,11 +26,17 @@ Las Mañanitas, also known by its first line, Estas son las mañanitas, and as L
 
 **A serenade at a farmhouse door.** Antonio García Cubas, a Mexican mapmaker, joined the Scientific Commission of Pachuca, based at Real del Monte, in September 1864, and in El libro de mis recuerdos (1904) he tells of a night ride in that country [^garciacubas1904]. By moonlight his party reached the plain of Atotonilco el Grande and halted before a house among ash trees; as day came near, they began to sing the mañanitas. The windows opened, and soon the young women of the house began to sing, with two young men on guitars. On page 547 he prints the tune, in A-flat and triple time, with the Amapolita verse and the refrain "Despierta, mi bien despierta" [^garciacubas1904]. Earlier in the book, on page 374, he had already printed the same tune, remembering St John's Day in Mexico City in the years before the railway: from the first bell at dawn, people on their way to the baths went through the streets singing "las festivas mañanitas", and he gives the Amapolita verse, with "campos", fields, for "llanos" [^garciacubas1904].
 
+![[1]]
+
 **A folk song in Berlin.** In 1913 Albert Friedenthal printed the melody in a German book on Latin American music [^friedenthal1913]. He calls it one of Mexico's two best-known sentimental songs, "also called Amapola", says it comes from the south of the country, and calls it "halb Romanze, halb Serenade", in which a lover sings to a girl from the plains of Tepic. He marks it "Langsam", slowly, and adds that the distant time of such songs' making cannot be fixed at all [^friedenthal1913].
+
+![[2]]
 
 **A composer's word.** In an essay printed in 1917 (one modern article dates his words to 1914 [^quadratin2026]), the composer Manuel M. Ponce described songs in triple time with the air of a mazurka, and said that in one of them "the anonymous popular author" reached real beauty: "me refiero a las mañanitas, canto popular de melodía nobilísima y de corte beethoviano", a popular song with a most noble, Beethoven-like melody. It was so well known, he added, that he need not print it [^ponce1917].
 
 **King David's verse.** The earliest printing we have found of the verse that opens the song today, "Estas son las mañanitas que cantaba el rey David", is in El laúd hispano-americano, a 160-page pocket songster published in Los Angeles in 1921 by its compiler, C. Santos, its cover striped green, white and red, with the Mexican eagle [^laud1921]. On pages 104 and 105 it prints "Las Mañanitas" as seven unbroken quatrains with no author [^laud1921]. A 2024 study by Ana Rosa Gómez Mutio finds the verse often, with changes, in prints from the Mexico City press of Antonio Vanegas Arroyo and his heirs; one, a booklet of 1935, turns it to the Virgin of Guadalupe [^gomez2024][^lacipi-diadoce]. One of his sheets, dated 1911, is titled "Unas lindas mañanitas a las muchachas bonitas", words from the verse's third line, and Gómez Mutio reads the title as a nod to it; but its twenty stanzas do not include King David's verse [^carter1911][^gomez2024]. A 2026 news article says that sheet already has the verse, and that El Colegio de México holds a copy dated 1918 [^quadratin2026]; the 1911 copy we have read does not have it, and we have not seen the 1918 one.
+
+![[3]]
 
 **Myth and record.** Often told: the song is very old, sung by King David himself [^hernandez-desdelafe], or, as Anita Brenner wrote in 1929, a chant handed down from before the Spanish came [^brenner1929]; or Ponce wrote it, or added King David, as a 2022 news article says without a source [^infobae2022]. What the record shows: the tune was in print as a folk song by 1904 [^garciacubas1904][^friedenthal1913], and Ponce credited an anonymous popular author [^ponce1917][^quadratin2026]. Gómez Mutio reports that Margit Frenk's Cancionero folklórico de México files King David's verse under "Las mañanitas I", and, in a note on another stanza of that song, "Levántate mamacita", that Frenk records an attribution to Ponce [^gomez2024]; that stanza is already on the 1911 sheet [^carter1911]. No source we have seen names Ponce as the author of King David's verse.
 
@@ -52,6 +58,8 @@ Las Mañanitas, also known by its first line, Estas son las mañanitas, and as L
 3. The refrain: wake up, my dear ("mi bien"), wake up. Day has dawned ("amaneció"), the little birds are singing, the moon has hidden.
 
 The 1921 song goes on with the night watchman ("el sereno") and his lantern, happy mornings never forgotten, and a second refrain to a "Rosita de Jericó", little rose of Jericho.
+
+![[4]]
 
 On García Cubas's page 374 the refrain begins "Despierta divina aurora", wake, heavenly dawn. On his page 547 the Amapolita verse is followed by the lines that end the 1921 song, "Que amanece, que amanece, Rosita de Jericó"; the happy mornings will be remembered "En tanto que tenga vida", while I have life, followed by "Despierta, adorada mía", wake, my adored one, with "Ya los pajaritos cantan / Y la luna se metió"; and there is no watchman [^garciacubas1904].
 

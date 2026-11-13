@@ -17,7 +17,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: let me call you sweetheart historia | let me call you sweetheart significado | quién escribió let me call you sweetheart | let me call you sweetheart letra en español | quién cantó primero let me call you sweetheart
-translatedFrom: 51c4dfa41ded
+translatedFrom: c42bfecb32e5
+original: Edición de Leo Friedman de 1910, Lilly Library, Indiana University | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-244050
+listen: National Jukebox, grabación de 1911 | https://archive.org/details/loc-jukebox-646117-let-me-call-you-sweetheart || National Jukebox, grabación de 1924 | https://archive.org/details/loc-jukebox-71293-let-me-call-you-sweetheart-i-m-in-love-with-you
 ---
 
 Let Me Call You Sweetheart (déjame llamarte cariño), impresa con el subtítulo I'm in Love with You, es una canción en tiempo de vals de 1910, con letra de Beth Slater Whitson y música de Leo Friedman [^lilly1910][^cce1910]. Friedman, compositor de canciones de Chicago, la publicó él mismo en abril de ese año, y en diciembre vendió el copyright a la Harold Rossiter Music Company [^lilly1910][^cce1910][^jhu1911]. Más tarde su editor la llamó uno de los grandes éxitos de 1911, el año en que un cuarteto la grabó para Columbia [^rossiter1925][^sager][^locblog]. Luego cayó en el olvido, y a mediados de la década de 1920 volvió con tanta fuerza que el mismo editor aseguró que ninguna canción había vuelto nunca así [^rossiter1925][^sager]. Su estribillo pide una sola cosa: poder llamar a alguien "sweetheart" (cariño), y oírle susurrar que también te quiere [^lilly1910].
@@ -28,11 +30,17 @@ Let Me Call You Sweetheart (déjame llamarte cariño), impresa con el subtítulo
 
 **La primera impresión.** El ejemplar que leímos, en la Lilly Library de la Universidad de Indiana, es la edición del propio Friedman, "Published by Leo Friedman, 59 Dearborn St. Chicago, Ill." y "Copyright 1910 by Leo Friedman" [^lilly1910]. Su portada, firmada por H. Sass, enmarca con rosas verdes y golondrinas el retrato de una joven con un sombrero adornado con rosas; una pequeña fotografía de Friedman ocupa un rombo con la leyenda "Songs with the Harmony", y a los dos se les presenta como los autores de Meet Me To-Night in Dreamland y My! But I'm Longing for Love [^lilly1910]. Por dentro, la canción está en Si bemol y en 3/4, marcada Moderato, con dos estrofas sobre la misma melodía y el estribillo en la página 4, con "Sweetheart" entre comillas [^lilly1910]. El catálogo de la Copyright Office la registra como publicada el 8 de abril de 1910; un ensayo de la Library of Congress da el 2 de abril de 1910 como fecha de inscripción, seis días antes [^cce1910][^sager].
 
+![[1]]
+
 **Vendida a Rossiter.** Un anuncio de la Harold Rossiter Music Company de 1911, en la contraportada de otra de sus canciones, imprime el estribillo de la canción sobre dos avisos: "Copyright MCMX by Leo Friedman, Chicago" y "Copyright Assigned Dec. 13, 1910 to Harold Rossiter Music Co., Chicago" [^jhu1911]. Rossiter la anunciaba allí como "la nueva sensación musical de los autores de 'Meet Me To-Night in Dreamland'", con una nueva portada en color [^jhu1911]. Las impresiones posteriores de Rossiter nombran a la propia empresa como dueña del copyright desde 1910 [^byu][^rossiter1925].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que Friedman vendió su gran éxito por un pago único y nunca participó en sus ganancias. Lo que muestran los documentos: las historias que leímos hablan de una venta por un pago único, pero de Meet Me To-Night in Dreamland. Una historia de la canción popular estadounidense de 1990 dice que Dreamland se vendió por un pago único a Will Rossiter, que se quedó con sus grandes ganancias sin compartirlas con los autores [^tawa1990]. Una antología de 1987 de los éxitos de la época coincide en que Will Rossiter compró Dreamland, y dice que, para Let Me Call You Sweetheart, Friedman acudió en cambio a Harold Rossiter y cobró regalías [^jasen1987]. La propia publicidad de Will Rossiter de 1911 lo contaba de otro modo: que había pagado 7000 dólares por Dreamland, y que Whitson, que vendía sus escritos desde su granja de Tennessee, se ganaba "una vida muy holgada con las regalías", sin decir qué canciones se las pagaban [^rossiter1911]. Ningún ejemplar que leímos dice cuánto pagó Harold Rossiter [^lilly1910][^jhu1911][^rossiter1925].
 
 **La segunda ola.** En la década de 1910 la canción se grabó solo unas pocas veces, primero en un cilindro Edison por el tenor Arthur Clough y después por el Columbia Quartette [^sager][^ers2004][^locblog]. Desde 1924 se volvió a grabar, entre otros por orquestas de baile, para Columbia, Victor y Edison [^sager][^victor1924][^edison1924]. La publicidad de Rossiter de 1925 la llamaba "la primera y única canción que jamás ha 'vuelto' en una segunda ola de popularidad": "uno de los grandes éxitos de 1911", era "ahora, una vez más, la canción popular más vendida del mercado" [^rossiter1925][^byu][^alberta1925]. Las cifras de ventas no coinciden: un anuncio de Rossiter de la década de 1920 habla de más de un millón de ejemplares, y la antología de 1987, de bastante más de seis millones [^alberta1925][^jasen1987]. Friedman murió en 1927 [^variety1927][^loc-friedman][^jwj], y Whitson, que se había mudado a Nashville, murió allí en 1930 [^tnenc][^loc-whitson]. En marzo de 2016, la Library of Congress incluyó la grabación de 1911 en el National Recording Registry, entre sus selecciones de 2015 [^sager][^locblog].
+
+![[3]]
 
 ### Cronología
 
@@ -112,6 +120,8 @@ me he enamorado de ti.
 ## Cómo se canta
 
 Let Me Call You Sweetheart es una canción popular de Tin Pan Alley, vendida como partitura para voz y piano, con el estribillo impreso una sola vez después de las dos estrofas y con finales de primera y segunda vez al cierre, así que se canta después de cada estrofa [^lilly1910][^sager]. Rossiter la publicó también para cuarteto mixto y masculino, orquesta y banda, y un cuarteto masculino hizo su grabación temprana más conocida [^rossiter1925][^byu][^sager][^locblog].
+
+![[4]]
 
 Nuestro arreglo toma la melodía y la letra del estribillo de la primera edición de Friedman, página 4, cada nota tal como está impresa, transportada un semitono arriba, de Si bemol a Si, en 3/4 [^lilly1910]. Cantamos el estribillo una vez, para 2 a 4 cantantes, todas las voces con la letra: soprano y contralto, luego el bajo y luego el tenor. La armonía es nuestra, en estilo barbershop. Desde "with you", en el segundo verso, los acordes dan la vuelta al círculo de quintas, Sol sostenido 7, Do sostenido 7 y Fa sostenido 7, a lo largo de "Let me hear you whisper that you", y llegan a Si en "love". Algunas notas se acortan para dejar sitio a la respiración, y la última nota se mantiene hasta el final de su compás.
 

@@ -16,6 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote annie laurie | who wrote bonnie annie laurie | who was annie laurie | when was annie laurie written | annie laurie song meaning | annie laurie song history | annie laurie song origin | maxwelton braes are bonnie | annie laurie lyrics
+original: Annie Laurie (New York: William Hall & Son, about 1850), Internet Archive | https://archive.org/details/b10258073
+listen: National Jukebox, 1912 recording | https://archive.org/details/loc-jukebox-131511-annie-laurie || National Jukebox, 1914 recording | https://archive.org/details/loc-jukebox-649596-annie-laurie
 ---
 
 Annie Laurie, also known by its first line, Maxwelton Braes Are Bonnie, is a Scottish love song. Its words grew from two old verses, said to be by a Mr Douglas of Fingland, about Anne Laurie, a daughter of the laird of Maxwelton in Dumfriesshire; their earliest known printing is in 1823 [^sharpe][^chambers1862][^fuld]. Alicia Spottiswoode, later Lady John Scott, reworked them, wrote a third verse and set them to a tune of her own in 1834 or 1835 [^warrender1911][^ross1910][^moffat]. It was printed in Edinburgh in 1838 without her name [^ross1910][^fuld]. By the early 1850s American publishers were selling it with Jenny Lind's portrait or name on the cover [^hall][^peters].
@@ -23,6 +25,8 @@ Annie Laurie, also known by its first line, Maxwelton Braes Are Bonnie, is a Sco
 ## Where it comes from
 
 **The old song.** In 1823 the Edinburgh collector Charles Kirkpatrick Sharpe printed A Ballad Book for his friends, only thirty copies by his own account [^sharpe][^ross1910]. Song XXXVII begins "Maxwelton banks are bonnie, Whare early fa's the dew", in two verses that end "I'd lay down my head and die". Sharpe's note says that Anne Laurie was famous for her beauty and won the heart of Mr Douglas of Fingland, "who is said to have composed the following verses". Unluckily for him, she married Mr Ferguson of Craigdarroch [^sharpe]. In 1825 the poet Allan Cunningham reprinted it from Sharpe in his Songs of Scotland [^cunningham1825][^graham]. No earlier printing is known [^fuld][^chambers1862][^moffat], and later editors thought its second verse partly borrowed: Graham from an old John Anderson, My Jo, Moffat from a Percy manuscript song [^graham][^moffat].
+
+![[1]]
 
 **The real Annie Laurie.** Anne Laurie was born in 1682 to Sir Robert Laurie and his wife Jean Riddell [^ross1910][^reddall][^fergusson1895]. In 1709 she married Alexander Fergusson of Craigdarroch, whose family papers kept her marriage contract and will [^fergusson1895][^ross1910]. Maxwelton, her home, still stands by the Cairn Water in Glencairn parish: a listed house, largely 17th-century, with a stone dated 1641 from her grandparents' time [^chambers1862][^hes][^ross1910].
 
@@ -32,7 +36,11 @@ Annie Laurie, also known by its first line, Maxwelton Braes Are Bonnie, is a Sco
 
 **Printed without her name.** The earliest known printing is in the third volume of The Vocal Melodies of Scotland, arranged by Finlay Dun and John Thomson for Paterson & Roy of Edinburgh. Its preface is dated October 1838, and Annie Laurie is No. 27, on page 89, with no author or composer named [^fuld][^ross1910]. Her grand-niece wrote that it appeared without her knowledge, taken, Lady John believed, when her music book was sent away to be rebound [^warrender1911]. Graham's Songs of Scotland, in the late 1840s, called the air "quite modern" and named the composer only as "Lady J" and "S" and "t", the rest of John Scott printed as dashes [^graham]. In 1862 Robert Chambers still wrote of "a living lady of rank" [^chambers1862]. Her name appeared with it at last in a set of her songs sold for soldiers' families of the Crimean War: in 1854, Ross says, while her grand-niece places it after the war [^ross1910][^warrender1911].
 
+![[2]]
+
 **The New York printing we read.** Our arrangement is read from a sheet published by William Hall & Son of New York, plate 793; its library dates it about 1848 from the publisher's address [^hall]. Its cover, a portrait of Jenny Lind listing Annie Laurie as No. 7 of eight songs, suggests a little later: Lind's American tour opened in New York in September 1850 [^hall][^nps][^epochs]. Inside are four pages for voice and piano, marked Moderato, with all three verses and no author or composer named [^hall]. A Cincinnati edition of the same notes came in a series whose cover reads "Selection of Scotch Songs as sung by Jenny Lind", with Annie Laurie as No. 4; inside, it is headed "as sung by Catherine Hayes" [^peters].
+
+![[3]]
 
 **A poem from the Crimea.** The American poet Bayard Taylor tied the song to the Crimean War in a poem, The Song of the Camp: on the eve of an attack, soldiers in the trenches facing the Redan ask for a song, and "all sang 'Annie Lawrie'" [^taylor1865]. It is a poet's picture, not a report.
 

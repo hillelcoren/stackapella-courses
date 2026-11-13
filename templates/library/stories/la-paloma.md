@@ -15,6 +15,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote la paloma | la paloma meaning in english | la paloma song meaning line by line | la paloma song history | la paloma lyrics in spanish and english | la paloma cuba | la paloma canción mexicana | quién escribió la paloma | la paloma significado | la paloma historia
+original: La Paloma (New York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
+listen: National Jukebox, 1902 recording | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, 1903 recording | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---
 
 La Paloma, "the dove", is a habanera, a song in the rhythm of the Cuban dance of that name, by the Basque composer Sebastián Iradier, also printed as Yradier [^century1906][^henriquezurena1947][^bnf-iradier]. A man leaves Havana, and the refrain asks his love: if a dove comes to your window, treat it kindly, for it is me [^century1906]. Iradier called it a "canción americana", an American song, and published it himself in Madrid by 1859 [^boletin1861][^bnf-work]. It travelled fast. By 1878 it was printed in Boston with English words, a Portuguese novel, in its 1889 edition, has a young woman sing it at the piano, and by about 1896 it was on a gramophone disc [^ava1887][^eca1889][^bnf-1896].
@@ -25,9 +27,15 @@ La Paloma, "the dove", is a habanera, a song in the rhythm of the Cuban dance of
 
 **Cuba.** Later historians say Iradier lived or travelled for years in Cuba [^henriquezurena1947][^livermore1972][^lexdk], where, a Danish encyclopedia says, he came to know the habanera [^lexdk]. A Cuban dictionary of 1862 describes the island's favourite dance, the danza, in 2/4, and says it was formerly called the contradanza [^pichardo1862]. When, and for how long, the sources we have read do not agree, so we leave the dates out. The song itself points to Havana: its first line is "Cuando salí de la Habana", when I left Havana [^century1906].
 
+![[1]]
+
 **Registered in Madrid.** The earliest record of the song we have found is a Madrid list of works registered as literary property, printed in 1861 in the Boletín bibliográfico español. Entry 917 reads: "LA PALOMA, cancion americana con acompañamiento de piano, música de D. Sebastian Iradier, editor. Madrid, 1859. En folio." It sits in the list for December 1860, the month the edition was presented at the Ministry of Development. The list names Iradier himself as "editor", the publisher, as it does for each of his songs there, and the song was for voice and piano, in an edition dated 1859 [^boletin1861]. Four entries earlier, his "Juanita ó la perla de Aragon, cancion española" is dated 1857 [^boletin1861]. The Bibliothèque nationale de France, citing the Grove dictionary, records the same order: published first in Spanish in Madrid in 1859, then in French in Paris in 1864 [^bnf-work]. That September the Paris weekly Le Ménestrel offered it to subscribers as "La Paloma (Colombe)", No. 14 of 25 Iradier songs with French words [^menestrel1864]. A Danish encyclopedia dates the song about 1863, after Cuba [^lexdk]; the Madrid list shows it was in print earlier.
 
+![[2]]
+
 **The pages we read.** Our arrangement comes from a New York edition, copyright 1906, Century Music's "Vocal Blossoms" series, No. 84, "La Paloma, Low, C, Yradier" [^century1906]. Page 2 is headed "LA PALOMA. CANCIÓN AMERICANA.", with English words by "M. H. R." over the Spanish. Under the Spanish a previous owner pencilled a word-for-word English gloss, starting on page 2 with "When I came up from the havana protect me God" [^century1906]. We checked it against the Artists' Vocal Album of 1887 (Boston, White, Smith & Co.), where the song is "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", its page marked "Copyright, 1878" [^ava1887]. Both prints have the same first verse and the same patter coda.
+
+![[3]]
 
 **Myth and record.** Often told: La Paloma was a favourite at the Mexican court of the Emperor Maximilian and the Empress Carlota. A Danish encyclopedia says it spread in Mexico under Maximilian, both at court and among his opponents, who sang mocking words to it [^lexdk], and a 1972 history of Spanish music says the song outlived the two empires it served, Eugénie's in France and Carlota's in Mexico [^livermore1972]. What the record shows: we have found no document from the court itself that names the song. What is in print is that Mexican liberals sang parodies of it [^siller][^lexdk]. A study of the songs of the French Intervention counts "La nueva Paloma" among the popular songs against the invader; it follows Iradier's verse line by line, from "Cuando salí del Congreso", when I left Congress, and rewrites his coda about the Austrians [^siller].
 

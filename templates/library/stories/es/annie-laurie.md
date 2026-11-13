@@ -16,7 +16,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió annie laurie | quién era annie laurie | annie laurie significado | annie laurie historia | annie laurie letra traducción | maxwelton braes are bonnie significado
-translatedFrom: d4466265004b
+translatedFrom: 095b51ceac61
+original: Annie Laurie (Nueva York: William Hall & Son, hacia 1850), Internet Archive | https://archive.org/details/b10258073
+listen: National Jukebox, grabación de 1912 | https://archive.org/details/loc-jukebox-131511-annie-laurie || National Jukebox, grabación de 1914 | https://archive.org/details/loc-jukebox-649596-annie-laurie
 ---
 
 Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie, es una canción de amor escocesa. Su letra nació de dos estrofas antiguas que, según se dice, escribió un tal señor Douglas de Fingland, sobre Anne Laurie, hija del laird (un terrateniente escocés) de Maxwelton, en Dumfriesshire; su primera impresión conocida es de 1823 [^sharpe][^chambers1862][^fuld]. Alicia Spottiswoode, más tarde Lady John Scott, las rehízo, escribió una tercera estrofa y les puso una melodía propia en 1834 o 1835 [^warrender1911][^ross1910][^moffat]. Se imprimió en Edimburgo en 1838 sin su nombre [^ross1910][^fuld]. A principios de la década de 1850, los editores estadounidenses ya la vendían con el retrato o el nombre de Jenny Lind en la portada [^hall][^peters].
@@ -24,6 +26,8 @@ Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie,
 ## De dónde viene
 
 **La canción antigua.** En 1823, el coleccionista de Edimburgo Charles Kirkpatrick Sharpe imprimió A Ballad Book para sus amigos, solo treinta ejemplares según su propio relato [^sharpe][^ross1910]. La canción XXXVII empieza "Maxwelton banks are bonnie, Whare early fa's the dew", en dos estrofas que terminan "I'd lay down my head and die". La nota de Sharpe dice que Anne Laurie era famosa por su belleza y que conquistó el corazón del señor Douglas de Fingland, "de quien se dice que compuso los versos siguientes". Por desgracia para él, ella se casó con el señor Ferguson de Craigdarroch [^sharpe]. En 1825, el poeta Allan Cunningham la reimprimió, tomada de Sharpe, en sus Songs of Scotland [^cunningham1825][^graham]. No se conoce ninguna impresión anterior [^fuld][^chambers1862][^moffat], y editores posteriores pensaron que su segunda estrofa era en parte prestada: Graham, de una antigua John Anderson, My Jo; Moffat, de una canción de un manuscrito de Percy [^graham][^moffat].
+
+![[1]]
 
 **La verdadera Annie Laurie.** Anne Laurie nació en 1682, hija de sir Robert Laurie y de su esposa, Jean Riddell [^ross1910][^reddall][^fergusson1895]. En 1709 se casó con Alexander Fergusson de Craigdarroch, cuyos papeles familiares conservaron su contrato matrimonial y su testamento [^fergusson1895][^ross1910]. Maxwelton, su casa, sigue en pie junto al Cairn Water, en la parroquia de Glencairn: un edificio protegido, en gran parte del siglo XVII, con una piedra fechada en 1641, de la época de sus abuelos [^chambers1862][^hes][^ross1910].
 
@@ -33,7 +37,11 @@ Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie,
 
 **Impresa sin su nombre.** La primera impresión conocida está en el tercer volumen de The Vocal Melodies of Scotland, con arreglos de Finlay Dun y John Thomson, para Paterson & Roy, de Edimburgo. Su prefacio está fechado en octubre de 1838, y Annie Laurie es el n.º 27, en la página 89, sin nombre de autor ni de compositor [^fuld][^ross1910]. Su sobrina nieta escribió que apareció sin que ella lo supiera, copiada, según creía Lady John, cuando su cuaderno de música se mandó a reencuadernar [^warrender1911]. Las Songs of Scotland de Graham, a finales de la década de 1840, llamaban a la melodía "bastante moderna" y nombraban a la compositora solo con las letras "Lady J", "S" y "t": el resto de John Scott se imprimió con rayas [^graham]. En 1862, Robert Chambers aún escribía sobre "una dama de alcurnia, todavía viva" [^chambers1862]. Su nombre apareció por fin junto a la canción en una colección de sus canciones vendida a beneficio de las familias de los soldados de la guerra de Crimea: en 1854, según Ross, mientras que su sobrina nieta lo sitúa después de la guerra [^ross1910][^warrender1911].
 
+![[2]]
+
 **La impresión de Nueva York que hemos leído.** Nuestro arreglo está tomado de una partitura publicada por William Hall & Son, de Nueva York, plancha 793; su biblioteca la fecha hacia 1848 por la dirección del editor [^hall]. Su portada, un retrato de Jenny Lind que incluye Annie Laurie como n.º 7 de ocho canciones, apunta a algo más tarde: la gira estadounidense de Lind empezó en Nueva York en septiembre de 1850 [^hall][^nps][^epochs]. Dentro hay cuatro páginas para voz y piano, marcadas Moderato, con las tres estrofas y sin nombre de autor ni de compositor [^hall]. Una edición de Cincinnati con las mismas notas salió en una serie cuya portada dice "Selection of Scotch Songs as sung by Jenny Lind", con Annie Laurie como n.º 4; dentro, lleva el encabezado "as sung by Catherine Hayes" [^peters].
+
+![[3]]
 
 **Un poema desde Crimea.** El poeta estadounidense Bayard Taylor unió la canción a la guerra de Crimea en un poema, The Song of the Camp: la víspera de un ataque, los soldados de las trincheras frente al Redán piden una canción, y "all sang 'Annie Lawrie'" (todos cantaron Annie Lawrie) [^taylor1865]. Es la imagen de un poeta, no una crónica.
 

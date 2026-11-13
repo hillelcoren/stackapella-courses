@@ -16,11 +16,13 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: keep on the sunny side significado | keep on the sunny side historia | quién escribió keep on the sunny side | keep on the sunny side carter family | keep on the sunny side o brother | keep on the sunny side letra en español
-translatedFrom: 5fc8c76025ac
-original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen/page/n131
+translatedFrom: 71d6bc61797a
+original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen
 ---
 
 Keep on the Sunny Side, impresa en 1899 como "Keep On the Sunny Side of Life", es una canción evangélica con letra de Ada Blenkhorn y música de J. Howard Entwisle [^bm1899][^hymnary-text]. Su primera impresión conocida está en Bright Melodies, un cancionero de Filadelfia hecho "para la escuela dominical y las sociedades de jóvenes" [^bm1899][^hymnary-text]. En mayo de 1928, la Carter Family, es decir, A. P., Sara y Maybelle Carter, la grabó para Victor en Camden, Nueva Jersey [^ev-ap][^fw32431]. Se convirtió en el tema de presentación del trío, la canción con la que solían abrir sus programas de radio [^cmhof][^fw32431][^delrio]. En 2000 volvió a oírse en la banda sonora de la película O Brother! (O Brother, Where Art Thou?, 2000) [^umusic][^stinfo].
+
+![[1]]
 
 ## De dónde viene
 
@@ -29,6 +31,8 @@ Keep on the Sunny Side, impresa en 1899 como "Keep On the Sunny Side of Life", e
 **El lado soleado de la calle.** El libro de Gabriel de 1916 trazaba semblanzas de autores vivos de himnos evangélicos, y Blenkhorn seguía viva y escribiendo. Gabriel nombró "Keep On the Sunny Side of Life" entre sus himnos más conocidos y, con sus propias palabras y no con las de ella, contó de dónde salió: a ella se le ocurrió la idea mientras llevaba en su silla de ruedas a un sobrino enfermo, que siempre quería ir "por el lado soleado de la calle" ("on the sunny side of the street") [^gabriel1916]. Los relatos posteriores lo repiten [^ldsh].
 
 **La melodía y la página de 1899.** J. Howard Entwisle era músico y editor de cancioneros en Filadelfia en la década de 1890 [^hymnary-entwisle][^bm1899]. Con John R. Sweney editó Bright Melodies, publicado en 1899 por John J. Hood, de Filadelfia y Chicago, a treinta centavos el ejemplar [^bm1899][^hymnary-entwisle]. Entwisle murió en 1901, dos años después de que se imprimiera la canción [^showalter1904][^hymnary-entwisle]. El prefacio de los editores dice que el libro se hizo para escuelas dominicales y sociedades de jóvenes, y que mezcla canciones nuevas de "los principales autores de cantos sagrados del momento" con otras favoritas ya probadas en el uso [^bm1899]. La canción está en la página 128, con el título en letra gótica, "Ada Blenkhorn." a la izquierda y "J. Howard Entwisle." a la derecha [^bm1899]. Está escrita a cuatro voces en dos pentagramas, en notación corriente de cabezas redondas, en La bemol y en cuatro tiempos, con un ritmo saltarín con puntillo en casi todos los tiempos. Entre los pentagramas van tres estrofas, luego un estribillo, y al pie se lee "Copyright, 1899, by J. Howard Entwisle" [^bm1899]. En la página anterior está "Abide with Me"; en la siguiente, una canción de Ida L. Reed que empieza "Gladly the bells are ringing" [^bm1899]. El ejemplar digitalizado lleva el ex libris del himnólogo Louis FitzGerald Benson, que legó su biblioteca al Princeton Theological Seminary [^bm1899][^hymnary-benson].
+
+![[2]]
 
 **Heavenly Sunlight, 1900.** Un año después, Entwisle volvió a imprimirla como n.º 40 de Heavenly Sunlight, un libro que compiló con otros, publicado por MacCalla and Company, de Dock Street, en Filadelfia [^hs1900][^hymnary-entwisle]. La partitura es la misma, línea por línea, ahora bajo un encabezado sencillo en mayúsculas, con el año del copyright en números romanos y "His care" con mayúscula [^hs1900][^bm1899]. Es la impresión de la que está tomado nuestro arreglo.
 

@@ -13,12 +13,13 @@ alsoKnownAs: When Peace, Like a River; Alcancé salvación; Estoy bien con mi Di
 wikidata: Q1998326
 quote: El jueves pasado pasamos por encima del lugar donde se hundió
 quoteSource: spaffordhymn
-original: Gospel Hymns No. 2 (1876), n.º 76, p. 78, Internet Archive | https://archive.org/details/hymnsno02blis/page/n81
+original: Gospel Hymns No. 2 (1876), Internet Archive | https://archive.org/details/hymnsno02blis
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: estoy bien con mi dios historia | alcancé salvación himno historia | quién escribió it is well with my soul y por qué | it is well with my soul historia | it is well with my soul significado | it is well with my soul versículo bíblico
-translatedFrom: 7f533d6ad25f
+translatedFrom: c9562e712b0d
+listen: National Jukebox, grabación de 1906 | https://archive.org/details/loc-jukebox-422502-it-is-well-with-my-soul
 ---
 
 It Is Well with My Soul, también llamado When Peace, Like a River y cantado en español como "Alcancé salvación" o "Estoy bien con mi Dios" [^hymnary-es2016][^hymnary-es-text], es un himno evangélico de confianza en Dios en medio del duelo. Su letra es de Horatio G. Spafford, abogado de Chicago cuyas cuatro hijas se ahogaron al hundirse el vapor francés Ville du Havre en noviembre de 1873 [^loc-family][^hymnarchive]. Su melodía es de Philip P. Bliss y lleva el nombre del barco [^hymnarchive][^hymnary-text]. La primera impresión conocida de letra y melodía juntas es el n.º 76 de Gospel Hymns No. 2, el cancionero de 1876 de Bliss e Ira D. Sankey [^gh2][^motb]. Hoy figura en más de 600 himnarios, y las iglesias lo cantan a menudo tras una tragedia [^hymnary-text].
@@ -27,9 +28,15 @@ It Is Well with My Soul, también llamado When Peace, Like a River y cantado en 
 
 **El naufragio.** Horatio Spafford era un próspero abogado de Chicago y un presbiteriano devoto, casado con Anna [^loc-family][^hymnarchive]. Según relatos de la familia, ya había perdido buena parte de sus bienes en el incendio de Chicago de octubre de 1871 [^hymnarchive][^hymnary-text]. En noviembre de 1873, Anna y sus cuatro hijas, Annie, Maggie, Bessie y Tanetta, zarparon hacia Europa en el Ville du Havre, mientras Horatio se quedaba en casa por negocios [^loc-family][^hymnarchive]. Un barco británico, el Loch Earn, embistió al vapor, que se hundió en unos doce minutos [^hymnarchive][^loc-family][^maritimequest]. Hymnology Archive, el Canterbury Dictionary y MaritimeQuest fechan el naufragio el 22 de noviembre; la exposición de la Biblioteca del Congreso da el 21 de noviembre [^hymnarchive][^canterbury][^maritimequest][^loc-family]. De las 313 personas a bordo, perecieron más de doscientas [^hymnarchive][^maritimequest]. A Anna la sacaron del agua inconsciente; las cuatro niñas perecieron [^loc-family][^hymnarchive][^sankey]. Los supervivientes pasaron a otro barco, el Trimountain, que los desembarcó en Cardiff, en Gales [^loc-family][^hymnarchive]. Desde allí Anna envió un cable a su marido: "Saved alone" (salvada, sola) [^sankey][^loc-family][^hymnarchive]. En la exposición de la Biblioteca del Congreso el telegrama sigue: "What shall I do" (qué debo hacer) [^loc-family]. El telegrama se conserva en la Biblioteca del Congreso [^loc-family][^hymnarchive].
 
+![[1]]
+
 **La letra.** Spafford salió de Chicago de inmediato para traer a su mujer a casa [^loc-family][^hymnary-text]. Su amigo el evangelista Dwight L. Moody, que entonces predicaba en Gran Bretaña, fue a consolar a los Spafford [^sankey][^hymnary-text]. En una carta escrita durante esa travesía, Spafford contó: "El jueves pasado pasamos por encima del lugar donde se hundió, en medio del océano" [^hymnarchive][^spaffordhymn]. Según la familia, escribió el himno en ese viaje, cerca del lugar donde habían muerto sus hijas [^loc-family][^canterbury]. Su copia manuscrita, en papel de carta del Brevoort House, un hotel de Chicago, está hoy en la Biblioteca del Congreso [^hymnarchive][^spaffordhymn-ms]; no se sabe con certeza cuándo la escribió (más abajo se explica). Spafford volvió a imprimir el poema en su propia colección, Waiting for the Morning, en Chicago, en 1878 [^loc-jerusalem][^hymnarchive].
 
+![[2]]
+
 **La melodía.** Philip P. Bliss, nacido en el condado de Clearfield, Pensilvania, en 1838, fue un cantante y compositor de canciones evangélicas que trabajó con Moody y Sankey [^hymnary-bliss][^motb]. Ira Sankey recordaba que Bliss escribió la música y la cantó por primera vez en una reunión en el Farwell Hall de Chicago [^sankey][^hymnarchive]. La melodía se llama VILLE DU HAVRE, por el barco [^hymnarchive][^hymnary-text]. En Gospel Hymns No. 2 el himno lleva el encabezado "It Is Well with My Soul", va firmado "H. G. Spafford" y "P. P. Bliss, by per.", es decir, con permiso, y tiene cuatro estrofas y un estribillo [^gh2][^hymnary-gh2].
+
+![[3]]
 
 **La muerte de Bliss.** A finales de ese año, la noche del 29 de diciembre de 1876, Bliss y su mujer viajaban en tren hacia Chicago. Cuando el tren cruzaba el río en Ashtabula, Ohio, en plena tormenta de invierno, el puente de hierro cedió, y los vagones cayeron al barranco y se incendiaron [^whittle][^chi]. Murieron los dos, y sus restos nunca se identificaron [^whittle][^chi]. Él tenía 38 años [^motb][^hymnary-bliss]. El Dictionary of Hymnology de John Julian da como fecha el 30 de diciembre [^hymnary-bliss].
 
@@ -63,6 +70,8 @@ Gospel Hymns No. 2 imprime cuatro estrofas, cada una seguida del estribillo, y l
 ### La letra completa
 
 Las cuatro estrofas y el estribillo tal como los imprimió Gospel Hymns No. 2 en 1876; el estribillo se da una sola vez, aunque el libro lo canta después de cada estrofa, y sus rayas se escriben como comas [^gh2]. El libro del propio Spafford, de 1878, la imprime en cuatro estrofas; el reverso de su manuscrito tiene dos estrofas más a lápiz, una de ellas un primer intento de la cuarta, y una edición británica de hacia 1877 tiene cinco [^hymnarchive].
+
+![[4]]
 
 **Estrofa 1**
 > When peace, like a river, attendeth my way,

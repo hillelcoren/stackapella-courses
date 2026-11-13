@@ -13,11 +13,12 @@ alsoKnownAs: When Peace, Like a River
 wikidata: Q1998326
 quote: On Thursday last we passed over the spot where she went down
 quoteSource: spaffordhymn
-original: Gospel Hymns No. 2 (1876), No. 76, p. 78, Internet Archive | https://archive.org/details/hymnsno02blis/page/n81
+original: Gospel Hymns No. 2 (1876), Internet Archive | https://archive.org/details/hymnsno02blis
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote it is well with my soul and why | it is well with my soul story | it is well with my soul history behind the song | it is well with my soul bible verse | it is well with my soul meaning behind the song | who wrote it is well with my soul originally
+listen: National Jukebox, 1906 recording | https://archive.org/details/loc-jukebox-422502-it-is-well-with-my-soul
 ---
 
 It Is Well with My Soul, also known by its first line, When Peace, Like a River, is a gospel hymn of trust in God through grief. Its words are by Horatio G. Spafford, a Chicago lawyer whose four daughters drowned when the French steamer Ville du Havre sank in the Atlantic in November 1873 [^loc-family][^hymnarchive]. Its tune is by Philip P. Bliss and is named after the ship [^hymnarchive][^hymnary-text]. The earliest known printing of words and tune together is No. 76 in Gospel Hymns No. 2, the 1876 songbook Bliss and Ira D. Sankey compiled for their revival meetings [^gh2][^motb]. Hymnary.org now indexes it in more than 600 hymnals, and the Psalter Hymnal Handbook notes that churches often sing it after a tragedy [^hymnary-text].
@@ -26,9 +27,15 @@ It Is Well with My Soul, also known by its first line, When Peace, Like a River,
 
 **The wreck.** Horatio Spafford was a prosperous Chicago lawyer and a devout Presbyterian, married to Anna [^loc-family][^hymnarchive]. By family accounts he had already lost much of his property in the Chicago fire of October 1871 [^hymnarchive][^hymnary-text]. In November 1873 Anna and their four daughters, Annie, Maggie, Bessie and Tanetta, sailed for Europe on the Ville du Havre, while Horatio stayed behind on business [^loc-family][^hymnarchive]. A British ship, the Loch Earn, struck the steamer, and she sank in about twelve minutes [^hymnarchive][^loc-family][^maritimequest]. Hymnology Archive, the Canterbury Dictionary and MaritimeQuest date the wreck 22 November; the Library of Congress's exhibition gives 21 November [^hymnarchive][^canterbury][^maritimequest][^loc-family]. Of the 313 people aboard, more than two hundred were lost [^hymnarchive][^maritimequest]. Anna was pulled from the water unconscious; the four girls were lost [^loc-family][^hymnarchive][^sankey]. The survivors were moved to another ship, the Trimountain, which landed them at Cardiff in Wales [^loc-family][^hymnarchive]. From there Anna cabled her husband: "Saved alone" [^sankey][^loc-family][^hymnarchive]. In the Library of Congress's exhibition the telegram goes on, "What shall I do" [^loc-family]. The telegram survives in the Library of Congress [^loc-family][^hymnarchive].
 
+![[1]]
+
 **The words.** Spafford left Chicago at once to bring his wife home [^loc-family][^hymnary-text]. Their friend the evangelist Dwight L. Moody, then preaching in Britain, went to comfort the Spaffords [^sankey][^hymnary-text]. In a letter from that crossing Spafford wrote: "On Thursday last we passed over the spot where she went down, in mid-ocean" [^hymnarchive][^spaffordhymn]. The family's account is that he wrote the hymn on that voyage, near the place where his daughters died [^loc-family][^canterbury]. His handwritten copy, on the notepaper of the Brevoort House, a Chicago hotel, is now in the Library of Congress [^hymnarchive][^spaffordhymn-ms]; when he wrote it out is not known for certain (see below). Spafford printed the poem again in his own collection, Waiting for the Morning, in Chicago in 1878 [^loc-jerusalem][^hymnarchive].
 
+![[2]]
+
 **The tune.** Philip P. Bliss, born in Clearfield County, Pennsylvania, in 1838, was a gospel singer and songwriter who worked with Moody and Sankey [^hymnary-bliss][^motb]. Ira Sankey recalled that Bliss wrote the music and sang it for the first time at a meeting in Farwell Hall, Chicago [^sankey][^hymnarchive]. The tune is called VILLE DU HAVRE, after the ship [^hymnarchive][^hymnary-text]. In Gospel Hymns No. 2 the hymn is headed "It Is Well with My Soul", signed "H. G. Spafford" and "P. P. Bliss, by per.", meaning by permission, with four verses and a chorus [^gh2][^hymnary-gh2].
+
+![[3]]
 
 **Bliss's death.** At the end of that year, on the evening of 29 December 1876, Bliss and his wife were on a train to Chicago. As it crossed the river at Ashtabula, Ohio, in a winter storm, the iron bridge gave way, the cars fell into the gorge and caught fire [^whittle][^chi]. Bliss and his wife both died, and their remains were never identified [^whittle][^chi]. He was 38 [^motb][^hymnary-bliss]. John Julian's Dictionary of Hymnology gives the date as 30 December [^hymnary-bliss].
 
@@ -62,6 +69,8 @@ Gospel Hymns No. 2 prints four verses, each followed by the chorus, and heads th
 ### The full words
 
 The four verses and the chorus as Gospel Hymns No. 2 printed them in 1876, the chorus given once though the book sings it after every verse, and its dashes written as commas [^gh2]. Spafford's own book of 1878 prints it in four verses; the back of his manuscript has two more stanzas in pencil, one an early try at the fourth, and a British printing of about 1877 has five [^hymnarchive].
+
+![[4]]
 
 **Verse 1**
 When peace, like a river, attendeth my way,

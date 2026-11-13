@@ -17,6 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote let me call you sweetheart | let me call you sweetheart when was it written | when did let me call you sweetheart come out | who wrote and sang let me call you sweetheart | who originally sang let me call you sweetheart | let me call you sweetheart original singer | let me call you sweetheart original | is let me call you sweetheart public domain | what is let me call you sweetheart about | what genre is let me call you sweetheart | let me call you sweetheart history | when was the song let me call you sweetheart popular | let me call you sweetheart meaning | let me call you sweetheart lyrics meaning | let me call you sweetheart lyrics | let me call you sweetheart sheet music
+original: Leo Friedman's 1910 edition, Lilly Library, Indiana University | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-244050
+listen: National Jukebox, 1911 recording | https://archive.org/details/loc-jukebox-646117-let-me-call-you-sweetheart || National Jukebox, 1924 recording | https://archive.org/details/loc-jukebox-71293-let-me-call-you-sweetheart-i-m-in-love-with-you
 ---
 
 Let Me Call You Sweetheart, printed with the subtitle I'm in Love with You, is a waltz song of 1910 with words by Beth Slater Whitson and music by Leo Friedman [^lilly1910][^cce1910]. Friedman, a Chicago songwriter, published it himself that April, and in December sold the copyright to the Harold Rossiter Music Company [^lilly1910][^cce1910][^jhu1911]. Its publisher later called it one of the big hits of 1911, the year a quartet recorded it for Columbia [^rossiter1925][^sager][^locblog]. Then it faded, and in the mid-1920s it came back so strongly that the same publisher claimed no song had ever returned like it [^rossiter1925][^sager]. Its chorus asks for one thing: to call someone sweetheart, and to hear them whisper that they love you too [^lilly1910].
@@ -27,11 +29,17 @@ Let Me Call You Sweetheart, printed with the subtitle I'm in Love with You, is a
 
 **The first printing.** The copy we read, in the Lilly Library at Indiana University, is Friedman's own edition, "Published by Leo Friedman, 59 Dearborn St. Chicago, Ill." and "Copyright 1910 by Leo Friedman" [^lilly1910]. Its cover, signed H. Sass, frames a portrait of a young woman in a rose-trimmed hat with green roses and swallows; a small photograph of Friedman sits in a diamond lettered "Songs with the Harmony", and both writers are billed as the writers of Meet Me To-Night in Dreamland and My! But I'm Longing for Love [^lilly1910]. Inside, the song is in B-flat and 3/4, marked Moderato, with two verses on one tune and the chorus on page 4, "Sweetheart" in quotation marks [^lilly1910]. The Copyright Office's catalogue records it as published on 8 April 1910; a Library of Congress essay gives 2 April 1910 as the registration date, six days earlier [^cce1910][^sager].
 
+![[1]]
+
 **Sold to Rossiter.** A Harold Rossiter Music Company advertisement of 1911, on the back cover of another of its songs, prints the song's chorus above two notices: "Copyright MCMX by Leo Friedman, Chicago" and "Copyright Assigned Dec. 13, 1910 to Harold Rossiter Music Co., Chicago" [^jhu1911]. Rossiter advertised it there as "the new song sensation by the writers of 'Meet Me To-Night in Dreamland'", with a new title page in colour [^jhu1911]. Later Rossiter printings name the firm itself as copyright owner from 1910 [^byu][^rossiter1925].
+
+![[2]]
 
 **Myth and record.** Often told: Friedman sold his great hit outright and never shared in its earnings. What the record shows: the histories we read tell of an outright sale, but of Meet Me To-Night in Dreamland. A 1990 history of American popular song says Dreamland was sold outright to Will Rossiter, who kept its large earnings from the writers [^tawa1990]. A 1987 anthology of the period's hits agrees that Will Rossiter bought Dreamland, and says that for Let Me Call You Sweetheart Friedman went to Harold Rossiter instead and was paid a royalty [^jasen1987]. Will Rossiter's own 1911 advertising told it another way: that he had paid $7,000 for Dreamland, and that Whitson, who sold her writings from her Tennessee farm, was making "a very comfortable living from the royalties", without saying which songs paid them [^rossiter1911]. No copy we read says what Harold Rossiter paid [^lilly1910][^jhu1911][^rossiter1925].
 
 **The second wave.** The song was recorded only a few times in the 1910s, first on an Edison cylinder by the tenor Arthur Clough, then by the Columbia Quartette [^sager][^ers2004][^locblog]. From 1924 it was recorded again, by dance orchestras among others, for Columbia, Victor and Edison [^sager][^victor1924][^edison1924]. Rossiter's advertising of 1925 called it "the first and only song that has ever 'come back' into a second wave of popularity": "one of the big song hits of 1911", it was "now once again the biggest selling popular song on the market" [^rossiter1925][^byu][^alberta1925]. Sales figures differ: a Rossiter advertisement of the 1920s says over one million copies, the 1987 anthology well over six million [^alberta1925][^jasen1987]. Friedman died in 1927 [^variety1927][^loc-friedman][^jwj], and Whitson, who had moved to Nashville, died there in 1930 [^tnenc][^loc-whitson]. In March 2016 the Library of Congress added the 1911 record to the National Recording Registry, among its selections for 2015 [^sager][^locblog].
+
+![[3]]
 
 ### Timeline
 
@@ -87,6 +95,8 @@ I'm in love with you.
 ## How it is sung
 
 Let Me Call You Sweetheart is a Tin Pan Alley popular song, sold as sheet music for voice and piano, with the chorus printed once after the two verses and first and second endings at its close, so it is sung after each verse [^lilly1910][^sager]. Rossiter also published it for mixed and male quartet, orchestra and band, and a male quartet made its best-known early record [^rossiter1925][^byu][^sager][^locblog].
+
+![[4]]
 
 Our arrangement takes the melody and words of the chorus from Friedman's first edition, page 4, every pitch as printed, moved up a semitone from B-flat to B, in 3/4 [^lilly1910]. We sing the chorus once, for 2 to 4 singers, all on the words: soprano and alto, then the bass, then the tenor. The harmony is our own, in barbershop style. From "with you" in the second line the chords step round the circle of fifths, G-sharp 7, C-sharp 7 and F-sharp 7, through "Let me hear you whisper that you", and land on B at "love". A few notes are shortened to leave room to breathe, and the last note is held to the end of its bar.
 

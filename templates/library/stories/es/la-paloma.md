@@ -15,7 +15,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió la paloma | la paloma significado | la paloma historia | la paloma de iradier | la paloma letra completa | la paloma habanera cuba
-translatedFrom: 2a578cad18ec
+translatedFrom: 6a3c5e98aea6
+original: La Paloma (Nueva York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
+listen: National Jukebox, grabación de 1902 | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, grabación de 1903 | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---
 
 La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese nombre, del compositor vasco Sebastián Iradier, cuyo apellido también se imprimió Yradier [^century1906][^henriquezurena1947][^bnf-iradier]. Un hombre sale de La Habana, y el estribillo le pide a su amada: si a tu ventana llega una paloma, trátala con cariño, que soy yo [^century1906]. Iradier la llamó "canción americana", y ya la había publicado él mismo en Madrid en 1859 [^boletin1861][^bnf-work]. Viajó deprisa. En 1878 ya se imprimía en Boston con letra en inglés; en la edición de 1889 de una novela portuguesa, una joven la canta al piano, y hacia 1896 ya estaba en un disco de gramófono [^ava1887][^eca1889][^bnf-1896].
@@ -26,9 +28,15 @@ La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese n
 
 **Cuba.** Historiadores posteriores dicen que Iradier vivió o viajó durante años por Cuba [^henriquezurena1947][^livermore1972][^lexdk], donde, según una enciclopedia danesa, conoció la habanera [^lexdk]. Un diccionario cubano de 1862 describe el baile favorito de la isla, la danza, en 2/4, y dice que antes se llamaba contradanza [^pichardo1862]. En cuanto a cuándo y por cuánto tiempo, las fuentes que hemos leído no coinciden, así que no damos fechas. La propia canción apunta a La Habana: su primer verso es "Cuando salí de la Habana" [^century1906].
 
+![[1]]
+
 **Registrada en Madrid.** El registro más antiguo de la canción que hemos encontrado es una lista madrileña de obras inscritas como propiedad literaria, impresa en 1861 en el Boletín bibliográfico español. La entrada 917 dice: "LA PALOMA, cancion americana con acompañamiento de piano, música de D. Sebastian Iradier, editor. Madrid, 1859. En folio." Figura en la lista de diciembre de 1860, el mes en que la edición se presentó en el Ministerio de Fomento. La lista nombra al propio Iradier como "editor", como hace con cada una de sus canciones allí, y la canción era para voz y piano, en una edición fechada en 1859 [^boletin1861]. Cuatro entradas antes, su "Juanita ó la perla de Aragon, cancion española" lleva la fecha de 1857 [^boletin1861]. La Bibliothèque nationale de France, citando el diccionario Grove, recoge el mismo orden: publicada primero en español en Madrid en 1859, y después en francés en París en 1864 [^bnf-work]. Ese septiembre, el semanario parisino Le Ménestrel la ofreció a sus suscriptores como "La Paloma (Colombe)", el n.º 14 de 25 canciones de Iradier con letra en francés [^menestrel1864]. Una enciclopedia danesa fecha la canción hacia 1863, después de Cuba [^lexdk]; la lista de Madrid muestra que ya estaba impresa antes.
 
+![[2]]
+
 **Las páginas que leímos.** Nuestro arreglo sale de una edición de Nueva York, con copyright de 1906, de la serie "Vocal Blossoms" de Century Music, n.º 84, "La Paloma, Low, C, Yradier" [^century1906]. La página 2 lleva el encabezado "LA PALOMA. CANCIÓN AMERICANA.", con una letra en inglés de "M. H. R." sobre la española. Bajo la letra española, un dueño anterior escribió a lápiz una glosa en inglés palabra por palabra, que empieza en la página 2 con "When I came up from the havana protect me God" [^century1906]. La cotejamos con el Artists' Vocal Album de 1887 (Boston, White, Smith & Co.), donde la canción es "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", con su página marcada "Copyright, 1878" [^ava1887]. Los dos impresos tienen la misma primera estrofa y la misma coda rápida, casi hablada.
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que La Paloma era una de las canciones favoritas en la corte mexicana del emperador Maximiliano y la emperatriz Carlota. Una enciclopedia danesa dice que se difundió en México bajo Maximiliano, tanto en la corte como entre sus adversarios, que le cantaban letras burlescas [^lexdk], y una historia de la música española de 1972 dice que la canción sobrevivió a los dos imperios a los que sirvió, el de Eugenia en Francia y el de Carlota en México [^livermore1972]. Lo que muestran los documentos: no hemos encontrado ningún documento de la propia corte que nombre la canción. Lo que sí está impreso es que los liberales mexicanos cantaban parodias de ella [^siller][^lexdk]. Un estudio de las canciones de la Intervención Francesa cuenta "La nueva Paloma" entre las canciones populares contra el invasor; sigue la estrofa de Iradier verso a verso, desde "Cuando salí del Congreso", y reescribe su coda sobre los austriacos [^siller].
 

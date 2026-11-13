@@ -16,10 +16,12 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote keep on the sunny side | keep on the sunny side meaning | keep on the sunny side history | keep on the sunny side of life | keep on the sunny side lyrics meaning | keep on the sunny side original artist | is keep on the sunny side a hymn | keep on the sunny side carter family | keep on the sunny side o brother where art thou | keep on the sunny side hunger games | is keep on the sunny side public domain
-original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen/page/n131
+original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen
 ---
 
 Keep on the Sunny Side, printed in 1899 as "Keep On the Sunny Side of Life", is a gospel song with words by Ada Blenkhorn and music by J. Howard Entwisle [^bm1899][^hymnary-text]. Its earliest known printing is in Bright Melodies, a Philadelphia songbook made "for the Sunday School and Young People's Societies" [^bm1899][^hymnary-text]. In May 1928 the Carter Family, A. P., Sara and Maybelle Carter, recorded it for Victor in Camden, New Jersey [^ev-ap][^fw32431]. It became the trio's theme song, the song that often opened their radio shows [^cmhof][^fw32431][^delrio]. In 2000 it was heard again on the soundtrack of the film O Brother, Where Art Thou? [^umusic][^stinfo].
+
+![[1]]
 
 ## Where it comes from
 
@@ -28,6 +30,8 @@ Keep on the Sunny Side, printed in 1899 as "Keep On the Sunny Side of Life", is 
 **The sunny side of the street.** Gabriel's 1916 book sketched living gospel hymn writers, and Blenkhorn was still alive and writing. He named "Keep On the Sunny Side of Life" among her best-known hymns and, in his own words rather than hers, said where it came from: she got the idea while wheeling a nephew who was an invalid, and who always wanted to ride "on the sunny side of the street" [^gabriel1916]. Later tellings repeat it [^ldsh].
 
 **The tune and the 1899 page.** J. Howard Entwisle was a musician and songbook editor in Philadelphia in the 1890s [^hymnary-entwisle][^bm1899]. With John R. Sweney he edited Bright Melodies, published in 1899 by John J. Hood of Philadelphia and Chicago, at thirty cents a copy [^bm1899][^hymnary-entwisle]. Entwisle died in 1901, two years after the song was printed [^showalter1904][^hymnary-entwisle]. The editors' preface says it was made for Sunday schools and young people's societies, mixing new songs by "the leading sacred song writers of the day" with favourites already tried in use [^bm1899]. The song is on page 128, its title in black-letter type, "Ada Blenkhorn." on the left and "J. Howard Entwisle." on the right [^bm1899]. It is set in four parts on two staves, in round notes, in A-flat and in four, with a dotted, skipping rhythm on almost every beat. Three verses sit between the staves, then a chorus, and at the foot is "Copyright, 1899, by J. Howard Entwisle" [^bm1899]. On the page before it is "Abide with Me"; on the page after, a song by Ida L. Reed beginning "Gladly the bells are ringing" [^bm1899]. The copy that was scanned carries the bookplate of the hymnologist Louis FitzGerald Benson, who left his library to Princeton Theological Seminary [^bm1899][^hymnary-benson].
+
+![[2]]
 
 **Heavenly Sunlight, 1900.** A year later Entwisle printed it again as No. 40 of Heavenly Sunlight, a book he compiled with others, published by MacCalla and Company of Dock Street, Philadelphia [^hs1900][^hymnary-entwisle]. The setting is the same, line for line, now under a plain capital heading, with the copyright date in Roman numerals and "His care" given a capital [^hs1900][^bm1899]. This is the printing our arrangement is read from.
 

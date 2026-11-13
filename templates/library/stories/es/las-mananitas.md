@@ -17,8 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: las mañanitas historia | quién escribió las mañanitas | las mañanitas significado | las mañanitas del rey david | origen de las mañanitas | las mañanitas letra completa
-translatedFrom: 3ff1a0247f82
-original: El laúd hispano-americano (Los Ángeles, 1921), p. 104, ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant/page/n109 || García Cubas, El libro de mis recuerdos (1904), p. 547, Internet Archive | https://archive.org/details/ellibrodemisrecu0000anto/page/n548
+translatedFrom: 2706bcc8ddff
+original: El laúd hispano-americano (Los Ángeles, 1921), ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant
 ---
 
 Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas, y como Las mañanitas del rey David, es la canción que los mexicanos cantan al amanecer para despertar a alguien el día de su cumpleaños o de su santo [^toor1947][^manfred1932][^brenner1929]. También se le canta a la Virgen de Guadalupe en la Basílica de Guadalupe el 12 de diciembre, su día [^toor1947][^ewtn2022]. Nadie sabe quién la hizo. Su melodía y la estrofa de Amapolita las imprimió en 1904 Antonio García Cubas, al recordar una serenata al amanecer [^garciacubas1904]; la primera impresión que hemos encontrado de la estrofa del rey David es un cancionero de Los Ángeles de 1921 [^laud1921].
@@ -27,11 +27,17 @@ Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas,
 
 **Una serenata a la puerta de una casa de campo.** Antonio García Cubas, cartógrafo mexicano, se unió a la Comisión Científica de Pachuca, con sede en Real del Monte, en septiembre de 1864, y en El libro de mis recuerdos (1904) cuenta una cabalgata nocturna por aquella región [^garciacubas1904]. A la luz de la luna, su grupo llegó a la llanura de Atotonilco el Grande y se detuvo ante una casa entre fresnos; como se acercaba el día, empezaron a cantar las mañanitas. Se abrieron las ventanas, y pronto las muchachas de la casa se pusieron a cantar, con dos muchachos a la guitarra. En la página 547 imprime la melodía, en La bemol y en compás ternario, con la estrofa de Amapolita y el estribillo "Despierta, mi bien despierta" [^garciacubas1904]. Páginas antes, en la 374, ya había impreso la misma melodía, al recordar el día de San Juan en la Ciudad de México en los años anteriores al ferrocarril: desde la primera campanada del alba, la gente que iba a los baños recorría las calles cantando "las festivas mañanitas", y da la estrofa de Amapolita con "campos" en lugar de "llanos" [^garciacubas1904].
 
+![[1]]
+
 **Una canción popular en Berlín.** En 1913, Albert Friedenthal imprimió la melodía en un libro alemán sobre la música de América Latina [^friedenthal1913]. La llama una de las dos canciones sentimentales más conocidas de México, "también llamada Amapola", dice que viene del sur del país, y la describe como "halb Romanze, halb Serenade" (mitad romanza, mitad serenata), en la que un enamorado le canta a una muchacha de los llanos de Tepic. La marca "Langsam", lento, y añade que la lejana época en que nacieron esas canciones no puede fijarse en absoluto [^friedenthal1913].
+
+![[2]]
 
 **La palabra de un compositor.** En un ensayo impreso en 1917 (un artículo actual fecha sus palabras en 1914 [^quadratin2026]), el compositor Manuel M. Ponce describió canciones en compás ternario con aire de mazurca, y dijo que en una de ellas el "anónimo autor popular" alcanzó una verdadera belleza: "me refiero a las mañanitas, canto popular de melodía nobilísima y de corte beethoviano". Era tan conocida, añadió, que no hacía falta escribirla [^ponce1917].
 
 **La estrofa del rey David.** La primera impresión que hemos encontrado de la estrofa con que hoy empieza la canción, "Estas son las mañanitas que cantaba el rey David", está en El laúd hispano-americano, un cancionero de bolsillo de 160 páginas publicado en Los Ángeles en 1921 por su compilador, C. Santos, con la portada a franjas verde, blanca y roja y el águila mexicana [^laud1921]. En las páginas 104 y 105 imprime "Las Mañanitas" como siete estrofas de cuatro versos seguidas, sin autor [^laud1921]. Un estudio de 2024 de Ana Rosa Gómez Mutio encuentra la estrofa con frecuencia, con cambios, en impresos de la imprenta de Antonio Vanegas Arroyo y sus herederos, en la Ciudad de México; uno de ellos, un cuadernillo de 1935, la dirige a la Virgen de Guadalupe [^gomez2024][^lacipi-diadoce]. Una de sus hojas, fechada en 1911, se titula "Unas lindas mañanitas a las muchachas bonitas", palabras del tercer verso de la estrofa, y Gómez Mutio lee el título como un guiño a ella; pero sus veinte estrofas no incluyen la del rey David [^carter1911][^gomez2024]. Un artículo de prensa de 2026 dice que esa hoja ya trae la estrofa, y que El Colegio de México guarda un ejemplar fechado en 1918 [^quadratin2026]; el ejemplar de 1911 que hemos leído no la trae, y el de 1918 no lo hemos visto.
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que la canción es muy antigua, que la cantaba el propio rey David [^hernandez-desdelafe] o, como escribió Anita Brenner en 1929, que es un canto heredado de antes de la llegada de los españoles [^brenner1929]; o que la escribió Ponce, o que él añadió al rey David, como dice sin fuente un artículo de prensa de 2022 [^infobae2022]. Lo que muestran los documentos: la melodía ya estaba impresa como canción popular en 1904 [^garciacubas1904][^friedenthal1913], y Ponce la atribuyó a un anónimo autor popular [^ponce1917][^quadratin2026]. Gómez Mutio señala que el Cancionero folklórico de México de Margit Frenk clasifica la estrofa del rey David bajo "Las mañanitas I" y, en una nota sobre otra estrofa de esa canción, "Levántate mamacita", que Frenk registra una atribución a Ponce [^gomez2024]; esa estrofa ya está en la hoja de 1911 [^carter1911]. Ninguna fuente que hayamos visto nombra a Ponce como autor de la estrofa del rey David.
 
@@ -53,6 +59,8 @@ Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas,
 3. El estribillo: despierta, "mi bien" (mi amor), despierta. Ya amaneció, cantan los pajarillos y la luna se escondió.
 
 La canción de 1921 sigue con el sereno, el vigilante que recorría las calles de noche, y su linterna; con unas mañanitas alegres que nunca se olvidan, y con un segundo estribillo a una "Rosita de Jericó".
+
+![[4]]
 
 En la página 374 de García Cubas, el estribillo empieza "Despierta divina aurora". En su página 547, a la estrofa de Amapolita le siguen los versos que cierran la canción de 1921, "Que amanece, que amanece, Rosita de Jericó"; las mañanitas alegres se recordarán "En tanto que tenga vida", y les sigue "Despierta, adorada mía", con "Ya los pajaritos cantan / Y la luna se metió"; y no hay sereno [^garciacubas1904].
 
