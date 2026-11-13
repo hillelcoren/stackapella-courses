@@ -16,7 +16,7 @@ updated: 2026-11-12
 reviewed: true
 checked: 2026-11-13
 searches: ezekiel saw the wheel meaning | ezekiel saw the wheel lyrics | ezekiel saw the wheel lyrics meaning | ezekiel saw the wheel spiritual meaning | ezekiel saw the wheel song meaning | what was the wheel that ezekiel saw | ezekiel wheel within a wheel meaning | ezekiel saw the wheel bible verse | ezekiel saw the wheel way up in the middle of the air | what is the song ezekiel saw the wheel about | ezekiel saw the wheel story | who wrote ezekiel saw the wheel | when was ezekiel saw the wheel written | ezekiel saw the wheel origin | ezekiel saw the wheel song history
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), pp. 60 to 61, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n91
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett
 ---
 
 Ezekiel Saw the Wheel, printed as "Ezekiel Saw de Wheel", is an African American spiritual about the vision that opens the Book of Ezekiel, where the prophet sees wheels whose work "was as it were a wheel in the middle of a wheel" [^kjv][^hampton1909]. No maker's name is known. Its earliest known printing is from 1909, in the songbook of Hampton Institute in Virginia, whose students had sung and published spirituals since the 1870s [^hampton1909][^hampton1874]. Its form is call and response: everyone sings the refrain, and in each verse one voice sings a line alone and everyone answers, "'Way in de middle ob de air" [^dett1927][^carnegiefolk].
@@ -31,7 +31,11 @@ Ezekiel Saw the Wheel, printed as "Ezekiel Saw de Wheel", is an African American
 
 **What the 1909 page shows.** Under a black-letter title, the refrain, headed "Chorus", is in A-flat major and 2/4 time, in four parts, with short, dotted notes. Then the top voice sings each verse line alone while the other three voices rest, and all four parts answer, "'Way in de middle ob de air". The three verses share one line of music, and "D.C." sends the singers back to the chorus. The page gives no tempo and does not say who sings the verse lines [^hampton1909].
 
+![[1]]
+
 **Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), born in Ontario, who had taught at Hampton since 1913 and directed its choirs, edited a new Hampton book, Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^cdnenc-dett][^dett1927]. Its harmonies, he wrote, were as sung at Hampton, "where the singing of these songs has been traditional since 1868" [^dett1927]. On pages 60 and 61, the 1909 setting returns with markings, about 90 beats a minute and the first answer "Tutti con entusiasmo", all together, with enthusiasm, and one word changed, "you" for "yo'" in verse 2 [^dett1927][^hampton1909].
+
+![[2]]
 
 **Myth and record.** Often told: spirituals carried secret directions on the Underground Railroad [^bordewich]. What the record shows: no early printing of this song that we have read, from 1909 on, gives it a hidden meaning, and a historian of the Underground Railroad finds no evidence that any song was used that way [^bordewich].
 

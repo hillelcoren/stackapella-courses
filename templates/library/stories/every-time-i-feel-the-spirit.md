@@ -14,7 +14,7 @@ alsoKnownAs: Ev'ry Time I Feel the Spirit, I Will Pray
 wikidata: Q5417616
 quote: Of all the Spirituals, this is one of the most touching in its prayerful suggestion and quiet reverence
 quoteSource: burlin1918
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 169, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n200
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -22,6 +22,8 @@ searches: every time i feel the spirit | every time i feel the spirit lyrics | e
 ---
 
 Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is an African American spiritual about prayer: every time the singer feels the Spirit moving in the heart, they pray [^dett1927][^work1907]. No maker's name is known [^canterbury][^hymnarchive]. Its earliest known printing is from 1907, at Fisk University in Nashville, under the title "I Will Pray" [^work1907][^hymnarchive]. Two years later Hampton Institute in Virginia printed it with three different verses, about the Lord speaking on the mountain, everything shining around the singer and the chilly Jordan river; we sing the first two [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal and the Chalice Hymnal all print it, under the tune name PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
+
+![[1]]
 
 ## Where it comes from
 
@@ -31,13 +33,19 @@ Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is a
 
 **Fisk, 1907.** The earliest known printing is in Folk Songs of the American Negro, Number Two, edited by Frederick J. Work, with an introduction by his brother John W. Work, signed at Fisk University on 15 May 1907 [^work1907][^folklorists][^cdh-fjwork]. On page 4 the song is headed "I Will Pray", marked "Infervorato", fervently, in E-flat [^work1907][^hymnarchive]. Everyone sings the refrain in four parts; then a solo voice sings three verses, "When you hear me pray, my Jesus", over hummed chords, and everyone returns to the refrain [^work1907]. Its introduction says that to sing these songs well, a newcomer to them "must abandon himself entirely to his spiritual nature" [^work1907].
 
+![[2]]
+
 **Hampton, 1909.** Hampton Institute had published its students' songs since 1874, and its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, prints "Ev'ry Time I Feel the Spirit" on page 169 [^hampton1909][^lva-dett][^hymnarchive]. The refrain has the same words, again in E-flat and four parts, but the three verses are new [^hampton1909][^work1907]. Each verse is one line of tune over an empty lower staff: one voice alone [^hampton1909]. The book's note, signed by Robert R. Moton, Hampton's commandant, thanks Professor F. J. Work of Fisk and others for some of its new songs, but this page names no source, and its verses are not Fisk's [^hampton1909][^work1907][^hymnarchive].
+
+![[3]]
 
 **A quartet in Virginia, 1918.** The collector Natalie Curtis-Burlin printed it in 1918, in the Hampton Series of her Negro Folk-Songs [^burlin1918][^hymnarchive]. Her foreword says she set up an Edison phonograph in Virginia and tried to write down every part as it was sung [^burlin1918]. She names her four singers and their trades: Ira Godwin, the "Lead", in agriculture; Joseph Barnes, tenor, a tinsmith; William Cooper, baritone, a schoolteacher; and Timothy Carper, bass, a bricklayer [^burlin1918]. The leader carries the tune and "must sound above the other voices", slowly, "with simplicity, breadth and reverence", in the Hampton verses with the Jordan verse second [^burlin1918].
 
 **For the concert hall and the islands, 1925.** The Book of American Negro Spirituals, edited by James Weldon Johnson, set it for solo voice and piano, arranged by J. Rosamond Johnson, "Moderately Slow", with the same three verses [^johnson1925][^hymnarchive]. The same year, the Penn School on St. Helena Island, South Carolina, printed it in Saint Helena Island Spirituals, giving Hampton's page 169 as its source and adding a fourth verse, about a train to heaven [^sthelena1925][^hymnarchive].
 
 **Dett's book, 1927.** The composer R. Nathaniel Dett (1882 to 1943) taught music and directed Hampton's choirs from 1913 [^lva-dett][^ewb-dett]. His 1927 edition prints the 1909 setting again, newly typeset, on page 169, under the heading "Hymns of Meditation" [^dett1927][^hampton1909]. It adds markings the 1909 page lacks: "Andante molto espress.", at a walking pace and very expressive, 68 to 72 beats a minute; "Tutti", everyone, for the refrain, loud and growing quieter; and "Solo", fairly quiet, for the verses [^dett1927][^hampton1909]. Our arrangement is read from this page.
+
+![[4]]
 
 ### Timeline
 

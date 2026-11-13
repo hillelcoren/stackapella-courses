@@ -14,15 +14,17 @@ alsoKnownAs: Ev'ry Time I Feel the Spirit, I Will Pray
 wikidata: Q5417616
 quote: De todos los espirituales, este es uno de los más conmovedores por su aire de oración y su serena reverencia
 quoteSource: burlin1918
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), p. 169, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n200
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: every time i feel the spirit significado | every time i feel the spirit historia | every time i feel the spirit letra en español | quién escribió every time i feel the spirit | every time i feel the spirit traducción | every time i feel the spirit espiritual
-translatedFrom: 4f548fbad80f
+translatedFrom: fa1565183272
 ---
 
 Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit, es un espiritual afroamericano (en inglés, spiritual) sobre la oración: cada vez que quien canta siente al Espíritu moverse en su corazón, ora [^dett1927][^work1907]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnarchive]. Su primera impresión conocida es de 1907, en la Universidad Fisk de Nashville, con el título "I Will Pray" (oraré) [^work1907][^hymnarchive]. Dos años después, el Hampton Institute, en Virginia, lo imprimió con tres estrofas distintas, sobre el Señor que habla en el monte, todo lo que brilla alrededor de quien canta y el frío río Jordán; nosotros cantamos las dos primeras [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal y el Chalice Hymnal lo imprimen, con el nombre de melodía PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
+
+![[1]]
 
 ## De dónde viene
 
@@ -32,13 +34,19 @@ Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit
 
 **Fisk, 1907.** La primera impresión conocida está en Folk Songs of the American Negro, Number Two, editado por Frederick J. Work, con una introducción de su hermano John W. Work, firmada en la Universidad Fisk el 15 de mayo de 1907 [^work1907][^folklorists][^cdh-fjwork]. En la página 4 la canción lleva el encabezado "I Will Pray", con la indicación "Infervorato", es decir, con fervor, en Mi bemol [^work1907][^hymnarchive]. Todos cantan el estribillo a cuatro voces; luego una voz solista canta tres estrofas, "When you hear me pray, my Jesus" (cuando me oyes orar, Jesús mío), sobre acordes a boca cerrada, y todos vuelven al estribillo [^work1907]. Su introducción dice que, para cantar bien estas canciones, quien se acerca a ellas por primera vez "debe abandonarse por completo a su naturaleza espiritual" [^work1907].
 
+![[2]]
+
 **Hampton, 1909.** El Hampton Institute publicaba las canciones de sus estudiantes desde 1874, y su nueva edición de 1909, Religious Folk Songs of the Negro as Sung on the Plantations, imprime "Ev'ry Time I Feel the Spirit" en la página 169 [^hampton1909][^lva-dett][^hymnarchive]. El estribillo tiene la misma letra, otra vez en Mi bemol y a cuatro voces, pero las tres estrofas son nuevas [^hampton1909][^work1907]. Cada estrofa es una sola línea de melodía sobre un pentagrama inferior vacío: una voz sola [^hampton1909]. La nota del libro, firmada por Robert R. Moton, comandante de Hampton, da las gracias al profesor F. J. Work, de Fisk, y a otros por algunas de sus canciones nuevas, pero esta página no nombra ninguna fuente, y sus estrofas no son las de Fisk [^hampton1909][^work1907][^hymnarchive].
+
+![[3]]
 
 **Un cuarteto en Virginia, 1918.** La recopiladora Natalie Curtis-Burlin lo imprimió en 1918, en la Hampton Series de sus Negro Folk-Songs [^burlin1918][^hymnarchive]. Su prólogo dice que instaló un fonógrafo Edison en Virginia e intentó anotar cada voz tal como se cantaba [^burlin1918]. Nombra a sus cuatro cantantes y sus oficios: Ira Godwin, el "Lead", dedicado a la agricultura; Joseph Barnes, tenor, hojalatero; William Cooper, barítono, maestro de escuela; y Timothy Carper, bajo, albañil [^burlin1918]. La voz que guía lleva la melodía y "debe sonar por encima de las demás voces", despacio, "con sencillez, amplitud y reverencia", en las estrofas de Hampton, con la del Jordán en segundo lugar [^burlin1918].
 
 **Para la sala de conciertos y para las islas, 1925.** The Book of American Negro Spirituals, editado por James Weldon Johnson, lo puso para voz sola y piano, en un arreglo de J. Rosamond Johnson, "Moderately Slow" (moderadamente lento), con las mismas tres estrofas [^johnson1925][^hymnarchive]. Ese mismo año, la Penn School de la isla de St. Helena, en Carolina del Sur, lo imprimió en Saint Helena Island Spirituals, dando como fuente la página 169 de Hampton y añadiendo una cuarta estrofa, sobre un tren al cielo [^sthelena1925][^hymnarchive].
 
 **El libro de Dett, 1927.** El compositor R. Nathaniel Dett (1882 a 1943) enseñó música y dirigió los coros de Hampton desde 1913 [^lva-dett][^ewb-dett]. Su edición de 1927 vuelve a imprimir la armonización de 1909, compuesta de nuevo, en la página 169, bajo el encabezado "Hymns of Meditation" (himnos de meditación) [^dett1927][^hampton1909]. Añade indicaciones que no tiene la página de 1909: "Andante molto espress.", a paso de andar y muy expresivo, de 68 a 72 pulsos por minuto; "Tutti", todos, para el estribillo, fuerte y cada vez más suave; y "Solo", bastante suave, para las estrofas [^dett1927][^hampton1909]. Nuestro arreglo está tomado de esta página.
+
+![[4]]
 
 ### Cronología
 

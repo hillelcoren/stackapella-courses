@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: didn't my lord deliver daniel meaning | what is didn't my lord deliver daniel about | didn't my lord deliver daniel and why not every man | who wrote didn't my lord deliver daniel | when was didn't my lord deliver daniel written | didn't my lord deliver daniel origin | didn't my lord deliver daniel history | didn't my lord deliver daniel lyrics | didn't my lord deliver daniel moses hogan | didn't my lord deliver daniel sheet music
-original: Jubilee Songs (1872), page 16, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n18
+original: Jubilee Songs (1872), Emory University, Internet Archive | https://archive.org/details/29208201.4853.emory.edu
 ---
 
 Didn't My Lord Deliver Daniel is an African American spiritual, made by enslaved people, that asks a bold question. God saved Daniel from the lions, Jonah from the whale and the Hebrew children from the fiery furnace: "And why not every man?" [^seward1872][^kjv]. No maker's name is known. Its earliest known printing is on pages 16 and 17 of Jubilee Songs (1872), the first book of Fisk University's touring student singers, as a single tune headed "Sung in Unison" [^seward1872][^marsh1875]. In 1925 James Weldon Johnson wrote that the songs' makers sang their listeners into faith that God, who saved Daniel, would save them too [^johnson1925]. Choirs and soloists still sing it, in settings made since the 1920s [^burleigh1921][^johnson1925][^halleonard].
@@ -26,6 +26,8 @@ Didn't My Lord Deliver Daniel is an African American spiritual, made by enslaved
 **The singers and their book.** Fisk University in Nashville, a school for freed people, was deep in debt in 1871. On 6 October that year its treasurer, George L. White, set out with a small company of students to sing for money for it [^pike1873][^fisk][^seward1872]. In 1872 Biglow & Main of New York printed their songs as Jubilee Songs. The copy we read lists 24, though the enlarged edition's introduction, later that year, counts twenty-nine in the first [^seward1872][^seward1872c]. White took the words down "from their lips", and Theodore F. Seward wrote down the music [^seward1872]. Its introduction says the singers learned most of the songs as children, that none had been printed before, as far as they knew, and that seven of the nine singers had been enslaved [^seward1872]. The song is not in the earlier Slave Songs of the United States (1867), compiled by William Francis Allen, Charles Pickard Ware and Lucy McKim Garrison, three white collectors [^slavesongs1867].
 
 **What the 1872 page shows.** Under its black-letter title, page 16 reads "Sung in Unison": one line of melody, for everyone together, where Steal Away, later in the book, is printed in four parts [^seward1872]. The key is G minor and the time 4/8, four eighth notes to the bar. The refrain comes first, then the first verse with its own music, "He deliver'd Daniel from the lion's den". An asterisk over the return to the refrain points to a footnote: "Go on without pause, leaving out two beats of the measure", so the singers ran straight from the verse back into the refrain [^seward1872]. Page 17 prints the other three verses, each sending the singer back with "D. C. 'Didn't my Lord.'" [^seward1872][^seward1872c]. In the refrain the word is printed "D'liver", sung fast, and the last line reads "And why not a every man?", with an extra sung "a" that the verse leaves out [^seward1872].
+
+![[1]]
 
 **A growing book.** Later that year the publishers issued Jubilee Songs: Complete, a 64-page edition whose introduction is dated 9 October 1872, with the song on the same two pages [^seward1872c]. G. D. Pike's book of the singers' first campaign (1873) prints it on page 174, his book of their British tour (1875) on page 216, and J. B. T. Marsh's Story of the Jubilee Singers (London, 1875) as No. 10, on pages 134 and 135 [^pike1873][^pike1875][^marsh1875]. Marsh's pages repeat the 1872 tune and footnote, still "Sung in Unison", and add one heading, "1st Verse" [^marsh1875].
 
@@ -47,6 +49,8 @@ Didn't My Lord Deliver Daniel is an African American spiritual, made by enslaved
 - **Verse 4.** The singer steps onto "the Gospel ship", and it sails to "Canaan's shore", the promised land across the Jordan, here heaven. The enlarged 1872 book also holds "Old ship of Zion", the same picture of faith as a ship [^seward1872c].
 
 Did the singers mean only heaven? Frederick Douglass wrote in 1855 that when he and his friends sang of reaching Canaan while planning their escape, "the north was our Canaan" [^douglass1855]. In a Fisk Day address printed in 1905, Mrs. Booker T. Washington spoke of the "faith songs" of the waiting enslaved and quoted this one as "the answer given to the cavilling soul" [^washington1905]. James Weldon Johnson wrote in 1925 that the Bible's story of the trials of the Jews fired the imaginations of "the Negro bards", who sang their hearers into faith "that as God saved Daniel in the lion's den, so would He save them" [^johnson1925]. In 1939 the scholar John Lovell Jr. read the question in the Hampton version of the song, why can't He deliver me, as a plain plea for freedom [^lovell1939].
+
+![[2]]
 
 ### The full words
 

@@ -16,8 +16,8 @@ updated: 2026-11-12
 reviewed: true
 checked: 2026-11-13
 searches: ezekiel saw the wheel significado | ezekiel saw the wheel historia | ezekiel saw the wheel letra en español | quién escribió ezekiel saw the wheel | la rueda de ezequiel espiritual | ezequiel vio la rueda canción
-translatedFrom: 0b8e015ed672
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), pp. 60 a 61, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n91
+translatedFrom: 881c1fd3db82
+original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
 ---
 
 Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afroamericano (en inglés, spiritual) sobre la visión con la que empieza el libro de Ezequiel, donde el profeta ve unas ruedas: "su apariencia y su obra como rueda en medio de rueda" [^kjv][^hampton1909]. No se conoce el nombre de quien lo hizo. Su primera impresión conocida es de 1909, en el cancionero del Hampton Institute de Virginia, cuyos estudiantes cantaban y publicaban espirituales desde la década de 1870 [^hampton1909][^hampton1874]. Su forma es de llamada y respuesta: todos cantan el estribillo, y en cada estrofa una voz canta sola un verso y todos responden "'Way in de middle ob de air" (allá, en medio del aire) [^dett1927][^carnegiefolk].
@@ -32,7 +32,11 @@ Ezekiel Saw the Wheel, impreso como "Ezekiel Saw de Wheel", es un espiritual afr
 
 **Lo que muestra la página de 1909.** Bajo un título en letra gótica, el estribillo, con el encabezado "Chorus" (coro), está en La bemol mayor y en 2/4, a cuatro voces, con notas cortas y con puntillo. Luego la voz superior canta sola cada verso de la estrofa mientras las otras tres callan, y las cuatro voces responden "'Way in de middle ob de air" (allá, en medio del aire). Las tres estrofas comparten una misma línea de música, y un "D.C." devuelve a los cantantes al estribillo. La página no da tempo ni dice quién canta los versos de las estrofas [^hampton1909].
 
+![[1]]
+
 **El libro de Dett, 1927.** En 1927 el compositor R. Nathaniel Dett (1882 a 1943), nacido en Ontario, que enseñaba en Hampton desde 1913 y dirigía sus coros, editó un nuevo libro de Hampton, Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^cdnenc-dett][^dett1927]. Sus armonías, escribió, eran las que se cantaban en Hampton, "donde cantar estas canciones es tradición desde 1868" [^dett1927]. En las páginas 60 y 61 vuelve la armonización de 1909, con indicaciones: unos 90 pulsos por minuto y la primera respuesta marcada "Tutti con entusiasmo", todos juntos, con entusiasmo; y con una palabra cambiada, "you" por "yo'" en la estrofa 2 [^dett1927][^hampton1909].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que los espirituales llevaban indicaciones secretas para el Ferrocarril Subterráneo [^bordewich]. Lo que muestran los documentos: ninguna impresión temprana de esta canción de las que hemos leído, de 1909 en adelante, le da un significado oculto, y un historiador del Ferrocarril Subterráneo no encuentra pruebas de que ninguna canción se usara así [^bordewich].
 
