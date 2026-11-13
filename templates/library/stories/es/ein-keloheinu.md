@@ -9,14 +9,14 @@ earliestPrintingSource: idel29
 language: hebreo
 origin: Braunschweig, Alemania (la melodía)
 occasion: Final del oficio de la mañana del sabbat y de las fiestas (asquenazí); también las mañanas entre semana (sefardí)
-alsoKnownAs: En Kelohenu, Ayn Kaylohaynu, Ein Ke-Elohenu
+alsoKnownAs: En Kelohenu, Ayn Kaylohaynu
 wikidata: Q3049440
 quote: Ein kelokeinu, ein kadoneinu, ein kemalkenu, ein k'moshienu.
 updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 42ff9f9df8e2
+translatedFrom: c731271eb181
 ---
 
 Ein Keloheinu es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro versiones distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
@@ -198,7 +198,7 @@ La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agud
 ## Fuentes
 
 - [^je]: Cyrus Adler y Francis L. Cohen, "En Kelohenu", *The Jewish Encyclopedia*, vol. 5 (Funk and Wagnalls, 1903), pp. 154 a 155. https://www.jewishencyclopedia.com/articles/5744-en-kelohenu
-- [^ej]: Meir Ydit, "Ein Ke-Elohenu", *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ein-ke-elohenu
+- [^ej]: Meir Ydit, la entrada sobre este himno, *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ein-ke-elohenu
 - [^huji]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Ke'eloheinu" (en hebreo). https://jewish-music.huji.ac.il/he/node/21819
 - [^posen]: "There is None Like Our God (En kelohenu)", trad. de Gabriel Wasserman, *The Posen Library of Jewish Culture and Civilization*, vol. 3 (Yale University Press). https://www.posenlibrary.com/node/13075
 - [^milken]: Milken Archive of Jewish Music, "Ein keloheinu", *Jewish Voices in the New World*. https://www.milkenarchive.org/music/volumes/view/jewish-voices-in-the-new-world/work/ein-keloheinu
@@ -212,5 +212,5 @@ La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agud
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), apéndice A, n.os 17 a 20, "En Kelohenu", pp. 140 a 147, e índice, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, tercera edición (copyright 1932; impresión de 1936), prefacio, p. v, y n.º 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
 - [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, oficio de la mañana entre semana, oraciones finales (como se dicen en Israel), hebreo de *The Metsudah Siddur* (1981), en Sefaria, con licencia CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu
-- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", sección Ladino/Judeo-Spanish: "En k'Elohenu in Ladino", *Trezoro de Kantes* (edición de Los Ángeles), y "En k'Elohenu in Ladino alongside Hebrew script" (edición de Seattle). https://www.jewishlanguages.org/liturgy
+- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", sección Ladino/Judeo-Spanish: dos grabaciones del himno en ladino, de *Trezoro de Kantes* (ediciones de Los Ángeles y de Seattle). https://www.jewishlanguages.org/liturgy
 - [^jmrcladino]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Keloheinu (Judeo-Spanish)", grabación sonora, Gibraltar, en hebreo y ladino. https://jewish-music.huji.ac.il/en/node/23614

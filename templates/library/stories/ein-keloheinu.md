@@ -9,7 +9,7 @@ earliestPrintingSource: idel29
 language: Hebrew
 origin: Braunschweig, Germany (the tune)
 occasion: End of the Sabbath and festival morning service (Ashkenazi); weekday mornings too (Sephardi)
-alsoKnownAs: En Kelohenu, Ayn Kaylohaynu, Ein Ke-Elohenu
+alsoKnownAs: En Kelohenu, Ayn Kaylohaynu
 wikidata: Q3049440
 quote: Ein kelokeinu, ein kadoneinu, ein kemalkenu, ein k'moshienu.
 updated: 2026-11-12
@@ -197,7 +197,7 @@ The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu,"
 ## Sources
 
 - [^je]: Cyrus Adler and Francis L. Cohen, "En Kelohenu", *The Jewish Encyclopedia*, vol. 5 (Funk and Wagnalls, 1903), pp. 154 to 155. https://www.jewishencyclopedia.com/articles/5744-en-kelohenu
-- [^ej]: Meir Ydit, "Ein Ke-Elohenu", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ein-ke-elohenu
+- [^ej]: Meir Ydit, the entry on this hymn, *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/ein-ke-elohenu
 - [^huji]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Ke'eloheinu" (in Hebrew). https://jewish-music.huji.ac.il/he/node/21819
 - [^posen]: "There is None Like Our God (En kelohenu)", translated by Gabriel Wasserman, *The Posen Library of Jewish Culture and Civilization*, vol. 3 (Yale University Press). https://www.posenlibrary.com/node/13075
 - [^milken]: Milken Archive of Jewish Music, "Ein keloheinu", *Jewish Voices in the New World*. https://www.milkenarchive.org/music/volumes/view/jewish-voices-in-the-new-world/work/ein-keloheinu
@@ -211,5 +211,5 @@ The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu,"
 - [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), Appendix A, Nos. 17 to 20, "En Kelohenu", pp. 140 to 147, and index, p. 218. https://archive.org/details/unionhymnal0000unse_l7i5
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), preface, p. v, and No. 292, "Ayn Kaylohaynu", p. 330, Morning Service for the Sabbath. https://archive.org/details/unionhymnal00cent
 - [^sefaria]: "Ein Kelohenu", *Siddur Ashkenaz*, weekday morning service, concluding prayers (as said in Israel), Hebrew from *The Metsudah Siddur* (1981), via Sefaria, licensed CC BY 3.0. https://www.sefaria.org/Siddur_Ashkenaz,_Weekday,_Shacharit,_Concluding_Prayers,_Korbanot_%28Israel%29,_Ein_Kelohenu
-- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", Ladino/Judeo-Spanish section: "En k'Elohenu in Ladino", *Trezoro de Kantes* (Los Angeles edition), and "En k'Elohenu in Ladino alongside Hebrew script" (Seattle edition). https://www.jewishlanguages.org/liturgy
+- [^jlliturgy]: HUC Jewish Language Project, "Liturgy", Ladino/Judeo-Spanish section: two recordings of the hymn in Ladino, from *Trezoro de Kantes* (the Los Angeles and Seattle editions). https://www.jewishlanguages.org/liturgy
 - [^jmrcladino]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Ein Keloheinu (Judeo-Spanish)", sound recording, Gibraltar, languages Hebrew and Ladino. https://jewish-music.huji.ac.il/en/node/23614
