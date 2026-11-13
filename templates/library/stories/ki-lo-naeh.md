@@ -10,23 +10,24 @@ alsoKnownAs: Adir Bimlucha, Addir bi-Melukhah, Ki Lo Noeh
 wikidata: Q55649939
 quote: Ki lo noeh, ki lo yoeh.
 quoteSource: uh1923
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: ki lo naeh lyrics | ki lo na eh transliteration | ki lo naeh passover | ki lo na eh translation
+original: The Union Haggadah (1923), p. 84, University of Florida scan, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/n103
 ---
 
 Ki Lo Na'eh is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^ej] It comes near the end, after the Haggadah's formal service has closed, among the songs that finish the night, and it is sung mainly in Ashkenazi homes.[^ej][^sefaria][^bogomilsky] Its verses run through the Hebrew alphabet. Each one calls Hashem mighty, chosen, holy or strong in His kingship, then names a company of His servants who answer: Yours, and Yours, Hashem, is the kingdom.[^ej][^sefaria] The table has sung it for more than seven centuries. A London scholar copied it into his book of Jewish law in 1287, and the Reform movement's Haggadah still printed it with music in 1908 and 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
 
 ## Where it comes from
 
-No one knows who wrote it, or when. The Jewish Encyclopedia of 1904 dated it to the fifteenth century, and the Union Haggadah of 1923 says that in that century "the two anonymous ditties 'Addir Hu' and 'Ki Lo Noeh' were added".[^je][^uh1923] The record is older than that. In 1892 the scholar David Kaufmann published the seder service from the manuscript of Etz Hayyim, a book of Jewish law by Jacob ben Judah of London, dated 1287. The Encyclopaedia Judaica puts it at about 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann notes that of the free poems that graced the seder in English homes, Jacob's book keeps only this one. Kaufmann noted that the scholar Zunz had dated it to the fifteenth century. Yet here it was, in Kaufmann's words, already 'a firmly established portion of the English Ritual' before the Jews were expelled from England in 1290.[^kaufmann][^jeengland]
+No one knows who wrote it, or when. The Jewish Encyclopedia of 1904 dated it to the fifteenth century, and the Union Haggadah of 1923 says that in that century "the two anonymous ditties 'Addir Hu' and 'Ki Lo Noeh' were added".[^je][^uh1923] The record is older than that. The Encyclopaedia Judaica says it is first found in German manuscripts of the early thirteenth century, and was probably written in Germany about then.[^ej] In 1892 the scholar David Kaufmann published the seder service from the manuscript of Etz Hayyim, a book of Jewish law by Jacob ben Judah of London, dated 1287. The Encyclopaedia Judaica puts it at about 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann notes that of the free poems that graced the seder in English homes, as in French and Italian ones, Jacob's book keeps only this one. Zunz, he adds, had dated it to the fifteenth century; yet here it was, in his words, already "a firmly established portion of the English Ritual" before the Jews were expelled from England in 1290.[^kaufmann][^jeengland]
 
 His copy also has extra lines whose first letters spell the name Jacob.[^kaufmann][^ej][^davidson] Kaufmann read them as Jacob's addition to a poem that already stood, and thought Jacob's text the original form, changed since in both the German and the Roman rites. The Encyclopaedia Judaica allows that Jacob may have written the whole poem, and Rabbi Jonathan Sacks called it perhaps Britain's one contribution to the Haggadah.[^kaufmann][^davidson][^ej][^sacks]
 
 The hymn was once paired with Adir Hu, which follows it in the Haggadah and runs through the alphabet the same way. The Jewish Encyclopedia says Ki Lo Na'eh was first meant for the first night of Passover, with Adir Hu chosen for the second, and that for more than two centuries both had been sung on each night.[^je][^jeaddir][^niv]
 
-Johann Stephan Rittangel, a Christian Hebraist at Königsberg, published a Haggadah with Latin and German translations there in 1644, the first Haggadah printed with musical notation. He gave tunes for two songs, Ki Lo Na'eh and Adir Hu.[^brown][^niv][^je][^idel29] The Jewish Encyclopedia reprinted his Ki Lo Na'eh tune in 1904 as the most appealing of the several airs the hymn had been sung to. It is a tune in 3/4 time, quite unlike ours.[^je] Ours is the one the Union Haggadah printed, marked "Traditional" with no source named.[^jeaddir][^je][^uh1923]
+Johann Stephan Rittangel (1606 to 1652), a Christian Hebraist at Königsberg, published a Haggadah with Latin and German translations there in 1644, the first Haggadah printed with musical notation.[^brown][^idel29] He gave tunes for two songs, Ki Lo Na'eh and Adir Hu.[^niv][^je][^jeaddir] The Jewish Encyclopedia reprinted his Ki Lo Na'eh tune in 1904 as, in its words, "the most alluring" of the several airs the hymn had been sung to. It is a tune in 3/4 time, quite unlike ours.[^je] Ours is the one the Union Haggadah printed, marked "Traditional" with no source named.[^uh1923][^uh1908]
 
 ### Timeline
 
@@ -50,9 +51,9 @@ The full hymn has eight stanzas, each the same except for three words whose firs
 
 **The answer, after every verse.** Lecha ulecha: Yours and Yours. Lecha ki lecha: Yours, for it is Yours. Lecha af lecha: Yours, yes, Yours. Lecha Adoshem hamamlacha: Yours, Hashem, is the kingdom. Then the title line again.[^sefaria] The answer is built from Bible phrases: "Yours, Hashem, is the kingdom" is from 1 Chronicles 29:11, and "the heavens are Yours, the earth too" from Psalm 89:12 gives the pattern of "lecha af lecha".[^tanakh][^baruch][^sacks] Listen for the turn: the hymn speaks about Hashem, "to Him", but the hosts speak to Hashem, "Yours".[^sefaria]
 
-Who are the speakers? The Encyclopaedia Judaica reads them all as kinds of angels.[^ej] Jacob of Lissa, in his Haggadah commentary Maaseh Nissim, splits them: the troops and the angels are angels, but the righteous and the perfect ones are Israel. He reads the names through midrash too. The midrash says Hashem appeared at the Red Sea as a warrior and at Sinai as an elder full of compassion, and he and other teachers read bachur, which can also mean a young man, as that young warrior. Rachum recalls the Talmud's story that Hashem stopped the angels singing as the Egyptians drowned, because they too were the work of His hands.[^lissa][^ejlissa][^bogomilsky][^rashi][^megillah]
+Who are the speakers? The Encyclopaedia Judaica reads them all as kinds of angels.[^ej] Jacob of Lissa, in his Haggadah commentary Maaseh Nissim, splits them: the troops and the angels are angels, but the righteous and the perfect ones are Israel. He reads the names through midrash too. The midrash says Hashem appeared at the Red Sea as a warrior and at Sinai as an elder full of compassion, and he and other teachers read bachur, which can also mean a young man, as that young warrior. Rachum recalls the Talmud's story that Hashem stopped the angels singing as the Egyptians drowned, because they too were the work of His hands.[^lissa][^ejlissa][^bogomilsky][^marbeh][^rashi][^megillah]
 
-Where the Hebrew has the four-letter name, which the Union Haggadah spells "Adonoi", we sing Adoshem, the substituted name customary when singing outside prayer. Many Jews change Hashem's names when saying them outside prayer, out of reverence and to avoid taking the name in vain; our songs, sung outside prayer, use the changed form, and the meaning is the same.[^ohr][^outorah]
+Where the Hebrew has the four-letter name, which the Union Haggadah transliterates as it is read in prayer, we sing Adoshem, the substituted name customary when singing outside prayer. Many Jews change Hashem's names when saying them outside prayer, out of reverence and to avoid taking the name in vain; our songs, sung outside prayer, use the changed form, and the meaning is the same.[^ohr][^outorah]
 
 ### The full words
 
@@ -172,7 +173,7 @@ At a traditional Ashkenazi seder, after the closing wish "Next year in Jerusalem
 
 Our arrangement is read from pages 84 and 85 of the Union Haggadah, revised edition, published by the Central Conference of American Rabbis in 1923. There it is "Ki Lo Noeh", "Traditional", Andante con moto, in C major and 4/4, for voice and piano, in the music as edited by the Society of American Cantors.[^uh1923][^uh1908] It opens with the chorus "Ki lo noeh, ki lo yoeh", then gives each verse as a SOLO and the answer as a CHORUS. The 1908 first edition headed it only "Chorus", with one verse, and put it in the Miscellany, the part kept for the lighter, more joyous side of the evening.[^uh1908]
 
-We sing it a tone higher, in D, with four parts of our own; the piano part was used only to check the chords. The book spells the Hebrew in the Ashkenazi way, "noeh", "bim'lucho", "Adonoi". We respell it in modern Israeli pronunciation, syllable for syllable as the notes carry it.[^uh1923] We sing the chorus, then the three printed verses: the soprano sings each verse alone, as the book's solo, and everyone sings the answer and "Ki lo nae, ki lo yae." The last "yae" is held, as the book's pause sign asks. It is for 2 to 4 singers: soprano and alto, then the bass, then the tenor.
+We sing it a tone higher, in D, with four parts of our own; the piano part was used only to check the chords. The book spells the Hebrew in the Ashkenazi way, "noeh", "bim'lucho", "l'cho". We respell it in modern Israeli pronunciation, syllable for syllable as the notes carry it.[^uh1923] We sing the chorus, then the three printed verses: the soprano sings each verse alone, as the book's solo, and everyone sings the answer and "Ki lo nae, ki lo yae." The last "yae" is held, as the book's pause sign asks. It is for 2 to 4 singers: soprano and alto, then the bass, then the tenor.
 
 ## Versions and other words
 
@@ -183,15 +184,14 @@ There are other tunes. The Jewish Encyclopedia mentions several, and in 1929 the
 ## Did you know?
 
 - The answer says "lecha", Yours, seven times. Commentators have read meanings into the number, among them the seven heavens, the seven days of the week and the seven thousand years of the world.[^sacks][^marbeh]
-- The Jewish Encyclopedia's English paraphrase of 1904 plays the alphabet game in English, from "Awe by His throne is" to "His zealous ones".[^je]
 - The phrase "it is fitting for You" has an old echo. A midrash in Genesis Rabbah reads Psalm 74:16, "Yours is the day, Yours also the night", as: it is fitting for You that we sing by day and by night.[^berrab][^tanakh][^sacks]
 
 ## Singing it
 
-- [Soprano](/songs/ki-lo-naeh/soprano): the tune, and every verse alone, mostly on A and F-sharp. In each verse the low D of "gedudav", "shinanav" or "temimav" leaps straight up a sixth to B, and the G-sharp on "yomru" leans up into "lo:". The top D rings on every "yae." and, in each answer, on the first "lecha" and the "lecha" before "af".
+- [Soprano](/songs/ki-lo-naeh/soprano): the tune, and every verse alone, most often on A, then F-sharp. In each verse the low D of "gedudav", "shinanav" or "temimav" leaps straight up a sixth to B, and the G-sharp on "yomru" leans up into "lo:". The top D rings on every "yae." and, in each answer, on the first "lecha" and the "lecha" before "af".
 - [Alto](/songs/ki-lo-naeh/alto): rests through the solo verses and joins for "Ki lo nae, ki lo yae." and every answer, mostly a third or a sixth below the tune. Its top F-sharp comes on every "yae." and, in each answer, on the first "lecha", "ki lecha," and "lecha af lecha,"; its low A only on the "Ki lo" that opens every "Ki lo nae,".
 - [Tenor](/songs/ki-lo-naeh/tenor): rests in the verses, then holds the middle of the chord on F-sharp, G and A nearly all the time. Its top C-sharp comes on the first "lecha" of every answer, and it drops to its low D on every "nae,".
-- [Bass](/songs/ki-lo-naeh/bass): rests in the verses, then sings the bass line, mostly on D and B. It falls to its low F-sharp on every "nae," and on "af" and "hamamlacha," in each answer, and climbs to its top F-sharp on the "lecha" before "Adoshem".
+- [Bass](/songs/ki-lo-naeh/bass): rests in the verses, then sings the bass line, most often on D, then B. It falls to its low F-sharp on every "nae," and on "af" and "hamamlacha," in each answer, and climbs to its top F-sharp on the "lecha" before "Adoshem".
 
 ## Questions
 
@@ -211,6 +211,10 @@ Kee, loh, then na'eh as two syllables, nah and eh. The apostrophe shows that the
 
 The soprano, throughout, and it sings each verse alone, as the Union Haggadah's solo. The others join for "Ki lo nae, ki lo yae" and every answer. Two singers make soprano and alto; a third adds the bass, a fourth the tenor.[^uh1923]
 
+### Who wrote Ki Lo Na'eh?
+
+No one knows; it is anonymous. The Encyclopaedia Judaica says the earliest manuscripts are German, from the early thirteenth century, and by 1287 Jacob ben Judah of London had copied it into his Etz Hayyim.[^ej][^kaufmann]
+
 ## Sing next
 
 - [Adir Hu](/songs/adir-hu): its twin, the alphabet hymn that follows it at a traditional seder, from the same Union Haggadah.
@@ -222,12 +226,12 @@ The soprano, throughout, and it sings each verse alone, as the Union Haggadah's 
 - [^je]: Cyrus Adler and Francis L. Cohen, "Ki Lo Na'eh", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 493, with the page image. https://www.jewishencyclopedia.com/articles/9318-ki-lo-na-eh
 - [^ej]: "Addir Bi-Melukhah", *Encyclopaedia Judaica* (Gale, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/addir-bi-melukhah
 - [^kaufmann]: David Kaufmann, "The Ritual of the Seder and the Agada of the English Jews before the Expulsion", *The Jewish Quarterly Review*, vol. 4 (1892), pp. 550 to 561. https://archive.org/details/jstor-1450252
-- [^jejacob]: Joseph Jacobs, "Jacob ben Judah Hazzan of London", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904). https://www.jewishencyclopedia.com/articles/8424-jacob-ben-judah-hazzan-of-london
+- [^jejacob]: Joseph Jacobs, "Jacob ben Judah Hazzan of London", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 34. https://www.jewishencyclopedia.com/articles/8424-jacob-ben-judah-hazzan-of-london
 - [^ejroth]: Cecil Roth, "Jacob ben Judah of London", *Encyclopaedia Judaica*, via Encyclopedia.com. https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/jacob-ben-judah-london
 - [^jeengland]: Joseph Jacobs, "England", *The Jewish Encyclopedia*, vol. 5 (Funk and Wagnalls, 1903). https://www.jewishencyclopedia.com/articles/5764-england
-- [^davidson]: Israel Davidson, *Otsar ha-shirah veha-piyut* (Thesaurus of Mediaeval Hebrew Poetry), vol. 2 (New York, Jewish Theological Seminary of America, 1924 to 1933), letter kaf, no. 215. https://archive.org/details/otsarhashiraheha21davi
-- [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, revised edition (1923), contents, pp. 82 to 85 and 156 to 158. https://archive.org/details/unionhaggadahhom00unse
-- [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), preface, contents and pp. 54 and 55. https://archive.org/details/ccar1908union
+- [^davidson]: Israel Davidson, *Otsar ha-shirah veha-piyut* (Thesaurus of Mediaeval Hebrew Poetry), vol. 2 (New York: Jewish Theological Seminary of America, 1929), letter kaf, no. 215. https://archive.org/details/otsarhashiraheha21davi
+- [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, revised edition (1923), contents, pp. 82 to 85 and 156 to 158, scan from the University of Florida, George A. Smathers Libraries, leaves n103 and n104 (pp. 84 and 85). https://archive.org/details/unionhaggadahhom00unse
+- [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), preface, contents and pp. 54 and 55, leaves n52 and n53 (pp. 54 and 55). https://archive.org/details/ccar1908union
 - [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", Hebrew text (Sefaria's public-domain version, from the Da'at Jewish studies site) and the English of the Koren Haggadah (Koren, 2013), with the order of Nirtzah, via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^tanakh]: Jeremiah 10:7, 1 Chronicles 29:11, Psalms 74:16 and 89:12, Hebrew (Miqra according to the Masorah) and the JPS translation, via Sefaria. https://www.sefaria.org/Jeremiah.10.7
 - [^sacks]: Jonathan Sacks, *The Jonathan Sacks Haggadah* (Koren, 2013), Nirtzah, "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/The_Jonathan_Sacks_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
@@ -242,6 +246,6 @@ The soprano, throughout, and it sings each verse alone, as the Union Haggadah's 
 - [^berrab]: *Bereshit Rabbah* 6:2, Hebrew and the Sefaria translation (2022), via Sefaria. https://www.sefaria.org/Bereshit_Rabbah.6.2
 - [^brown]: Brown University Library, Haggadot collection, "Haggadah shel Pesah (Liber Ritum Paschalium)", Königsberg, 1644. https://library.brown.edu/haggadot/portfolio/haggadah-shel-pesah-liber-ritum-paschalium-joannes-stephanus-rittangel/
 - [^niv]: Ella Gladstone Martin, "The First Musical Haggadah was Not for Jews", *Niv*, issue 17 (2023). https://www.nivmag.com/articles/first-musical-haggadah-not-for-jews
-- [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 188, 191 and 504, table XXVII, no. 13. https://archive.org/details/jewishmusicinits00idel_0
+- [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 174, 188, 191 and 504, table XXVII, no. 13. https://archive.org/details/jewishmusicinits00idel_0
 - [^ohr]: Yirmiyahu Ullman, "Elokim", *Ask!*, Ohr Somayach (2010). https://www.ohr.edu/4514
 - [^outorah]: Ari Enkin, "Zemirot: Repeating God's Name", *Dalet Amot of Halacha*, OU Torah. https://outorah.org/p/135253

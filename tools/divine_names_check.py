@@ -17,7 +17,7 @@ ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.dirname(os.path.dirname(os.
 LIB = os.path.join(ROOT, 'templates/library')
 
 # Full forms in transliteration, any language. Capitalised, whole words.
-TRANSLIT = re.compile(r"\b(Elohim|Elohei|Eloheinu|Elohenu|Elohai|Elohecha|Elohekha|Eloha|Adonai|Adonoy|Adonay|"
+TRANSLIT = re.compile(r"\b(Elohim|Elohei|Eloheinu|Elohenu|Elohai|Elohecha|Elohekha|Eloha|Adonai|Adonoy|Adonay|Adonoi|Adonaj|Adonoj|"
                       r"Shaddai|Shadai|Yahweh|Yahveh|Jehovah|Jehová|YHWH|Tzevaot|Tzeva'ot|Tsevaot|Sabaoth)\b")
 # A name split off by an apostrophe or hyphen, in any case ("Ke'eloheinu", "Ke-Elohenu"). The hymn title's fused
 # spellings (Ein Keloheinu, En Kelohenu, Ayn Kaylohaynu) are its name and stay (Hillel, 2026-11-11; lead, 2026-11-13).
@@ -94,7 +94,8 @@ for slug, song_file in slugs:
         if os.path.exists(f):
             for n, line in enumerate(open(f), 1):
                 report('templates/library/%s:%d' % (rel, n), line, en)
-    for rel in ('templates/library/meaning/%s.json' % slug, 'course/songs/%s.json' % slug):
+    for rel in ('templates/library/meaning/%s.json' % slug, 'course/songs/%s.json' % slug,
+                'templates/library/stories/media/%s/media.json' % slug):
         f = os.path.join(ROOT, rel)
         if os.path.exists(f):
             for p, s, en in walk(json.load(open(f)), True):
