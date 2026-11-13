@@ -96,7 +96,7 @@ In England's green and pleasant land.
 
 Parry wrote one tune for voices and organ, a solo verse and then one for all [^oldcountry][^standpoint]. Hymnbooks print his tune with his accompaniment as the harmony [^sop1925][^ucc1930]. It is sung by church choirs and Women's Institutes, at jubilees, and at English sporting events, rugby above all [^aspects][^robinson][^dibble][^oliveira]. Its tune name is JERUSALEM and its meter double long meter, 8.8.8.8 D [^sop1925][^ucc1930].
 
-Our arrangement is read from Songs of Praise, which prints Parry's own setting, and checked against Curwen's plate in The Old Country. It is in D, Parry's key, in 3/4. The soprano sings Parry's tune with no pitch changed, only the last note shortened to end on the bar line. The bass follows the lowest notes of his accompaniment, an octave or two up where they lie below a bass's range, with five notes changed. The alto and tenor are ours, on his harmony. We sing the first verse, broad and steady, with a breath at every line.
+Our arrangement is read from Curwen's own plate of Parry's song, as The Old Country reproduces it, and checked against the Canadian Hymnary of 1930; Songs of Praise was only consulted. It is in D, Parry's key, in 3/4. The soprano sings Parry's tune with no pitch changed, only the last note shortened to end on the bar line. On "pleasant" all four parts sing two even notes, as the plate prints them. The bass follows the lowest notes of his accompaniment, an octave or two up where they lie below a bass's range, with five notes changed. The alto and tenor are ours, on his harmony. We sing the first verse, broad and steady, with a breath at every line.
 
 ## Did you know?
 
@@ -121,7 +121,7 @@ No. The hymn sets the four stanzas from the preface to Blake's Milton: a Poem, w
 
 ### Which part sings the tune?
 
-The soprano sings Parry's tune, exactly as he wrote it, the last note shortened [^sop1925][^oldcountry]. With two singers, sing the tune and the alto; with three, add the bass; the tenor makes four. The tune spans an octave and a fourth, from a low B to a high E, so it suits a singer with a wide range.
+The soprano sings Parry's tune, exactly as he wrote it, the last note shortened [^oldcountry]. With two singers, sing the tune and the alto; with three, add the bass; the tenor makes four. The tune spans an octave and a fourth, from a low B to a high E, so it suits a singer with a wide range.
 
 ## Sing next
 

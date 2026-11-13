@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: jerusalem himno | jerusalem himno significado | quién compuso la música de jerusalem | dark satanic mills significado | es jerusalem el himno nacional de inglaterra | jerusalem william blake poema completo
-translatedFrom: 19e4eaf223dd
+translatedFrom: a5384a2e817d
 ---
 
 Jerusalem es el poema de William Blake "And did those feet in ancient time", cantado con la melodía que Hubert Parry escribió para él en marzo de 1916 [^standpoint][^dibble]. Blake lo escribió como parte del prefacio de su largo poema Milton, que lleva la fecha de 1804 en la portada [^milton-asu][^princeton]. Sus cuatro estrofas preguntan si Jesús caminó alguna vez por Inglaterra, y luego prometen no descansar hasta construir allí una nueva Jerusalén [^milton-ws][^historicuk]. Parry escribió la melodía para un acto en Londres en plena guerra; dos años después, la campaña por el voto de las mujeres la hizo suya, con su bendición [^graves][^dibble]. Se canta en la Last Night of the Proms desde 1953 [^bbcmm][^lrb], y en 2010 el público la eligió como himno de la victoria de Inglaterra en los Juegos de la Commonwealth [^teamengland][^oliveira].
@@ -113,7 +113,7 @@ en la tierra verde y grata de Inglaterra.
 
 Parry escribió una sola melodía para voces y órgano, con una estrofa para solista y luego una para todos [^oldcountry][^standpoint]. Los himnarios imprimen su melodía con su acompañamiento como armonía [^sop1925][^ucc1930]. La cantan coros de iglesia y los Women's Institutes, en jubileos y en acontecimientos deportivos ingleses, sobre todo en el rugby [^aspects][^robinson][^dibble][^oliveira]. Su nombre de melodía es JERUSALEM, y su metro, el largo doble, 8.8.8.8 D [^sop1925][^ucc1930].
 
-Nuestro arreglo se lee de Songs of Praise, que imprime la versión del propio Parry, y se coteja con la plancha de Curwen en The Old Country. Está en Re, la tonalidad de Parry, en 3/4. La soprano canta la melodía de Parry sin cambiar ninguna altura; solo se acorta la última nota para terminar en la barra de compás. El bajo sigue las notas más graves de su acompañamiento, una o dos octavas más arriba donde quedan por debajo de la extensión de un bajo, con cinco notas cambiadas. La contralto y el tenor son nuestros, sobre su armonía. Cantamos la primera estrofa, amplia y firme, con una respiración en cada verso.
+Nuestro arreglo se lee de la propia plancha de Curwen de la canción de Parry, tal como la reproduce The Old Country, y se coteja con el Hymnary canadiense de 1930; Songs of Praise solo se consultó. Está en Re, la tonalidad de Parry, en 3/4. La soprano canta la melodía de Parry sin cambiar ninguna altura; solo se acorta la última nota para terminar en la barra de compás. En "pleasant", las cuatro voces cantan dos notas iguales, como las imprime la plancha. El bajo sigue las notas más graves de su acompañamiento, una o dos octavas más arriba donde quedan por debajo de la extensión de un bajo, con cinco notas cambiadas. La contralto y el tenor son nuestros, sobre su armonía. Cantamos la primera estrofa, amplia y firme, con una respiración en cada verso.
 
 ## ¿Sabías que...?
 
@@ -138,7 +138,7 @@ No. El himno pone música a las cuatro estrofas del prefacio de Milton: a Poem, 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Parry, tal como la escribió, con la última nota acortada [^sop1925][^oldcountry]. Con dos cantantes, se cantan la melodía y la contralto; con tres, se añade el bajo; el tenor completa las cuatro voces. La melodía abarca una octava y una cuarta, de un Si grave a un Mi agudo, así que va bien a una voz de extensión amplia.
+La soprano canta la melodía de Parry, tal como la escribió, con la última nota acortada [^oldcountry]. Con dos cantantes, se cantan la melodía y la contralto; con tres, se añade el bajo; el tenor completa las cuatro voces. La melodía abarca una octava y una cuarta, de un Si grave a un Mi agudo, así que va bien a una voz de extensión amplia.
 
 ## Canta después
 
