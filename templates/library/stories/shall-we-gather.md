@@ -14,8 +14,8 @@ alsoKnownAs: Shall We Gather at the River?; Beautiful River
 wikidata: Q7487244
 quote: Yes, we'll gather at the river
 quoteSource: brightjewels1869
-original: Happy Voices (1865), p. 153, Internet Archive | https://archive.org/details/happyvoicesnewhy00amer/page/n158 || The New Golden Shower (1866), p. 25, Internet Archive | https://archive.org/details/newgoldenshowerc00brad/page/n26 || Bright Jewels (1869), p. 110, Internet Archive | https://archive.org/details/brightjewelsfors00lowr_0/page/n113
-listen: Internet Archive, 1924 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-673883-shall-we-gather-at-the-river
+original: Happy Voices (1865), Internet Archive | https://archive.org/details/happyvoicesnewhy00amer
+listen: National Jukebox, 1924 recording | https://archive.org/details/loc-jukebox-673883-shall-we-gather-at-the-river
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -28,11 +28,17 @@ Shall We Gather at the River?, called Beautiful River in its earliest known prin
 
 **The writer.** Robert Lowry was born in Philadelphia on 12 March 1826 [^burrage1888][^long1876][^canterbury-lowry]. His parents were Associate Presbyterians, Burrage says, but he joined the Baptists, studied at Lewisburg (now Bucknell University) and was ordained in 1854 [^burrage1888][^canterbury-lowry]. After churches in West Chester and New York City, he became pastor of the Hanson Place Baptist Church in Brooklyn in 1861 and stayed until 1869 [^burrage1888][^canterbury-lowry]. He later served at Lewisburg and at Plainfield, New Jersey [^burrage1888][^canterbury-lowry], and died at Plainfield on 25 November 1899 [^canterbury-lowry][^hall]. His other songs include Where Is My Wandering Boy Tonight?, words and music his, and the tune for Anna Warner's One More Day's Work for Jesus [^burrage1888][^julian][^sankey1907].
 
+![[1]]
+
 **The writing, in three tellings.** Three books tell the afternoon he wrote it, years afterwards, and they differ in detail. They agree on a hot summer day in 1864 in Brooklyn [^long1876][^burrage1888][^sankey1907]. The earliest is Edwin M. Long's Illustrated History of Hymns and Their Authors, printed in 1876 while Lowry was alive. Long has him seated in his parlour, and writes that an epidemic was sweeping through the city and many people were dying, so that a question rose in his heart: "We are parting at the river of death, shall we meet at the river of life?" Then Long quotes Lowry himself: "Seating myself at the organ, simply to give vent to the pent up emotions of the heart, the words and music of the hymn began to flow out, as if by inspiration" [^long1876].
 
 Henry Burrage's Baptist Hymn Writers of 1888 tells it more fully, in the third person. Burrage sets it on a July afternoon, with Lowry lying on a couch, worn out by the heat, while the pictures of Revelation passed before his mind: the throne, the heavenly river, the saints gathering. He wondered why hymn writers had said so much about "the river of death" and so little about the river of the water of life. The words came first as a question, "Shall we gather?", then as a chorus that answered it, "Yes, we'll gather". The music came with them, and Lowry could never say which came first. "They are twins," Burrage writes. He got up, played it through at his organ, sang the first verse and chorus, and wrote it down [^burrage1888]. Ira D. Sankey's book of hymn stories, published after Lowry's death, has him writing the words at his study table in Elliott Place, Brooklyn, then composing the tune at his parlour organ: words first, then music, where Long and Burrage have them come together [^sankey1907][^long1876][^burrage1888]. Only Long tells of an epidemic [^long1876][^burrage1888][^sankey1907].
 
+![[2]]
+
 **The earliest printings.** Lowry gave it to the American Tract Society for a new songbook, Burrage says [^burrage1888]. In that book, Happy Voices (New York, 1865), "for the home circle and sabbath schools", it is No. 220 on page 153, headed "Beautiful River" and credited to "Rev. R. Lowry" [^happyvoices1865][^julian]. It has five verses, the last three printed in columns under the music [^happyvoices1865]. A year later William B. Bradbury printed it on page 25 of his New Golden Shower (1866), "By permission of the author, Rev. R. Lowry". The page shows the hymn grown: Revelation 22:1 printed above the music, the direction "Cheerful", a tenor singing from the first note, and six verses, with a new third verse, "On the bosom of the river", and "Rippling" and "shining" where Happy Voices had "Mirror" and "silver" [^ngs1866][^fenner]. Lowry's own Sunday-school book, Bright Jewels (New York: Biglow & Main, 1869), prints the same setting and words on page 110, signed "R. L." [^brightjewels1869][^burrage1888].
+
+![[3]]
 
 **The tune's name.** The tune is now usually called HANSON PLACE, after Lowry's Brooklyn church. The name is a late one: Hymnology Archive credits the editors of the Southern Baptists' Baptist Hymnal of 1956, where it is No. 481 [^fenner][^hymnary-bh1956]. Older books call the tune BEAUTIFUL RIVER [^hymnary-text].
 
@@ -117,6 +123,8 @@ It began as a Sunday-school song and became a gospel hymn sung in churches of ma
 The 1865 and 1866 printings set it differently. In Happy Voices the verse is in three parts, soprano and alto on the upper staff and the bass alone below, and a tenor joins only for the chorus [^happyvoices1865]. From the New Golden Shower on, all four parts sing throughout [^ngs1866][^brightjewels1869].
 
 Our arrangement is read from the four parts in Lowry's Bright Jewels, first printed in Bradbury's New Golden Shower in 1866 [^ngs1866][^brightjewels1869], in E-flat as printed and in 4/4, the first verse and the chorus for 2 to 4 singers. Where Lowry gives the alto or tenor two notes to a syllable, we sing one; the tenor stays on E-flat for the "-er" of "river" and "forever" instead of dropping back to B-flat, and sings C on "Yes, we'll", the note Happy Voices gives it. The alto ends on a low G instead of Lowry's E-flat, so the duet and trio end on a chord's third rather than bare E-flats, and breaths are written in.
+
+![[4]]
 
 ## Versions and other words
 

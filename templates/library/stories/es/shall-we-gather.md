@@ -14,13 +14,13 @@ alsoKnownAs: Shall We Gather at the River?; Beautiful River
 wikidata: Q7487244
 quote: Yes, we'll gather at the river
 quoteSource: brightjewels1869
-original: Happy Voices (1865), p. 153, Internet Archive | https://archive.org/details/happyvoicesnewhy00amer/page/n158 || The New Golden Shower (1866), p. 25, Internet Archive | https://archive.org/details/newgoldenshowerc00brad/page/n26 || Bright Jewels (1869), p. 110, Internet Archive | https://archive.org/details/brightjewelsfors00lowr_0/page/n113
-listen: Internet Archive, grabación de 1924 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-673883-shall-we-gather-at-the-river
+original: Happy Voices (1865), Internet Archive | https://archive.org/details/happyvoicesnewhy00amer
+listen: National Jukebox, grabación de 1924 | https://archive.org/details/loc-jukebox-673883-shall-we-gather-at-the-river
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
-translatedFrom: 3329d40ad233
+translatedFrom: 59017285880c
 ---
 
 Shall We Gather at the River?, llamado Beautiful River en sus primeras impresiones conocidas, es un himno evangélico de Robert Lowry, pastor bautista de Brooklyn, que escribió su letra y su melodía en julio de 1864 [^burrage1888][^sankey1907][^canterbury-hymn]. Su primera estrofa hace una pregunta sobre el cielo, y el estribillo la responde: sí, nos reuniremos junto al río de la vida que brota del trono de Dios en el libro del Apocalipsis [^burrage1888][^brightjewels1869]. Su primera impresión conocida está en Happy Voices, un libro de escuela dominical de 1865 [^happyvoices1865][^julian], y Henry Burrage e Ira D. Sankey escribieron más tarde que cuarenta mil niños de Brooklyn lo cantaron en 1865, el año después de escribirlo [^burrage1888][^sankey1907]. Hymnary.org lo registra en más de 800 himnarios [^hymnary-text], y el director de cine John Ford lo usó en sus películas del Oeste, donde los críticos de cine lo llaman uno de sus himnos favoritos [^afi-stagecoach][^afi-searchers][^filmsite-stagecoach][^bbcmusic][^ebert-clementine].
@@ -29,11 +29,17 @@ Shall We Gather at the River?, llamado Beautiful River en sus primeras impresion
 
 **El autor.** Robert Lowry nació en Filadelfia el 12 de marzo de 1826 [^burrage1888][^long1876][^canterbury-lowry]. Sus padres eran presbiterianos asociados, dice Burrage, pero él se unió a los bautistas, estudió en Lewisburg (hoy Bucknell University) y fue ordenado en 1854 [^burrage1888][^canterbury-lowry]. Tras pasar por iglesias de West Chester y de la ciudad de Nueva York, en 1861 se hizo pastor de la Iglesia Bautista de Hanson Place, en Brooklyn, y allí siguió hasta 1869 [^burrage1888][^canterbury-lowry]. Más tarde sirvió en Lewisburg y en Plainfield, Nueva Jersey [^burrage1888][^canterbury-lowry], y murió en Plainfield el 25 de noviembre de 1899 [^canterbury-lowry][^hall]. Entre sus otras canciones están Where Is My Wandering Boy Tonight?, con letra y música suyas, y la melodía de One More Day's Work for Jesus, con letra de Anna Warner [^burrage1888][^julian][^sankey1907].
 
+![[1]]
+
 **Cómo lo escribió, en tres versiones.** Tres libros cuentan, años después, la tarde en que lo escribió, y difieren en los detalles. Coinciden en un caluroso día de verano de 1864 en Brooklyn [^long1876][^burrage1888][^sankey1907]. El más antiguo es Illustrated History of Hymns and Their Authors, de Edwin M. Long, impreso en 1876, en vida de Lowry. Long lo sitúa sentado en su salón, y escribe que una epidemia recorría la ciudad y moría mucha gente, de modo que le surgió en el corazón una pregunta: "Nos despedimos en el río de la muerte; ¿nos encontraremos en el río de la vida?". Luego Long cita al propio Lowry: "Me senté al órgano, solo para dar salida a las emociones contenidas del corazón, y la letra y la música del himno empezaron a brotar, como por inspiración" [^long1876].
 
 Baptist Hymn Writers, de Henry Burrage, de 1888, lo cuenta con más detalle, en tercera persona. Burrage lo sitúa en una tarde de julio, con Lowry tumbado en un sofá, agotado por el calor, mientras pasaban por su mente las imágenes del Apocalipsis: el trono, el río celestial, los santos que se reúnen. Se preguntó por qué los autores de himnos habían dicho tanto sobre "el río de la muerte" y tan poco sobre el río del agua de la vida. La letra llegó primero como una pregunta, "Shall we gather?" (¿nos reuniremos?), y luego como un estribillo que la respondía, "Yes, we'll gather" (sí, nos reuniremos). La música llegó con ella, y Lowry nunca supo decir cuál vino antes. "Son gemelas", escribe Burrage. Se levantó, la tocó entera en su órgano, cantó la primera estrofa y el estribillo, y la escribió [^burrage1888]. El libro de historias de himnos de Ira D. Sankey, publicado tras la muerte de Lowry, lo presenta escribiendo la letra en la mesa de su estudio, en Elliott Place, Brooklyn, y componiendo después la melodía en el órgano de su salón: primero la letra y luego la música, mientras que en Long y en Burrage llegan juntas [^sankey1907][^long1876][^burrage1888]. Solo Long habla de una epidemia [^long1876][^burrage1888][^sankey1907].
 
+![[2]]
+
 **Las primeras impresiones.** Lowry se lo dio a la American Tract Society para un nuevo cancionero, dice Burrage [^burrage1888]. En ese libro, Happy Voices (Nueva York, 1865), "para el círculo familiar y las escuelas dominicales", es el n.º 220, en la página 153, con el encabezado "Beautiful River" y atribuido a "Rev. R. Lowry" [^happyvoices1865][^julian]. Tiene cinco estrofas, las tres últimas impresas en columnas bajo la música [^happyvoices1865]. Un año después William B. Bradbury lo imprimió en la página 25 de su New Golden Shower (1866), "By permission of the author, Rev. R. Lowry" (con permiso del autor). La página muestra el himno ya crecido: Apocalipsis 22:1 impreso sobre la música, la indicación "Cheerful" (alegre), un tenor que canta desde la primera nota y seis estrofas, con una tercera nueva, "On the bosom of the river", y "Rippling" y "shining" donde Happy Voices decía "Mirror" y "silver" [^ngs1866][^fenner]. El propio libro de escuela dominical de Lowry, Bright Jewels (Nueva York: Biglow & Main, 1869), imprime la misma armonización y la misma letra en la página 110, firmado "R. L." [^brightjewels1869][^burrage1888].
+
+![[3]]
 
 **El nombre de la melodía.** Hoy la melodía suele llamarse HANSON PLACE, por la iglesia de Lowry en Brooklyn. Es un nombre tardío: Hymnology Archive lo atribuye a los editores del Baptist Hymnal de los bautistas del sur, de 1956, donde es el n.º 481 [^fenner][^hymnary-bh1956]. Libros anteriores llaman a la melodía BEAUTIFUL RIVER [^hymnary-text].
 
@@ -146,6 +152,8 @@ Nació como canción de escuela dominical y se convirtió en un himno evangélic
 Las impresiones de 1865 y 1866 lo armonizan de forma distinta. En Happy Voices la estrofa va a tres voces, soprano y contralto en el pentagrama de arriba y el bajo solo abajo, y un tenor se une solo en el estribillo [^happyvoices1865]. Desde The New Golden Shower, las cuatro voces cantan de principio a fin [^ngs1866][^brightjewels1869].
 
 Nuestro arreglo se lee de las cuatro voces de Bright Jewels, de Lowry, impresas por primera vez en The New Golden Shower de Bradbury en 1866 [^ngs1866][^brightjewels1869], en Mi bemol, como en el libro, y en 4/4: la primera estrofa y el estribillo para 2 a 4 cantantes. Donde Lowry da a la contralto o al tenor dos notas en una sílaba, cantamos una; el tenor se queda en Mi bemol en el "-er" de "river" y de "forever" en vez de volver a bajar a Si bemol, y canta Do en "Yes, we'll", la nota que le da Happy Voices. La contralto termina en un Sol grave en vez del Mi bemol de Lowry, para que el dúo y el trío acaben en la tercera de un acorde y no en unos Mi bemol desnudos, y las respiraciones están marcadas.
+
+![[4]]
 
 ## Versiones y otras letras
 

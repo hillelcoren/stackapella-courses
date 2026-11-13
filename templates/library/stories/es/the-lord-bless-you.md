@@ -17,7 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the lord bless you and keep you significado | the lord bless you and keep you historia | quién escribió the lord bless you and keep you | the lord bless you and keep you lutkin | bendición sacerdotal números 6 24 26 | jehová te bendiga y te guarde
-translatedFrom: 4ac5541dc2c1
+translatedFrom: 74e0e886d56f
+original: Lutkin, The Lord Bless You and Keep You (Summy), Internet Archive | https://archive.org/details/TheLordBlessYouAndKeepYou_700
 ---
 
 The Lord Bless You and Keep You es una breve bendición coral de Peter C. Lutkin, organista estadounidense y primer decano de música de la Universidad Northwestern, impresa en Chicago en 1900 como "Farewell Anthem with Sevenfold Amen" (himno coral de despedida con Amén séptuple) [^summy][^cdh][^nuhist][^numag]. Su letra es la bendición sacerdotal del libro de los Números, capítulo 6, versículos 24 a 26, en la versión King James, que Lutkin reordenó y adaptó a "you" [^summy][^kjv1611][^cdh]. Las iglesias la cantan al final del culto, después de la bendición del ministro o en su lugar, y los himnarios la imprimen con el nombre de melodía BENEDICTION [^price][^phh][^fenner][^hymnary]. Cantamos las cuatro voces del propio Lutkin, la bendición y el Amén, para cuatro cantantes.
@@ -28,13 +29,19 @@ The Lord Bless You and Keep You es una breve bendición coral de Peter C. Lutkin
 
 **En el culto cristiano.** Los cristianos también llegaron a cerrar sus cultos con ella. En su orden de la Misa de 1523, Martín Lutero permitió al pastor terminar con la bendición acostumbrada o con la de Números 6, que, escribió, Dios mismo había dispuesto [^luther][^phh]. La versión King James de 1611 dio a los angloparlantes la redacción que Lutkin puso en música, que en la ortografía de hoy dice "The LORD bless thee, and keep thee" ("Jehová te bendiga, y te guarde") [^kjv1611][^kjv].
 
+![[1]]
+
 **Peter Lutkin.** Lutkin nació en 1858 en Thompsonville, Wisconsin, y se crio en Chicago [^price][^baker][^phh]. Una guía del himnario metodista de 1911 dice que de niño cantó allí en el coro de la catedral de San Pedro y San Pablo [^price], y tanto esa guía como un diccionario de 1919 lo hacen organista de la catedral cuando aún era adolescente [^price][^baker]; un manual de himnario moderno sitúa en cambio su formación de niño en St. James [^phh]. Fue a estudiar a Europa en 1881, a la escuela real de música de Berlín según el diccionario de 1919 [^price][^phh][^baker]. De vuelta en Chicago, fue organista de la iglesia episcopal de St. James desde 1891, hasta 1896 según dos fuentes y hasta 1897 según la lista de la propia iglesia [^baker][^phh][^stjames]. En 1891 se hizo cargo también del conservatorio de música de la Universidad Northwestern, y cuando se formó su Escuela de Música en 1895, según la propia universidad, fue su primer decano; un diccionario de 1919 fecha su decanato desde 1897, y un manual de himnario desde 1896 [^nuhist][^numag][^baker][^phh]. Fue uno de los fundadores del American Guild of Organists [^baker][^phh], y amaba el canto sin acompañamiento: fundó coros en Northwestern, entre ellos un coro a cappella que la revista de la universidad llama el primero del país [^numag][^cdh]. Murió en 1931 [^phh][^cdh].
 
 **Una despedida.** Carl F. Price, cuya guía de The Methodist Hymnal de 1905 agradece a Lutkin sus útiles cartas, contó la historia de la pieza en 1911. Lutkin, escribió, la hizo como despedida para William Smedley, maestro de coro de St. James. Se cantó, con todos de rodillas, después de la bendición final, y Smedley no sabía que se la tenían preparada [^price][^fenner]. Un artículo de revista de 1892 confirma que el coro de St. James estaba entonces "under the direction of Mr. Smedley" (bajo la dirección del señor Smedley) [^whitney]. Ninguna fuente que hayamos leído fecha la despedida misma.
 
 **La impresión.** La primera impresión conocida es la partitura en octavo de Clayton F. Summy, publicada en Chicago en 1900 [^summy][^cdh]. Leímos una tirada posterior de Summy hecha con las mismas planchas, escaneada en el Internet Archive. Su portada, con el número de catálogo 1089, dice "farewell anthem with sevenfold amen" (himno coral de despedida con amén séptuple), "for mixed voices" (para voces mixtas), "a cappella ad lib." [^summy]. Dentro, la página 2 lleva el encabezamiento Andante, "Smoothly and deliberately" (con fluidez y sin prisa), con una parte de órgano marcada "May be omitted, if desired" (puede omitirse, si se desea), ya que el órgano solo dobla las voces [^summy][^cdh]. Al pie de la página se lee "Copyright 1900 by Clayton F. Summy Co.", renovado por Lutkin en 1928, plancha C. F. S. Co. 524-3 [^summy]. La bendición empieza suave; el Amén empieza suave también, crece hasta fuerte, luego se apaga y se ralentiza hasta un último acorde muy suave, y una nota al pie de la página 4 dice que el Amén puede cantarse por sí solo [^summy].
 
+![[2]]
+
 **A los himnarios.** Lutkin fue uno de los dos editores musicales de The Methodist Hymnal de 1905, hecho para la Iglesia Metodista Episcopal y la Iglesia Metodista Episcopal del Sur [^price][^mh1905][^fenner]. Ese himnario imprime su bendición como n.º 748, en la página 532, entre los "Chants and Occasional Pieces" (cantos y piezas para ocasiones especiales), con las mismas cuatro voces en dos pentagramas, "Smoothly and deliberately", pero con un Amén breve de dos compases en lugar del séptuple, y la línea "Copyright, C. F. Summy Co. Used by permission" (copyright de C. F. Summy Co., usado con permiso) [^mh1905].
+
+![[3]]
 
 ### Cronología
 

@@ -17,7 +17,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: sweet adeline historia | sweet adeline significado | quién escribió sweet adeline | sweet adeline letra en español | sweet adeline barbershop | quién cantó primero sweet adeline
-translatedFrom: 631963e68398
+translatedFrom: 507d396e980c
+original: You're the Flower of My Heart, Sweet Adeline (Witmark, 1903), Lilly Library, Universidad de Indiana | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-250085
+listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-245492-sweet-adeline || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-726049-you-re-the-flower-of-my-heart-sweet-adeline
 ---
 
 Sweet Adeline, impresa en 1903 como You're the Flower of My Heart, Sweet Adeline (eres la flor de mi corazón, dulce Adeline), es una balada con música de Harry Armstrong y letra de Richard H. Gerard, publicada por M. Witmark and Sons, de Nueva York [^lilly1903][^spaeth1940][^witmark1939]. Sus estrofas hablan de un enamorado que recuerda a una amada que ya no está; su estribillo, con notas largas y mantenidas a las que otras voces pueden responder, es la parte que todo el mundo conoce [^lilly1903][^spaeth1940]. En 1940, el historiador de la canción Sigmund Spaeth la llamó el "himno nacional" del cuarteto de barbershop [^spaeth1940], y la sociedad femenina de barbershop fundada en Tulsa en 1945 tomó el nombre de Sweet Adelines [^okhist][^sai2015].
@@ -31,6 +33,8 @@ Sweet Adeline, impresa en 1903 como You're the Flower of My Heart, Sweet Adeline
 **Mito y documentos.** Se suele contar que Gerard vio un cartel de la gira de despedida de la cantante Adelina Patti y tomó prestado su nombre. El propio Armstrong le habló a Spaeth en 1945 de un letrero de Broadway que decía "Farewell appearance, Adelina Patti" (última actuación, Adelina Patti) [^rotarian1945]. Lo que muestran los documentos más antiguos: en la historia de la editorial de 1939, Gerard dice que tomó el nombre de Patti, sin letrero ni cartel, y que se quedó con "Adeline" en vez de "Adeleen" para que rimara con "pine" [^witmark1939][^time1934]. Spaeth, en 1940, dijo que el nombre se cambió sobre todo por su última sílaba, larga y fácil de cantar [^spaeth1940].
 
 **La partitura.** Nuestra melodía está leída de un ejemplar de la Lilly Library de la Universidad de Indiana, impreso con las planchas originales (plancha 6003) en 1914 o después, sin aviso de renovación: un anuncio en su última página de música es de una canción de Witmark de 1914, You Planted a Rose in the Garden of Love [^lilly1903][^wmich][^yorku]. Su portada atribuye la música a "Henry W. Armstrong", y la página 3, a Harry Armstrong [^lilly1903]. La página 3 lleva el encabezado "To Miss Emma F. Tolen" (a la señorita Emma F. Tolen), sobre "Copyright, MCMIII, by M. Witmark & Sons" [^lilly1903][^byu]. El primer anuncio de la canción en el catálogo de Witmark decía: "El estribillo es de tipo responsorial, lo que lo hace valioso para coros" [^witmark1939].
+
+![[1]]
 
 **En el escenario del minstrel.** La línea superior de la portada dice "Sung with Great Success by William R. Moore with Haverly's Mastodon Minstrels" (cantada con gran éxito por William R. Moore con los Haverly's Mastodon Minstrels) [^lilly1903]. El empresario de espectáculos J. H. Haverly había fundado en Chicago, en octubre de 1878, su gran compañía ambulante Mastodon [^rice1911][^paskman1928]. Su propia última compañía empezó su temporada en 1898 [^rice1911], y en 1901 la compañía que llevaba su nombre pertenecía a W. E. Nankeville [^gazette1901]. En diciembre de 1903, un periódico de Reno incluía entre sus cantantes a un "William Moore, el famoso tenor canadiense" [^nsj1903]. El minstrel con la cara pintada de negro (blackface) era un espectáculo teatral en el que intérpretes blancos se oscurecían la cara para burlarse de los afroamericanos. La letra de la canción no tiene nada de ese escenario, pero en parte se vendió a través de él.
 
@@ -121,7 +125,11 @@ dulce Adeline.
 
 Sweet Adeline se vendió como balada para voz y piano; en su estribillo impreso, el piano llena los huecos bajo las notas largas de la voz con breves líneas en movimiento [^lilly1903]. Los cuartetos llenan esos huecos con voces. Spaeth la llamó el modelo del estilo de "eco", en el que una voz canta una frase y las demás le responden en armonía; el "Sweet Adeline" del comienzo, escribió, le corresponde al lead solo, la voz que lleva la melodía, o a todos al unísono [^spaeth1940][^spaeth1926].
 
+![[2]]
+
 Nuestro arreglo canta solo el estribillo, con cada altura y cada ritmo tal como están impresos en el ejemplar de la Lilly Library, en Si bemol y en 4/4 [^lilly1903]. Las cuatro voces cantan la letra a la vez, en armonía cerrada, en lugar de hacer ecos: la soprano lleva la melodía, la contralto y el tenor cantan muy cerca por debajo, y el bajo camina por las fundamentales. Para 2 a 4 cantantes, a la soprano y la contralto se suma el bajo, y luego el tenor. Se omiten los calderones y las notas de adorno de la partitura, y se añaden respiraciones cortas después de "line", "pine" y "beams". Entre los acordes hay séptimas de dominante sobre Re, Do y Fa, y, cerca del final, un Do menor séptima que se convierte en Do7 en "heart".
+
+![[3]]
 
 ## Versiones y otras letras
 

@@ -15,6 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: skye boat song meaning | skye boat song original lyrics | who wrote skye boat song | who wrote the original skye boat song lyrics | skye boat song history | skye boat song original | skye boat song gaelic lyrics | skye boat song lyrics meaning
+original: Songs of the North, vol. I (Cramer reprint), Internet Archive | https://archive.org/details/31761034118778
 ---
 
 The Skye Boat Song, often called by its first line, Speed, Bonnie Boat, or by its refrain, Over the Sea to Skye, is a Scottish song about a real escape. In June 1746, two months after his army was beaten at Culloden, Prince Charles Edward Stuart, Bonnie Prince Charlie, crossed by night from Benbecula to the Isle of Skye in a small boat, dressed as Flora MacDonald's maid.[^lyon][^blaikie][^dnb-flora] The song came more than a century later. Harold Boulton wrote the words, and the air, its book says, was four bars taken down from Hebridean boatmen and four added by Anne Campbell Macleod.[^sotn] Their Songs of the North printed it in the 1880s,[^smith1888][^blackie1889] and Robert Louis Stevenson later wrote his own words to the same tune.[^students][^balladindex]
@@ -26,6 +27,8 @@ The Skye Boat Song, often called by its first line, Speed, Bonnie Boat, or by it
 **The book.** Songs of the North was edited by A. C. Macleod and Harold Boulton, with the music arranged by Malcolm Lawson, and published in London by Field and Tuer at the Leadenhall Press.[^edwards1887][^smith1888] Its first volume held 46 songs and was dedicated, by permission, to Queen Victoria.[^edwards1887][^imslp][^sotn] We have not seen the first edition; our copy, a later Cramer printing, carries no date. The Ballad Index gives 1884 as the song's earliest date, and IMSLP puts "(1884)" on a Cramer copy of the twentieth edition.[^balladindex][^imslp] Two notices of July 1885, in the Illustrated London News and Chambers's Journal, treat it as a handsome new volume from Field and Tuer.[^iln1885][^chambers1885] By August 1887 the anthologist D. H. Edwards could note that many of its songs were printed there for the first time.[^edwards1887]
 
 **The air and its maker.** A. C. Macleod was Anne Campbell Macleod, whom Edwards calls Annie, second daughter of Dr Norman Macleod of Glasgow.[^edwards1887][^whoswho1923] Who's Who for 1923 records her marriage in 1888 to James Wilson, later Sir James, which made her Lady Wilson, and her death in 1921.[^whoswho1923][^clanmacleod] The song's page is headed "Skye Boat Song" and, in bold, "(Jacobite)". Over the music, "Words by Harold Boulton" faces "Four bars taken down from Hebridean boatmen, four bars added by A. C. Macleod", with Malcolm Lawson's name below.[^sotn] In 1923 Boulton's later collection, Our National Songs, called it an "Air (founded upon an old 'Chanty') Composed by A. C. Macleod".[^ons1923] Neither book names the boatmen's song.
+
+![[1]]
 
 **The words.** Harold Boulton lived from 1859 to 1935.[^imslp][^ons1923] In 1910 the writer Harold Simpson set down Boulton's story of how the song began. A Professor Blackburn told him of Highland boatmen rowing him and Mrs Blackburn across to Roshven, chanting a refrain: "Row us along, Donald and John, Over the sea to Roshven." On this, Simpson writes, Boulton founded the Skye Boat Song, which Boulton counted among his three most successful lyrics.[^simpson1910] In 1888 Edwards printed the song, all four verses, among Boulton's poems, and Laura Alexandrine Smith quoted it with its tune in The Music of the Waters, her book of songs of the sea.[^edwards1888][^smith1888]
 
@@ -45,7 +48,11 @@ The Skye Boat Song, often called by its first line, Speed, Bonnie Boat, or by it
 
 The chorus urges the boat on like a bird. "Bonnie" means fine or handsome. "The lad that's born to be king" is Charles himself, whom the Jacobites held to be the rightful heir to the throne.[^dnb-charles] Skye is the large island off the west coast; the Gaelic version printed with the song calls it Tìr a' Cheò.[^sotn]
 
+![[2]]
+
 The first verse is the storm. The winds howl and thunder breaks overhead, while the enemy, "baffled", stands on the shore and dares not follow. The book's footnote says the pursuers, though they had boats, did not venture out;[^sotn] Flora says soldiers fired at them.[^lyon] The 1888 and 1889 printings we have read say "Thunder-clouds rend the air"; the Cramer reprint and Our National Songs of 1923 say "Thunderclaps", as sung today.[^edwards1888][^smith1888][^blackie1889][^sotn][^ons1923]
+
+![[3]]
 
 The second verse is a lullaby: sleep softly, for the ocean is a bed fit for a king, and Flora will keep watch by your head. The third looks back to Culloden, where "many's the lad" who could wield a claymore, a Highland broadsword, lay dead by nightfall. The fourth tells of burned homes, and of exile and death scattering the loyal men, and ends in hope: before the sword is cool in its sheath ("ere" means before), Charlie will come again.
 

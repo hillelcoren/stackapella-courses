@@ -17,6 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the lord bless you and keep you | the lord bless you and keep you verse | the lord bless you and keep you bible verse | the lord bless you and keep you numbers 6 24 26 | the lord bless you and keep you kjv | the lord bless you and keep you meaning | the lord bless you and keep you verse meaning | who wrote the lord bless you and keep you | who wrote the lord bless you and keep you song | the lord bless you and keep you original song | the lord bless you and keep you lutkin | the lord bless you and keep you lutkin satb | lutkin sevenfold amen | the lord bless you and keep you history | is the lord bless you and keep you a hymn | the lord bless you and keep you who said it | the lord bless you and keep you lyrics
+original: Lutkin, The Lord Bless You and Keep You (Summy), Internet Archive | https://archive.org/details/TheLordBlessYouAndKeepYou_700
 ---
 
 The Lord Bless You and Keep You is a short choral blessing by Peter C. Lutkin, an American organist and the first dean of music at Northwestern University, printed in Chicago in 1900 as a "Farewell Anthem with Sevenfold Amen" [^summy][^cdh][^nuhist][^numag]. Its words are the priestly blessing from the Book of Numbers, chapter 6, verses 24 to 26, in the King James Version, which Lutkin rearranged and put into "you" [^summy][^kjv1611][^cdh]. Churches sing it at the close of a service, after the minister's blessing or in its place, and hymnals print it under the tune name BENEDICTION [^price][^phh][^fenner][^hymnary]. We sing Lutkin's own four voice parts, blessing and Amen, for four singers.
@@ -27,13 +28,19 @@ The Lord Bless You and Keep You is a short choral blessing by Peter C. Lutkin, a
 
 **In Christian worship.** Christians came to end services with it too. In his order for the Mass of 1523, Martin Luther let the pastor close with the customary blessing or with the one from Numbers 6, which, he wrote, the Lord himself had arranged [^luther][^phh]. The King James Version of 1611 gave English speakers the wording Lutkin set, in today's spelling "The LORD bless thee, and keep thee" [^kjv1611][^kjv].
 
+![[1]]
+
 **Peter Lutkin.** Lutkin was born in 1858 at Thompsonville, Wisconsin, and grew up in Chicago [^price][^baker][^phh]. A Methodist hymnal guide of 1911 says he sang as a boy in the choir of the Cathedral of Saints Peter and Paul there [^price], and it and a dictionary of 1919 both make him the cathedral's organist while still in his teens [^price][^baker]; a modern hymnal handbook places his boyhood training at St. James instead [^phh]. He went to Europe to study in 1881, at the royal music school in Berlin by the 1919 dictionary's account [^price][^phh][^baker]. Back in Chicago, he was organist at St. James Episcopal Church from 1891, until 1896 by two accounts and 1897 by the church's own list [^baker][^phh][^stjames]. In 1891 he also took charge of Northwestern University's conservatory of music, and when its School of Music was formed in 1895, by the university's own account, he became its first dean; a dictionary of 1919 dates his deanship from 1897, and a hymnal handbook from 1896 [^nuhist][^numag][^baker][^phh]. He was one of the founders of the American Guild of Organists [^baker][^phh], and he loved unaccompanied singing: he founded choirs at Northwestern, among them an a cappella choir that the university's magazine calls the nation's first [^numag][^cdh]. He died in 1931 [^phh][^cdh].
 
 **A farewell.** Carl F. Price, whose guide to the Methodist Hymnal of 1905 thanks Lutkin for helpful letters, told the piece's story in 1911. Lutkin, he wrote, made it as a farewell to William Smedley, choirmaster at St. James. It was sung, everyone kneeling, after the benediction, and Smedley had not known it was coming [^price][^fenner]. A magazine article of 1892 confirms that St. James's choir was then "under the direction of Mr. Smedley" [^whitney]. No source we read dates the farewell itself.
 
 **The printing.** The earliest known printing is Clayton F. Summy's octavo, published in Chicago in 1900 [^summy][^cdh]. We read a later Summy printing from the same plates, scanned at the Internet Archive. Its cover, catalogue number 1089, reads "farewell anthem with sevenfold amen", "for mixed voices", "a cappella ad lib." [^summy]. Inside, page 2 is headed Andante, "Smoothly and deliberately", with an organ part marked "May be omitted, if desired", as the organ only doubles the voices [^summy][^cdh]. The foot of the page reads "Copyright 1900 by Clayton F. Summy Co.", renewed by Lutkin in 1928, plate C. F. S. Co. 524-3 [^summy]. The blessing begins softly; the Amen begins softly too, swells to loud, then fades and slows to a very soft last chord, and a footnote on page 4 says the Amen may be sung on its own [^summy].
 
+![[2]]
+
 **Into the hymnals.** Lutkin was one of the two music editors of the Methodist Hymnal of 1905, made for the Methodist Episcopal Church and the Methodist Episcopal Church, South [^price][^mh1905][^fenner]. It prints his blessing as No. 748, on page 532, among the "Chants and Occasional Pieces", with the same four parts on two staves, "Smoothly and deliberately", but a short two-bar Amen in place of the sevenfold one, and the line "Copyright, C. F. Summy Co. Used by permission" [^mh1905].
+
+![[3]]
 
 ### Timeline
 

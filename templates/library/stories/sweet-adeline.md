@@ -17,6 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote sweet adeline | sweet adeline history | sweet adeline song 1903 | sweet adeline song original | sweet adeline song original singer | who sang sweet adeline | sweet adeline meaning | sweet adeline song meaning | sweet adeline lyrics | sweet adeline lyrics meaning | sweet adeline barbershop | sweet adeline barbershop quartet | sweet adelines international history | sweet adelines what is it
+original: You're the Flower of My Heart, Sweet Adeline (Witmark, 1903), Lilly Library, Indiana University | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-250085
+listen: National Jukebox, 1904 recording | https://archive.org/details/loc-jukebox-245492-sweet-adeline || National Jukebox, 1908 recording | https://archive.org/details/loc-jukebox-726049-you-re-the-flower-of-my-heart-sweet-adeline
 ---
 
 Sweet Adeline, printed in 1903 as You're the Flower of My Heart, Sweet Adeline, is a ballad with music by Harry Armstrong and words by Richard H. Gerard, published by M. Witmark and Sons of New York [^lilly1903][^spaeth1940][^witmark1939]. Its verses tell of a lover remembering a sweetheart who is gone; its chorus, with long held notes that other voices can answer, is the part everyone knows [^lilly1903][^spaeth1940]. In 1940 the song historian Sigmund Spaeth called it the barbershop quartet's "national anthem" [^spaeth1940], and the women's barbershop society founded in Tulsa in 1945 took the name Sweet Adelines [^okhist][^sai2015].
@@ -30,6 +32,8 @@ Sweet Adeline, printed in 1903 as You're the Flower of My Heart, Sweet Adeline, 
 **Myth and record.** Often told: Gerard saw a poster for the singer Adelina Patti's farewell tour and borrowed her name. Armstrong himself told Spaeth in 1945 of a Broadway sign reading "Farewell appearance, Adelina Patti" [^rotarian1945]. What the earlier record shows: in the publisher's history of 1939, Gerard says he took the name from Patti, with no sign or poster, and kept "Adeline" rather than "Adeleen" so that it would rhyme with "pine" [^witmark1939][^time1934]. Spaeth, in 1940, said the name was changed chiefly for its long, singable last syllable [^spaeth1940].
 
 **The sheet music.** Our melody is read from a copy in the Lilly Library at Indiana University, printed from the original plates (plate 6003) in 1914 or later, with no renewal notice: an advertisement on its last page of music is for a Witmark song of 1914, You Planted a Rose in the Garden of Love [^lilly1903][^wmich][^yorku]. Its cover credits the music to "Henry W. Armstrong" and page 3 to Harry Armstrong [^lilly1903]. Page 3 is headed "To Miss Emma F. Tolen", above "Copyright, MCMIII, by M. Witmark & Sons" [^lilly1903][^byu]. Witmark's first catalogue notice of the song said: "The refrain is of the responsive sort, making it valuable for choruses" [^witmark1939].
+
+![[1]]
 
 **The minstrel stage.** The cover's top line reads "Sung with Great Success by William R. Moore with Haverly's Mastodon Minstrels" [^lilly1903]. The showman J. H. Haverly had founded his large touring Mastodon company in Chicago in October 1878 [^rice1911][^paskman1928]. His own last company began its season in 1898 [^rice1911], and by 1901 the troupe under his name belonged to W. E. Nankeville [^gazette1901]. In December 1903 a Reno paper listed a "William Moore, the famous Canadian tenor" among its singers [^nsj1903]. Blackface minstrelsy was a stage show in which white performers darkened their faces to mock Black people. The song's words have nothing of that stage, but it was sold partly through it.
 
@@ -96,7 +100,11 @@ Sweet Adeline.
 
 Sweet Adeline was sold as a ballad for voice and piano; in its printed chorus the piano fills the gaps under the voice's long notes with short moving lines [^lilly1903]. Quartets fill those gaps with voices. Spaeth called it the model of the "echo" style, in which one voice sings a phrase and the others answer it in harmony; the opening "Sweet Adeline", he wrote, belongs to the lead alone or to all in unison [^spaeth1940][^spaeth1926].
 
+![[2]]
+
 Our arrangement sings the chorus only, every pitch and rhythm as printed in the Lilly Library copy, in B-flat and 4/4 [^lilly1903]. All four parts sing the words together in close harmony rather than echoing: the soprano carries the tune, the alto and tenor sing close under it, and the bass walks the roots. For 2 to 4 singers, it adds the bass to soprano and alto, then the tenor. The print's fermatas and grace notes are left out, and short breaths are written in after "line", "pine" and "beams". The chords include dominant sevenths on D, C and F, and near the end a C minor seventh that turns into C7 on "heart".
+
+![[3]]
 
 ## Versions and other words
 

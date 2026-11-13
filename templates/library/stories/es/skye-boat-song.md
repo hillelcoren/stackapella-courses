@@ -15,7 +15,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: skye boat song significado | skye boat song letra original | quién escribió skye boat song | skye boat song historia | skye boat song letra en gaélico | skye boat song traducción
-translatedFrom: 58defbeba641
+translatedFrom: 0e81b11e32c4
+original: Songs of the North, vol. I (reimpresión de Cramer), Internet Archive | https://archive.org/details/31761034118778
 ---
 
 The Skye Boat Song, a menudo llamada por su primer verso, Speed, Bonnie Boat, o por su estribillo, Over the Sea to Skye, es una canción escocesa sobre una huida real. En junio de 1746, dos meses después de que su ejército fuera derrotado en Culloden, el príncipe Carlos Eduardo Estuardo, "Bonnie Prince Charlie", cruzó de noche de Benbecula a la isla de Skye en una pequeña barca, vestido de criada de Flora MacDonald.[^lyon][^blaikie][^dnb-flora] La canción llegó más de un siglo después. Harold Boulton escribió la letra, y la melodía, según su libro, eran cuatro compases tomados de barqueros de las Hébridas y cuatro añadidos por Anne Campbell Macleod.[^sotn] Su libro, Songs of the North, la imprimió en la década de 1880,[^smith1888][^blackie1889] y Robert Louis Stevenson escribió más tarde su propia letra para la misma melodía.[^students][^balladindex]
@@ -27,6 +28,8 @@ The Skye Boat Song, a menudo llamada por su primer verso, Speed, Bonnie Boat, o 
 **El libro.** Songs of the North lo editaron A. C. Macleod y Harold Boulton, con la música arreglada por Malcolm Lawson, y lo publicaron en Londres Field and Tuer, en la Leadenhall Press.[^edwards1887][^smith1888] Su primer volumen reunía 46 canciones y estaba dedicado, con su permiso, a la reina Victoria.[^edwards1887][^imslp][^sotn] No hemos visto la primera edición; nuestro ejemplar, una impresión posterior de Cramer, no lleva fecha. El Ballad Index da 1884 como la fecha más antigua de la canción, e IMSLP pone "(1884)" en un ejemplar de Cramer de la vigésima edición.[^balladindex][^imslp] Dos reseñas de julio de 1885, en The Illustrated London News y en Chambers's Journal, lo tratan como un hermoso volumen nuevo de Field and Tuer.[^iln1885][^chambers1885] En agosto de 1887, el antólogo D. H. Edwards ya podía señalar que muchas de sus canciones aparecían impresas allí por primera vez.[^edwards1887]
 
 **La melodía y su autora.** A. C. Macleod era Anne Campbell Macleod, a quien Edwards llama Annie, segunda hija del doctor Norman Macleod, de Glasgow.[^edwards1887][^whoswho1923] El Who's Who de 1923 registra su boda en 1888 con James Wilson, más tarde sir James, que la convirtió en Lady Wilson, y su muerte en 1921.[^whoswho1923][^clanmacleod] La página de la canción lleva el título "Skye Boat Song" y, en negrita, "(Jacobite)", es decir, jacobita. Sobre la música, "Words by Harold Boulton" (letra de Harold Boulton) está frente a "Four bars taken down from Hebridean boatmen, four bars added by A. C. Macleod" (cuatro compases tomados de barqueros de las Hébridas, cuatro compases añadidos por A. C. Macleod), con el nombre de Malcolm Lawson debajo.[^sotn] En 1923, la colección posterior de Boulton, Our National Songs, la llamó "Air (founded upon an old 'Chanty') Composed by A. C. Macleod" (melodía basada en una vieja canción marinera, compuesta por A. C. Macleod).[^ons1923] Ninguno de los dos libros nombra la canción de los barqueros.
+
+![[1]]
 
 **La letra.** Harold Boulton vivió de 1859 a 1935.[^imslp][^ons1923] En 1910, el escritor Harold Simpson dejó por escrito el relato de Boulton sobre cómo nació la canción. Un tal profesor Blackburn le contó que unos barqueros de las Tierras Altas los habían llevado a remo, a él y a la señora Blackburn, hasta Roshven, cantando un estribillo: "Row us along, Donald and John, Over the sea to Roshven." (Llévanos remando, Donald y John, por el mar hasta Roshven.) Sobre esto, escribe Simpson, Boulton construyó la Skye Boat Song, que contaba entre sus tres letras de más éxito.[^simpson1910] En 1888, Edwards imprimió la canción, con sus cuatro estrofas, entre los poemas de Boulton, y Laura Alexandrine Smith la citó con su melodía en The Music of the Waters, su libro de canciones del mar.[^edwards1888][^smith1888]
 
@@ -46,7 +49,11 @@ The Skye Boat Song, a menudo llamada por su primer verso, Speed, Bonnie Boat, o 
 
 El estribillo anima a la barca como a un pájaro. "Bonnie" significa hermosa o gallarda. "The lad that's born to be king" (el muchacho que nació para ser rey) es el propio Carlos, a quien los jacobitas tenían por legítimo heredero del trono.[^dnb-charles] Skye es la gran isla frente a la costa oeste; la versión gaélica impresa con la canción la llama Tìr a' Cheò.[^sotn]
 
+![[2]]
+
 La primera estrofa es la tormenta. Los vientos aúllan y el trueno estalla en lo alto, mientras el enemigo, "baffled" (burlado), se queda en la orilla y no se atreve a seguirlos. La nota al pie del libro dice que los perseguidores, aunque tenían barcas, no se aventuraron a salir;[^sotn] Flora cuenta que los soldados les dispararon.[^lyon] Las impresiones de 1888 y 1889 que hemos leído dicen "Thunder-clouds rend the air" (nubes de tormenta desgarran el aire); la reimpresión de Cramer y Our National Songs de 1923 dicen "Thunderclaps" (truenos), como se canta hoy.[^edwards1888][^smith1888][^blackie1889][^sotn][^ons1923]
+
+![[3]]
 
 La segunda estrofa es una canción de cuna: duerme tranquilo, porque el océano es un lecho digno de un rey, y Flora velará junto a tu cabeza. La tercera vuelve la vista a Culloden, donde "many's the lad" (muchos muchachos) que sabían blandir la claymore, una espada ancha de las Tierras Altas, yacían muertos al caer la noche. La cuarta habla de hogares quemados, y del exilio y la muerte que dispersan a los hombres leales, y termina con esperanza: antes de que la espada se enfríe en la vaina ("ere" significa antes de), Charlie volverá.
 
