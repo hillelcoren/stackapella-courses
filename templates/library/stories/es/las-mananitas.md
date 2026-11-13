@@ -21,7 +21,7 @@ translatedFrom: 2706bcc8ddff
 original: El laúd hispano-americano (Los Ángeles, 1921), ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant
 ---
 
-Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas, y como Las mañanitas del rey David, es la canción que los mexicanos cantan al amanecer para despertar a alguien el día de su cumpleaños o de su santo [^toor1947][^manfred1932][^brenner1929]. También se le canta a la Virgen de Guadalupe en la Basílica de Guadalupe el 12 de diciembre, su día [^toor1947][^ewtn2022]. Nadie sabe quién la hizo. Su melodía y la estrofa de Amapolita las imprimió en 1904 Antonio García Cubas, al recordar una serenata al amanecer [^garciacubas1904]; la primera impresión que hemos encontrado de la estrofa del rey David es un cancionero de Los Ángeles de 1921 [^laud1921].
+Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas, y como Las mañanitas del rey David, es la canción que los mexicanos cantan al amanecer para despertar a alguien el día de su cumpleaños o de su santo [^toor1947][^manfred1932][^brenner1929]. También se le canta a la Virgen de Guadalupe en la Basílica de Guadalupe el 12 de diciembre, su día [^toor1947][^ewtn2022]. Nadie sabe quién la hizo. Su melodía y la estrofa de Amapolita las imprimió en 1904 Antonio García Cubas, al recordar una serenata al amanecer [^garciacubas1904]; la primera impresión conocida de la estrofa del rey David es un cancionero de Los Ángeles de 1921 [^laud1921].
 
 ## De dónde viene
 
@@ -35,7 +35,7 @@ Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas,
 
 **La palabra de un compositor.** En un ensayo impreso en 1917 (un artículo actual fecha sus palabras en 1914 [^quadratin2026]), el compositor Manuel M. Ponce describió canciones en compás ternario con aire de mazurca, y dijo que en una de ellas el "anónimo autor popular" alcanzó una verdadera belleza: "me refiero a las mañanitas, canto popular de melodía nobilísima y de corte beethoviano". Era tan conocida, añadió, que no hacía falta escribirla [^ponce1917].
 
-**La estrofa del rey David.** La primera impresión que hemos encontrado de la estrofa con que hoy empieza la canción, "Estas son las mañanitas que cantaba el rey David", está en El laúd hispano-americano, un cancionero de bolsillo de 160 páginas publicado en Los Ángeles en 1921 por su compilador, C. Santos, con la portada a franjas verde, blanca y roja y el águila mexicana [^laud1921]. En las páginas 104 y 105 imprime "Las Mañanitas" como siete estrofas de cuatro versos seguidas, sin autor [^laud1921]. Un estudio de 2024 de Ana Rosa Gómez Mutio encuentra la estrofa con frecuencia, con cambios, en impresos de la imprenta de Antonio Vanegas Arroyo y sus herederos, en la Ciudad de México; uno de ellos, un cuadernillo de 1935, la dirige a la Virgen de Guadalupe [^gomez2024][^lacipi-diadoce]. Una de sus hojas, fechada en 1911, se titula "Unas lindas mañanitas a las muchachas bonitas", palabras del tercer verso de la estrofa, y Gómez Mutio lee el título como un guiño a ella; pero sus veinte estrofas no incluyen la del rey David [^carter1911][^gomez2024]. Un artículo de prensa de 2026 dice que esa hoja ya trae la estrofa, y que El Colegio de México guarda un ejemplar fechado en 1918 [^quadratin2026]; el ejemplar de 1911 que hemos leído no la trae, y el de 1918 no lo hemos visto.
+**La estrofa del rey David.** La primera impresión conocida de la estrofa con que hoy empieza la canción, "Estas son las mañanitas que cantaba el rey David", está en El laúd hispano-americano, un cancionero de bolsillo de 160 páginas publicado en Los Ángeles en 1921 por su compilador, C. Santos, con la portada a franjas verde, blanca y roja y el águila mexicana [^laud1921]. En las páginas 104 y 105 imprime "Las Mañanitas" como siete estrofas de cuatro versos seguidas, sin autor [^laud1921]. Un estudio de 2024 de Ana Rosa Gómez Mutio encuentra la estrofa con frecuencia, con cambios, en impresos de la imprenta de Antonio Vanegas Arroyo y sus herederos, en la Ciudad de México; uno de ellos, un cuadernillo de 1935, la dirige a la Virgen de Guadalupe [^gomez2024][^lacipi-diadoce]. Una de sus hojas, fechada en 1911, se titula "Unas lindas mañanitas a las muchachas bonitas", palabras del tercer verso de la estrofa, y Gómez Mutio lee el título como un guiño a ella; pero sus veinte estrofas no incluyen la del rey David [^carter1911][^gomez2024]. Un artículo de prensa de 2026 dice que esa hoja ya trae la estrofa, y que El Colegio de México guarda un ejemplar fechado en 1918 [^quadratin2026]; el ejemplar de 1911 que hemos leído no la trae, y el de 1918 no lo hemos visto.
 
 ![[3]]
 
@@ -43,10 +43,10 @@ Las Mañanitas, conocida también por su primer verso, Estas son las mañanitas,
 
 ### Cronología
 
-- 1904: García Cubas imprime dos veces la melodía en sus memorias, con la estrofa de Amapolita, la primera impresión que hemos encontrado [^garciacubas1904]
+- 1904: García Cubas imprime dos veces la melodía en sus memorias, con la estrofa de Amapolita, la primera impresión conocida [^garciacubas1904]
 - 1913: Friedenthal imprime la melodía en Berlín como canción popular mexicana [^friedenthal1913]
 - 1917: Ponce, en un texto impreso, la llama obra de un anónimo autor popular [^ponce1917]
-- 1921: El laúd hispano-americano, de Los Ángeles, imprime la estrofa del rey David, la primera impresión que hemos encontrado [^laud1921]
+- 1921: El laúd hispano-americano, de Los Ángeles, imprime la estrofa del rey David, la primera impresión conocida [^laud1921]
 - 1935: Un cuadernillo de Vanegas Arroyo para el día doce imprime mañanitas a la Virgen de Guadalupe [^lacipi-diadoce][^gomez2024]
 - 1947: Frances Toor la imprime como la serenata nacional de cumpleaños al amanecer [^toor1947]
 
@@ -140,7 +140,7 @@ Margit Frenk, según recoge Gómez Mutio, cuenta diez canciones distintas llamad
 
 ### ¿Quién escribió Las Mañanitas?
 
-No se sabe de nadie que la escribiera: es una canción tradicional mexicana. Su melodía y la estrofa de Amapolita las imprimió en 1904 García Cubas, de memoria [^garciacubas1904]. Manuel M. Ponce, a quien a menudo se nombra como su autor, escribió en un ensayo impreso en 1917 que era obra del "anónimo autor popular" [^ponce1917]. La primera impresión que hemos encontrado de la estrofa del rey David es un cancionero de 1921 que no nombra autor [^laud1921].
+No se sabe de nadie que la escribiera: es una canción tradicional mexicana. Su melodía y la estrofa de Amapolita las imprimió en 1904 García Cubas, de memoria [^garciacubas1904]. Manuel M. Ponce, a quien a menudo se nombra como su autor, escribió en un ensayo impreso en 1917 que era obra del "anónimo autor popular" [^ponce1917]. La primera impresión conocida de la estrofa del rey David es un cancionero de 1921 que no nombra autor [^laud1921].
 
 ### ¿Por qué Las Mañanitas menciona al rey David?
 

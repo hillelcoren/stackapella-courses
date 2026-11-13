@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: spanish ladies significado | spanish ladies tiburón | por qué quint canta spanish ladies | spanish ladies historia | quién escribió spanish ladies | spanish ladies letra
-translatedFrom: eb9905488b10
+translatedFrom: e963cf2b4261
 original: Cuaderno de bitácora de Peter Pease (1769), New Bedford Whaling Museum, Internet Archive | https://archive.org/details/nellesloopofdart00nell/page/n146
 ---
 
@@ -190,7 +190,7 @@ La soprano canta la melodía, la parte vocal de Cecil Sharp nota por nota, en su
 - [^pilot]: John W. King, *The Channel Pilot, Part I: South-west and South Coasts of England*, segunda edición (Londres: Hydrographic Office, Admiralty, 1863), capítulo I, pp. 1, 2, 8 y 10, p. 45 (el Dodman) y p. 215 (Fairlight); Internet Archive, ítem channelpilotptn02changoog, facsímil. https://archive.org/details/channelpilotptn02changoog
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "Bumper". https://webstersdictionary1828.com/Dictionary/bumper
 - [^winick]: Stephen Winick, "A Deep Dive Into Sea Shanties", *Folklife Today*, American Folklife Center, Library of Congress (enero de 2021). https://blogs.loc.gov/folklife/2021/01/a-deep-dive-into-sea-shanties/
-- [^jaws]: *Jaws*, película (Universal Pictures, 1975), las escenas de Quint a bordo del Orca.
+- [^jaws]: *Jaws*, película (Universal Pictures, 1975), las escenas de Quint a bordo del Orca; ficha de la película en el AFI Catalog. https://catalog.afi.com/Film/55193-JAWS
 - [^screenrant]: "What Song Quint Keeps Singing In Jaws (& What It Means)", *Screen Rant* (12 de agosto de 2022). https://screenrant.com/jaws-movie-quint-song-farewell-adieu-spanish-ladies/
 - [^afi]: American Film Institute, *AFI Catalog of Feature Films*, "Jaws (1975)", reparto, sinopsis e historia. https://catalog.afi.com/Film/55193-JAWS
 - [^loc]: Library of Congress Name Authority File, "Shaw, Robert, 1927-1978" (actor, novelista; murió en Toormakeady, Irlanda), n50022186. https://id.loc.gov/authorities/names/n50022186

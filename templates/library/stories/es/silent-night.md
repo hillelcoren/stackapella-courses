@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
-translatedFrom: a7abb93b26ab
+translatedFrom: b0c26d0d14f9
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-761693/
 original: Autógrafo de Joseph Mohr, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
@@ -38,7 +38,7 @@ Silent Night, Noche de paz en español, es un villancico de Austria. Joseph Mohr
 
 En 1854 los músicos de la corte real de Berlín preguntaron a la abadía de San Pedro de Salzburgo quién había escrito la canción, y algunos creían que era del compositor Michael Haydn [^hochradner][^hymnarchive]. La respuesta de Gruber, el único testimonio de primera mano de aquella noche, se conserva en el archivo Stille Nacht de Hallein, donde para entonces era organista y director del coro [^hochradner][^sng-time].
 
-**La versión inglesa.** En Nueva York, John Freeman Young, sacerdote episcopaliano de Trinity Church, hizo la versión inglesa que canta casi todo el mundo [^hymnarchive][^hc-young]. Es el n.º 1 de su librito Carols for Christmas Tide, impreso en 1859, en Do y en 6/8, con tres estrofas [^young]. Una obra de referencia de himnos da como primera impresión un libro de escuela dominical de 1863, pero el folleto de 1859 se conserva [^hymnary-text][^young].
+**La versión inglesa.** En Nueva York, John Freeman Young, sacerdote episcopaliano de Trinity Church, hizo la versión inglesa que canta casi todo el mundo [^hymnarchive][^hc-young]. Es el n.º 1 de su librito Carols for Christmas Tide, impreso en 1859, en Do y en 6/8, con tres estrofas [^young]. Una obra de referencia de himnos da como su impresión más antigua un libro de escuela dominical de 1863, pero el folleto de 1859 se conserva [^hymnary-text][^young].
 
 ![[2]]
 
@@ -57,7 +57,7 @@ En 1854 los músicos de la corte real de Berlín preguntaron a la abadía de San
 
 ## Qué dice la letra
 
-Mohr escribió seis estrofas. La versión inglesa de Young tiene tres, las mismas tres, en el mismo orden, que la primera impresión con música [^young][^hochradner]. Young sigue el sentido de Mohr mucho más de cerca que la versión inglesa anterior de James F. Warner, pero con libertad, en versos propios [^hymnarchive].
+Mohr escribió seis estrofas. La versión inglesa de Young tiene tres, las mismas tres, en el mismo orden, que la primera impresión conocida con música [^young][^hochradner]. Young sigue el sentido de Mohr mucho más de cerca que la versión inglesa anterior de James F. Warner, pero con libertad, en versos propios [^hymnarchive].
 
 **Estrofa 1, la que cantamos.** Una noche silenciosa y santa: la noche en que nace Jesús. "All is calm, all is bright round yon virgin mother and child": todo está en calma y lleno de luz alrededor de la madre y su bebé. "Round yon" quiere decir alrededor de aquel, el de allí, como si señalara el pesebre. La madre virgen es María. Los últimos versos le hablan al niño, como una canción de cuna: niño santo, tan tierno y "mild", apacible, duerme en paz celestial.
 

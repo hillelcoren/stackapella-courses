@@ -37,7 +37,7 @@ Silent Night is a Christmas carol from Austria. Joseph Mohr, a Catholic assistan
 
 In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg who had written the song, and some thought it was by the composer Michael Haydn [^hochradner][^hymnarchive]. Gruber's answer, the only first-hand record of that night, survives in the Silent Night archive in Hallein, where he was by then organist and choir director [^hochradner][^sng-time].
 
-**The English.** In New York, John Freeman Young, an Episcopal priest at Trinity Church, made the English most people sing [^hymnarchive][^hc-young]. It is No. 1 in his small book Carols for Christmas Tide, printed in 1859, in C and in 6/8, with three verses [^young]. One hymnal reference names an 1863 Sunday school book as its first printing, but the 1859 pamphlet survives [^hymnary-text][^young].
+**The English.** In New York, John Freeman Young, an Episcopal priest at Trinity Church, made the English most people sing [^hymnarchive][^hc-young]. It is No. 1 in his small book Carols for Christmas Tide, printed in 1859, in C and in 6/8, with three verses [^young]. One hymnal reference names an 1863 Sunday school book as its earliest printing, but the 1859 pamphlet survives [^hymnary-text][^young].
 
 ![[2]]
 

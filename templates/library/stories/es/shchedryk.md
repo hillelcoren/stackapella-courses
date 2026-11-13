@@ -11,11 +11,13 @@ origin: Ucrania
 occasion: Shchedryi vechir (la Noche Generosa), víspera de Año Nuevo: el 31 de diciembre según el nuevo calendario eclesiástico, el 13 de enero según el antiguo
 alsoKnownAs: Щедрик; Shchedrik; Schedryk
 wikidata: Q865064
+quote: Shchedryk, shchedryk shchedryvochka, Pryletila hlastivochka.
+quoteSource: zbirnychok
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shchedryk historia | shchedryk significado | quién escribió shchedryk | shchedryk letra en español | carol of the bells historia ucraniana | villancico de las campanas historia
-translatedFrom: b1d0f89776a4
+translatedFrom: 0848590c2aed
 original: Cancionero de Polishchuk y Ostapovych, Kyiv 1913, Internet Archive | https://archive.org/details/zbirnychoknakras00poli/page/n154/mode/1up
 ---
 

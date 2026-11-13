@@ -1,7 +1,7 @@
 ---
 title: Happy Birthday to You: historia, significado y la letra explicada
-description: Su melodía fue Good Morning to All, canción infantil de 1893 de las hermanas Mildred y Patty Hill. La letra de cumpleaños ya aparece impresa sin firma en 1911.
-lead: Happy Birthday to You pone un deseo de cumpleaños, ya impreso sin autor en 1911, sobre Good Morning to All, un saludo de jardín de infancia de las hermanas Mildred y Patty Hill publicado en 1893.
+description: Su melodía fue Good Morning to All, canción infantil de 1893 de Mildred Hill con letra de su hermana Patty. La de cumpleaños ya sale impresa sin firma en 1911.
+lead: Happy Birthday to You pone un deseo de cumpleaños, ya impreso sin autor en 1911, sobre Good Morning to All, un saludo de jardín de infancia compuesto por Mildred Hill con letra de su hermana Patty y publicado en 1893.
 words: Anónima en su impresión (1911); reclamada en 1935 por Patty Smith Hill (1868 a 1946)
 tune: Good Morning to All, de Mildred J. Hill (1859 a 1916), 1893
 earliestPrinting: The Elementary Worker and His Work (1911), p. 63, la letra de cumpleaños, "sung to the same tune as the Good Morning" (cantada con la misma melodía que el Good Morning); la melodía, Song Stories for the Kindergarten (Chicago, 1893)
@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: cumpleaños feliz historia | quién escribió cumpleaños feliz | origen de cumpleaños feliz | happy birthday to you historia | quién escribió happy birthday | happy birthday derechos de autor
-translatedFrom: 0824be035508
+translatedFrom: b2034bfff2a7
 ---
 
 Happy Birthday to You, a menudo llamada solo Happy Birthday, es la canción que un grupo le canta a alguien el día de su cumpleaños, con el nombre de esa persona en el tercer verso. Su melodía nació como Good Morning to All, un saludo para la clase que compuso Mildred J. Hill sobre una letra de su hermana Patty Smith Hill, publicado en Chicago en 1893 en su libro Song Stories for the Kindergarten [^order2015][^filson][^brauneis]. La letra de cumpleaños llegó después y nadie la firmó: su primera impresión conocida, en un manual metodista de escuela dominical de 1911, no nombra a ningún autor [^ew1911][^order2015]. Durante décadas, una editorial musical cobró por usar la canción [^brauneis][^order2015], hasta que en 2015 un tribunal federal de Estados Unidos resolvió que el copyright que reclamaba no cubría la letra [^order2015][^kqed].

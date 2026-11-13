@@ -19,8 +19,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing historia | quién escribió lift every voice and sing | lift every voice and sing significado | lift every voice and sing himno nacional negro | lift every voice and sing letra en español | lift every voice and sing escultura
-translatedFrom: 4efba81d5499
-original: "Lift Every Voice and Sing." National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Biblioteca del Congreso | https://www.loc.gov/item/2021561009/
+translatedFrom: 5c10ebf2d01b
+original: Lift Every Voice and Sing, National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Biblioteca del Congreso | https://www.loc.gov/item/2021561009/
 ---
 
 Lift Every Voice and Sing (o Lift Ev'ry Voice and Sing) es una canción de fe y de libertad de dos hermanos de Jacksonville, Florida. James Weldon Johnson escribió la letra, y su hermano menor, J. Rosamond Johnson, la música [^fenner][^loc-blog]. James la escribió para el cumpleaños de Abraham Lincoln en 1900, cuando dirigía la Stanton School, y la cantó un coro de 500 escolares [^fenner][^naacp][^canterbury][^jaxson]. Su partitura de ese año ya la llamaba "National Hymn for the Colored People of America" (himno nacional para la gente de color de América) [^stern1900][^fenner]. Más tarde la NAACP la adoptó como su canción [^loc-blog][^pitt], y hoy se la conoce como el himno nacional negro ("Black national anthem") [^naacp][^yale-career]. Sus tres estrofas pasan de la alabanza al camino duro y a la oración.
@@ -182,7 +182,7 @@ La soprano canta la melodía de principio a fin, desde "Lift ev'ry voice and sin
 
 ## Fuentes
 
-- [^stern1900]: J. W. Johnson (letra) y Rosamond Johnson (música), *"Lift Every Voice and Sing." National Hymn for the Colored People of America*, dedicada "to Booker J. Washington" [sic] (Nueva York: Jos. W. Stern & Co., 1900), plancha 3071-3, portada y tres páginas de música; ejemplar de la British Library, con el sello "British Museum 3 NO 1900" (signatura no indicada en Fenner ni en el archivo de la canción; no se pudo acceder a la ficha del catálogo de la British Library), leído en las cuatro imágenes de página reproducidas en Fenner, figura 1.
+- [^stern1900]: J. W. Johnson (letra) y Rosamond Johnson (música), *"Lift Every Voice and Sing." National Hymn for the Colored People of America*, dedicada "to Booker J. Washington" [sic] (Nueva York: Jos. W. Stern & Co., 1900), plancha 3071-3, portada y tres páginas de música; ejemplar de la British Library, con el sello "British Museum 3 NO 1900" (signatura no indicada en Fenner ni en el archivo de la canción; no se pudo acceder a la ficha del catálogo de la British Library), leído en las cuatro imágenes de página reproducidas en Fenner, figura 1; la División de Música de la Biblioteca del Congreso conserva otro ejemplar de esta partitura de 1900. https://www.loc.gov/item/2021561009/
 - [^fenner]: Chris Fenner, "Lift every voice and sing", *Hymnology Archive* (11 de enero de 2019), que cita a James Weldon Johnson, *Along This Way* (Nueva York: Viking Press, 1933), pp. 154 a 156. https://www.hymnologyarchive.com/lift-every-voice-and-sing
 - [^loc-blog]: Cait Miller, "Lift Every Voice and Sing", *In the Muse*, blog de artes escénicas de la Library of Congress (8 de febrero de 2022). https://blogs.loc.gov/music/2022/02/lift-every-voice-and-sing/
 - [^canterbury]: J. R. Watson, ed., *The Canterbury Dictionary of Hymnology*, "Lift every voice and sing" (Canterbury Press, 2013). https://hymnology.hymnsam.co.uk/l/lift-every-voice-and-sing

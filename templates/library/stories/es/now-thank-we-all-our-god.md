@@ -12,11 +12,13 @@ language: alemán, cantado aquí en inglés
 origin: Eilenburg, Sajonia
 occasion: acción de gracias; bendición de la mesa
 alsoKnownAs: Nun danket alle Gott
+quote: Now thank we all our God, With heart, and hands, and voices
+quoteSource: hymnal1916
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió now thank we all our god | now thank we all our god historia | now thank we all our god significado | cuándo se escribió now thank we all our god | nun danket alle gott traducción | nun danket alle gott bach | es now thank we all our god un himno fúnebre
-translatedFrom: 721a08ab2cc6
+translatedFrom: db27110d99a0
 original: Crüger, Praxis pietatis melica (1653), Biblioteca Estatal de Baviera | https://www.digitale-sammlungen.de/en/view/bsb00065813
 listen: National Jukebox, grabación de 1919 | https://archive.org/details/loc-jukebox-32824-now-thank-we-all-our-god || National Jukebox, grabación de 1921, en alemán | https://archive.org/details/loc-jukebox-43058-nun-danket-alle-gott
 ---

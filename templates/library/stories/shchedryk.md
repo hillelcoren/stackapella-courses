@@ -11,6 +11,8 @@ origin: Ukraine
 occasion: Shchedryi vechir (Generous Evening), New Year's Eve: 31 December by the new church calendar, 13 January by the old
 alsoKnownAs: Щедрик; Shchedrik; Schedryk
 wikidata: Q865064
+quote: Shchedryk, shchedryk shchedryvochka, Pryletila hlastivochka.
+quoteSource: zbirnychok
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true

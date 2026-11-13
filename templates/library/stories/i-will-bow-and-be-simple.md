@@ -16,6 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i will bow and be simple | i will bow and be simple lyrics | i will bow and be simple sheet music
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 I Will Bow and Be Simple is a song of the Shakers, the celibate religious community that worshipped by singing and dancing [^shakermuseum][^andrews]. In two short strains a singer promises to bow: to be simple, free and humble, to bow like the willow tree, to wear the "easy yoke" and to fall upon the rock [^hazzard][^andrews]. It has no known author. The copy we sing from, in Mary Hazzard's handwritten songbook, carries no title and no date, only the words "North Family" at its foot [^hazzard]. The Shaker scholar Edward Deming Andrews printed its words in 1937, and twice more in 1940, in The Gift to Be Simple, once among the songs of humility and once with its tune, calling it a "bowing song" [^andrews1937][^andrews].
@@ -34,7 +35,7 @@ I Will Bow and Be Simple is a song of the Shakers, the celibate religious commun
 
 **Which North Family?** Several Shaker villages had a North Family, Harvard's as well as New Lebanon's, and the page does not say which this was [^harvardhist][^andrews][^hazzard]. Two wordless tunes a few pages on, on pages 110 and 111, are signed "North Family" too, next to songs marked "Shirley to P. S." and "Harvard", two Shaker villages in Massachusetts; they name no village either [^hazzardbook][^andrews]. Andrews took it for New Lebanon's. On the page where he prints the words among the humility songs he wrote "North family. New Lebanon?", with a question mark, and with the tune he wrote "from the North family, New Lebanon, recorded by Mary Hazzard in 1847" [^andrews]. The Shaker Museum's record of a portrait of Hazzard says she herself lived both at the North Family and at the Church Family at Mount Lebanon, as New Lebanon was called from 1861 [^smportrait][^smpostmark][^andrews].
 
-**Myth and record.** Often told: the song was written in 1847 by the North Family at New Lebanon [^riseup]. What the record shows: the only early copy we know of names no village and no year [^hazzard]. The 1847 and New Lebanon come from Andrews's book of 1940 [^andrews]. His first printing, in 1937, gave no place or date at all [^andrews1937]. 1847 is the year the book was begun, and Andrews captioned his photograph of another of its pages "Song-book of Mary Hazzard. New Lebanon, 1847" [^hazzardbook][^wintcat][^andrews].
+**Myth and record.** Often told: the song was written in 1847 by the North Family at New Lebanon [^riseup]. What the record shows: the only early copy we know of names no village and no year [^hazzard]. The 1847 and New Lebanon come from Andrews's book of 1940 [^andrews]. His earlier printing, in 1937, gave no place or date at all [^andrews1937]. 1847 is the year the book was begun, and Andrews captioned his photograph of another of its pages "Song-book of Mary Hazzard. New Lebanon, 1847" [^hazzardbook][^wintcat][^andrews].
 
 ### Timeline
 

@@ -16,7 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i will bow and be simple | i will bow and be simple letra | i will bow and be simple partitura
-translatedFrom: f0aeb444350f
+translatedFrom: ca3d9eeef4fd
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa célibe que celebraba su culto cantando y bailando [^shakermuseum][^andrews]. En dos breves secciones, quien canta promete inclinarse: ser sencillo, libre y humilde, inclinarse como el sauce, llevar el "easy yoke" (el yugo fácil) y caer sobre la roca [^hazzard][^andrews]. No tiene autor conocido. La copia que cantamos, en el cancionero manuscrito de Mary Hazzard, no lleva título ni fecha, solo las palabras "North Family" (Familia del Norte) al pie [^hazzard]. El estudioso de los shakers Edward Deming Andrews imprimió su letra en 1937, y dos veces más en 1940, en The Gift to Be Simple, una entre las canciones de humildad y otra con su melodía, y la llamó una "bowing song", una canción de reverencias [^andrews1937][^andrews].
@@ -35,7 +36,7 @@ I Will Bow and Be Simple es una canción de los shakers, la comunidad religiosa 
 
 **¿Qué Familia del Norte?** Varias aldeas shakers tenían una Familia del Norte, tanto Harvard como New Lebanon, y la página no dice cuál era esta [^harvardhist][^andrews][^hazzard]. Dos melodías sin letra unas páginas después, en las páginas 110 y 111, también llevan la firma "North Family", junto a canciones marcadas "Shirley to P. S." y "Harvard", dos aldeas shakers de Massachusetts; tampoco nombran ninguna aldea [^hazzardbook][^andrews]. Andrews la tomó por la de New Lebanon. En la página donde imprime la letra entre las canciones de humildad escribió "North family. New Lebanon?", con signo de interrogación, y junto a la melodía escribió "from the North family, New Lebanon, recorded by Mary Hazzard in 1847" (de la Familia del Norte, New Lebanon, anotada por Mary Hazzard en 1847) [^andrews]. La ficha del Shaker Museum de un retrato de Hazzard dice que ella misma vivió tanto en la Familia del Norte como en la Church Family de Mount Lebanon, nombre que recibió New Lebanon desde 1861 [^smportrait][^smpostmark][^andrews].
 
-**Mito y documentos.** Se suele contar que la canción la escribió en 1847 la Familia del Norte de New Lebanon [^riseup]. Lo que muestran los documentos: la única copia antigua que conocemos no nombra aldea ni año [^hazzard]. El año 1847 y New Lebanon vienen del libro de Andrews de 1940 [^andrews]. Su primera impresión, de 1937, no daba ni lugar ni fecha [^andrews1937]. 1847 es el año en que se empezó el libro, y Andrews tituló su fotografía de otra de sus páginas "Song-book of Mary Hazzard. New Lebanon, 1847" [^hazzardbook][^wintcat][^andrews].
+**Mito y documentos.** Se suele contar que la canción la escribió en 1847 la Familia del Norte de New Lebanon [^riseup]. Lo que muestran los documentos: la única copia antigua que conocemos no nombra aldea ni año [^hazzard]. El año 1847 y New Lebanon vienen del libro de Andrews de 1940 [^andrews]. Su impresión anterior, de 1937, no daba ni lugar ni fecha [^andrews1937]. 1847 es el año en que se empezó el libro, y Andrews tituló su fotografía de otra de sus páginas "Song-book of Mary Hazzard. New Lebanon, 1847" [^hazzardbook][^wintcat][^andrews].
 
 ### Cronología
 

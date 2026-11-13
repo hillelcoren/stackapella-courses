@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
-translatedFrom: d2549aebcadd
+translatedFrom: 6d2a535dde3b
 original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up || The Beacon Hymnal (1924), n.º 17, Internet Archive | https://archive.org/details/beaconhymnalforc00unse/page/n147
 ---
 
@@ -218,7 +218,7 @@ Significa que Dios corrige a su pueblo y se apresura a mostrarle lo que quiere. 
 - [^mh1935]: Hymnary.org, *The Methodist Hymnal: official hymnal of the Methodist Episcopal Church* (Nueva York y Cincinnati: The Methodist Publishing House, 1935), n.º 20. https://hymnary.org/hymnal/MHOH1935
 - [^ncca1935]: Ernest G. Hesser, "Musical Qualities in the New Hymnal", *North Carolina Christian Advocate* (Greensboro), 14 de noviembre de 1935, p. 8; ejemplar de la Duke Divinity School Library, facsímil. https://archive.org/details/northcarolinachr80unit
 - [^hymnary-cory]: Hymnary.org, *We Praise Thee, O God, Our Redeemer* (texto de Julia Cady Cory), con sus notas. https://hymnary.org/text/we_praise_thee_o_god_our_redeemer
-- [^blb-cory]: Blue Letter Bible, Hymns, *We Praise Thee, O God, Our Redeemer, Creator*. https://blb.org/hymns/w/We_Praise_Thee_O_God_Our_Redeemer_Creator.cfm
+- [^blb-cory]: Blue Letter Bible, Hymns, *We Praise Thee, O God, Our Redeemer, Creator*. https://www.blueletterbible.org/hymns/w/We_Praise_Thee_O_God_Our_Redeemer_Creator.cfm
 - [^litgesch]: Literatuurgeschiedenis.org, *Nederlandtsche Gedenck-clanck (1626)*. https://www.literatuurgeschiedenis.org/teksten/nederlandtsche-gedenck-clanck
 - [^neerlandistiek]: Margot Kalse, Olga van Marion y Kees de With, "Top 40 van de Gouden Eeuw, 2b", *Neerlandistiek*, 29 de mayo de 2021. https://neerlandistiek.nl/2021/05/top-40-van-de-gouden-eeuw-2b
 - [^beacon1924]: Florence Buck, ed., *The Beacon Hymnal, for Church Schools, Young People's Services, Day Schools, and the Home* (Boston: The Beacon Press, 1924), n.º 17, "We gather together", "Kremser. 12, 11, 12, 11", "Old Netherlands Melody, 1625"; ejemplar de la Princeton Theological Seminary Library, imagen n147, facsímil. https://archive.org/details/beaconhymnalforc00unse/page/n147

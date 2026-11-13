@@ -68,7 +68,7 @@ Oliphant wrote three verses: one for decorating and drinking, one for the bowl a
 
 ### The full words
 
-These are the three verses as the Golden Book prints them on page 66, the page our arrangement reads: the American revision of 1877, changed a little again, by writers not named [^golden1923][^psj1877]. After them come Oliphant's own three verses as first printed, under the music of John Thomas's Welsh Melodies in 1862 [^thomas1862].
+These are the three verses as the Golden Book prints them on page 66, the page our arrangement reads: the American revision of 1877, changed a little again, by writers not named [^golden1923][^psj1877]. After them come Oliphant's own three verses as printed in 1862, under the music of John Thomas's Welsh Melodies [^thomas1862].
 
 **Verse 1**
 Deck the halls with boughs of holly,

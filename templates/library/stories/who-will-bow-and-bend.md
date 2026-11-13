@@ -58,7 +58,7 @@ Who Will Bow and Bend Like a Willow, often shortened to Who Will Bow and Bend, i
 
 ### The full words
 
-Hazzard's two pages give the song as below, her spelling kept ("real", "Mothers", "&"), in lines that follow the music's phrases [^hazzard]. Her repeat signs have each strain sung twice. Andrews's printing of 1940 has "From the bower of union flowing" where Hazzard wrote "blowing"; his first printing, in 1937, has "blowing" too [^andrews][^andrews1937][^hazzard].
+Hazzard's two pages give the song as below, her spelling kept ("real", "Mothers", "&"), in lines that follow the music's phrases [^hazzard]. Her repeat signs have each strain sung twice. Andrews's printing of 1940 has "From the bower of union flowing" where Hazzard wrote "blowing"; his earlier printing, in 1937, has "blowing" too [^andrews][^andrews1937][^hazzard].
 
 Who will bow and bend like a willow
 Who will turn and twist and real

@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: e3125e77d772
+translatedFrom: 4bb6eefb197a
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
@@ -69,7 +69,7 @@ Oliphant escribió tres estrofas: una para adornar y beber, otra para el cuenco 
 
 ### La letra completa
 
-Estas son las tres estrofas tal como las imprime el Golden Book en la página 66, la página de la que sale nuestro arreglo: la revisión estadounidense de 1877, retocada un poco otra vez por autores que no se nombran [^golden1923][^psj1877]. Después vienen las tres estrofas del propio Oliphant tal como se imprimieron por primera vez, bajo la música de las Welsh Melodies de John Thomas en 1862 [^thomas1862].
+Estas son las tres estrofas tal como las imprime el Golden Book en la página 66, la página de la que sale nuestro arreglo: la revisión estadounidense de 1877, retocada un poco otra vez por autores que no se nombran [^golden1923][^psj1877]. Después vienen las tres estrofas del propio Oliphant tal como se imprimieron en 1862, bajo la música de las Welsh Melodies de John Thomas [^thomas1862].
 
 **Estrofa 1**
 > Deck the halls with boughs of holly,

@@ -46,7 +46,7 @@ Were You There, también llamado Were You There When They Crucified My Lord?, es
 
 ![[2]]
 
-**Mito y documentos.** Se suele contar que su primera impresión es el libro de Barton de 1899 [^bbcmusic], que los himnarios todavía dan como su fuente [^hymnary-gap]. Lo que muestran los documentos: ya estaba impreso en 1892 y en 1897, así que la página de Barton es temprana, pero no la primera [^loudin1892][^backus1897][^hymnarchive].
+**Mito y documentos.** Se suele contar que su impresión más antigua es el libro de Barton de 1899 [^bbcmusic], que los himnarios todavía dan como su fuente [^hymnary-gap]. Lo que muestran los documentos: ya estaba impreso en 1892 y en 1897, así que la página de Barton es temprana, pero no la primera [^loudin1892][^backus1897][^hymnarchive].
 
 ### Cronología
 

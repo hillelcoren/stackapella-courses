@@ -12,11 +12,12 @@ occasion: Final del oficio de la mañana del sabbat y de las fiestas (asquenazí
 alsoKnownAs: En Kelohenu, Ayn Kaylohaynu
 wikidata: Q3049440
 quote: Ein kelokeinu, ein kadoneinu, ein kemalkenu, ein k'moshienu.
+quoteSource: sefaria
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 75cd10fabf7c
+translatedFrom: 19947cb9d5f1
 original: Union Hymnal (Nueva York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 

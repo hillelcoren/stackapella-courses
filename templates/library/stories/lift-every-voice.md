@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing history | who wrote lift every voice and sing | lift every voice and sing meaning | lift every voice and sing lyrics meaning line by line | who wrote the music for lift every voice and sing | lift every voice and sing black national anthem | lift every voice and sing sculpture | lift every voice and sing original
-original: "Lift Every Voice and Sing." National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Library of Congress | https://www.loc.gov/item/2021561009/
+original: Lift Every Voice and Sing, National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Library of Congress | https://www.loc.gov/item/2021561009/
 ---
 
 Lift Every Voice and Sing (often printed Lift Ev'ry Voice and Sing) is a song of faith and freedom made by two brothers from Jacksonville, Florida. James Weldon Johnson wrote the words, and his younger brother, J. Rosamond Johnson, wrote the music [^fenner][^loc-blog]. James wrote it for a celebration of Abraham Lincoln's birthday in 1900, when he was principal of the Stanton School, and a chorus of 500 schoolchildren sang it [^fenner][^naacp][^canterbury][^jaxson]. Its sheet music of that year already called it a "National Hymn for the Colored People of America" [^stern1900][^fenner]. The NAACP later took it up as its own song [^loc-blog][^pitt], and it is still widely known as the Black national anthem [^naacp][^yale-career]. Its three verses move from praise, to the memory of a hard road, to a prayer.
@@ -145,7 +145,7 @@ The soprano sings the tune all the way through, from "Lift ev'ry voice and sing"
 
 ## Sources
 
-- [^stern1900]: J. W. Johnson (words) and Rosamond Johnson (music), *"Lift Every Voice and Sing." National Hymn for the Colored People of America*, dedicated "to Booker J. Washington" [sic] (New York: Jos. W. Stern & Co., 1900), plate 3071-3, title page and three pages of music; British Library copy, stamped "British Museum 3 NO 1900" (shelfmark not given in Fenner or the song file; the British Library's catalogue item page could not be reached), read in the four page images reproduced in Fenner, figure 1.
+- [^stern1900]: J. W. Johnson (words) and Rosamond Johnson (music), *"Lift Every Voice and Sing." National Hymn for the Colored People of America*, dedicated "to Booker J. Washington" [sic] (New York: Jos. W. Stern & Co., 1900), plate 3071-3, title page and three pages of music; British Library copy, stamped "British Museum 3 NO 1900" (shelfmark not given in Fenner or the song file; the British Library's catalogue item page could not be reached), read in the four page images reproduced in Fenner, figure 1; the Library of Congress Music Division holds another copy of this 1900 sheet. https://www.loc.gov/item/2021561009/
 - [^fenner]: Chris Fenner, "Lift every voice and sing", *Hymnology Archive* (11 January 2019), quoting James Weldon Johnson, *Along This Way* (New York: Viking Press, 1933), pp. 154 to 156. https://www.hymnologyarchive.com/lift-every-voice-and-sing
 - [^loc-blog]: Cait Miller, "Lift Every Voice and Sing", *In the Muse*, Library of Congress Performing Arts blog (8 February 2022). https://blogs.loc.gov/music/2022/02/lift-every-voice-and-sing/
 - [^canterbury]: J. R. Watson, ed., *The Canterbury Dictionary of Hymnology*, "Lift every voice and sing" (Canterbury Press, 2013). https://hymnology.hymnsam.co.uk/l/lift-every-voice-and-sing

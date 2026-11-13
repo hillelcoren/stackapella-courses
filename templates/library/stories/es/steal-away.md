@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: steal away significado | steal away espiritual historia | quién escribió steal away | steal away to jesus significado | steal away letra en español | steal away nat turner
-translatedFrom: d22cb9ac10ed
+translatedFrom: 6e046ed89228
 listen: Internet Archive, disco Victor 1716, Dinwiddie Colored Quartet (de la Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-4649-steal-away || Internet Archive, grabación de 1916 de los Tuskegee Institute Singers (de la Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-187640-steal-away
 original: Jubilee Songs (1872), página 28, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n30
 ---
@@ -141,7 +141,7 @@ No hay pruebas de que lo fuera. La confesión de Turner de 1831 no menciona ning
 
 ### ¿Quién escribió Steal Away?
 
-Nadie lo sabe con seguridad; su primera impresión, Jubilee Songs (1872), no nombra a quien la hizo [^seward1872]. Una tradición la atribuye a Wallace Willis, esclavizado en la Nación Choctaw, cuyas canciones Alexander Reid enseñó a los cantantes de Fisk en 1871 [^flickinger1914][^okhist]. Si la compuso él o la aprendió en su juventud, en eso los relatos no coinciden [^flickinger1914][^banks].
+Nadie lo sabe con seguridad; su primera impresión conocida, Jubilee Songs (1872), no nombra a quien la hizo [^seward1872]. Una tradición la atribuye a Wallace Willis, esclavizado en la Nación Choctaw, cuyas canciones Alexander Reid enseñó a los cantantes de Fisk en 1871 [^flickinger1914][^okhist]. Si la compuso él o la aprendió en su juventud, en eso los relatos no coinciden [^flickinger1914][^banks].
 
 ### ¿Qué voz canta la melodía?
 
@@ -161,7 +161,7 @@ La soprano, de principio a fin, con cinco notas: Fa, Sol, La, Do y Re, sin Si be
 - [^marsh1875]: J. B. T. Marsh, *The Story of the Jubilee Singers; with Their Songs*, segunda edición (Londres: Hodder and Stoughton, 1875): capítulo III, sobre la salida de la compañía de Nashville el 6 de octubre de 1871, p. 17; Willis's Rooms y Argyll Lodge, pp. 52 a 53; n.º 24, "Steal Away", p. 147 (imagen 161); Universitätsbibliothek Gießen, Gb 4660, Digitale Giessener Sammlungen (urn:nbn:de:hebis:26-digisam-206220), facsímil. https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5173961
 - [^slavesongs1867]: William Francis Allen, Charles Pickard Ware y Lucy McKim Garrison, *Slave Songs of the United States* (Nueva York: A. Simpson & Co., 1867); ejemplar de las Smithsonian Libraries, facsímil, con búsqueda en el texto completo. https://archive.org/details/slavesongsofunit00alle
 - [^flickinger1914]: R. E. Flickinger, *The Choctaw Freedmen and the Story of Oak Hill Industrial Academy* (Pittsburgh: Presbyterian Board of Missions for Freedmen, 1914), "Uncle Wallace and Aunt Minerva", pp. 25 a 26, y sobre Alexander Reid, pp. 23 a 25; ejemplar de la Princeton Theological Seminary Library, facsímil. https://archive.org/details/choctawfreedme00flic
-- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, edición en línea, 2010, actualizada en 2023), entrada WI018.
+- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, edición en línea, 2010, actualizada en 2023), entrada WI018. https://www.okhistory.org/publications/enc/entry?entry=WI018
 - [^banks]: Frances Banks, liberta choctaw, Boggy Depot, Oklahoma, de 82 años, transcripción de la entrevista; Oklahoma State University Library, *Bearing Witness: Oklahoma Afro-Indigenous Freedwomen*, ítem 25340. https://oms.library.okstate.edu/s/bearing-witness-oklahoma-freedwomen/item/25340
 - [^fisk]: Fisk University, "History". https://www.fisk.edu/about/history/
 - [^natarchives]: The National Archives (Reino Unido), "Photograph of the Jubilee Singers", COPY 1/25/182. https://www.nationalarchives.gov.uk/explore-the-collection/stories/photograph-of-the-jubilee-singers/

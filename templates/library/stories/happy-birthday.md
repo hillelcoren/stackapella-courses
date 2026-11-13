@@ -1,7 +1,7 @@
 ---
 title: Happy Birthday to You: history, meaning and the words explained
-description: Its tune was Good Morning to All, an 1893 kindergarten song by the sisters Mildred and Patty Hill. The birthday words appear unsigned in print by 1911.
-lead: Happy Birthday to You sets a birthday wish, in print without an author by 1911, to Good Morning to All, a kindergarten greeting by the sisters Mildred and Patty Hill, published in 1893.
+description: Its tune was Good Morning to All, an 1893 kindergarten song by Mildred Hill to her sister Patty's words. The birthday words appear unsigned in print by 1911.
+lead: Happy Birthday to You sets a birthday wish, in print without an author by 1911, to Good Morning to All, a kindergarten greeting composed by Mildred Hill to words by her sister Patty, published in 1893.
 words: Anonymous in print (1911); claimed in 1935 by Patty Smith Hill (1868 to 1946)
 tune: Good Morning to All, Mildred J. Hill (1859 to 1916), 1893
 earliestPrinting: The Elementary Worker and His Work (1911), p. 63, the birthday words "sung to the same tune as the Good Morning"; the tune itself, Song Stories for the Kindergarten (Chicago, 1893)

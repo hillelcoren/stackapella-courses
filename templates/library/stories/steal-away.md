@@ -125,7 +125,7 @@ There is no evidence that it was. Turner's 1831 confession mentions no song, and
 
 ### Who wrote Steal Away?
 
-No one knows for sure; its earliest printing, Jubilee Songs (1872), names no maker [^seward1872]. A tradition credits Wallace Willis, enslaved in the Choctaw Nation, whose songs Alexander Reid taught the Fisk singers in 1871 [^flickinger1914][^okhist]. Whether he made it or learned it in his youth, the accounts differ [^flickinger1914][^banks].
+No one knows for sure; its earliest known printing, Jubilee Songs (1872), names no maker [^seward1872]. A tradition credits Wallace Willis, enslaved in the Choctaw Nation, whose songs Alexander Reid taught the Fisk singers in 1871 [^flickinger1914][^okhist]. Whether he made it or learned it in his youth, the accounts differ [^flickinger1914][^banks].
 
 ### Which part sings the tune?
 
@@ -145,7 +145,7 @@ The soprano, all the way through, on five notes: F, G, A, C and D, with no B-fla
 - [^marsh1875]: J. B. T. Marsh, *The Story of the Jubilee Singers; with Their Songs*, second edition (London: Hodder and Stoughton, 1875): chapter III, on the company leaving Nashville on 6 October 1871, p. 17; Willis's Rooms and Argyll Lodge, pp. 52 to 53; No. 24, "Steal Away", p. 147 (image 161); Universitätsbibliothek Gießen, Gb 4660, Digitale Giessener Sammlungen (urn:nbn:de:hebis:26-digisam-206220), facsimile. https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5173961
 - [^slavesongs1867]: William Francis Allen, Charles Pickard Ware and Lucy McKim Garrison, *Slave Songs of the United States* (New York: A. Simpson & Co., 1867); Smithsonian Libraries copy, facsimile, full text searched. https://archive.org/details/slavesongsofunit00alle
 - [^flickinger1914]: R. E. Flickinger, *The Choctaw Freedmen and the Story of Oak Hill Industrial Academy* (Pittsburgh: Presbyterian Board of Missions for Freedmen, 1914), "Uncle Wallace and Aunt Minerva", pp. 25 to 26, and on Alexander Reid, pp. 23 to 25; Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/choctawfreedme00flic
-- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, online edition, 2010, updated 2023), entry WI018.
+- [^okhist]: Judith Michener, "Willis, 'Uncle' Wallace and 'Aunt' Minerva", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, online edition, 2010, updated 2023), entry WI018. https://www.okhistory.org/publications/enc/entry?entry=WI018
 - [^banks]: Frances Banks, Choctaw freedwoman, Boggy Depot, Oklahoma, aged 82, interview transcript; Oklahoma State University Library, *Bearing Witness: Oklahoma Afro-Indigenous Freedwomen*, item 25340. https://oms.library.okstate.edu/s/bearing-witness-oklahoma-freedwomen/item/25340
 - [^fisk]: Fisk University, "History". https://www.fisk.edu/about/history/
 - [^natarchives]: The National Archives (UK), "Photograph of the Jubilee Singers", COPY 1/25/182. https://www.nationalarchives.gov.uk/explore-the-collection/stories/photograph-of-the-jubilee-singers/

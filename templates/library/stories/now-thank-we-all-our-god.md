@@ -12,6 +12,8 @@ language: German, sung here in English
 origin: Eilenburg, Saxony
 occasion: Thanksgiving; grace at table
 alsoKnownAs: Nun danket alle Gott
+quote: Now thank we all our God, With heart, and hands, and voices
+quoteSource: hymnal1916
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true

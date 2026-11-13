@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
-translatedFrom: 59017285880c
+translatedFrom: 81eecb871b4d
 ---
 
 Shall We Gather at the River?, llamado Beautiful River en sus primeras impresiones conocidas, es un himno evangélico de Robert Lowry, pastor bautista de Brooklyn, que escribió su letra y su melodía en julio de 1864 [^burrage1888][^sankey1907][^canterbury-hymn]. Su primera estrofa hace una pregunta sobre el cielo, y el estribillo la responde: sí, nos reuniremos junto al río de la vida que brota del trono de Dios en el libro del Apocalipsis [^burrage1888][^brightjewels1869]. Su primera impresión conocida está en Happy Voices, un libro de escuela dominical de 1865 [^happyvoices1865][^julian], y Henry Burrage e Ira D. Sankey escribieron más tarde que cuarenta mil niños de Brooklyn lo cantaron en 1865, el año después de escribirlo [^burrage1888][^sankey1907]. Hymnary.org lo registra en más de 800 himnarios [^hymnary-text], y el director de cine John Ford lo usó en sus películas del Oeste, donde los críticos de cine lo llaman uno de sus himnos favoritos [^afi-stagecoach][^afi-searchers][^filmsite-stagecoach][^bbcmusic][^ebert-clementine].
@@ -151,7 +151,7 @@ Nació como canción de escuela dominical y se convirtió en un himno evangélic
 
 Las impresiones de 1865 y 1866 lo armonizan de forma distinta. En Happy Voices la estrofa va a tres voces, soprano y contralto en el pentagrama de arriba y el bajo solo abajo, y un tenor se une solo en el estribillo [^happyvoices1865]. Desde The New Golden Shower, las cuatro voces cantan de principio a fin [^ngs1866][^brightjewels1869].
 
-Nuestro arreglo se lee de las cuatro voces de Bright Jewels, de Lowry, impresas por primera vez en The New Golden Shower de Bradbury en 1866 [^ngs1866][^brightjewels1869], en Mi bemol, como en el libro, y en 4/4: la primera estrofa y el estribillo para 2 a 4 cantantes. Donde Lowry da a la contralto o al tenor dos notas en una sílaba, cantamos una; el tenor se queda en Mi bemol en el "-er" de "river" y de "forever" en vez de volver a bajar a Si bemol, y canta Do en "Yes, we'll", la nota que le da Happy Voices. La contralto termina en un Sol grave en vez del Mi bemol de Lowry, para que el dúo y el trío acaben en la tercera de un acorde y no en unos Mi bemol desnudos, y las respiraciones están marcadas.
+Nuestro arreglo se lee de las cuatro voces de Bright Jewels, de Lowry, una armonización cuya primera impresión conocida está en The New Golden Shower de Bradbury, de 1866 [^ngs1866][^brightjewels1869], en Mi bemol, como en el libro, y en 4/4: la primera estrofa y el estribillo para 2 a 4 cantantes. Donde Lowry da a la contralto o al tenor dos notas en una sílaba, cantamos una; el tenor se queda en Mi bemol en el "-er" de "river" y de "forever" en vez de volver a bajar a Si bemol, y canta Do en "Yes, we'll", la nota que le da Happy Voices. La contralto termina en un Sol grave en vez del Mi bemol de Lowry, para que el dúo y el trío acaben en la tercera de un acorde y no en unos Mi bemol desnudos, y las respiraciones están marcadas.
 
 ![[4]]
 

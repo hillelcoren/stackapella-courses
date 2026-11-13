@@ -165,7 +165,7 @@ The soprano sings the tune, Cecil Sharp's voice part note for note, in its old m
 - [^pilot]: John W. King, *The Channel Pilot, Part I: South-west and South Coasts of England*, second edition (London: Hydrographic Office, Admiralty, 1863), chapter I, pp. 1, 2, 8 and 10, p. 45 (the Dodman) and p. 215 (Fairlight); Internet Archive item channelpilotptn02changoog, scan. https://archive.org/details/channelpilotptn02changoog
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "Bumper". https://webstersdictionary1828.com/Dictionary/bumper
 - [^winick]: Stephen Winick, "A Deep Dive Into Sea Shanties", *Folklife Today*, American Folklife Center, Library of Congress (January 2021). https://blogs.loc.gov/folklife/2021/01/a-deep-dive-into-sea-shanties/
-- [^jaws]: *Jaws*, film (Universal Pictures, 1975), Quint's scenes aboard the Orca.
+- [^jaws]: *Jaws*, film (Universal Pictures, 1975), Quint's scenes aboard the Orca; the AFI Catalog's record of the film. https://catalog.afi.com/Film/55193-JAWS
 - [^screenrant]: "What Song Quint Keeps Singing In Jaws (& What It Means)", *Screen Rant* (12 August 2022). https://screenrant.com/jaws-movie-quint-song-farewell-adieu-spanish-ladies/
 - [^afi]: American Film Institute, *AFI Catalog of Feature Films*, "Jaws (1975)", cast, synopsis and history. https://catalog.afi.com/Film/55193-JAWS
 - [^loc]: Library of Congress Name Authority File, "Shaw, Robert, 1927-1978" (actor, novelist; died Toormakeady, Ireland), n50022186. https://id.loc.gov/authorities/names/n50022186

@@ -2,6 +2,7 @@
 title: La Paloma: historia, significado y la letra explicada
 description: La habanera de Sebastián Iradier, ya impresa en Madrid en 1859. Quién escribió La Paloma, las historias de Cuba y de México y todas sus estrofas.
 lead: Un hombre sale de La Habana y pide a su amada que trate con cariño a la paloma de su ventana, porque la paloma es él. El compositor vasco Sebastián Iradier ya la había publicado en Madrid en 1859.
+words: Sebastián Iradier (1809 a 1865), el único autor que nombran los impresos que hemos leído; el registro de 1861 solo le atribuye la música
 tune: Sebastián Iradier (1809 a 1865)
 earliestPrinting: La paloma, canción americana, para voz y piano, publicada por Iradier, Madrid, 1859 (presentada para su registro en diciembre de 1860; incluida en la lista impresa en 1861)
 earliestPrintingSource: boletin1861
@@ -15,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió la paloma | la paloma significado | la paloma historia | la paloma de iradier | la paloma letra completa | la paloma habanera cuba
-translatedFrom: 6a3c5e98aea6
+translatedFrom: a0ae5dff77c0
 original: La Paloma (Nueva York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
 listen: National Jukebox, grabación de 1902 | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, grabación de 1903 | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---

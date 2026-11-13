@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: who will bow and bend | who will bow and bend like a willow | who will bow and bend like a willow lyrics
-translatedFrom: dee28b0dc1aa
+translatedFrom: 30d322ebef22
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
@@ -59,7 +59,7 @@ Who Will Bow and Bend Like a Willow, que suele abreviarse Who Will Bow and Bend,
 
 ### La letra completa
 
-Las dos páginas de Hazzard dan la canción como sigue, con su ortografía ("real", "Mothers", "&"), en versos que siguen las frases de la música [^hazzard]. Sus signos de repetición hacen cantar dos veces cada sección. La edición de Andrews de 1940 dice "From the bower of union flowing" donde Hazzard escribió "blowing"; su primera impresión, de 1937, también dice "blowing" [^andrews][^andrews1937][^hazzard].
+Las dos páginas de Hazzard dan la canción como sigue, con su ortografía ("real", "Mothers", "&"), en versos que siguen las frases de la música [^hazzard]. Sus signos de repetición hacen cantar dos veces cada sección. La edición de Andrews de 1940 dice "From the bower of union flowing" donde Hazzard escribió "blowing"; su impresión anterior, de 1937, también dice "blowing" [^andrews][^andrews1937][^hazzard].
 
 > Who will bow and bend like a willow
 ¿Quién se inclinará y se doblará como un sauce?

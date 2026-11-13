@@ -2,6 +2,7 @@
 title: La Paloma: history, meaning and the words explained
 description: Sebastián Iradier's habanera, in print in Madrid by 1859. Who wrote La Paloma, the Cuba and Mexico stories, and every verse in Spanish and English.
 lead: A man leaves Havana and asks his love to treat a dove at her window kindly, for the dove is him. Sebastián Iradier, a Basque composer, published it in Madrid by 1859.
+words: Sebastián Iradier (1809 to 1865), the only author named in the prints we have read; the 1861 register credits him only with the music
 tune: Sebastián Iradier (1809 to 1865)
 earliestPrinting: La paloma, canción americana, voice and piano, published by Iradier, Madrid, 1859 (presented for registration in December 1860; listed in 1861)
 earliestPrintingSource: boletin1861

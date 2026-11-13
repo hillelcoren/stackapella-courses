@@ -25,7 +25,7 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 
 ## De dónde viene
 
-**La primera impresión.** La primera impresión conocida es una hoja suelta titulada Bonnie Loch Loman, publicada por Paterson & Roy, del número 27 de George Street, en Edimburgo, hacia 1840. En 1911, la revista de un librero de Aberdeen, Brown's Book-Stall, reimprimió su letra con ese pie de imprenta, citando al recopilador de canciones populares Gavin Greig: sus siete estrofas figuraban como "escritas por una dama", y la música como arreglada por Finlay Dun [^browns]. El Ballad Index da 1841, y nombra The Vocal Melodies of Scotland, la serie de canciones escocesas de la casa, con arreglos de Dun y John Thomson [^tbi][^thirty]. Alfred Moffat había contado lo mismo en la década de 1890: la casa de Paterson, Finlay Dun y una dama [^moffat].
+**La primera impresión conocida.** La primera impresión conocida es una hoja suelta titulada Bonnie Loch Loman, publicada por Paterson & Roy, del número 27 de George Street, en Edimburgo, hacia 1840. En 1911, la revista de un librero de Aberdeen, Brown's Book-Stall, reimprimió su letra con ese pie de imprenta, citando al recopilador de canciones populares Gavin Greig: sus siete estrofas figuraban como "escritas por una dama", y la música como arreglada por Finlay Dun [^browns]. El Ballad Index da 1841, y nombra The Vocal Melodies of Scotland, la serie de canciones escocesas de la casa, con arreglos de Dun y John Thomson [^tbi][^thirty]. Alfred Moffat había contado lo mismo en la década de 1890: la casa de Paterson, Finlay Dun y una dama [^moffat].
 
 ![[1]]
 

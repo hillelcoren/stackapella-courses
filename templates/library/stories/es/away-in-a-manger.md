@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: f6d7e7ab3b6f
+translatedFrom: 40afa246d832
 original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
@@ -47,7 +47,7 @@ Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra
 
 ![[3]]
 
-**Mito y documentos.** Se suele contar que Lutero escribió este villancico para sus hijos, y que las madres alemanas aún lo cantan. Lo que muestran los documentos: la primera atribución conocida a Lutero está en periódicos estadounidenses de 1882 [^hymnarchive][^cynosure1882]. El villancico no está en ninguna de las colecciones de himnos de Lutero, y no se conoce ninguna forma alemana anterior a la inglesa [^hymnarchive][^hill]. El himno que, según se dice, Lutero escribió para la Nochebuena de sus hijos es "Vom Himmel hoch, da komm ich her", en un relato que cita John Julian [^julian][^hill]. Un libro estadounidense de 1872, Luther at Home, decía que "el villancico de Navidad de Lutero, escrito para su propio hijo Hans, todavía se canta" en Dresde, sin nombrarlo [^stork1872]; el Canterbury Dictionary of Hymnology sugiere que Murray tomó ese villancico por este [^canterbury]. Hill supuso que el poema se imprimió por primera vez para el 400 aniversario del nacimiento de Lutero, en 1883, y Hymnology Archive relaciona la etiqueta de Lutero con ese año, pero las dos estrofas ya estaban impresas a principios de 1882 [^hill][^hymnarchive][^cynosure1882].
+**Mito y documentos.** Se suele contar que Lutero escribió este villancico para sus hijos, y que las madres alemanas aún lo cantan. Lo que muestran los documentos: la primera atribución conocida a Lutero está en periódicos estadounidenses de 1882 [^hymnarchive][^cynosure1882]. El villancico no está en ninguna de las colecciones de himnos de Lutero, y no se conoce ninguna forma alemana anterior a la inglesa [^hymnarchive][^hill]. El himno que, según se dice, Lutero escribió para la Nochebuena de sus hijos es "Vom Himmel hoch, da komm ich her", en un relato que cita John Julian [^julian][^hill]. Un libro estadounidense de 1872, Luther at Home, decía que "el villancico de Navidad de Lutero, escrito para su propio hijo Hans, todavía se canta" en Dresde, sin nombrarlo [^stork1872]; el Canterbury Dictionary of Hymnology sugiere que Murray tomó ese villancico por este [^canterbury]. Hill supuso que la impresión más antigua del poema se hizo para el 400 aniversario del nacimiento de Lutero, en 1883, y Hymnology Archive relaciona la etiqueta de Lutero con ese año, pero las dos estrofas ya estaban impresas a principios de 1882 [^hill][^hymnarchive][^cynosure1882].
 
 ### Cronología
 

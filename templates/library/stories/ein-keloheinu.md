@@ -12,6 +12,7 @@ occasion: End of the Sabbath and festival morning service (Ashkenazi); weekday m
 alsoKnownAs: En Kelohenu, Ayn Kaylohaynu
 wikidata: Q3049440
 quote: Ein kelokeinu, ein kadoneinu, ein kemalkenu, ein k'moshienu.
+quoteSource: sefaria
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true

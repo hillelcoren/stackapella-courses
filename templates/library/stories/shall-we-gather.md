@@ -122,7 +122,7 @@ It began as a Sunday-school song and became a gospel hymn sung in churches of ma
 
 The 1865 and 1866 printings set it differently. In Happy Voices the verse is in three parts, soprano and alto on the upper staff and the bass alone below, and a tenor joins only for the chorus [^happyvoices1865]. From the New Golden Shower on, all four parts sing throughout [^ngs1866][^brightjewels1869].
 
-Our arrangement is read from the four parts in Lowry's Bright Jewels, first printed in Bradbury's New Golden Shower in 1866 [^ngs1866][^brightjewels1869], in E-flat as printed and in 4/4, the first verse and the chorus for 2 to 4 singers. Where Lowry gives the alto or tenor two notes to a syllable, we sing one; the tenor stays on E-flat for the "-er" of "river" and "forever" instead of dropping back to B-flat, and sings C on "Yes, we'll", the note Happy Voices gives it. The alto ends on a low G instead of Lowry's E-flat, so the duet and trio end on a chord's third rather than bare E-flats, and breaths are written in.
+Our arrangement is read from the four parts in Lowry's Bright Jewels, a setting whose earliest known printing is in Bradbury's New Golden Shower of 1866 [^ngs1866][^brightjewels1869], in E-flat as printed and in 4/4, the first verse and the chorus for 2 to 4 singers. Where Lowry gives the alto or tenor two notes to a syllable, we sing one; the tenor stays on E-flat for the "-er" of "river" and "forever" instead of dropping back to B-flat, and sings C on "Yes, we'll", the note Happy Voices gives it. The alto ends on a low G instead of Lowry's E-flat, so the duet and trio end on a chord's third rather than bare E-flats, and breaths are written in.
 
 ![[4]]
 

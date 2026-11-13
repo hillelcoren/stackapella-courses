@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: sweet adeline historia | sweet adeline significado | quién escribió sweet adeline | sweet adeline letra en español | sweet adeline barbershop | quién cantó primero sweet adeline
-translatedFrom: 507d396e980c
+translatedFrom: 45e2bdc4a6e5
 original: You're the Flower of My Heart, Sweet Adeline (Witmark, 1903), Lilly Library, Universidad de Indiana | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-250085
 listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-245492-sweet-adeline || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-726049-you-re-the-flower-of-my-heart-sweet-adeline
 ---
@@ -199,7 +199,7 @@ Los propios relatos de Armstrong dicen que el Quaker City Four, un cuarteto de F
 - [^okhist]: Dianna Everett, "SPEBSQSA (Society for the Preservation and Encouragement of Barber Shop Quartet Singing in America)", *The Encyclopedia of Oklahoma History and Culture* (Oklahoma Historical Society, 2010). https://www.okhistory.org/publications/enc/entry?entry=SP007
 - [^fhc]: Bill Carroll, "The African American roots of barbershop harmony", *Forest Hills Connection* (25 de abril de 2016). https://foresthillsconnection.com/?p=2380
 - [^sai2015]: Sweet Adelines International, "Sweet Adelines International Celebrates 70th Anniversary of Barbershop A Cappella Harmony", comunicado de prensa (Tulsa, 12 de julio de 2015). https://www.pr.com/press-release/628317
-- [^sai-dei]: Sweet Adelines International, "From Exclusion to Inclusion and Equity: Yesterday, Today, and Tomorrow", panel histórico del 75.º aniversario (2020). https://sweetadelines.com/sites/default/files/Events/75th-Anniversary/History-Panels/From-Exclusion-to-Inclusion-%26-Equity_web.pdf
+- [^sai-dei]: Sweet Adelines International (hoy SingUnited International), "From Exclusion to Inclusion and Equity: Yesterday, Today, and Tomorrow", panel histórico del 75.º aniversario (2020). https://singunited.org/sites/default/files/Events/75th-Anniversary/History-Panels/From-Exclusion-to-Inclusion-%26-Equity_web.pdf
 - [^singunited]: SingUnited International, "Name announcement" (2026). https://www.singunited.org/name-announcement
 - [^region21]: Sweet Adelines Region 21, "Sweet Adelines International changes its name after 80 years". https://www.region21.org/post/sweet-adelines-international-changes-its-name-after-80-years
 - [^goldberg1930]: Isaac Goldberg, *Tin Pan Alley: A Chronicle of the American Popular Music Racket* (Nueva York: John Day, 1930), p. 257; facsímil. https://archive.org/details/bwb_S0-ATL-466
