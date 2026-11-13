@@ -27,7 +27,11 @@ How old it is, nobody can say. In 1926 Herbert Loewe reported that L. Hirschfeld
 
 One more thing is missing from the words: the Sabbath. Israel Abrahams, in his notes to the Singer's prayer book in 1914, points out after Seligman Baer that the song never mentions it, and adds Baer's view that it suits any occasion; Loewe notes the same silence in 1926.[^abrahams][^loewe] Yet it belongs to the Sabbath table. The Encyclopaedia Judaica says it is not recited on weekdays, though Jacob Emden thought that anyone who sang it in the week would be especially blessed, and some families sing it at festival meals too.[^ej][^enkin]
 
+![[1]]
+
 The tune has its own history. In 1906 the Jewish Encyclopedia's article on the zemirot, by Joseph Jacobs and Francis L. Cohen, explained that the tunes of the table songs were younger than their words, often folk songs a father brought home and sang at his own table. Where only some of the songs were chosen, it said, the most frequent air was a German melody, used either for Tzur Mishelo or for another table song, "Yom Zeh le-Yisrael".[^je] It printed that melody under the heading "Sabbath Rest", slow, in 6/8 and in G minor.[^je] The three English verses printed under it are not Tzur Mishelo at all. They follow Yom Zeh le-Yisrael: their refrain, "A light and a joy to us is Sabbath rest", is that song's "light and gladness, a Sabbath of rest".[^je][^yomzeh] The Hebrew of Tzur Mishelo is fitted to the tune here by us.
+
+![[2]]
 
 ### Timeline
 
@@ -40,6 +44,8 @@ The tune has its own history. In 1906 the Jewish Encyclopedia's article on the z
 The title is the refrain's first words. Tzur is "rock", an old name for Hashem: Hannah's song in the Book of Samuel says that there is no rock like Hashem.[^tanakh] Mishelo is "from His own", and achalnu "we have eaten". So the refrain opens: the Rock, from whose own food we have eaten.[^metsudah][^loewe]
 
 The song has four verses, with the refrain before, between and after them. We sing verses 1 and 4.
+
+![[3]]
 
 **Refrain (sung).** The Rock from whose food we have eaten: bless Him, my faithful friends. We have eaten our fill and there is food left over, just as Hashem said. Barchu, "bless!", is the zimmun's call, and kidvar, "as the word of", is the very word of the Elisha story, where the people ate and had some left over, just as Hashem had said they would.[^mishnah][^tanakh]
 
@@ -128,6 +134,8 @@ Tzur Mishelo is sung at home at the end of the Sabbath meal. Ashkenazi prayer bo
 These songs were sung by families, not choirs. Rose L. Henriques, who set the tunes for Loewe's book in 1926, pictured the father leading off each verse, the rest of the family following, and those who could "sing seconds" adding harmonies; each household, she wrote, had its own version of the tunes.[^loewe] The Jewish Encyclopedia went further: few table songs, it said, kept the same melody for more than two generations.[^je]
 
 Our arrangement reads the tune from page 658 of the Jewish Encyclopedia's twelfth volume, in G minor as printed, sixteen bars in 6/8 after a short pickup.[^je] The four parts are our own, for 2 to 4 singers: soprano and alto; then bass; then tenor. The Hebrew is in modern Israeli pronunciation. The refrain takes the first eight bars, and each verse takes all sixteen: its first eight are the refrain's music, then four new bars climb higher than anything in the refrain, and the last four come home to the refrain's close. We sing the refrain first, between the two verses, and last.
+
+![[4]]
 
 ## Versions and other words
 

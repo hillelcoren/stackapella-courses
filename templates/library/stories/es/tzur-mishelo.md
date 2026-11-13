@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: 9819fa5cec8e
+translatedFrom: e50494c6482a
 original: Jewish Encyclopedia, vol. 12, p. 658, Internet Archive | https://archive.org/details/cu31924091768295/page/n705/mode/1up
 ---
 
@@ -28,7 +28,11 @@ Qué edad tiene, nadie puede decirlo. En 1926, Herbert Loewe contaba que L. Hirs
 
 A la letra le falta algo más: el sabbat. Israel Abrahams, en sus notas al libro de oraciones de Singer en 1914, señala, siguiendo a Seligman Baer, que la canción nunca lo menciona, y añade que, para Baer, sirve para cualquier ocasión; Loewe señala el mismo silencio en 1926.[^abrahams][^loewe] Aun así, pertenece a la mesa del sabbat. La Encyclopaedia Judaica dice que no se recita entre semana, aunque Jacob Emden pensaba que quien la cantara entre semana sería especialmente bendecido, y algunas familias la cantan también en las comidas de las fiestas.[^ej][^enkin]
 
+![[1]]
+
 La melodía tiene su propia historia. En 1906, el artículo de la Jewish Encyclopedia sobre los zemirot, de Joseph Jacobs y Francis L. Cohen, explicaba que las melodías de las canciones de mesa eran más recientes que sus letras, y que a menudo eran canciones populares que un padre traía a casa y cantaba en su propia mesa. Donde solo se elegían algunas de las canciones, decía, la melodía más frecuente era una melodía alemana, que se usaba para Tzur Mishelo o para otra canción de mesa, "Yom Zeh le-Yisrael".[^je] Imprimía esa melodía con el título "Sabbath Rest", lenta, en 6/8 y en Sol menor.[^je] Las tres estrofas en inglés que imprime debajo no son Tzur Mishelo en absoluto. Siguen a Yom Zeh le-Yisrael: su estribillo, "A light and a joy to us is Sabbath rest" (una luz y una alegría es para nosotros el descanso del sabbat), es el "luz y alegría, un sabbat de descanso" de esa canción.[^je][^yomzeh] El hebreo de Tzur Mishelo lo hemos ajustado nosotros a la melodía.
+
+![[2]]
 
 ### Cronología
 
@@ -41,6 +45,8 @@ La melodía tiene su propia historia. En 1906, el artículo de la Jewish Encyclo
 El título son las primeras palabras del estribillo. Tzur es "roca", un antiguo nombre de Hashem: el cántico de Ana, en el libro de Samuel, dice que no hay roca como Hashem.[^tanakh] Mishelo es "de lo Suyo", y achalnu, "hemos comido". Así que el estribillo empieza: la Roca, de cuya propia comida hemos comido.[^metsudah][^loewe]
 
 La canción tiene cuatro estrofas, con el estribillo antes, entre ellas y después. Cantamos las estrofas 1 y 4.
+
+![[3]]
 
 **Estribillo (cantado).** Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos! Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Hashem. Barchu, "¡a bendecir!", es la llamada del zimmun, y kidvar, "según la palabra de", es la misma palabra de la historia de Eliseo, donde la gente comió y aún sobró, tal como Hashem había dicho.[^mishnah][^tanakh]
 
@@ -129,6 +135,8 @@ Tzur Mishelo se canta en casa al final de la comida del sabbat. Los libros de or
 Estas canciones las cantaban familias, no coros. Rose L. Henriques, que armonizó las melodías del libro de Loewe en 1926, imaginaba al padre empezando cada estrofa, al resto de la familia siguiéndolo, y a quienes sabían "hacer la segunda" añadiendo armonías; cada casa, escribió, tenía su propia versión de las melodías.[^loewe] La Jewish Encyclopedia fue más allá: pocas canciones de mesa, decía, conservaban la misma melodía más de dos generaciones.[^je]
 
 Nuestro arreglo toma la melodía de la página 658 del volumen 12 de la Jewish Encyclopedia, en Sol menor como está impresa, dieciséis compases en 6/8 tras una breve anacrusa.[^je] Las cuatro voces son nuestras, para 2 a 4 cantantes: soprano y contralto; luego el bajo; luego el tenor. El hebreo va con la pronunciación israelí moderna. El estribillo ocupa los ocho primeros compases, y cada estrofa los dieciséis: los ocho primeros son la música del estribillo, luego cuatro compases nuevos suben más alto que nada en el estribillo, y los cuatro últimos vuelven al cierre del estribillo. Cantamos el estribillo al principio, entre las dos estrofas y al final.
+
+![[4]]
 
 ## Versiones y otras letras
 

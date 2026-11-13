@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: d6594893ca19
+translatedFrom: d6781e7aed34
 ---
 
 Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminada la parte formal del séder, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes, y las sinagogas la tomaron prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
@@ -27,11 +27,17 @@ Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa 
 
 Nadie sabe quién escribió la letra. La mayoría de las fuentes dicen que Adir Hu llegó tarde a la Hagadá, el libro del séder. La Jewish Encyclopedia dice que no se encuentra en ella mucho antes de finales del siglo XV, y la Union Haggadah de 1923 dice que en el siglo XV "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] La Encyclopaedia Judaica lo cuenta entre los himnos añadidos en la Edad Media e impresos desde el siglo XVI.[^ej] A. Z. Idelsohn, el historiador de la música judía, lo sitúa de forma más amplia entre los cantos populares del séder compuestos "a partir del siglo X".[^idel29]
 
+![[1]]
+
 Adir Hu tiene un gemelo. Ki Lo Na'eh, que se canta justo antes, recorre el alfabeto de la misma manera.[^je][^sefaria] Las notas de la Union Haggadah dicen que los dos se añadieron en el siglo XV.[^uh1923] La Jewish Encyclopedia dice que Adir Hu empezó como himno para todas las fiestas y luego se adoptó como compañero de Ki Lo Na'eh: al principio Ki Lo Na'eh se cantaba la primera noche de Pésaj y Adir Hu la segunda, y solo unos dos siglos antes de 1901 se empezó a cantar los dos cada noche.[^je] La Jewish Encyclopedia veía la diferencia en sus propósitos: Ki Lo Na'eh alaba el poder que puede redimir a Israel, mientras que Adir Hu le ruega a ese poder que se dé prisa y reconstruya.[^je]
 
 Una versión judeoalemana, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Hashem todopoderoso, construye ahora pronto Tu Templo", se cantó mucho en otro tiempo, y la Jewish Encyclopedia la encontraba aún en uso en 1901.[^je][^idel29] Como en el hebreo, sus estrofas cambiaban la palabra de alabanza cada vez: Hashem todopoderoso, Hashem misericordioso, y así.[^je] La Encyclopaedia Judaica dice que se imprimió por primera vez en la Hagadá de Gershom ben Solomon ha-Kohen, en Praga.[^ej] Allí está debajo del himno hebreo, en letras hebreas, con sus palabras de alabanza también en el orden del alfabeto hebreo: Barmherziger (misericordioso), Gerechter (justo), y así. El colofón de esa página fecha la obra en el mes de tevet del año 5287, el invierno de 1526 a 1527; el libro se fecha en 1526, y en 1527 en la Encyclopaedia Judaica.[^prague][^ej] La Jewish Encyclopedia encontró la versión alemana incluso en una Hagadá del rito español impresa en Ámsterdam en 1612.[^je] Idelsohn escribe que se la llamaba el Baugesang, el canto de la reconstrucción del Templo, y la Encyclopaedia Judaica dice que por su estribillo los judíos del sur y el oeste de Alemania llamaban a la noche del séder la Baunacht.[^idel29][^ej]
 
+![[2]]
+
 La primera impresión conocida de la melodía está en una Hagadá con traducciones al latín y al alemán, publicada en Königsberg en 1644 por J. S. Rittangel, un hebraísta cristiano que enseñaba allí lenguas orientales.[^je][^idel29][^brown][^braginsky][^chalmers] Su libro da las melodías de los cantos que se cantaban al cerrar el séder, y la Jewish Encyclopedia dice que imprimió la de Adir Hu con una parte de bajo.[^je][^braginsky][^niv] La forma de 1644 es más sencilla que la nuestra. La enciclopedia dijo que tenía "el carácter de una salmodia monótona más que de una melodía fija", y pensaba que los bajos de la mesa, haciendo la segunda voz por debajo, pronto llegaron a frases más cercanas a la melodía que se cantaba en 1901.[^je] Idelsohn siguió ese cambio a través de otras dos impresiones, ambas en Leipzig, en 1677 y 1769. La Jewish Encyclopedia encontró la forma de 1769 "casi exactamente" igual a la melodía que se cantaba en el norte de Alemania en 1901.[^idel29][^je]
+
+![[3]]
 
 No está claro de dónde viene la melodía. La Jewish Encyclopedia la tenía por obra de un cantante judío de principios del siglo XVII, todavía bastante nueva en 1644. La Encyclopaedia Judaica dice que puede ser anterior a 1644.[^je][^ej] Idelsohn llamó a su carácter "decididamente alemán", aunque aún no se había encontrado ninguna melodía alemana idéntica. Comparó algunos de sus giros con canciones alemanas, entre ellas una canción de cuna de María de 1544 y una canción de peregrinos de 1537.[^idel29] Idelsohn señala que hasta las antiguas comunidades judías del sur de Francia, cuyas melodías difieren de las de todas las demás comunidades, adoptaron esta melodía asquenazí.[^idel29]
 
@@ -173,6 +179,8 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 Adir Hu es sobre todo un canto del séder asquenazí. En el orden tradicional llega después de los salmos del Hallel y de las palabras que cierran el rito: primero Ki Lo Na'eh, luego Adir Hu, y más tarde la canción de contar Echad Mi Yodea y Chad Gadya.[^sefaria][^ej] La Union Haggadah del movimiento reformista mantiene los cantos después de la cuarta copa de vino, pero pone Adir Hu antes de Ki Lo Na'eh.[^uh1923] La Jewish Encyclopedia pensaba que la melodía cambió poco una vez que tomó esta forma, porque una familia en la mesa, con los niños, podía cantarla sin los giros difíciles del canto de sinagoga.[^je]
 
 Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí está encabezado "Chorus" (coro), marcado Maestoso y "Traditional" (tradicional), en Do mayor y en 4/4, para voz y piano.[^uh1923] Lo cantamos a un tempo majestuoso, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "yivneh veso b'korov"; nosotros lo reescribimos en pronunciación israelí moderna, así que "b'korov" se vuelve "bekarov".[^uh1923] Cantamos sus tres estrofas para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Hay dos respiraciones breves marcadas para principiantes.
+
+![[4]]
 
 ## ¿Sabías que...?
 

@@ -28,7 +28,11 @@ That acrostic hides a word in the hymn's opening letters. The first letters of t
 
 **The tune.** Julius Freudenthal was born in Braunschweig in 1805 and died there in 1874. He was a leading violinist in the Duke of Brunswick's court orchestra and became court music director.[^adb][^idel29][^nds] In 1842 the city's Jewish community took on a new cantor, Hirsch Goldberg, and the two men modernized the synagogue's singing together.[^idel29][^nds] Goldberg published the result in 1843: a book of songs for the cantor and a small choir, some of them, his preface says, set in two parts. A. Z. Idelsohn, the historian of Jewish music, wrote in 1929 that Freudenthal gave it several tunes, "especially his famous tune for En Kelohenu", which Idelsohn dated to 1841.[^idel29][^austerklein]
 
+![[1]]
+
 The first edition sold out in barely a year, Goldberg wrote in the second, of 1845, which carries a foreword by Freudenthal.[^bs1845] There the tune is No. 2 of two settings of the hymn, signed only "J. F.", in the Sabbath morning pages right after the additional service. The choir sings verses 1, 3 and 5 in two parts, and the cantor answers alone with verses 2 and 4, to a second strain of the tune.[^bs1845]
+
+![[2]]
 
 From Germany the tune crossed to America. The Union Hymnal of the Central Conference of American Rabbis, made for Reform congregations, printed it in four voices in 1897 as the first of its four settings of the hymn, with no composer on the page and only "German" in the index.[^uh1897][^uh1932][^idel29] Its third edition, of 1932, sets it in the music for the Sabbath morning service and names Julius Freudenthal.[^uh1932]
 
@@ -148,7 +152,11 @@ In the Ashkenazi rite Ein Keloheinu follows the additional service, Musaf, on Sa
 
 Freudenthal's tune moves in short, even phrases, and in Braunschweig it was a dialogue between choir and cantor.[^bs1845] The Union Hymnal turned it into a plain four-part hymn for the whole choir, all five verses.[^uh1897]
 
+![[3]]
+
 Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it in F; we sing it a tone higher, in G, which happens to be the key of the Braunschweig book of 1845.[^uh1897][^bs1845] All five verses are sung in order, for 2 to 4 singers. Verses 1, 3 and 5 share the opening tune, and verses 2 and 4 take the second strain, the one the Braunschweig cantor once sang alone; verse 5 comes in after a short rest, on a pickup note of its own.[^bs1845][^uh1897]
+
+![[4]]
 
 ## Versions and other words
 

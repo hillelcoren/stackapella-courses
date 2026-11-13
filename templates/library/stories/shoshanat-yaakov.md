@@ -21,6 +21,8 @@ Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has b
 
 **The story behind it.** The Book of Esther tells of the Jews of the Persian empire under King Ahasuerus. Haman, the king's chief minister, was enraged that Mordecai the Jew would not bow to him, and plotted to destroy every Jew in the kingdom on a day chosen by lot, pur.[^esther][^je-purim] Esther, the cousin Mordecai had raised as his daughter, had become queen without making her people known. She went to the king unbidden, at the risk of her life, and at a banquet named Haman as the enemy who had sold her people to be destroyed.[^esther] Harbona, one of the king's chamberlains, then told the king of the gallows Haman had built for Mordecai, and Haman was hanged on it.[^esther][^je-harbona] A new decree let the Jews stand and defend their lives, and Mordecai went out from the king in royal robes of blue and white while the city of Shushan cried out and was glad.[^esther] Purim, named for the lots, is kept on the fourteenth of Adar, and in Shushan and the old walled cities on the fifteenth, with the reading of the book, feasting, and gifts to friends and to the poor.[^esther][^je-purim][^meg][^ej-purim]
 
+![[1]]
+
 **The words.** The song's last line is not part of the poem but a custom the Talmud records. The Jerusalem Talmud and the minor tractate Soferim say that Rav required the words "Cursed be Haman, cursed be his sons", and that Rabbi Pinchas required "Harbona, remembered for good"; Soferim places them after the blessing that follows the reading.[^yer][^soferim] Soferim also blesses Mordecai, Esther and all Israel.[^soferim]
 
 The poem itself, Asher heni, is a poem of praise said after the blessing that follows the reading.[^sa][^baer] Its lines run through the Hebrew alphabet: "Shoshanat" stands at shin and "Teshuatam" at tav, the last two letters.[^vitry] It is in the Mahzor Vitry, the prayer book of the school of Rashi compiled in northern France by Simhah of Vitry, who had died by 1105. The printed Mahzor Vitry follows a later, enlarged manuscript, so it can't tell us whether the poem was in Simhah's own book.[^ej-vitry][^je-simhah]
@@ -28,6 +30,8 @@ The poem itself, Asher heni, is a poem of praise said after the blessing that fo
 **An old heading.** The Mahzor Vitry heads the poem "a poem from the foundation of the Men of the Great Assembly", the sages whom tradition places at the start of the Second Temple period and the Talmud credits with fixing the days of Purim.[^vitry][^je-great][^meg] It is a traditional attribution, not a record: the book names no poet.[^vitry]
 
 **The tune.** Abraham Baer was born in 1834 and in 1857 became cantor of the synagogue in Gothenburg, Sweden, where he served until his death in 1894.[^je-baer][^hammarlund] His Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", gathers about 1,500 tunes for the cantor, German, Polish and Sephardi.[^je-baer][^hammarlund] Baer gave it to the public in 1877, as his prefaces and Hammarlund say (the Jewish Encyclopedia gives 1871), and a second, enlarged edition followed in 1883.[^baer][^hammarlund][^je-baer] Our song is No. 197 on page 59 of the third edition, printed in Frankfurt am Main after 1883.[^baer]
+
+![[2]]
 
 Baer names no maker for it. His 1877 preface explains his marks: "N. W.", new tune; "A. W.", old tune, a single earlier cantor's work known only locally; and no mark for the very old tunes, known by their character and how widely they have spread.[^baer] The Esther verses and the blessing above it on page 59 carry "A. W."; this song carries none, so by his own key it is a very old, widely sung tune.[^baer] His second preface, of 1883, says that all the Polish and some of the Ashkenazi melodies marked "A. W.", and all the pieces marked "N. W.", are his own compositions, so even "A. W." is not always an older cantor's mark. No. 197 is not in its list of his own pieces in the old style, though the list ends "and other similar passages".[^baer] The marks are a cantor's judgment, not a record: who made the tune, and when, is not known.
 
@@ -105,7 +109,11 @@ And Harbona, too, is remembered for good.
 
 The Talmud has the scroll of Esther read at night and again by day, and gives the blessing said after it where that is the custom.[^meg][^je-purim][^kitzur] In the Ashkenazi rite the whole of Asher heni follows that blessing at night only: Moses Isserles's gloss on the Shulchan Aruch notes the custom, and Singer's prayer book leaves the paragraph out by day.[^sa][^singer] After the morning reading, Shlomo Ganzfried's Kitzur Shulchan Aruch has only Shoshanat Yaakov.[^kitzur]
 
+![[3]]
+
 Baer's page sets the scene: the scroll is rolled up, the blessing is sung, Asher heni is said quietly (skipped in the morning, his note adds), and then comes this song, for the cantor alone, Andantino, in B-flat major.[^baer] Above the blessing he prints the four verses of Esther that the congregation sings aloud during the reading, each marked "Chor, dann Solo": the congregation, then the cantor.[^baer][^je-purim] For a moment, on "lo yikalmu lanetzach, kol hachosim bach", the print splits into two voices, the second a third above the tune. The song ends with a double bar and a quiet last line, marked "Leise weiter", go on softly: "W'gam charwonoh sochur latow".[^baer]
+
+![[4]]
 
 Our arrangement is read from that page, in B-flat as printed, for 2 to 4 singers, with the words in modern Israeli pronunciation. The soprano sings Baer's tune, and the alto, bass and tenor are our own. The whole song is sung twice, then the soft last line once.[^baer]
 

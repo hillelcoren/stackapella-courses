@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: abc18d82409b
+translatedFrom: 6190ecf79999
 ---
 
 Ein Keloheinu, también escrito En Kelohenu, es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro músicas distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
@@ -29,7 +29,11 @@ Ese acróstico esconde una palabra en las letras iniciales del himno. Las primer
 
 **La melodía.** Julius Freudenthal nació en Braunschweig en 1805 y murió allí en 1874. Fue uno de los violinistas principales de la orquesta de la corte del duque de Brunswick y llegó a director musical de la corte.[^adb][^idel29][^nds] En 1842 la comunidad judía de la ciudad contrató a un nuevo cantor, Hirsch Goldberg, y los dos modernizaron juntos el canto de la sinagoga.[^idel29][^nds] Goldberg publicó el resultado en 1843: un libro de cantos para el cantor y un pequeño coro, algunos de ellos, dice su prólogo, a dos voces. A. Z. Idelsohn, el historiador de la música judía, escribió en 1929 que Freudenthal aportó varias melodías, "sobre todo su famosa melodía para En Kelohenu", que Idelsohn fechaba en 1841.[^idel29][^austerklein]
 
+![[1]]
+
 La primera edición se agotó en apenas un año, escribió Goldberg en la segunda, de 1845, que lleva un prólogo de Freudenthal.[^bs1845] Allí la melodía es la n.º 2 de dos músicas para el himno, firmada solo "J. F.", en las páginas de la mañana del sabbat, justo después del oficio adicional. El coro canta las estrofas 1, 3 y 5 a dos voces, y el cantor responde solo con las estrofas 2 y 4, con una segunda sección de la melodía.[^bs1845]
+
+![[2]]
 
 De Alemania, la melodía pasó a América. El Union Hymnal de la Central Conference of American Rabbis, hecho para las congregaciones reformistas, la imprimió a cuatro voces en 1897 como la primera de sus cuatro músicas para el himno, sin compositor en la página y solo con "German" en el índice.[^uh1897][^uh1932][^idel29] Su tercera edición, de 1932, la incluye en la música del oficio de la mañana del sabbat y nombra a Julius Freudenthal.[^uh1932]
 
@@ -149,7 +153,11 @@ En el rito asquenazí, Ein Keloheinu sigue al oficio adicional, el Musaf, los sa
 
 La melodía de Freudenthal avanza en frases cortas y regulares, y en Braunschweig era un diálogo entre el coro y el cantor.[^bs1845] El Union Hymnal la convirtió en un himno sencillo a cuatro voces para todo el coro, con las cinco estrofas.[^uh1897]
 
+![[3]]
+
 Nuestro arreglo se basa en el Union Hymnal de 1897, n.º 17. El libro lo imprime en Fa; nosotros lo cantamos un tono más alto, en Sol, que resulta ser la tonalidad del libro de Braunschweig de 1845.[^uh1897][^bs1845] Las cinco estrofas se cantan en orden, para 2 a 4 cantantes. Las estrofas 1, 3 y 5 comparten la melodía inicial, y las estrofas 2 y 4 toman la segunda sección, la que en Braunschweig cantaba el cantor a solas; la estrofa 5 entra tras un breve silencio, con una anacrusa propia.[^bs1845][^uh1897]
+
+![[4]]
 
 ## Versiones y otras letras
 

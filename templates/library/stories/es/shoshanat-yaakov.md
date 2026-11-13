@@ -13,7 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: a013708d7cf1
+translatedFrom: a57a6b15133c
 ---
 
 Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia.[^baer][^hammarlund]
@@ -22,6 +22,8 @@ Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído el
 
 **La historia que hay detrás.** El libro de Ester cuenta la historia de los judíos del Imperio persa bajo el rey Asuero. Amán, el primer ministro del rey, se enfureció porque Mardoqueo el judío no se inclinaba ante él, y tramó destruir a todos los judíos del reino en un día elegido a suertes, pur.[^esther][^je-purim] Ester, la prima a la que Mardoqueo había criado como a una hija, había llegado a reina sin dar a conocer su pueblo. Se presentó ante el rey sin ser llamada, arriesgando la vida, y en un banquete señaló a Amán como el enemigo que había vendido a su pueblo para destruirlo.[^esther] Harbona, uno de los eunucos al servicio del rey, le habló entonces de la horca que Amán había levantado para Mardoqueo, y Amán fue colgado en ella.[^esther][^je-harbona] Un nuevo decreto permitió a los judíos defender su vida, y Mardoqueo salió de la presencia del rey con vestiduras reales azules y blancas mientras la ciudad de Susa gritaba de júbilo y se alegraba.[^esther] Purim, llamado así por las suertes, se celebra el catorce de Adar, y en Susa y en las antiguas ciudades amuralladas el quince, con la lectura del libro, banquetes y regalos a los amigos y a los pobres.[^esther][^je-purim][^meg][^ej-purim]
 
+![[1]]
+
 **La letra.** El último verso de la canción no forma parte del poema: es una costumbre que recoge el Talmud. El Talmud de Jerusalén y el tratado menor Soferim dicen que Rav exigía las palabras "Maldito sea Amán, malditos sean sus hijos", y que el rabino Pinchas exigía "Harbona, recordado para bien"; Soferim las sitúa después de la bendición que sigue a la lectura.[^yer][^soferim] Soferim bendice además a Mardoqueo, a Ester y a todo Israel.[^soferim]
 
 El poema en sí, Asher heni, es un poema de alabanza que se dice después de la bendición que sigue a la lectura.[^sa][^baer] Sus versos recorren el alfabeto hebreo: "Shoshanat" está en la shin y "Teshuatam" en la tav, las dos últimas letras.[^vitry] Está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado en el norte de Francia por Simhah de Vitry, que había muerto ya en 1105. El Mahzor Vitry impreso sigue un manuscrito posterior y ampliado, así que no puede decirnos si el poema estaba en el libro del propio Simhah.[^ej-vitry][^je-simhah]
@@ -29,6 +31,8 @@ El poema en sí, Asher heni, es un poema de alabanza que se dice después de la 
 **Un encabezamiento antiguo.** El Mahzor Vitry encabeza el poema como "un poema de la fundación de los Hombres de la Gran Asamblea", los sabios que la tradición sitúa al comienzo del periodo del Segundo Templo y a quienes el Talmud atribuye la fijación de los días de Purim.[^vitry][^je-great][^meg] Es una atribución tradicional, no un documento: el libro no nombra a ningún poeta.[^vitry]
 
 **La melodía.** Abraham Baer nació en 1834 y en 1857 se hizo cantor de la sinagoga de Gotemburgo, en Suecia, donde sirvió hasta su muerte en 1894.[^je-baer][^hammarlund] Su Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", reúne unas 1500 melodías para el cantor, alemanas, polacas y sefardíes.[^je-baer][^hammarlund] Baer la entregó al público en 1877, según sus prefacios y Hammarlund (la Jewish Encyclopedia da 1871), y en 1883 siguió una segunda edición ampliada.[^baer][^hammarlund][^je-baer] Nuestra canción es el n.º 197 de la página 59 de la tercera edición, impresa en Frankfurt am Main después de 1883.[^baer]
+
+![[2]]
 
 Baer no nombra a ningún autor para ella. Su prefacio de 1877 explica sus marcas: "N. W.", melodía nueva; "A. W.", melodía antigua, obra de un cantor concreto de otra época que solo se conoce en un lugar; y ninguna marca para las melodías muy antiguas, que se reconocen por su carácter y por lo mucho que se han extendido.[^baer] Los versículos de Ester y la bendición que hay encima en la página 59 llevan "A. W."; esta canción no lleva ninguna, así que, según su propia clave, es una melodía muy antigua y muy cantada.[^baer] Su segundo prefacio, de 1883, dice que todas las melodías polacas y parte de las asquenazíes marcadas "A. W.", y todas las piezas marcadas "N. W.", son composiciones suyas, así que ni siquiera "A. W." es siempre la marca de un cantor antiguo. El n.º 197 no está en su lista de piezas propias al estilo antiguo, aunque la lista termina con "y otros pasajes similares".[^baer] Las marcas son el juicio de un cantor, no un documento: no se sabe quién hizo la melodía ni cuándo.
 
@@ -106,7 +110,11 @@ Y también Harbona es recordado para bien.
 
 El Talmud manda leer el rollo de Ester de noche y otra vez de día, y da la bendición que se dice después, donde es costumbre.[^meg][^je-purim][^kitzur] En el rito asquenazí, el Asher heni completo sigue a esa bendición solo por la noche: la glosa de Moses Isserles al Shulchan Aruch señala la costumbre, y el libro de oraciones de Singer omite el párrafo de día.[^sa][^singer] Después de la lectura de la mañana, el Kitzur Shulchan Aruch de Shlomo Ganzfried indica solo Shoshanat Yaakov.[^kitzur]
 
+![[3]]
+
 La página de Baer describe la escena: se enrolla el rollo, se canta la bendición, se dice Asher heni en voz baja (por la mañana se omite, añade su nota), y luego viene esta canción, para el cantor solo, Andantino, en Si bemol mayor.[^baer] Encima de la bendición imprime los cuatro versículos de Ester que la congregación canta en voz alta durante la lectura, cada uno marcado "Chor, dann Solo", coro y luego solo: la congregación y después el cantor.[^baer][^je-purim] Por un momento, en "lo yikalmu lanetzach, kol hachosim bach", la impresión se divide en dos voces, la segunda una tercera por encima de la melodía. La canción termina con una doble barra y un último verso suave, marcado "Leise weiter" ("sigue en voz baja"): "W'gam charwonoh sochur latow".[^baer]
+
+![[4]]
 
 Nuestro arreglo se basa en esa página, en Si bemol como está impresa, para 2 a 4 cantantes, con la letra en pronunciación israelí moderna. La soprano canta la melodía de Baer, y la contralto, el bajo y el tenor son nuestros. La canción entera se canta dos veces, y luego una vez el último verso suave.[^baer]
 

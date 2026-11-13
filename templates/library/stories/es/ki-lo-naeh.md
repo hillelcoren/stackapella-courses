@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
 original: The Union Haggadah (1923), p. 84, University of Florida scan, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/n103
-translatedFrom: 7010efbc38a7
+translatedFrom: 3f426b4d585d
 ---
 
 Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
@@ -24,11 +24,17 @@ Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en
 
 Nadie sabe quién lo escribió, ni cuándo. La Jewish Encyclopedia de 1904 lo fechaba en el siglo XV, y la Union Haggadah de 1923 dice que en ese siglo "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] Los documentos son más antiguos. La Encyclopaedia Judaica dice que aparece por primera vez en manuscritos alemanes de principios del siglo XIII, y que probablemente se escribió en Alemania por entonces.[^ej] En 1892, el erudito David Kaufmann publicó el oficio del séder a partir del manuscrito de Etz Hayyim, un libro de ley judía de Jacob ben Judah de Londres, fechado en 1287. La Encyclopaedia Judaica lo sitúa hacia 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann señala que, de los poemas libres que adornaban el séder en los hogares ingleses, como en los franceses y los italianos, el libro de Jacob conserva solo este. Zunz, añade, lo había fechado en el siglo XV; y sin embargo ahí estaba, en sus palabras, ya como "una parte firmemente establecida del rito inglés" antes de que los judíos fueran expulsados de Inglaterra en 1290.[^kaufmann][^jeengland]
 
+![[1]]
+
 Su copia tiene además unos versos de más cuyas primeras letras forman el nombre de Jacob.[^kaufmann][^ej][^davidson] Kaufmann los leyó como un añadido de Jacob a un poema que ya existía, y creyó que el texto de Jacob era la forma original, cambiada después tanto en el rito alemán como en el romano. La Encyclopaedia Judaica admite que Jacob pudo escribir el poema entero, y el rabino Jonathan Sacks lo llamó quizá la única aportación de Gran Bretaña a la Hagadá.[^kaufmann][^davidson][^ej][^sacks]
+
+![[2]]
 
 El himno iba antes emparejado con Adir Hu, que lo sigue en la Hagadá y recorre el alfabeto del mismo modo. La Jewish Encyclopedia dice que Ki Lo Na'eh estaba pensado al principio para la primera noche de Pésaj, y Adir Hu para la segunda, y que desde hacía más de dos siglos los dos se cantaban cada noche.[^je][^jeaddir][^niv]
 
 Johann Stephan Rittangel (1606 a 1652), un hebraísta cristiano de Königsberg, publicó allí en 1644 una Hagadá con traducciones al latín y al alemán, la primera Hagadá impresa con notación musical.[^brown][^idel29] Dio melodías para dos canciones, Ki Lo Na'eh y Adir Hu.[^niv][^je][^jeaddir] La Jewish Encyclopedia reimprimió en 1904 su melodía de Ki Lo Na'eh como, en sus palabras, "la más atractiva" (the most alluring) de las varias con que se había cantado el himno. Es una melodía en 3/4, muy distinta de la nuestra.[^je] La nuestra es la que imprimió la Union Haggadah, marcada "Traditional" sin indicar ninguna fuente.[^uh1923][^uh1908]
+
+![[3]]
 
 ### Cronología
 
@@ -173,6 +179,8 @@ porque a Él le corresponde, porque a Él le es debido.
 En un séder asquenazí tradicional, después del deseo final "El año que viene en Jerusalén" y de dos poemas más largos, vienen Ki Lo Na'eh, Adir Hu, la cuenta del Ómer, Echad Mi Yodea y Chad Gadya.[^sefaria][^ej] La Union Haggadah lo pone después de la cuarta copa de vino y después de Adir Hu, al revés que el orden tradicional.[^uh1923][^sefaria]
 
 Nuestro arreglo se basa en las páginas 84 y 85 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí es "Ki Lo Noeh", "Traditional", Andante con moto, en Do mayor y en 4/4, para voz y piano, con la música en la edición de la Society of American Cantors.[^uh1923][^uh1908] Empieza con el coro "Ki lo noeh, ki lo yoeh", y luego da cada estrofa como "SOLO" y la respuesta como "CHORUS" (coro). La primera edición, de 1908, lo encabezaba solo con "Chorus", con una estrofa, y lo ponía en la Miscellany, la parte reservada para el lado más ligero y alegre de la noche.[^uh1908]
+
+![[4]]
 
 Lo cantamos un tono más alto, en Re, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "noeh", "bim'lucho", "l'cho". Nosotros lo reescribimos con la pronunciación israelí moderna, sílaba por sílaba, tal como lo llevan las notas.[^uh1923] Cantamos el coro y luego las tres estrofas impresas: la soprano canta sola cada estrofa, como el solo del libro, y todos cantan la respuesta y "Ki lo nae, ki lo yae." El último "yae" se sostiene, como pide el calderón del libro. Es para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor.
 

@@ -23,11 +23,17 @@ Ki Lo Na'eh is a Hebrew hymn sung at the Passover seder, the home service and fe
 
 No one knows who wrote it, or when. The Jewish Encyclopedia of 1904 dated it to the fifteenth century, and the Union Haggadah of 1923 says that in that century "the two anonymous ditties 'Addir Hu' and 'Ki Lo Noeh' were added".[^je][^uh1923] The record is older than that. The Encyclopaedia Judaica says it is first found in German manuscripts of the early thirteenth century, and was probably written in Germany about then.[^ej] In 1892 the scholar David Kaufmann published the seder service from the manuscript of Etz Hayyim, a book of Jewish law by Jacob ben Judah of London, dated 1287. The Encyclopaedia Judaica puts it at about 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann notes that of the free poems that graced the seder in English homes, as in French and Italian ones, Jacob's book keeps only this one. Zunz, he adds, had dated it to the fifteenth century; yet here it was, in his words, already "a firmly established portion of the English Ritual" before the Jews were expelled from England in 1290.[^kaufmann][^jeengland]
 
+![[1]]
+
 His copy also has extra lines whose first letters spell the name Jacob.[^kaufmann][^ej][^davidson] Kaufmann read them as Jacob's addition to a poem that already stood, and thought Jacob's text the original form, changed since in both the German and the Roman rites. The Encyclopaedia Judaica allows that Jacob may have written the whole poem, and Rabbi Jonathan Sacks called it perhaps Britain's one contribution to the Haggadah.[^kaufmann][^davidson][^ej][^sacks]
+
+![[2]]
 
 The hymn was once paired with Adir Hu, which follows it in the Haggadah and runs through the alphabet the same way. The Jewish Encyclopedia says Ki Lo Na'eh was first meant for the first night of Passover, with Adir Hu chosen for the second, and that for more than two centuries both had been sung on each night.[^je][^jeaddir][^niv]
 
 Johann Stephan Rittangel (1606 to 1652), a Christian Hebraist at Königsberg, published a Haggadah with Latin and German translations there in 1644, the first Haggadah printed with musical notation.[^brown][^idel29] He gave tunes for two songs, Ki Lo Na'eh and Adir Hu.[^niv][^je][^jeaddir] The Jewish Encyclopedia reprinted his Ki Lo Na'eh tune in 1904 as, in its words, "the most alluring" of the several airs the hymn had been sung to. It is a tune in 3/4 time, quite unlike ours.[^je] Ours is the one the Union Haggadah printed, marked "Traditional" with no source named.[^uh1923][^uh1908]
+
+![[3]]
 
 ### Timeline
 
@@ -172,6 +178,8 @@ for to Him it is fitting, for to Him it is due.
 At a traditional Ashkenazi seder, after the closing wish "Next year in Jerusalem" and two longer poems come Ki Lo Na'eh, Adir Hu, the counting of the Omer, Echad Mi Yodea and Chad Gadya.[^sefaria][^ej] The Union Haggadah puts it after the fourth cup of wine and after Adir Hu, the reverse of the traditional order.[^uh1923][^sefaria]
 
 Our arrangement is read from pages 84 and 85 of the Union Haggadah, revised edition, published by the Central Conference of American Rabbis in 1923. There it is "Ki Lo Noeh", "Traditional", Andante con moto, in C major and 4/4, for voice and piano, in the music as edited by the Society of American Cantors.[^uh1923][^uh1908] It opens with the chorus "Ki lo noeh, ki lo yoeh", then gives each verse as a SOLO and the answer as a CHORUS. The 1908 first edition headed it only "Chorus", with one verse, and put it in the Miscellany, the part kept for the lighter, more joyous side of the evening.[^uh1908]
+
+![[4]]
 
 We sing it a tone higher, in D, with four parts of our own; the piano part was used only to check the chords. The book spells the Hebrew in the Ashkenazi way, "noeh", "bim'lucho", "l'cho". We respell it in modern Israeli pronunciation, syllable for syllable as the notes carry it.[^uh1923] We sing the chorus, then the three printed verses: the soprano sings each verse alone, as the book's solo, and everyone sings the answer and "Ki lo nae, ki lo yae." The last "yae" is held, as the book's pause sign asks. It is for 2 to 4 singers: soprano and alto, then the bass, then the tenor.
 
