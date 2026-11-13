@@ -16,7 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: white coral bells historia | white coral bells significado | quién escribió white coral bells | white coral bells letra en español | white coral bells canon
-translatedFrom: 5931788e9705
+translatedFrom: 39e392950544
+original: Hollis Dann, Fourth Year Music (American Book Company, Nueva York, 1916), Internet Archive | https://archive.org/details/hollisdannmusic01danngoog
 ---
 
 White Coral Bells, también conocida por su primer verso, "White coral bells upon a slender stalk", es un canon estadounidense corto sobre los lirios de los valles. Todos cantan la misma melodía, empezando en momentos distintos, y sus cuatro frases cortas encajan entre sí como armonía. Su primera impresión conocida es "May Bells", en Fourth Year Music, de Hollis Dann, un libro escolar de música publicado en Nueva York en 1916, como canon para dos voces [^dann1916][^ballad]. Dann no le dio autor ni compositor [^dann1916][^ballad], y nadie sabe quién la hizo [^ballad]. Otros libros la imprimieron después: un cancionero de los clubes 4-H de Alabama de 1943, de nuevo sin nombre, y un himnario para iglesias rurales en 1947 [^alabama1943][^rural1947]. The Ballad Index la clasifica como canción de campamento [^ballad].
@@ -25,7 +26,11 @@ White Coral Bells, también conocida por su primer verso, "White coral bells upo
 
 **Un libro escolar de música de 1916.** Cuando Fourth Year Music salió en 1916, su compilador, Hollis Dann, era profesor de música y jefe del departamento de música de la Universidad Cornell. El libro era un volumen del Hollis Dann Music Course, publicado por la American Book Company de Nueva York, Cincinnati y Chicago [^dann-preface]. En su prefacio, Dann lo llama, como a sus Second y Third Year Music, "un libro para niños", hecho para el cuarto año de escuela, y agradece a Laura Bryant, directora de música de las escuelas de Ithaca, su ayuda para probar su material [^dann-preface].
 
+![[1]]
+
 **"May Bells" en la página 115.** El canon está en la página 115, con el encabezado "Round", en la misma página que una canción llamada "Busy Wheels" y encima de un "Two-Part Study" [^dann1916]. Está impreso en Mi bemol para dos voces: la segunda, marcada II, entra en el quinto compás, cuando la primera ya ha cantado "White coral bells upon a slender stalk" [^dann1916]. Su letra son dos estrofas numeradas, de dos versos que riman cada una: la primera trata de cómo se ven las flores, y la segunda, de cómo podrían sonar [^dann1916].
+
+![[2]]
 
 **Sin nombre.** Muchas piezas del libro de Dann llevan un crédito: un compositor, un poeta o una procedencia como "Danish Folk Tune" u "Old French Tune". "May Bells" no lleva ninguno, y tampoco ningún otro canon del libro: "Clip-Clap", "Bedtime", "Hailstones", "March Lingers", "The Hudson", "Flowers and Songs", "Lovely Evening" y "The Ferry" se imprimen todos sin nombre [^dann1916]. The Ballad Index, un catálogo académico de canciones folclóricas, da su autor como desconocido y su fecha más antigua como 1916, por el libro de Dann [^ballad]. Una nota allí dice que el libro nombraba a los autores de la mayoría de sus otras piezas, y lee la falta de crédito como un indicio de que el canon ya era lo bastante antiguo como para estar libre de derechos de autor [^ballad]. Como los otros cánones de Dann tampoco llevan nombre, la falta de crédito quizá diga más sobre cómo imprimía él los cánones que sobre la antigüedad de este, y no se ha encontrado ninguna impresión anterior [^dann1916][^ballad]. El libro de Dann no dice dónde lo encontró [^dann1916][^dann-preface]. Así que lo que consta, sin más, es esto: en 1916 había un canon sobre los lirios de los valles en un libro escolar de música estadounidense, y no llevaba el nombre de nadie.
 
@@ -40,6 +45,8 @@ White Coral Bells, también conocida por su primer verso, "White coral bells upo
 ## Qué dice la letra
 
 **Estrofa 1.** Las "white coral bells" (campanas de coral blanco) son las flores del lirio de los valles, que nombra el segundo verso. Son pequeñas, blancas y con forma de campana, y cuelgan en fila a un lado de un tallo delgado [^ncsu-lily][^webster-lily]. El coral es el esqueleto duro, como de piedra, de unos animales marinos, y se usa en joyería [^webster-coral], así que la letra imagina las flores como diminutas campanas de coral blanco. "Deck" es adornar o engalanar [^webster-deck], y el "walk" de un jardín es un sendero trazado para pasear [^webster-walk]: los lirios bordean el sendero del jardín y lo engalanan.
+
+![[3]]
 
 **Estrofa 2.** El canon pasa de mirar a escuchar. Unas flores con forma de campana deberían sonar, así que quien canta pregunta si no nos encantaría oírlas. La respuesta es que solo suenan cuando cantan las hadas. El canon lo deja ahí, una pequeña broma sobre la forma de las flores, ya que nadie las oye.
 
@@ -64,6 +71,8 @@ Eso solo podría pasar cuando cantan las hadas.
 ## Cómo se canta
 
 **Un canon.** Todas las voces cantan la misma melodía, empezando en momentos distintos, y sus frases suenan unas contra otras como armonía. En su prefacio, Dann explica por qué imprimía cánones para niños: "Los cánones son especialmente útiles para desarrollar la capacidad de cantar 'en presencia de' otra melodía." Les dice a los maestros que un canon "debe cantarse una y otra vez como canción al unísono hasta que los niños lo conozcan a fondo; entonces puede intentarse como canon" [^dann-preface]. También les pide que usen sus canciones en las tonalidades en que están impresas [^dann-preface]. El canon no tiene una ocasión fija. Su título apunta a mayo, y sus impresiones posteriores lo sitúan en un libro escolar, un cancionero de los clubes 4-H, un himnario rural y el repertorio de campamento [^dann1916][^alabama1943][^rural1947][^ballad].
+
+![[4]]
 
 **Lo que canta nuestro arreglo.** Nuestro canon está tomado de la página de Dann, una cuarta más abajo, para voces adultas, en Si bemol en lugar de Mi bemol, en 4/4, con su letra de 1916. La soprano empieza en solitario y canta las dos estrofas dos veces. La contralto entra cuatro compases después a la misma altura, igual que la segunda voz de Dann, y el tenor y el bajo la siguen, cada uno cuatro compases después del anterior, una octava más abajo. Desde la entrada del bajo hasta que termina la soprano, las cuatro frases de la melodía suenan a la vez, una en cada voz. Cada voz se detiene cuando ha cantado las dos estrofas dos veces, así que van saliendo una a una, y el bajo canta en solitario la última frase, sosteniendo su "sing" final hasta la barra de compás. Con dos cantantes, soprano y contralto, es el canon para dos voces de Dann.
 

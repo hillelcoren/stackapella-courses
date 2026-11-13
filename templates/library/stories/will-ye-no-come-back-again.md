@@ -14,6 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: will ye no come back again meaning | will ye no come back again lyrics meaning | who wrote will ye no come back again | will ye no come back again lyrics english | will ye no come back again song | will ye no come back again bagpipes
+original: Gems of Scottish Song (Boston: Oliver Ditson & Company, catalogued 1883), Internet Archive | https://archive.org/details/gemsofscottishso0000vari
 ---
 
 Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, about Prince Charles Edward Stuart, who escaped to France in September 1746 after his army's defeat at Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. It is also known as Bonnie Charlie [^hazard][^scotlandspeople], and it opens "Bonnie Charlie's now awa" [^gems1894]. In five short verses the people who hid him ask: won't you come back? Lady Nairne was born at Gask in Perthshire twenty years later, into a family that had fought for him [^chambers][^dnb]. She published her songs anonymously and was named as their author only after she died [^rogers1869][^henderson1900][^dnb]. Around 1900 her biographer counted it among the most familiar songs in the language [^henderson1900].
@@ -22,15 +23,23 @@ Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, a
 
 **The prince and the reward.** In the summer of 1745 Charles Edward Stuart landed in the western Highlands to win the crown for his exiled father, James Stuart; in early August the government offered £30,000 to whoever seized him [^blaikie][^chambers]. On 11 September he breakfasted at Gask, the Oliphants' house [^blaikie][^kington]. His army went as far as Derby and turned back [^blaikie][^kington], and on 16 April 1746 it was beaten at Culloden [^blaikie][^chambers]. He hid for five months in the Highlands and islands, the reward still offered, until a French ship took him off at Loch nan Uamh in September [^blaikie][^chambers].
 
+![[1]]
+
 **The Oliphants of Gask.** Carolina's grandfather and father, both Laurence Oliphant, were out in the rising, and both were attainted for it [^chambers][^kington]. Most of what else we know of them comes from the family's own papers at Gask, printed by Kington Oliphant, who also gave Rogers the early part of his memoir [^kington][^rogers1869]. By those papers her father rode as one of the prince's aides-de-camp on the march to Derby, and after Culloden father and son sailed for Sweden in November 1746, went on to France, and lived in exile for seventeen years, coming home in 1763 [^kington][^rogers1869]. Carolina was born at Gask on 16 August 1766, by her father's list of births; a National Records of Scotland article gives 16 July [^kington][^henderson1900][^dnb][^scotlandspeople].
 
+![[2]]
+
 **The secret songwriter.** In June 1806 she married her cousin, Major William Murray Nairne, and they made their home in Edinburgh [^rogers1869][^kington][^dnb][^scotlandspeople]. Rogers and the Dictionary of National Biography both say she wrote Jacobite songs for an old kinsman, Robertson of Strowan [^rogers1869][^henderson1900][^dnb]. In 1821 the Edinburgh publisher Robert Purdie began The Scotish Minstrel, arranged by R. A. Smith, and she sent him songs as "Mrs. Bogan of Bogan", signed "B. B.", in a disguised hand [^minstrel][^rogers1869][^henderson1900][^dnb]. Rogers tells how she called on Purdie dressed as a gentlewoman of an older day, and he never guessed his contributor lived in Edinburgh [^rogers1869][^henderson1900]. The sixth and last volume came out in 1824, its editors thanking the author of "The Land of the Leal" without naming her, for fear of wounding "a delicacy which shrinks from all observation" [^minstrel6][^rogers1869]. That year her husband's forfeited peerage was restored, and she became Lady Nairne [^rogers1869][^kington][^dnb].
+
+![[3]]
 
 **After her death.** She died at Gask in October 1845, aged seventy-nine, on the 26th by Henderson, the Dictionary of National Biography and the National Records of Scotland, on Monday the 27th by both of Rogers's books [^henderson1900][^dnb][^scotlandspeople][^rogers1869][^rogers1855]. In January 1846 her sister let her name be given, and a folio of her songs appeared, Lays from Strathearn, "arranged with symphonies and accompaniments for the pianoforte, by Finlay Dun" [^rogers1869][^henderson1900][^dnb]. The Dictionary of National Biography dates it 1846; in 1855 Rogers wrote that it bore no date and appeared some years after her death [^dnb][^rogers1855].
 
 **The song in print.** We have not been able to read Lays from Strathearn, so this song's earliest printing is not settled here; the earliest we have read is Rogers's The Modern Scottish Minstrel of 1855, five verses under her name [^rogers1855].
 
 **Two pages from Boston.** Our arrangement is read from Oliver Ditson's Gems of Scottish Song. In the printing catalogued as 1883 it is on page 107, headed only "Finlay Dun.", marked "In moderate time.", in F and 4/4. The next page is another of her songs, "I Am Wearing Awa' to the Land o' the Leal" [^gems1883][^rogers1869][^dnb]. The 1894 printing re-engraves it on page 119, adding "Lady Nairne. (1766-1845)"; its "kent your", where 1883 has "kept your", is in smaller type, as if the plate had been corrected [^gems1894][^gems1883].
+
+![[4]]
 
 **The tune.** No one knows who made the air. Both Ditson pages credit only Finlay Dun (1795 to 1853), a viola player, singing teacher and music editor in Edinburgh, without saying whether he wrote it or arranged it [^gems1883][^gems1894][^grove][^moffat]. He had worked on her songs in her lifetime: in a letter Henderson prints, Purdie told "Mrs. Bogan" that the accompaniment of her "The Lammie" had been "so much altered by Mr. Dun, or indeed totally altered" [^henderson1900]. In 1898 S. J. Adair Fitz-Gerald wrote that the composer was not known and that her words had kept the air alive [^fitzgerald].
 

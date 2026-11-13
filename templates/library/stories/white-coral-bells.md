@@ -16,6 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: white coral bells | white coral bells lyrics | white coral bells song | white coral bells upon a slender stalk | white coral bells round | white coral bells sheet music | white coral bells lyrics english | white coral bells song history | white coral bells meaning | white coral bells lyrics meaning | who wrote white coral bells
+original: Hollis Dann, Fourth Year Music (American Book Company, New York, 1916), Internet Archive | https://archive.org/details/hollisdannmusic01danngoog
 ---
 
 White Coral Bells, also known by its first line, "White coral bells upon a slender stalk", is a short American round about lilies of the valley. Everyone sings the same tune, starting at different times, and its four short lines fit together as harmony. Its earliest known printing is "May Bells", in Hollis Dann's Fourth Year Music, a school music book published in New York in 1916, as a round for two voices [^dann1916][^ballad]. Dann named no author or composer for it [^dann1916][^ballad], and no one knows who made it [^ballad]. Later books printed it too: an Alabama 4-H club songbook of 1943, again without a name, and a hymnal for country churches in 1947 [^alabama1943][^rural1947]. The Ballad Index files it as a camp song [^ballad].
@@ -24,7 +25,11 @@ White Coral Bells, also known by its first line, "White coral bells upon a slend
 
 **A school music book of 1916.** When Fourth Year Music came out in 1916, its compiler, Hollis Dann, was professor of music and head of the department of music at Cornell University. The book was one volume of the Hollis Dann Music Course, published by the American Book Company of New York, Cincinnati and Chicago [^dann-preface]. In his preface Dann calls it, like his Second and Third Year Music, "a child's book", made for the fourth year of school, and he thanks Laura Bryant, director of music in the Ithaca schools, for her help in trying out its material [^dann-preface].
 
+![[1]]
+
 **"May Bells" on page 115.** The round is on page 115, headed "Round", on the same page as a song called "Busy Wheels" and above a "Two-Part Study" [^dann1916]. It is printed in E-flat for two voices: the second, marked II, comes in at the fifth bar, once the first has sung "White coral bells upon a slender stalk" [^dann1916]. Its words are two numbered verses of two rhyming lines each, the first about how the flowers look, the second about how they might sound [^dann1916].
+
+![[2]]
 
 **No name on it.** Many pieces in Dann's book carry a credit: a composer, a poet, or a source such as "Danish Folk Tune" or "Old French Tune". "May Bells" has none, and neither does any other round in the book: "Clip-Clap", "Bedtime", "Hailstones", "March Lingers", "The Hudson", "Flowers and Songs", "Lovely Evening" and "The Ferry" are all printed without a name [^dann1916]. The Ballad Index, a scholarly catalogue of folk songs, gives its author as unknown and its earliest date as 1916, from Dann's book [^ballad]. A note there says the book named authors for most of its other pieces, and reads the missing credit as a hint that the round was already old enough to be out of copyright [^ballad]. Since Dann's other rounds carry no names either, the missing credit may say more about how he printed rounds than about this one's age, and no earlier printing has been found [^dann1916][^ballad]. Dann's book does not say where he found it [^dann1916][^dann-preface]. So the plain record is this: in 1916 a round about lilies of the valley was in an American school music book, and nobody's name was on it.
 
@@ -39,6 +44,8 @@ White Coral Bells, also known by its first line, "White coral bells upon a slend
 ## What the words mean
 
 **Verse 1.** The "white coral bells" are the flowers of the lily of the valley, which the second line names. They are small, white and bell-shaped, and they hang in a row along one side of a slender stem [^ncsu-lily][^webster-lily]. Coral is the hard, stony skeleton of sea creatures, used in jewellery [^webster-coral], so the words picture the flowers as tiny bells of white coral. To "deck" is to adorn or dress [^webster-deck], and a garden "walk" is a path laid out for walking [^webster-walk]: the lilies line the garden path and dress it up.
+
+![[3]]
 
 **Verse 2.** The round turns from looking to listening. Flowers shaped like bells ought to ring, so the singer asks whether we wouldn't love to hear them. The answer is that they ring only when the fairies sing. The round leaves it there, a small joke on the flowers' shape, since nobody hears them.
 
@@ -59,6 +66,8 @@ That could happen only when the fairies sing.
 ## How it is sung
 
 **A round.** Every voice sings the same tune, starting at different times, and its lines sound against each other as harmony. In his preface Dann explains why he printed rounds for children: "Rounds are especially useful in developing the power to sing 'in the presence of' another melody." He tells teachers that a round "should be sung again and again as a unison song until the children are thoroughly familiar with it; then it may be attempted as a Round" [^dann-preface]. He also asks them to use his songs in the keys in which they are printed [^dann-preface]. The round has no fixed occasion. Its title points to May, and its later printings put it in a school book, a 4-H club songbook, a rural hymnal and the camp repertoire [^dann1916][^alabama1943][^rural1947][^ballad].
+
+![[4]]
 
 **What our arrangement sings.** Our round is read from Dann's page, a fourth lower, for adult voices, in B-flat instead of E-flat, in 4/4, with his 1916 words. The soprano starts alone and sings both verses twice through. The alto comes in four bars later at the same pitch, just as Dann's second voice does, and the tenor and the bass follow, each four bars after the last, an octave lower. From the bass's entry until the soprano finishes, all four lines of the tune sound at once, one in each voice. Each voice stops when it has sung both verses twice, so they drop out one by one, and the bass sings the last line alone, holding its final "sing" to the bar line. With two singers, soprano and alto, it is Dann's round for two voices.
 
