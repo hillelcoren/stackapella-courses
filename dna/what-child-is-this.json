@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "what-child-is-this",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 61,
+    "high": 76,
+    "semitones": 15
+  },
+  "scale": {
+    "notes": 8,
+    "kind": "chromatic",
+    "solfa": [
+      "la",
+      "ti",
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "si"
+    ],
+    "missing": []
+  },
+  "mode": "minor",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0.333333
+  },
+  "rhythm": {
+    "notes": 142,
+    "scotchSnaps": 0,
+    "dottedPairs": 31,
+    "syncopations": 10
+  },
+  "phraseEndHold": 2.35,
+  "climaxAt": 0.26,
+  "opening": [
+    "la",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "fi",
+    "si",
+    "la"
+  ],
+  "difficulty": {
+    "melody": 49,
+    "parts": {
+      "soprano": 49,
+      "alto": 26,
+      "tenor": 24,
+      "bass": 38
+    }
+  },
+  "kin": [
+    {
+      "id": "greensleeves",
+      "kind": "sharedRun",
+      "notes": 20,
+      "solfa": [
+        "mi",
+        "la",
+        "do",
+        "re",
+        "mi",
+        "fa",
+        "mi",
+        "re",
+        "ti",
+        "sol",
+        "la",
+        "ti",
+        "do",
+        "ti",
+        "la",
+        "si",
+        "fi",
+        "si",
+        "la",
+        "sol"
+      ],
+      "beat": 7.333,
+      "theirBeat": 7.333
+    }
+  ]
+}

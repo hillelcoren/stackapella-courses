@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "coventry-carol",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 65,
+    "high": 74,
+    "semitones": 9
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "la",
+      "ti",
+      "do",
+      "di",
+      "re",
+      "si"
+    ],
+    "missing": [
+      "mi",
+      "fa"
+    ]
+  },
+  "mode": "minor",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 116,
+    "scotchSnaps": 0,
+    "dottedPairs": 3,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.26,
+  "climaxAt": 0.25,
+  "opening": [
+    "la",
+    "si",
+    "la",
+    "do"
+  ],
+  "ending": [
+    "re",
+    "ti",
+    "di"
+  ],
+  "difficulty": {
+    "melody": 26,
+    "parts": {
+      "soprano": 26,
+      "alto": 22,
+      "tenor": 37,
+      "bass": 49
+    }
+  },
+  "kin": [
+    {
+      "id": "leave-her-johnny",
+      "kind": "sharedRun",
+      "notes": 9,
+      "solfa": [
+        "la",
+        "ti",
+        "do",
+        "re",
+        "ti",
+        "la",
+        "mi",
+        "re",
+        "do"
+      ],
+      "beat": 34.0,
+      "theirBeat": 25.0
+    }
+  ]
+}

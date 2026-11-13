@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "i-saw-three-ships",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 6,
+    "kind": "hexatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "ti"
+    ],
+    "missing": [
+      "la"
+    ]
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "6/8",
+    "pickupBeats": 0.333333
+  },
+  "rhythm": {
+    "notes": 130,
+    "scotchSnaps": 0,
+    "dottedPairs": 3,
+    "syncopations": 4
+  },
+  "phraseEndHold": 1.79,
+  "climaxAt": 0.04,
+  "opening": [
+    "sol",
+    "do",
+    "re",
+    "mi"
+  ],
+  "ending": [
+    "mi",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 29,
+    "parts": {
+      "soprano": 29,
+      "alto": 19,
+      "tenor": 23,
+      "bass": 40
+    }
+  },
+  "kin": [
+    {
+      "id": "simple-gifts",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "away-in-a-manger",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "keep-on-the-sunny-side",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "sol",
+        "do",
+        "re",
+        "mi"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
