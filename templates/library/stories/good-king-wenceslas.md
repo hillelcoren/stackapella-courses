@@ -54,7 +54,7 @@ Good King Wenceslas, also printed as Good King Wenceslas Looked Out, is an Engli
 
 ## What the words mean
 
-These are Neale's own English words; he wrote all five verses, and none comes from the Latin [^hymnarchive][^obc].
+All five verses are Neale's own; none comes from the Latin [^hymnarchive][^obc].
 
 **Verse 1.** The Feast of Stephen is 26 December, the day of St Stephen, the first Christian martyr [^ce-stephen][^obc]. In the Acts of the Apostles he is one of seven men chosen to care for the church's poorer members, and is stoned to death [^kjv][^ce-stephen]. The snow lies "deep, and crisp, and even", and by moonlight the king sees a poor man "gath'ring winter fuel", firewood [^neale1853].
 

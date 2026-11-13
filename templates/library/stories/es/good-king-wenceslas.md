@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: good king wenceslas historia | good king wenceslas significado | good king wenceslas letra significado | quién escribió good king wenceslas | villancico del rey wenceslao | san wenceslao villancico
-translatedFrom: ab4797ef25d7
+translatedFrom: ef0781560e50
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), HathiTrust | https://catalog.hathitrust.org/Record/011630024
 listen: UCSB Cylinder Audio Archive, grabación de 1921, instrumental, con campanas de iglesia, un popurrí que incluye Good King Wenceslas | https://www.library.ucsb.edu/OBJID/Cylinder12124
 ---
@@ -55,7 +55,7 @@ Good King Wenceslas, que también se imprime como Good King Wenceslas Looked Out
 
 ## Qué dice la letra
 
-Es la propia letra inglesa de Neale; él escribió las cinco estrofas, y ninguna viene del latín [^hymnarchive][^obc].
+Las cinco estrofas son de Neale; ninguna viene del latín [^hymnarchive][^obc].
 
 **Estrofa 1.** The Feast of Stephen, la fiesta de San Esteban, es el 26 de diciembre, el día de San Esteban, el primer mártir cristiano [^ce-stephen][^obc]. En los Hechos de los Apóstoles es uno de los siete hombres elegidos para atender a los miembros más pobres de la Iglesia, y muere apedreado [^kjv][^ce-stephen]. La nieve está "deep, and crisp, and even", honda, crujiente y lisa, y a la luz de la luna el rey ve a un pobre "gath'ring winter fuel", recogiendo leña para el invierno [^neale1853].
 

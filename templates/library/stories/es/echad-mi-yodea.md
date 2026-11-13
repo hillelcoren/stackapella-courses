@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: 2adbd257d5ac
+translatedFrom: f4374bd4ca26
 original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
@@ -33,9 +33,9 @@ La copia asquenazí más antigua que se conoce está escrita a mano: un texto he
 
 La canción tiene una gemela alemana. La colección de canciones populares alemanas de Karl Simrock, impresa en 1851, trae "Guter Freund, ich frage dich", "Buen amigo, te pregunto". Cuenta del mismo modo, y su primera respuesta termina como la hebrea, con el Uno del cielo, "der da lebt und der da schwebt im Himmel und auf Erden", que vive y flota en el cielo y en la tierra.[^simrock][^ej] Su dos son las tablas de Moisés y su tres, los patriarcas, pero del cuatro en adelante sus respuestas son casi todas cristianas: los evangelistas, las llagas de Cristo, los sacramentos, los apóstoles. Se detiene en el doce.[^simrock][^je] Simrock la imprimió entre sus canciones de beber, y la Jewish Encyclopedia la tomó por una canción de beber de campesinos que habían rehecho unos monjes.[^simrock][^je]
 
-No está resuelto cuál fue primero. Zunz pensaba que la hebrea se tomó de una canción popular alemana, y el estudioso Perles desarrolló la idea en detalle.[^je][^ej][^jrb] La Encyclopaedia Judaica todavía dice que a un original cristiano se le dio un contenido judío.[^ej] La Jewish Encyclopedia no estaba de acuerdo: una vez que Zunz encontró la canción en Aviñón, argumentaba, había que revisar la teoría de un original alemán.[^je] El Jewish Music Research Centre de la Universidad Hebrea señala que las canciones alemanas se publicaron por primera vez después de 1590, y que los investigadores se han preguntado si son versiones de la hebrea; un ensayo de 2025 no encuentra ninguna versión escrita no judía claramente más antigua que una judía, aunque admite que eso no resuelve la cuestión.[^jmrc][^jrb] También se la ha comparado con cantos de iglesia griegos e ingleses y con una canción infantil escocesa.[^je][^ej]
+No está resuelto cuál fue primero. Zunz pensaba que la hebrea se tomó de una canción popular alemana, y el estudioso Perles desarrolló la idea en detalle.[^je][^ej][^jrb] La Encyclopaedia Judaica todavía dice que a un original cristiano se le dio un contenido judío.[^ej] La Jewish Encyclopedia no estaba de acuerdo: una vez que Zunz encontró la canción en Aviñón, argumentaba, había que revisar la teoría de un original alemán.[^je] El Jewish Music Research Centre de la Universidad Hebrea señala que las primeras impresiones conocidas de las canciones alemanas son posteriores a 1590, y que los investigadores se han preguntado si son versiones de la hebrea; un ensayo de 2025 no encuentra ninguna versión escrita no judía claramente más antigua que una judía, aunque admite que eso no resuelve la cuestión.[^jmrc][^jrb] También se la ha comparado con cantos de iglesia griegos e ingleses y con una canción infantil escocesa.[^je][^ej]
 
-**Mito y documentos.** Se suele contar que la canción es mucho más antigua, porque un libro de oraciones de 1406 recogería que se encontró escrita en un pergamino en Worms, en Renania, en la casa de estudio del rabino Eleazar de Worms, que murió en 1238.[^chabad][^iemj] Lo que muestran los documentos: ese documento ya no existe, y ni siquiera los relatos sobre él coinciden; el Jewish Music Research Centre de la Universidad Hebrea habla de un pergamino perdido de 1406 de la guenizá de Worms.[^jmrc] Un rabino de Praga escribió a finales del siglo XVIII sobre una copia del siglo XIV, pero solo de oídas.[^jrb] Las copias asquenazíes más antiguas que se conservan son la manuscrita sin fecha y la impresión de 1590.[^jmrc][^jrb]
+**Mito y documentos.** Se suele contar que la canción es mucho más antigua, porque un libro de oraciones de 1406 recogería que se encontró escrita en un pergamino en Worms, en Renania, en la casa de estudio del rabino Eleazar de Worms, que murió en 1238.[^chabad][^iemj] Lo que muestran los documentos: ese documento ya no existe, y ni siquiera los relatos sobre él coinciden; el Jewish Music Research Centre habla de un pergamino perdido de 1406 de la guenizá de Worms.[^jmrc] Un rabino de Praga escribió a finales del siglo XVIII sobre una copia del siglo XIV, pero solo de oídas.[^jrb]
 
 La melodía que cantamos no tiene compositor conocido. La Union Haggadah de la Central Conference of American Rabbis, los rabinos reformistas de Estados Unidos, la imprimió en su primera edición de 1908, en Re menor para voz y piano, entre la "música conocida de Pésaj, en la edición de la Society of American Cantors".[^uh1908][^uh1923] La edición revisada de 1923 conservó la misma melodía en la misma tonalidad.[^uh1908][^uh1923]
 
@@ -409,11 +409,11 @@ Sí. A menudo se canta o se lee en inglés como "Who Knows One?". La Union Hagga
 
 ### ¿Hay un Echad Mi Yodea en yidis?
 
-Sí, desde sus primeros testimonios asquenazíes. La copia asquenazí más antigua que se conoce, añadida a mano a un ejemplar de una Hagadá de Praga impresa en 1526/27, tiene un texto en yidis junto al hebreo, y la Hagadá de Praga de 1590, su impresión más antigua conocida, puso a su lado una traducción al yidis. Los judíos sefardíes de habla ladina de Salónica, Rodas y Turquía cantan su propia versión, "Ken supiense", en la que casi siempre el dos son Moisés y Aarón, no las tablas.[^jmrc][^jl][^jrb][^uw]
+Sí, desde sus primeros testimonios asquenazíes. La copia asquenazí más antigua que se conoce, añadida a mano a un ejemplar de una Hagadá de Praga impresa en 1526/27, tiene un texto en yidis junto al hebreo, y la Hagadá de Praga de 1590, su impresión más antigua conocida, puso a su lado una traducción al yidis.[^jmrc][^jl][^jrb]
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin, tal como la imprime la Union Haggadah en su página 93, aquí una tercera menor más alta, en Fa menor.[^uh1923] La contralto canta bajo ella, casi siempre una sexta por debajo, y el tenor y el bajo completan el acorde; el bajo se mueve casi en cada corchea en "echad elokeinu shebashamayim". Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro, el tenor.
+La soprano canta la melodía de principio a fin, tal como la imprime la Union Haggadah en su página 93, aquí una tercera menor más alta, en Fa menor.[^uh1923] La contralto canta bajo ella, casi siempre una sexta por debajo, y el tenor y el bajo completan el acorde. Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro, el tenor.
 
 ## Canta después
 

@@ -19,12 +19,12 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia | venid fieles todos letra | adeste fideles en español
-translatedFrom: 056eb365dd33
+translatedFrom: 108bda6d40be
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, grabación de 1915 | https://www.loc.gov/item/jukebox-12842/
 original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
 
-O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII que en español se canta como Venid, fieles todos [^elhimnario]. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba esa forma de 1852 de la versión inglesa de Oakeley en "un gran número de colecciones" [^julian].
+O Come, All Ye Faithful es la forma inglesa de Adeste Fideles, un himno latino de Navidad del siglo XVIII que en español se canta como Venid, fieles todos [^elhimnario]. Sus primeras copias conocidas, letra y melodía juntas, son de la mano de John Francis Wade, un católico inglés que se ganaba la vida copiando música religiosa [^hymnarchive][^zon]. No se sabe si lo escribió él o solo lo copió [^hymnarchive][^zon][^america]. En la década de 1790 se cantaba en la capilla de la embajada de Portugal en Londres, y en 1841 un sacerdote anglicano, Frederick Oakeley, lo pasó al inglés para su congregación de Londres [^julian][^hymnarchive]. En 1907, el Dictionary of Hymnology de Julian encontraba la versión inglesa de Oakeley, revisada en 1852, en "un gran número de colecciones" [^julian].
 
 ## De dónde viene
 
@@ -187,7 +187,7 @@ que ahora aparece en carne.
 
 Adeste Fideles nació en el culto católico en latín. El Evening Office de 1760 lo pone para la bendición con el Santísimo en Navidad, y Julian dice que así se cantaba en Inglaterra y en Francia a finales del siglo XVIII [^hymnarchive][^julian]. La versión inglesa de Oakeley lo llevó a las iglesias anglicanas, y las colecciones católicas también adoptaron el inglés [^julian]. Su melodía se llama ADESTE FIDELES, su métrica es irregular, con estribillo, y el inglés no rima [^hymnary-text][^phh][^eh1906][^hws1909]. Un manual de himnario sugiere cantar las estrofas al unísono y el estribillo a voces [^phh].
 
-Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 2 a 4 cantantes, y todos cantan la letra. Dos cantantes hacen soprano y contralto; un tercero añade el bajo. El estribillo dice tres veces "O come, let us adore him", y cada "come" está más alto que el anterior, en Sol, luego en Si y luego en Do, antes de que "Christ the Lord" lo devuelva a casa, a Sol.
+Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 2 a 4 cantantes, y todos cantan la letra. Dos cantantes hacen soprano y contralto; un tercero añade el bajo. El estribillo dice tres veces "O come, let us adore him", y cada "come" está más alto que el anterior, antes de que "Christ the Lord" lo devuelva a casa, a Sol.
 
 ## Versiones y otras letras
 

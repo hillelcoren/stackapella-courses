@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: angels we have heard on high historia | angels we have heard on high significado | quién escribió angels we have heard on high | angels we have heard on high letra traducida | gloria in excelsis deo significado | les anges dans nos campagnes historia
-translatedFrom: 6762bdc59cff
+translatedFrom: 6127d18a2147
 original: The Holy Family Hymns (Londres, 1860), página 12, la versión inglesa de Chadwick | https://archive.org/details/TheHolyFamilyHymns1860/page/n31/mode/1up
 listen: Internet Archive, grabación de 1906, en francés (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-124033-les-anges-dans-nos-campagnes
 ---
@@ -246,7 +246,7 @@ Se canta en Navidad, y sus primeras impresiones separan el Gloria de la estrofa.
 
 La carrera es la misma en las impresiones de 1842, 1860 y 1916: "Glo" empieza en una nota larga y cae en notas rápidas, cinco por compás, y cada compás empieza un grado más abajo [^lamb1842][^hfh1860][^hutchins]. La melodía francesa termina su segundo y su cuarto verso en La, una tercera por encima de la nota base, Fa; el libro de Boston de 1916, como el de Chope de 1875, baja esos versos al Fa, la forma que imprimen hoy muchos himnarios [^lamb1842][^hutchins][^chope][^ha]. Su Gloria, que se canta una vez, lleva la indicación "Unison. ad lib." [^hutchins].
 
-En los himnarios, la melodía se llama GLORIA, y su métrica es 7.7.7.7 con el estribillo [^psh][^hymnary]. Muchos himnarios imprimen la armonía que Edward Shippen Barnes (1887 a 1958), un organista estadounidense, hizo para The New Church Hymnal de 1937, con el Gloria cantado dos veces [^ha][^psh][^canterbury-barnes]. Esa armonía retoma, nota por nota, una armonía a cuatro voces más antigua que Charles L. Hutchins (1838 a 1920) imprimió en Boston en 1891, en The Parish Choir, el semanario que dirigía, y repitió en Carols Old and Carols New en 1916; Hutchins tiene un solo Gloria, y Barnes añadió el segundo [^ha][^parishchoir1891][^hutchins].
+En los himnarios, la melodía se llama GLORIA, y su métrica es 7.7.7.7 con el estribillo [^psh][^hymnary]. Muchos himnarios imprimen la armonía que Edward Shippen Barnes (1887 a 1958), un organista estadounidense, hizo para The New Church Hymnal de 1937, con el Gloria cantado dos veces [^ha][^psh][^canterbury-barnes]. Esa armonía retoma, nota por nota, la armonía a cuatro voces que Charles L. Hutchins (1838 a 1920) imprimió en Boston en 1891, en The Parish Choir, el semanario que dirigía, y en Carols Old and Carols New en 1916; Barnes añadió el segundo Gloria [^ha][^parishchoir1891][^hutchins].
 
 Nuestro arreglo toma la melodía y la letra del villancico 181 de Carols Old and Carols New, que lo imprime a cuatro voces en Fa, y lo canta un tono más arriba, en Sol: las estrofas 1 a 3, cada una seguida del estribillo una vez, como lo imprime el libro [^hutchins]. La soprano canta esa melodía, y la contralto, el tenor y el bajo son nuestros, comprobados con los acordes del arreglo a cuatro voces sin firma del libro, para 2 a 4 cantantes (soprano y contralto, luego el bajo, luego el tenor).
 

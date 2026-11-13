@@ -23,7 +23,7 @@ listen: National Jukebox, 1919 recording | https://www.loc.gov/item/jukebox-6613
 original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
 
-O Come, All Ye Faithful is the English form of Adeste Fideles, a Latin Christmas hymn of the eighteenth century. Its earliest known copies, words and tune together, are in the hand of John Francis Wade, an English Catholic who earned his living copying church music [^hymnarchive][^zon]. Whether he wrote it or only copied it is not known [^hymnarchive][^zon][^america]. By the 1790s it was sung at the Portuguese embassy chapel in London, and in 1841 an Anglican priest, Frederick Oakeley, put it into English for his London congregation [^julian][^hymnarchive]. By 1907 Julian's Dictionary of Hymnology found that 1852 form of Oakeley's English in "a great number of collections" [^julian].
+O Come, All Ye Faithful is the English form of Adeste Fideles, a Latin Christmas hymn of the eighteenth century. Its earliest known copies, words and tune together, are in the hand of John Francis Wade, an English Catholic who earned his living copying church music [^hymnarchive][^zon]. Whether he wrote it or only copied it is not known [^hymnarchive][^zon][^america]. By the 1790s it was sung at the Portuguese embassy chapel in London, and in 1841 an Anglican priest, Frederick Oakeley, put it into English for his London congregation [^julian][^hymnarchive]. By 1907 Julian's Dictionary of Hymnology found Oakeley's English, as revised in 1852, in "a great number of collections" [^julian].
 
 ## Where it comes from
 
@@ -161,9 +161,9 @@ Now in flesh appearing;
 
 ## How it is sung
 
-Adeste Fideles began in Catholic Latin worship. The 1760 Evening Office sets it for Benediction at Christmas, and Julian says it was sung so in England and France by the late eighteenth century [^hymnarchive][^julian]. Oakeley's English brought it into Anglican churches, and Catholic collections took up the English too [^julian]. Its tune is called ADESTE FIDELES, and its meter is irregular, with a refrain, and the English does not rhyme [^hymnary-text][^phh][^eh1906][^hws1909]. One hymnal handbook suggests the verses in unison and the refrain in parts [^phh].
+Adeste Fideles began in Catholic Latin worship. The 1760 Evening Office sets it for Benediction at Christmas, and Julian says it was sung so in England and France by the late eighteenth century [^hymnarchive][^julian]. Oakeley's English brought it into Anglican churches, and Catholic collections took up the English too [^julian]. Its tune is ADESTE FIDELES; its meter is irregular, with a refrain, and the English does not rhyme [^hymnary-text][^phh][^eh1906][^hws1909]. One hymnal handbook suggests the verses in unison and the refrain in parts [^phh].
 
-Our arrangement sings the first verse and the refrain, in G and in 4/4, for 2 to 4 singers, with everyone singing the words. Two singers take soprano and alto; a third adds bass. The refrain says "O come, let us adore him" three times, each "come" higher than the last, on G, then B, then C, before "Christ the Lord" brings it home to G.
+Our arrangement sings the first verse and the refrain, in G and in 4/4, for 2 to 4 singers, with everyone singing the words. Two singers take soprano and alto; a third adds bass. The refrain says "O come, let us adore him" three times, each "come" higher than the last, before "Christ the Lord" brings it home to G.
 
 ## Versions and other words
 
