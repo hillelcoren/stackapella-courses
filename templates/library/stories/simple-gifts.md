@@ -1,11 +1,13 @@
 ---
 title: Simple Gifts: history, meaning and the words explained
 description: A Shaker dance song, usually credited to Joseph Brackett and dated 1848. We sing it from Mary Hazzard's handwritten songbook, where it is unsigned and undated.
-lead: Simple Gifts is a Shaker song for dancing in worship, about simplicity, bowing and turning. It is usually credited to Elder Joseph Brackett and dated 1848, though the copy we sing from, in Mary Hazzard's songbook, is unsigned and undated.
+lead: Simple Gifts is a Shaker song for dancing in worship, about simplicity, bowing and turning. It is usually credited to Joseph Brackett and dated 1848, though the copy we sing from, in Mary Hazzard's songbook, is unsigned and undated.
 words: Usually credited to Elder Joseph Brackett (1797 to 1882)
 tune: Usually credited to Elder Joseph Brackett (1797 to 1882)
 tuneName: SIMPLE GIFTS
 meter: irregular
+earliestPrinting: 1937
+earliestPrintingSource: andrews1937
 language: English
 origin: The Shakers; usually placed at Alfred, Maine
 occasion: Shaker worship, as a song for dancing
@@ -14,31 +16,31 @@ wikidata: Q7520673
 quote: 'Tis the gift to be simple 'tis the gift to be free
 quoteSource: hazzard
 updated: 2026-11-13
-checked: 2026-11-12
+checked: 2026-11-13
 reviewed: true
 searches: simple gifts aaron copland | simple gifts shaker song | simple gifts lyrics meaning | simple gifts hymn meaning | simple gifts lyrics all verses | who originally wrote simple gifts | who wrote the melody to the song simple gifts | was simple gifts originally a spiritual | what key is simple gifts in
-original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95 || Edward D. Andrews, "Shaker Songs", The Musical Quarterly (October 1937), Internet Archive | https://archive.org/details/sim_musical-quarterly_1937-10_23_4 || Edward D. Andrews, The Gift to Be Simple (1940), Internet Archive | https://archive.org/details/gifttobesimpleso027839mbp
 ---
 
-Simple Gifts is a song of the Shakers, a religious community that worshipped by singing and dancing [^shakermuseum][^andrews]. It is one short verse in two halves: the first praises the gift of being simple and free, and the second describes bowing, bending and turning, the movements of the dance [^hazzard][^hall]. It is usually credited to Elder Joseph Brackett, a Maine Shaker, and dated 1848 [^hall][^smblog][^lcname][^songofamerica]. The copy we sing from, in Mary Hazzard's handwritten songbook, carries no name and no date [^hazzard]. Shakers copied it into many of their songbooks [^andrews][^smblog]. Nearly a century later Aaron Copland built the climax of his ballet Appalachian Spring on it, and that score won the Pulitzer Prize for Music in 1945 [^locblog][^boriskin].
+Simple Gifts is a song of the Shakers, a religious community that worshipped by singing and dancing [^shakermuseum][^andrews]. It is one short verse in two halves: the first praises the gift of being simple and free, and the second describes bowing, bending and turning, the movements of the dance [^hazzard][^hall]. It is usually credited to Elder Joseph Brackett, a Maine Shaker, and dated 1848 [^hall][^smblog][^lcsubject][^songofamerica]. The copy we sing from, in Mary Hazzard's handwritten songbook, carries no name and no date [^hazzard]. Shakers copied it into many of their songbooks [^andrews][^smblog]. Nearly a century later Aaron Copland built the climax of his ballet Appalachian Spring on it, and that score won the Pulitzer Prize for Music in 1945 [^locblog][^boriskin].
 
 ## Where it comes from
 
-**The Shakers.** The United Society of Believers, called the Shakers, grew around Ann Lee, a blacksmith's daughter from Manchester, England, whose followers named her Mother Ann [^andrews][^shakerheritage]. In 1774 Mother Ann and a small band of followers sailed to America and settled at Niskayuna, later called Watervliet, near Albany, New York [^andrews][^shakerheritage][^shakermuseum]. They lived apart from the world, celibate, sharing work and property, and worshipped with their own songs and dances [^shakermuseum][^andrews]. From 1837 a long revival, which they called Mother Ann's Work and historians the Era of Manifestations, filled their meetings with visions and with "gift songs": songs a worshipper believed had been given by a spirit, often from Mother Ann [^andrews][^wintcoll].
+**The Shakers.** The United Society of Believers, called the Shakers, grew around Ann Lee, a blacksmith's daughter from Manchester, England, whose followers named her Mother Ann [^andrews][^shakerheritage]. In 1774 Mother Ann and a small band of followers sailed to America, and by 1776 they had settled at Niskayuna, later called Watervliet, near Albany, New York [^andrews][^shakerheritage][^shakermuseum]. They lived apart from the world, celibate, sharing work and property, and worshipped with their own songs and dances [^shakermuseum][^andrews]. From 1837 a long revival, which they called Mother Ann's Work and historians the Era of Manifestations, filled their meetings with visions and with "gift songs": songs a worshipper believed had been given by a spirit, often from Mother Ann [^andrews][^wintcoll].
 
-**The songbook.** Mary Hazzard was a sister of the Church Family at New Lebanon, New York, the Shakers' leading community [^andrews][^smportrait][^shakermuseum]. Her hand was so fine that she became one of the busiest copyists among the Shakers, Edward Deming Andrews wrote [^andrews]. She spelled her name "Hazzard" on this title page, and the library catalogues it under "Hazard" [^hazzardbook][^hazzard]. Her title page reads: "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them by Mary Hazzard. Begining February 7th 1847" [^hazzardbook]. "Pricked" means the tunes are written down as well as the words [^webster1828], and "extra songs" were short songs sung in worship in addition to the appointed ones [^andrews]. The book gathers songs from many Shaker villages, most marked with the community they came from, and its early pages copy old wordless tunes labelled "Mother Ann's Song - 1782" and "Father Williams Song 1782" [^hazzardbook][^andrews]. Winterthur Library, in Delaware, holds it today as ASC 893, with dates of 1847 to 1856 [^wintcat].
+**The songbook.** Mary Hazzard was a sister of the Church Family at New Lebanon, New York, the Shakers' leading community [^andrews][^smportrait][^shakermuseum]. Edward Deming Andrews wrote that her "fine penmanship" made her "one of the busiest scribes in the Shaker order", and called her a Church Family eldress [^andrews]. She spelled her name "Hazzard" on this title page, and the library catalogues it under "Hazard" [^hazzardbook][^hazzard]. Her title page reads: "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them by Mary Hazzard. Begining February 7th 1847" [^hazzardbook]. "Pricked" means the tunes are written down as well as the words [^webster1828], and "extra songs" were short songs sung in worship in addition to the appointed ones [^andrews]. The book gathers songs from many Shaker villages, most marked with the community they came from, and its early pages copy old wordless tunes labelled "Mother Ann's Song - 1782" and "Father Williams Song 1782" [^hazzardbook][^andrews]. Winterthur Library, in Delaware, holds it today as ASC 893, with dates of 1847 to 1856 [^wintcat].
 
-**The page.** "Simple Gifts" is on her page 37, headed in a large hand with a wavy line under it [^hazzard]. It has no date, no name and no place [^hazzard]. The words are written out in a neat cursive, line by line, and under each line runs the tune in Shaker letteral notation. Instead of notes on a staff, the pitches are small letters such as c, d, e and g, and strokes and joining lines on the letters show how long each note lasts. Bar lines divide the measures, and dots at the end of each half mark both halves to be repeated [^hazzard][^wintcoll].
+**The page.** "Simple Gifts" is on her page 37, headed in a large hand with a wavy line under it [^hazzard]. It has no date, no name and no place [^hazzard]. The words are in a neat cursive, line by line, with the tune under each line in Shaker letteral notation. Instead of notes on a staff, the pitches are small letters such as c, d, e and g, and strokes and joining lines on the letters show how long each note lasts. Bar lines divide the measures, and dots at the end of each half mark both halves to be repeated [^hazzard][^wintcoll].
 
 ![[1]]
 
-Two pages earlier, "Mother's Blessing" ends with the note "From Mother Ann to Elder Joseph Brackett Dec 20th 1847 Chosen Land" [^hazzardbook]. Chosen Land was the Shakers' name for their village at New Gloucester, Maine, by Sabbathday Lake [^andrews][^neh]. Several songs either side of Simple Gifts are marked Chosen Land too [^hazzardbook]. The book is not in date order, though: an October 1847 song follows the December one, on page 44. So the page can be placed only loosely, among songs dated from 1847 to 1849 [^hazzardbook].
+Two pages earlier, "Mother's Blessing" ends with the note "From Mother Ann to Elder Joseph Brackett Dec 20th 1847 Chosen Land" [^hazzardbook]. Chosen Land was the Shakers' name for their village at New Gloucester, Maine, by Sabbathday Lake [^andrews][^neh]. Several songs either side of Simple Gifts are marked Chosen Land too [^hazzardbook]. The book is not in date order, though: an October 1847 song follows the December one, on page 44. So the page can be placed only loosely: the nearest dated songs, on pages 30 to 44, are all from 1847, but a song dated March 1849 comes later, on page 72 [^hazzardbook].
 
 ![[2]]
 
-**Who made it.** The usual credit is to Joseph Brackett (1797 to 1882), a Maine Shaker leader [^lcname][^hall][^hall2019]. He was elder at New Gloucester, and the Shaker Museum says he was called into the Maine Ministry in 1848 and lived mostly at Alfred, Maine, for nearly a decade. He went back to New Gloucester and died there in 1882 [^smblog][^hall]. Andrews's The Gift to Be Simple (1940), the earliest scholarly account we have read, says the song was sung all through the Shaker society, and that one manuscript says it was "composed by the Alfred Ministry June 28, 1848" [^andrews]. Andrews names the Alfred Ministry, not Brackett; later writers name Brackett, who served in that ministry [^andrews][^hall][^smblog]. The Shaker Museum suggests the song may be older, and that 1848 may only be when it was written down [^smblog].
+**Who made it.** The usual credit is to Joseph Brackett (1797 to 1882), a Maine Shaker leader [^lcname][^hall][^hall2019]. He was elder at New Gloucester, and the Shaker Museum says he was called into the Maine Ministry in 1848 and lived mostly at Alfred, Maine, for nearly a decade. He went back to New Gloucester and died there in 1882 [^smblog][^hall]. The earliest known printing of the song is Andrews's, in 1937, in an article on Shaker songs in The Musical Quarterly, with the note "Probably first sung at Hancock about 1849" [^andrews1937]. In his book The Gift to Be Simple (1940) he dated it differently: the song was sung all through the Shaker society, he wrote, and one manuscript says it was "composed by the Alfred Ministry June 28, 1848" [^andrews]. Andrews names the Alfred Ministry, not Brackett; later writers name Brackett, who served in that ministry [^andrews][^hall][^smblog]. The Shaker Museum suggests the song may be older, and that 1848 may only be when it was written down [^smblog].
 
-**Its later life.** Andrews printed a photograph of this very page in 1940, as Figure 4 of his book, listed as "Song-book of Mary Hazzard. New Lebanon, 1847". 1847 is the year the book was begun; the page itself has no date [^andrews][^hazzard]. Hazzard's book later went to Winterthur with the Andrews collection of Shaker songbooks, given by Faith Andrews [^wintcoll]. Aaron Copland later said he found the tune in a library book, which a 2019 study identifies as Andrews's [^hall2019]. He used it in Appalachian Spring, a ballet for Martha Graham commissioned by Elizabeth Sprague Coolidge and first danced at the Library of Congress on 30 October 1944 [^locblog][^loctreasures]. The tune forms a set of variations near the end of the score, and the ballet made the old song known across the country [^locblog][^boriskin].
+**Its later life.** Andrews printed a photograph of this very page in 1940, as Figure 4 of his book, listed as "Song-book of Mary Hazzard. New Lebanon, 1847". 1847 is the year the book was begun [^andrews][^hazzard]. Hazzard's book went to Winterthur with the Andrews collection of Shaker songbooks, given by Faith Andrews [^wintcoll]. Aaron Copland later said he found the tune in a library book, which a 2019 study identifies as Andrews's [^hall2019]. He used it in Appalachian Spring, a ballet for Martha Graham commissioned by Elizabeth Sprague Coolidge and first danced at the Library of Congress on 30 October 1944 [^locblog][^loctreasures]. The tune forms a set of variations near the end of the score, and the ballet made the old song known nationwide [^locblog][^boriskin].
 
 ### Timeline
 
@@ -46,6 +48,7 @@ Two pages earlier, "Mother's Blessing" ends with the note "From Mother Ann to El
 - 1837: Mother Ann's Work begins, the revival that filled Shaker songbooks with gift songs [^andrews][^wintcoll]
 - 1847: Mary Hazzard begins her book of extra songs, on 7 February [^hazzardbook][^wintcat]
 - 1848: one manuscript says the song was composed by the Alfred Ministry, on 28 June [^andrews]
+- 1937: Andrews prints the song, words and tune, in The Musical Quarterly [^andrews1937]
 - 1940: Andrews prints a photograph of Hazzard's page in The Gift to Be Simple [^andrews]
 - 1944: Appalachian Spring is first danced at the Library of Congress, on 30 October [^locblog][^loctreasures]
 - 1945: Copland's score wins the Pulitzer Prize for Music [^locblog][^boriskin]
@@ -54,7 +57,7 @@ Two pages earlier, "Mother's Blessing" ends with the note "From Mother Ann to El
 
 Hazzard's words are the ones sung today, with only the spelling changed: her "gain'd" and "asham'd" are our "gained" and "ashamed" [^hazzard][^andrews].
 
-**"'Tis the gift to be simple, 'tis the gift to be free."** "'Tis" is "it is". To the Shakers a "gift" was anything given by God's spirit, a word they took from Paul's "diversities of gifts" in his letter to the Corinthians [^andrews]. Simplicity was one of their great virtues. It meant plain speech and dress and honest dealing, but also humility and a single purpose [^andrews].
+**"'Tis the gift to be simple, 'tis the gift to be free."** "'Tis" is "it is". To the Shakers a "gift" was anything given by God's spirit, a word they took from Paul's "diversities of gifts" in his letter to the Corinthians [^andrews]. Simplicity ran through Shaker life. It meant plain speech and dress and honest dealing, but also humility and a single purpose [^andrews].
 
 ![[4]]
 
@@ -81,11 +84,11 @@ Till by turning turning we come round right
 
 ## How it is sung
 
-The Shakers sang it in worship, as a song for dancing [^hall][^lcsubject]. Hymnals now print the tune under the name SIMPLE GIFTS, in irregular meter [^hymnary-tune].
+The Shakers sang it in worship, as a song for dancing [^hall][^andrews]. Hymnals now print the tune under the name SIMPLE GIFTS, in irregular meter [^hymnary-tune].
 
 ![[3]]
 
-Our arrangement is read from Hazzard's page, moved from C to G with every pitch as she wrote it [^hazzard]. Breaths are written in for beginners, and we sing each half once, where her page repeats both. It is for 2 to 4 singers, with the tune in the soprano, words for the alto and tenor, and "oo" for the bass. The harmony is ours.
+Our arrangement is read from Hazzard's page, moved from C to G with every pitch as she wrote it [^hazzard]. Breaths are written in for beginners, and we sing each half once, where her page repeats both. It is for 2 to 4 singers, and the harmony is ours.
 
 ## Versions and other words
 
@@ -110,19 +113,19 @@ No. It is a Shaker song, copied by hand into Shaker songbooks in the 1840s and u
 
 ### Was Simple Gifts originally a spiritual?
 
-Not an African American spiritual. It is a song of the Shakers, whose worship included dancing [^shakermuseum][^andrews]. Their sacred songs are often called Shaker spirituals, as in the book title The Shaker Spiritual [^smblog]. This one was a dance song, also titled Dancing Song or Quick Dance in Shaker manuscripts, rather than a hymn: Andrews notes that hymns were not usually dance songs, and Shaker hymns usually had several verses where this has one [^hall][^andrews][^hall2019].
+Not an African American spiritual. It is a song of the Shakers, whose worship included dancing [^shakermuseum][^andrews]. Their sacred songs are often called Shaker spirituals [^smblog]. It was a dance song rather than a hymn: some Shaker manuscripts title it Dancing Song or Quick Dance, and Andrews wrote that it "could be used as part of a quick dance" [^hall][^andrews1937]. He also notes that hymns were not usually dance songs, and Shaker hymns usually had more than one verse where this has one [^andrews][^hall2019].
 
 ### Are there more verses of Simple Gifts?
 
-No. Mary Hazzard's copy has one verse in two halves, each marked to repeat, and Andrews printed the same single verse in 1940 [^hazzard][^andrews][^hall2019]. The extra verses sometimes sung today were added later, and none is by a Shaker [^hall]. Sydney Carter's Lord of the Dance, from 1963, is a different song set to the tune [^hymnary-lotd].
+No. Mary Hazzard's copy has one verse in two halves, each marked to repeat, and Andrews printed the same single verse in 1937 and again in 1940 [^hazzard][^andrews1937][^andrews][^hall2019]. The extra verses sometimes sung today were added later, and none is by a Shaker [^hall]. Sydney Carter's Lord of the Dance, from 1963, is a different song set to the tune [^hymnary-lotd].
 
 ### What key is Simple Gifts in?
 
-Mary Hazzard wrote it in C, in Shaker letteral notation, with the tune ending on C [^hazzard]. Andrews printed it in G in 1940, and Hymnary.org's tune page gives G major [^andrews][^hymnary-tune]. We sing it in G, with every pitch as she wrote it, moved from her C [^hazzard].
+Mary Hazzard wrote it in C, in Shaker letteral notation, with the tune ending on C [^hazzard]. Andrews printed it in G in 1940, and Hymnary.org's tune page gives G major [^andrews][^hymnary-tune]. We sing it in G, moved from her C [^hazzard].
 
 ### Which part sings the tune?
 
-The soprano sings the tune all the way through. Two singers take the soprano and alto; three add the bass; the tenor makes four. The alto and tenor sing the same words close beneath the tune, and the bass sings "oo". Hazzard's page has the tune alone, so the harmony is ours [^hazzard].
+The soprano sings the tune throughout. Two singers take the soprano and alto; three add the bass; the tenor makes four. The alto sings the words close beneath the tune, most often a third below; the tenor sings the same words lower, mostly on G and B; and the bass sings "oo". Hazzard's page has the tune alone, so the harmony is ours [^hazzard].
 
 ## Sing next
 
@@ -133,10 +136,11 @@ The soprano sings the tune all the way through. Two singers take the soprano and
 ## Sources
 
 - [^hazzard]: Winterthur Library, ASC 893, Mary Hazzard (catalogued as Mary Hazard), "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them" (begun 7 February 1847; catalogue dates 1847 to 1856), manuscript page 37, "Simple Gifts.", page image 57. Courtesy Winterthur Museum, Garden & Library. https://winterthur.libraryhost.com/repositories/2/archival_objects/95
-- [^hazzardbook]: Winterthur Library, ASC 893, the same book, title page (page image 5) and manuscript pages 7 (image 27), 35 "Mother's Blessing" (image 55), 36 (image 56), 38 (image 58), 44 (image 64) and 72 "Holy Order Song" (image 92). Courtesy Winterthur Museum, Garden & Library. https://winterthur.libraryhost.com/repositories/2/archival_objects/95
+- [^hazzardbook]: Winterthur Library, ASC 893, the same book, title page (page image 5) and manuscript pages 7 (image 27), 30 (image 50), 35 "Mother's Blessing" (image 55), 36 (image 56), 38 (image 58), 44 (image 64) and 72 "Holy Order Song" (image 92). Courtesy Winterthur Museum, Garden & Library. https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcat]: Winterthur Library, catalogue record for ASC 893, "A collection of extra songs of various kinds, written and pricked for the purpose of retaining them by Mary Hazard; beginning February 7th, 1847, 1847-1856". https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 - [^wintcoll]: Winterthur Library, Shaker hymnals collection (ASC-Hymnals), 1808 to 1935, collection record: scope note and acquisition. https://winterthur.libraryhost.com/repositories/2/resources/7
 - [^andrews]: Edward D. Andrews, *The Gift to Be Simple: Songs, Dances and Rituals of the American Shakers* (New York: J. J. Augustin, 1940), pp. 3 to 4, 7 to 9, 13, 32 note 59, 34, 45 to 47, 97 and 136 (No. 72, "Simple Gifts"), and Fig. 4, plate facing p. 36; facsimile. https://archive.org/details/gifttobesimpleso027839mbp
+- [^andrews1937]: Edward D. Andrews, "Shaker Songs", *The Musical Quarterly*, vol. 23, no. 4 (October 1937), p. 495, Ex. 1. https://archive.org/details/sim_musical-quarterly_1937-10_23_4
 - [^webster1828]: Noah Webster, *An American Dictionary of the English Language* (New York: S. Converse, 1828), "prick", verb, sense 9. https://webstersdictionary1828.com/Dictionary/prick
 - [^hall]: Roger Lee Hall, "Joseph Brackett's 'Simple Gifts': Shaker simplicity in song", American Music Preservation. https://americanmusicpreservation.com/JosephBrackettSimpleGifts.htm
 - [^hall2019]: Roger Lee Hall, "Aaron Copland's 'Simple Gifts' in Appalachian Spring", *Bulletin of the Society for American Music*, vol. 45, no. 2 (Spring 2019), reprinted at American Music Preservation. https://americanmusicpreservation.com/AppalachianSpringSimpleGifts.htm
