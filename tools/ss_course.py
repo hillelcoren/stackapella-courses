@@ -164,13 +164,13 @@ UNITS = {}
 
 UNITS["ss-find-do"] = {"id": "ss-find-do", "title": EN("Find do on the stave"), "lessons": [
     lesson("ss-1-do", "Do on the stave", [
-        learn("A stave is five lines. Every line and every space is one note, and higher on the stave is higher in pitch. Your do sits where your own note is.", [
+        learn("A stave is five lines. Every line and every space is one note, and the higher it sits, the higher the note. You'll read with do, re, mi: the notes' names, counted up from home.", [
             ("Do is home", "Every line here starts on it"),
-            ("The signs at the start", f"The clef, set for your voice, and the key's sharps or flats: more on them in unit {unit_number('ss-part-in-chord')}"),
+            ("The signs at the start", f"The clef and any sharps or flats, set for your voice. Skip them for now: unit {unit_number('ss-part-in-chord')} explains them"),
             ("Easy voice", "Medium volume; stop if anything tightens or hurts"),
         ]),
         watch("Watch the stave while it plays, then sing it back: do, re, mi, re, do.", "do re mi re do", 60),
-        read("Your turn to read. Look first, then sing it as the notes light: the names are under them.", "do re do re mi re do", "on", 60, generous=True),
+        read("Your turn to read. Do sounds while you look; then sing each note as it lights up, its name under it.", "do re do re mi re do", "on", 60, generous=True),
         read("Names faint now: read the stave. The same line or space twice is the same note again.", "do re mi mi re re do", "faint", 60, generous=True),
     ]),
     lesson("ss-1-up", "Steps up and down", [

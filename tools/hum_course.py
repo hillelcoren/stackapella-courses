@@ -164,13 +164,13 @@ HUM_TUNE = "0:1 2:1 4:1 5:1 4:1 2:1 0:2"
 
 UNIT1 = [
     lesson("1-coaster", "A roller coaster", [
-        learn("A lip trill is a \"brr\" like a motorboat: loose lips fluttering on easy breath. It's one of the gentlest ways to wake your voice up.", [
+        learn("A lip trill, or lip bubble, is a \"brr\" like a motorboat: loose lips fluttering on easy breath. It's one of the gentlest ways to wake your voice up.", [
             ("Loose lips", "A fingertip at each corner of your mouth helps"),
             ("Easy breath", "Never forced, just a steady flow"),
             ("Stop if it strains", "Tightens, tickles or hurts: rest. Don't sing when hoarse or ill"),
         ]),
-        trill_ride("Ride the roller coaster on one bubble: up, down, up again.", COASTER, band=200, generous=True, keep="humming.first-coaster"),
-        selfcheck("One more bubble, then listen back.", notes("0:2 5:2 0:2", "brr"),
+        trill_ride("Ride the ribbon's roller coaster on one long bubble, without stopping: up, down, up again.", COASTER, band=200, generous=True, keep="humming.first-coaster"),
+        selfcheck("One more bubble: hear the model, record yours, then listen back.", notes("0:2 5:2 0:2", "brr"),
                   ["Did the bubble keep going?", "If it stopped, did you hold your breath or tighten your jaw?"]),
     ]),
     lesson("1-bubble", "Keep it bubbling", [

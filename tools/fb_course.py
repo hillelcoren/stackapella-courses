@@ -190,14 +190,14 @@ def b_1_call():
         "fact": fact("roll-yell-belt", "Studying the teachers behind Broadway's belters, Christianne Roll found they built belt as a blend, always working the light voice beside it: \"a full chest voice 'yell belt' was never encouraged\".",
                      "Roll, The Evolution of the Female Broadway Belt Voice, Journal of Voice (2016)", "https://www.nats.org/_Library/Science_Informed_Voice_Pedagogy_Resource/Article_Evolution_of_the_Female_Broadway_Belt_Voice-_Implications_for_Teachers_and_Singers.pdf"),
         "steps": [
-            first("Belt starts as a call: the way you'd call a friend across a room. Bright and easy, never a shout.",
+            first("Belting is the bright, speech-like sound of musical theatre and pop. It starts as a call: the way you'd call a friend across a room. Bright and easy, never a shout.",
                   [("Speak it first", "\"Hey!\", across a room"), ("Then sing it", "Two notes, falling, short")], visual="echo"),
             warmup("mm"),
-            selfcheck("Say \"Hey!\" as if calling a friend across a room, then sing it on the two notes. Hear both.", model,
+            selfcheck("Say \"Hey!\" first, as if calling a friend across a room. Then record it sung on the two notes, and listen back.", model,
                       ["Did the sung one sound like your spoken one?", "Louder than talking? Then call it softer next time."]),
             play("\"Hey!\" sung, three times, each followed by a light \"oo\" stepping down.",
                  ex(calls([[("hey!", 2), ("", -1)]] * 3, "oo"), keep="belting.first-call", generous=True), CALLS),
-            play("Now in a round from 1609: \"Hey, ho, nobody home\", with another voice coming in on your \"Hey, ho\".",
+            play("Now a round from 1609, \"Hey, ho, nobody home\": where the tune reaches \"nobody\", another voice starts it again.",
                  song_line("hey-ho-nobody-home", 0, partners=("alto",)), CALLS),
         ],
     }
