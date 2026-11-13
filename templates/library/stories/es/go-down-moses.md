@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: go down moses significado | go down moses historia | quién escribió go down moses | go down moses espiritual historia | go down moses letra en español | go down moses louis armstrong
-translatedFrom: e12b1b07583c
+translatedFrom: 7ec94518441b
 original: Jubilee Songs (1872), página 22, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n24
 listen: Internet Archive, grabación de 1914 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-11026-go-down-moses
 ---
@@ -361,8 +361,8 @@ Según su propio relato, cantaba una canción muy parecida, como aviso. En el li
 
 ## Canta después
 
-- [Steal Away](/songs/steal-away): del mismo libro de Fisk de 1872, página 28, un espiritual lento en el que la soprano canta la estrofa mientras los demás tararean los acordes.
-- [Didn't My Lord Deliver Daniel](/songs/didnt-my-lord-deliver-daniel): otro rescate del Antiguo Testamento de las canciones de los Fisk Jubilee Singers de 1872, con la soprano cantando sola cada estrofa.
+- [Steal Away](/songs/steal-away): del mismo libro de Fisk de 1872, página 28, un espiritual lento en el que la soprano canta la estrofa mientras los demás tararean los acordes, y todos se unen en su último verso.
+- [Didn't My Lord Deliver Daniel](/songs/didnt-my-lord-deliver-daniel): otro rescate del Antiguo Testamento de las canciones de los Fisk Jubilee Singers de 1872, con la soprano cantando sola cada estrofa hasta que todos se unen en su último verso.
 - [Deep River](/songs/deep-river): el arreglo de concierto a cuatro voces del propio Harry T. Burleigh, de 1914, para cuatro cantantes, un paso más de la llamada y respuesta al canto a voces.
 
 ## Fuentes

@@ -142,10 +142,10 @@ Our arrangement is read from Sharp's page, a semitone up in C-sharp dorian, on t
 
 ## Singing it
 
-- [Soprano](/songs/haul-away-joe/soprano): you are the shantyman. Start each verse on the top E ("O", "But", "O!") and sing both lines alone, then lead the crew's answer. Every "Joe" drops to the low C-sharp, an octave under the "Way" that begins the answer. The A-sharp, on "my" before "Rosie" and in each verse's lines ("Aver", "corner", "Booble"), is the dorian note.
+- [Soprano](/songs/haul-away-joe/soprano): you are the shantyman. Start each verse on the top E ("O", "But", "O!") and sing both lines alone, then lead the crew's answer. Every "Joe" drops to the low C-sharp, an octave under the "Way" that begins the answer. The A-sharp, on "my" before "Rosie" and twice in each verse (on the "-ver" of "Aver" and the "-ner" of "corner", at the end of "tea" and on the "-ble" of "Booble", and on "young" and "a" in the last), is the dorian note.
 - [Alto](/songs/haul-away-joe/alto): you rest through the shantyman's lines and come in on every "Way, haul away, haul away, Joe", mostly on E, with D-sharp and B, and you open each chorus on G-sharp on "Haul".
 - [Tenor](/songs/haul-away-joe/tenor): you sit in the middle of the chord, mostly on G-sharp, with B and D-sharp. In each verse's answer you drop to D-sharp for "-way, haul away" and come back to G-sharp on "Joe"; in the choruses you hold up on B instead.
-- [Bass](/songs/haul-away-joe/bass): you sing the roots, mostly C-sharp, with B and E, down to a low G-sharp on the chorus's last "away" and up to G-sharp on "Rosie". Land every "Joe" on C-sharp with everyone else: that is the pull.
+- [Bass](/songs/haul-away-joe/bass): you sing the bass line, mostly C-sharp, with B and E, down to a low G-sharp on the "-way" of each chorus's last "away" and up to G-sharp on "Rosie". Land every "Joe" on C-sharp with everyone else: that is the pull.
 
 ## Questions
 
@@ -167,7 +167,7 @@ It is a sea shanty, and of a particular kind: a pulling shanty for a few short, 
 
 ### Which part sings the tune?
 
-The soprano sings the tune. In our arrangement the soprano is the shantyman, singing each verse alone and leading both choruses; the alto, tenor and bass join every "Way, haul away, haul away, Joe" on the harmony of Sharp's 1914 piano part [^sharpscan].
+The soprano sings the tune. In our arrangement the soprano is the shantyman, singing each verse alone and leading both choruses; the alto, tenor and bass sing both choruses with it and join every "Way, haul away, haul away, Joe", on the harmony of Sharp's 1914 piano part [^sharpscan].
 
 ## Sing next
 

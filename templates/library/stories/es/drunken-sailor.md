@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió drunken sailor | drunken sailor significado | drunken sailor canción significado | drunken sailor historia | drunken sailor hija del capitán significado | drunken sailor es irlandesa
-translatedFrom: 972598bfbfd3
+translatedFrom: 7e90d8ebe0d0
 original: Olmsted, Incidents of a Whaling Voyage (1841), p. 116, Internet Archive | https://archive.org/details/incidentsofwhali00olmsrich/page/n127/mode/1up
 ---
 
@@ -168,7 +168,7 @@ Terry la imprimió en 2/4, sin armadura, en Re dórico, una escala de sonido men
 
 ## Cómo cantarla
 
-- [Soprano](/songs/drunken-sailor/soprano): eres el solista (el shantyman). Canta a solas "What shall we do with a drunken sailor" y luego encabeza el estribillo. El tercer verso de cada uno sube hasta tu Mi agudo, en "sailor" y en "rises"; el Do sostenido de la subida, en el tercer "drunken" y en el tercer "she", es la nota que hace dórica la melodía.
+- [Soprano](/songs/drunken-sailor/soprano): eres el solista (el shantyman). Canta a solas "What shall we do with a drunken sailor" y luego encabeza el estribillo. El tercer verso de cada uno sube hasta tu Mi agudo, en el "-lor" del tercer "sailor" y en el "-ses" del tercer "rises"; el Do sostenido de la subida, en el tercer "drunken" y en el tercer "she", es la nota que hace dórica la melodía.
 - [Contralto](/songs/drunken-sailor/alto): descansas durante la estrofa y entras en "Hooray and up she rises", sobre todo en Sol y Fa sostenido, y bajas a un Sol grave en "morning".
 - [Tenor](/songs/drunken-sailor/tenor): entras en el estribillo con acordes fuertes y sencillos, sobre todo en Si y La; subes a Re en el tercer "up" y terminas en Mi en "morning".
 - [Bajo](/songs/drunken-sailor/bass): cantas el estribillo sobre todo en las fundamentales de los acordes, Mi y Re por encima de todo, y bajas a un Sol grave en el tercer "rises". Mantenlo firme, como pies sobre la cubierta.

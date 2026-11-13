@@ -258,8 +258,8 @@ By her own account she sang a song close to it, as a warning. In Sarah H. Bradfo
 
 ## Sing next
 
-- [Steal Away](/songs/steal-away): from the same 1872 Fisk book, page 28, a slow spiritual in which the soprano sings the verse while the others hum the chords.
-- [Didn't My Lord Deliver Daniel](/songs/didnt-my-lord-deliver-daniel): another Old Testament rescue from the Fisk Jubilee Singers' songs of 1872, with the soprano singing each verse alone.
+- [Steal Away](/songs/steal-away): from the same 1872 Fisk book, page 28, a slow spiritual in which the soprano sings the verse while the others hum the chords, and everyone joins on its last line.
+- [Didn't My Lord Deliver Daniel](/songs/didnt-my-lord-deliver-daniel): another Old Testament rescue from the Fisk Jubilee Singers' songs of 1872, with the soprano singing each verse alone until everyone joins its last line.
 - [Deep River](/songs/deep-river): Harry T. Burleigh's own four-part concert setting of 1914, for four singers, a next step from call and answer to singing in harmony.
 
 ## Sources

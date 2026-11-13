@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: steal away significado | steal away espiritual historia | quién escribió steal away | steal away to jesus significado | steal away letra en español | steal away nat turner
-translatedFrom: 6e046ed89228
+translatedFrom: 69d6b8a8fcb0
 listen: Internet Archive, disco Victor 1716, Dinwiddie Colored Quartet (de la Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-4649-steal-away || Internet Archive, grabación de 1916 de los Tuskegee Institute Singers (de la Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-187640-steal-away
 original: Jubilee Songs (1872), página 28, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n30
 ---
@@ -124,9 +124,9 @@ Nuestro arreglo toma la melodía y la letra de la página de 1872, en su tonalid
 
 ## Cómo cantarla
 
-- [Soprano](/songs/steal-away/soprano): llevas la melodía, con cinco notas: Fa, Sol, La, Do y Re. Tu Re agudo llega en "to", en "steal away to Jesus", y abre el rápido descenso Re, Do, La antes de "home". En la estrofa cantas la letra sola, sobre el tarareo de las demás voces.
+- [Soprano](/songs/steal-away/soprano): llevas la melodía, con cinco notas: Fa, Sol, La, Do y Re. Tu Re agudo llega en "to", en "steal away to Jesus", abre el rápido descenso Re, Do, La antes de "home", y en la estrofa llega en "My Lord calls" y en "in", en "sounds it in my soul". Allí cantas la letra sola, sobre el tarareo de las demás voces.
 - [Contralto](/songs/steal-away/alto): cantas la letra del estribillo sobre todo una sexta por debajo de la melodía. En la estrofa tarareas, primero grave y luego en un La agudo que sostienes durante "He calls me by the thunder". Tu último "here" sube a ese La agudo.
-- [Tenor](/songs/steal-away/tenor): te quedas en Fa buena parte del estribillo, y subes a Si bemol en "to Je-" y en "stay". En la estrofa tarareas dos notas largas, Fa y luego Do, de unos seis pulsos cada una. Tu último "here" sube a Do, tu nota más alta.
+- [Tenor](/songs/steal-away/tenor): te quedas en Fa buena parte del estribillo, y subes a Si bemol en "to Je-" y en "stay". En la estrofa tarareas notas largas: Fa durante unos seis pulsos, luego Do, desde "He calls me by the thunder" hasta "sounds it", y otra vez Fa antes del último verso. Tu último "here" sube a Do, tu nota más alta.
 - [Bajo](/songs/steal-away/bass): sostienes el Fa grave buena parte del estribillo. En la estrofa tarareas notas lentas hasta tu La más alto, y luego sostienes Fa durante seis pulsos. "Here", al final del primer estribillo y de la estrofa, cae una octava por encima de tu Fa grave; el último "here" vuelve a bajar a él.
 
 ## Preguntas

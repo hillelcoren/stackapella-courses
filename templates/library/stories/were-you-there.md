@@ -120,10 +120,10 @@ Our arrangement keeps the 1909 page's key of G, at the 68 beats a minute of Dett
 
 ## Singing it
 
-- [Soprano](/songs/were-you-there/soprano): you ask each question alone, beginning on your low D and climbing through G and B, then hold its last word while the others echo. After that you sing with everyone, mostly on G and B, up to your top E on "crucified", "nailed", "pierced" and "sun" in each verse's second question and on every "Sometimes", and down to your low D again on the last "tremble,".
-- [Alto](/songs/were-you-there/alto): you rest while the soprano asks, then echo her on B, C and B with the tenor and bass: "were you there?" in verses 1 and 4, "to the tree?" and "in the side?" in verses 2 and 3. Then you sing mostly on B and E, reaching your top B only in each verse's second question, on every "Oh!" and on every "Sometimes".
-- [Tenor](/songs/were-you-there/tenor): you echo with the alto and bass, dipping to your low C once a verse, on "you" or "the". Then you fill the middle of the chord, most often on G, then C, up to your top C on "me to tremble," and the end of the second "tremble", and on "crucified", "nailed", "pierced" or "sun" in each verse's last line.
-- [Bass](/songs/were-you-there/bass): you echo with the alto and tenor, then sing the bass line, most often on a low G, then C. Once a verse, in its last line, you rise to the G an octave up: on "crucified", on "Him" in "nailed Him" and "pierced Him", and on "refused".
+- [Soprano](/songs/were-you-there/soprano): you ask each question alone, beginning on your low D and climbing through G and B, then hold its last word while the others echo. After that you sing with everyone, mostly on G and B, up to your top E on the "cru-" of "crucified", on "nailed", "pierced" and "sun" in each verse's second question and on the "Some-" of every "Sometimes", and down to your low D again on the "-ble" of the last "tremble,".
+- [Alto](/songs/were-you-there/alto): you rest while the soprano asks, then echo her on B, C and B with the tenor and bass: "were you there?" in verses 1 and 4, "to the tree?" and "in the side?" in verses 2 and 3. Then you sing mostly on B and E, reaching your top B only in each verse's second question, on every "Oh!" and on the "-times" of every "Sometimes".
+- [Tenor](/songs/were-you-there/tenor): you echo with the alto and bass, dipping to your low C once a verse, on "you" or "the". Then you fill the middle of the chord, most often on G, then C, up to your top C on "me to tremble," and the end of the second "tremble", and on the "cru-" of "crucified", on "nailed", "pierced" or "sun" in each verse's last line.
+- [Bass](/songs/were-you-there/bass): you echo with the alto and tenor, then sing the bass line, most often on a low G, then C. Once a verse, in its last line, you rise to the G an octave up: on the "ci-" of "crucified", on "Him" in "nailed Him" and "pierced Him", and on the "re-" of "refused".
 
 ## Questions
 

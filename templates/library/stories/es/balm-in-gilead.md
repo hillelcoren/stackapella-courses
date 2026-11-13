@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: balm in gilead significado | balm in gilead historia | bálsamo de galaad significado | there is a balm in gilead letra en español | quién escribió there is a balm in gilead | bálsamo de galaad el cuervo poe
-translatedFrom: 6eb3fe94411e
+translatedFrom: 943ac954d241
 listen: Internet Archive, grabación de 1909 de un cuarteto masculino de la Fisk University (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-128181-there-is-a-balm-in-gilead
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
 ---
@@ -133,9 +133,9 @@ Nuestro arreglo, para 2 a 4 cantantes, mantiene las cuatro voces del propio Dett
 
 ## Cómo cantarla
 
-- [Soprano](/songs/balm-in-gilead/soprano): llevas la melodía, sobre todo en el La y el Do sostenido, y cantas en solitario las dos estrofas. Solo allí llegas a tu Mi agudo: en "discouraged,", "work's" y "Spirit" en la primera estrofa, y en "Peter,", "pray" y "Jesus," en la segunda. En el estribillo bajas a tu Mi grave en cada "To" de "To heal the sin-sick soul".
-- [Contralto](/songs/balm-in-gilead/alto): callas durante las dos estrofas y cantas la voz de contralto de Dett en el estribillo, sobre todo en el Do sostenido y el Mi. Tu nota más aguda, Fa sostenido, llega en cada "wounded" y "whole," y en el primer "soul." de cada estribillo.
-- [Tenor](/songs/balm-in-gilead/tenor): callas durante las dos estrofas y cantas el estribillo en solo tres notas, sobre todo en el La. Bajas a Mi en cada "in Gilead,", en "Balm" antes de cada "To make the wounded whole" y en el último "soul." de cada estribillo, y a Sol sostenido en cada "whole,", en el "There is a" que le sigue y en "sick" de cada "sin-sick".
+- [Soprano](/songs/balm-in-gilead/soprano): llevas la melodía, sobre todo en el La y el Do sostenido, y cantas en solitario las dos estrofas. Solo allí llegas a tu Mi agudo: en el "-aged" de "discouraged,", en "work's" y en el "-it" de "Spirit" en la primera estrofa, y en el "-ter" de "Peter,", en "pray" y en el "-sus" de "Jesus," en la segunda. En el estribillo bajas a tu Mi grave en cada "To" de "To heal the sin-sick soul".
+- [Contralto](/songs/balm-in-gilead/alto): callas durante las dos estrofas y cantas la voz de contralto de Dett en el estribillo, sobre todo en el Do sostenido y el Mi. Tu nota más aguda, Fa sostenido, llega en el "wound-" de cada "wounded", y como segunda nota de cada "whole," y del primer "soul." de cada estribillo.
+- [Tenor](/songs/balm-in-gilead/tenor): callas durante las dos estrofas y cantas el estribillo en solo tres notas, sobre todo en el La. Bajas a Mi en cada "in Gilead," salvo en su "-ad,", en "Balm" antes de cada "To make the wounded whole" y en el último "soul." de cada estribillo, y a Sol sostenido en cada "whole,", en el "There is a" que le sigue y en "sick" de cada "sin-sick".
 - [Bajo](/songs/balm-in-gilead/bass): cantas las fundamentales de los acordes de Dett en solo dos notas, un La grave cerca de tres cuartas partes del tiempo y el Mi por encima de él en cada "whole,", en el "There is a" que le sigue y en cada "sin-sick". Callas durante las dos estrofas.
 
 ## Preguntas

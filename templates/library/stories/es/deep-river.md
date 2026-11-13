@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: deep river significado | deep river espiritual historia | quién escribió deep river | deep river letra en español | qué significa camp ground en deep river | deep river río jordán significado
-translatedFrom: 84bc16e566e3
+translatedFrom: 4c78b559411d
 listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-655500-deep-river || Internet Archive, grabación de 1923 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
 original: The Story of the Jubilee Singers, segunda edición (1875), Universitätsbibliothek Gießen | https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5174010
 ---
@@ -114,8 +114,8 @@ Nuestro arreglo son las cuatro voces del propio Burleigh, de 1914, en Mi bemol c
 
 ## Cómo cantarla
 
-- [Contralto](/songs/deep-river/alto): llevas la melodía, en las dos vueltas del estribillo. Su gran momento es el salto de octava de "is" hasta tu Mi bemol agudo en "over", en "my home is over Jordan"; dalo con ligereza. En la estrofa compartes la melodía con la soprano hasta "gospel feast".
-- [Soprano](/songs/deep-river/soprano): callas durante el primer estribillo y luego haces flotar el estribillo por encima de la contralto, sobre todo en notas largas. En la estrofa cantas la melodía con la contralto, al unísono, hasta "gospel feast", y luego tomas la línea superior. Tu Sol agudo llega en "over" en tu estribillo y en "promised".
+- [Contralto](/songs/deep-river/alto): llevas la melodía, en las dos vueltas del estribillo. Su gran momento es el salto de octava de "is" hasta tu Mi bemol agudo en el "o-" de "over", en "my home is over Jordan"; dalo con ligereza. En la estrofa compartes la melodía con la soprano hasta "gospel feast".
+- [Soprano](/songs/deep-river/soprano): callas durante el primer estribillo y luego haces flotar el estribillo por encima de la contralto, sobre todo en notas largas. En la estrofa cantas la melodía con la contralto, al unísono, hasta "gospel feast", y luego tomas la línea superior. Tu Sol agudo llega en el "o-" de "over" en tu estribillo y en el "prom-" de "promised".
 - [Tenor](/songs/deep-river/tenor): cantas la letra en el centro de los acordes de Burleigh. Por debajo de "Jordan, Deep, deep river", en el primer estribillo, bajas Re, Re bemol, Do: afina con cuidado esos semitonos. En la estrofa cantas "Want to go" mientras la soprano y la contralto cantan "Oh, don't you want to go", y tu único Sol agudo llega en "all", en "where all is peace?".
 - [Bajo](/songs/deep-river/bass): cantas la línea del bajo de Burleigh, en Mi bemol casi un tercio del tiempo, hasta un Fa grave en "over", en "cross over", en el primer estribillo. Al final recorres Si bemol, Si becuadro, Do, Si bemol, La bemol, Si bemol, Mi bemol por debajo de "is peace? Oh, deep river".
 
@@ -139,7 +139,7 @@ En la Biblia los israelitas lo cruzan para entrar en la tierra prometida; el lib
 
 ### ¿Qué voz canta la melodía?
 
-La contralto, en las dos vueltas del estribillo, como lo escribió Burleigh; la soprano espera ocho compases y luego hace flotar una línea por encima, en notas largas. En la estrofa la soprano y la contralto comparten la melodía hasta que la soprano sube sola a la nota aguda de "promised" [^burleigh1914].
+La contralto, en las dos vueltas del estribillo, como lo escribió Burleigh; la soprano espera ocho compases y luego hace flotar una línea por encima, en notas largas. En la estrofa la soprano y la contralto comparten la melodía hasta "gospel feast"; desde "That promised land" la soprano toma la línea superior y sube a su Sol agudo en el "prom-" de "promised" [^burleigh1914].
 
 ## Canta después
 

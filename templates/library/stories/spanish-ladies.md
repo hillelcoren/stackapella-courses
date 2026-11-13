@@ -116,9 +116,9 @@ Our arrangement is read from Sharp's page, at his printed pitch in A minor, in 3
 
 ## Singing it
 
-- [Soprano](/songs/spanish-ladies/soprano): you carry Sharp's tune in its old minor form, mostly on A and C. It climbs to your top E on "sail" and "But" in the verse, and on "channel" and "From" in each chorus, then drops to a low D on "to" in "short time to see you again" and on "is" in "Scilly is thirty five leagues".
+- [Soprano](/songs/spanish-ladies/soprano): you carry Sharp's tune in its old minor form, mostly on A and C. It climbs to your top E on "sail" and "But" in the verse, and on the "chan-" of "channel" and on "From" in each chorus, then drops to a low D on "to" in "short time to see you again" and on "is" in "Scilly is thirty five leagues".
 - [Alto](/songs/spanish-ladies/alto): you sing the words with the tune all the way, mostly on C and E. Your top A comes only on "strike" in "Until we strike soundings", and on the very last "leagues" your C-sharp turns the final chord major.
-- [Tenor](/songs/spanish-ladies/tenor): you sing in the middle of the chord, mostly on E and G, staying on E for most of "Farewell and adieu to you Spanish ladies". Your top D is on "Until" in each chorus.
+- [Tenor](/songs/spanish-ladies/tenor): you sing in the middle of the chord, mostly on E and G, staying on E for most of "Farewell and adieu to you Spanish ladies". Your top D is on the "Un-" of "Until" in each chorus.
 - [Bass](/songs/spanish-ladies/bass): you sing Sharp's left hand, mostly on A and C. You reach your top A just once, on "hope", and drop to a low F on "old" in every "old England", on "like" in "like true British sailors" and on "roar" in "we'll roar all on the salt seas".
 
 ## Questions

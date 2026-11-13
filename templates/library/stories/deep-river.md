@@ -104,8 +104,8 @@ Our arrangement is Burleigh's own four parts of 1914, in E-flat as he wrote them
 
 ## Singing it
 
-- [Alto](/songs/deep-river/alto): you carry the tune, twice through the refrain. Its big moment is the octave leap from "is" up to your top E-flat on "over" in "my home is over Jordan"; take it lightly. In the verse you share the tune with the soprano up to "gospel feast".
-- [Soprano](/songs/deep-river/soprano): you rest through the first refrain, then float the refrain above the alto, mostly on long notes. In the verse you sing the tune with the alto, in unison, through "gospel feast", then take the top line. Your top G comes on "over" in your refrain and on "promised".
+- [Alto](/songs/deep-river/alto): you carry the tune, twice through the refrain. Its big moment is the octave leap from "is" up to your top E-flat on the "o-" of "over" in "my home is over Jordan"; take it lightly. In the verse you share the tune with the soprano up to "gospel feast".
+- [Soprano](/songs/deep-river/soprano): you rest through the first refrain, then float the refrain above the alto, mostly on long notes. In the verse you sing the tune with the alto, in unison, through "gospel feast", then take the top line. Your top G comes on the "o-" of "over" in your refrain and on the "prom-" of "promised".
 - [Tenor](/songs/deep-river/tenor): you sing the words in the middle of Burleigh's chords. Under "Jordan, Deep, deep river" in the first refrain you step down D, D-flat, C: tune those half steps carefully. In the verse you sing "Want to go" while the soprano and alto sing "Oh, don't you want to go", and your one high G comes on "all" in "where all is peace?".
 - [Bass](/songs/deep-river/bass): you sing Burleigh's bass line, on E-flat nearly a third of the time, down to a low F on "over" in "cross over" in the first refrain. At the close you move B-flat, B natural, C, B-flat, A-flat, B-flat, E-flat under "is peace? Oh, deep river".
 
@@ -129,7 +129,7 @@ In the Bible the Israelites cross it into the promised land; the book of Joshua 
 
 ### Which part sings the tune?
 
-The alto, twice through the refrain, as Burleigh wrote it; the soprano waits eight bars, then floats a line above on long notes. In the verse soprano and alto share the tune until the soprano climbs alone to the high note on "promised" [^burleigh1914].
+The alto, twice through the refrain, as Burleigh wrote it; the soprano waits eight bars, then floats a line above on long notes. In the verse soprano and alto share the tune through "gospel feast"; from "That promised land" the soprano takes the top line, climbing to its high G on the "prom-" of "promised" [^burleigh1914].
 
 ## Sing next
 

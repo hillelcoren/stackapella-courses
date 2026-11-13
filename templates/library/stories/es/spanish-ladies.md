@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: spanish ladies significado | spanish ladies tiburón | por qué quint canta spanish ladies | spanish ladies historia | quién escribió spanish ladies | spanish ladies letra
-translatedFrom: e963cf2b4261
+translatedFrom: b3670bfd26dd
 original: Cuaderno de bitácora de Peter Pease (1769), New Bedford Whaling Museum, Internet Archive | https://archive.org/details/nellesloopofdart00nell/page/n146
 ---
 
@@ -141,9 +141,9 @@ Nuestro arreglo está tomado de la página de Sharp, a la altura en que la impri
 
 ## Cómo cantarla
 
-- [Soprano](/songs/spanish-ladies/soprano): llevas la melodía de Sharp en su antigua forma menor, sobre todo en La y Do. Subes a tu Mi agudo en "sail" y "But" en la estrofa, y en "channel" y "From" en cada estribillo, y luego bajas a un Re grave en "to" de "short time to see you again" y en "is" de "Scilly is thirty five leagues".
+- [Soprano](/songs/spanish-ladies/soprano): llevas la melodía de Sharp en su antigua forma menor, sobre todo en La y Do. Subes a tu Mi agudo en "sail" y "But" en la estrofa, y en el "chan-" de "channel" y en "From" en cada estribillo, y luego bajas a un Re grave en "to" de "short time to see you again" y en "is" de "Scilly is thirty five leagues".
 - [Contralto](/songs/spanish-ladies/alto): cantas la letra con la melodía de principio a fin, sobre todo en Do y Mi. Tu La agudo llega solo en "strike" de "Until we strike soundings", y en el último de todos los "leagues" tu Do sostenido convierte en mayor el acorde final.
-- [Tenor](/songs/spanish-ladies/tenor): cantas en el centro del acorde, sobre todo en Mi y Sol, y te quedas en Mi durante la mayor parte de "Farewell and adieu to you Spanish ladies". Tu Re agudo está en "Until" en cada estribillo.
+- [Tenor](/songs/spanish-ladies/tenor): cantas en el centro del acorde, sobre todo en Mi y Sol, y te quedas en Mi durante la mayor parte de "Farewell and adieu to you Spanish ladies". Tu Re agudo está en el "Un-" de "Until" en cada estribillo.
 - [Bajo](/songs/spanish-ladies/bass): cantas la mano izquierda de Sharp, sobre todo en La y Do. Llegas a tu La agudo solo una vez, en "hope", y bajas a un Fa grave en "old" de cada "old England", en "like" de "like true British sailors" y en "roar" de "we'll roar all on the salt seas".
 
 ## Preguntas

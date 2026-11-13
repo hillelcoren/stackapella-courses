@@ -103,10 +103,10 @@ Our arrangement takes its melody and words from the 1904 page, moved up a half s
 
 ## Singing it
 
-- [Soprano](/songs/wade-in-the-water/soprano): you carry the tune and call each verse line alone. The chorus's second phrase, "Wade in the water, children", climbs to your high F on "wa-" and steps straight back down; take the top gently. "God's a-going to trouble the water" dips to your low C on "the".
+- [Soprano](/songs/wade-in-the-water/soprano): you carry the tune and sing the calls of each verse alone; everyone joins you on the answers. The chorus's second phrase, "Wade in the water, children", climbs to your high F on "wa-" and falls straight back down; take the top gently. "God's a-going to trouble the water" dips to your low C on "the".
 - [Alto](/songs/wade-in-the-water/alto): you sing the chorus, then hum on "oo" under each verse call, then join every answer, often a sixth below the tune, mostly on a low A-flat.
-- [Tenor](/songs/wade-in-the-water/tenor): you sing mostly on one note, F, humming under the verse calls and joining every answer. Your highest note is the C in that same phrase, and on the very last "water" you drop to a low C.
-- [Bass](/songs/wade-in-the-water/bass): you keep a steady "doom, ba-doom" under everything, a quick low line on F, C and A-flat, and end on a held low F.
+- [Tenor](/songs/wade-in-the-water/tenor): you sing mostly on one note, F, humming under the verse calls and joining every answer. Your highest note is C, on "in the wa-" in "Wade in the water, children", and on the very last "water" you drop to a low C.
+- [Bass](/songs/wade-in-the-water/bass): you keep a steady "doom, ba-doom" under everything, a quick low line mostly on F, C and A-flat, and end on a held low F.
 
 ## Questions
 

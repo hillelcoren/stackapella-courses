@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul away joe significado | haul away joe historia | quién escribió haul away joe | haul away joe letra significado | haul away joe canción marinera | haul away joe letra en español
-translatedFrom: 3af4f115a4fc
+translatedFrom: 275e23fdd21d
 original: Sharp, English Folk-Chanteys (1914), n.º XXVII, p. 32, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n51/mode/1up
 ---
 
@@ -175,10 +175,10 @@ Nuestro arreglo está tomado de la página de Sharp, un semitono más arriba, en
 
 ## Cómo cantarla
 
-- [Soprano](/songs/haul-away-joe/soprano): eres el solista (el shantyman). Empieza cada estrofa en el Mi agudo ("O", "But", "O!") y canta los dos versos a solas; luego encabeza la respuesta de la tripulación. Cada "Joe" baja al Do sostenido grave, una octava por debajo del "Way" con el que empieza la respuesta. El La sostenido, en "my" antes de "Rosie" y en los versos de cada estrofa ("Aver", "corner", "Booble"), es la nota dórica.
+- [Soprano](/songs/haul-away-joe/soprano): eres el solista (el shantyman). Empieza cada estrofa en el Mi agudo ("O", "But", "O!") y canta los dos versos a solas; luego encabeza la respuesta de la tripulación. Cada "Joe" baja al Do sostenido grave, una octava por debajo del "Way" con el que empieza la respuesta. El La sostenido, en "my" antes de "Rosie" y dos veces en cada estrofa (en el "-ver" de "Aver" y el "-ner" de "corner", al final de "tea" y en el "-ble" de "Booble", y en "young" y "a" en la última), es la nota dórica.
 - [Contralto](/songs/haul-away-joe/alto): descansas durante los versos del solista y entras en cada "Way, haul away, haul away, Joe", sobre todo en Mi, con Re sostenido y Si, y abres cada estribillo en Sol sostenido, en "Haul".
 - [Tenor](/songs/haul-away-joe/tenor): estás en el centro del acorde, sobre todo en Sol sostenido, con Si y Re sostenido. En la respuesta de cada estrofa bajas a Re sostenido en "-way, haul away" y vuelves a Sol sostenido en "Joe"; en los estribillos, en cambio, te mantienes arriba, en Si.
-- [Bajo](/songs/haul-away-joe/bass): cantas las fundamentales, sobre todo Do sostenido, con Si y Mi; bajas a un Sol sostenido grave en el último "away" del estribillo y subes a Sol sostenido en "Rosie". Aterriza en Do sostenido en cada "Joe", con todos los demás: ese es el tirón.
+- [Bajo](/songs/haul-away-joe/bass): cantas la línea del bajo, sobre todo Do sostenido, con Si y Mi; bajas a un Sol sostenido grave en el "-way" del último "away" de cada estribillo y subes a Sol sostenido en "Rosie". Aterriza en Do sostenido en cada "Joe", con todos los demás: ese es el tirón.
 
 ## Preguntas
 
@@ -200,7 +200,7 @@ Es una canción marinera (shanty), y de un tipo concreto: una shanty para halar,
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía. En nuestro arreglo, la soprano es el solista (el shantyman): canta sola cada estrofa y encabeza los dos estribillos; la contralto, el tenor y el bajo se unen en cada "Way, haul away, haul away, Joe" con la armonía del acompañamiento de piano de Sharp de 1914 [^sharpscan].
+La soprano canta la melodía. En nuestro arreglo, la soprano es el solista (el shantyman): canta sola cada estrofa y encabeza los dos estribillos; la contralto, el tenor y el bajo cantan con ella los dos estribillos y se unen en cada "Way, haul away, haul away, Joe", con la armonía del acompañamiento de piano de Sharp de 1914 [^sharpscan].
 
 ## Canta después
 

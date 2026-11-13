@@ -108,9 +108,9 @@ Our arrangement takes its melody and words from the 1872 page, in its key of F, 
 
 ## Singing it
 
-- [Soprano](/songs/steal-away/soprano): you carry the tune, on five notes, F, G, A, C and D. Your top D comes on "to" in "steal away to Jesus" and starts the quick falling D, C, A before "home". In the verse you sing the words alone over the hums.
+- [Soprano](/songs/steal-away/soprano): you carry the tune, on five notes, F, G, A, C and D. Your top D comes on "to" in "steal away to Jesus", starts the quick falling D, C, A before "home", and in the verse comes on "My Lord calls" and on "in" in "sounds it in my soul". There you sing the words alone over the hums.
 - [Alto](/songs/steal-away/alto): you sing the refrain's words mostly a sixth below the tune. In the verse you hum, low at first, then a high A held through "He calls me by the thunder". Your very last "here" rises to that high A.
-- [Tenor](/songs/steal-away/tenor): you stay on F for much of the refrain, rising to B-flat on "to Je-" and "stay". In the verse you hum two long notes, F and then C, each about six beats. Your last "here" lifts to C, your top note.
+- [Tenor](/songs/steal-away/tenor): you stay on F for much of the refrain, rising to B-flat on "to Je-" and "stay". In the verse you hum long notes: F for about six beats, then C, from "He calls me by the thunder" on to "sounds it", then F again before the last line. Your last "here" lifts to C, your top note.
 - [Bass](/songs/steal-away/bass): you hold the low F for much of the refrain. In the verse you hum slow notes up to your top A, then hold F for six beats. "Here" at the end of the first refrain and the verse lands an octave above your low F; the final "here" goes back down to it.
 
 ## Questions

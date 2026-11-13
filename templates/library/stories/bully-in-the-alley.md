@@ -109,9 +109,9 @@ Our arrangement is read from Sharp's page, in G as printed, on the harmony of hi
 
 ## Singing it
 
-- [Soprano](/songs/bully-in-the-alley/soprano): you are the shantyman. You sing the refrain's two "So help my bob" lines alone, and in each verse its first line and "Bully in Tinpot alley". Every "So" starts on your low D and every "I'm" jumps to your top D; you reach it again on "our" in verses 1 and 2, on the second "the" in "She's the girl in the alley." and on "in" in every "Bully in Tinpot alley".
+- [Soprano](/songs/bully-in-the-alley/soprano): you are the shantyman. You sing the refrain's two "So help my bob" lines alone, and in each verse its first line and "Bully in Tinpot alley". You sing every answer, and the verses' "So help my bob" line, with everyone. Every "So" starts on your low D and every "I'm" jumps to your top D; you reach it again on "our" in verses 1 and 2, on the second "the" in "She's the girl in the alley." and on "in" in every "Bully in Tinpot alley".
 - [Alto](/songs/bully-in-the-alley/alto): you answer "Way ay bully in the alley" with everyone, and in the verses sing "So help my bob" too, mostly on E, C and D. Each verse's "So" starts on your low A; your top G comes on "ay" in both answers of the opening refrain and in each verse's last answer.
-- [Tenor](/songs/bully-in-the-alley/tenor): you answer with everyone and join "So help my bob" in the verses, most often on G. Your top D comes only once, on "ay" in the opening refrain's second "Way ay", and you drop to a low D on the last "alley." of each verse.
+- [Tenor](/songs/bully-in-the-alley/tenor): you answer with everyone and join "So help my bob" in the verses, most often on G. Your top D comes only once, on "ay" in the opening refrain's second "Way ay", and you drop to a low D on the "-ley" of the last "alley." in each verse.
 - [Bass](/songs/bully-in-the-alley/bass): you sing the bass line under the answers and the verses' "So help my bob", mostly on C and a low G, up to your top E only once, on "ay" in the opening refrain's first "Way ay". Land each "Way" and "bully" with everyone: those are the pulls.
 
 ## Questions

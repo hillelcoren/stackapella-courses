@@ -139,7 +139,7 @@ Terry printed it in 2/4, with no key signature, in D Dorian, a minor-sounding sc
 
 ## Singing it
 
-- [Soprano](/songs/drunken-sailor/soprano): you are the shantyman. Sing "What shall we do with a drunken sailor" alone, then lead the chorus. The third line of each climbs to your top E, on "sailor" and on "rises"; the C-sharp on the way up, in the third "drunken" and the third "she", is the note that makes the tune Dorian.
+- [Soprano](/songs/drunken-sailor/soprano): you are the shantyman. Sing "What shall we do with a drunken sailor" alone, then lead the chorus. The third line of each climbs to your top E, on the "-lor" of the third "sailor" and the "-ses" of the third "rises"; the C-sharp on the way up, in the third "drunken" and the third "she", is the note that makes the tune Dorian.
 - [Alto](/songs/drunken-sailor/alto): you rest through the verse and come in on "Hooray and up she rises", mostly on G and F-sharp, dropping to a low G on "morning".
 - [Tenor](/songs/drunken-sailor/tenor): you come in on the chorus in strong, simple chords, mostly on B and A, rising to D on the third "up" and finishing on E on "morning".
 - [Bass](/songs/drunken-sailor/bass): you sing the chorus mostly on the roots of the chords, E and D above all, and step down to a low G on the third "rises". Keep it steady, like feet on a deck.

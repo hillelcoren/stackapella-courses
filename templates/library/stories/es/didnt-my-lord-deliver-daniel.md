@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: didn't my lord deliver daniel significado | didn't my lord deliver daniel historia | quién escribió didn't my lord deliver daniel | didn't my lord deliver daniel letra en español | and why not every man significado | didn't my lord deliver daniel moses hogan
-translatedFrom: a2dfa0afb273
+translatedFrom: c23eebc908e0
 original: Jubilee Songs (1872), Emory University, Internet Archive | https://archive.org/details/29208201.4853.emory.edu
 ---
 
@@ -128,10 +128,10 @@ Nuestro arreglo toma su melodía y su letra de Jubilee Songs, un tono más arrib
 
 ## Cómo cantarla
 
-- [Soprano](/songs/didnt-my-lord-deliver-daniel/soprano): llevas toda la melodía, construida con solo cinco notas, La, Do, Re, Mi y Sol, sobre todo en el Do y el Re. Cantas sola cada estrofa hasta que las demás voces se unen en su último verso. Tu Mi agudo llega en "Daniel," después de cada "Didn't my Lord deliver" del comienzo y en "why" en el estribillo; tu Sol grave, al comienzo de "deliver" después de "Didn't my Lord".
-- [Contralto](/songs/didnt-my-lord-deliver-daniel/alto): cantas una línea grave y firme, sobre todo en el Do, en el estribillo y en el último verso de cada estrofa, y descansas mientras la soprano canta la estrofa. Subes a tu Mi agudo en el tercer "Daniel," de cada estribillo y en "why not", "Jesus" y "never come" en los últimos versos de las estrofas, y bajas a La en "every" de "And why not a every man?".
-- [Tenor](/songs/didnt-my-lord-deliver-daniel/tenor): te quedas sobre todo en el La, luego en el Sol, y de las estrofas solo cantas su último verso. Tu Mi grave llega en "a" y "man?" de "And why not a every man?", con Fa entre ellos en "every": afina con cuidado ese semitono.
-- [Bajo](/songs/didnt-my-lord-deliver-daniel/bass): cantas las fundamentales, sobre todo un La grave, luego el Do, con Sol bajo el segundo "Daniel". Tu Fa más grave llega en "every" de cada "And why not a every man?" del estribillo. Te unes al último verso de cada estrofa en el La, con Sol solo en "every", "shall" y "back".
+- [Soprano](/songs/didnt-my-lord-deliver-daniel/soprano): llevas toda la melodía, construida con solo cinco notas, La, Do, Re, Mi y Sol, sobre todo en el Do y el Re. Cantas sola cada estrofa hasta que las demás voces se unen en su último verso. Tu Mi agudo llega en "Daniel," después de cada "Didn't my Lord deliver" o "d'liver" y en "why" en el estribillo, y en las estrofas en el "bel-" de "belly", en "fiery", en el "-bear" de "forbear", en el "dis-" y el "ap-" de "disappear,", en el "-gin" de "begin" y en "Canaan's"; tu Sol grave, al comienzo de cada "deliver" o "d'liver" después de "Didn't my Lord".
+- [Contralto](/songs/didnt-my-lord-deliver-daniel/alto): cantas una línea grave y firme, sobre todo en el Do, en el estribillo y en el último verso de cada estrofa, y descansas mientras la soprano canta la estrofa. Subes a tu Mi agudo en el "Dan-" del tercer "Daniel," de cada estribillo y en "why not", "Jesus" y "never come" en los últimos versos de las estrofas, y bajas a La en "every" de "And why not a every man?".
+- [Tenor](/songs/didnt-my-lord-deliver-daniel/tenor): te quedas sobre todo en el La, luego en el Sol, y de las estrofas solo cantas su último verso. En el estribillo, tu Mi grave llega en "a" y "man?" de "And why not a every man?", con Fa entre ellos en "every": afina con cuidado ese semitono. En los últimos versos de las estrofas llega en "And why not" y "man?", "King Jesus" y "mine.", y "And I'll never come" y "more.".
+- [Bajo](/songs/didnt-my-lord-deliver-daniel/bass): cantas las fundamentales, sobre todo un La grave, luego el Do, con Sol bajo el segundo "Daniel" y bajo "not" en "And why not". Tu Fa más grave llega en "every" de cada "And why not a every man?" del estribillo. Te unes al último verso de cada estrofa en el La, con Sol solo en las dos primeras sílabas de "every", en "shall" y en "back".
 
 ## Preguntas
 

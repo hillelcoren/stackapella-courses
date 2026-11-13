@@ -125,7 +125,7 @@ Our arrangement sings verses 1 to 3 for 2 to 4 singers, at a steady working pace
 
 ## Singing it
 
-- [Soprano](/songs/leave-her-johnny/soprano): you are the shantyman. Sing each grumble alone, then lead the answers with everyone. Your top D comes the second time you sing each grumble, on "times", "bread" and "leaking"; the C-sharp just before it is the note that makes the tune dorian.
+- [Soprano](/songs/leave-her-johnny/soprano): you are the shantyman. Sing each grumble alone, then lead the answers with everyone. Your top D comes the second time you sing each grumble, on "times", "bread" and the "leak-" of "leaking"; the C-sharp just before it is the note that makes the tune dorian.
 - [Alto](/songs/leave-her-johnny/alto): you rest through each grumble and come in on the answers, mostly on B. You rise to D on "leave her" at the end of each "Leave her, Johnny, leave her", and on "leave" in "It's time for us to leave her".
 - [Tenor](/songs/leave-her-johnny/tenor): you come in on the answers, mostly on a low E, and rise to B on the last "her" of each "Leave her, Johnny, leave her".
 - [Bass](/songs/leave-her-johnny/bass): you sing the bass of Sharp's chords on the answers, mostly a low G and D, and climb to the G an octave up at the end of each "Leave her, Johnny, leave her".

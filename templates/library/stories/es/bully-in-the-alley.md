@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: bully in the alley significado | qué significa bully in the alley | bully in the alley historia | bully in the alley origen | quién escribió bully in the alley | bully in the alley letra
-translatedFrom: 0640062f6f2d
+translatedFrom: 83dd7fde95c4
 original: Cecil J. Sharp, English Folk-Chanteys (1914), Internet Archive | https://archive.org/details/englishfolkchant00shar
 ---
 
@@ -129,9 +129,9 @@ Nuestro arreglo está tomado de la página de Sharp, en Sol, como en el libro, s
 
 ## Cómo cantarla
 
-- [Soprano](/songs/bully-in-the-alley/soprano): eres el solista (el shantyman). Cantas a solas los dos versos "So help my bob" del estribillo y, en cada estrofa, su primer verso y "Bully in Tinpot alley". Cada "So" empieza en tu Re grave y cada "I'm" salta a tu Re agudo; vuelves a él en "our" en las estrofas 1 y 2, en el segundo "the" de "She's the girl in the alley." y en "in" de cada "Bully in Tinpot alley".
+- [Soprano](/songs/bully-in-the-alley/soprano): eres el solista (el shantyman). Cantas a solas los dos versos "So help my bob" del estribillo y, en cada estrofa, su primer verso y "Bully in Tinpot alley". Cantas con todas las voces cada respuesta y, en las estrofas, el verso "So help my bob". Cada "So" empieza en tu Re grave y cada "I'm" salta a tu Re agudo; vuelves a él en "our" en las estrofas 1 y 2, en el segundo "the" de "She's the girl in the alley." y en "in" de cada "Bully in Tinpot alley".
 - [Contralto](/songs/bully-in-the-alley/alto): respondes "Way ay bully in the alley" con todas las voces y, en las estrofas, también cantas "So help my bob", sobre todo en el Mi, el Do y el Re. El "So" de cada estrofa empieza en tu La grave; tu Sol agudo llega en "ay" en las dos respuestas del estribillo inicial y en la última respuesta de cada estrofa.
-- [Tenor](/songs/bully-in-the-alley/tenor): respondes con todas las voces y te unes a "So help my bob" en las estrofas, con más frecuencia en el Sol. Tu Re agudo llega solo una vez, en "ay" del segundo "Way ay" del estribillo inicial, y bajas a un Re grave en el último "alley." de cada estrofa.
+- [Tenor](/songs/bully-in-the-alley/tenor): respondes con todas las voces y te unes a "So help my bob" en las estrofas, con más frecuencia en el Sol. Tu Re agudo llega solo una vez, en "ay" del segundo "Way ay" del estribillo inicial, y bajas a un Re grave en el "-ley" del último "alley." de cada estrofa.
 - [Bajo](/songs/bully-in-the-alley/bass): cantas la línea del bajo por debajo de las respuestas y del "So help my bob" de las estrofas, sobre todo en el Do y un Sol grave, y subes a tu Mi agudo solo una vez, en "ay" del primer "Way ay" del estribillo inicial. Aterriza en cada "Way" y cada "bully" con todos los demás: esos son los tirones.
 
 ## Preguntas

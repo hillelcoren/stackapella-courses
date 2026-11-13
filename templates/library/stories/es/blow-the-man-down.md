@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow the man down significado | qué significa blow the man down | blow the man down historia | blow the man down origen | quién escribió blow the man down | blow the man down letra
-translatedFrom: 944680bf4a44
+translatedFrom: c153b7866718
 original: Whall, Ships, Sea Songs and Shanties (1913), p. 92, Internet Archive | https://archive.org/details/shipsseasongssha00whal/page/n111/mode/1up
 listen: National Jukebox, grabación de 1914 (popurrí) | https://www.loc.gov/item/jukebox-649564/
 ---
@@ -172,9 +172,9 @@ Nuestro arreglo está tomado de su página, subido de Re a Fa y escrito en 3/4, 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/blow-the-man-down/soprano): eres el solista (el shantyman). Canta sola cada llamada y luego encabeza las respuestas de la tripulación. "Way-ay" son dos notas largas, Do y luego tu Re agudo, un compás entero cada una; el Re agudo vuelve en "town", "meet" y "Kong", y cada respuesta "Give me some time" termina en tu Fa grave.
+- [Soprano](/songs/blow-the-man-down/soprano): eres el solista (el shantyman). Canta sola cada llamada y luego encabeza las respuestas de la tripulación. "Way-ay" son dos notas largas, Do y luego tu Re agudo, un compás entero cada una; el Re agudo vuelve, largo, en "town", "meet" y "Kong", y como nota de paso rápida en el primer verso de la llamada y de cada estrofa: en los dos "the" de la llamada, en "was" y en el "-a-" de "Paradise", y en el "-man" del primer "p'liceman" y en "me". Cada respuesta "Give me some time" termina en tu Fa grave.
 - [Contralto](/songs/blow-the-man-down/alto): entras en las respuestas, en solo tres notas, Mi, Fa y La: La y Fa en "Way-ay", Mi y Fa en "blow the man down", La en todo "Give me some time". En el último "down" de cada "Give me some time" aterrizas en La, por encima de la melodía.
-- [Tenor](/songs/blow-the-man-down/tenor): entras con la tripulación en cada respuesta, sobre todo manteniendo Do: Do y Si bemol en "Way-ay", Sol en "blow the man", de vuelta a Do en "down", y bajas un momento a La en "time".
+- [Tenor](/songs/blow-the-man-down/tenor): entras con la tripulación en cada respuesta, sobre todo manteniendo Do: Do y Si bemol en "Way-ay", Sol en "blow the man", de vuelta a Do en "down", bajas un momento a La en "time" y a Si bemol en el "the" que le sigue.
 - [Bajo](/songs/blow-the-man-down/bass): te sumas al tirón con las fundamentales. Fa en "Way-", bajas a un Si bemol grave en "ay", Do en todo "blow the man down", y luego Fa en todo "Give me some time to blow the man down", con un solo Do en "to".
 
 ## Preguntas

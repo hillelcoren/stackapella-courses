@@ -13,7 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: leave her johnny significado | qué significa leave her johnny | leave her johnny historia | leave her johnny origen | quién escribió leave her johnny | leave her johnny letra
-translatedFrom: 3af257415360
+translatedFrom: 2142d5f0b675
 original: Sharp, English Folk-Chanteys (1914), n.º II, p. 3, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n22/mode/1up
 ---
 
@@ -154,7 +154,7 @@ Nuestro arreglo canta las estrofas 1 a 3 para 2 a 4 cantantes, a un ritmo de tra
 
 ## Cómo cantarla
 
-- [Soprano](/songs/leave-her-johnny/soprano): eres el shantyman. Canta sola cada queja y luego dirige las respuestas con todos. Tu Re agudo llega la segunda vez que cantas cada queja, en "times", "bread" y "leaking"; el Do sostenido justo antes es la nota que hace dórica la melodía.
+- [Soprano](/songs/leave-her-johnny/soprano): eres el shantyman. Canta sola cada queja y luego dirige las respuestas con todos. Tu Re agudo llega la segunda vez que cantas cada queja, en "times", "bread" y el "leak-" de "leaking"; el Do sostenido justo antes es la nota que hace dórica la melodía.
 - [Contralto](/songs/leave-her-johnny/alto): descansas durante cada queja y entras en las respuestas, sobre todo en Si. Subes a Re en "leave her" al final de cada "Leave her, Johnny, leave her", y en "leave" de "It's time for us to leave her".
 - [Tenor](/songs/leave-her-johnny/tenor): entras en las respuestas, sobre todo en un Mi grave, y subes a Si en el último "her" de cada "Leave her, Johnny, leave her".
 - [Bajo](/songs/leave-her-johnny/bass): cantas el bajo de los acordes de Sharp en las respuestas, sobre todo un Sol grave y Re, y subes al Sol una octava más arriba al final de cada "Leave her, Johnny, leave her".

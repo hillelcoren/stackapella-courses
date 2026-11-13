@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: were you there significado | were you there historia | were you there letra en español | quién escribió were you there | were you there when they crucified my lord significado | were you there viernes santo
-translatedFrom: 27e7c2856f9a
+translatedFrom: 5c5e48a49c36
 listen: Internet Archive, grabación de 1920 de los Fisk University Jubilee Singers (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-665185-were-you-there
 original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), p. 162, University of Toronto, Faculty of Music Library | https://archive.org/details/religiousfolkson00hamp/page/n171
 ---
@@ -141,10 +141,10 @@ Nuestro arreglo mantiene la tonalidad de Sol de la página de 1909, a los 68 pul
 
 ## Cómo cantarla
 
-- [Soprano](/songs/were-you-there/soprano): haces sola cada pregunta, empezando en tu Re grave y subiendo por el Sol y el Si, y luego sostienes su última palabra mientras las demás voces hacen eco. Después cantas con todos, sobre todo en el Sol y el Si, subes a tu Mi agudo en "crucified", "nailed", "pierced" y "sun" en la segunda pregunta de cada estrofa y en cada "Sometimes", y bajas otra vez a tu Re grave en el último "tremble,".
-- [Contralto](/songs/were-you-there/alto): callas mientras la soprano pregunta, y luego le haces eco con las notas Si, Do y Si junto con el tenor y el bajo: "were you there?" en las estrofas 1 y 4, "to the tree?" e "in the side?" en las estrofas 2 y 3. Después cantas sobre todo en el Si y el Mi, y solo llegas a tu Si agudo en la segunda pregunta de cada estrofa, en cada "Oh!" y en cada "Sometimes".
-- [Tenor](/songs/were-you-there/tenor): haces el eco con la contralto y el bajo, y bajas a tu Do grave una vez por estrofa, en "you" o en "the". Luego rellenas el centro del acorde, con más frecuencia en el Sol, luego en el Do, y subes a tu Do agudo en "me to tremble," y al final del segundo "tremble", y en "crucified", "nailed", "pierced" o "sun" en el último verso de cada estrofa.
-- [Bajo](/songs/were-you-there/bass): haces el eco con la contralto y el tenor, y luego cantas la línea del bajo, con más frecuencia en un Sol grave, luego en el Do. Una vez por estrofa, en su último verso, subes al Sol una octava más arriba: en "crucified", en "Him" de "nailed Him" y "pierced Him", y en "refused".
+- [Soprano](/songs/were-you-there/soprano): haces sola cada pregunta, empezando en tu Re grave y subiendo por el Sol y el Si, y luego sostienes su última palabra mientras las demás voces hacen eco. Después cantas con todos, sobre todo en el Sol y el Si, subes a tu Mi agudo en el "cru-" de "crucified", en "nailed", "pierced" y "sun" en la segunda pregunta de cada estrofa y en el "Some-" de cada "Sometimes", y bajas otra vez a tu Re grave en el "-ble" del último "tremble,".
+- [Contralto](/songs/were-you-there/alto): callas mientras la soprano pregunta, y luego le haces eco con las notas Si, Do y Si junto con el tenor y el bajo: "were you there?" en las estrofas 1 y 4, "to the tree?" e "in the side?" en las estrofas 2 y 3. Después cantas sobre todo en el Si y el Mi, y solo llegas a tu Si agudo en la segunda pregunta de cada estrofa, en cada "Oh!" y en el "-times" de cada "Sometimes".
+- [Tenor](/songs/were-you-there/tenor): haces el eco con la contralto y el bajo, y bajas a tu Do grave una vez por estrofa, en "you" o en "the". Luego rellenas el centro del acorde, con más frecuencia en el Sol, luego en el Do, y subes a tu Do agudo en "me to tremble," y al final del segundo "tremble", y en el "cru-" de "crucified", en "nailed", "pierced" o "sun" en el último verso de cada estrofa.
+- [Bajo](/songs/were-you-there/bass): haces el eco con la contralto y el tenor, y luego cantas la línea del bajo, con más frecuencia en un Sol grave, luego en el Do. Una vez por estrofa, en su último verso, subes al Sol una octava más arriba: en el "ci-" de "crucified", en "Him" de "nailed Him" y "pierced Him", y en el "re-" de "refused".
 
 ## Preguntas
 

@@ -164,9 +164,9 @@ Nuestro arreglo se lee de Slave Songs of the United States (1867), n.º 31, para
 ## Cómo cantarla
 
 - [Soprano](/songs/michael-row/soprano): llevas la melodía, la llamada a Michael. Son dos versos cortos, cada uno con su Hallelujah de respuesta, así que apréndete la letra y la melodía viene sola.
-- [Contralto](/songs/michael-row/alto): cantas la letra cerca de la melodía, casi siempre en una sola nota, La, y terminas justo por encima de la soprano. Deja que los Hallelujah resuenen: son la respuesta.
+- [Contralto](/songs/michael-row/alto): cantas la letra cerca de la melodía, sobre todo en una sola nota, La, y terminas justo por encima de la soprano. Deja que los Hallelujah resuenen: son la respuesta.
 - [Tenor](/songs/michael-row/tenor): completas el centro del acorde, cantando la letra con los demás.
-- [Bajo](/songs/michael-row/bass): cantas la línea más grave en "oo" (una u), casi siempre en Fa, la base del acorde. Mantenla firme, como una palada de los remos.
+- [Bajo](/songs/michael-row/bass): cantas la línea más grave en "oo" (una u), sobre todo en Fa, la base del acorde. Mantenla firme, como una palada de los remos.
 
 ## Preguntas
 

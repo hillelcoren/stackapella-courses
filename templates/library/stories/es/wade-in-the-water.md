@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: wade in the water significado | wade in the water historia | quién escribió wade in the water | wade in the water harriet tubman | wade in the water letra en español | wade in the water espiritual
-translatedFrom: fd904baa6cda
+translatedFrom: 20f9e28206fa
 original: New Jubilee Songs, segunda edición (1904), páginas 8 y 9, Digital Library of Georgia | https://dlg.usg.edu/record/dlg_aaed_aarl90-001-001-001
 ---
 
@@ -114,10 +114,10 @@ Nuestro arreglo toma la melodía y la letra de la página de 1904, subidas medio
 
 ## Cómo cantarla
 
-- [Soprano](/songs/wade-in-the-water/soprano): llevas la melodía y cantas sola cada verso de la estrofa como llamada. La segunda frase del estribillo, "Wade in the water, children", sube a tu Fa agudo en "wa-" y vuelve a bajar enseguida; canta lo más agudo con suavidad. "God's a-going to trouble the water" baja a tu Do grave en "the".
+- [Soprano](/songs/wade-in-the-water/soprano): llevas la melodía y cantas sola las llamadas de cada estrofa; todos se unen a ti en las respuestas. La segunda frase del estribillo, "Wade in the water, children", sube a tu Fa agudo en "wa-" y vuelve a bajar enseguida; canta lo más agudo con suavidad. "God's a-going to trouble the water" baja a tu Do grave en "the".
 - [Contralto](/songs/wade-in-the-water/alto): cantas el estribillo, luego tarareas en "oo" bajo cada llamada de la estrofa y después te unes a cada respuesta, a menudo una sexta por debajo de la melodía, sobre todo en un La bemol grave.
-- [Tenor](/songs/wade-in-the-water/tenor): cantas sobre todo en una nota, Fa, tarareando bajo las llamadas de la estrofa y uniéndote a cada respuesta. Tu nota más alta es el Do de esa misma frase, y en el último "water" bajas a un Do grave.
-- [Bajo](/songs/wade-in-the-water/bass): mantienes un "doom, ba-doom" constante bajo todo lo demás, una línea grave y rápida en el Fa, el Do y el La bemol, y terminas en un Fa grave sostenido.
+- [Tenor](/songs/wade-in-the-water/tenor): cantas sobre todo en una nota, Fa, tarareando bajo las llamadas de la estrofa y uniéndote a cada respuesta. Tu nota más alta es el Do, en "in the wa-" de "Wade in the water, children", y en el último "water" bajas a un Do grave.
+- [Bajo](/songs/wade-in-the-water/bass): mantienes un "doom, ba-doom" constante bajo todo lo demás, una línea grave y rápida, sobre todo en el Fa, el Do y el La bemol, y terminas en un Fa grave sostenido.
 
 ## Preguntas
 

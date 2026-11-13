@@ -105,10 +105,10 @@ Our arrangement is read from Sharp's page, a tone higher, in D, on the harmony o
 
 ## Singing it
 
-- [Soprano](/songs/haul-on-the-bowline/soprano): you are the shantyman. You sing the call alone, reaching your top E on its first "bowline" and turning quickly through B, C-sharp, B and A on "darling". Each verse climbs from your low D on "Because" to the D an octave up on "foretop" and "maintop", and every "haul" lands on that high D.
+- [Soprano](/songs/haul-on-the-bowline/soprano): you are the shantyman. You sing the call alone, reaching your top E on the "-line" of its first "bowline" and turning quickly through B, C-sharp, B and A on the "dar-" of "darling". Each verse climbs from your low D on "Because" to the D an octave up on the "-top" of "foretop" and "maintop", and every "haul" lands on that high D.
 - [Alto](/songs/haul-on-the-bowline/alto): you rest through the call and the solo lines, then join each verse's last line and the whole last chorus, mostly on F-sharp and G. Your top A comes only once, on "bowline, O" in the last chorus, and you drop to D for "are my darling".
-- [Tenor](/songs/haul-on-the-bowline/tenor): you rest through the call and the solo lines, then sing mostly on A and D. You open verse 1's answer on your low F-sharp, "Haul on the", and reach your top E once, on the last "bowline" before the final "haul".
-- [Bass](/songs/haul-on-the-bowline/bass): you rest through the call and the solo lines, then sing mostly on B, then A and D. You dip to your low G on "darling" in the last chorus, rise to F-sharp on "bowline, the" in its last line, and land every "haul" on D: that is the pull.
+- [Tenor](/songs/haul-on-the-bowline/tenor): you rest through the call and the solo lines, then sing mostly on A and D. You open verse 1's answer on your low F-sharp, "Haul on the", and reach your top E once, on the "-line" of the last "bowline" before the final "haul".
+- [Bass](/songs/haul-on-the-bowline/bass): you rest through the call and the solo lines, then sing mostly on B, then A and D. You dip to your low G on the "dar-" of "darling" in the last chorus, rise to F-sharp on the "-line, the" of "bowline, the" in its last line, and land the last "haul" of each answer on D: that is the pull.
 
 ## Questions
 

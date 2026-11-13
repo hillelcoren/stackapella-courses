@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
-translatedFrom: 2645c455193e
+translatedFrom: b4392568e0b9
 original: Jubilee Songs (1872), página 6, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n8/mode/1up
 listen: National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-128141/
 ---
@@ -134,8 +134,8 @@ Los cantantes del Hampton Institute tenían su propia versión, impresa en Hampt
 
 - [Soprano](/songs/swing-low/soprano): llevas la melodía, hecha con solo cinco notas y centrada en Sol. El segundo "Swing low" de cada estribillo empieza en el Re agudo, y "band", en la estrofa, llega a tu nota más alta, un Mi agudo; luego la línea vuelve a caer al Re grave. Sostén el primer "home" todo su valor en el Re agudo, y deja que el segundo se asiente en Sol.
 - [Contralto](/songs/swing-low/alto): cantas la letra por debajo de la melodía, a menudo una sexta por debajo. "I looked over Jordan, and" se queda en Si todo el rato, así que mantenlo firme y ligero. "Coming for to carry me home" trae tus dos notas fuera de las cinco de la melodía: Do en "to" y luego Fa sostenido cerca del final del verso. Pon ese verso en solo en el reproductor hasta que tengas seguras las dos.
-- [Tenor](/songs/swing-low/tenor): cantas la letra sobre todo en Sol y Si, alternando entre ellas. El primer "Swing low, sweet chariot" es todo en Sol. En el segundo verso de cada estribillo subes por La y Si hasta Do en "chariot", y vuelves a Do en la estrofa, en "what did I" y "coming after". Tu último "home" sube a Re, tu nota más alta, para cerrar la canción.
-- [Bajo](/songs/swing-low/bass): sostienes notas largas y graves en "oo" que vuelven una y otra vez a Sol. El único sitio donde caminas es bajo "A band of angels": una nota nueva en cada pulso, Sol, Do, Sol, Si, Mi y luego Do. En el último verso de la estrofa y de la canción saltas a tu Sol más alto bajo "Coming" y bajas por Re hasta el Sol grave.
+- [Tenor](/songs/swing-low/tenor): cantas la letra sobre todo en Sol y Si, alternando entre ellas. El primer "Swing low, sweet chariot" es todo en Sol. En el segundo "Swing low, sweet chariot" de cada estribillo subes por La y Si hasta Do en las dos primeras sílabas de "chariot", y vuelves a Do en la estrofa, en "what did I" y "coming after", y en "me" del último "carry me home" de cada estribillo y de la estrofa. Tu último "home" sube a Re, tu nota más alta, para cerrar la canción.
+- [Bajo](/songs/swing-low/bass): sostienes notas largas y graves en "oo" que vuelven una y otra vez a Sol. Donde más caminas es bajo "A band of angels": una nota nueva en cada pulso, Sol, Do, Sol, Si, Mi y luego Do. Bajo el segundo "Swing low, sweet chariot" de cada estribillo también cambias de nota en cada palabra: Do, Sol, Re y luego Do. En el último verso de la estrofa y de la canción saltas a tu Sol más alto bajo "Coming" y bajas por Re hasta el Sol grave.
 
 ## Preguntas
 

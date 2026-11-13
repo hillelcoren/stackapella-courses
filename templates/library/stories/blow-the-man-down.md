@@ -143,9 +143,9 @@ Our arrangement is read from his page, moved from D up to F and written in 3/4, 
 
 ## Singing it
 
-- [Soprano](/songs/blow-the-man-down/soprano): you are the shantyman. Sing every call alone, then lead the crew's answers. "Way-ay" is two long notes, C and then your top D, a full bar each; the top D comes back on "town", "meet" and "Kong", and each "Give me some time" answer ends on your low F.
+- [Soprano](/songs/blow-the-man-down/soprano): you are the shantyman. Sing every call alone, then lead the crew's answers. "Way-ay" is two long notes, C and then your top D, a full bar each; the top D comes back, held, on "town", "meet" and "Kong", and as a quick passing note in the first line of the call and of each verse: on both "the"s of the call, on "was" and the "-a-" of "Paradise", and on the "-man" of the first "p'liceman" and on "me". Each "Give me some time" answer ends on your low F.
 - [Alto](/songs/blow-the-man-down/alto): you come in on the answers, on just three notes, E, F and A: A and F on "Way-ay", E and F on "blow the man down", A all through "Give me some time". On the last "down" of each "Give me some time" you land on A, above the tune.
-- [Tenor](/songs/blow-the-man-down/tenor): you come in with the crew on every answer, mostly holding C: C and B-flat on "Way-ay", G on "blow the man", back to C on "down", and a dip to A on "time".
+- [Tenor](/songs/blow-the-man-down/tenor): you come in with the crew on every answer, mostly holding C: C and B-flat on "Way-ay", G on "blow the man", back to C on "down", a dip to A on "time" and to B-flat on the "the" that follows.
 - [Bass](/songs/blow-the-man-down/bass): you haul in on the roots. F on "Way-", down to a low B-flat on "ay", C through "blow the man down", then F through "Give me some time to blow the man down", with one C on "to".
 
 ## Questions

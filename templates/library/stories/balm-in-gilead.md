@@ -116,9 +116,9 @@ Our arrangement, for 2 to 4 singers, keeps Dett's own four parts a whole tone lo
 
 ## Singing it
 
-- [Soprano](/songs/balm-in-gilead/soprano): you carry the tune, mostly on A and C-sharp, and you sing both verses alone. Your top E comes only there: on "discouraged,", "work's" and "Spirit" in the first verse, and on "Peter,", "pray" and "Jesus," in the second. In the refrain you drop to your low E on every "To" in "To heal the sin-sick soul".
-- [Alto](/songs/balm-in-gilead/alto): you rest through both verses and sing Dett's alto in the refrain, mostly on C-sharp and E. Your top note, F-sharp, comes on every "wounded" and "whole," and on the first "soul." of each refrain.
-- [Tenor](/songs/balm-in-gilead/tenor): you rest through both verses and sing the refrain on just three notes, mostly on A. You drop to E on every "in Gilead,", on "Balm" before each "To make the wounded whole" and on the last "soul." of each refrain, and to G-sharp on every "whole,", the "There is a" after it and "sick" in every "sin-sick".
+- [Soprano](/songs/balm-in-gilead/soprano): you carry the tune, mostly on A and C-sharp, and you sing both verses alone. Your top E comes only there: on the "-aged" of "discouraged,", on "work's" and on the "-it" of "Spirit" in the first verse, and on the "-ter" of "Peter,", on "pray" and on the "-sus" of "Jesus," in the second. In the refrain you drop to your low E on every "To" in "To heal the sin-sick soul".
+- [Alto](/songs/balm-in-gilead/alto): you rest through both verses and sing Dett's alto in the refrain, mostly on C-sharp and E. Your top note, F-sharp, comes on the "wound-" of every "wounded", and as the second note of every "whole," and of the first "soul." of each refrain.
+- [Tenor](/songs/balm-in-gilead/tenor): you rest through both verses and sing the refrain on just three notes, mostly on A. You drop to E on every "in Gilead," except its "-ad,", on "Balm" before each "To make the wounded whole" and on the last "soul." of each refrain, and to G-sharp on every "whole,", the "There is a" after it and "sick" in every "sin-sick".
 - [Bass](/songs/balm-in-gilead/bass): you sing the roots of Dett's chords on just two notes, a low A about three quarters of the time and the E above it on every "whole,", the "There is a" after it and every "sin-sick". You rest through both verses.
 
 ## Questions

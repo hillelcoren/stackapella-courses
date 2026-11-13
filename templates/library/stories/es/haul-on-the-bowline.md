@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul on the bowline significado | qué significa haul on the bowline | haul on the bowline historia | haul on the bowline letra | haul on the bowline letra significado | haul on the bowline canción marinera
-translatedFrom: d92ccef42db1
+translatedFrom: dae50911d5af
 original: Sharp, English Folk-Chanteys (1914), n.º XXXVII, p. 42, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n61/mode/1up
 ---
 
@@ -114,10 +114,10 @@ Nuestro arreglo está tomado de la página de Sharp, un tono más arriba, en Re,
 
 ## Cómo cantarla
 
-- [Soprano](/songs/haul-on-the-bowline/soprano): eres el solista (el shantyman). Cantas la llamada en solitario, llegas a tu Mi agudo en su primer "bowline" y pasas rápido por Si, Do sostenido, Si y La en "darling". Cada estrofa sube desde tu Re grave en "Because" hasta el Re una octava más arriba en "foretop" y "maintop", y cada "haul" aterriza en ese Re agudo.
+- [Soprano](/songs/haul-on-the-bowline/soprano): eres el solista (el shantyman). Cantas la llamada en solitario, llegas a tu Mi agudo en el "-line" de su primer "bowline" y pasas rápido por Si, Do sostenido, Si y La en el "dar-" de "darling". Cada estrofa sube desde tu Re grave en "Because" hasta el Re una octava más arriba en el "-top" de "foretop" y "maintop", y cada "haul" aterriza en ese Re agudo.
 - [Contralto](/songs/haul-on-the-bowline/alto): callas durante la llamada y los versos en solitario, y luego te unes al último verso de cada estrofa y a todo el último estribillo, sobre todo en Fa sostenido y Sol. Tu La agudo llega solo una vez, en "bowline, O" del último estribillo, y bajas a Re para "are my darling".
-- [Tenor](/songs/haul-on-the-bowline/tenor): callas durante la llamada y los versos en solitario, y luego cantas sobre todo en La y Re. Abres la respuesta de la estrofa 1 en tu Fa sostenido grave, "Haul on the", y llegas a tu Mi agudo una vez, en el último "bowline" antes del "haul" final.
-- [Bajo](/songs/haul-on-the-bowline/bass): callas durante la llamada y los versos en solitario, y luego cantas sobre todo en Si, luego en La y Re. Bajas a tu Sol grave en "darling" del último estribillo, subes a Fa sostenido en "bowline, the" en su último verso y aterrizas en Re en cada "haul": ese es el tirón.
+- [Tenor](/songs/haul-on-the-bowline/tenor): callas durante la llamada y los versos en solitario, y luego cantas sobre todo en La y Re. Abres la respuesta de la estrofa 1 en tu Fa sostenido grave, "Haul on the", y llegas a tu Mi agudo una vez, en el "-line" del último "bowline" antes del "haul" final.
+- [Bajo](/songs/haul-on-the-bowline/bass): callas durante la llamada y los versos en solitario, y luego cantas sobre todo en Si, luego en La y Re. Bajas a tu Sol grave en el "dar-" de "darling" del último estribillo, subes a Fa sostenido en el "-line, the" de "bowline, the" en su último verso y aterrizas en Re en el último "haul" de cada respuesta: ese es el tirón.
 
 ## Preguntas
 
