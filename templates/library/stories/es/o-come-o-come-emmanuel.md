@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oh ven oh ven emanuel historia | oh ven oh ven emanuel significado | quién escribió o come o come emmanuel | o come o come emmanuel significado | veni veni emmanuel significado | veni veni emmanuel letra en latín
-translatedFrom: 6c8927c58d36
+translatedFrom: 1a35a87cdfb3
 original: The Hymnal Noted, Part II (Londres, 1856; una impresión posterior), página 131, la melodía con el inglés revisado de Neale | https://archive.org/details/bub_gb_2E3Dya5ON5oC/page/n143/mode/1up
 ---
 
@@ -219,9 +219,9 @@ Nuestro arreglo toma la melodía y la letra de la edición revisada de 1875, n.�
 
 ## Cómo cantarla
 
-- [Soprano](/songs/o-come-o-come-emmanuel/soprano): la melodía, con más frecuencia en el Si, luego en el Sol y el La, con tres notas en el "man-" de "Emmanuel" y en el "Is-" de "Israel". Su Re agudo llega solo en el primer "Rejoice!" de cada estribillo; su Re grave cae en el "ra-" de "Israel" y en los "here,", "save," y "night," sostenidos.
+- [Soprano](/songs/o-come-o-come-emmanuel/soprano): la melodía, con más frecuencia en el Si, luego en el Sol y el La, con tres notas en el "man-" de "Emmanuel" y en el "Is-" de "Israel". Su Re agudo llega solo en el primer "Rejoice!" de cada estribillo; su Re grave cae en el "ra-" de cada "Israel", en el "an-" de "tyranny", en el "vent" de "Advent" y en los "here,", "save," y "night," sostenidos.
 - [Contralto](/songs/o-come-o-come-emmanuel/alto): por debajo de la melodía, casi siempre una sexta más abajo, y con más frecuencia en el Do, luego en el Re. Al final del tercer verso de cada estrofa sube a su Fa sostenido agudo en "here,", "save," y "night,", una tercera por encima del Re grave de la melodía, el único lugar donde canta por encima de la melodía.
-- [Tenor](/songs/o-come-o-come-emmanuel/tenor): el centro del acorde, sobre todo en el Sol. Baja a su Mi grave en el "Is-" y el "el" de cada "Israel", y llega a su Do sostenido agudo una vez por estrofa, en "ile", "ple" y "of", justo antes de los "here,", "save," y "night," sostenidos.
+- [Tenor](/songs/o-come-o-come-emmanuel/tenor): el centro del acorde, sobre todo en el Sol. Baja a su Mi grave en muchas notas, entre ellas el "Is-" y el "el" de cada "Israel", y llega a su Do sostenido agudo una vez por estrofa, en "ile", "ple" y "of", justo antes de los "here,", "save," y "night," sostenidos.
 - [Bajo](/songs/o-come-o-come-emmanuel/bass): la línea del bajo, con más frecuencia en el Sol, luego en el Re. Su Sol agudo llega solo en la última nota del primer y el último verso de cada estrofa, y su única nota sostenida, Re sostenido, en el "ly" de "lonely", en "Thy" y en el "my" de "gloomy", y sube a Mi en la nota siguiente.
 
 ## Preguntas

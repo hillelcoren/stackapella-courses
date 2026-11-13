@@ -188,9 +188,9 @@ Our arrangement takes the tune and the words from the Revised Edition of 1875, N
 
 ## Singing it
 
-- [Soprano](/songs/o-come-o-come-emmanuel/soprano): the tune, most often on B, then G and A, with three notes on the "man-" of "Emmanuel" and the "Is-" of "Israel". Its top D comes only on the first "Rejoice!" of each refrain; its low D falls on the "ra-" of "Israel" and the held "here,", "save," and "night,".
+- [Soprano](/songs/o-come-o-come-emmanuel/soprano): the tune, most often on B, then G and A, with three notes on the "man-" of "Emmanuel" and the "Is-" of "Israel". Its top D comes only on the first "Rejoice!" of each refrain; its low D falls on the "ra-" of every "Israel", the "an-" of "tyranny", the "vent" of "Advent" and the held "here,", "save," and "night,".
 - [Alto](/songs/o-come-o-come-emmanuel/alto): under the tune, mostly a sixth below it, and most often on C, then D. At the end of each verse's third line it rises to its top F-sharp on "here,", "save," and "night,", a third above the tune's low D, the only place it sings above the tune.
-- [Tenor](/songs/o-come-o-come-emmanuel/tenor): the middle of the chord, mostly on G. It drops to its low E for the "Is-" and "el" of every "Israel", and reaches its top C-sharp once a verse, on "ile", "ple" and "of", just before the held "here,", "save," and "night,".
+- [Tenor](/songs/o-come-o-come-emmanuel/tenor): the middle of the chord, mostly on G. It drops to its low E on many notes, among them the "Is-" and "el" of every "Israel", and reaches its top C-sharp once a verse, on "ile", "ple" and "of", just before the held "here,", "save," and "night,".
 - [Bass](/songs/o-come-o-come-emmanuel/bass): the bass line, most often on G, then D. Its top G comes only on the last note of each verse's first and last lines, and its only sharp note, D-sharp, on the "ly" of "lonely", "Thy" and the "my" of "gloomy", rising to E on the next note.
 
 ## Questions

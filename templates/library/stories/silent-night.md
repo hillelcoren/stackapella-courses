@@ -199,7 +199,7 @@ Our arrangement sings Young's first verse in C, the key of Hutchins's 1916 print
 - [Soprano](/songs/silent-night/soprano): the tune, slow but wide, from the low C of the last "peace" to the high F on "heav-" in the first "Sleep in heavenly peace". Float that F and breathe after the high "sleep".
 - [Alto](/songs/silent-night/alto): a third below the tune for most of the verse; "Round yon virgin mother and child" and "Holy infant so tender and mild" are the clearest stretches. In the first "Sleep in heavenly peace" it climbs slowly from B to E while the tune leaps to its top F, and on the last "peace" it ends on E, above the tune's low C.
 - [Tenor](/songs/silent-night/tenor): almost all G and C. From "all is bright" to "tender and" it holds one C while the others move: keep it steady and in tune. The few changes are up to D on "calm", down to F on "Sleep in", and a quick E on the last "heav-".
-- [Bass](/songs/silent-night/bass): "oo" on one long note a bar, mostly C, up to F under "Round yon virgin" and "Holy infant", down to the low G under "All is calm" and "Sleep in heavenly". On "child" it rises to E, the only E in the part.
+- [Bass](/songs/silent-night/bass): "oo" on one long note a bar, mostly C, up to F under "Round yon virgin" and "Holy infant", down to the low G under "All is calm", "Sleep in heavenly" and the "-ly" of the last "heavenly". On "child" it rises to E, the only E in the part.
 
 ## Questions
 

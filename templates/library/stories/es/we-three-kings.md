@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: we three kings significado | we three kings historia | quién escribió we three kings | we three kings of orient are significado | we three kings letra en español | villancico de los reyes magos en inglés
-translatedFrom: 3cbf247ab28d
+translatedFrom: 7d57eb6875d6
 original: Carols, Hymns, and Songs, Nueva York, 1863, pp. 12 a 13, Internet Archive | https://archive.org/details/carolshym00hopk/page/n19/mode/1up
 ---
 
@@ -167,8 +167,8 @@ Hopkins lo pensó como un pequeño drama: un trío para los tres reyes, luego ca
 ## Cómo cantarla
 
 - [Soprano](/songs/we-three-kings/soprano): la melodía de Hopkins, con más frecuencia en el Sol, del Re grave al Re agudo, que llega una vez por estrofa, en el "moun-" de "mountain," y en el "Hal-" del segundo "Hallelujah"; cada estribillo baja al Re grave al final de "Wonder," y de "Royal" y en "Thy".
-- [Contralto](/songs/we-three-kings/alto): por debajo de la melodía, con más frecuencia en el Mi, luego en el Si. Debajo de "Orient are," y "traverse afar," sube Re sostenido, Mi, Fa sostenido, Sol, y termina una tercera por encima del Mi de la melodía; en cada estribillo se queda en su Si grave, por debajo del Sol de la melodía.
-- [Tenor](/songs/we-three-kings/tenor): el centro del acorde, con más frecuencia en el Sol, luego en el Si; en la estrofa es una voz nuestra, que sostiene el Si durante los dos primeros versos. Su Re sostenido agudo llega solo en el "der" de "yonder" y en el "re-" de "replies.", y el último "Light." es su Re grave.
+- [Contralto](/songs/we-three-kings/alto): por debajo de la melodía, con más frecuencia en el Mi, luego en el Si. Debajo de "Orient are," y "traverse afar," sube Re sostenido, Mi, Fa sostenido, Sol, y termina una tercera por encima del Mi de la melodía; en cada estribillo vuelve a su Si grave, por debajo del Sol de la melodía, en "Star of Won-", "Night,", "Star with Roy-", "bright,", "Guide us to" y "Light."
+- [Tenor](/songs/we-three-kings/tenor): el centro del acorde, con más frecuencia en el Sol, luego en el Si; en la estrofa es una voz nuestra, que sostiene el Si durante los dos primeros versos, salvo un Sol en "of" y "we" ("be-" y "and"). Su Re sostenido agudo llega solo en el "der" de "yonder" y en el "re-" de "replies.", y el último "Light." es su Re grave.
 - [Bajo](/songs/we-three-kings/bass): las fundamentales de los acordes, con más frecuencia en su Sol grave, luego en el Mi. Sostiene ese Sol grave debajo de "Moor and mountain," y sube a su Sol agudo solo en el "ing," de "Westward leading,".
 
 ## Preguntas

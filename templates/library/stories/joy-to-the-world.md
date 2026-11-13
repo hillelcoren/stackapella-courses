@@ -94,7 +94,7 @@ And Wonders of his Love.
 
 It is a hymn for Christmas Day above all. The Psalter Hymnal Handbook adds that it suits any time of year when Psalm 98 is read [^hymnary-text]. Hymnology Archive calls the pairing of Watts's words with ANTIOCH a staple of Christmas, especially in the United States [^hymnarchive]. In hymnals the tune is ANTIOCH, in common meter (8.6.8.6) with the last line repeated [^mason1848][^hymnary-text]. An Irish hymnal companion of 2005, quoted by Hymnology Archive, noted that hymnals were only lately taking it up, and that only recently had it been sung in the British Isles with anything like American enthusiasm [^hymnarchive].
 
-Our arrangement reads Mason's four parts from The National Psalmist of 1848, page 132, printed in E-flat and sung here a semitone lower, in D, the key of his 1839 printing [^mason1848][^mason1839]. We sing the first verse for 2 to 4 singers, bright and steady. Under "Let ev'ry heart prepare him room" the bass sings Mason's small notes, a held D, while the tenor rests. Four notes are changed so the duet keeps its thirds and the inner parts have no wide leaps.
+Our arrangement reads Mason's four parts from The National Psalmist of 1848, page 132, printed in E-flat and sung here a semitone lower, in D, the key of his 1839 printing [^mason1848][^mason1839]. We sing the first verse for 2 to 4 singers, bright and steady. Under "Let ev'ry heart prepare him room" the bass sings Mason's small notes, staying on D, one note to each syllable, while the tenor rests. Four notes are changed so the duet keeps its thirds and the inner parts have no wide leaps.
 
 ![[3]]
 

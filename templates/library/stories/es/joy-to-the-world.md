@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: joy to the world historia | quién escribió joy to the world | joy to the world es un villancico | joy to the world significado | al mundo paz himno historia | joy to the world händel
-translatedFrom: 423f112b6c9b
+translatedFrom: e3c1a411f681
 listen: Internet Archive, grabación de 1916 | https://archive.org/details/78_joy-to-the-world_the-carol-singers_gbia0132469b || Internet Archive, grabación de 1920 | https://archive.org/details/78_joy-to-the-world_regal-male-quartette-handel_gbia0177355b
 original: Psalms of David Imitated de Watts (1719), Internet Archive | https://archive.org/details/chrtwimi00watt/page/n288/mode/1up
 ---
@@ -111,7 +111,7 @@ y las maravillas de su amor.
 
 Es ante todo un himno para el día de Navidad. El Psalter Hymnal Handbook añade que sirve para cualquier época del año en que se lea el Salmo 98 [^hymnary-text]. Hymnology Archive llama a la unión de la letra de Watts con ANTIOCH un clásico de la Navidad, sobre todo en Estados Unidos [^hymnarchive]. En los himnarios la melodía es ANTIOCH, en métrica común (8.6.8.6) con el último verso repetido [^mason1848][^hymnary-text]. Un comentario de himnario irlandés de 2005, citado por Hymnology Archive, señalaba que los himnarios apenas empezaban a recogerlo, y que solo hacía poco se cantaba en las islas británicas con algo parecido al entusiasmo estadounidense [^hymnarchive].
 
-Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848, página 132, impresas en Mi bemol y cantadas aquí un semitono más abajo, en Re, la tonalidad de su edición de 1839 [^mason1848][^mason1839]. Cantamos la primera estrofa para 2 a 4 cantantes, con brillo y a paso firme. Debajo de "Let ev'ry heart prepare him room" el bajo canta las notas pequeñas de Mason, un Re largo y mantenido, mientras el tenor calla. Hay cuatro notas cambiadas para que el dúo mantenga sus terceras y las voces interiores no tengan saltos amplios.
+Nuestro arreglo toma las cuatro voces de Mason de The National Psalmist de 1848, página 132, impresas en Mi bemol y cantadas aquí un semitono más abajo, en Re, la tonalidad de su edición de 1839 [^mason1848][^mason1839]. Cantamos la primera estrofa para 2 a 4 cantantes, con brillo y a paso firme. Debajo de "Let ev'ry heart prepare him room" el bajo canta las notas pequeñas de Mason, quedándose en Re, una nota por sílaba, mientras el tenor calla. Hay cuatro notas cambiadas para que el dúo mantenga sus terceras y las voces interiores no tengan saltos amplios.
 
 ![[3]]
 

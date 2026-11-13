@@ -137,8 +137,8 @@ Hopkins planned it as a little drama: a trio for the three kings, then each king
 ## Singing it
 
 - [Soprano](/songs/we-three-kings/soprano): Hopkins's tune, most often on G, from the low D to the top D, which comes once a verse, on the "moun-" of "mountain," and the "Hal-" of the second "Hallelujah"; each Chorus dips to the low D at the end of "Wonder," and "Royal" and on "Thy".
-- [Alto](/songs/we-three-kings/alto): under the tune, most often on E, then B. Under "Orient are," and "traverse afar," it climbs D-sharp, E, F-sharp, G, ending a third above the tune's E, and in each Chorus it sits on its low B under the tune's G.
-- [Tenor](/songs/we-three-kings/tenor): the middle of the chord, most often on G, then B; in the verse it is our own, holding B through the first two lines. Its top D-sharp comes only on the "der" of "yonder" and the "re-" of "replies.", and the last "Light." is its low D.
+- [Alto](/songs/we-three-kings/alto): under the tune, most often on E, then B. Under "Orient are," and "traverse afar," it climbs D-sharp, E, F-sharp, G, ending a third above the tune's E, and in each Chorus it comes back to its low B under the tune's G, on "Star of Won-", "Night,", "Star with Roy-", "bright,", "Guide us to" and "Light."
+- [Tenor](/songs/we-three-kings/tenor): the middle of the chord, most often on G, then B; in the verse it is our own, holding B through the first two lines but for a G on "of" and "we" ("be-" and "and"). Its top D-sharp comes only on the "der" of "yonder" and the "re-" of "replies.", and the last "Light." is its low D.
 - [Bass](/songs/we-three-kings/bass): the roots of the chords, most often on its low G, then E. It holds that low G under "Moor and mountain," and climbs to its top G only on the "ing," of "Westward leading,".
 
 ## Questions

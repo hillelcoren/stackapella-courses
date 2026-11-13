@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz en español | noche de paz letra | noche de paz autor y año | noche de paz original en alemán
-translatedFrom: 002cf101e631
+translatedFrom: 5db71e6b47c2
 original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
 listen: Internet Archive, grabación de 1906, en alemán | https://archive.org/details/loc-jukebox-122507-stille-nacht-heilige-nacht || Internet Archive, grabación de 1912, en alemán | https://archive.org/details/loc-jukebox-131775-stille-nacht-heilige-nacht
 ---
@@ -108,7 +108,7 @@ Nuestro arreglo canta las tres estrofas de 1893 para 2 a 4 cantantes, en Do y en
 
 ## Cómo cantarla
 
-- [Soprano](/songs/noche-de-paz/soprano): la melodía, del Do grave al Fa. El Fa agudo llega en el primer "Brilla la estrella" ("buen" en la estrofa 2, "eterno" en la estrofa 3); luego "paz" sostiene un Do y sube ligado a Mi. Dos sílabas llevan ligaduras rápidas de dos notas, "do" en "Todo" y "rre" en "derredor": cántalas con ligereza. El último verso baja desde el Do hasta el Do grave, Do, Sol, Mi, luego sube a Sol y baja Fa, Re, Do.
+- [Soprano](/songs/noche-de-paz/soprano): la melodía, del Do grave al Fa. El Fa agudo llega en "tre" del primer "estrella" ("buen" en la estrofa 2, "ter" de "eterno" en la estrofa 3); luego "paz" sostiene un Do y sube ligado a Mi. Dos sílabas llevan ligaduras rápidas de dos notas, "do" en "Todo" y "rre" en "derredor": cántalas con ligereza. El último verso baja desde el Do hasta el Do grave, Do, Sol, Mi, luego sube a Sol y baja Fa, Re, Do.
 - [Contralto](/songs/noche-de-paz/alto): casi siempre una tercera por debajo de la melodía en el primer, el tercer y el cuarto verso. En el quinto verso sostienes un mismo Si durante cinco sílabas mientras la melodía sube a su Fa. En el último verso cruzas por encima de la melodía en "de" y terminas en Mi, por encima de su Do grave; escucha tu voz sola en el reproductor para sentirlo.
 - [Tenor](/songs/noche-de-paz/tenor): grave y firme, entre Mi y el Do central. El segundo verso baja Sol, Fa, Mi bajo "Todo duerme en derredor"; el tercero y el cuarto se quedan en La, luego en Do. Durante todo el último verso te quedas en Sol mientras las demás voces se mueven.
 - [Bajo](/songs/noche-de-paz/bass): "oo" en notas largas, casi siempre Do. Bajas al Sol grave bajo "Todo duerme" y el primer "Brilla la estrella", subes a Fa bajo "Entre los astros" y "Bella anunciando", y tocas un Mi al final del tercer verso. Al final de cada estrofa caminas Sol, Si, Do hasta el último acorde.

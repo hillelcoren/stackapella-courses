@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
-translatedFrom: 151c70cd3d39
+translatedFrom: c4619473b029
 original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
 ---
 
@@ -298,7 +298,7 @@ Nuestro arreglo es la armonía de Millet, impresa en 1917, un tono más grave, e
 ## Cómo cantarla
 
 - [Soprano](/songs/el-cant-dels-ocells/soprano): cantas todas las palabras, desde el Do central hasta el Fa una octava y una cuarta más arriba. "Al veu-re des-pun-tar" sube desde Do por Fa, Sol, La bemol y Si bemol hasta un Do que sostienes tres tiempos; luego saltas a tu Fa agudo en "lo". En "dit-xo-sa" bajas de Mi becuadro a Re bemol, una segunda aumentada; afínala con el reproductor. Cada "me-lin-dro-sa" cae una quinta hasta el Fa grave.
-- [Contralto](/songs/el-cant-dels-ocells/alto): cantas "oo" (una u) a boca cerrada, entre el Sol por debajo del Do central y el Mi por encima del Do central. Abres la canción con el tenor y el bajo, en un vaivén de Do, Re bemol, Mi bemol, Do, dos veces. Bajo la última sílaba de "dit-xo-sa" subes a tu Mi becuadro agudo y repites el giro de la melodía, Mi, Re bemol, Do, un compás después de la soprano y una octava más grave. Bajo "los au-cel-lets can-tant" oscilas entre Re bemol y Mi bemol en cada tiempo.
+- [Contralto](/songs/el-cant-dels-ocells/alto): cantas "oo" (una u) a boca cerrada, entre el Sol por debajo del Do central y el Mi por encima del Do central. Abres la canción con el tenor y el bajo, en un vaivén de Do, Re bemol, Mi bemol, Do, dos veces. Bajo la última sílaba de "dit-xo-sa" subes a tu Mi becuadro agudo y repites el giro de la melodía, Mi, Re bemol, Do, un compás después de la soprano y una octava más grave. Bajo "los au-cel-lets can-tant" sostienes Mi bemol en "los" y luego oscilas entre Re bemol y Mi bemol en cada tiempo.
 - [Tenor](/songs/el-cant-dels-ocells/tenor): cantas "oo" (una u) a boca cerrada, del Do por debajo del Do central al Do central. Bajo "los au-cel-lets can-tant" subes Fa, La becuadro, Si bemol hasta tu Do agudo. Bajo "-dro-sa" bajas de Fa a Mi becuadro y vuelves; afina ese semitono.
 - [Bajo](/songs/el-cant-dels-ocells/bass): cantas "oo" (una u) a boca cerrada, del Fa grave al Fa una octava más arriba. Durante la entrada y los dos primeros versos sostienes una sola nota, el Fa de arriba, hasta la respiración antes de "-nar" de "llu-mi-nar"; luego bajas por Mi bemol, Re bemol y Do hasta "dit-xo-sa", y subes de Sol a Do bajo "fes-te-jar-lo van ab sa veu".
 

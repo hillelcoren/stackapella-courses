@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
-translatedFrom: b0c26d0d14f9
+translatedFrom: 262809ece1a8
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-761693/
 original: Autógrafo de Joseph Mohr, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
@@ -218,7 +218,7 @@ Nuestro arreglo canta la primera estrofa de Young en Do, la tonalidad de la edic
 - [Soprano](/songs/silent-night/soprano): la melodía, lenta pero amplia, desde el Do grave del último "peace" hasta el Fa agudo de "heav-" en el primer "Sleep in heavenly peace". Deja flotar ese Fa y respira después del "sleep" agudo.
 - [Contralto](/songs/silent-night/alto): una tercera por debajo de la melodía en casi toda la estrofa; "Round yon virgin mother and child" y "Holy infant so tender and mild" son los tramos más claros. En el primer "Sleep in heavenly peace" sube despacio de Si a Mi mientras la melodía salta a su Fa más agudo, y en el último "peace" termina en Mi, por encima del Do grave de la melodía.
 - [Tenor](/songs/silent-night/tenor): casi todo Sol y Do. Desde "all is bright" hasta "tender and" sostiene un mismo Do mientras las demás voces se mueven: mantenlo firme y afinado. Los pocos cambios son la subida a Re en "calm", la bajada a Fa en "Sleep in" y un Mi rápido en el último "heav-".
-- [Bajo](/songs/silent-night/bass): "oo" en una nota larga por compás, casi siempre Do, sube a Fa debajo de "Round yon virgin" y "Holy infant", y baja al Sol grave debajo de "All is calm" y "Sleep in heavenly". En "child" sube a Mi, el único Mi de la voz.
+- [Bajo](/songs/silent-night/bass): "oo" en una nota larga por compás, casi siempre Do, sube a Fa debajo de "Round yon virgin" y "Holy infant", y baja al Sol grave debajo de "All is calm", de "Sleep in heavenly" y del "-ly" del último "heavenly". En "child" sube a Mi, el único Mi de la voz.
 
 ## Preguntas
 

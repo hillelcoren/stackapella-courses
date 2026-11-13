@@ -123,7 +123,7 @@ Our arrangement sings all three 1893 verses for 2 to 4 singers, in C and in 6/8,
 
 ## Singing it
 
-- [Soprano](/songs/noche-de-paz/soprano): the tune, from low C up to F. The top F comes on the first "Brilla la estrella" ("buen" in verse 2, "eterno" in verse 3); then "paz" holds C and slurs up to E. Two syllables carry quick two-note slurs, "do" in "Todo" and "rre" in "derredor": keep them light. The last line comes down from C to the low C, C, G, E, then up to G and down F, D, C.
+- [Soprano](/songs/noche-de-paz/soprano): the tune, from low C up to F. The top F comes on "tre" in the first "estrella" ("buen" in verse 2, "ter" in "eterno" in verse 3); then "paz" holds C and slurs up to E. Two syllables carry quick two-note slurs, "do" in "Todo" and "rre" in "derredor": keep them light. The last line comes down from C to the low C, C, G, E, then up to G and down F, D, C.
 - [Alto](/songs/noche-de-paz/alto): mostly a third below the tune in the first, third and fourth lines. In the fifth line you hold one B for five syllables while the tune climbs to its F. In the last line you cross above the tune on "de" and end on E, above its low C; solo it in the player to feel that.
 - [Tenor](/songs/noche-de-paz/tenor): low and steady, between E and middle C. The second line steps down G, F, E under "Todo duerme en derredor"; the third and fourth sit on A, then C. Through the whole last line you stay on G while everyone else moves.
 - [Bass](/songs/noche-de-paz/bass): "oo" on long notes, mostly C. You drop to the low G under "Todo duerme" and the first "Brilla la estrella", rise to F under "Entre los astros" and "Bella anunciando", and touch E at the end of the third line. At each verse's end you walk G, B, C into the last chord.
