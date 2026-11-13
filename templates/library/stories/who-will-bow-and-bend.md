@@ -17,6 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who will bow and bend | who will bow and bend like a willow | who will bow and bend like a willow lyrics
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 Who Will Bow and Bend Like a Willow, often shortened to Who Will Bow and Bend, is a brisk worship song of the Shakers, a community that "worshiped with their own unique songs and dances" [^shakermuseum][^andrews]. Its first strain asks who will bow and bend like a willow and turn and twist and reel in the wind of "simple freedom". The second asks who will drink "the wine of power", which it calls "Mother's wine", and the third answers: "O ho I will have it" [^hazzard][^andrews]. Its maker is unknown: Mary Hazzard copied it into her songbook unsigned and undated, near songs of early 1847 [^hazzard][^hazzardbook]. Edward Deming Andrews printed its words in 1937 and its tune in 1940, placing its start at Canterbury, New Hampshire, about 1843 [^andrews1937][^andrews].
@@ -24,6 +25,8 @@ Who Will Bow and Bend Like a Willow, often shortened to Who Will Bow and Bend, i
 ## Where it comes from
 
 **The revival.** The song belongs to the great Shaker revival that broke out in the fall of 1837, which the Shakers called Mother Ann's Work after their founder, Mother Ann Lee. In it worshippers received "gift songs" they believed came from the spirit world [^andrews][^wintcoll]. Andrews put its most fantastic years between 1842 and 1845. At the outdoor feasts of those years, he tells, worshippers shouted, staggered and bowed low, and in many songs the singers acted the words out, some of them reeling "as if intoxicated" [^andrews]. Andrews counted union, "freedom from bondage" and humility among the themes the songs of the 1840s kept coming back to, and this song names union and bondage outright and acts out the humility [^andrews].
+
+![[1]]
 
 **Canterbury.** Andrews's note on the song says it originated "about 1843 at the Canterbury community" and appears to have spread widely, and that several New Lebanon songbooks copy it, sometimes as "Laughing John's Interrogatory" [^andrews]. Canterbury was a Shaker village in New Hampshire [^andrews][^shakers-canterbury]. In the same note, which quotes Henry C. Blinn's account of the revival, "Laughing John" was a "simple-minded" spirit "manifested in a medium". His laugh, Blinn wrote, "was passed from one to another, till the whole body, young and old, would burst out with one merry peal of laughter" [^andrews][^blinn].
 
@@ -46,6 +49,8 @@ Who Will Bow and Bend Like a Willow, often shortened to Who Will Bow and Bend, i
 ## What the words mean
 
 **First strain.** "Who will bow and bend like a willow, who will turn and twist and reel?" Each verb is a movement of the revival's worship [^andrews]. A willow bends low in the wind and springs back. To "reel" is to whirl, or to stagger as if drunk; Hazzard spells it "real" [^hazzard]. The wind here is a "gale of simple freedom", blowing from "the bower of union". A gale is a strong wind and a bower a leafy shelter. The Shakers' Summary View of 1848 says humility is needed to keep "the union and harmony of the church of God" [^summaryview]. And "simple" names a virtue, since the same book counts simplicity among its twelve Christian virtues [^summaryview][^andrews].
+
+![[2]]
 
 **Second strain.** "Who will drink the wine of power, dropping down like a shower?" In the revival, spirits brought gifts that existed only in vision: fruit, robes, and "the wine of Mothers love", Mother being Mother Ann [^andrews][^andrews1937]. A Shaker account quoted by Andrews says the gift of spiritual wine made those who drank it "stagger and reel like drunken people" [^andrews]. A "drinking" song from New Gloucester, Maine, that Andrews prints sings almost the same picture: "Ho, ho I've been a-drinking out of Mothers good wine", which "sets me turning, twisting, reeling" [^andrews]. So "Mother's wine is freely working" pictures that wine at work in the singers, as new wine works, or ferments, and with it comes "pride and bondage all forgetting". A Canterbury hymn printed in 1852, "Precious Counsel", asks the same of its singers: "O brethren and sisters, be humble and low, O live in sweet union" [^sacredrep].
 

@@ -14,8 +14,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: o the beautiful treasures | o the beautiful treasure canción shaker | qué son las canciones shaker | canciones shaker significado | haceos tesoros en el cielo significado | haceos tesoros en el cielo versículo
-original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95 || Edward D. Andrews, The Gift to Be Simple (1940), p. 133, n.º 66, Internet Archive | https://archive.org/details/gifttobesimpleso027839mbp/page/n164
-translatedFrom: 254a8763c625
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
+translatedFrom: a98124e6d903
 ---
 
 O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su manuscrito, es una breve canción shaker en tonalidad menor. Sus dos breves secciones alaban un tesoro guardado para los sabios, más brillante que los diamantes en la frente de un príncipe. Mary Hazzard, una hermana shaker de New Lebanon, Nueva York, la copió en su cancionero manuscrito hacia 1849 y la firmó "Holy Ground", que el historiador Edward Deming Andrews da como el nombre que los shakers daban a Canterbury, Nuevo Hampshire [^hazzard][^andrews]. No se nombra a ningún autor [^hazzard]. Su imagen del tesoro guardado recuerda las palabras de Jesús sobre hacerse tesoros en el cielo, una imagen que los shakers cantaron una y otra vez [^kjv-bg][^kjv-pg][^hazzardbook][^andrews]. En 1940, Andrews la imprimió en su libro de canciones shakers con el título "Oh the Beautiful Treasures" [^andrews].
@@ -45,6 +45,8 @@ O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su m
 ## Qué dice la letra
 
 **"O the beautiful treasure laid up for the wise."** "Lay up" algo es guardarlo para más adelante. El verso recuerda las palabras de Jesús en el Sermón del Monte, que en la Biblia King James dicen "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni polilla ni orín corrompe), en Mateo 6:20, con la advertencia de que "where your treasure is, there will your heart be also" (donde estuviere vuestro tesoro, allí estará vuestro corazón) [^kjv-bg][^kjv-pg]. "The wise", los sabios, quizá sea un eco de Proverbios, donde "There is treasure to be desired and oil in the dwelling of the wise" (Tesoro codiciable y pingüe hay en la casa del sabio), en Proverbios 21:20 [^kjv-bg][^kjv-pg]. La canción no cita ninguno de los dos versículos, así que son ecos, no fuentes.
+
+![[1]]
 
 **"How precious the value, how glorious the prize."** El tesoro es también un premio, una recompensa. Muchas de las canciones de don que reunió Andrews, canciones que, según los shakers, se recibían del mundo espiritual, hablan de esa recompensa; una cantada en New Lebanon en 1839 empieza "O what a pretty treasure Mother has for every one" (qué tesoro tan bonito tiene Madre para cada uno) [^andrews]. En el libro de Hazzard, una canción de Canterbury hace la misma pareja: su tesoro es "The greatest prize that can be found" (el mayor premio que se puede encontrar) [^hazzardbook].
 

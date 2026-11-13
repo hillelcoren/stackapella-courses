@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: false
 searches: i am filled with heavenly treasures | heavenly treasures canción shaker | qué son las canciones shaker | canciones de don shakers | haceos tesoros en el cielo significado
 translatedFrom: 3192010535b4
-original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (comenzado en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 I Am Fill'd with Heavenly Treasures, que también se escribe I Am Filled with Heavenly Treasures, es una breve canción shaker de alegría. Tiene un solo verso de letra y luego "Praise, praise, praise, praise" (alabanza), cada uno escrito dos veces, y cada línea termina en una serie de notas sin letra [^hazzard]. Mary Hazzard la copió en su cancionero manuscrito con la nota de que fue "Sung by Jack thro Abram P. on the holy Mount" (cantada por Jack a través de Abram P. en el monte santo) el 30 de agosto; la canción que tiene encima en la página da el año, 1847 [^hazzard]. Para los shakers, eso significaba que un espíritu llamado Jack la había cantado a través de un médium, Abraham Perkins, de Enfield, Nuevo Hampshire [^andrews][^enfield]. Sus "heavenly treasures", tesoros celestiales, recuerdan las palabras de Jesús sobre hacerse "treasures in heaven", tesoros en el cielo [^kjv-bg][^kjv-pg].

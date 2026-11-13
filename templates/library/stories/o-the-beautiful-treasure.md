@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: o the beautiful treasures | o the beautiful treasure shaker song | what are shaker songs | shaker songs meaning | lay up treasures in heaven meaning | lay up treasures in heaven bible verse
-original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95 || Edward D. Andrews, The Gift to Be Simple (1940), p. 133, No. 66, Internet Archive | https://archive.org/details/gifttobesimpleso027839mbp/page/n164
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 O the Beautiful Treasure, headed "Valuable Riches" in its manuscript, is a short Shaker song in a minor key. Its two short strains praise a treasure laid up for the wise, brighter than the diamonds on a prince's brow. Mary Hazzard, a Shaker sister at New Lebanon, New York, copied it into her handwritten songbook about 1849 and signed it "Holy Ground", which the historian Edward Deming Andrews gives as the Shakers' name for Canterbury, New Hampshire [^hazzard][^andrews]. No maker is named [^hazzard]. Its picture of stored-up treasure echoes Jesus's saying about laying up treasures in heaven, an image the Shakers sang about again and again [^kjv-bg][^kjv-pg][^hazzardbook][^andrews]. In 1940 Andrews printed it in his book of Shaker songs as "Oh the Beautiful Treasures" [^andrews].
@@ -44,6 +44,8 @@ O the Beautiful Treasure, headed "Valuable Riches" in its manuscript, is a short
 ## What the words mean
 
 **"O the beautiful treasure laid up for the wise."** To lay something up is to store it away for later. The line recalls Jesus's words in the Sermon on the Mount, which in the King James Bible read "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (Matthew 6:20), with the warning that "where your treasure is, there will your heart be also" [^kjv-bg][^kjv-pg]. "The wise" may echo Proverbs, where "There is treasure to be desired and oil in the dwelling of the wise" (Proverbs 21:20) [^kjv-bg][^kjv-pg]. The song quotes neither verse, so these are echoes, not sources.
+
+![[1]]
 
 **"How precious the value, how glorious the prize."** The treasure is also a prize, a reward. Many of the gift songs Andrews gathered speak of such a reward; one sung at New Lebanon in 1839 begins "O what a pretty treasure Mother has for every one" [^andrews]. In Hazzard's book a Canterbury song makes the same pairing: its treasure is "The greatest prize that can be found" [^hazzardbook].
 
