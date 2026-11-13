@@ -13,13 +13,14 @@ alsoKnownAs: Michael Row de Boat Ashore; Michael Haul the Boat Ashore; Michael
 wikidata: Q6833997
 quote: I know only one pure boat-song, the fine lyric, "Michael row the boat ashore".
 quoteSource: slavesongs
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote michael row the boat ashore | michael row the boat ashore meaning | michael row the boat ashore meaning hallelujah | michael row the boat ashore meaning in the bible | michael row the boat ashore spiritual meaning | michael row the boat ashore history
+original: Slave Songs of the United States (1867), page 23, Smithsonian Libraries | https://archive.org/details/slavesongsofunit00alle/page/n82
 ---
 
-Michael, Row the Boat Ashore is a spiritual, a song made by enslaved African Americans. Its home is the Sea Islands of South Carolina, where Black oarsmen sang it as they rowed. During the Civil War, Charles Pickard Ware wrote it down in the Port Royal islands, probably at Coffin's Point on St. Helena Island, and its earliest known printing is No. 31 in Slave Songs of the United States (1867) [^scan31][^slavesongs][^place2019]. Its first line calls on Michael to row the boat ashore, and every line is answered the same way: "Hallelujah!" [^scan31]. In the 1950s the folk revival took it up, and in 1961 a recording of it topped the charts in the United States and Britain [^place2019][^stereogum][^officialcharts].
+Michael, Row the Boat Ashore is a spiritual, a song made by enslaved African Americans. Its home is the Sea Islands of South Carolina, where Black oarsmen sang it as they rowed. During the Civil War, Charles Pickard Ware wrote it down in the Port Royal islands, probably at Coffin's Point on St. Helena Island, and its earliest known printing is No. 31 in Slave Songs of the United States (1867) [^scan31][^slavesongs][^place2019]. Its first line calls on Michael to row the boat ashore, and every line is answered the same way: "Hallelujah!" [^scan31]. In the 1950s the folk revival took it up, and in 1961 a recording of it topped the charts in the United States and Britain [^place2019][^stereogum][^officialcharts][^number1s].
 
 ## Where it comes from
 
@@ -29,15 +30,15 @@ Michael, Row the Boat Ashore is a spiritual, a song made by enslaved African Ame
 
 Ware also left a note on how the rowers used the songs. "As I have written these tunes," he wrote, "two measures are to be sung to each stroke", the first marked by the beginning of the stroke and the second by the rattle of the oars in the rowlocks. He listed "Michael row" among the songs "used when the load was heavy or the tide was against us" [^slavesongs].
 
-**The book.** Slave Songs was published in New York by A. Simpson & Co. in 1867. Its editors were Allen (1830 to 1889), Ware and Lucy McKim Garrison, all from the North; Allen and Ware had come south with the mission [^slavesongs][^uscpress][^pearson1906]. Allen worked on St. Helena from late 1863 to mid-1864 [^uscpress][^slavesongs]. In his introduction he wrote that the islanders used the same songs for rowing as for the shout, the dance of worship held in the praise house after a meeting. He knew "only one pure boat-song", this one, and had "no doubt" it was "a real spiritual", because it is the archangel Michael who is addressed [^slavesongs].
+**The book.** Slave Songs was published in New York by A. Simpson & Co. in 1867. Its editors were Allen (1830 to 1889), Ware and Lucy McKim Garrison, three white Northerners; Allen and Ware had come south with the mission, so the songs reached print as outsiders heard them [^slavesongs][^uscpress][^pearson1906][^dbcs]. Allen worked on St. Helena from late 1863 to mid-1864 [^uscpress][^slavesongs]. In his introduction he wrote that the islanders used the same songs for rowing as for the shout, the dance of worship held in the praise house after a meeting. He knew "only one pure boat-song", this one, and had "no doubt" it was "a real spiritual", because it is the archangel Michael who is addressed [^slavesongs].
 
 **The page.** No. 31 stands on page 23 of the first edition, headed "MICHAEL ROW THE BOAT ASHORE." with no composer and no collector's name [^scan31]. The book's table of contents credits it "Port Royal Islands. C. P. W.", Ware's initials [^slavesongs][^pearson1906]. Nobody knows who made it, and the words and the tune share this earliest known printing. The tune is in E-flat, in 2/4 time, on two short lines of music. Under the first is "1. Michael row de boat a-shore, Hal-le-lu-jah!"; the second, "2. Mich-ael boat a gos-pel boat, Hal-le-lu-jah!", is printed in two parts, with two notes on most beats [^scan31]. Lines 3 to 22 follow as words only, onto page 24; the only note is the gloss "(there)" after "deh" in line 3. Then come seven "Words from Hilton Head", beginning "Michael haul the boat ashore" [^scan31]. The editors set one set of words to each tune and left singers to fit the rest, as the islanders did [^slavesongs].
 
-The song sits inside Ware's collection, Nos. 1 to 43, made chiefly at Coffin's Point, and in the middle of a run, Nos. 27 to 33, that the introduction counts among "the most common rowing tunes" [^slavesongs][^scan31].
+The song sits inside Ware's collection, Nos. 1 to 43, and in the middle of a run, Nos. 27 to 33, that the introduction counts among "the most common rowing tunes" [^slavesongs][^scan31].
 
-**The revival.** In the mid-1950s a Boston folk singer found the song in the 1867 book. By his own account he put rhyming couplets from other African American songs in place of the old lines, for the teenagers at the summer work camp where he led the singing, and taught it to Pete Seeger [^kopp][^place2019]. So many verses sung today are not the 1867 ones: lines such as "Michael boat a gospel boat" and "Sister, help for trim dat boat" are the older words [^kopp][^scan31]. Seeger recorded it in 1956 on the Folkways album With Voices Together We Sing [^fa2452][^place2019]. In 1961 a recording by a folk group of Wesleyan University students, shortened to "Michael", reached number one in the United States in September, and in Britain too [^stereogum][^wesleyan][^officialcharts].
+**The revival.** In the mid-1950s a Boston folk singer found the song in the 1867 book. By his own account he put rhyming couplets from other African American songs in place of the old lines, for the teenagers at the summer work camp where he led the singing, and taught it to Pete Seeger [^kopp][^place2019]. So many verses sung today are not the 1867 ones: lines such as "Michael boat a gospel boat" and "Sister, help for trim dat boat" are the older words [^kopp][^scan31]. Seeger recorded it in 1956 on the Folkways album With Voices Together We Sing [^fa2452][^place2019]. In 1961 a recording by a folk group of Wesleyan University students, shortened to "Michael", reached number one in the United States in September, and in Britain too [^stereogum][^wesleyan][^officialcharts][^number1s].
 
-**Myth and record.** Often told: the Bible makes Michael the ferryman of souls. What the record shows: no verse of the Bible puts Michael in a boat, and the 1867 book says only that it is the archangel who is addressed [^kjv][^slavesongs]. The ferryman is a later reading. The Smithsonian's notes to Seeger's recording call Michael the archangel "who ferries the souls of the dead", and Catholic tradition gives him the office of bringing souls to judgment [^place2019][^catholicenc].
+**Myth and record.** Often told: Michael is the ferryman who carries the souls of the dead across the river. The Smithsonian's notes to Seeger's recording call him the archangel "who ferries the souls of the dead" [^place2019]. What the record shows: no verse of the Bible puts Michael in a boat, and the 1867 book says only that it is the archangel who is addressed [^kjv][^slavesongs]. Catholic tradition gives him the office of bringing souls to judgment, but no boat [^catholicenc]. The ferryman joins that office to the rowers' own boat: it is a reading of the song, not something the song or the Bible says.
 
 ### Timeline
 
@@ -46,13 +47,13 @@ The song sits inside Ware's collection, Nos. 1 to 43, made chiefly at Coffin's P
 - 1864: William Francis Allen, working on St. Helena, hears the islanders' songs at the church on the Fourth of July [^uscpress][^slavesongs]
 - 1867: Earliest known printing, No. 31 in Slave Songs of the United States, from Ware's collection [^scan31][^slavesongs]
 - 1956: Pete Seeger records it for Folkways [^fa2452][^place2019]
-- 1961: A college folk group's recording reaches number one in the United States and Britain [^stereogum][^officialcharts]
+- 1961: A college folk group's recording reaches number one in the United States and Britain [^stereogum][^officialcharts][^number1s]
 
 ## What the words mean
 
 The book spells the words as its editors heard the Sea Island speech. "De" is "the", "deh" is "there" (the book glosses it itself), "gwine" is "going", "mudder" and "fader" are "mother" and "father", "brudder" is "brother", "riber" is "river", "neber" is "never", "t' oder" is "the other", and "maussa" is "master" [^scan31].
 
-**Lines 1 and 2, the ones with music.** The singer calls on Michael to row the boat to shore. In the Bible he is an archangel and "the great prince" who stands for his people [^kjv][^catholicenc]. His boat is "a gospel boat": a boat of the gospel, the good news. Each line ends in "Hallelujah", a Hebrew word that means "praise the Lord" [^zondervan][^alleluia].
+**Lines 1 and 2, the ones with music.** The singer calls on Michael to row the boat to shore. In the Bible he is an archangel and "the great prince" who stands for his people [^kjv][^catholicenc]. His boat is "a gospel boat": a boat of the gospel, the good news. Each line ends in "Hallelujah", a Hebrew word that means "praise the Lord"; the King James Bible renders it "Praise ye the LORD" (Psalm 146:1) [^zondervan][^jewishenc][^kjv].
 
 **Lines 3 to 7.** The singer wonders where their mother is, then sees her "on de rock gwine home", going home in Jesus' name. Michael's boat becomes "a music boat", and the angel Gabriel blows the trumpet [^scan31].
 
@@ -113,11 +114,11 @@ Trumpet sound for you and me.
 
 Most island songs served both for rowing and for the shout. This one, Allen wrote, was the exception: a pure boat-song, sung at the oars [^slavesongs].
 
-It is a call and an answer. The book describes how the islanders sang: a leader starts the words of each verse, often making them up, and the others "base" him, coming in on the refrain. The basers come and go as they please, sometimes an octave above or below or on another note of the chord, "and yet with the most perfect time" [^slavesongs]. In this song the answer is "Hallelujah!" Allen added that there was "no singing in parts, as we understand it" [^slavesongs].
+It is a call and an answer. The book describes how the islanders sang: a leader starts the words of each verse, often making them up, and the others "base" him, coming in on the refrain. The basers come and go as they please, sometimes an octave above or below or on another note of the chord, "and yet with the most perfect time" [^slavesongs]. In this song the answer is "Hallelujah!" Allen added that there was "no singing in parts as we understand it" [^slavesongs].
 
 This is a folk spiritual, made and sung at the oars and written down by visitors. The concert spiritual came later. From October 1871 the Fisk Jubilee Singers of Fisk University in Nashville toured, and their concert spirituals made the songs known to wide audiences [^amheritage][^tnenc].
 
-Our arrangement is read from Slave Songs of the United States (1867), No. 31, for 2 to 4 singers. It sings the two lines printed with music, "de" sung as "the"; where line 2 is printed in two parts, our tune takes the lower. The soprano sings the tune, and the alto, tenor and bass sing with it. The harmony is ours: the islanders' way was a leader and a crowd answering, as the book describes [^slavesongs].
+Our arrangement is read from Slave Songs of the United States (1867), No. 31, for 2 to 4 singers. It sings the two lines printed with music, "de" sung as "the"; where line 2 is printed in two parts, our tune takes the lower. It is in F, a tone higher than the book's E-flat [^scan31]. The soprano sings the tune, and the alto, tenor and bass sing with it. The harmony is ours: the islanders' way was a leader and a crowd answering, as the book describes [^slavesongs].
 
 ## Did you know?
 
@@ -155,9 +156,10 @@ The soprano sings the tune, the call to Michael; the alto, tenor and bass sing w
 
 - [^scan31]: William Francis Allen, Charles Pickard Ware and Lucy McKim Garrison, eds., *Slave Songs of the United States*, first edition (New York: A. Simpson & Co., 1867), No. 31, "Michael Row the Boat Ashore", pp. 23 and 24 (scan leaves n82 and n83); Smithsonian Libraries copy, item 39088002074508 (OCLC 1157236115), Internet Archive item slavesongsofunit00alle, scan. https://archive.org/details/slavesongsofunit00alle/page/n82
 - [^slavesongs]: William Francis Allen, Charles Pickard Ware and Lucy McKim Garrison, eds., *Slave Songs of the United States*, first edition (New York: A. Simpson & Co., 1867), introduction, pp. i to v, x, xiii, xvi, xvii and xxxvi, and contents, p. xl; Smithsonian Libraries copy, Internet Archive item slavesongsofunit00alle, scan. https://archive.org/details/slavesongsofunit00alle
-- [^sar1889]: *The Scottish Art Review*, vol. 2 (1889), p. 214, "Michael Row the Boat Ashore" (scan leaf n251); Internet Archive item scottishartrevie02unse, scan. https://archive.org/details/scottishartrevie02unse/page/n251
+- [^sar1889]: J. A. S., "Negro Songs", *The Scottish Art Review*, vol. 2 (Elliot Stock, 1889), from p. 213, the song on p. 214 (scan leaf n251); Glasgow School of Art Library copy, Internet Archive item scottishartrevie02unse, scan. https://archive.org/details/scottishartrevie02unse/page/n251
 - [^pearson1906]: Elizabeth Ware Pearson, ed., *Letters from Port Royal, Written at the Time of the Civil War* (Boston: W. B. Clarke Company, 1906), letter of T. E. R. to C. P. W., 21 May 1867, with the editor's note, and the note on Coffin's Point to E. S. P.'s letter of 1 January 1865. https://www.gutenberg.org/ebooks/24722
 - [^uscpress]: James Robert Hester, ed., *A Yankee Scholar in Coastal South Carolina: William Francis Allen's Civil War Journals* (University of South Carolina Press, 2015), publisher's description. https://uscpress.com/A-Yankee-Scholar-in-Coastal-South-Carolina
+- [^dbcs]: Meyer Reinhold, "Allen, William Francis", *Database of Classical Scholars* (Rutgers, The State University of New Jersey). https://dbcs.rutgers.edu/all-scholars/8508-allen-william-francis
 - [^nps]: National Park Service, Reconstruction Era National Historical Park, *Education during the Port Royal Experiment*. https://home.nps.gov/articles/000/education-during-the-port-royal-experiment.htm
 - [^coastal]: *Emancipation Day: The Freed People of Port Royal*, Coastal Heritage, vol. 27, no. 1 (S.C. Sea Grant Consortium, Fall 2012). https://www.scseagrant.org/emancipation-day-the-freed-people-of-port-royal/
 - [^arroyo]: Elizabeth Fortson Arroyo, "Port Royal Experiment", *Encyclopedia of African-American Culture and History* (1996), via Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/port-royal-experiment
@@ -166,9 +168,10 @@ The soprano sings the tune, the call to Michael; the alto, tenor and bass sing w
 - [^kopp]: Richard Kopp, "Michael Row the Boat Ashore", *Robokopp Database of Choral Music* (Musica), with the note of the folk singer who found the song. https://www.musicanet.org/robokopp/usa/michaelr.htm
 - [^stereogum]: Tom Breihan, "The Number Ones: The Highwaymen's 'Michael'", Stereogum (4 April 2018). https://www.stereogum.com/1989775/the-number-ones-the-highwaymens-michael/franchises/the-number-ones/
 - [^officialcharts]: Official Charts Company, "Michael", Official Singles Chart history (number one on the chart of 18 October 1961). https://www.officialcharts.com/songs/highwaymen-michael/
+- [^number1s]: "127. 'Michael', by The Highwaymen", number1sblog.com (20 January 2019). https://number1sblog.com/tag/michael/
 - [^wesleyan]: Wesleyan University, *History and Traditions: Trivia*. https://wesleyan.edu/about/history-traditions/trivia.html
 - [^catholicenc]: Frederick Holweck, "St. Michael the Archangel", *The Catholic Encyclopedia*, vol. 10 (New York: Robert Appleton Company, 1911). https://www.newadvent.org/cathen/10275b.htm
-- [^alleluia]: T. O'Mahony, "Alleluia", *The Catholic Encyclopedia*, vol. 1 (New York: Robert Appleton Company, 1907). https://www.newadvent.org/cathen/01319b.htm
+- [^jewishenc]: Emil G. Hirsch and Lewis N. Dembitz, "Halleluiah", *The Jewish Encyclopedia*, vol. 6 (New York: Funk & Wagnalls, 1904), p. 178. https://jewishencyclopedia.com/articles/7110-halleluiah
 - [^zondervan]: *Encyclopedia of the Bible*, "Hallelujah", Bible Gateway. https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hallelujah
 - [^amheritage]: Andrew Ward, "They Brought the Jubilee", *American Heritage*, vol. 51, no. 4 (July/August 2000). https://americanheritage.com/they-brought-jubilee
 - [^tnenc]: Reavis L. Mitchell, Jr., "Jubilee Singers of Fisk University", *Tennessee Encyclopedia* (Tennessee Historical Society). https://tennesseeencyclopedia.net/entries/jubilee-singers-of-fisk-university/

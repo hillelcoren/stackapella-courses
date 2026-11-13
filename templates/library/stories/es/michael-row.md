@@ -1,7 +1,7 @@
 ---
 title: Michael, Row the Boat Ashore: historia, significado y la letra explicada
-description: Espiritual de remeros de las Sea Islands de Carolina del Sur, anotado en la guerra civil; su primera impresión conocida es el n.º 31 de Slave Songs (1867).
-lead: Michael, Row the Boat Ashore es un espiritual de afroamericanos esclavizados, cantado al remo en las Sea Islands de Carolina del Sur. Se anotó en las islas de Port Royal durante la guerra civil y se imprimió en 1867.
+description: Espiritual de remeros de las Sea Islands (Carolina del Sur), anotado en la guerra de Secesión; primera impresión conocida: n.º 31 de Slave Songs, 1867.
+lead: Michael, Row the Boat Ashore es un espiritual de afroamericanos esclavizados, cantado al remo en las Sea Islands de Carolina del Sur. Se anotó en Port Royal en la guerra de Secesión y se imprimió en 1867.
 words: Tradicional, espiritual afroamericano (primera impresión conocida, 1867)
 tune: Tradicional, espiritual afroamericano (primera impresión conocida, 1867)
 earliestPrinting: Slave Songs of the United States (Nueva York: A. Simpson & Co., 1867), n.º 31, p. 23
@@ -13,14 +13,15 @@ alsoKnownAs: Michael Row de Boat Ashore; Michael Haul the Boat Ashore; Michael
 wikidata: Q6833997
 quote: Solo conozco una auténtica canción de barca, la hermosa letra "Michael row the boat ashore".
 quoteSource: slavesongs
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: false
 searches: quién escribió michael row the boat ashore | michael row the boat ashore significado | michael row the boat ashore significado aleluya | michael row the boat ashore en la biblia | michael row the boat ashore historia | michael row the boat ashore letra en español
-translatedFrom: d5d01858a7c4
+translatedFrom: 59d859ccce9f
+original: Slave Songs of the United States (1867), página 23, Smithsonian Libraries | https://archive.org/details/slavesongsofunit00alle/page/n82
 ---
 
-Michael, Row the Boat Ashore es un espiritual (en inglés, spiritual), una canción creada por afroamericanos esclavizados. Su tierra son las Sea Islands (islas del Mar) de Carolina del Sur, donde los remeros negros la cantaban mientras remaban. Durante la guerra civil estadounidense, Charles Pickard Ware la anotó en las islas de Port Royal, probablemente en Coffin's Point, en la isla de St. Helena, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867) [^scan31][^slavesongs][^place2019]. Su primer verso pide a Michael (Miguel) que lleve la barca a la orilla, y a cada verso se responde igual: "Hallelujah!" [^scan31]. En los años cincuenta la recuperó el renacimiento folk, y en 1961 una grabación suya llegó al número uno de las listas en Estados Unidos y en Gran Bretaña [^place2019][^stereogum][^officialcharts].
+Michael, Row the Boat Ashore es un espiritual (en inglés, spiritual), una canción creada por afroamericanos esclavizados. Su tierra son las Sea Islands (islas del Mar) de Carolina del Sur, donde los remeros negros la cantaban mientras remaban. Durante la guerra civil estadounidense, Charles Pickard Ware la anotó en las islas de Port Royal, probablemente en Coffin's Point, en la isla de St. Helena, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867) [^scan31][^slavesongs][^place2019]. Su primer verso pide a Michael (Miguel) que lleve la barca a la orilla, y a cada verso se responde igual: "Hallelujah!" [^scan31]. En los años cincuenta la recuperó el renacimiento folk, y en 1961 una grabación suya llegó al número uno de las listas en Estados Unidos y en Gran Bretaña [^place2019][^stereogum][^officialcharts][^number1s].
 
 ## De dónde viene
 
@@ -30,15 +31,15 @@ Michael, Row the Boat Ashore es un espiritual (en inglés, spiritual), una canci
 
 Ware dejó también una nota sobre cómo usaban los remeros las canciones. "Tal como he escrito estas melodías", escribió, "se cantan dos compases por cada palada": el primero lo marca el comienzo de la palada y el segundo el golpeteo de los remos en los toletes. Incluyó "Michael row" entre las canciones que "se usaban cuando la carga pesaba o la marea iba en contra" [^slavesongs].
 
-**El libro.** Slave Songs se publicó en Nueva York, en A. Simpson & Co., en 1867. Sus editores fueron Allen (1830 a 1889), Ware y Lucy McKim Garrison, todos del Norte; Allen y Ware habían bajado al Sur con la misión [^slavesongs][^uscpress][^pearson1906]. Allen trabajó en St. Helena desde finales de 1863 hasta mediados de 1864 [^uscpress][^slavesongs]. En su introducción escribió que los isleños usaban las mismas canciones para remar que para el "shout", la danza de culto que se hacía en la casa de oración después de una reunión. Solo conocía "una auténtica canción de barca", esta, y no tenía "ninguna duda" de que era "un verdadero espiritual", porque a quien se dirige es al arcángel Miguel [^slavesongs].
+**El libro.** Slave Songs se publicó en Nueva York, en A. Simpson & Co., en 1867. Sus editores fueron Allen (1830 a 1889), Ware y Lucy McKim Garrison, tres personas blancas del Norte; Allen y Ware habían bajado al Sur con la misión, así que las canciones llegaron a la imprenta tal como las oían personas de fuera [^slavesongs][^uscpress][^pearson1906][^dbcs]. Allen trabajó en St. Helena desde finales de 1863 hasta mediados de 1864 [^uscpress][^slavesongs]. En su introducción escribió que los isleños usaban las mismas canciones para remar que para el "shout", la danza de culto que se hacía en la casa de oración después de una reunión. Solo conocía "una auténtica canción de barca", esta, y no tenía "ninguna duda" de que era "un verdadero espiritual", porque a quien se dirige es al arcángel Miguel [^slavesongs].
 
 **La página.** El n.º 31 está en la página 23 de la primera edición, con el encabezado "MICHAEL ROW THE BOAT ASHORE." y sin compositor ni nombre de recopilador [^scan31]. El índice del libro lo atribuye a "Port Royal Islands. C. P. W.", las iniciales de Ware [^slavesongs][^pearson1906]. Nadie sabe quién la creó, y la letra y la melodía comparten esta primera impresión conocida. La melodía está en Mi bemol, en 2/4, en dos líneas cortas de música. Bajo la primera está "1. Michael row de boat a-shore, Hal-le-lu-jah!"; la segunda, "2. Mich-ael boat a gos-pel boat, Hal-le-lu-jah!", está impresa a dos voces, con dos notas en casi todos los pulsos [^scan31]. Los versos 3 a 22 siguen solo como texto, hasta la página 24; la única nota es la glosa "(there)" después de "deh" en el verso 3. Luego vienen siete "Words from Hilton Head" (versos de Hilton Head), que empiezan "Michael haul the boat ashore" [^scan31]. Los editores pusieron una sola letra con cada melodía y dejaron que quien cantara encajara el resto, como hacían los isleños [^slavesongs].
 
-La canción está dentro de la colección de Ware, los números 1 a 43, hecha sobre todo en Coffin's Point, y en medio de una serie, los números 27 a 33, que la introducción cuenta entre "las melodías de remo más comunes" [^slavesongs][^scan31].
+La canción está dentro de la colección de Ware, los números 1 a 43, y en medio de una serie, los números 27 a 33, que la introducción cuenta entre "las melodías de remo más comunes" [^slavesongs][^scan31].
 
-**El renacimiento folk.** A mediados de los años cincuenta, un cantante folk de Boston encontró la canción en el libro de 1867. Según su propio relato, cambió los versos antiguos por pareados con rima de otras canciones afroamericanas, para los adolescentes del campamento de trabajo de verano donde dirigía el canto, y se la enseñó a Pete Seeger [^kopp][^place2019]. Por eso muchos versos que se cantan hoy no son los de 1867: versos como "Michael boat a gospel boat" y "Sister, help for trim dat boat" son la letra antigua [^kopp][^scan31]. Seeger la grabó en 1956 en el álbum de Folkways With Voices Together We Sing [^fa2452][^place2019]. En 1961 una grabación de un grupo folk de estudiantes de la Universidad Wesleyan, con el título acortado a "Michael", llegó al número uno en Estados Unidos en septiembre, y también en Gran Bretaña [^stereogum][^wesleyan][^officialcharts].
+**El renacimiento folk.** A mediados de los años cincuenta, un cantante folk de Boston encontró la canción en el libro de 1867. Según su propio relato, cambió los versos antiguos por pareados con rima de otras canciones afroamericanas, para los adolescentes del campamento de trabajo de verano donde dirigía el canto, y se la enseñó a Pete Seeger [^kopp][^place2019]. Por eso muchos versos que se cantan hoy no son los de 1867: versos como "Michael boat a gospel boat" y "Sister, help for trim dat boat" son la letra antigua [^kopp][^scan31]. Seeger la grabó en 1956 en el álbum de Folkways With Voices Together We Sing [^fa2452][^place2019]. En 1961 una grabación de un grupo folk de estudiantes de la Universidad Wesleyan, con el título acortado a "Michael", llegó al número uno en Estados Unidos en septiembre, y también en Gran Bretaña [^stereogum][^wesleyan][^officialcharts][^number1s].
 
-**Mito y documentos.** Se suele contar que la Biblia hace de Miguel el barquero de las almas. Lo que muestran los documentos: ningún versículo de la Biblia pone a Miguel en una barca, y el libro de 1867 dice solo que a quien se dirige es al arcángel [^kjv][^slavesongs]. Lo del barquero es una lectura posterior. Las notas del Smithsonian a la grabación de Seeger llaman a Miguel el arcángel "que lleva en su barca las almas de los muertos", y la tradición católica le da la tarea de llevar las almas al juicio [^place2019][^catholicenc].
+**Mito y documentos.** Se suele contar que Miguel es el barquero que lleva las almas de los muertos al otro lado del río. Las notas del Smithsonian a la grabación de Seeger lo llaman el arcángel "que lleva en su barca las almas de los muertos" [^place2019]. Lo que muestran los documentos: ningún versículo de la Biblia pone a Miguel en una barca, y el libro de 1867 dice solo que a quien se dirige es al arcángel [^kjv][^slavesongs]. La tradición católica le da la tarea de llevar las almas al juicio, pero sin barca [^catholicenc]. El barquero une esa tarea a la barca de los remeros: es una lectura de la canción, no algo que digan la canción o la Biblia.
 
 ### Cronología
 
@@ -47,13 +48,13 @@ La canción está dentro de la colección de Ware, los números 1 a 43, hecha so
 - 1864: William Francis Allen, que trabaja en St. Helena, oye las canciones de los isleños en la iglesia el 4 de julio [^uscpress][^slavesongs]
 - 1867: Primera impresión conocida, el n.º 31 de Slave Songs of the United States, de la colección de Ware [^scan31][^slavesongs]
 - 1956: Pete Seeger la graba para Folkways [^fa2452][^place2019]
-- 1961: La grabación de un grupo folk universitario llega al número uno en Estados Unidos y en Gran Bretaña [^stereogum][^officialcharts]
+- 1961: La grabación de un grupo folk universitario llega al número uno en Estados Unidos y en Gran Bretaña [^stereogum][^officialcharts][^number1s]
 
 ## Qué dice la letra
 
 El libro escribe la letra tal como sus editores oían el habla de las Sea Islands. "De" es "the" (el, la), "deh" es "there" (allí; el propio libro lo aclara), "gwine" es "going" (que va), "mudder" y "fader" son "mother" y "father" (madre y padre), "brudder" es "brother" (hermano), "riber" es "river" (río), "neber" es "never" (nunca), "t' oder" es "the other" (el otro) y "maussa" es "master" (amo) [^scan31].
 
-**Versos 1 y 2, los que llevan música.** Quien canta pide a Michael que lleve la barca remando hasta la orilla. En la Biblia, Miguel es un arcángel y "el gran príncipe" que protege a su pueblo [^kjv][^catholicenc]. Su barca es "a gospel boat": una barca del evangelio, la buena noticia. Cada verso termina en "Hallelujah", una palabra hebrea que significa "¡alabado sea el Señor!" [^zondervan][^alleluia].
+**Versos 1 y 2, los que llevan música.** Quien canta pide a Michael que lleve la barca remando hasta la orilla. En la Biblia, Miguel es un arcángel y "el gran príncipe" que protege a su pueblo [^kjv][^catholicenc]. Su barca es "a gospel boat": una barca del evangelio, la buena noticia. Cada verso termina en "Hallelujah", una palabra hebrea que significa "¡alabado sea el Señor!"; la Reina-Valera de 1909 la deja tal cual, "Aleluya", al abrir el Salmo 146 [^zondervan][^jewishenc][^kjv].
 
 **Versos 3 a 7.** Quien canta se pregunta dónde está su madre, y luego la ve "on de rock gwine home", camino de casa, en el nombre de Jesús. La barca de Miguel se vuelve "a music boat", una barca de música, y el ángel Gabriel toca la trompeta [^scan31].
 
@@ -147,7 +148,7 @@ Es una llamada y una respuesta. El libro describe cómo cantaban los isleños: q
 
 Es un espiritual folclórico, creado y cantado al remo y anotado por visitantes. El espiritual de concierto llegó después. Desde octubre de 1871 los Fisk Jubilee Singers, de la Universidad Fisk de Nashville, salieron de gira, y sus espirituales de concierto dieron a conocer estas canciones a un público amplio [^amheritage][^tnenc].
 
-Nuestro arreglo se lee de Slave Songs of the United States (1867), n.º 31, para 2 a 4 cantantes. Canta los dos versos impresos con música, con "de" cantado como "the"; donde el verso 2 está impreso a dos voces, nuestra melodía toma la de abajo. La soprano canta la melodía, y la contralto, el tenor y el bajo cantan con ella. La armonía es nuestra: la costumbre de los isleños era alguien que dirigía y un grupo que respondía, como describe el libro [^slavesongs].
+Nuestro arreglo se lee de Slave Songs of the United States (1867), n.º 31, para 2 a 4 cantantes. Canta los dos versos impresos con música, con "de" cantado como "the"; donde el verso 2 está impreso a dos voces, nuestra melodía toma la de abajo. Está en Fa, un tono más alto que el Mi bemol del libro [^scan31]. La soprano canta la melodía, y la contralto, el tenor y el bajo cantan con ella. La armonía es nuestra: la costumbre de los isleños era alguien que dirigía y un grupo que respondía, como describe el libro [^slavesongs].
 
 ## ¿Sabías que...?
 
@@ -165,7 +166,7 @@ Nuestro arreglo se lee de Slave Songs of the United States (1867), n.º 31, para
 
 ### ¿Quién escribió Michael, Row the Boat Ashore?
 
-Nadie sabe quién la creó. Es un espiritual de afroamericanos esclavizados de las Sea Islands de Carolina del Sur, que cantaban los remeros de las islas de Port Royal durante la guerra civil [^slavesongs][^place2019]. Viene de la colección que Charles Pickard Ware reunió allí, sobre todo en Coffin's Point, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867), que Ware editó con William Francis Allen y Lucy McKim Garrison [^slavesongs][^pearson1906]. Ellos recopilaron la canción; no la escribieron.
+Nadie sabe quién la creó. Es un espiritual de afroamericanos esclavizados de las Sea Islands de Carolina del Sur, que cantaban los remeros de las islas de Port Royal durante la guerra de Secesión [^slavesongs][^place2019]. Viene de la colección que Charles Pickard Ware reunió allí, sobre todo en Coffin's Point, y su primera impresión conocida es el n.º 31 de Slave Songs of the United States (1867), que Ware editó con William Francis Allen y Lucy McKim Garrison [^slavesongs][^pearson1906]. Ellos recopilaron la canción; no la escribieron.
 
 ### ¿Aparece Miguel en la Biblia?
 
@@ -185,9 +186,10 @@ La soprano canta la melodía, la llamada a Michael; la contralto, el tenor y el 
 
 - [^scan31]: William Francis Allen, Charles Pickard Ware y Lucy McKim Garrison, eds., *Slave Songs of the United States*, primera edición (Nueva York: A. Simpson & Co., 1867), n.º 31, "Michael Row the Boat Ashore", pp. 23 y 24 (hojas escaneadas n82 y n83); ejemplar de las Smithsonian Libraries, ítem 39088002074508 (OCLC 1157236115), elemento de Internet Archive slavesongsofunit00alle, escaneo. https://archive.org/details/slavesongsofunit00alle/page/n82
 - [^slavesongs]: William Francis Allen, Charles Pickard Ware y Lucy McKim Garrison, eds., *Slave Songs of the United States*, primera edición (Nueva York: A. Simpson & Co., 1867), introducción, pp. i a v, x, xiii, xvi, xvii y xxxvi, e índice, p. xl; ejemplar de las Smithsonian Libraries, elemento de Internet Archive slavesongsofunit00alle, escaneo. https://archive.org/details/slavesongsofunit00alle
-- [^sar1889]: *The Scottish Art Review*, vol. 2 (1889), p. 214, "Michael Row the Boat Ashore" (hoja escaneada n251); elemento de Internet Archive scottishartrevie02unse, escaneo. https://archive.org/details/scottishartrevie02unse/page/n251
+- [^sar1889]: J. A. S., "Negro Songs", *The Scottish Art Review*, vol. 2 (Elliot Stock, 1889), desde la p. 213, la canción en la p. 214 (hoja escaneada n251); ejemplar de la Glasgow School of Art Library, elemento de Internet Archive scottishartrevie02unse, escaneo. https://archive.org/details/scottishartrevie02unse/page/n251
 - [^pearson1906]: Elizabeth Ware Pearson, ed., *Letters from Port Royal, Written at the Time of the Civil War* (Boston: W. B. Clarke Company, 1906), carta de T. E. R. a C. P. W., 21 de mayo de 1867, con la nota de la editora, y la nota sobre Coffin's Point en la carta de E. S. P. del 1 de enero de 1865. https://www.gutenberg.org/ebooks/24722
 - [^uscpress]: James Robert Hester, ed., *A Yankee Scholar in Coastal South Carolina: William Francis Allen's Civil War Journals* (University of South Carolina Press, 2015), descripción de la editorial. https://uscpress.com/A-Yankee-Scholar-in-Coastal-South-Carolina
+- [^dbcs]: Meyer Reinhold, "Allen, William Francis", *Database of Classical Scholars* (Rutgers, The State University of New Jersey). https://dbcs.rutgers.edu/all-scholars/8508-allen-william-francis
 - [^nps]: National Park Service, Reconstruction Era National Historical Park, *Education during the Port Royal Experiment*. https://home.nps.gov/articles/000/education-during-the-port-royal-experiment.htm
 - [^coastal]: *Emancipation Day: The Freed People of Port Royal*, Coastal Heritage, vol. 27, n.º 1 (S.C. Sea Grant Consortium, otoño de 2012). https://www.scseagrant.org/emancipation-day-the-freed-people-of-port-royal/
 - [^arroyo]: Elizabeth Fortson Arroyo, "Port Royal Experiment", *Encyclopedia of African-American Culture and History* (1996), en Encyclopedia.com. https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/port-royal-experiment
@@ -196,10 +198,11 @@ La soprano canta la melodía, la llamada a Michael; la contralto, el tenor y el 
 - [^kopp]: Richard Kopp, "Michael Row the Boat Ashore", *Robokopp Database of Choral Music* (Musica), con la nota del cantante folk que encontró la canción. https://www.musicanet.org/robokopp/usa/michaelr.htm
 - [^stereogum]: Tom Breihan, "The Number Ones: The Highwaymen's 'Michael'", Stereogum (4 de abril de 2018). https://www.stereogum.com/1989775/the-number-ones-the-highwaymens-michael/franchises/the-number-ones/
 - [^officialcharts]: Official Charts Company, "Michael", historial en la Official Singles Chart (número uno en la lista del 18 de octubre de 1961). https://www.officialcharts.com/songs/highwaymen-michael/
+- [^number1s]: "127. 'Michael', by The Highwaymen", number1sblog.com (20 de enero de 2019). https://number1sblog.com/tag/michael/
 - [^wesleyan]: Wesleyan University, *History and Traditions: Trivia*. https://wesleyan.edu/about/history-traditions/trivia.html
 - [^catholicenc]: Frederick Holweck, "St. Michael the Archangel", *The Catholic Encyclopedia*, vol. 10 (Nueva York: Robert Appleton Company, 1911). https://www.newadvent.org/cathen/10275b.htm
-- [^alleluia]: T. O'Mahony, "Alleluia", *The Catholic Encyclopedia*, vol. 1 (Nueva York: Robert Appleton Company, 1907). https://www.newadvent.org/cathen/01319b.htm
+- [^jewishenc]: Emil G. Hirsch y Lewis N. Dembitz, "Halleluiah", *The Jewish Encyclopedia*, vol. 6 (Nueva York: Funk & Wagnalls, 1904), p. 178. https://jewishencyclopedia.com/articles/7110-halleluiah
 - [^zondervan]: *Encyclopedia of the Bible*, "Hallelujah", Bible Gateway. https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hallelujah
 - [^amheritage]: Andrew Ward, "They Brought the Jubilee", *American Heritage*, vol. 51, n.º 4 (julio/agosto de 2000). https://americanheritage.com/they-brought-jubilee
 - [^tnenc]: Reavis L. Mitchell, Jr., "Jubilee Singers of Fisk University", *Tennessee Encyclopedia* (Tennessee Historical Society). https://tennesseeencyclopedia.net/entries/jubilee-singers-of-fisk-university/
-- [^kjv]: La Biblia, versión King James: Daniel 12:1, Judas 9, Apocalipsis 12:7, Josué 3:17, Levítico 25:10 y Salmo 146:1; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJude%201%3A9%3BRevelation%2012%3A7%3BJoshua%203%3A17%3BLeviticus%2025%3A10%3BPsalm%20146%3A1&version=KJV
+- [^kjv]: La Biblia, versión King James: Daniel 12:1, Judas 9, Apocalipsis 12:7, Josué 3:17, Levítico 25:10 y Salmo 146:1; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJude%201%3A9%3BRevelation%2012%3A7%3BJoshua%203%3A17%3BLeviticus%2025%3A10%3BPsalm%20146%3A1&version=KJV; Reina-Valera de 1909: https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJudas%201%3A9%3BApocalipsis%2012%3A7%3BSalmos%20146%3A1&version=RVA
