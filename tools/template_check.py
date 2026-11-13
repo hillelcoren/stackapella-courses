@@ -48,7 +48,13 @@ def check(path):
         problems.append(f"{where}: more than one part is the melody")
     for part in parts:
         notes = (part.get("guide") or {}).get("notes") or []
-        low, high = (part.get("range") or [0, 127]) if isinstance(part.get("range"), list) else (0, 127)
+        rng = part.get("range")
+        if isinstance(rng, dict):
+            low, high = rng.get("low", 0), rng.get("high", 127)
+        elif isinstance(rng, list) and len(rng) == 2:
+            low, high = rng
+        else:
+            low, high = 0, 127
         end = None
         for note in notes:
             beat, length, pitch = note.get("beat"), note.get("length"), note.get("pitch")
