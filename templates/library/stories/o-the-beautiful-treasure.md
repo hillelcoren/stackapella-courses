@@ -23,6 +23,8 @@ O the Beautiful Treasure, headed "Valuable Riches" in its manuscript, is a short
 
 **The Shakers and their songs.** The Shakers, the United Society of Believers, lived celibate in villages set apart from the world, and their worship was sung and danced, to songs they made themselves [^shakermuseum][^andrews]. They held their property in common: members of the senior order, the Church Family, gave theirs to the community when they signed its covenant [^andrews][^devinne]. From 1837 a long revival, Mother Ann's Work, filled Shaker meetings with new short songs that worshippers believed were given from the spirit world [^andrews][^wintcoll][^devinne]. O the Beautiful Treasure comes from the later years of that revival, which lasted into the 1850s [^andrews][^wintcoll].
 
+![[1]]
+
 **The songbook.** Mary Hazzard was a sister of the Church Family at New Lebanon, the Shakers' leading village, and Andrews, praising her fine hand, named her first among the Shakers who wrote down songs that others had received [^andrews][^smportrait][^shakermuseum]. Her book is titled "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them", and she began it on 7 February 1847 [^hazzardbook][^wintcat]. Songs from many Shaker villages fill it, most signed with the place they came from [^hazzardbook]. Winterthur Library, in Delaware, holds it as ASC 893 [^wintcat]. The same book gives us [Simple Gifts](/songs/simple-gifts), whose story tells more about it.
 
 **The page.** The song is on Hazzard's page 70, under "Valuable Riches" in a large, flourished hand [^hazzard]. Under each line of words runs the tune in Shaker letteral notation: small letters for the pitches, strokes and joining lines for how long each note lasts, and bar lines between the measures [^hazzard][^wintcoll]. Beside the bracket that opens the first line stand a small "3" and a crossed double bar, which we read as two beats to the bar, and the letters move from a to a, a tune in A minor [^hazzard]. Dotted bars mark both strains to be sung twice [^hazzard]. Under the song, in a smaller hand, she wrote "Holy Ground", and below that, after a gap, comes a different tune with no words, signed "Enfield N.H." [^hazzard].
@@ -45,7 +47,7 @@ O the Beautiful Treasure, headed "Valuable Riches" in its manuscript, is a short
 
 **"O the beautiful treasure laid up for the wise."** To lay something up is to store it away for later. The line recalls Jesus's words in the Sermon on the Mount, which in the King James Bible read "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (Matthew 6:20), with the warning that "where your treasure is, there will your heart be also" [^kjv-bg][^kjv-pg]. "The wise" may echo Proverbs, where "There is treasure to be desired and oil in the dwelling of the wise" (Proverbs 21:20) [^kjv-bg][^kjv-pg]. The song quotes neither verse, so these are echoes, not sources.
 
-![[1]]
+![[2]]
 
 **"How precious the value, how glorious the prize."** The treasure is also a prize, a reward. Many of the gift songs Andrews gathered speak of such a reward; one sung at New Lebanon in 1839 begins "O what a pretty treasure Mother has for every one" [^andrews]. In Hazzard's book a Canterbury song makes the same pairing: its treasure is "The greatest prize that can be found" [^hazzardbook].
 

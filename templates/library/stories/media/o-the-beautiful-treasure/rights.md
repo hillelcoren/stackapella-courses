@@ -109,3 +109,100 @@ Gathered 2026-11-13.
   1767-1847, no rights field. The crop starts at "HYMN XXVI."; Hymn XXV's verse 5 ("bloody whore") is out.
 - placement.md rewritten for one image, with the Spanish anchor added. links.md gets en and es labels; the es label
   follows the live Spanish story ("iniciada en 1847").
+
+
+# O the Beautiful Treasure (second set): licence evidence
+
+Gathered 2026-11-13. Adds one image to the live page, which shows 1.jpg (Millennial Praises, 1813, p. 199).
+
+## Item used here (so no other song page reuses it)
+
+- Roxalana L. Grosvenor, The Shakers' Covenant (Boston, 1873), Internet Archive shakerscovenantn00harv, p. 8
+  (leaf n17), Article VII of the Harvard (Mass.) Church covenant. Checked against every live media.json and every
+  folder in state/media: no page uses this book, any Shaker covenant, or anything from Harvard, Mass.
+
+## 2.jpg: the Harvard Shaker Church covenant, Article VII, "Dedication and Release" (1831; printed 1873)
+
+- Item: https://archive.org/details/shakerscovenantn00harv (Boston Public Library, call number 7548.83; record:
+  title "The Shakers' covenant, (never before published,) with a brief outline of Shaker history", creator
+  "Harvard (Mass.). Church of the United Society. Shaker", associated name "Grosvenor, Roxalana L", publisher
+  "Boston, W.C. Allan, Printer", date 1873, "ii, 12 pages"; no rights field).
+- Page: https://archive.org/details/shakerscovenantn00harv/page/n17 (printed p. 8), downloaded as
+  https://archive.org/download/shakerscovenantn00harv/page/n17.jpg (3098 x 4173), kept as
+  raw/ia-shakerscovenantn00harv-n17.jpg. Cropped from "ARTICLE VII." to the foot of the text; the end of Article VI
+  above it is left out (it is plain covenant text too). Made with sips through a BMP round trip; 1600 x 1432,
+  585,235 bytes.
+- Title page: "Entered According to Act of Congress April 16, 1873, by Roxalana L. Grosvenor,
+  in the office of the Librarian of Congress at Washington. Boston: W.C. Allan, Printer, 50 Bromfield Street, 1873."
+  (The front matter's advertisements are on other leaves and are not used.)
+- Every word in the crop read: "ARTICLE VII. Dedication and Release. Section 1. Dedication and consecration of
+  persons, property and service. According to the faith of the Gospel which we have received and agreeable to the
+  uniform practice of the Church of Christ from its first establishment in this Society, we covenant and agree to
+  dedicate, devote, consecrate and give up, and by this covenant we do solemnly and conscientiously dedicate, devote,
+  consecrate and give up ourselves and services together with all our temporal interest to the service of God and
+  the support and benefit of the Church of this community, and to such other pious and charitable purpose as the
+  Gospel may require, to be under the care and direction of such elders, deacons, and trustees as are or may be
+  appointed and established in the Church by the authority aforesaid. Section 2. Dedication and release of private
+  claim. Whereas, in pursuance of the requirement of the Gospel, ... we have freely and voluntarily sacrificed all
+  self-interest, and consecrated and devoted our persons, services and property, as aforesaid, to the pious and
+  benevolent purposes of the Gospel; Therefore, we do hereby ... release and quit claim to the deacons, or acting
+  trustees of the Church ... all our private personal right, title, interest, claim and demand ... [and] will never
+  hereafter ... make nor require any account of any interest, property, labor or service ... nor bring any charge of
+  debt or damage ... on account of any property or service given, rendered, devoted or consecrated to the aforesaid
+  sacred and charitable purposes. In confirmation of all the aforesaid statements, covenants, promises, and articles
+  of agreement, we have hereunto subscribed our names and affixed our seals, commencing on this sixteenth day of
+  November, in the year of our Lord one thousand eight hundred and thirty-one." (The full section 2 is on the crop;
+  the dots here only shorten this note.) Nothing crude or demeaning; no figures, ornaments or trademarks.
+- Licence: PD-old.
+  - Published 1873 in the US: public domain there (published before 1931; the 1873 registration has long expired).
+  - The words shown are the covenant of the Church of the United Society at Harvard, Mass., a corporate, unsigned
+    text dated 16 November 1831 (the preamble on p. 1 names "the Church of the United Society, in the town of
+    Harvard"). Its makers were adult Shakers in 1831 and all died long before 1926.
+  - The book's editor, Roxalana L. Grosvenor, was born in 1813: Library of Congress name authority n94093499,
+    https://id.loc.gov/authorities/names/n94093499.html ("Grosvenor, Roxalana L., 1813-"; "(Sister Roxalana L.
+    Grosvenor; b. 1813; Shaker; Harvard, Mass. ...)"). No death year is given, but a woman born in 1813 died before
+    1926 unless she lived past 112. In any case the crop shows only the 1831 covenant, not her own writing.
+  - EU and Israel (life plus 70, or 70 years from publication for anonymous works): public domain. Mexico (life plus
+    100): public domain, as above.
+  - A scan of a flat printed page adds no new rights. The Internet Archive record states no restriction.
+- Caption facts, all from the page itself: Article VII's words; "commencing on this sixteenth day of November ...
+  1831"; the preamble's "Church of the United Society, in the town of Harvard"; printed 1873 (title page). The tie to
+  the song is the story's own sentence: "They held their property in common: members of the senior order, the Church
+  Family, gave theirs to the community when they signed its covenant" (sourced there to Andrews and De Vinne). The
+  caption says "Church members", as the covenant does, not "Church Family".
+- Note for the checker: Grosvenor writes in the introduction as a former sister ("as when I was owned by them as a
+  'sister in the Gospel'") and questions how future leaders might use the covenant's powers. The introduction is
+  not shown and the caption does not describe her or the book's purpose.
+
+## Rejected or not pursued
+
+- Canterbury HABS photographs (HABS NH,7-CANT): every one on the LoC/Commons record is credited to Elmer R. Pearson,
+  Miller-Swift or Bill Finney, none shown to be a federal photographer. Dropped by the rule.
+- Hancock HABS photographs: credited to Pearson (private), N. E. Baldwin (1939), William F. Winter, Jr. (1931,
+  before HABS began) or uncredited June 1962 views whose LoC records could not be opened (loc.gov answered a bot
+  check). Hancock is also not in the story. Not used.
+- Harvard (Mass.) HABS photographs of April and August 1963: photographer not shown on the mirrors and the LoC
+  records could not be opened. Not used.
+- A King James Bible page for Matthew 6:19 to 21: the 1611 Bible is already on The Lord Bless You, and image 1
+  already carries the Matthew 6 echo.
+- Peter Foster's 1849 Canterbury map: still held (death year unknown), not revisited.
+- NYPL Digital Collections (Shaker stereographs): blocked to plain requests; not used.
+- Hamilton College's Shaker scans (yhm-spe-sha-*): rights unclear, as before.
+
+## Checker's changes and notes (IMAGE-CHECK-24)
+
+- IA record read again (archive.org/metadata/shakerscovenantn00harv, saved in _check24/rec/): Boston Public Library
+  (contributor and sponsor), date 1873, creator "Harvard (Mass.). Church of the United Society. Shaker", associated
+  name Grosvenor; no rights, licenseurl or possible-copyright-status field. Its call_number reads "7548.83'" with a
+  stray apostrophe; media.json keeps "7548.83".
+- LoC name authority n94093499 read: "Grosvenor, Roxalana L., 1813-", no death year.
+- Every word in the crop read against the raw page: all of it is Article VII of the 1831 covenant. The introduction
+  (hers) ends before "COVENANT OR CONSTITUTION." on an earlier leaf; her history begins after the covenant's last
+  line. No editor's note, heading or footnote of hers is in the crop, so the unknown death year does not matter here.
+- Caption fixed (en and es): "signed from" became "dated" (the page says the signing was "commencing" that day);
+  added "(not this song's village)"; the tie to the song now says plainly why the page is here, in the story's own
+  terms (property given to the community; gift songs promising the faithful a reward in heaven, "The treasure is
+  that reward").
+- licenceEvidence fixed: it no longer infers Grosvenor's death; the rights rest on the covenant text alone.
+
+Lead, 2026-11-13: files renumbered into page order (the covenant is now 1.jpg, Millennial Praises 2.jpg).

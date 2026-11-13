@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: false
 searches: o the beautiful treasures | o the beautiful treasure canción shaker | qué son las canciones shaker | canciones shaker significado | haceos tesoros en el cielo significado | haceos tesoros en el cielo versículo
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
-translatedFrom: a98124e6d903
+translatedFrom: 16f764e8b14b
 ---
 
 O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su manuscrito, es una breve canción shaker en tonalidad menor. Sus dos breves secciones alaban un tesoro guardado para los sabios, más brillante que los diamantes en la frente de un príncipe. Mary Hazzard, una hermana shaker de New Lebanon, Nueva York, la copió en su cancionero manuscrito hacia 1849 y la firmó "Holy Ground", que el historiador Edward Deming Andrews da como el nombre que los shakers daban a Canterbury, Nuevo Hampshire [^hazzard][^andrews]. No se nombra a ningún autor [^hazzard]. Su imagen del tesoro guardado recuerda las palabras de Jesús sobre hacerse tesoros en el cielo, una imagen que los shakers cantaron una y otra vez [^kjv-bg][^kjv-pg][^hazzardbook][^andrews]. En 1940, Andrews la imprimió en su libro de canciones shakers con el título "Oh the Beautiful Treasures" [^andrews].
@@ -23,6 +23,8 @@ O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su m
 ## De dónde viene
 
 **Los shakers y sus canciones.** Los shakers, la United Society of Believers, vivían en celibato, en aldeas apartadas del mundo, y su culto se cantaba y se bailaba, con canciones que hacían ellos mismos [^shakermuseum][^andrews]. Tenían los bienes en común: los miembros de la orden más alta, la Church Family, entregaban los suyos a la comunidad al firmar su pacto [^andrews][^devinne]. Desde 1837, un largo avivamiento, la Obra de Madre Ann (Mother Ann's Work), llenó las reuniones shakers de canciones nuevas y breves que los fieles creían recibidas del mundo espiritual [^andrews][^wintcoll][^devinne]. O the Beautiful Treasure es de los últimos años de ese avivamiento, que duró hasta la década de 1850 [^andrews][^wintcoll].
+
+![[1]]
 
 **El cancionero.** Mary Hazzard era una hermana de la Church Family de New Lebanon, la aldea principal de los shakers, y Andrews, que elogió su buena letra, la nombró la primera entre los shakers que ponían por escrito las canciones que otros habían recibido [^andrews][^smportrait][^shakermuseum]. Su libro se titula "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them", y lo empezó el 7 de febrero de 1847 [^hazzardbook][^wintcat]. Lo llenan canciones de muchas aldeas shakers, la mayoría firmadas con el lugar del que venían [^hazzardbook]. La Winterthur Library, en Delaware, lo guarda como ASC 893 [^wintcat]. El mismo libro nos da [Simple Gifts](/songs/simple-gifts), cuya historia cuenta más sobre él.
 
@@ -46,7 +48,7 @@ O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su m
 
 **"O the beautiful treasure laid up for the wise."** "Lay up" algo es guardarlo para más adelante. El verso recuerda las palabras de Jesús en el Sermón del Monte, que en la Biblia King James dicen "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni polilla ni orín corrompe), en Mateo 6:20, con la advertencia de que "where your treasure is, there will your heart be also" (donde estuviere vuestro tesoro, allí estará vuestro corazón) [^kjv-bg][^kjv-pg]. "The wise", los sabios, quizá sea un eco de Proverbios, donde "There is treasure to be desired and oil in the dwelling of the wise" (Tesoro codiciable y pingüe hay en la casa del sabio), en Proverbios 21:20 [^kjv-bg][^kjv-pg]. La canción no cita ninguno de los dos versículos, así que son ecos, no fuentes.
 
-![[1]]
+![[2]]
 
 **"How precious the value, how glorious the prize."** El tesoro es también un premio, una recompensa. Muchas de las canciones de don que reunió Andrews, canciones que, según los shakers, se recibían del mundo espiritual, hablan de esa recompensa; una cantada en New Lebanon en 1839 empieza "O what a pretty treasure Mother has for every one" (qué tesoro tan bonito tiene Madre para cada uno) [^andrews]. En el libro de Hazzard, una canción de Canterbury hace la misma pareja: su tesoro es "The greatest prize that can be found" (el mayor premio que se puede encontrar) [^hazzardbook].
 
