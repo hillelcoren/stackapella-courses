@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: 909080ead438
+translatedFrom: d82a7186fd76
 original: The Union Haggadah (Estados Unidos, 1923), Internet Archive | https://archive.org/details/unionhaggadahhom00unse
 ---
 
@@ -190,10 +190,10 @@ Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición rev
 
 ## Cómo cantarla
 
-- [Soprano](/songs/adir-hu/soprano): la melodía, sobre todo en Sol y luego en Do. Cada estrofa empieza grave, en Mi, con los nombres, y luego sube: el Mi agudo llega en el segundo "bimhera," y en "veitcha" del último verso, que vuelve a asentarse en Do.
-- [Contralto](/songs/adir-hu/alto): una tercera o una sexta por debajo de la melodía casi todo el tiempo, sobre todo en Mi. Su La agudo llega solo en "bimhera," y su Si grave solo en el "bekarov." que sigue a "beyameinu", en cada estrofa.
-- [Tenor](/songs/adir-hu/tenor): el centro del acorde con solo cinco notas, sobre todo en Sol. Sube a Do en el tercer "adir hu,", en "yachid hu," y "rachum hu,", en cada segundo "bimhera," y en cada "beyameinu", y baja a Fa en el primer "bekarov," y en el que sigue a "beyameinu".
-- [Bajo](/songs/adir-hu/bass): casi siempre las fundamentales de los acordes, sobre un Do grave la mayor parte del tiempo, que sostiene bajo los nombres que abren cada estrofa. Llega a su Sol agudo solo en "veito" y baja a su Fa grave en el último "bekarov." de cada estrofa.
+- [Soprano](/songs/adir-hu/soprano): la melodía, sobre todo en Sol y luego en Do. Cada estrofa empieza grave, en Mi, con los nombres, y luego sube: el Mi agudo llega en el "he-" del segundo "bimhera," y en el "cha" de "veitcha" del último verso, que vuelve a asentarse en Do.
+- [Contralto](/songs/adir-hu/alto): una tercera o una sexta por debajo de la melodía casi todo el tiempo, sobre todo en Mi. Su La agudo llega solo en el "ra," del segundo "bimhera," y su Si grave solo en el "ka-" del "bekarov." que sigue a "beyameinu", en cada estrofa.
+- [Tenor](/songs/adir-hu/tenor): el centro del acorde con solo cinco notas, sobre todo en Sol. Sube a Do en el "dir hu," del tercer "adir hu,", en el "chid hu," de "yachid hu," y el "chum hu," de "rachum hu,", en cada segundo "bimhera," y en el "be-" de cada "beyameinu", y baja a Fa en el "ka-" del primer "bekarov," y en el "be-" y el "ka-" del que sigue a "beyameinu".
+- [Bajo](/songs/adir-hu/bass): casi siempre las fundamentales de los acordes, sobre un Do grave la mayor parte del tiempo, en el que se queda, una nota por sílaba, bajo los nombres que abren cada estrofa. Llega a su Sol agudo solo en el "vei-" de "veito" y baja a su Fa grave en el "be-" del último "bekarov." de cada estrofa.
 
 ## Preguntas
 

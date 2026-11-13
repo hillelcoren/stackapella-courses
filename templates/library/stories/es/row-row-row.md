@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: row row row your boat historia | row row row your boat significado | quién escribió row row row your boat | row row row your boat canon | cómo cantar row row row your boat en canon | row row row your boat letra en español
-translatedFrom: fdab1d895db1
+translatedFrom: c97297fd3a39
 ---
 
 Row, Row, Row Your Boat es un canon: una melodía de cuatro versos que dos, tres o cuatro cantantes empiezan en momentos distintos, de modo que se canta contra sí misma [^hall1874][^grove]. Sus dos primeros versos ya estaban impresos en 1852, como el estribillo de The Old Log Hut, una canción de los espectáculos de minstrel con la cara pintada de negro (blackface), con otra melodía [^sinclair1852][^rice][^ballad]. El canon, que termina con "Merrily, merrily" y "Life is but a dream", aparece en The Teachers' Institute Glee Book de 1874, preparado en Lancaster, Pensilvania, por W. B. Hall y E. O. Lyte; desde 1881 se imprime con el nombre de Lyte, pero ninguna fuente que encontramos dice quién hizo la melodía [^hall1874][^mccaskey1881][^ballad]. Después pasó a las canciones de campamento: el Ballad Index la encuentra en cancioneros de los Boy Scouts y de los clubes 4-H [^ballad].
@@ -89,7 +89,7 @@ la vida no es más que un sueño.
 
 ## Cómo cantarla
 
-- [Soprano](/songs/row-row-row/soprano): empiezas en solitario y llevas la melodía tres veces de principio a fin, así que todos la oyen primero. Tu nota más aguda es el Do del primer "Mer-", y cada "merrily" son tres notas rápidas en una misma altura, bajando Do, Sol, Mi, Do. Toma aire en "stream" y "dream", que se acortan; sostén el último "dream" un compás entero.
+- [Soprano](/songs/row-row-row/soprano): empiezas en solitario y llevas la melodía tres veces de principio a fin, así que todos la oyen primero. Tu nota más aguda es el Do del primer "Merrily", y cada "merrily" son tres notas rápidas en una misma altura, bajando Do, Sol, Mi, Do. Toma aire en "stream" y "dream", que se acortan; sostén el último "dream" un compás entero.
 - [Contralto](/songs/row-row-row/alto): la misma melodía a la misma altura, dos compases después de la soprano: nada nuevo que aprender. Lo difícil es no perder tu sitio: mientras cantas "Row, row", la soprano va dos compases por delante, en "gently down the stream".
 - [Tenor](/songs/row-row-row/tenor): la misma melodía una octava más grave, desde el Do por debajo del Do central hasta el Do central, dos compases después de la contralto. Cuando empiezas, la soprano está en "Merrily" y la contralto en "gently down the stream".
 - [Bajo](/songs/row-row-row/bass): la melodía grave del tenor, entrando en último lugar, dos compases después de él; desde tu entrada, los cuatro versos suenan a la vez. Terminas en solitario: después del último "dream" del tenor, cantas "Life is but a dream" tú solo y sostienes la última nota un compás entero.

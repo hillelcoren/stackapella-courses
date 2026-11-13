@@ -151,10 +151,10 @@ Our arrangement reads the tune from page 658 of the Jewish Encyclopedia's twelft
 
 ## Singing it
 
-- [Soprano](/songs/tzur-mishelo/soprano): carries the German melody, most often on G, then A. The refrain and both verses end the same way: a leap up to D on the "-do-" of "Adoshem" ("kadoshem" in verse 1), a quick fall to F-sharp, and home to G on "-shem". The second half of each verse climbs to the top F, on "lishmo" in verse 1 and "hanikdash" in verse 4; it is a semitone above the range we usually write for sopranos, so take it lightly.
+- [Soprano](/songs/tzur-mishelo/soprano): carries the German melody, most often on G, then A. The refrain and both verses end the same way: a leap up to D on the "-do-" of "Adoshem" ("kadoshem" in verse 1), a quick fall to F-sharp, and home to G on "-shem". The second half of each verse climbs to the top F, on the "mo" of "lishmo" in verse 1 and the "dash" of "hanikdash" in verse 4; it is a semitone above the range we usually write for sopranos, so take it lightly.
 - [Alto](/songs/tzur-mishelo/alto): sings under the tune, mostly a third or a sixth below it, most often on F, then B-flat. At every "Adoshem." it drops to its low A just as the tune leaps up to D, holds it while the tune falls to F-sharp, and steps up to B-flat as the tune lands on G; solo it with the soprano in the player to hear the two lines meet.
-- [Tenor](/songs/tzur-mishelo/tenor): the middle of the chord, most often on G, then C. In verse 1 it stays on its top C from "amarnu" to the first syllable of "kadosh" while the other parts move around it. Its only low D is on "naale." in verse 4.
-- [Bass](/songs/tzur-mishelo/bass): the bass line, most often on B-flat, then G. In every refrain it reaches its low F on "achalnu," and, a moment later, its top E-flat on "barchu" and "emunai,".
+- [Tenor](/songs/tzur-mishelo/tenor): the middle of the chord, most often on G, then C. In verse 1 it stays on its top C from "amarnu" to the first syllable of "kadosh" while the other parts move around it. Its only low D is on the "a-" of "naale." in verse 4.
+- [Bass](/songs/tzur-mishelo/bass): the bass line, most often on B-flat, then G. In every refrain it reaches its low F on the "chal-" of "achalnu," and, a moment later, its top E-flat on "barchu" and the "emu-" of "emunai,".
 
 ## Questions
 

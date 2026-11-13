@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: e50494c6482a
+translatedFrom: b965b19a29be
 original: Jewish Encyclopedia, vol. 12, p. 658, Internet Archive | https://archive.org/details/cu31924091768295/page/n705/mode/1up
 ---
 
@@ -152,10 +152,10 @@ Nuestro arreglo toma la melodía de la página 658 del volumen 12 de la Jewish E
 
 ## Cómo cantarla
 
-- [Soprano](/songs/tzur-mishelo/soprano): lleva la melodía alemana; sus notas más frecuentes son Sol y luego La. El estribillo y las dos estrofas terminan igual: un salto hasta Re en el "-do-" de "Adoshem" ("kadoshem" en la estrofa 1), una caída rápida a Fa sostenido y la vuelta a Sol en "-shem". La segunda mitad de cada estrofa sube hasta el Fa agudo, en "lishmo" en la estrofa 1 y en "hanikdash" en la estrofa 4; está un semitono por encima de la extensión que solemos escribir para sopranos, así que cántalo con ligereza.
+- [Soprano](/songs/tzur-mishelo/soprano): lleva la melodía alemana; sus notas más frecuentes son Sol y luego La. El estribillo y las dos estrofas terminan igual: un salto hasta Re en el "-do-" de "Adoshem" ("kadoshem" en la estrofa 1), una caída rápida a Fa sostenido y la vuelta a Sol en "-shem". La segunda mitad de cada estrofa sube hasta el Fa agudo, en el "mo" de "lishmo" en la estrofa 1 y en el "dash" de "hanikdash" en la estrofa 4; está un semitono por encima de la extensión que solemos escribir para sopranos, así que cántalo con ligereza.
 - [Contralto](/songs/tzur-mishelo/alto): canta bajo la melodía, la mayor parte del tiempo una tercera o una sexta por debajo; sus notas más frecuentes son Fa y luego Si bemol. En cada "Adoshem." baja a su La grave justo cuando la melodía salta a Re, lo mantiene mientras la melodía cae a Fa sostenido y sube por grado conjunto a Si bemol cuando la melodía llega a Sol; escúchala sola con la soprano en el reproductor para oír cómo se encuentran las dos líneas.
-- [Tenor](/songs/tzur-mishelo/tenor): el centro del acorde; sus notas más frecuentes son Sol y luego Do. En la estrofa 1 se queda en su Do agudo desde "amarnu" hasta la primera sílaba de "kadosh" mientras las demás voces se mueven a su alrededor. Su único Re grave está en "naale." en la estrofa 4.
-- [Bajo](/songs/tzur-mishelo/bass): la línea del bajo; sus notas más frecuentes son Si bemol y luego Sol. En cada estribillo llega a su Fa grave en "achalnu," y, un momento después, a su Mi bemol agudo en "barchu" y "emunai,".
+- [Tenor](/songs/tzur-mishelo/tenor): el centro del acorde; sus notas más frecuentes son Sol y luego Do. En la estrofa 1 se queda en su Do agudo desde "amarnu" hasta la primera sílaba de "kadosh" mientras las demás voces se mueven a su alrededor. Su único Re grave está en el "a-" de "naale." en la estrofa 4.
+- [Bajo](/songs/tzur-mishelo/bass): la línea del bajo; sus notas más frecuentes son Si bemol y luego Sol. En cada estribillo llega a su Fa grave en el "chal-" de "achalnu," y, un momento después, a su Mi bemol agudo en "barchu" y el "emu-" de "emunai,".
 
 ## Preguntas
 

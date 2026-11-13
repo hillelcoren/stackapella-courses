@@ -131,10 +131,10 @@ Our arrangement is read from the third edition's page, in B-flat as printed, for
 
 ## Singing it
 
-- [Soprano](/songs/shoshanat-yaakov/soprano): the tune, most often on F, then G. The line beginning "l'hodia" opens with its biggest leap, a sixth from F up to D, and climbs to the top E-flat on "lo" and "yevoshu". It also dips below the usual soprano range, to low B-flat on "Yaakov" and "Teshuatam", just as Baer printed it.
-- [Alto](/songs/shoshanat-yaakov/alto): mostly a third or a sixth under the tune, most often on D, then E-flat, up to its top B-flat only on "velo". In the soft last line it holds D through "Vegam Charvona" while the tune moves above it, meeting the tune on "char-".
-- [Tenor](/songs/shoshanat-yaakov/tenor): the middle of the chord, most often on B-flat, then G, up to its top E-flat on "yevoshu", "velo" and "yikalmu". The first time through it stays on its low D from "Shoshanat" to the start of "vesamecha"; the second time it starts on F and moves. Solo it in the player to hear the change.
-- [Bass](/songs/shoshanat-yaakov/bass): the roots of the chords nearly all the time, most often on B-flat, then C. It reaches its top B-flat only on "velo" and drops to its low F on "bechol", "vador" and "hachosim". In the last line it rocks between F and B-flat on "zachur latov".
+- [Soprano](/songs/shoshanat-yaakov/soprano): the tune, most often on F, then G. The line beginning "l'hodia" opens with its biggest leap, a sixth from F up to D, and climbs to the top E-flat on "lo" and the "vo-" of "yevoshu". It also dips below the usual soprano range, to low B-flat on the "a-" of "Yaakov" and of "Teshuatam", just as Baer printed it.
+- [Alto](/songs/shoshanat-yaakov/alto): mostly a third or a sixth under the tune, most often on D, then E-flat, up to its top B-flat only on the "lo" of "velo". In the soft last line it stays on D, one note to each syllable, through "Vegam Charvona" while the tune moves above it, meeting the tune on "char-".
+- [Tenor](/songs/shoshanat-yaakov/tenor): the middle of the chord, most often on B-flat, then G, up to its top E-flat on the "shu," of "yevoshu,", the "ve-" of "velo" and the "yi-" of "yikalmu". The first time through it stays on its low D from "Shoshanat" to the start of "vesamecha"; the second time it starts on F and moves. Solo it in the player to hear the change.
+- [Bass](/songs/shoshanat-yaakov/bass): the roots of the chords nearly all the time, most often on B-flat, then C. It reaches its top B-flat only on the "lo" of "velo" and drops to its low F on the "be-" of "bechol", the "va-" of "vador" and the "sim" of "hachosim". In the last line it rocks between F and B-flat on "zachur latov".
 
 ## Questions
 

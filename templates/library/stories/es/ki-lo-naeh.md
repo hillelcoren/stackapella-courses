@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
 original: The Union Haggadah (1923), p. 84, University of Florida scan, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/n103
-translatedFrom: 3f426b4d585d
+translatedFrom: 58890895c8da
 ---
 
 Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
@@ -197,10 +197,10 @@ Hay otras melodías. La Jewish Encyclopedia menciona varias, y en 1929 el histor
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ki-lo-naeh/soprano): la melodía, y cada estrofa sola, con más frecuencia en La, luego en Fa sostenido. En cada estrofa, el Re grave de "gedudav", "shinanav" o "temimav" salta directamente una sexta hasta Si, y el Sol sostenido de "yomru" se inclina hacia arriba hasta "lo:". El Re agudo resuena en cada "yae." y, en cada respuesta, en el primer "lecha" y en el "lecha" que va antes de "af".
-- [Contralto](/songs/ki-lo-naeh/alto): descansa durante las estrofas solistas y entra en "Ki lo nae, ki lo yae." y en cada respuesta, casi siempre una tercera o una sexta por debajo de la melodía. Su Fa sostenido agudo llega en cada "yae." y, en cada respuesta, en el primer "lecha", en "ki lecha," y en "lecha af lecha,"; su La grave, solo en el "Ki lo" que abre cada "Ki lo nae,".
-- [Tenor](/songs/ki-lo-naeh/tenor): descansa en las estrofas y luego mantiene el centro del acorde en Fa sostenido, Sol y La casi todo el tiempo. Su Do sostenido agudo llega en el primer "lecha" de cada respuesta, y baja a su Re grave en cada "nae,".
-- [Bajo](/songs/ki-lo-naeh/bass): descansa en las estrofas y luego canta la línea del bajo, con más frecuencia en Re, luego en Si. Baja a su Fa sostenido grave en cada "nae," y en "af" y "hamamlacha," en cada respuesta, y sube a su Fa sostenido agudo en el "lecha" que va antes de "Adoshem".
+- [Soprano](/songs/ki-lo-naeh/soprano): la melodía, y cada estrofa sola, con más frecuencia en La, luego en Fa sostenido. En cada estrofa, el Re grave de la primera sílaba de "gedudav", "shinanav" o "temimav" salta directamente una sexta hasta Si, y el Sol sostenido del "ru" de "yomru" se inclina hacia arriba hasta "lo:". El Re agudo resuena en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha" y del "lecha" que va antes de "af".
+- [Contralto](/songs/ki-lo-naeh/alto): descansa durante las estrofas solistas y entra en "Ki lo nae, ki lo yae." y en cada respuesta, sobre todo una tercera o una sexta por debajo de la melodía. Su Fa sostenido agudo llega en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha", en el "ki" y el "le-" de "ki lecha," y en el "-cha af le-" de "lecha af lecha,"; su La grave, solo en el "Ki lo" que abre cada "Ki lo nae,".
+- [Tenor](/songs/ki-lo-naeh/tenor): descansa en las estrofas y luego mantiene el centro del acorde en Fa sostenido, Sol y La casi todo el tiempo. Su Do sostenido agudo llega en el "le-" del primer "lecha" de cada respuesta, y baja a su Re grave en el "na-" de cada "nae,".
+- [Bajo](/songs/ki-lo-naeh/bass): descansa en las estrofas y luego canta la línea del bajo, con más frecuencia en Re, luego en Si. Baja a su Fa sostenido grave en el "e," de cada "nae," y el "ki" que le sigue, y en "af", el "le-" del "lecha," que le sigue y el "ha-" de "hamamlacha," en cada respuesta, y sube a su Fa sostenido agudo en el "le-" del "lecha" que va antes de "Adoshem".
 
 ## Preguntas
 

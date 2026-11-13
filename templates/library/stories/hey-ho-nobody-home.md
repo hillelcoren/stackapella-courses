@@ -82,7 +82,7 @@ fill the pot Eadie.
 
 ## Singing it
 
-- [Soprano](/songs/hey-ho-nobody-home/soprano): you start alone and carry the tune three times, so everyone hears it first. "Hey" and "ho" are long notes; "nobody at home" falls to middle C, your lowest note; and the last line, "fill the pot, Eadie", sits on your top note, C. Hold the last "Eadie".
+- [Soprano](/songs/hey-ho-nobody-home/soprano): you start alone and carry the tune three times, so everyone hears it first. "Hey" and "ho" are long notes; the "home" of "nobody at home" falls to middle C, your lowest note; and the last line, "fill the pot, Eadie", sits on your top note, C. Hold the last "Eadie".
 - [Alto](/songs/hey-ho-nobody-home/alto): the same tune at the same pitch, a bar after the soprano: nothing new to learn. The hard part is keeping your place: as you sing "Hey", the soprano is already on "nobody at home".
 - [Tenor](/songs/hey-ho-nobody-home/tenor): the same tune an octave lower, from the C below middle C up to middle C, a bar after the alto. As you start, the soprano is on "meat nor drink nor" and the alto on "nobody at home".
 - [Bass](/songs/hey-ho-nobody-home/bass): the tenor's low tune, coming in last, a bar after it; from your entry, four of the tune's five bars sound at once. You finish alone, holding the last "Eadie" after the tenor stops.

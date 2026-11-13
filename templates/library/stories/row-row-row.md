@@ -84,7 +84,7 @@ Life is but a dream.
 
 ## Singing it
 
-- [Soprano](/songs/row-row-row/soprano): you start alone and carry the tune three times through, so everyone hears it first. Your top note is the C on the first "Mer-", and each "merrily" is three quick notes on one pitch, dropping C, G, E, C. Breathe in the shortened "stream" and "dream"; hold the last "dream" a full bar.
+- [Soprano](/songs/row-row-row/soprano): you start alone and carry the tune three times through, so everyone hears it first. Your top note is the C of the first "Merrily", and each "merrily" is three quick notes on one pitch, dropping C, G, E, C. Breathe in the shortened "stream" and "dream"; hold the last "dream" a full bar.
 - [Alto](/songs/row-row-row/alto): the same tune at the same pitch, two bars after the soprano: nothing new to learn. The hard part is holding your place: as you sing "Row, row", the soprano is two bars ahead, on "gently down the stream".
 - [Tenor](/songs/row-row-row/tenor): the same tune an octave lower, from the C below middle C up to middle C, two bars after the alto. As you start, the soprano is on "Merrily" and the alto on "gently down the stream".
 - [Bass](/songs/row-row-row/bass): the tenor's low tune, coming in last, two bars after it; from your entry all four lines sound at once. You finish alone: after the tenor's last "dream", you sing "Life is but a dream" by yourself and hold the last note a full bar.

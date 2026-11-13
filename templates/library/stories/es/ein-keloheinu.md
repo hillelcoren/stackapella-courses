@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 6a64a1e5489a
+translatedFrom: eeb069a713e2
 original: Union Hymnal (Nueva York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
@@ -172,10 +172,10 @@ Nuestro arreglo se basa en el Union Hymnal de 1897, n.º 17. El libro lo imprime
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ein-keloheinu/soprano): la melodía de Freudenthal, con más frecuencia en Sol, luego en Si. Sube a su Mi agudo en "kemalkenu," en la estrofa 1, en "lemalkenu," en la estrofa 3 y en "malkenu," en la estrofa 5, y solo baja a su Do sostenido grave cerca del final de las estrofas 2 y 4, en "ch'moshienu." y "moshienu.".
-- [Contralto](/songs/ein-keloheinu/alto): por debajo de la melodía, sobre todo una tercera o una sexta más abajo; su nota más frecuente es Re. Toca su Si grave en el "Ein" inicial, en "Node" y en "Ata hu", y en el último "moshienu." termina en su Si agudo, una tercera por encima de la melodía.
-- [Tenor](/songs/ein-keloheinu/tenor): el centro del acorde; su nota más frecuente es La. Se queda en La durante unas tres cuartas partes de las estrofas 2 y 4, y sube a su Mi agudo en la última sílaba de "kemalkenu," en la estrofa 1 y de "lemalkenu," en la estrofa 3, justo después del punto más alto de la melodía, y en el último "ata" de la estrofa 5.
-- [Bajo](/songs/ein-keloheinu/bass): la línea del bajo, sobre todo en la fundamental de los acordes y sobre todo en Sol y Re. Solo baja a su La grave en las estrofas 2 y 4, en "mi chadoneinu," y "ch'moshienu." y en "baruch adoneinu," y "moshienu.".
+- [Soprano](/songs/ein-keloheinu/soprano): la melodía de Freudenthal, con más frecuencia en Sol, luego en Si. Sube a su Mi agudo en el segundo "ke-" de "kemalkenu," en la estrofa 1 y en el "ke-" de "lemalkenu," en la estrofa 3 y de "malkenu," en la estrofa 5, y solo baja a su Do sostenido grave cerca del final de las estrofas 2 y 4, en el "shi-" de "ch'moshienu." y de "moshienu.".
+- [Contralto](/songs/ein-keloheinu/alto): por debajo de la melodía, sobre todo una tercera o una sexta más abajo; su nota más frecuente es Re. Toca su Si grave en el "Ein" inicial, en "Node" y en el "ta hu" de "Ata hu", y en el último "moshienu." termina en su Si agudo, una tercera por encima de la melodía.
+- [Tenor](/songs/ein-keloheinu/tenor): el centro del acorde; su nota más frecuente es La. Se queda en La durante unas tres cuartas partes de las estrofas 2 y 4, y sube a su Mi agudo en la última sílaba de "kemalkenu," en la estrofa 1 y de "lemalkenu," en la estrofa 3, justo después del punto más alto de la melodía, y en el "a-" del último "ata" de la estrofa 5.
+- [Bajo](/songs/ein-keloheinu/bass): la línea del bajo, sobre todo en la fundamental de los acordes y sobre todo en Sol y Re. Solo baja a su La grave en las estrofas 2 y 4, en el "mi chado-" de "mi chadoneinu,", el "ch'moshie-" de "ch'moshienu.", el "baruch ado-" de "baruch adoneinu," y el "moshie-" de "moshienu.".
 
 ## Preguntas
 
@@ -197,7 +197,7 @@ Sí. Existe una versión en ladino, o judeoespañol, de las comunidades sefardí
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agudo en "kemalkenu," en la estrofa 1. Con dos cantantes son soprano y contralto, la contralto sobre todo una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
+La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agudo en el segundo "ke-" de "kemalkenu," en la estrofa 1. Con dos cantantes son soprano y contralto, la contralto sobre todo una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
 
 ## Canta después
 

@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: 5140ee22262b
+translatedFrom: e667308da0c6
 original: Baer, Baal T'fillah, 3.ª edición, pp. 90 a 91, Internet Archive | https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 ---
 
@@ -223,10 +223,10 @@ Nuestro arreglo se basa en el Baal T'fillah, o Der practische Vorbeter, "el ofic
 
 ## Cómo cantarla
 
-- [Soprano](/songs/lecha-dodi/soprano): la melodía. El estribillo empieza agudo, llega a su Mi agudo en cada "dodi" y luego baja a su Re grave en "penei" antes de volver a subir. La estrofa 1 empieza en ese Re grave en "Shamor", luego se queda en Sol seis sílabas seguidas, sube a Si en "Kel" en su segundo verso y solo llega a Re al final del todo, en "velithila.".
-- [Contralto](/songs/lecha-dodi/alto): bajo la melodía, la mayor parte del tiempo una tercera o una sexta por debajo; su nota más frecuente es Mi. Abre cada estribillo en su Si agudo en "Lecha", y vuelve a subir a ese Si en la última palabra de cada estrofa, "velithila." y "chala!".
-- [Tenor](/songs/lecha-dodi/tenor): el centro del acorde; sus notas más frecuentes son Sol y luego Do. Empieza cada estribillo en su Re agudo en "Lecha", y solo en el último "nekabela." baja a su Re grave, una octava más abajo.
-- [Bajo](/songs/lecha-dodi/bass): la línea del bajo; sus notas más frecuentes son Do y luego Re. Regresa a su Sol grave al final de cada verso de las dos estrofas, y en cada "Lecha", "likrat", "Shabat" y "nekabela.".
+- [Soprano](/songs/lecha-dodi/soprano): la melodía. El estribillo empieza agudo, llega a su Mi agudo en el "do-" de cada "dodi" y luego baja a su Re grave en el "pe-" de "penei" antes de volver a subir. La estrofa 1 empieza en ese Re grave en "Shamor", luego se queda en Sol seis sílabas seguidas, sube a Si en "Kel" en su segundo verso y solo llega a Re al final del todo, en el "la." de "velithila.".
+- [Contralto](/songs/lecha-dodi/alto): bajo la melodía, la mayor parte del tiempo una tercera o una sexta por debajo; su nota más frecuente es Mi. Abre cada estribillo en su Si agudo en "Lecha", y vuelve a subir a ese Si en la última sílaba de cada estrofa, el "la." de "velithila." y el "la!" de "chala!".
+- [Tenor](/songs/lecha-dodi/tenor): el centro del acorde; sus notas más frecuentes son Sol y luego Do. Empieza cada estribillo en su Re agudo en "Lecha", y solo en el "la." del último "nekabela." baja a su Re grave, una octava más abajo.
+- [Bajo](/songs/lecha-dodi/bass): la línea del bajo; sus notas más frecuentes son Do y luego Re. Regresa a su Sol grave al final de cada verso de las dos estrofas, y en cada "Lecha", el "rat" de cada "likrat", el "Sha-" de cada "Shabat" y el "la." de cada "nekabela.".
 
 ## Preguntas
 
@@ -248,7 +248,7 @@ Porque nunca se fijó una melodía para ella. Ninguna fuente de la época de Alk
 
 ### ¿Qué voz canta la melodía?
 
-La soprano, de principio a fin: la melodía de las semanas del Ómer tal como la imprimió Abraham Baer desde 1877, la misma que Francis L. Cohen imprimió también en 1904. Con dos cantantes son soprano y contralto, la contralto casi siempre una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer][^baer1877][^je]
+La soprano, de principio a fin: la melodía de las semanas del Ómer tal como la imprimió Abraham Baer desde 1877, la misma que Francis L. Cohen imprimió también en 1904. Con dos cantantes son soprano y contralto, la contralto sobre todo una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer][^baer1877][^je]
 
 ## Canta después
 

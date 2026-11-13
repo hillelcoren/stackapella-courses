@@ -189,10 +189,10 @@ Our arrangement is read from page 81 of the Union Haggadah, revised edition, pub
 
 ## Singing it
 
-- [Soprano](/songs/adir-hu/soprano): the tune, most often on G, then C. Each verse opens low, on E, for the names, then climbs: the top E comes on the second "bimhera," and on "veitcha" in the last line, which settles back on C.
-- [Alto](/songs/adir-hu/alto): a third or a sixth under the tune most of the time, mostly on E. Its top A comes only on "bimhera," and its low B only on the "bekarov." after "beyameinu", in every verse.
-- [Tenor](/songs/adir-hu/tenor): the middle of the chord on just five notes, mostly on G. It rises to C on the third "adir hu,", on "yachid hu," and "rachum hu,", on every second "bimhera," and every "beyameinu", and dips to F on the first "bekarov," and the one after "beyameinu".
-- [Bass](/songs/adir-hu/bass): mostly the roots of the chords, on a low C most of the time, holding it under the names that open each verse. It reaches its top G only on "veito" and drops to its low F on the last "bekarov." of every verse.
+- [Soprano](/songs/adir-hu/soprano): the tune, most often on G, then C. Each verse opens low, on E, for the names, then climbs: the top E comes on the "he-" of the second "bimhera," and the "cha" of "veitcha" in the last line, which settles back on C.
+- [Alto](/songs/adir-hu/alto): a third or a sixth under the tune most of the time, mostly on E. Its top A comes only on the "ra," of the second "bimhera," and its low B only on the "ka-" of the "bekarov." after "beyameinu", in every verse.
+- [Tenor](/songs/adir-hu/tenor): the middle of the chord on just five notes, mostly on G. It rises to C on the "dir hu," of the third "adir hu,", the "chid hu," of "yachid hu," and the "chum hu," of "rachum hu,", on every second "bimhera," and the "be-" of every "beyameinu", and dips to F on the "ka-" of the first "bekarov," and the "be-" and "ka-" of the one after "beyameinu".
+- [Bass](/songs/adir-hu/bass): mostly the roots of the chords, on a low C most of the time, staying on it, one note to each syllable, under the names that open each verse. It reaches its top G only on the "vei-" of "veito" and drops to its low F on the "be-" of the last "bekarov." of every verse.
 
 ## Questions
 

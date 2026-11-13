@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: white coral bells historia | white coral bells significado | quién escribió white coral bells | white coral bells letra en español | white coral bells canon
-translatedFrom: 39e392950544
+translatedFrom: 711710199855
 original: Hollis Dann, Fourth Year Music (American Book Company, Nueva York, 1916), Internet Archive | https://archive.org/details/hollisdannmusic01danngoog
 ---
 
@@ -86,9 +86,9 @@ El "May Bells" de Dann, de 1916, es "White Coral Bells" en el cancionero 4-H de 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/white-coral-bells/soprano): empiezas el canon en solitario y cantas las dos estrofas dos veces, así que todos oyen primero la melodía. Abarca una décima, desde el Si bemol grave en "Lilies" y "That" hasta el Re agudo en "our" de "deck our garden walk" y en "the" de "when the fairies sing", y cada vez recorres toda esa subida en dos compases. Empieza la subida con ligereza para no tener que forzar el Re.
+- [Soprano](/songs/white-coral-bells/soprano): empiezas el canon en solitario y cantas las dos estrofas dos veces, así que todos oyen primero la melodía. Abarca una décima, desde el Si bemol grave en el "Lil-" de "Lilies" y en "That" hasta el Re agudo en "our" de "deck our garden walk" y en "the" de "when the fairies sing", y cada vez recorres toda esa subida en dos compases. Empieza la subida con ligereza para no tener que forzar el Re.
 - [Contralto](/songs/white-coral-bells/alto): la misma melodía a la misma altura, cuatro compases después de la soprano: nada nuevo que aprender. La prueba es tu "White coral bells" del principio, que baja por la escala mientras la soprano sube desde debajo de ti, se encuentra contigo en Fa y pasa por encima de ti en "deck our".
-- [Tenor](/songs/white-coral-bells/tenor): la misma melodía una octava más abajo, entrando cuatro compases después de la contralto. Tu nota más aguda es el Re de "our" y "the", y la más grave, el Si bemol de "Lilies" y "That".
+- [Tenor](/songs/white-coral-bells/tenor): la misma melodía una octava más abajo, entrando cuatro compases después de la contralto. Tu nota más aguda es el Re de "our" y "the", y la más grave, el Si bemol del "Lil-" de "Lilies" y de "That".
 - [Bajo](/songs/white-coral-bells/bass): la melodía grave del tenor, entrando en último lugar, cuatro compases después de él; desde tu entrada, las cuatro frases suenan a la vez. Como empiezas el último, terminas en solitario, en "That could happen only when the fairies sing", así que el canon acaba en tu voz. Sostén el último "sing" hasta la barra de compás.
 
 ## Preguntas

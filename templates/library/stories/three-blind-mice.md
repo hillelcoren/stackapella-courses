@@ -90,7 +90,7 @@ As three blind mice.
 
 ## Singing it
 
-- [Soprano](/songs/three-blind-mice/soprano): you start the round alone and carry the tune twice through, so everyone hears it first. You go down to the low C on every "mice" and up to the top C on "all ran", "farmer's", "cut off their", "carving", "ever you" and "sight". "Three blind mice" is slow, a beat or more to each note; the "farmer's wife" and "carving knife" lines are quick, mostly three to a beat.
+- [Soprano](/songs/three-blind-mice/soprano): you start the round alone and carry the tune twice through, so everyone hears it first. You go down to the low C on every "mice" and up to the top C on "all ran", the "farm-" of "farmer's", "cut off their", the "carv-" of "carving", "ever you" and "sight". "Three blind mice" is slow, a beat or more to each note; the "farmer's wife" and "carving knife" lines are quick, two or three notes to a beat.
 - [Alto](/songs/three-blind-mice/alto): the same tune at the same pitch, four bars after the soprano: nothing new to learn. The hard part is holding your place: as you sing "Three blind mice", the soprano is already on "See how they run".
 - [Tenor](/songs/three-blind-mice/tenor): the same tune an octave lower, from the C below middle C up to middle C, four bars after the alto. As you start, the soprano is on "They all ran after the farmer's wife" and the alto on "See how they run".
 - [Bass](/songs/three-blind-mice/bass): the tenor's low tune, coming in last, four bars after it; from your entry all four lines sound at once. You finish alone, from "ever you see such a sight in your life" to the last "As three blind mice".

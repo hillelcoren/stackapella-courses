@@ -173,10 +173,10 @@ Each stanza sings its last line twice, as Idelsohn's repeat signs ask.[^id1912] 
 
 ## Singing it
 
-- [Soprano](/songs/maoz-tzur/soprano): the tune. It starts low, dipping to its low B on "Maoz" and "Tikon", and climbs in the third line to its top E, held for two beats on "matbeach,". Verse 5 does the same on "Yevanim" and "kankanim,".
+- [Soprano](/songs/maoz-tzur/soprano): the tune. It starts low, dipping to its low B on the "oz" of "Maoz" and the "kon" of "Tikon", and climbs in the third line to its top E, held for two beats on the "be-" of "matbeach,". Verse 5 does the same on the "va-" of "Yevanim", the "far-" of "Ufartzu" and the "ka-" of "kankanim,".
 - [Alto](/songs/maoz-tzur/alto): mostly a third or a sixth under the tune, on G-sharp more than anywhere. Listen for the end of every "hamizbeach." and "urenanim.", where the alto leaps up a fourth to G-sharp, a third above the tune's last note.
 - [Tenor](/songs/maoz-tzur/tenor): the middle of the chord, most often on B, then E. Each time verse 1 ends on "chanukat hamizbeach." it holds its B for over three beats while the tune steps down above it to its last note; solo it in the player to hear that hold.
-- [Bass](/songs/maoz-tzur/bass): mostly the roots of the chords, E just over half the time. It reaches up to A on "hamenabeach." and "naasa", and drops to its low A on every "chanukat hamizbeach." and "kav'u shir urenanim.".
+- [Bass](/songs/maoz-tzur/bass): mostly the roots of the chords, E just over half the time. It reaches up to A on the "ha-" of "hamenabeach." and the "sa" of "naasa", and drops to its low A on many notes, among them the "kat hamizbe-" of every "chanukat hamizbeach." and the "'u shir u-" of every "kav'u shir urenanim.".
 
 ## Questions
 

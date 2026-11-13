@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: hey ho nobody home historia | hey ho nobody home significado | hey ho nobody home letra en español | quién escribió hey ho nobody home | hey ho nobody home canon | hey ho nobody home villancico
-translatedFrom: 57f6eca963ab
+translatedFrom: 52742f73142f
 original: Thomas Ravenscroft, Pammelia (1609), Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_pammelia-musicks-miscel_ravenscroft-thomas_1609
 ---
 
@@ -86,7 +86,7 @@ llena la jarra, Eadie.
 
 ## Cómo cantarla
 
-- [Soprano](/songs/hey-ho-nobody-home/soprano): empiezas en solitario y llevas la melodía tres veces, así que todos la oyen primero. "Hey" y "ho" son notas largas; "nobody at home" baja hasta el Do central, tu nota más grave; y el último verso, "fill the pot, Eadie", va en tu nota más aguda, Do. Sostén el último "Eadie".
+- [Soprano](/songs/hey-ho-nobody-home/soprano): empiezas en solitario y llevas la melodía tres veces, así que todos la oyen primero. "Hey" y "ho" son notas largas; el "home" de "nobody at home" baja hasta el Do central, tu nota más grave; y el último verso, "fill the pot, Eadie", va en tu nota más aguda, Do. Sostén el último "Eadie".
 - [Contralto](/songs/hey-ho-nobody-home/alto): la misma melodía a la misma altura, un compás después de la soprano: nada nuevo que aprender. Lo difícil es no perder tu sitio: mientras cantas "Hey", la soprano ya está en "nobody at home".
 - [Tenor](/songs/hey-ho-nobody-home/tenor): la misma melodía una octava más grave, desde el Do por debajo del Do central hasta el Do central, un compás después de la contralto. Cuando empiezas, la soprano está en "meat nor drink nor" y la contralto en "nobody at home".
 - [Bajo](/songs/hey-ho-nobody-home/bass): la melodía grave del tenor, entrando en último lugar, un compás después de él; desde tu entrada, suenan a la vez cuatro de los cinco compases de la melodía. Terminas en solitario: sostienes el último "Eadie" cuando el tenor ya ha parado.

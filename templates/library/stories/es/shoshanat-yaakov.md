@@ -13,7 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 4b37d819efee
+translatedFrom: 368b928c7962
 original: Baal T'fillah (Gotemburgo, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
@@ -132,10 +132,10 @@ Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como e
 
 ## Cómo cantarla
 
-- [Soprano](/songs/shoshanat-yaakov/soprano): la melodía; sus notas más frecuentes son Fa y luego Sol. El verso que empieza con "l'hodia" abre con su salto más grande, una sexta de Fa a Re, y sube hasta el Mi bemol agudo en "lo" y "yevoshu". También baja por debajo de la extensión habitual de soprano, hasta el Si bemol grave en "Yaakov" y "Teshuatam", tal como lo imprimió Baer.
-- [Contralto](/songs/shoshanat-yaakov/alto): casi siempre una tercera o una sexta bajo la melodía; sus notas más frecuentes son Re y luego Mi bemol, y solo sube a su Si bemol agudo en "velo". En el último verso suave mantiene Re durante "Vegam Charvona" mientras la melodía se mueve por encima, y se encuentra con ella en "char-".
-- [Tenor](/songs/shoshanat-yaakov/tenor): el centro del acorde; sus notas más frecuentes son Si bemol y luego Sol, y sube a su Mi bemol agudo en "yevoshu", "velo" y "yikalmu". La primera vez se queda en su Re grave desde "Shoshanat" hasta el comienzo de "vesamecha"; la segunda vez empieza en Fa y se mueve. Escúchalo solo en el reproductor para oír el cambio.
-- [Bajo](/songs/shoshanat-yaakov/bass): la fundamental de los acordes casi todo el tiempo; sus notas más frecuentes son Si bemol y luego Do. Solo llega a su Si bemol agudo en "velo" y baja a su Fa grave en "bechol", "vador" y "hachosim". En el último verso oscila entre Fa y Si bemol en "zachur latov".
+- [Soprano](/songs/shoshanat-yaakov/soprano): la melodía; sus notas más frecuentes son Fa y luego Sol. El verso que empieza con "l'hodia" abre con su salto más grande, una sexta de Fa a Re, y sube hasta el Mi bemol agudo en "lo" y el "vo-" de "yevoshu". También baja por debajo de la extensión habitual de soprano, hasta el Si bemol grave en el "a-" de "Yaakov" y de "Teshuatam", tal como lo imprimió Baer.
+- [Contralto](/songs/shoshanat-yaakov/alto): casi siempre una tercera o una sexta bajo la melodía; sus notas más frecuentes son Re y luego Mi bemol, y solo sube a su Si bemol agudo en el "lo" de "velo". En el último verso suave se queda en Re, una nota por sílaba, durante "Vegam Charvona" mientras la melodía se mueve por encima, y se encuentra con ella en "char-".
+- [Tenor](/songs/shoshanat-yaakov/tenor): el centro del acorde; sus notas más frecuentes son Si bemol y luego Sol, y sube a su Mi bemol agudo en el "shu," de "yevoshu,", el "ve-" de "velo" y el "yi-" de "yikalmu". La primera vez se queda en su Re grave desde "Shoshanat" hasta el comienzo de "vesamecha"; la segunda vez empieza en Fa y se mueve. Escúchalo solo en el reproductor para oír el cambio.
+- [Bajo](/songs/shoshanat-yaakov/bass): la fundamental de los acordes casi todo el tiempo; sus notas más frecuentes son Si bemol y luego Do. Solo llega a su Si bemol agudo en el "lo" de "velo" y baja a su Fa grave en el "be-" de "bechol", el "va-" de "vador" y el "sim" de "hachosim". En el último verso oscila entre Fa y Si bemol en "zachur latov".
 
 ## Preguntas
 

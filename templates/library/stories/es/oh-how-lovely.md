@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oh how lovely is the evening historia | oh how lovely is the evening significado | quién escribió oh how lovely is the evening | oh how lovely is the evening letra en español | o wie wohl ist mir am abend significado | o wie wohl ist mir am abend canon
-translatedFrom: 5be02bfb363e
+translatedFrom: 9f62cbd4e83b
 ---
 
 Oh, How Lovely Is the Evening, también impreso como "O How Lovely Is the Evening" y "Lovely Evening" [^dann1916], es un canon corto sobre las campanas del atardecer: tres versos que cantan voces que empiezan una tras otra, el último de ellos solo "Ding, dong" en una sola nota grave [^emc1896]. Es la versión inglesa de un canon alemán, "O wie wohl ist mir am Abend", que significa "oh, qué bien me siento al atardecer" [^fliedner1842][^liederprojekt]. La impresión más antigua que encontramos está en un cancionero alemán para niños pequeños de 1842, donde los niños hacían como que tiraban de las cuerdas de las campanas en su "bim, bam, bom!" [^fliedner1842]. En 1869 se imprimió una versión inglesa en Canadá, y la letra que cantamos se enseñó en 1892 a una sala llena de trabajadores de Nueva York [^sefton1869][^harpers1892].
@@ -97,7 +97,7 @@ cuando las campanas suenan dulcemente, suenan dulcemente:
 
 ## Cómo cantarla
 
-- [Soprano](/songs/oh-how-lovely/soprano): empiezas el canon en solitario y lo cantas entero tres veces, para que todos lo oigan primero. Subes al Do agudo en cada "sweetly" y bajas al Mi bemol grave en "O", al final de "lovely" y de cada "evening", y durante todo el verso "Ding, dong". Mantén firmes esas seis notas largas, que suenen como una campana bajo las demás voces.
+- [Soprano](/songs/oh-how-lovely/soprano): empiezas el canon en solitario y lo cantas entero tres veces, para que todos lo oigan primero. Subes al Do agudo en el "sweet-" de cada "sweetly" y bajas al Mi bemol grave en "O", al final de "lovely" y de cada "evening", y durante todo el verso "Ding, dong". Mantén firmes esas seis notas largas, que suenen como una campana bajo las demás voces.
 - [Contralto](/songs/oh-how-lovely/alto): la misma melodía a la misma altura, seis compases después de la soprano, entrando justo cuando esta empieza "When the bells are sweetly ringing". Tu "O how lovely" queda una tercera por debajo de su línea, así que mantén tu propia melodía y escucha el acorde.
 - [Tenor](/songs/oh-how-lovely/tenor): la misma melodía una octava más abajo, seis compases después de la contralto, entrando cuando la soprano llega a "Ding, dong". Desde tu entrada suenan los tres versos a la vez: cuenta las notas de "Ding, dong", de tres tiempos cada una.
 - [Bajo](/songs/oh-how-lovely/bass): la melodía grave del tenor, entrando en último lugar, seis compases después de él: la línea de la soprano una octava por debajo de ella. Terminas en solitario en el último "Ding, dong", así que el canon acaba en la campana.

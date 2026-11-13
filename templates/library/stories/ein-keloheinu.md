@@ -171,10 +171,10 @@ Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it i
 
 ## Singing it
 
-- [Soprano](/songs/ein-keloheinu/soprano): Freudenthal's tune, most often on G, then B. It climbs to its top E on "kemalkenu," in verse 1, "lemalkenu," in verse 3 and "malkenu," in verse 5, and dips to its low C-sharp only near the end of verses 2 and 4, on "ch'moshienu." and "moshienu.".
-- [Alto](/songs/ein-keloheinu/alto): under the tune, mostly a third or a sixth below, most often on D. It touches its low B on the opening "Ein", "Node" and "Ata hu", and on the very last "moshienu." it ends on its top B, a third above the tune.
-- [Tenor](/songs/ein-keloheinu/tenor): the middle of the chord, most often on A. It stays on A for about three quarters of verses 2 and 4, and rises to its top E on the last syllable of "kemalkenu," in verse 1 and "lemalkenu," in verse 3, just after the tune's high point, and on the last "ata" in verse 5.
-- [Bass](/songs/ein-keloheinu/bass): the bass line, mostly on the chords' roots and mostly on G and D. It drops to its low A only in verses 2 and 4, on "mi chadoneinu," and "ch'moshienu." and on "baruch adoneinu," and "moshienu.".
+- [Soprano](/songs/ein-keloheinu/soprano): Freudenthal's tune, most often on G, then B. It climbs to its top E on the second "ke-" of "kemalkenu," in verse 1 and the "ke-" of "lemalkenu," in verse 3 and "malkenu," in verse 5, and dips to its low C-sharp only near the end of verses 2 and 4, on the "shi-" of "ch'moshienu." and "moshienu.".
+- [Alto](/songs/ein-keloheinu/alto): under the tune, mostly a third or a sixth below, most often on D. It touches its low B on the opening "Ein", "Node" and the "ta hu" of "Ata hu", and on the very last "moshienu." it ends on its top B, a third above the tune.
+- [Tenor](/songs/ein-keloheinu/tenor): the middle of the chord, most often on A. It stays on A for about three quarters of verses 2 and 4, and rises to its top E on the last syllable of "kemalkenu," in verse 1 and "lemalkenu," in verse 3, just after the tune's high point, and on the "a-" of the last "ata" in verse 5.
+- [Bass](/songs/ein-keloheinu/bass): the bass line, mostly on the chords' roots and mostly on G and D. It drops to its low A only in verses 2 and 4, on the "mi chado-" of "mi chadoneinu,", the "ch'moshie-" of "ch'moshienu.", the "baruch ado-" of "baruch adoneinu," and the "moshie-" of "moshienu.".
 
 ## Questions
 
@@ -196,7 +196,7 @@ Yes. There is a Ladino, or Judeo-Spanish, version, sung in Sephardi communities.
 
 ### Which part sings the tune?
 
-The soprano sings Freudenthal's tune throughout, up to its top E on "kemalkenu," in verse 1. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.
+The soprano sings Freudenthal's tune throughout, up to its top E on the second "ke-" of "kemalkenu," in verse 1. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.
 
 ## Sing next
 

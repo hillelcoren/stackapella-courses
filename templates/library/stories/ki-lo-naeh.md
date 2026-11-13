@@ -196,10 +196,10 @@ There are other tunes. The Jewish Encyclopedia mentions several, and in 1929 the
 
 ## Singing it
 
-- [Soprano](/songs/ki-lo-naeh/soprano): the tune, and every verse alone, most often on A, then F-sharp. In each verse the low D of "gedudav", "shinanav" or "temimav" leaps straight up a sixth to B, and the G-sharp on "yomru" leans up into "lo:". The top D rings on every "yae." and, in each answer, on the first "lecha" and the "lecha" before "af".
-- [Alto](/songs/ki-lo-naeh/alto): rests through the solo verses and joins for "Ki lo nae, ki lo yae." and every answer, mostly a third or a sixth below the tune. Its top F-sharp comes on every "yae." and, in each answer, on the first "lecha", "ki lecha," and "lecha af lecha,"; its low A only on the "Ki lo" that opens every "Ki lo nae,".
-- [Tenor](/songs/ki-lo-naeh/tenor): rests in the verses, then holds the middle of the chord on F-sharp, G and A nearly all the time. Its top C-sharp comes on the first "lecha" of every answer, and it drops to its low D on every "nae,".
-- [Bass](/songs/ki-lo-naeh/bass): rests in the verses, then sings the bass line, most often on D, then B. It falls to its low F-sharp on every "nae," and on "af" and "hamamlacha," in each answer, and climbs to its top F-sharp on the "lecha" before "Adoshem".
+- [Soprano](/songs/ki-lo-naeh/soprano): the tune, and every verse alone, most often on A, then F-sharp. In each verse the low D on the first syllable of "gedudav", "shinanav" or "temimav" leaps straight up a sixth to B, and the G-sharp on the "ru" of "yomru" leans up into "lo:". The top D rings on the "e." of every "yae." and, in each answer, on the "cha" of the first "lecha" and of the "lecha" before "af".
+- [Alto](/songs/ki-lo-naeh/alto): rests through the solo verses and joins for "Ki lo nae, ki lo yae." and every answer, mostly a third or a sixth below the tune. Its top F-sharp comes on the "e." of every "yae." and, in each answer, on the "cha" of the first "lecha", the "ki" and "le-" of "ki lecha," and the "-cha af le-" of "lecha af lecha,"; its low A only on the "Ki lo" that opens every "Ki lo nae,".
+- [Tenor](/songs/ki-lo-naeh/tenor): rests in the verses, then holds the middle of the chord on F-sharp, G and A nearly all the time. Its top C-sharp comes on the "le-" of the first "lecha" of every answer, and it drops to its low D on the "na-" of every "nae,".
+- [Bass](/songs/ki-lo-naeh/bass): rests in the verses, then sings the bass line, most often on D, then B. It falls to its low F-sharp on the "e," of every "nae," and the "ki" after it, and on "af", the "le-" of the "lecha," after it and the "ha-" of "hamamlacha," in each answer, and climbs to its top F-sharp on the "le-" of the "lecha" before "Adoshem".
 
 ## Questions
 

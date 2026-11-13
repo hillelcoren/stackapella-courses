@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: a64935a0e8fa
+translatedFrom: dacf6f162e8e
 original: Idelsohn, Jewish Music, p. 401, Internet Archive | https://archive.org/details/jewishmusicinits00idel_0/page/n418/mode/1up
 ---
 
@@ -203,9 +203,9 @@ En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanav
 
 ## Cómo cantarla
 
-- [Soprano](/songs/eliyahu-hanavi/soprano): la melodía popular; sus notas más frecuentes son Sol y luego Si bemol y Re. Sus notas largas en "navi,", "tishbi," y "giladi." caen en el segundo tiempo del compás. Atención al último "Eliyahu" antes de "hagiladi.", donde la sílaba "ya" salta de Sol a su Mi bemol agudo, la única vez que la melodía llega allí en cada vuelta.
-- [Contralto](/songs/eliyahu-hanavi/alto): casi siempre una tercera o una sexta bajo la melodía; sus notas más frecuentes son Mi bemol y luego Re. Baja a su La grave en "hanavi," y sube a su Sol agudo en "hatishbi,", en el primer "Eliyahu," y en el "Eliyahu" antes de "hagiladi.". Sus dos Fa sostenidos, en el segundo "Eliyahu," y en el "ha-" de "hagiladi.", conviene afinarlos altos.
-- [Tenor](/songs/eliyahu-hanavi/tenor): el centro del acorde; sus notas más frecuentes son Si bemol y luego Sol. Sube a su Re agudo en el primer "Eliyahu," de cada vuelta, y termina en su Re grave, una octava por debajo, solo en el último "hagiladi.", bajo el acorde final.
+- [Soprano](/songs/eliyahu-hanavi/soprano): la melodía popular; sus notas más frecuentes son Sol y luego Si bemol y Re. Sus notas largas, las últimas sílabas de "navi,", "tishbi," y "giladi.", caen en el segundo tiempo del compás. Atención al último "Eliyahu" antes de "hagiladi.", donde la sílaba "ya" salta de Sol a su Mi bemol agudo, la única vez que la melodía llega allí en cada vuelta.
+- [Contralto](/songs/eliyahu-hanavi/alto): sobre todo una tercera o una sexta bajo la melodía; sus notas más frecuentes son Mi bemol y luego Re. Baja a su La grave en el "na-" de "hanavi," y sube a su Sol agudo en el "tish-" de "hatishbi,", en el "ya-" del primer "Eliyahu," y en el "hu" del "Eliyahu" antes de "hagiladi.". Sus dos Fa sostenidos, en el "hu," del segundo "Eliyahu," y en el "ha-" de "hagiladi.", conviene afinarlos altos.
+- [Tenor](/songs/eliyahu-hanavi/tenor): el centro del acorde; sus notas más frecuentes son Si bemol y luego Sol. Sube a su Re agudo en las tres primeras sílabas del primer "Eliyahu," de cada vuelta, y termina en su Re grave, una octava por debajo, solo en el "di." del último "hagiladi.", bajo el acorde final.
 - [Bajo](/songs/eliyahu-hanavi/bass): la línea del bajo; sus notas más frecuentes son Sol y luego Si bemol. Empieza en su Sol grave, y en el "Eliyahu" antes de "hatishbi," salta una octava hasta su Sol agudo; escúchalo solo en el reproductor para oír el salto.
 
 ## Preguntas
@@ -228,7 +228,7 @@ Porque Elías es el invitado al que se espera la noche del séder. Después de l
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn, una tercera menor más alta. La contralto canta con ella, casi siempre una tercera o una sexta por debajo. Con tres cantantes se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^idel1929]
+La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn, una tercera menor más alta. La contralto canta con ella, sobre todo una tercera o una sexta por debajo. Con tres cantantes se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^idel1929]
 
 ## Canta después
 

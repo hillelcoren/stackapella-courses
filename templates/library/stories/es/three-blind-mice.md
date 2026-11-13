@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: three blind mice historia | three blind mice significado | quién escribió three blind mice | three blind mice canon | three blind mice bloody mary significado | tres ratones ciegos canción
-translatedFrom: a2b4c8f098a4
+translatedFrom: 06fac3d5c76e
 original: Deuteromelia (Londres, 1609), Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_deuteromelia-or-the-sec_ravenscroft-thomas_1609
 ---
 
@@ -98,7 +98,7 @@ como tres ratones ciegos?
 
 ## Cómo cantarla
 
-- [Soprano](/songs/three-blind-mice/soprano): empiezas el canon en solitario y llevas la melodía dos veces de principio a fin, así que todos la oyen primero. Bajas al Do grave en cada "mice" y subes al Do agudo en "all ran", "farmer's", "cut off their", "carving", "ever you" y "sight". "Three blind mice" va lento, un tiempo o más por nota; los versos de "farmer's wife" y "carving knife" son rápidos, casi siempre tres notas por tiempo.
+- [Soprano](/songs/three-blind-mice/soprano): empiezas el canon en solitario y llevas la melodía dos veces de principio a fin, así que todos la oyen primero. Bajas al Do grave en cada "mice" y subes al Do agudo en "all ran", el "farm-" de "farmer's", "cut off their", el "carv-" de "carving", "ever you" y "sight". "Three blind mice" va lento, un tiempo o más por nota; los versos de "farmer's wife" y "carving knife" son rápidos, dos o tres notas por tiempo.
 - [Contralto](/songs/three-blind-mice/alto): la misma melodía a la misma altura, cuatro compases después de la soprano: nada nuevo que aprender. Lo difícil es no perder tu sitio: mientras cantas "Three blind mice", la soprano ya está en "See how they run".
 - [Tenor](/songs/three-blind-mice/tenor): la misma melodía una octava más grave, desde el Do por debajo del Do central hasta el Do central, cuatro compases después de la contralto. Cuando empiezas, la soprano está en "They all ran after the farmer's wife" y la contralto en "See how they run".
 - [Bajo](/songs/three-blind-mice/bass): la melodía grave del tenor, entrando en último lugar, cuatro compases después de él; desde tu entrada, los cuatro versos suenan a la vez. Terminas en solitario, desde "ever you see such a sight in your life" hasta el último "As three blind mice".

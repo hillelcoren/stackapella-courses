@@ -222,10 +222,10 @@ Our arrangement is read from Baal T'fillah, or Der practische Vorbeter, "the pra
 
 ## Singing it
 
-- [Soprano](/songs/lecha-dodi/soprano): the tune. The refrain starts high, reaching its top E on every "dodi", then drops to its low D on "penei" before climbing again. Verse 1 starts on that low D on "Shamor", then holds G for six syllables in a row, rises to B on "Kel" in its second line, and climbs to D only at its very end, on "velithila.".
-- [Alto](/songs/lecha-dodi/alto): under the tune, mostly a third or a sixth below it, most often on E. It opens every refrain on its top B on "Lecha", and climbs back to that B on the last word of each verse, "velithila." and "chala!".
-- [Tenor](/songs/lecha-dodi/tenor): the middle of the chord, most often on G, then C. It starts each refrain on its top D on "Lecha", and only on the very last "nekabela." does it drop to its low D, an octave down.
-- [Bass](/songs/lecha-dodi/bass): the bass line, most often on C, then D. It comes home to its low G at the end of every line of both verses, and on every "Lecha", "likrat", "Shabat" and "nekabela.".
+- [Soprano](/songs/lecha-dodi/soprano): the tune. The refrain starts high, reaching its top E on the "do-" of every "dodi", then drops to its low D on the "pe-" of "penei" before climbing again. Verse 1 starts on that low D on "Shamor", then holds G for six syllables in a row, rises to B on "Kel" in its second line, and climbs to D only at its very end, on the "la." of "velithila.".
+- [Alto](/songs/lecha-dodi/alto): under the tune, mostly a third or a sixth below it, most often on E. It opens every refrain on its top B on "Lecha", and climbs back to that B on the last syllable of each verse, the "la." of "velithila." and the "la!" of "chala!".
+- [Tenor](/songs/lecha-dodi/tenor): the middle of the chord, most often on G, then C. It starts each refrain on its top D on "Lecha", and only on the "la." of the very last "nekabela." does it drop to its low D, an octave down.
+- [Bass](/songs/lecha-dodi/bass): the bass line, most often on C, then D. It comes home to its low G at the end of every line of both verses, and on every "Lecha", the "rat" of every "likrat", the "Sha-" of every "Shabat" and the "la." of every "nekabela.".
 
 ## Questions
 

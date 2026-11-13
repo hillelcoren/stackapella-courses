@@ -93,7 +93,7 @@ Ding, dong, ding, dong, ding, dong!
 
 ## Singing it
 
-- [Soprano](/songs/oh-how-lovely/soprano): you start the round alone and sing it three times through, so everyone hears it first. You go up to the top C on each "sweetly", and down to the low E-flat on "O", at the end of "lovely" and of each "evening", and for the whole "Ding, dong" line. Keep those six long notes steady, ringing like a bell under the others.
+- [Soprano](/songs/oh-how-lovely/soprano): you start the round alone and sing it three times through, so everyone hears it first. You go up to the top C on the "sweet-" of each "sweetly", and down to the low E-flat on "O", at the end of "lovely" and of each "evening", and for the whole "Ding, dong" line. Keep those six long notes steady, ringing like a bell under the others.
 - [Alto](/songs/oh-how-lovely/alto): the same tune at the same pitch, six bars after the soprano, coming in just as she starts "When the bells are sweetly ringing". Your "O how lovely" sits a third below her line, so hold your own tune and listen for the chord.
 - [Tenor](/songs/oh-how-lovely/tenor): the same tune an octave lower, six bars after the alto, coming in as the soprano reaches "Ding, dong". From your entry all three lines sound at once: count the "Ding, dong" notes, three beats each.
 - [Bass](/songs/oh-how-lovely/bass): the tenor's low tune, coming in last, six bars after it: the soprano's line an octave below her. You finish alone on the last "Ding, dong", so the round ends on the bell.

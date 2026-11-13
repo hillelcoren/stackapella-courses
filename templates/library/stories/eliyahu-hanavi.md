@@ -202,9 +202,9 @@ In the Edot HaMizrach prayer book each stanza ends "Eliyahu hanavi zachur latov"
 
 ## Singing it
 
-- [Soprano](/songs/eliyahu-hanavi/soprano): the folk tune, most often on G, then B-flat and D. Its long notes on "navi,", "tishbi," and "giladi." fall on the second beat of the bar. Listen for the last "Eliyahu" before "hagiladi.", where the syllable "ya" leaps from G up to the top E-flat, the tune's only visit there each time through.
-- [Alto](/songs/eliyahu-hanavi/alto): mostly a third or a sixth under the tune, most often on E-flat, then D. It dips to its low A on "hanavi," and climbs to its top G on "hatishbi,", the first "Eliyahu," and the "Eliyahu" before "hagiladi.". Its two F-sharps, on the second "Eliyahu," and the "ha-" of "hagiladi.", are worth tuning high.
-- [Tenor](/songs/eliyahu-hanavi/tenor): the middle of the chord, most often on B-flat, then G. It rises to its top D on the first "Eliyahu," each time through, and ends on its low D, an octave under that, only on the very last "hagiladi.", under the final chord.
+- [Soprano](/songs/eliyahu-hanavi/soprano): the folk tune, most often on G, then B-flat and D. Its long notes, the last syllables of "navi,", "tishbi," and "giladi.", fall on the second beat of the bar. Listen for the last "Eliyahu" before "hagiladi.", where the syllable "ya" leaps from G up to the top E-flat, the tune's only visit there each time through.
+- [Alto](/songs/eliyahu-hanavi/alto): mostly a third or a sixth under the tune, most often on E-flat, then D. It dips to its low A on the "na-" of "hanavi," and climbs to its top G on the "tish-" of "hatishbi,", the "ya-" of the first "Eliyahu," and the "hu" of the "Eliyahu" before "hagiladi.". Its two F-sharps, on the "hu," of the second "Eliyahu," and the "ha-" of "hagiladi.", are worth tuning high.
+- [Tenor](/songs/eliyahu-hanavi/tenor): the middle of the chord, most often on B-flat, then G. It rises to its top D on the first three syllables of the first "Eliyahu," each time through, and ends on its low D, an octave under that, only on the "di." of the very last "hagiladi.", under the final chord.
 - [Bass](/songs/eliyahu-hanavi/bass): the bass line, most often on G, then B-flat. It opens on its low G, and on the "Eliyahu" before "hatishbi," it jumps an octave to its top G; solo it in the player to hear the leap.
 
 ## Questions

@@ -167,10 +167,10 @@ Salamone Rossi included a setting for eight voices in his collection of Hebrew s
 
 ## Singing it
 
-- [Soprano](/songs/adon-olam/soprano): the old tune, most often on A, then D. Once each time through it leaps up to its top E, on "b'terem", "levado", "lehamshilo" and "ishan", where the second phrase begins, and it walks down to its low D at the end of the first and last phrases each time through.
+- [Soprano](/songs/adon-olam/soprano): the old tune, most often on A, then D. Once each time through it leaps up to its top E, on the "rem" of "b'terem", the "va-" of "levado", the "ham-" of "lehamshilo" and the "i-" of "ishan", just after the second phrase begins, and it walks down to its low D at the end of the first and last phrases each time through.
 - [Alto](/songs/adon-olam/alto): mostly a third or a sixth under the tune. Listen at the end of the first and last phrases, on "malach," or "nikra.": the tune falls F, E, D while the alto climbs D, E, F, so the two cross and the alto ends a third above it. Solo the alto in the player to hear it.
-- [Tenor](/songs/adon-olam/tenor): the middle of the chord, most often on A, then C. It opens each time through on its top D, on "Adon olam", "Veacharei", "Vehu echad" and "Beyado", and sinks to its low F in the third phrase, on "naasa" and "vecheftzo" the first time.
-- [Bass](/songs/adon-olam/bass): the bass line, most often on D, then A. It reaches its top F where the second phrase begins, on "b'terem", "levado", "lehamshilo" and "b'et", and goes down to its low F, an octave under it, in the last phrase, on "melech", "yihye", "haoz" and "li".
+- [Tenor](/songs/adon-olam/tenor): the middle of the chord, most often on A, then C. It opens each time through on its top D, on "Adon olam", "Veacharei", "Vehu echad" and "Beyado", and sinks to its low F in the third phrase, on the "sa" of "naasa" and the "ve-" of "vecheftzo" the first time.
+- [Bass](/songs/adon-olam/bass): the bass line, most often on D, then A. It reaches its top F where the second phrase begins, on the "b'te-" of "b'terem", the "le-" of "levado" and of "lehamshilo", and "b'et", and goes down to its low F, an octave under it, in the last phrase, on the "lech" of "melech", the "ye" of "yihye", the "oz" of "haoz" and "li".
 
 ## Questions
 

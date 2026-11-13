@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oy chanukah letra en español | oy chanukah canción en ídish | oy chanukah significado | oy chanukah historia | canción de janucá en ídish | oh chanukah letra
-translatedFrom: 21bee172af00
+translatedFrom: d7f2491f4543
 original: Lider-zamelbukh, n.º 24, p. 32, Internet Archive | https://archive.org/details/nybc202667/page/n142/mode/1up
 ---
 
@@ -141,9 +141,9 @@ Nuestro arreglo está tomado de la cuarta edición del cancionero, publicada en 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/oy-chanukah/soprano): la melodía jasídica tal como la imprime el libro, rápida y ligera, casi toda en semicorcheas, cuatro por pulso. Salta a su Fa agudo en el segundo "Khanike," y en "freylekher," en la estrofa 1, y en "fartribn" y "hamikdesh" en la estrofa 2. Luego, en "geshvinder tsindt, kinder", se balancea entre su Fa grave y el Do de encima, y sostiene cada "-der" un pulso entero.
-- [Contralto](/songs/oy-chanukah/alto): la segunda voz de Lvov, con la letra, casi siempre una tercera o una sexta por debajo de la melodía, sobre todo en La bemol. Su Si bemol agudo llega en "likhtelekh" y en "hamakabi". Al final de cada estrofa baja junto a la melodía, una sexta por debajo, hasta su La bemol grave en "kon." y "oykh.".
-- [Tenor](/songs/oy-chanukah/tenor): el centro del acorde, sacado de la mano izquierda del piano de Lvov, con la letra. Se queda en Do durante "Oy, Khanike, oy Khanike" y sube a su Mi agudo en "sheyner," y "azoyner." en la estrofa 1 y en "rotseyekh," y "lamnatseyekh." en la estrofa 2. En los dos últimos compases de cada estrofa baja por Sol y Mi hasta su Do grave en "kon." y "oykh.".
+- [Soprano](/songs/oy-chanukah/soprano): la melodía jasídica tal como la imprime el libro, rápida y ligera, la mayoría de sus notas en semicorcheas, cuatro por pulso. Salta a su Fa agudo en el "Khani-" del segundo "Khanike," y el "freyle-" de "freylekher," en la estrofa 1, y en el "-tribn" de "fartribn" y el "-mikdesh" de "hamikdesh" en la estrofa 2. Luego, en "geshvinder tsindt, kinder", se balancea entre su Fa grave y el Do de encima, y sostiene cada "-der" un pulso entero.
+- [Contralto](/songs/oy-chanukah/alto): la segunda voz de Lvov, con la letra, casi siempre una tercera o una sexta por debajo de la melodía, sobre todo en La bemol. Su Si bemol agudo llega en el "likh-" de "likhtelekh" y el "ka-" de "hamakabi". Al final de cada estrofa baja junto a la melodía, una sexta por debajo, hasta su La bemol grave en "kon." y "oykh.".
+- [Tenor](/songs/oy-chanukah/tenor): el centro del acorde, sacado de la mano izquierda del piano de Lvov, con la letra. Se queda en Do durante "Oy, Khanike, oy Khanike" y sube a su Mi agudo en el "shey-" de "sheyner," y el "zoy-" de "azoyner." en la estrofa 1 y en el "tse-" de "rotseyekh," y de "lamnatseyekh." en la estrofa 2. En los dos últimos compases de cada estrofa baja por Sol y Mi hasta su Do grave en "kon." y "oykh.".
 - [Bajo](/songs/oy-chanukah/bass): la línea del bajo del piano de Lvov en "dm", una nota corta una o dos veces por compás, sobre todo en Fa, y en su Fa grave bajo "geshvinder tsindt, kinder". Solo se suma a la letra en la última palabra de cada estrofa, "kon." y "oykh.", en su Fa grave.
 
 ## Preguntas

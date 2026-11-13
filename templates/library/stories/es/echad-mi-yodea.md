@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: f4374bd4ca26
+translatedFrom: 0a285c186789
 original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
@@ -392,10 +392,10 @@ Los judíos sefardíes de habla ladina de Salónica, Rodas y Turquía cantan su 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/echad-mi-yodea/soprano): la melodía tradicional; sus notas más frecuentes son Fa y luego Do. Cada estrofa empieza con dos Fa y salta una quinta hasta Do. Su Re bemol agudo llega en un giro rápido de semicorcheas en el primer "yodea," y en "shebashamayim" en cada estrofa, y su Mi grave, solo en "uvaaretz.".
-- [Contralto](/songs/echad-mi-yodea/alto): bajo la melodía, la mayor parte del tiempo una sexta por debajo; sus notas más frecuentes son La bemol y luego Mi bemol. Atención al "yodea," que sigue a "ani" en cada estrofa: termina en Mi becuadro, aunque la contralto cantó Mi bemol en "ani" un momento antes. Su Fa agudo llega en "ani" en las estrofas 1, 3 y 4, en el "shenayim" que sigue a "mi yodea," en la estrofa 2 y en cada "shebashamayim", y su La bemol grave, en el número que abre cada estrofa, en el "echad" antes de cada "elokeinu" y en cada "uvaaretz.".
-- [Tenor](/songs/echad-mi-yodea/tenor): el centro del acorde; sus notas más frecuentes son La bemol y luego Fa. Sube a su Si bemol agudo en el primer "yodea," de las estrofas 1 y 4 y en cada "avot,", "imahot," y "hab'rit,", y baja a su Do grave en cada "uvaaretz.". En la última estrofa sube a Fa y Sol en "uva-" antes de caer a ese Do grave.
-- [Bajo](/songs/echad-mi-yodea/bass): la línea del bajo; sus notas más frecuentes son Fa y luego Do, con su Fa grave en el número que abre cada estrofa, en cada "elokeinu" y en cada "uvaaretz.". En "echad elokeinu shebashamayim" se mueve casi en cada corchea.
+- [Soprano](/songs/echad-mi-yodea/soprano): la melodía tradicional; sus notas más frecuentes son Fa y luego Do. Cada estrofa empieza con dos Fa y salta una quinta hasta Do. Su Re bemol agudo llega en un giro rápido de semicorcheas en el "de-" del primer "yodea," y en el "she-" de "shebashamayim" en cada estrofa, y su Mi grave, solo en el "va-" de "uvaaretz.".
+- [Contralto](/songs/echad-mi-yodea/alto): bajo la melodía, la mayor parte del tiempo una sexta por debajo; sus notas más frecuentes son La bemol y luego Mi bemol. Atención al "yodea," que sigue a "ani" en cada estrofa: termina en Mi becuadro, aunque la contralto cantó Mi bemol en "ani" un momento antes. Su Fa agudo llega en el "a-" de "ani" en las estrofas 1, 3 y 4, en el "yim" del "shenayim" que sigue a "mi yodea," en la estrofa 2 y en el "she-" de cada "shebashamayim", y su La bemol grave, en el número que abre cada estrofa (solo el "Shena-" de "Shenayim"), en el "chad" del "echad" antes de cada "elokeinu" y en el "u-", el "a-" y el "retz." de cada "uvaaretz.".
+- [Tenor](/songs/echad-mi-yodea/tenor): el centro del acorde; sus notas más frecuentes son La bemol y luego Fa. Sube a su Si bemol agudo en el "de-" del primer "yodea," de las estrofas 1 y 4, en cada "avot,", en el "ma-" y el "hot," de "imahot," y en el "ha-" de cada "hab'rit,", y baja a su Do grave en "uvaaretz." en las estrofas 1 a 3. En la última estrofa sube a Fa y Sol en "uva-" antes de caer a ese Do grave.
+- [Bajo](/songs/echad-mi-yodea/bass): la línea del bajo; sus notas más frecuentes son Fa y luego Do, con su Fa grave en el número que abre cada estrofa (solo el "Shena-" de "Shenayim"), en el "lo-" de cada "elokeinu" y en el "a-" y el "retz." de cada "uvaaretz.". En "echad elokeinu shebashamayim" se mueve casi en cada corchea.
 
 ## Preguntas
 
@@ -413,7 +413,7 @@ Sí, desde sus primeros testimonios asquenazíes. La copia asquenazí más antig
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin, tal como la imprime la Union Haggadah en su página 93, aquí una tercera menor más alta, en Fa menor.[^uh1923] La contralto canta bajo ella, casi siempre una sexta por debajo, y el tenor y el bajo completan el acorde. Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro, el tenor.
+La soprano canta la melodía de principio a fin, tal como la imprime la Union Haggadah en su página 93, aquí una tercera menor más alta, en Fa menor.[^uh1923] La contralto canta bajo ella, sobre todo una sexta por debajo, y el tenor y el bajo completan el acorde. Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro, el tenor.
 
 ## Canta después
 

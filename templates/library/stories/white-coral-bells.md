@@ -81,9 +81,9 @@ Dann's "May Bells" of 1916 is "White Coral Bells" in the Alabama 4-H songbook of
 
 ## Singing it
 
-- [Soprano](/songs/white-coral-bells/soprano): you start the round alone and sing both verses twice, so everyone hears the tune first. It spans a tenth, from the low B-flat on "Lilies" and "That" up to the top D on "our" in "deck our garden walk" and on "the" in "when the fairies sing", and each time you climb that whole way within two bars. Start the climb lightly so the D doesn't have to be pushed.
+- [Soprano](/songs/white-coral-bells/soprano): you start the round alone and sing both verses twice, so everyone hears the tune first. It spans a tenth, from the low B-flat on the "Lil-" of "Lilies" and on "That" up to the top D on "our" in "deck our garden walk" and on "the" in "when the fairies sing", and each time you climb that whole way within two bars. Start the climb lightly so the D doesn't have to be pushed.
 - [Alto](/songs/white-coral-bells/alto): the same tune at the same pitch, four bars after the soprano: nothing new to learn. The test is your opening "White coral bells", which steps down the scale while the soprano climbs from below you, meets you on F, and passes above you on "deck our".
-- [Tenor](/songs/white-coral-bells/tenor): the same tune an octave lower, coming in four bars after the alto. Your top note is the D on "our" and "the", and your lowest the B-flat on "Lilies" and "That".
+- [Tenor](/songs/white-coral-bells/tenor): the same tune an octave lower, coming in four bars after the alto. Your top note is the D on "our" and "the", and your lowest the B-flat on the "Lil-" of "Lilies" and on "That".
 - [Bass](/songs/white-coral-bells/bass): the tenor's low tune, coming in last, four bars after it; from your entry all four lines sound at once. Because you start last, you finish alone, on "That could happen only when the fairies sing", so the round ends in your voice. Hold the last "sing" to the bar line.
 
 ## Questions

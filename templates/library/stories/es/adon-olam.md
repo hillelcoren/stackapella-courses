@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 9288c9c52101
+translatedFrom: 06e9ebba63e8
 original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
@@ -168,10 +168,10 @@ Salamone Rossi incluyó una versión a ocho voces en su colección de cantos heb
 
 ## Cómo cantarla
 
-- [Soprano](/songs/adon-olam/soprano): la melodía antigua; sus notas más frecuentes son La y luego Re. Una vez en cada vuelta salta a su Mi agudo, en "b'terem", "levado", "lehamshilo" e "ishan", donde empieza la segunda frase, y baja paso a paso a su Re grave al final de la primera y la última frase de cada vuelta.
-- [Contralto](/songs/adon-olam/alto): casi siempre una tercera o una sexta bajo la melodía. Escucha el final de la primera y la última frase, en "malach," o "nikra.": la melodía baja Fa, Mi, Re mientras la contralto sube Re, Mi, Fa, así que las dos se cruzan y la contralto termina una tercera por encima. Pon la contralto sola en el reproductor para oírlo.
-- [Tenor](/songs/adon-olam/tenor): el centro del acorde; sus notas más frecuentes son La y luego Do. Abre cada vuelta en su Re agudo, en "Adon olam", "Veacharei", "Vehu echad" y "Beyado", y baja a su Fa grave en la tercera frase, en "naasa" y "vecheftzo" la primera vez.
-- [Bajo](/songs/adon-olam/bass): la línea del bajo; sus notas más frecuentes son Re y luego La. Llega a su Fa agudo donde empieza la segunda frase, en "b'terem", "levado", "lehamshilo" y "b'et", y baja a su Fa grave, una octava por debajo, en la última frase, en "melech", "yihye", "haoz" y "li".
+- [Soprano](/songs/adon-olam/soprano): la melodía antigua; sus notas más frecuentes son La y luego Re. Una vez en cada vuelta salta a su Mi agudo, en el "rem" de "b'terem", el "va-" de "levado", el "ham-" de "lehamshilo" y el "i-" de "ishan", justo después de que empiece la segunda frase, y baja paso a paso a su Re grave al final de la primera y la última frase de cada vuelta.
+- [Contralto](/songs/adon-olam/alto): sobre todo una tercera o una sexta bajo la melodía. Escucha el final de la primera y la última frase, en "malach," o "nikra.": la melodía baja Fa, Mi, Re mientras la contralto sube Re, Mi, Fa, así que las dos se cruzan y la contralto termina una tercera por encima. Pon la contralto sola en el reproductor para oírlo.
+- [Tenor](/songs/adon-olam/tenor): el centro del acorde; sus notas más frecuentes son La y luego Do. Abre cada vuelta en su Re agudo, en "Adon olam", "Veacharei", "Vehu echad" y "Beyado", y baja a su Fa grave en la tercera frase, en el "sa" de "naasa" y el "ve-" de "vecheftzo" la primera vez.
+- [Bajo](/songs/adon-olam/bass): la línea del bajo; sus notas más frecuentes son Re y luego La. Llega a su Fa agudo donde empieza la segunda frase, en el "b'te-" de "b'terem", el "le-" de "levado" y de "lehamshilo", y "b'et", y baja a su Fa grave, una octava por debajo, en la última frase, en el "lech" de "melech", el "ye" de "yihye", el "oz" de "haoz" y "li".
 
 ## Preguntas
 
@@ -189,7 +189,7 @@ Porque sus versos son cortos y estrictamente regulares, y les encajan muchas mel
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía antigua de principio a fin, cuatro veces, una por cada par de versos. Con dos cantantes, la contralto canta bajo ella, casi siempre una tercera o una sexta por debajo, y la cruza hacia arriba al final de la primera y la última frase. Con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
+La soprano canta la melodía antigua de principio a fin, cuatro veces, una por cada par de versos. Con dos cantantes, la contralto canta bajo ella, sobre todo una tercera o una sexta por debajo, y la cruza hacia arriba al final de la primera y la última frase. Con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
 
 ## Canta después
 

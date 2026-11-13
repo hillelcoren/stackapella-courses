@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: ae6638a6b2ae
+translatedFrom: fad807fd0677
 original: Idelsohn, Sefer ha-Shirim, p. 77, Internet Archive | https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 ---
 
@@ -174,10 +174,10 @@ Cada estrofa canta dos veces su último verso, como piden los signos de repetici
 
 ## Cómo cantarla
 
-- [Soprano](/songs/maoz-tzur/soprano): la melodía. Empieza grave, baja hasta su Si grave en "Maoz" y "Tikon", y en el tercer verso sube hasta su Mi agudo, sostenido dos pulsos en "matbeach,". La estrofa 5 hace lo mismo en "Yevanim" y "kankanim,".
+- [Soprano](/songs/maoz-tzur/soprano): la melodía. Empieza grave, baja hasta su Si grave en el "oz" de "Maoz" y el "kon" de "Tikon", y en el tercer verso sube hasta su Mi agudo, sostenido dos pulsos en el "be-" de "matbeach,". La estrofa 5 hace lo mismo en el "va-" de "Yevanim", el "far-" de "Ufartzu" y el "ka-" de "kankanim,".
 - [Contralto](/songs/maoz-tzur/alto): casi siempre una tercera o una sexta por debajo de la melodía, en Sol sostenido más que en ninguna otra nota. Fíjate en el final de cada "hamizbeach." y "urenanim.", donde la contralto salta una cuarta hacia arriba hasta Sol sostenido, una tercera por encima de la última nota de la melodía.
 - [Tenor](/songs/maoz-tzur/tenor): el centro del acorde, sobre todo en Si y luego en Mi. Cada vez que la estrofa 1 termina en "chanukat hamizbeach." sostiene su Si más de tres pulsos mientras la melodía baja por encima hasta su última nota; ponla en solo en el reproductor para oír esa nota larga.
-- [Bajo](/songs/maoz-tzur/bass): casi siempre las fundamentales de los acordes, Mi algo más de la mitad del tiempo. Sube hasta La en "hamenabeach." y "naasa", y baja a su La grave en cada "chanukat hamizbeach." y "kav'u shir urenanim.".
+- [Bajo](/songs/maoz-tzur/bass): casi siempre las fundamentales de los acordes, Mi algo más de la mitad del tiempo. Sube hasta La en el "ha-" de "hamenabeach." y el "sa" de "naasa", y baja a su La grave en muchas notas, entre ellas el "kat hamizbe-" de cada "chanukat hamizbeach." y el "'u shir u-" de cada "kav'u shir urenanim.".
 
 ## Preguntas
 
