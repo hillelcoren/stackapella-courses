@@ -6,23 +6,23 @@ words: Carolina Oliphant, Lady Nairne (1766 to 1845)
 tune: composer not known; printed under Finlay Dun's name (1795 to 1853)
 language: Scots
 origin: Scotland
-alsoKnownAs: Bonnie Charlie; Bonnie Charlie's Now Awa; Will Ye No' Come Back Again?
+alsoKnownAs: Bonnie Charlie; Will Ye No' Come Back Again?
 wikidata: Q4942314
 quote: Better lo'ed ye canna be
 quoteSource: gems1894
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: will ye no come back again meaning | will ye no come back again lyrics meaning | who wrote will ye no come back again | will ye no come back again lyrics english | will ye no come back again song | will ye no come back again bagpipes
 ---
 
-Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, about Prince Charles Edward Stuart, who escaped to France in September 1746 after his army's defeat at Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. It is also known as Bonnie Charlie, or by its first line, Bonnie Charlie's Now Awa [^hazard][^gems1894]. In five short verses the people who hid him ask: won't you come back? Lady Nairne was born at Gask in Perthshire twenty years later, into a family that had fought for him [^chambers][^dnb]. She published her songs anonymously and was named as their author only after she died [^rogers1869][^henderson1900][^dnb]. By 1900 her biographer counted it among the most familiar songs in the language [^henderson1900].
+Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, about Prince Charles Edward Stuart, who escaped to France in September 1746 after his army's defeat at Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. It is also known as Bonnie Charlie [^hazard][^scotlandspeople], and it opens "Bonnie Charlie's now awa" [^gems1894]. In five short verses the people who hid him ask: won't you come back? Lady Nairne was born at Gask in Perthshire twenty years later, into a family that had fought for him [^chambers][^dnb]. She published her songs anonymously and was named as their author only after she died [^rogers1869][^henderson1900][^dnb]. Around 1900 her biographer counted it among the most familiar songs in the language [^henderson1900].
 
 ## Where it comes from
 
 **The prince and the reward.** In the summer of 1745 Charles Edward Stuart landed in the western Highlands to win the crown for his exiled father, James Stuart; in early August the government offered £30,000 to whoever seized him [^blaikie][^chambers]. On 11 September he breakfasted at Gask, the Oliphants' house [^blaikie][^kington]. His army went as far as Derby and turned back [^blaikie][^kington], and on 16 April 1746 it was beaten at Culloden [^blaikie][^chambers]. He hid for five months in the Highlands and islands, the reward still offered, until a French ship took him off at Loch nan Uamh in September [^blaikie][^chambers].
 
-**The Oliphants of Gask.** Carolina's grandfather and father, both Laurence Oliphant, were out in the rising [^chambers][^kington], her father, the family records say, as one of the prince's aides-de-camp [^rogers1869][^kington]. After Culloden, the family papers show, they escaped to Sweden and France and lived in exile for seventeen years, coming home in 1763 [^kington][^rogers1869]. Carolina was born at Gask on 16 August 1766, by her father's list of births; a National Records of Scotland article gives 16 July [^kington][^henderson1900][^dnb][^scotlandspeople].
+**The Oliphants of Gask.** Carolina's grandfather and father, both Laurence Oliphant, were out in the rising, and both were attainted for it [^chambers][^kington]. Most of what else we know of them comes from the family's own papers at Gask, printed by Kington Oliphant, who also gave Rogers the early part of his memoir [^kington][^rogers1869]. By those papers her father rode as one of the prince's aides-de-camp on the march to Derby, and after Culloden father and son sailed for Sweden in November 1746, went on to France, and lived in exile for seventeen years, coming home in 1763 [^kington][^rogers1869]. Carolina was born at Gask on 16 August 1766, by her father's list of births; a National Records of Scotland article gives 16 July [^kington][^henderson1900][^dnb][^scotlandspeople].
 
 **The secret songwriter.** In June 1806 she married her cousin, Major William Murray Nairne, and they made their home in Edinburgh [^rogers1869][^kington][^dnb][^scotlandspeople]. Rogers and the Dictionary of National Biography both say she wrote Jacobite songs for an old kinsman, Robertson of Strowan [^rogers1869][^henderson1900][^dnb]. In 1821 the Edinburgh publisher Robert Purdie began The Scotish Minstrel, arranged by R. A. Smith, and she sent him songs as "Mrs. Bogan of Bogan", signed "B. B.", in a disguised hand [^minstrel][^rogers1869][^henderson1900][^dnb]. Rogers tells how she called on Purdie dressed as a gentlewoman of an older day, and he never guessed his contributor lived in Edinburgh [^rogers1869][^henderson1900]. The sixth and last volume came out in 1824, its editors thanking the author of "The Land of the Leal" without naming her, for fear of wounding "a delicacy which shrinks from all observation" [^minstrel6][^rogers1869]. That year her husband's forfeited peerage was restored, and she became Lady Nairne [^rogers1869][^kington][^dnb].
 
@@ -30,7 +30,7 @@ Will Ye No Come Back Again? is a Scots song by Carolina Oliphant, Lady Nairne, a
 
 **The song in print.** We have not been able to read Lays from Strathearn, so this song's earliest printing is not settled here; the earliest we have read is Rogers's The Modern Scottish Minstrel of 1855, five verses under her name [^rogers1855].
 
-**Two pages from Boston.** Our arrangement is read from Oliver Ditson's Gems of Scottish Song. In the printing catalogued as 1883 it is on page 107, headed only "Finlay Dun.", marked "In moderate time.", in F and 4/4: the tune on its own staff over the piano, three verses under the notes and two at the foot. The next page is another of her songs, "I Am Wearing Awa' to the Land o' the Leal" [^gems1883][^rogers1869][^dnb]. The 1894 printing re-engraves it on page 119, adding "Lady Nairne. (1766-1845)"; its "kent your", where 1883 has "kept your", is in smaller type, as if the plate had been corrected [^gems1894][^gems1883].
+**Two pages from Boston.** Our arrangement is read from Oliver Ditson's Gems of Scottish Song. In the printing catalogued as 1883 it is on page 107, headed only "Finlay Dun.", marked "In moderate time.", in F and 4/4. The next page is another of her songs, "I Am Wearing Awa' to the Land o' the Leal" [^gems1883][^rogers1869][^dnb]. The 1894 printing re-engraves it on page 119, adding "Lady Nairne. (1766-1845)"; its "kent your", where 1883 has "kept your", is in smaller type, as if the plate had been corrected [^gems1894][^gems1883].
 
 **The tune.** No one knows who made the air. Both Ditson pages credit only Finlay Dun (1795 to 1853), a viola player, singing teacher and music editor in Edinburgh, without saying whether he wrote it or arranged it [^gems1883][^gems1894][^grove][^moffat]. He had worked on her songs in her lifetime: in a letter Henderson prints, Purdie told "Mrs. Bogan" that the accompaniment of her "The Lammie" had been "so much altered by Mr. Dun, or indeed totally altered" [^henderson1900]. In 1898 S. J. Adair Fitz-Gerald wrote that the composer was not known and that her words had kept the air alive [^fitzgerald].
 
@@ -101,7 +101,7 @@ Will ye no come back again?
 
 It is a song for the home: in 1855 Rogers found her songs, mostly unknown as hers, familiar "in the drawing-room and the cottage" [^rogers1855], and Ditson printed it for voice and piano [^gems1883]. Both Ditson printings mark the chorus to grow louder, its high second line to be taken freely ("a piacere"), with a pause on that line's "gain?", and "Better lo'ed ye canna be" back in time [^gems1883][^gems1894].
 
-Our arrangement takes the tune from the 1883 printing and verse 2's words from the 1894 one, for 2 to 4 singers: verse 1, the chorus, verse 2 and the chorus again. Our chords are simpler than Dun's. We leave out the grace note and the pauses, and write in a breath at each line's end.
+Our arrangement takes the tune from the 1883 printing and verse 2's words from the 1894 one, for 2 to 4 singers. Our chords are simpler than Dun's. We leave out the grace note and the pauses, and write in a breath at each line's end.
 
 ## Versions and other words
 
@@ -113,9 +113,9 @@ The words differ between printings, and the record we have read does not settle 
 
 ## Did you know?
 
-- Her father's list of births, as Kington Oliphant prints it, enters her as "Carolina, after the King" [^kington][^henderson1900]. To a Jacobite family in 1766 the king was Charles himself, for his father James had died on 1 January that year [^chambers][^kington].
-- Charles answered the £30,000 offered for him by offering £30,000 for King George II [^blaikie][^chambers]. Blaikie, from the papers of the prince's secretary John Murray of Broughton, records that the first draft offered only £30 [^blaikie].
-- She kept her secret even from her husband [^dnb]. The friend who shared it told how, when he came into the room, she would spread a newspaper over her manuscripts [^kington][^henderson1900].
+- Her father's list of births enters her as "Carolina, after the King" [^kington][^henderson1900]. To a Jacobite family in 1766 the king was Charles himself, for his father James had died on 1 January that year [^chambers][^kington].
+- Charles answered the £30,000 offered for him by offering £30,000 for King George II [^blaikie][^chambers]. By the papers of the prince's secretary, the first draft offered only £30 [^blaikie].
+- She kept her secret even from her husband [^dnb]. The friend who shared it told how, when her husband came into the room, she would spread a newspaper over her manuscripts [^kington][^henderson1900].
 
 ## Singing it
 
@@ -151,8 +151,8 @@ The soprano sings the tune, as Ditson's Gems of Scottish Song printed it [^gems1
 - [^rogers1855]: Charles Rogers, *The Modern Scottish Minstrel; or, The Songs of Scotland of the Past Half Century*, vol. 1 (Edinburgh: A. & C. Black, 1855), pp. 192 to 193 (memoir of Lady Nairne) and p. 218, "Will Ye No Come Back Again?"; University of California Libraries copy (SRLF_UCLA:LAGE-2834748), facsimile, image n241. https://archive.org/details/modernscottishmi01roge/page/218
 - [^rogers1869]: Charles Rogers, *Life and Songs of the Baroness Nairne, with a Memoir and Poems of Caroline Oliphant the Younger* (London: Charles Griffin and Co., 1869), memoir pp. x, xii to xiii, xviii to xix, xxxii, xxxvi to xxxix, xliii to xliv, lxxv, lxxvii to lxxviii (image n86), and pp. 135 to 136, "Will Ye No Come Back Again?" (images n247 to n248); New York Public Library copy, facsimile. https://archive.org/details/lifeandsongsbar00rogegoog
 - [^henderson1900]: George Henderson, *Lady Nairne and Her Songs* (Paisley: Alexander Gardner, catalogued as 1900), pp. 14 to 15, 17, 19 to 24, 31 to 32, 79 to 81, 99 to 100; University of California Libraries copy (SRLF_UCR:LAGE-4480599), facsimile. https://archive.org/details/ladynairneherson00hend
-- [^kington]: T. L. Kington Oliphant, *The Jacobite Lairds of Gask* (London: Charles Griffin and Co., for the Grampian Club, 1870), pp. 107 to 109, 123, 348 to 349, 433 to 434; Allen County Public Library copy, facsimile. https://archive.org/details/jacobitelairdsof00king
-- [^minstrel]: R. A. Smith, arranger, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 1 and 2 (Edinburgh: Robert Purdie, catalogued as 1821), title page and preface; National Library of Scotland, Glen Collection, facsimile. https://archive.org/details/scotishminstrels12smit
+- [^kington]: T. L. Kington Oliphant, *The Jacobite Lairds of Gask* (London: Charles Griffin and Co., for the Grampian Club, 1870), pp. 107 to 109, 123, 211 to 212, 345, 348 to 349, 433 to 434; Allen County Public Library copy, facsimile. https://archive.org/details/jacobitelairdsof00king
+- [^minstrel]: R. A. Smith, arranger, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 1 and 2 (Edinburgh: Robert Purdie, catalogued as 1821), title page and preface; University of Western Ontario copy (MZ2079), facsimile. https://archive.org/details/scotishminstrels12smit
 - [^minstrel6]: R. A. Smith, arranger, *The Scotish Minstrel: A Selection from the Vocal Melodies of Scotland, Ancient and Modern*, vols. 5 and 6 (Edinburgh: Robert Purdie, catalogued as 1821), vol. 6, "Advertisement to Volume Sixth", dated Edinburgh, January 1824; University of Western Ontario copy (MZ2079), facsimile. https://archive.org/details/scotishminstrels56smit
 - [^blaikie]: Walter Biggar Blaikie, *Itinerary of Prince Charles Edward Stuart from His Landing in Scotland July 1745 to His Departure in September 1746* (Edinburgh: Scottish History Society, 1897), pp. 6, 8, 12, 29 to 31, 44 to 46, 70; University of Toronto copy, facsimile. https://archive.org/details/itineraryofprinc00blai
 - [^hazard]: Caroline Hazard, "The Value of History in the Formation of Character", *The School Review* 9, no. 10 (1901), pp. 636 to 648, at p. 639; JSTOR Early Journal Content, facsimile. https://archive.org/details/jstor-1075050
