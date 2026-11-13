@@ -10,29 +10,29 @@ alsoKnownAs: Eliyohu Hanovi, Elijah the Prophet
 wikidata: Q6989017
 quote: Eliyahu hanavi, Eliyahu hatishbi, Eliyahu hagiladi.
 quoteSource: sefard
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: 01c2f9a0edcb
+translatedFrom: b2bb3457392e
 original: Idelsohn, Jewish Music, p. 401, Internet Archive | https://archive.org/details/jewishmusicinits00idel_0/page/n418/mode/1up
 ---
 
-Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
+Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, tras la Havdalá que cierra el sabbat, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Lo llama con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día, y el Talmud enseña que Elías no vendrá en viernes, la víspera del sabbat; maestros posteriores entendieron que tampoco vendrá en el propio sabbat, así que el sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295][^zivotofsky] Para A. Z. Idelsohn, es la parte más antigua de las canciones de Elías que, según él, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
 
 ## De dónde viene
 
-Elías fue un profeta del reino del norte de Israel en el siglo IX a. C., en tiempos del rey Acab.[^jeelijah][^milken] El libro de los Reyes lo presenta de repente, sin decir siquiera el nombre de su padre, como "Elías el tisbita, que era de los pobladores de Galaad", anunciando una sequía.[^kings][^jeelijah] Combatió el culto a Baal y, según cuenta Reyes, no murió: un carro de fuego con caballos de fuego lo separó de su discípulo Eliseo, y subió al cielo en un torbellino.[^kings][^jeelijah][^milken] El profeta Malaquías prometió después que Hashem enviaría a Elías antes del día grande y terrible, para volver el corazón de los padres hacia los hijos y el de los hijos hacia los padres.[^malachi][^jeelijah]
+Elías fue un profeta del reino del norte de Israel en el siglo IX a. C., en tiempos del rey Acab.[^jeelijah][^milken] El libro de los Reyes lo presenta de repente, sin decir siquiera el nombre de su padre, como "Elías Thisbita, que era de los moradores de Galaad", anunciando una sequía.[^kings][^jeelijah] Combatió el culto a Baal y, según cuenta Reyes, no murió: un carro de fuego con caballos de fuego lo separó de su discípulo Eliseo, y subió al cielo en un torbellino.[^kings][^jeelijah][^milken] El profeta Malaquías prometió después que Hashem enviaría a Elías antes del día grande y terrible, para volver el corazón de los padres hacia los hijos y el de los hijos hacia los padres.[^malachi][^jeelijah]
 
-De esa promesa nació el Elías de la tradición judía: el heraldo del Mesías, el invitado invisible en una circuncisión y en el séder, y un protector que puede aparecer en cualquier parte.[^jeelijah][^milken] El Talmud, al hablar de un voto ligado a la llegada del Mesías, dice que Elías no llegará en viernes, porque la gente dejaría los preparativos del sabbat para salir a recibirlo. Da por sentado que tampoco puede venir en sabbat.[^eruvin][^jehab] Los libros de costumbres judías Sefer ha-Manhig y Abudarham recogen la leyenda que sigue: a Elías se le espera el sábado por la noche, al comienzo de una semana nueva.[^jehab][^abrahams] El código legal llamado el Tur da la razón de la costumbre: ahora que ha pasado el sabbat y puede venir, rezamos para que venga y nos traiga la buena noticia.[^mb295][^sa295]
+De esa promesa nació el Elías de la tradición judía: el heraldo del Mesías, el invitado invisible en una circuncisión y en el séder, y un protector que puede aparecer en cualquier parte.[^jeelijah][^milken][^abrahams] El Talmud, al hablar de un voto ligado a la llegada del Mesías, dice que Elías no llegará en viernes, porque la gente dejaría los preparativos del sabbat para salir a recibirlo.[^eruvin][^jehab] Si podría venir en el propio sabbat lo deja sin decidir, ligado a una cuestión de la ley del sabbat que no resuelve; maestros posteriores entendieron que no.[^eruvin][^mb295][^zivotofsky] Los libros de costumbres judías Sefer ha-Manhig y Abudarham recogen la leyenda que sigue: a Elías se le espera el sábado por la noche, al comienzo de una semana nueva.[^jehab][^abrahams] El código legal llamado el Tur da la razón de la costumbre: ahora que ha pasado el sabbat y puede venir, rezamos para que venga y nos traiga la buena noticia.[^mb295][^sa295]
 
-Los poetas escribieron muchas canciones para ese momento. Idelsohn, en su historia de la música judía de 1929, escribió que ya en el siglo XI todas las comunidades judías cantaban canciones de Elías al cierre del sabbat, y que la parte más antigua de ellas es este estribillo: Elías el profeta, el tisbita, el galaadita, "que venga pronto a nosotros con el Mesías, hijo de David".[^idel1929] Su nota al pie remite a Sefer ha-Manhig, un libro de costumbres escrito hacia 1200.[^idel1929][^jeabn] Las notas del Milken Archive son más prudentes: en el siglo XI, dicen, esas canciones eran costumbre en muchas comunidades, si no en la mayoría.[^milken] La más conocida de las canciones construidas en torno al estribillo, según la describen esas notas, es un largo poema alfabético de autor desconocido. La mayoría de sus estrofas empiezan con "Ish", "un hombre", y nombran algo que hizo Elías.[^milken][^sefard]
+Los poetas escribieron muchas canciones para ese momento. Idelsohn, en su historia de la música judía de 1929, escribió que ya en el siglo XI todas las comunidades judías cantaban canciones de Elías al cierre del sabbat, y que la parte más antigua de ellas es este estribillo: Elías el profeta, el tisbita, el galaadita, "que venga pronto a nosotros con el Mesías, hijo de David".[^idel1929] Su nota al pie remite a Sefer ha-Manhig, un libro de costumbres que Abraham ben Natán de Lunel empezó en Toledo en 1204.[^idel1929][^jeabn] Las notas del Milken Archive son más prudentes: en el siglo XI, dicen, esas canciones eran costumbre en muchas comunidades, si no en la mayoría.[^milken] La más conocida de las canciones construidas en torno al estribillo, según la describen esas notas, es un largo poema alfabético de autor desconocido. La mayoría de sus estrofas empiezan con "Ish", "un hombre", y nombran algo que hizo Elías.[^milken][^sefard]
 
 La melodía no tiene compositor conocido. Idelsohn la imprimió en el mismo libro, en la tabla XXXII, "Tunes of the Eastern Ashkenazic folk-song" (melodías de la canción popular asquenazí oriental), las canciones de los judíos asquenazíes de Europa del Este. Dio dos melodías para esta letra, "las dos muy populares", y la nuestra es la primera.[^idel1929] Escribió que su línea melódica, como la de varias melodías vecinas, se parece a melodías polacas, ucranianas, españolas, árabes y francesas antiguas.[^idel1929] Las notas del Milken Archive dicen que su origen sigue sin determinarse, y oyen en ella ritmos de danza polacos: un patrón de polonesa y el acento de la mazurca en el segundo tiempo.[^milken] Idelsohn, que vivió de 1882 a 1938, era entonces profesor de música judía en el Hebrew Union College de Cincinnati.[^ejidel][^loc][^idel1929]
 
 ![[1]]
 
-**Mito y documentos.** Se suele contar que Elías visita cada séder y bebe un sorbo de su copa, mientras los niños vigilan el vino por si se mueve.[^milken][^chabad] Lo que muestran los documentos: no hay ninguna fuente talmúdica ni midráshica de una visita anual, y el Talmud no dice nada de una copa para Elías. La primera mención conocida de una es del siglo XV.[^zivotofsky][^brodt] Su explicación habitual es una duda sobre una quinta copa de vino, que según la tradición Elías resolverá algún día.[^uh1923][^zivotofsky] El Rema explica la puerta abierta de otro modo: muestra la confianza en que el séder es "una noche de vigilia", como la llama el Éxodo, y por esa fe, escribe, vendrá el Mesías.[^sa480][^zivotofsky]
+**Mito y documentos.** Se suele contar que Elías visita cada séder y bebe un sorbo de su copa, mientras los niños vigilan el vino por si se mueve.[^milken][^chabad] Lo que muestran los documentos: no hay ninguna fuente talmúdica ni midráshica de una visita anual, y el Talmud no dice nada de una copa para Elías. La primera mención conocida de una es del siglo XV.[^zivotofsky][^brodt] Su explicación habitual es una duda sobre una quinta copa de vino, que según la tradición Elías resolverá algún día.[^uh1923][^zivotofsky] El Rema da otra razón para la puerta abierta, tomada del rabino Israel Bruna, del siglo XV, el primero que se sabe que la menciona: muestra la confianza en que el séder es "noche de guardar", como la llama el Éxodo, y por esa fe vendrá el Mesías.[^sa480][^zivotofsky]
 
 ![[2]]
 
@@ -41,6 +41,7 @@ La melodía no tiene compositor conocido. Idelsohn la imprimió en el mismo libr
 - siglo IX a. C.: Elías profetiza en el reino del norte de Israel bajo el rey Acab. [^jeelijah][^milken]
 - siglo XI: según Idelsohn, las comunidades judías cantan canciones de Elías al cierre del sabbat. [^idel1929][^milken]
 - siglo XV: la primera mención conocida de una copa servida para Elías en el séder. [^zivotofsky][^brodt]
+- 1835: según el Milken Archive, un himnario del templo de Braunschweig imprime una variante de la melodía, citada como su notación más antigua conocida. [^milken]
 - 1929: Idelsohn imprime esta melodía en Jewish Music in its Historical Development. [^idel1929]
 
 ## Qué dice la letra
@@ -55,7 +56,7 @@ En los libros de oraciones el estribillo sigue: "bimhera yavo eleinu im mashiach
 
 ### La letra completa
 
-Estos son el estribillo y las diez estrofas del poema largo tal como los imprime el Siddur Sefard en Sefaria para la comida después del sabbat, tomados del texto de dominio público de Torat Emet; los significados son nuestros.[^sefard] El estribillo sigue a cada estrofa menos la última, y tiene "Eliyahu" una sola vez antes de "hagiladi", donde la melodía de Idelsohn lo repite tres veces.[^idel1929][^sefard] La transliteración da los nombres de Hashem como se cantan fuera de la oración: Kel, Adoshem y Elokim.
+Estos son el estribillo y las diez estrofas del poema largo del Siddur Sefard en Sefaria, para la comida después del sabbat, tomados del texto de dominio público de Torat Emet; los significados son nuestros.[^sefard] El estribillo sigue a cada estrofa menos la última, y tiene "Eliyahu" una sola vez antes de "hagiladi", donde la melodía de Idelsohn lo repite tres veces.[^idel1929][^sefard] El hebreo y la transliteración dan los nombres de Hashem como se cantan fuera de la oración: Kel, Adoshem y Elokim. La primera estrofa trata a Elías como Pinjás, como hace la tradición: Yekutiel es un nombre rabínico de Moisés, por medio del cual Pinjás recibió la promesa de paz por su celo.[^jeelijah][^megillah]
 
 **Estribillo**
 > אֵלִיָּהוּ הַנָּבִיא.
@@ -120,7 +121,7 @@ un hombre por quien fueron bendecidas una tinaja y una vasija.
 *Ish musarav hikshivu chemehim,*
 Un hombre cuya enseñanza escucharon quienes la anhelaban,
 > אִישׁ נֶעֱנֶה בָאֵשׁ מִשְּׁמֵי גְבוֹהִים.
-*ish ne'ena va'esh mishmei g'vohim,*
+*ish ne'ene va'esh mishmei g'vohim,*
 un hombre que recibió respuesta con fuego de los altos cielos,
 > אִישׁ סָחוּ אַחֲרָיו יְיָ הוּא הָאֱלֹקִים:
 *ish sachu acharav Adoshem hu haElokim.*
@@ -140,7 +141,7 @@ un mensajero fiel, para volver el corazón de los hijos hacia sus padres.
 **Estrofa 7**
 > אִישׁ קָרָא קַנֹּא קִנֵּאתִי לַייָ בְּתִפְאָרָה.
 *Ish kara kano kineti laAdoshem betif'ara,*
-Un hombre que clamó: "He tenido mucho celo por Hashem", con gloria,
+Un hombre que clamó: "Sentido he un vivo celo por Hashem", con gloria,
 > אִישׁ רָכַב עַל סוּסֵי אֵשׁ בִּסְעָרָה.
 *ish rachav al susei esh bis'ara,*
 un hombre que montó en caballos de fuego en una tormenta,
@@ -176,13 +177,13 @@ Que Hashem bendiga a Su pueblo con la paz.
 **Estrofa 10**
 > כַּכָּתוּב הִנֵּה אָנֹכִי שׁלֵחַ לָכֶם אֵת אֵלִיָּה הַנָּבִיא.
 *Kakatuv: hine anochi sholeach lachem et Eliya hanavi*
-Como está escrito: "Yo les envío a Elías el profeta
+Como está escrito: "He aquí, yo os envío á Elías el profeta,
 > לִפְנֵי בּא יוֹם יְיָ הַגָּדוֹל וְהַנּוֹרָא.
 *lifnei bo yom Adoshem hagadol vehanora,*
-antes de que llegue el día de Hashem, grande y temible,
+antes que venga el día de Hashem grande y terrible.
 > וְהֵשִׁיב לֵב אָבוֹת עַל בָּנִים וְלֵב בָּנִים עַל אֲבוֹתָם:
 *veheshiv lev avot al banim velev banim al avotam.*
-y él volverá el corazón de los padres hacia los hijos y el corazón de los hijos hacia sus padres".
+El convertirá el corazón de los padres á los hijos, y el corazón de los hijos á los padres".
 
 ## Cómo se canta
 
@@ -190,7 +191,7 @@ y él volverá el corazón de los padres hacia los hijos y el corazón de los hi
 
 ![[3]]
 
-**En el séder.** Después de la bendición que sigue a la comida y de la tercera copa de vino, con la copa de Elías en la mesa, se abre la puerta.[^zivotofsky][^milken][^uh1923] Muchos dicen los versículos que empiezan "Shefokh chamatkha", "Derrama Tu ira", mientras está abierta.[^zivotofsky][^sa480] Eliyahu HaNavi suele cantarse entonces, con la puerta abierta.[^milken][^merwin]
+**En el séder.** Después de la bendición que sigue a la comida y de la tercera copa de vino, con la copa de Elías en la mesa, se abre la puerta.[^zivotofsky][^milken][^uh1923] Muchos dicen los versículos que empiezan "Shefokh chamatkha", "Derrama tu ira", mientras está abierta.[^zivotofsky][^sa480] Eliyahu HaNavi suele cantarse entonces, con la puerta abierta.[^milken][^merwin]
 
 **Nuestro arreglo.** Tomamos la melodía y la letra de la página 401 del libro de Idelsohn, una melodía sola, Moderato, en Mi menor, y la cantamos una tercera menor más alta, en Sol menor, en 3/4.[^idel1929] Cantamos la primera sección, la medida, hasta el Fine de la impresión, tres veces, la tercera en voz baja. Las cuatro voces son nuestras. Hemos marcado respiraciones para principiantes al final de "navi", "tishbi" y "giladi".
 
@@ -198,7 +199,7 @@ y él volverá el corazón de los padres hacia los hijos y el corazón de los hi
 
 Las estrofas del poema largo recorren el alfabeto hebreo en su segunda palabra y cuentan la historia de Elías, desde su celo por Hashem hasta su viaje en caballos de fuego sin probar la muerte.[^sefard][^milken] Algunas versiones añaden una estrofa que le pide traer buenas noticias "en las noches de sábado".[^edot][^milken]
 
-En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanavi zachur latov", Elías el profeta, recordado para bien.[^edot] La segunda melodía popular de Idelsohn, impresa junto a la nuestra y marcada "recit.", pone música solo a las dos primeras palabras, "Eliyohu hanovi", una y otra vez.[^idel1929] Las notas del Milken Archive remontan la melodía de Idelsohn a una variante de un himnario de sinagoga alemán de Braunschweig, que según dicen se ha citado como su notación más antigua conocida. El propio Idelsohn no nombra ninguna fuente y clasifica la melodía entre las canciones populares asquenazíes orientales. Esa variante, añaden las notas, tiene menos ritmos con puntillo que la melodía que hoy se canta casi en todas partes en los círculos asquenazíes estadounidenses.[^milken][^idel1929]
+En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanavi zachur latov", Elías el profeta, recordado para bien.[^edot] La segunda melodía popular de Idelsohn, impresa junto a la nuestra y marcada "recit.", pone música solo a las dos primeras palabras, "Eliyohu hanovi", una y otra vez.[^idel1929] Las notas del Milken Archive remontan la melodía de Idelsohn a una variante de un himnario de sinagoga alemán de Braunschweig, de 1835, que según dicen se ha citado como su notación más antigua conocida. El propio Idelsohn no nombra ninguna fuente y clasifica la melodía entre las canciones populares asquenazíes orientales. Esa variante, añaden las notas, tiene menos ritmos con puntillo que la melodía que hoy se canta casi en todas partes en los círculos asquenazíes estadounidenses.[^milken][^idel1929]
 
 ## Cómo cantarla
 
@@ -215,7 +216,7 @@ Nadie lo sabe. La letra es un estribillo hebreo tradicional de autor desconocido
 
 ### ¿Por qué se canta Eliyahu HaNavi en la Havdalá?
 
-Porque el sábado por la noche es cuando Elías puede venir. El Talmud enseña que no llegará en viernes, cuando la gente está ocupada preparando el sabbat, ni en el propio sabbat. Así que, cuando termina el sabbat, la costumbre es invocarlo y rezar para que venga pronto con la noticia de la redención. El Rema, en su glosa al Shulchan Aruch, recoge la costumbre.[^eruvin][^sa295][^mb295][^jehab]
+Porque el sábado por la noche es cuando Elías puede venir. El Talmud enseña que no llegará en viernes, cuando la gente está ocupada preparando el sabbat, y maestros posteriores sostuvieron que tampoco vendrá en el propio sabbat. Así que, cuando termina el sabbat, la costumbre es invocarlo y rezar para que venga pronto con la noticia de la redención. El Rema, en su glosa al Shulchan Aruch, recoge la costumbre.[^eruvin][^sa295][^mb295][^jehab][^zivotofsky]
 
 ### ¿Por qué se canta Eliyahu HaNavi en Pésaj?
 
@@ -237,21 +238,22 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn,
 
 ## Fuentes
 
-- [^idel1929]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929; leído en una reimpresión de Tudor Publishing, catalogada como de 1944), portada, pp. 360 a 361, 392, 398 a 399, y p. 401, tabla XXXII, n.os 1 y 2. https://archive.org/details/jewishmusicinits00idel_0
+- [^idel1929]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929; leído en una reimpresión de Tudor Publishing, catalogada como de 1944), portada, pp. 360 a 361, 392, 398 a 399, p. 401, tabla XXXII, n.os 1 y 2, y p. 516, notas al capítulo XVII, nota 5. https://archive.org/details/jewishmusicinits00idel_0
 - [^milken]: Neil W. Levin, notas a "Variations on Eliahu Hanavi", *Milken Archive of Jewish Music*, volumen 10: Intimate Voices. https://www.milkenarchive.org/music/volumes/view/intimate-voices/work/variations-on-eliahu-hanavi/
 - [^jehab]: Cyrus Adler, Bernard Drachman, Kaufmann Kohler y Joseph Jacobs, "Habdalah", *The Jewish Encyclopedia*, vol. 6 (Funk and Wagnalls, 1904), pp. 118 a 121. https://www.jewishencyclopedia.com/articles/6980-habdalah
 - [^jeelijah]: Emil G. Hirsch, Eduard König, Solomon Schechter, Louis Ginzberg, M. Seligsohn y Kaufmann Kohler, "Elijah", *The Jewish Encyclopedia*, vol. 5 (Funk and Wagnalls, 1903), pp. 121 a 128. https://www.jewishencyclopedia.com/articles/5634-elijah
-- [^jeabn]: "Abraham ben Nathan", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901). https://www.jewishencyclopedia.com/articles/547-abraham-ben-nathan
-- [^ejhav]: Israel Moses Ta-Shma, "Havdalah", *Encyclopaedia Judaica*, en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/havdalah
+- [^jeabn]: Louis Ginzberg, "Abraham ben Nathan", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 116 a 117. https://www.jewishencyclopedia.com/articles/547-abraham-ben-nathan
+- [^ejhav]: Israel Moses Ta-Shma, "Havdalah", *Encyclopaedia Judaica*, 2.ª ed., vol. 8 (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/havdalah
 - [^ejidel]: Baruch J. Cohon e Israel J. Katz; revisado por Gila Flam, "Idelsohn, Abraham Zvi", *Encyclopaedia Judaica*, 2.ª ed., en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/idelsohn-abraham-zvi
 - [^loc]: Library of Congress Name Authority File, "Idelsohn, A. Z. (Abraham Zebi), 1882-1938". https://id.loc.gov/authorities/names/nr88001751.html
 - [^abrahams]: Israel Abrahams, *Annotated Edition of the Authorised Daily Prayer Book, with Historical and Explanatory Notes* (Eyre and Spottiswoode, 1914), pp. clxxxii y ccxxi. https://archive.org/details/annotatededition00unknuoft
 - [^eruvin]: Talmud de Babilonia, Eruvin 43b, edición William Davidson, en Sefaria. https://www.sefaria.org/Eruvin.43b
+- [^megillah]: Talmud de Babilonia, Megillah 13a, edición William Davidson, en Sefaria. https://www.sefaria.org/Megillah.13a
 - [^sa295]: Shulchan Arukh, Orach Chayim 295:1, con la glosa del Rema, en Sefaria. https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.295.1
 - [^mb295]: Mishnah Berurah 295:7, en Sefaria. https://www.sefaria.org/Mishnah_Berurah.295.7
-- [^sa480]: Shulchan Arukh, Orach Chayim 480:1, con la glosa del Rema, en Sefaria. https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.480.1
-- [^kings]: I Reyes 17:1, 18, y II Reyes 2:11, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria. https://www.sefaria.org/I_Kings.17.1
-- [^malachi]: Malaquías 3:23 a 24, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria. https://www.sefaria.org/Malachi.3.23-24
+- [^sa480]: Shulchan Arukh, Orach Chayim 480:1, con la glosa del Rema, en Sefaria; las citas en español de Éxodo 12:42 y Salmos 79:6, de la Reina-Valera de 1909. https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.480.1
+- [^kings]: I Reyes 17:1, 18, y II Reyes 2:11, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria; las citas en español, de la Reina-Valera de 1909 (1 Reyes 17:1 y 19:10). https://www.sefaria.org/I_Kings.17.1
+- [^malachi]: Malaquías 3:23 a 24, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Sefaria; las citas en español, de la Reina-Valera de 1909 (Malaquías 4:5 a 6). https://www.sefaria.org/Malachi.3.23-24
 - [^sefard]: Siddur Sefard, Motzaei Shabbat, Melava Malka Zemirot, texto hebreo de Torat Emet (dominio público), en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Motzaei_Shabbat_%2C_Melava_Malka_Zemirot.47
 - [^edot]: Siddur Edot HaMizrach, Havdalah, Before Havdalah, en Sefaria. https://www.sefaria.org/Siddur_Edot_HaMizrach%2C_Havdalah%2C_Before_Havdalah.3
 - [^birkat]: Siddur Ashkenaz (Metsudah, 1981), Birkat HaMazon, en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Berachot%2C_Birkat_HaMazon.56
