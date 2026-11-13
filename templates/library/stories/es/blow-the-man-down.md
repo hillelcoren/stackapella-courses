@@ -15,7 +15,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow the man down significado | qué significa blow the man down | blow the man down historia | blow the man down origen | quién escribió blow the man down | blow the man down letra
-translatedFrom: 06d2b51fff2d
+translatedFrom: ae3bed7b5258
+original: Whall, Ships, Sea Songs and Shanties (1913), p. 92, Internet Archive | https://archive.org/details/shipsseasongssha00whal/page/n111/mode/1up
+listen: National Jukebox, grabación de 1914 (popurrí) | https://www.loc.gov/item/jukebox-649564/
 ---
 
 Blow the Man Down es una canción marinera (shanty), un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo. Es una shanty de driza, para izar las pesadas vergas que sostienen las velas de un barco: el solista (el shantyman) canta un verso a solas y la tripulación responde: "Way-ay, blow the man down" [^whallscan][^masefield][^bullen]. El capitán de la marina mercante W. B. Whall escribió que venía de los viejos paquebotes del Atlántico, y que entonces "blow" (literalmente, soplar) significaba "knock" (golpear, derribar) [^whallscan]. Nadie sabe quién la hizo. Laura Alexandrine Smith la imprimió con su melodía en 1888 como una de las shanties más conocidas, Cecil Sharp la imprimió en 1914 como Knock a Man Down, y en 1921 Richard Terry la llamó quizá la shanty más conocida entre la gente de tierra [^smith][^sharp][^terry].
@@ -25,6 +27,8 @@ Blow the Man Down es una canción marinera (shanty), un canto de trabajo que los
 **Los paquebotes.** Los paquebotes zarpaban en días fijos cada mes, hiciera el tiempo que hiciera [^amereras][^clark]. La Black Ball Line empezó a hacer travesías regulares entre Nueva York y Liverpool en enero de 1818 [^amereras][^rpsl], aunque una historia de 1910 fecha el primero de estos paquebotes en 1816 [^clark]. Sus barcos llevaban una bandera carmesí de cola de golondrina con una bola negra, y una bola negra pintada en el velacho [^clark][^amereras]. Eran conocidos por su dura disciplina: según esa historia, el "belaying pin soup" (sopa de cabilla) se sirvió por primera vez en los barcos de la Black Ball, y Terry escribió que a los oficiales de los paquebotes, cuyo trabajo era zarandear a la tripulación, los llamaban "blowers", es decir, golpeadores [^clark][^terry]. Whall añade que al tercer oficial lo llamaban el tercer "blower and striker" (el tercer golpeador) [^whallscan].
 
 **El marinero que la anotó.** Whall se hizo a la mar en 1861, en los viejos East Indiamen que llevaban pasajeros, y en los once años que pasó allí, según su propio relato, anotó las canciones tal como las cantaban los marineros. Después de 1872 no oyó ninguna shanty digna de ese nombre: "El vapor las echó a perder" [^whall]. En los barcos de pasajeros, explicó, la tripulación tenía que mantener una letra decente o no cantar en absoluto, así que sus versiones son las limpias [^whall]. Su *Ships, Sea Songs and Shanties* salió en 1910 [^whall][^terry]. Para entonces, señaló, los marineros habían olvidado las estrofas originales, aunque la melodía y el estribillo seguían vivos [^whallscan].
+
+![[1]]
 
 **De dónde salieron las shanties.** Terry, con el lenguaje de 1921, escribió de las shanties: "Without doubt a number of them came from American negro sources", es decir, que sin duda varias de ellas venían de fuentes afroamericanas [^terry]. Whall hizo remontar otra shanty de su libro, Lowlands, a los puertos algodoneros de los antiguos estados del Sur, y su estrofa pregunta por el "screwing cotton" en la bahía de Mobile: embutir las balas de algodón en la bodega de un barco con gatos de rosca [^whall][^smyth]. Un folclorista de la Library of Congress escribe que el cantante más apreciado a bordo era a menudo un marinero negro, y que el recopilador Stan Hugill aprendió muchas de sus canciones de compañeros de a bordo antillanos [^winick]. Esta shanty siguió viva en el Caribe: una reseña de grabaciones de 1935 en las Bahamas la llama muy conocida en todas las islas, en los tiempos en que las tripulaciones de los pescadores de esponjas pasaban semanas en el mar en pequeños veleros [^mustrad]. Ese año, Alan Lomax y Mary Elizabeth Barnicle grabaron a David Pryor y a un grupo de la isla de Andros cantando su melodía con otra letra, como Roll 'Im On Down [^crem][^balladindex]. The Traditional Ballad Index recoge versiones de las Bahamas, Tobago, Nevis y San Vicente [^balladindex].
 
@@ -158,6 +162,8 @@ Nuestro arreglo está tomado de su página, subido de Re a Fa y escrito en 3/4, 
 - **Las estrofas de la Black Ball.** Un corresponsal le envió a Smith doce estrofas que siguen a un barco de la Black Ball desde que sale del muelle, a través del océano y de vuelta a casa, cercanas a la segunda letra de Whall [^smith][^whallscan].
 - **El clíper a Sídney.** En la de Masefield, una chica de Paradise Street manda al cantante a un clíper con rumbo a Sídney, donde el oficial lo derriba con un palo [^masefield].
 - **Knock a Man Down.** El cantante de Sharp, John Short, de Watchet, recordaba dos estrofas y cantaba "knock"; Sharp completó el resto con otras versiones [^sharp]. Terry, sin nombrar el libro, escribió que "knock" era "demasiado crudamente realista" para el estribillo de un marinero [^terry].
+
+![[2]]
 
 ## ¿Sabías que...?
 

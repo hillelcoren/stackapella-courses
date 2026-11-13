@@ -16,7 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-13
 reviewed: true
 searches: haul away joe significado | haul away joe historia | quién escribió haul away joe | haul away joe letra significado | haul away joe canción marinera | haul away joe letra en español
-translatedFrom: f5c6d6b75221
+translatedFrom: 4c2a33cda8fc
+original: Sharp, English Folk-Chanteys (1914), n.º XXVII, p. 32, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n51/mode/1up
 ---
 
 Haul Away, Joe, que también se imprimió como "Haul Away, Jo" y "Way, Haul Away", es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo [^whall][^fssj]. El solista (el shantyman) canta un verso sobre sus chicas o su viaje, y la tripulación responde "Way, haul away, haul away, Joe", y todos halan a la vez en la última palabra [^sharpscan][^smith]. Servía para unos pocos tirones cortos y pesados, en las amuras y las escotas que sujetan abajo los puños de las velas, o para tensar a fondo un cabo, el "sweating up" [^sharp][^bullen][^whall][^smyth]. La melodía que cantamos es la que John Short, un viejo marinero de Watchet, en Somerset, cantó a Cecil Sharp en 1914 [^sharpscan][^sharppeople].
@@ -25,9 +26,15 @@ Haul Away, Joe, que también se imprimió como "Haul Away, Jo" y "Way, Haul Away
 
 **La impresión más antigua que hemos encontrado.** En julio de 1882, Harper's New Monthly Magazine, de Nueva York, imprimió "Sailor Songs", de William L. Alden, con música [^alden][^fssj]. Después de "the Bowline" imprimió "otra canción para halar casi igual de popular en los viejos tiempos": el verso del solista, "Way, haul away, haul away, my Josie", y el estribillo, "Way, haul away, haul away, Joe". Las dos, escribió, eran "sin duda muy antiguas" [^alden]. En 1914, una nota en la revista de la Folk-Song Society, firmada A. G. G., reimprimió su melodía, la llamó dórica y la consideró "una de nuestras melodías de chanty más antiguas" [^fssj].
 
+![[1]]
+
 **Dos viejos marineros en Inglaterra.** El 24 de octubre de 1908, Cecil Sharp anotó la shanty tal como la cantaba Charles Robbins, de 65 años, en el asilo de pobres de Marylebone, en Londres; se imprimió en enero de 1914 [^fssj][^sharp]. En abril de 1914 empezó a visitar a John Short en Watchet, un pueblo portuario de Somerset [^sharppeople][^halsway]. Short, nacido en 1839, había pasado más de cincuenta años en barcos de vela, sobre todo como chanteyman, el solista que dirigía las shanties, y ahora era el pregonero del pueblo [^sharp][^sharppeople][^halsway]. De las 60 shanties de *English Folk-Chanteys*, de Sharp, publicado ese año, 46 son suyas; Haul Away, Joe es el n.º XXVII, en la página 32 [^sharp][^halsway][^sharpscan].
 
+![[2]]
+
 **La página que hemos leído.** Sharp imprimió la melodía con acompañamiento de piano, en 4/4, con tres bemoles y unos La becuadro escritos que la hacen dórica, un modo de sonido menor con la sexta elevada. Primero va el estribillo, luego los dos versos del solista y la respuesta de la tripulación, con una punta de flecha sobre cada "Joe" para marcar el tirón. Siguen diez estrofas más, y una nota al pie explica que "Aver" significa Havre, el puerto francés [^sharpscan]. En su nota, Sharp escribió que Short la llamaba una chantey de "tacks and sheets" (amuras y escotas) [^sharp].
+
+![[3]]
 
 **Mayor o menor.** Los libros no coinciden. Sharp señala versiones en tonalidad mayor en Tozer, Bullen y Whall, y Robbins la cantaba en modo mixolidio [^sharp][^fssj]. Richard Terry, que imprimió una versión menor en 1921, escribió que la mayor era más común en los últimos tiempos de la vela, pero que la menor era la que él oía en el Tyne, la única que cantaban sus parientes marineros más viejos, así que la tomaba por la más antigua [^terry].
 

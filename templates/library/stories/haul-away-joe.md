@@ -16,6 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-13
 reviewed: true
 searches: haul away joe meaning | haul away joe song meaning | haul away joe lyrics meaning | haul away joe history | who wrote haul away joe | when was haul away joe written | haul away joe original | what genre is haul away joe | haul away joe sea shanty lyrics
+original: Sharp, English Folk-Chanteys (1914), No. XXVII, p. 32, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n51/mode/1up
 ---
 
 Haul Away, Joe, also printed as "Haul Away, Jo" and "Way, Haul Away", is a sea shanty: a work song sailors sang to pull together on a rope [^whall][^fssj]. The shantyman sings a line about his girls or his voyage, and the crew answers "Way, haul away, haul away, Joe", all hauling at once on the last word [^sharpscan][^smith]. It served for a few short, heavy pulls, on the tacks and sheets that hold down the corners of the sails, or to sweat a rope up tight [^sharp][^bullen][^whall][^smyth]. The tune we sing is the one John Short, an old sailor of Watchet in Somerset, sang to Cecil Sharp in 1914 [^sharpscan][^sharppeople].
@@ -24,9 +25,15 @@ Haul Away, Joe, also printed as "Haul Away, Jo" and "Way, Haul Away", is a sea s
 
 **The earliest printing we found.** In July 1882 Harper's New Monthly Magazine in New York printed "Sailor Songs", by William L. Alden, with music [^alden][^fssj]. After "the Bowline" he printed "another pulling song of almost equal popularity in old days": the solo "Way, haul away, haul away, my Josie", and the chorus "Way, haul away, haul away, Joe". Both, he wrote, were "undoubtedly very old" [^alden]. In 1914 a note in the Folk-Song Society's Journal, signed A. G. G., reprinted his tune, called it dorian, and judged it "one of our oldest chanty-tunes" [^fssj].
 
+![[1]]
+
 **Two old sailors in England.** On 24 October 1908 Cecil Sharp noted the shanty from Charles Robbins, aged 65, at the Marylebone Workhouse in London; it was printed in January 1914 [^fssj][^sharp]. In April 1914 he began visiting John Short at Watchet, a Somerset harbour town [^sharppeople][^halsway]. Short, born in 1839, had spent more than fifty years in sailing ships, mostly as a chanteyman, the solo singer who led the shanties, and was now the town crier [^sharp][^sharppeople][^halsway]. Of the 60 shanties in Sharp's *English Folk-Chanteys*, published that year, 46 are his; Haul Away, Joe is No. XXVII, on page 32 [^sharp][^halsway][^sharpscan].
 
+![[2]]
+
 **The page we read.** Sharp printed the tune with a piano part, in 4/4, with three flats and written-in A-naturals that make it dorian, a minor-sounding mode with a raised sixth. The chorus comes first, then the shantyman's two lines and the crew's answer, with an arrowhead over each "Joe" to mark the pull. Ten more verses follow, and a footnote explains that "Aver" means Havre, the French port [^sharpscan]. In his note Sharp wrote that Short called it a "tacks and sheets" chantey [^sharp].
+
+![[3]]
 
 **Major or minor.** The books disagree. Sharp notes major versions in Tozer, Bullen and Whall, and Robbins sang it in the mixolydian mode [^sharp][^fssj]. Richard Terry, who printed a minor version in 1921, wrote that the major one was more common in the last days of sail, but the minor one was what he heard on the Tyne, the only one his oldest sailor relatives sang, so he took it to be the older [^terry].
 

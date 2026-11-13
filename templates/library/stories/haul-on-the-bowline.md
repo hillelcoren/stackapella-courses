@@ -15,6 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul on the bowline | haul on the bowline meaning | haul on the bowline lyrics meaning | haul on the bowline history | haul on the bowline lyrics | haul on the bowline lyrics original | haul on the bowline shanty | haul on the bowline sea shanty | haul away the bowline
+original: Sharp, English Folk-Chanteys (1914), No. XXXVII, p. 42, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n61/mode/1up
 ---
 
 Haul on the Bowline, also printed as "Haul the Bowline" and "We'll Haul the Bowline", is a sea shanty: a work song sailors sang to pull together on a rope [^onceaweek][^alden][^terry]. The shantyman sings a line, the crew answers "Haul on the bowline, the bowline haul", and everyone pulls at once on the last word, often shouting it [^onceaweek][^smith][^bullen][^terry]. Its chorus was in print by 1868, and writers on shanties have called it one of the oldest of them all, though that claim rests on no early record [^onceaweek][^whall][^colcord]. The version we sing is the one John Short, an old shantyman of Watchet in Somerset, sang to Cecil Sharp in 1914 [^sharpscan][^csp].
@@ -23,9 +24,15 @@ Haul on the Bowline, also printed as "Haul the Bowline" and "We'll Haul the Bowl
 
 **The earliest printing we found.** On 1 August 1868 the London weekly *Once a Week* printed an unsigned article, "On Shanties" [^onceaweek]. For heavy work or few hands, the writer says, a hauling song of longer meter is used, and he gives its words: "Haul the bowline, the fore and main-top bowline, / Haul the bowline, the bowline haul", then "Kitty you're my darling". The last word, "haul", told the men when to pull [^onceaweek]. The Traditional Ballad Index also dates the song from this article [^balladindex].
 
+![[1]]
+
 **The earliest tune.** In July 1882 William L. Alden printed "the Bowline" with its tune in *Harper's New Monthly Magazine* in New York [^alden]. He set the scene on a Liverpool packet ship thirty years before: the topsail yard will not rise until someone calls for "the Bowline" and the men haul on its last syllable. He judged it, like Haul Away, Joe beside it, purely nautical and "undoubtedly very old" [^alden]. Laura Alexandrine Smith printed the same lines with a tune in 1888 [^smith].
 
+![[2]]
+
 **John Short and the page we read.** John Short was baptised in Watchet in April 1839 and died in 1933 [^csp][^halsway]. He spent more than fifty years in sailing ships, mostly as a chanteyman, the solo singer who led the work, and was by then the town crier [^sharp][^csp]. Sharp began visiting him in April 1914, and 46 of the 60 shanties in his *English Folk-Chanteys*, published that year, are Short's [^sharp][^csp][^halsway]. Haul on the Bowline is No. XXXVII, among the pulling chanteys, on pages 42 and 43, in C major with a piano part [^sharpscan]. It opens "Solo. (Introduction.)": the chanteyman sings the whole chorus alone, as Sharp says chanteymen commonly did, to name the chantey and remind the crew of the tune [^sharpscan][^sharp]. Two verses and the full chorus follow. An arrowhead over the last "haul" of each chorus marks the pull, with none over the introduction, when nobody is pulling yet [^sharpscan]. His note on page 71 points to other printings by Tozer, Bullen, Bradford and Fagge, and Smith [^sharpscan].
+
+![[3]]
 
 **Where shanties came from.** Black sailors and dockworkers were central to the shanty: a Library of Congress folklorist writes that the most valued singer on board was often a Black sailor, and Joanna Colcord traced a whole class of shanties to Black stevedores stowing cotton in the Gulf ports [^winick][^colcord]. Steam ended the shanty's working life: Alden heard the steam winch where the pulling song had been, and Sharp wrote that steam had dealt the chantey its death-blow [^alden][^sharp].
 
@@ -74,6 +81,8 @@ Haul on the bow-line, the bow-line haul.
 ## How it is sung
 
 It is a short-drag shanty, for jobs that needed a few hard pulls, one to each chorus, rather than the steady work of the capstan or the longer hauls of the halyards [^colcord][^winick][^sharpscan]. The books agree on the pull and disagree about the rope.
+
+![[4]]
 
 - **The sheets.** Bullen filed it among his "fore sheet Chanties", always sung, he says, when hauling that rope "with one collective drag", and says it was used continually for the fore and main sheet; Masefield filed it among the sheet, tack and bowline chanties, and Colcord had it sheeting home the fore and main sails [^bullen][^masefield][^colcord]. Smith has it hauling the tacks and sheets taut after the ship turns through the wind [^smith].
 - **Sweating up.** Richard Terry, who learned it from Captain John Runciman, called it the most popular shanty for sweating up, the last few very strong pulls that set a rope tight [^terry][^sharp].

@@ -14,7 +14,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: spanish ladies significado | spanish ladies tiburón | por qué quint canta spanish ladies | spanish ladies historia | quién escribió spanish ladies | spanish ladies letra
-translatedFrom: 834a9fd67513
+translatedFrom: eb9905488b10
+original: Cuaderno de bitácora de Peter Pease (1769), New Bedford Whaling Museum, Internet Archive | https://archive.org/details/nellesloopofdart00nell/page/n146
 ---
 
 Spanish Ladies (las damas españolas), que también se canta como "Farewell and Adieu" o, en una impresión antigua, "Farewell to You, Ye Fine Spanish Ladies", es una canción de marineros sobre dejar España y volver a casa por el canal de la Mancha [^chappell][^whall]. Su estribillo cuenta el camino de entrada: "From Ushant to Scilly is thirty-five leagues" (de Ushant a las Scilly hay treinta y cinco leguas) [^sharp]. Su copia más antigua conocida es una página del diario de a bordo de un capitán de Massachusetts, fechada en 1769 [^pease][^balladindex]. En 1906, un almirante escribió que los marineros de la Channel Fleet, la flota del canal de la Mancha, siempre la oirían con gusto [^bridge]. Cecil Sharp la imprimió en 1909 a partir del canto del capitán Lewis, de Minehead, y es la versión que cantamos [^sharp].
@@ -27,7 +28,11 @@ Spanish Ladies (las damas españolas), que también se canta como "Farewell and 
 
 **La melodía impresa.** Ese mismo año, William Chappell imprimió la melodía en su Collection of National English Airs como n.º 204, marcada "Slow" (lento), en tonalidad menor [^chappell1840]. En 1859 escribió que se la había enviado lord Vernon y que varias personas le habían mandado copias de la letra, una de ellas un viejo marinero de Devon, e imprimió dos versiones de la primera estrofa, el estribillo y cuatro estrofas más [^chappell].
 
+![[1]]
+
 **Sharp y el capitán Lewis.** Cecil Sharp anotó canciones marineras (chanties) en Somerset, sobre todo en Bridgwater y Minehead, y tomó Spanish Ladies del capitán Lewis, de Minehead; la imprimió en 1909 en Folk Songs from Somerset, Fifth Series, como n.º 124, "Spanish Ladies. Sea Chanty" [^sharp]. El teniente W. Kettlewell, de la Royal Navy, que había estudiado la canción a fondo, revisó para él la letra del capitán Lewis [^sharp]. Sharp escribió que no conocía ninguna impresión anterior de la melodía en su "forma puramente diatónica", el antiguo menor sin la séptima elevada que la melodía tiene en las impresiones de Chappell, donde la armonía es de G. A. Macfarren [^sharp][^chappell1840][^chappell].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que el texto más antiguo está en el diario de a bordo del HMS Nellie, de 1796. Lo que muestran los documentos: la página lleva el título "in the year 1769" (en el año 1769), en el libro de un capitán de Massachusetts entre cuyos barcos estaba la balandra Nelle, un barco mercante, no uno de la Royal Navy [^pease][^balladindex]. El 1796 y el "HMS" parecen errores al volver a contar la historia: ninguna fuente de las que hemos leído da ninguno de los dos.
 
@@ -46,12 +51,16 @@ Spanish Ladies (las damas españolas), que también se canta como "Farewell and 
 
 **Estribillo.** Los marineros alborotarán y gritarán, ruidosos y alegres, durante todo el camino de vuelta; Robert Bell señaló en 1857 que "rant and roar" era la lectura antigua y "range and rove", una más nueva [^bell][^chappell]. "Strike soundings" es tocar fondo por primera vez con la sonda de altura al llegar desde alta mar, a unas 80 a 100 brazas (una braza son seis pies) [^smyth]. Ushant, la isla frente a Francia, y las islas Scilly, frente a Land's End, marcan los dos lados de la boca del canal de la Mancha [^pilot]. Una legua son tres millas náuticas, así que treinta y cinco leguas son unas 105 [^smyth].
 
+![[3]]
+
 **Las estrofas antiguas.** Cantamos la estrofa 1 y el estribillo. El resto, tal como lo imprimió Chappell, lleva el barco a casa.
 
 - *We hove our ship to.* "To heave to" (ponerse al pairo) es orientar las velas unas contra otras para que el barco se detenga, aquí para sondar; después hicieron que la gavia mayor tomara viento para seguir adelante, y arribaron canal arriba [^smyth].
 - *The first land we made.* The Deadman es el nombre que daban los marineros al Dodman, y Fairly, a Fairlight, cerca de Hastings [^whall]. Whall situó el Dodman "cerca de Plymouth"; el Channel Pilot del Almirantazgo, de 1863, lo sitúa con más precisión, casi a medio camino entre el Lizard y Rame Head, en la boca de Plymouth, y dice que Fairlight Down es a menudo la primera tierra que avistan los barcos que vuelven a casa [^whall][^pilot].
 - *The signal was made.* La flota fondea en los Downs. El "shank-painter" sujeta el ancla contra el costado del barco, así que dejarlo libre prepara el ancla para soltarla; los "clew garnets" (chafaldetes) suben las velas grandes hasta la verga, y las "tacks" y "sheets" (amuras y escotas) sujetan las esquinas bajas de una vela [^smyth].
 - *Let every man toss off a full bumper.* Un "bumper" es un vaso lleno hasta el borde [^webster].
+
+![[4]]
 
 ### La letra completa
 

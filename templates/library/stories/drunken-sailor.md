@@ -16,6 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who originally wrote drunken sailor | drunken sailor meaning | drunken sailor song meaning | drunken sailor captain's daughter meaning | drunken sailor history | drunken sailor is it irish | what shall we do with the drunken sailor lyrics
+original: Olmsted, Incidents of a Whaling Voyage (1841), p. 116, Internet Archive | https://archive.org/details/incidentsofwhali00olmsrich/page/n127/mode/1up
 ---
 
 Drunken Sailor, also sung as "What Shall We Do with the Drunken Sailor?" or "What Shall We Do with a Drunken Sailor?", is a sea shanty: a work song that sailors sang to pull together on a rope. The shantyman asks what to do with the drunken sailor, and everyone answers, "Hooray and up she rises, early in the morning" [^terryscan][^bullen]. The master mariner W. B. Whall, who printed it as "Early in the Morning", remembered the whole crew singing it at a quick march as they walked away with the rope [^whall]. Its chorus is in a whaler's journal of 1840, printed in 1841 [^olmsted][^balladindex]. Richard Terry, who printed this tune in 1921, called it "always a great favourite" [^terry].
@@ -24,11 +25,19 @@ Drunken Sailor, also sung as "What Shall We Do with the Drunken Sailor?" or "Wha
 
 **A whaler out of New London.** On 11 October 1839 the whaling ship North America sailed from New London, Connecticut, for the Pacific, with a young passenger, Francis Allyn Olmsted, who kept a journal [^olmsted]. Her crew was mixed, he wrote: Americans, three men he called Indians (one of them John Uncas, a Mohegan), an Englishman, six Portuguese and several Black sailors. The cook, a Black man often called "Mr. Freeman", was in Olmsted's words "the fountain of all the fun and good humor aboard the ship" [^olmsted].
 
+![[1]]
+
 On 11 February 1840 Olmsted wrote about the songs the men sang as they hauled on the rigging. They went well "when there is a long line of men hauling together". Mr. Freeman, he wrote, "usually officiates as chorister", striking up the song "while all the rest join in the chorus". Sometimes, he added, "they all sing together as I have endeavored to represent", and that is how he wrote down the first song he printed [^olmsted]: its tune, with the words "Ho! Ho! and up she rises" three times and "Early in the morning". His *Incidents of a Whaling Voyage* came out in New York in 1841, the earliest known printing of the chorus, though without the drunken sailor verse [^olmsted][^balladindex].
+
+![[2]]
 
 **The sailors who remembered it.** The verse is in print by 1908 at the latest, in the poet John Masefield's *A Sailor's Garland*, whose first edition came out in 1906 [^masefield][^openlibrary]. W. B. Whall went to sea in 1861 and spent eleven years in the old passenger ships, the East Indiamen, writing down songs as sailors sang them, by his own account [^whall]. He wrote that, though shanties were generally thought never to be allowed in the Royal Navy, this song and one other were sometimes allowed, in revenue cutters especially, or sung under the breath in bigger ships [^whall]. In 1914 Cecil Sharp printed a version sung by James Tucker at Bristol [^sharp], and Frank Bullen, who had been a shantyman at sea, printed another [^bullen].
 
+![[3]]
+
 **Terry's tune.** Richard Runciman Terry was a church musician, from 1901 the organist and director of music at Westminster Cathedral [^oxford][^julian]. His mother's family, he wrote, had followed the sea as far back as it could be traced, and sailor uncles sang him shanties from childhood; in the 1890s he lived in Antigua, where he heard shanties sung ashore [^terry][^oxford]. In *The Shanty Book* of 1921 he printed Drunken Sailor as No. 14, with six verses, and called it "in the first Mode", the mode now called Dorian [^terry][^terryscan]. It is the tune we sing.
+
+![[4]]
 
 **Where shanties came from.** Terry wrote that sailors picked up songs wherever they went, and that a number of shanties without doubt came from African American singers [^terry]. A Library of Congress folklorist writes that the most valued singer on board was often a Black sailor, and that shanties can be traced to African American work songs [^winick]. Steam ended the shanty's age, when the steam winch took over the windlass and capstan; Whall had not heard a shanty worth the name since 1872 [^terry][^whall].
 

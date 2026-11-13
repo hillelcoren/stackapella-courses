@@ -14,6 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: spanish ladies meaning | spanish ladies song jaws | why does quint sing spanish ladies | spanish ladies sea shanty | spanish ladies history | who wrote spanish ladies | spanish ladies lyrics
+original: Peter Pease's logbook (1769), New Bedford Whaling Museum, Internet Archive | https://archive.org/details/nellesloopofdart00nell/page/n146
 ---
 
 Spanish Ladies, also sung as "Farewell and Adieu", or "Farewell to You, Ye Fine Spanish Ladies" in an old printing, is a sailors' song about leaving Spain and running home up the English Channel [^chappell][^whall]. Its chorus counts the way in: "From Ushant to Scilly is thirty-five leagues" [^sharp]. Its oldest known copy is a page in a Massachusetts captain's logbook, dated 1769 [^pease][^balladindex]. In 1906 an admiral wrote that the seamen of the Channel Fleet would always hear it with pleasure [^bridge]. Cecil Sharp printed it in 1909 from the singing of Captain Lewis of Minehead, the version we sing [^sharp].
@@ -26,7 +27,11 @@ Spanish Ladies, also sung as "Farewell and Adieu", or "Farewell to You, Ye Fine 
 
 **The tune in print.** That same year William Chappell printed the tune in his Collection of National English Airs as No. 204, marked "Slow", in a minor key [^chappell1840]. In 1859 he wrote that Lord Vernon had sent it to him, that copies of the words had come from several people, one from an old seaman in Devon, and he printed two versions of the first verse, the chorus and four more verses [^chappell].
 
+![[1]]
+
 **Sharp and Captain Lewis.** Cecil Sharp noted down sailors' chanties in Somerset, chiefly at Bridgwater and Minehead, and took Spanish Ladies from Captain Lewis of Minehead; he printed it in 1909 in Folk Songs from Somerset, Fifth Series, as No. 124, "Spanish Ladies. Sea Chanty" [^sharp]. Lieutenant W. Kettlewell of the Royal Navy, who had made a special study of the song, revised Captain Lewis's words for him [^sharp]. Sharp wrote that he knew of no earlier printing of the tune in its "purely diatonic form", the old minor without the raised seventh that the tune has in Chappell's printings, where the harmony is G. A. Macfarren's [^sharp][^chappell1840][^chappell].
+
+![[2]]
 
 **Myth and record.** Often told: the oldest text is in the 1796 log of HMS Nellie. What the record shows: the page is headed "in the year 1769", in the book of a Massachusetts master whose vessels included the sloop Nelle, a merchant ship, not a Royal Navy one [^pease][^balladindex]. The 1796 and the "HMS" look like slips in the retelling: no source we have read gives either.
 
@@ -45,12 +50,16 @@ Spanish Ladies, also sung as "Farewell and Adieu", or "Farewell to You, Ye Fine 
 
 **Chorus.** The sailors will rant and roar, loud and merry, all the way home; Robert Bell noted in 1857 that "rant and roar" was the old reading and "range and rove" a newer one [^bell][^chappell]. To strike soundings is to reach bottom with the deep-sea lead for the first time, coming in from sea, at about 80 to 100 fathoms (a fathom is six feet) [^smyth]. Ushant, the island off France, and the Scilly islands, off Land's End, mark the two sides of the Channel's mouth [^pilot]. A league is three nautical miles, so thirty-five leagues is about 105 [^smyth].
 
+![[3]]
+
 **The older verses.** We sing verse 1 and the chorus. The rest, as Chappell printed it, brings the ship home.
 
 - *We hove our ship to.* To heave to is to set the sails against each other so the ship stops, here to sound; then they filled the main topsail to drive on, and bore away up the Channel [^smyth].
 - *The first land we made.* The Deadman is the sailors' name for the Dodman, and Fairly for Fairlight near Hastings [^whall]. Whall put the Dodman "near Plymouth"; the Admiralty's Channel Pilot of 1863 places it more exactly, nearly midway between the Lizard and Rame Head at Plymouth's mouth, and calls Fairlight Down often the first landfall of ships homeward bound [^whall][^pilot].
 - *The signal was made.* The fleet anchors in the Downs. The shank-painter holds the anchor against the ship's side, so clearing it readies the anchor to drop; clew garnets haul the big sails up to the yard; tacks and sheets hold a sail's lower corners [^smyth].
 - *Let every man toss off a full bumper.* A bumper is a glass filled to the brim [^webster].
+
+![[4]]
 
 ### The full words
 

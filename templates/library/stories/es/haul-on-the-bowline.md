@@ -15,7 +15,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul on the bowline significado | qué significa haul on the bowline | haul on the bowline historia | haul on the bowline letra | haul on the bowline letra significado | haul on the bowline canción marinera
-translatedFrom: 9044377f7e03
+translatedFrom: 47bd09be20b3
+original: Sharp, English Folk-Chanteys (1914), n.º XXXVII, p. 42, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n61/mode/1up
 ---
 
 Haul on the Bowline, que también se imprimió como "Haul the Bowline" y "We'll Haul the Bowline", es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo [^onceaweek][^alden][^terry]. El solista (el shantyman) canta un verso, la tripulación responde "Haul on the bowline, the bowline haul", y todos tiran a la vez en la última palabra, a menudo gritándola [^onceaweek][^smith][^bullen][^terry]. Su estribillo ya estaba impreso en 1868, y quienes han escrito sobre las shanties la han llamado una de las más antiguas de todas, aunque esa afirmación no se apoya en ningún documento antiguo [^onceaweek][^whall][^colcord]. La versión que cantamos es la que John Short, un viejo shantyman de Watchet, en Somerset, cantó a Cecil Sharp en 1914 [^sharpscan][^csp].
@@ -24,9 +25,15 @@ Haul on the Bowline, que también se imprimió como "Haul the Bowline" y "We'll 
 
 **La impresión más antigua que hemos encontrado.** El 1 de agosto de 1868, el semanario londinense *Once a Week* imprimió un artículo sin firma, "On Shanties" [^onceaweek]. Para el trabajo pesado, o cuando hay pocos brazos, dice el autor, se usa una canción para halar de metro más largo, y da su letra: "Haul the bowline, the fore and main-top bowline, / Haul the bowline, the bowline haul", y luego "Kitty you're my darling". La última palabra, "haul", indicaba a los hombres cuándo tirar [^onceaweek]. The Traditional Ballad Index también data la canción a partir de este artículo [^balladindex].
 
+![[1]]
+
 **La melodía más antigua.** En julio de 1882, William L. Alden imprimió "the Bowline" con su melodía en *Harper's New Monthly Magazine*, de Nueva York [^alden]. Situó la escena en un paquebote de Liverpool treinta años antes: la verga de gavia no sube hasta que alguien pide "the Bowline", y los hombres halan en su última sílaba. La consideró, como Haul Away, Joe, que va a su lado, de origen puramente náutico y "sin duda muy antigua" [^alden]. Laura Alexandrine Smith imprimió los mismos versos con una melodía en 1888 [^smith].
 
+![[2]]
+
 **John Short y la página que hemos leído.** John Short fue bautizado en Watchet en abril de 1839 y murió en 1933 [^csp][^halsway]. Pasó más de cincuenta años en barcos de vela, sobre todo como chanteyman, el solista que dirigía el trabajo, y para entonces era el pregonero del pueblo [^sharp][^csp]. Sharp empezó a visitarlo en abril de 1914, y de las 60 shanties de su *English Folk-Chanteys*, publicado ese año, 46 son de Short [^sharp][^csp][^halsway]. Haul on the Bowline es el n.º XXXVII, entre las chanteys para halar, en las páginas 42 y 43, en Do mayor, con acompañamiento de piano [^sharpscan]. Empieza con "Solo. (Introduction.)" (solo, introducción): el chanteyman canta él solo todo el estribillo, como Sharp dice que solían hacer los chanteymen, para anunciar la chantey y recordar la melodía a la tripulación [^sharpscan][^sharp]. Siguen dos estrofas y el estribillo completo. Una punta de flecha sobre el último "haul" de cada estribillo marca el tirón, y no hay ninguna sobre la introducción, cuando todavía nadie tira [^sharpscan]. Su nota de la página 71 remite a otras impresiones, de Tozer, Bullen, Bradford y Fagge, y Smith [^sharpscan].
+
+![[3]]
 
 **De dónde salieron las shanties.** Los marineros y estibadores afrodescendientes fueron centrales en la shanty: un folclorista de la Library of Congress escribe que el cantante más apreciado a bordo era a menudo un marinero afrodescendiente, y Joanna Colcord hizo remontar toda una clase de shanties a los estibadores afroamericanos que metían el algodón en las bodegas en los puertos del Golfo [^winick][^colcord]. El vapor puso fin a la vida de trabajo de la shanty: Alden oía el chigre de vapor donde antes sonaba la canción para halar, y Sharp escribió que el vapor le había dado a la chantey el golpe de gracia [^alden][^sharp].
 
@@ -83,6 +90,8 @@ tira de la bolina, el tirón de la bolina.
 ## Cómo se canta
 
 Es una shanty de tirón corto, para faenas que pedían unos pocos tirones fuertes, uno por estribillo, y no el trabajo continuo del cabrestante ni los tirones más largos de las drizas [^colcord][^winick][^sharpscan]. Los libros coinciden en el tirón y discrepan sobre el cabo.
+
+![[4]]
 
 - **Las escotas.** Bullen la puso entre sus "fore sheet Chanties" (chanties de la escota de trinquete), que se cantaban siempre, dice, al halar ese cabo "con un solo tirón colectivo", y dice que se usaba continuamente en la escota de trinquete y en la mayor; Masefield la puso entre las chanties de escota, amura y bolina, y para Colcord servía para cazar las velas de trinquete y mayor [^bullen][^masefield][^colcord]. Smith la usa para tesar las amuras y las escotas después de que el barco vira por avante [^smith].
 - **"Sweating up".** Richard Terry, que la aprendió del capitán John Runciman, la llamó la shanty más popular para el "sweating up", los últimos tirones, muy fuertes, que dejan tenso un cabo [^terry][^sharp].

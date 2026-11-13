@@ -15,6 +15,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow the man down meaning | blow the man down meaning sea shanty | blow the man down meaning origin | blow the man down song history | who wrote blow the man down | what is blow the man down song about | blow the man down where is it set | is blow the man down public domain | blow the man down lyrics
+original: Whall, Ships, Sea Songs and Shanties (1913), p. 92, Internet Archive | https://archive.org/details/shipsseasongssha00whal/page/n111/mode/1up
+listen: National Jukebox, 1914 recording (medley) | https://www.loc.gov/item/jukebox-649564/
 ---
 
 Blow the Man Down is a sea shanty, a work song that sailors sang to pull together on a rope. It is a halyard shanty, for hoisting the heavy yards that carry a ship's sails: the shantyman sings a line alone, and the crew answer, "Way-ay, blow the man down" [^whallscan][^masefield][^bullen]. The master mariner W. B. Whall wrote that it came from the old Atlantic packet ships, and that "blow" then meant "knock" [^whallscan]. No one knows who made it. Laura Alexandrine Smith printed it with its tune in 1888 as one of the most well-known shanties, Cecil Sharp printed it in 1914 as Knock a Man Down, and in 1921 Richard Terry called it perhaps the shanty best known among landsmen [^smith][^sharp][^terry].
@@ -24,6 +26,8 @@ Blow the Man Down is a sea shanty, a work song that sailors sang to pull togethe
 **The packet ships.** Packet ships sailed on set days each month, rain or shine [^amereras][^clark]. The Black Ball Line began regular sailings between New York and Liverpool in January 1818 [^amereras][^rpsl], though a history of 1910 dates the first of these packets to 1816 [^clark]. Its ships flew a crimson swallowtail flag with a black ball, and carried a black ball painted on the fore-topsail [^clark][^amereras]. They were known for hard discipline: "belaying pin soup" was first served on Black Ball liners, that history says, and Terry wrote that the packet mates, whose job was knocking the crew about, were called "blowers", or strikers [^clark][^terry]. Whall adds that the third mate was called the third "blower and striker" [^whallscan].
 
 **The sailor who wrote it down.** Whall went to sea in 1861, in the old passenger-carrying East Indiamen, and in eleven years there, by his own account, wrote down the songs as sailors sang them. After 1872 he heard no shanty worth the name: "Steam spoilt them" [^whall]. In passenger ships, he explained, the crew had to keep their words decent or not sing at all, so his versions are the clean ones [^whall]. His *Ships, Sea Songs and Shanties* came out in 1910 [^whall][^terry]. By then, he noted, seamen had forgotten the original verses, though the tune and chorus remained [^whallscan].
+
+![[1]]
 
 **Where shanties came from.** Terry, in the words of 1921, wrote of the shanties: "Without doubt a number of them came from American negro sources", meaning African American ones [^terry]. Whall traced another shanty in his book, Lowlands, to the cotton ports of the old Southern States, and its verse asks about "screwing cotton" in Mobile Bay: packing bales into a ship's hold with jack-screws [^whall][^smyth]. A Library of Congress folklorist writes that the most valued singer on board was often a Black sailor, and that the collector Stan Hugill learned many of his songs from West Indian shipmates [^winick]. This shanty lived on in the Caribbean, where a review of 1935 recordings from the Bahamas calls it well known throughout the islands, in the days when sponging crews spent weeks at sea in small sailboats [^mustrad]. That year Alan Lomax and Mary Elizabeth Barnicle recorded David Pryor and a group from Andros Island singing its tune to other words, as Roll 'Im On Down [^crem][^balladindex]. The Traditional Ballad Index lists versions from the Bahamas, Tobago, Nevis and St Vincent [^balladindex].
 
@@ -129,6 +133,8 @@ Our arrangement is read from his page, moved from D up to F and written in 3/4, 
 - **The Black Ball verses.** A correspondent sent Smith twelve verses following a Black Ball ship out of dock, across the ocean and home, close to Whall's second set [^smith][^whallscan].
 - **The clipper to Sydney.** In Masefield's, a girl in Paradise Street steers the singer to a clipper bound for Sydney, where the mate knocks him down with a spar [^masefield].
 - **Knock a Man Down.** Sharp's singer, John Short of Watchet, remembered two verses and sang "knock"; Sharp filled out the rest from other versions [^sharp]. Terry, without naming the book, wrote that "knock" was "too crudely realistic" for a sailor's chorus [^terry].
+
+![[2]]
 
 ## Did you know?
 

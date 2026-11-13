@@ -16,7 +16,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió drunken sailor | drunken sailor significado | drunken sailor canción significado | drunken sailor historia | drunken sailor hija del capitán significado | drunken sailor es irlandesa
-translatedFrom: fd4b94f695a1
+translatedFrom: d2868ae60d87
+original: Olmsted, Incidents of a Whaling Voyage (1841), p. 116, Internet Archive | https://archive.org/details/incidentsofwhali00olmsrich/page/n127/mode/1up
 ---
 
 Drunken Sailor, que también se canta como "What Shall We Do with the Drunken Sailor?" o "What Shall We Do with a Drunken Sailor?" (¿qué hacemos con el marinero borracho?), es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo. El solista (el shantyman) pregunta qué hacer con el marinero borracho, y todos responden: "Hooray and up she rises, early in the morning" (¡hurra, y arriba se alza, de buena mañana!) [^terryscan][^bullen]. El capitán de la marina mercante W. B. Whall, que la imprimió como "Early in the Morning", recordaba a toda la tripulación cantándola a paso rápido de marcha mientras se alejaba tirando del cabo [^whall]. Su estribillo está en el diario de un ballenero de 1840, impreso en 1841 [^olmsted][^balladindex]. Richard Terry, que imprimió esta melodía en 1921, la llamó "siempre una gran favorita" [^terry].
@@ -25,11 +26,19 @@ Drunken Sailor, que también se canta como "What Shall We Do with the Drunken Sa
 
 **Un ballenero de New London.** El 11 de octubre de 1839, el ballenero North America zarpó de New London, en Connecticut, rumbo al Pacífico, con un joven pasajero, Francis Allyn Olmsted, que llevaba un diario [^olmsted]. Su tripulación era variada, escribió: estadounidenses, tres hombres a los que llamó "Indians" (indígenas americanos; uno de ellos, John Uncas, era mohegano), un inglés, seis portugueses y varios marineros negros. El cocinero, un hombre negro al que a menudo llamaban "Mr. Freeman", era, en palabras de Olmsted, "la fuente de toda la diversión y el buen humor a bordo" [^olmsted].
 
+![[1]]
+
 El 11 de febrero de 1840, Olmsted escribió sobre las canciones que cantaban los hombres mientras halaban de la jarcia. Iban bien "cuando hay una larga fila de hombres halando a la vez". Mr. Freeman, escribió, "suele oficiar de cantor": entonaba la canción "mientras todos los demás se unen al estribillo". A veces, añadió, "todos cantan juntos, como he procurado representar", y así anotó la primera canción que imprimió [^olmsted]: su melodía, con las palabras "Ho! Ho! and up she rises" tres veces y "Early in the morning". Su *Incidents of a Whaling Voyage* salió en Nueva York en 1841, la primera impresión conocida del estribillo, aunque sin la estrofa del marinero borracho [^olmsted][^balladindex].
+
+![[2]]
 
 **Los marineros que la recordaban.** La estrofa está impresa en 1908 como muy tarde, en *A Sailor's Garland*, del poeta John Masefield, cuya primera edición salió en 1906 [^masefield][^openlibrary]. W. B. Whall se hizo a la mar en 1861 y pasó once años en los viejos barcos de pasajeros, los East Indiamen, anotando canciones tal como las cantaban los marineros, según su propio relato [^whall]. Escribió que, aunque en general se creía que las shanties nunca se permitían en la Royal Navy, esta canción y otra más se permitían a veces, sobre todo en los guardacostas de aduanas, o se cantaban en voz baja en barcos más grandes [^whall]. En 1914, Cecil Sharp imprimió una versión cantada por James Tucker en Bristol [^sharp], y Frank Bullen, que había sido shantyman en el mar, imprimió otra [^bullen].
 
+![[3]]
+
 **La melodía de Terry.** Richard Runciman Terry era músico de iglesia, desde 1901 organista y director de música de la catedral de Westminster [^oxford][^julian]. La familia de su madre, escribió, había vivido del mar hasta donde se podía rastrear, y unos tíos marineros le cantaban shanties desde niño; en la década de 1890 vivió en Antigua, donde oyó cantar shanties en tierra [^terry][^oxford]. En *The Shanty Book* de 1921 imprimió Drunken Sailor como n.º 14, con seis estrofas, y dijo que estaba "en el primer modo", el modo que hoy se llama dórico [^terry][^terryscan]. Es la melodía que cantamos.
+
+![[4]]
 
 **De dónde salieron las shanties.** Terry escribió que los marineros aprendían canciones allá donde iban, y que varias shanties venían sin duda de cantantes afroamericanos [^terry]. Un folclorista de la Library of Congress escribe que el cantante más apreciado a bordo era a menudo un marinero negro, y que las shanties pueden remontarse a los cantos de trabajo afroamericanos [^winick]. El vapor puso fin a la época de las shanties, cuando el chigre de vapor sustituyó al molinete y al cabrestante; Whall no había oído una shanty digna de ese nombre desde 1872 [^terry][^whall].
 
