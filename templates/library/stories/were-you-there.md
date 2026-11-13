@@ -15,15 +15,15 @@ alsoKnownAs: Were You There When They Crucified My Lord?, The Crucifixion
 wikidata: Q17035491
 quote: It is a tender and beautiful hymn
 quoteSource: barton1899
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: were you there when they crucified my lord lyrics | were you there meaning | were you there when they crucified my lord meaning | were you there hymn history | history of were you there when they crucified my lord | were you there when they crucified my lord origin | who wrote were you there when they crucified my lord | when was were you there when they crucified my lord written | is were you there when they crucified my lord public domain | were you there hymn
 listen: Internet Archive, 1920 recording by the Fisk University Jubilee Singers (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-665185-were-you-there
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Appendix p. VI, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n277
+original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), p. 162, University of Toronto, Faculty of Music Library | https://archive.org/details/religiousfolkson00hamp/page/n171
 ---
 
-Were You There, also called Were You There When They Crucified My Lord?, is an African American spiritual about the death of Jesus [^canterbury][^dett1927]. Each verse asks one question: were you there when they crucified my Lord, nailed Him to the tree, pierced Him in the side, when the sun refused to shine, when they laid Him in the tomb? And each answers, "Sometimes it causes me to tremble" [^dett1927][^work1907]. No maker's name is known [^canterbury][^hymnarchive]. Its earliest known printing is from 1892, headed "The Crucifixion", in the book of the touring Jubilee Singers; the date often given, 1899, belongs to a later book [^loudin1892][^hymnarchive][^barton1899][^bbcmusic]. Hymnals of many churches now print it for Holy Week and Good Friday [^hymnary-umh][^hymnary-gap][^hymnary-h1940].
+Were You There, also called Were You There When They Crucified My Lord?, is an African American spiritual about the death of Jesus [^canterbury][^dett1927]. Each verse asks one question: were you there when they crucified my Lord, nailed Him to the tree, pierced Him in the side, when the sun refused to shine, when they laid Him in the tomb? And each answers, "Sometimes it causes me to tremble" [^hampton1909][^work1907]. No maker's name is known [^canterbury][^hymnarchive]. Its earliest known printing is from 1892, headed "The Crucifixion", in the book of the touring Jubilee Singers; the date often given, 1899, belongs to a later book [^loudin1892][^hymnarchive][^barton1899][^bbcmusic]. Hymnals of many churches now print it for Holy Week and Good Friday [^hymnary-umh][^hymnary-gap][^hymnary-h1940].
 
 ## Where it comes from
 
@@ -39,13 +39,13 @@ Were You There, also called Were You There When They Crucified My Lord?, is an A
 
 **The Fisk setting, 1907.** At Fisk University in Nashville, Frederick J. Work edited Folk Songs of the American Negro, Number Two, with an introduction by his brother John W. Work, a Fisk professor, dated 15 May 1907 [^work1907][^cdh-fjwork][^folklorists]. "These songs are still being hunted and found," it says [^work1907]. On page 46 is "Were You There?" in the shape sung today: four parts in G, the five verses we know, a held "Oh!", and an echo after each question, "(were you there?)" or "(to the tree?)" [^work1907]. A hymnologist's survey finds the same setting a few years earlier in Frederick Work's New Jubilee Songs, dated 1902 by the survey and the Canterbury Dictionary, and 1901 by another source [^hymnarchive][^cdh-fjwork][^folklorists].
 
-**Hampton, 1909.** Hampton Institute in Virginia had published its students' songs since 1874 [^hampton1909][^dett1927][^lva-dett]. Its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, prints "Were You There?" on page 162: the same setting as the Fisk page, with the same five verses and echoes [^hampton1909][^work1907][^hymnarchive]. Its note, signed by Robert R. Moton, Hampton's commandant, thanks "Professor F. J. Work of Fisk University" for some of the "some twenty-five" new songs it adds [^hampton1909][^hymnarchive].
+**Hampton, 1909.** Hampton Institute in Virginia had published its students' songs since 1874 [^hampton1909][^dett1927][^lva-dett]. Its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, "arranged by the musical directors" of the Institute "from the original edition by Thomas P. Fenner", names no other arranger [^hampton1909]. It prints "Were You There?" on page 162: the same setting as the Fisk page, with the same five verses and echoes [^hampton1909][^work1907][^hymnarchive]. On the page, in G and 4/4, the top voice asks each question alone while the other parts rest; it gives no tempo and does not say who sings [^hampton1909]. Its note, signed by Robert R. Moton, Hampton's commandant, thanks "Professor F. J. Work of Fisk University" for some of the "some twenty-five" new songs it adds [^hampton1909][^hymnarchive]. Our arrangement's tune and words are read from this page.
 
-**Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), who directed Hampton's choirs, edited Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^dett1927]. It prints "Were You There" twice, under "Hymns of the Death of Christ": Dett's own new transcription on page 106, and, in the Appendix, where he keeps earlier scores "that nothing may be lost", the 1909 setting on page VI [^dett1927]. That page is marked "Adagio con molto espress.", slow and very expressive, at 68 beats a minute, with the first line "Solo", markings the 1909 page lacks [^dett1927][^hampton1909]. Our arrangement is read from it.
+**Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), who directed Hampton's choirs, edited Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^dett1927]. It prints "Were You There" twice, under "Hymns of the Death of Christ": Dett's own new transcription on page 106, and, in the Appendix, where he keeps earlier scores "that nothing may be lost", the 1909 setting on page VI [^dett1927]. That page is marked "Adagio con molto espress.", slow and very expressive, at 68 beats a minute, with the first line "Solo", markings the 1909 page lacks [^dett1927][^hampton1909]. Those marks are Dett's; of them we take only his pace.
 
 ![[2]]
 
-**Myth and record.** Often told: it was first printed in Barton's book of 1899 [^bbcmusic], which hymnals still give as its source [^hymnary-gap]. What the record shows: it was in print in 1892 and 1897, so Barton's page is early, but not the first [^loudin1892][^backus1897][^hymnarchive].
+**Myth and record.** Often told: its earliest printing is Barton's book of 1899 [^bbcmusic], which hymnals still give as its source [^hymnary-gap]. What the record shows: it was in print in 1892 and 1897, so Barton's page is early, but not the first [^loudin1892][^backus1897][^hymnarchive].
 
 ### Timeline
 
@@ -53,7 +53,7 @@ Were You There, also called Were You There When They Crucified My Lord?, is an A
 - 1897: The Journal of American Folk-Lore prints a text from Columbia County, Georgia [^backus1897][^hymnarchive]
 - 1899: Barton's Old Plantation Hymns prints the tune with four verses, p. 40 [^barton1899][^hymnarchive]
 - 1907: Frederick J. Work's Folk Songs of the American Negro, Number Two, prints the four-part setting, p. 46 [^work1907][^cdh-fjwork]
-- 1909: Hampton's new edition prints the same setting, p. 162 [^hampton1909][^hymnarchive]
+- 1909: Hampton's new edition prints the same setting, p. 162, the page our arrangement is read from [^hampton1909][^hymnarchive]
 - 1920: The Fisk University Jubilee Singers record it for Columbia on 28 December [^dahr][^jukebox1920]
 - 1927: Dett's Hampton book prints it twice, pp. 106 and VI [^dett1927][^lva-dett]
 - 1940: The Episcopal Church's Hymnal 1940 prints it as No. 80 [^hymnary-h1940][^hymnarchive]
@@ -67,42 +67,42 @@ Each verse is one moment of Jesus' death as the Gospels tell it, turned into a q
 - **"When they pierced Him in the side."** In John's Gospel a soldier "with a spear pierced his side" [^kjv].
 - **"When the sun refused to shine."** Luke's Gospel tells of darkness over all the earth from the sixth hour to the ninth, noon to three in the afternoon, and that "the sun was darkened" [^kjv].
 - **"When they laid Him in the tomb."** His body was wrapped in linen and laid in a tomb cut out of rock [^kjv].
-- **"Oh! Sometimes it causes me to tremble."** The singer's answer: thinking of that day makes me shake. The capital on "Him" is the books' own [^dett1927][^work1907].
+- **"Oh! Sometimes it causes me to tremble."** The singer's answer: thinking of that day makes me shake. The capital on "Him" is the books' own [^hampton1909][^work1907].
 
 In 1915 John W. Work wrote that he could hardly believe anyone could stay "the same and unaffected" after singing it "in the spirit" [^work1915]. Work's 1915 book files it among the "Sorrow Songs" [^work1915]. No source from the 1800s that we have read gives it a hidden meaning; its words follow the Gospel story.
 
 ### The full words
 
-These are the five verses as Dett's 1927 reprint of the 1909 Hampton page prints them, with its capitals and the echo in brackets; each verse is sung through the same way [^dett1927][^hampton1909]. We sing verses 1 to 4.
+These are the five verses as Hampton's 1909 page prints them, with its capitals and the echo in brackets; each verse is sung through the same way. They were printed in the United States in 1909, before 1931, and are in the public domain [^hampton1909]. We sing verses 1 to 4.
 
 **Verse 1**
 Were you there when they crucified my Lord? (were you there?)
 Were you there when they crucified my Lord? Oh!
-Sometimes it causes me to tremble, tremble tremble,
+Sometimes it causes me to tremble, tremble, tremble,
 Were you there when they crucified my Lord?
 
 **Verse 2**
 Were you there when they nailed Him to the tree? (to the tree?)
 Were you there when they nailed Him to the tree? Oh!
-Sometimes it causes me to tremble, tremble tremble,
+Sometimes it causes me to tremble, tremble, tremble,
 Were you there when they nailed Him to the tree?
 
 **Verse 3**
 Were you there when they pierced Him in the side? (in the side?)
 Were you there when they pierced Him in the side? Oh!
-Sometimes it causes me to tremble, tremble tremble,
+Sometimes it causes me to tremble, tremble, tremble,
 Were you there when they pierced Him in the side?
 
 **Verse 4**
 Were you there when the sun refused to shine? (were you there?)
 Were you there when the sun refused to shine? Oh!
-Sometimes it causes me to tremble, tremble tremble,
+Sometimes it causes me to tremble, tremble, tremble,
 Were you there when the sun refused to shine?
 
 **Verse 5**
 Were you there when they laid Him in the tomb? (in the tomb?)
 Were you there when they laid Him in the tomb? Oh!
-Sometimes it causes me to tremble, tremble tremble,
+Sometimes it causes me to tremble, tremble, tremble,
 Were you there when they laid Him in the tomb?
 
 ## How it is sung
@@ -111,7 +111,7 @@ Churches sing it in the days before Easter. The United Methodist Hymnal files it
 
 A folk spiritual is sung by ear, the way a congregation learned it; a concert spiritual is written out and arranged for trained singers. Hampton's books stand between the two, as their prefaces show. Thomas P. Fenner, who trained Hampton's first student singers, wrote in 1874 that the music can be given plain or developed without losing its character, but that much of its power at home, "the overpowering chorus", the swaying and stamping, cannot be carried onto a stage [^hampton1909]. In 1909 Moton wrote that Hampton kept to the printed music in a general way, but got the best results by letting students, once they had the tune, sing "as seems to them most easy and natural" [^hampton1909].
 
-Our arrangement keeps the 1927 reprint's key of G and its 68 beats a minute, slow and quiet [^dett1927]. It is for 2 to 4 singers and sings four of the five verses, leaving out the tomb. The soprano asks each question alone; the others echo her under her held note; then everyone sings the rest. In the full lines the tune is the printed top voice, as it is sung today, and our lower parts are our own, checked against the printed chords. "Oh!" stays on one note, without the print's turn up to a high G, and the "tremble, tremble" is held long, as the printed pauses ask.
+Our arrangement keeps the 1909 page's key of G, at the 68 beats a minute of Dett's 1927 reprint, slow and quiet [^hampton1909][^dett1927]. It is for 2 to 4 singers and sings four of the five verses, leaving out the tomb. The soprano asks each question alone; the others echo her under her held note; then everyone sings the rest. In the full lines the tune is the printed top voice, as it is sung today, and our lower parts are our own, checked against the printed chords. "Oh!" stays on one note, without the print's turn up to a high G, and the "tremble, tremble" is held long, as the printed pauses ask.
 
 ## Versions and other words
 
@@ -141,8 +141,8 @@ Yes. It tells of the crucifixion, the darkness and the burial, which Good Friday
 
 ## Sing next
 
-- [Balm in Gilead](/songs/balm-in-gilead): from the same Hampton book, in Dett's own four parts, slow, with solo verses for the soprano.
-- [Every Time I Feel the Spirit](/songs/every-time-i-feel-the-spirit): from Dett's Hampton book too, at a walking pace, with solo verses for the alto.
+- [Balm in Gilead](/songs/balm-in-gilead): from Dett's 1927 Hampton book, in his own four parts, slow, with solo verses for the soprano.
+- [Every Time I Feel the Spirit](/songs/every-time-i-feel-the-spirit): from the same 1909 Hampton book, at a walking pace, with solo verses for the alto.
 - [Steal Away](/songs/steal-away): from the Fisk Jubilee Singers' first book of 1872, slow and free, with long notes to hold.
 
 ## Sources
@@ -152,7 +152,7 @@ Yes. It tells of the crucifixion, the darkness and the burial, which Good Friday
 - [^barton1899]: William E. Barton, *Old Plantation Hymns: A Collection of Hitherto Unpublished Melodies of the Slave and the Freedman, with Historical and Descriptive Notes* (Boston: Lamson, Wolffe and Company, 1899), opening essay, p. [1] (his years in the South, 1880 to 1887); "Recent Negro Melodies", p. 40, "Were You There?" (image n43); Cornell University Library, ML3556 .B29, facsimile. https://archive.org/details/cu31924066563655/page/n43
 - [^berea-barton]: Berea College Special Collections and Archives, "William Eleazar Barton papers", RG 09-9.04, finding aid, Scope and Contents ("a Congregationalist pastor and author"). https://bereaarchives.libraryhost.com/repositories/2/resources/551
 - [^work1907]: Frederick J. Work, ed., *Folk Songs of the American Negro, Number Two*, introduction by John W. Work, Jr. (Nashville: Work Bros. & Hart Co., [1907]), introduction signed "J. W. Work", Fisk University, 15 May 1907 (image n1); "Were You There?", p. 46 (image n47); University of North Carolina at Chapel Hill, University Library copy, facsimile. https://archive.org/details/folksongsofameri00work/page/n47
-- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), "Copyright, July 1, 1909"; Fenner's preface dated 1 January 1874; introduction (first edition 1874); Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909; "Were You There?", p. 162 (image n171); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n171
+- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), title page (image n4); "Copyright, July 1, 1909"; Fenner's preface dated 1 January 1874; introduction (first edition 1874); Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909; "Were You There?", p. 162 (image n171); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n171
 - [^dett1927]: R. Nathaniel Dett, ed., *Religious Folk-Songs of the Negro as Sung at Hampton Institute* (Hampton, Va.: Hampton Institute Press, 1927), introduction, section IX; "Hymns of the Death of Christ": "Did You Hear How Dey Crucified My Lord?", p. 104 (image n135), and "Were You There When They Crucified My Lord?", "Transcribed by R. Nathaniel Dett", p. 106 (image n137); Appendix, introduction, and p. VI, "Were You There When They Crucified My Lord?" (image n277); Princeton Theological Seminary Library, BV461 .R477 1927, facsimile. https://archive.org/details/religiousfolkson00dett/page/n277
 - [^cabin1901]: *Cabin and Plantation Songs as Sung by the Hampton Students*, third edition, enlarged (New York: G. P. Putnam's Sons, 1901), preface dated Hampton, January 1901; index, "Did you hear how dey Crucified my Lord?", p. 141; Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/cabinplan00fenn
 - [^work1915]: John Wesley Work, *Folk Song of the American Negro* (Nashville: Press of Fisk University, 1915), "Sorrow Songs", p. 51 (image n58), and p. 117 (image n122); Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/folkameric00work/page/n122

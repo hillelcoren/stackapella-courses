@@ -14,15 +14,15 @@ alsoKnownAs: Ev'ry Time I Feel the Spirit, I Will Pray
 wikidata: Q5417616
 quote: De todos los espirituales, este es uno de los más conmovedores por su aire de oración y su serena reverencia
 quoteSource: burlin1918
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
+original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), p. 169, biblioteca de la Facultad de Música de la University of Toronto | https://archive.org/details/religiousfolkson00hamp/page/n178
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: every time i feel the spirit significado | every time i feel the spirit historia | every time i feel the spirit letra en español | quién escribió every time i feel the spirit | every time i feel the spirit traducción | every time i feel the spirit espiritual
-translatedFrom: fa1565183272
+translatedFrom: b0f26b493439
 ---
 
-Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit, es un espiritual afroamericano (en inglés, spiritual) sobre la oración: cada vez que quien canta siente al Espíritu moverse en su corazón, ora [^dett1927][^work1907]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnarchive]. Su primera impresión conocida es de 1907, en la Universidad Fisk de Nashville, con el título "I Will Pray" (oraré) [^work1907][^hymnarchive]. Dos años después, el Hampton Institute, en Virginia, lo imprimió con tres estrofas distintas, sobre el Señor que habla en el monte, todo lo que brilla alrededor de quien canta y el frío río Jordán; nosotros cantamos las dos primeras [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal y el Chalice Hymnal lo imprimen, con el nombre de melodía PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
+Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit, es un espiritual afroamericano (en inglés, spiritual) sobre la oración: cada vez que quien canta siente al Espíritu moverse en su corazón, ora [^hampton1909][^work1907]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnarchive]. Su primera impresión conocida es de 1907, en la Universidad Fisk de Nashville, con el título "I Will Pray" (oraré) [^work1907][^hymnarchive]. Dos años después, el Hampton Institute, en Virginia, lo imprimió con tres estrofas distintas, sobre el Señor que habla en el monte, todo lo que brilla alrededor de quien canta y el frío río Jordán; nosotros cantamos las dos primeras [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal y el Chalice Hymnal lo imprimen, con el nombre de melodía PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
 
 ![[1]]
 
@@ -36,7 +36,7 @@ Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit
 
 ![[2]]
 
-**Hampton, 1909.** El Hampton Institute publicaba las canciones de sus estudiantes desde 1874, y su nueva edición de 1909, Religious Folk Songs of the Negro as Sung on the Plantations, imprime "Ev'ry Time I Feel the Spirit" en la página 169 [^hampton1909][^lva-dett][^hymnarchive]. El estribillo tiene la misma letra, otra vez en Mi bemol y a cuatro voces, pero las tres estrofas son nuevas [^hampton1909][^work1907]. Cada estrofa es una sola línea de melodía sobre un pentagrama inferior vacío: una voz sola [^hampton1909]. La nota del libro, firmada por Robert R. Moton, comandante de Hampton, da las gracias al profesor F. J. Work, de Fisk, y a otros por algunas de sus canciones nuevas, pero esta página no nombra ninguna fuente, y sus estrofas no son las de Fisk [^hampton1909][^work1907][^hymnarchive].
+**Hampton, 1909.** El Hampton Institute publicaba las canciones de sus estudiantes desde 1874, y su nueva edición de 1909, Religious Folk Songs of the Negro as Sung on the Plantations, "arranged by the musical directors" (arreglada por los directores musicales) del instituto "from the original edition by Thomas P. Fenner" (a partir de la edición original de Thomas P. Fenner), imprime "Ev'ry Time I Feel the Spirit" en la página 169 [^hampton1909][^lva-dett][^hymnarchive]. El estribillo tiene la misma letra, otra vez en Mi bemol y a cuatro voces, pero las tres estrofas son nuevas [^hampton1909][^work1907]. Cada estrofa es una sola línea de melodía sobre un pentagrama inferior vacío: una voz sola. El estribillo termina con signos de repetición y "Fine.", y el "D. C." tras las estrofas devuelve a los cantantes a él; la página no da tempo ni nombra ninguna voz [^hampton1909]. Nuestra melodía y nuestra letra están tomadas de esta página. La nota del libro, firmada por Robert R. Moton, comandante de Hampton, da las gracias al profesor F. J. Work, de Fisk, y a otros por algunas de sus canciones nuevas, pero esta página no nombra ninguna fuente, y sus estrofas no son las de Fisk [^hampton1909][^work1907][^hymnarchive].
 
 ![[3]]
 
@@ -44,14 +44,14 @@ Every Time I Feel the Spirit, también impreso como Ev'ry Time I Feel the Spirit
 
 **Para la sala de conciertos y para las islas, 1925.** The Book of American Negro Spirituals, editado por James Weldon Johnson, lo puso para voz sola y piano, en un arreglo de J. Rosamond Johnson, "Moderately Slow" (moderadamente lento), con las mismas tres estrofas [^johnson1925][^hymnarchive]. Ese mismo año, la Penn School de la isla de St. Helena, en Carolina del Sur, lo imprimió en Saint Helena Island Spirituals, dando como fuente la página 169 de Hampton y añadiendo una cuarta estrofa, sobre un tren al cielo [^sthelena1925][^hymnarchive].
 
-**El libro de Dett, 1927.** El compositor R. Nathaniel Dett (1882 a 1943) enseñó música y dirigió los coros de Hampton desde 1913 [^lva-dett][^ewb-dett]. Su edición de 1927 vuelve a imprimir la armonización de 1909, compuesta de nuevo, en la página 169, bajo el encabezado "Hymns of Meditation" (himnos de meditación) [^dett1927][^hampton1909]. Añade indicaciones que no tiene la página de 1909: "Andante molto espress.", a paso de andar y muy expresivo, de 68 a 72 pulsos por minuto; "Tutti", todos, para el estribillo, fuerte y cada vez más suave; y "Solo", bastante suave, para las estrofas [^dett1927][^hampton1909]. Nuestro arreglo está tomado de esta página.
+**El libro de Dett, 1927.** El compositor R. Nathaniel Dett (1882 a 1943) enseñó música y dirigió los coros de Hampton desde 1913 [^lva-dett][^ewb-dett]. Su edición de 1927 vuelve a imprimir la armonización de 1909, compuesta de nuevo, en la página 169, bajo el encabezado "Hymns of Meditation" (himnos de meditación) [^dett1927][^hampton1909]. Añade indicaciones que no tiene la página de 1909: "Andante molto espress.", a paso de andar y muy expresivo, de 68 a 72 pulsos por minuto; "Tutti", todos, para el estribillo, fuerte y cada vez más suave; y "Solo", bastante suave, para las estrofas [^dett1927][^hampton1909]. Esas indicaciones son de Dett; el tempo de 70 pulsos por minuto lo elegimos nosotros, dentro de su margen.
 
 ![[4]]
 
 ### Cronología
 
 - 1907: Folk Songs of the American Negro, Number Two, de Frederick J. Work, lo imprime en Fisk como "I Will Pray", p. 4 [^work1907][^hymnarchive]
-- 1909: La nueva edición de Hampton lo imprime con las estrofas del monte, del brillo y del Jordán, p. 169 [^hampton1909][^hymnarchive]
+- 1909: La nueva edición de Hampton lo imprime con las estrofas del monte, del brillo y del Jordán, p. 169, la página de la que está tomado nuestro arreglo [^hampton1909][^hymnarchive]
 - 1918: Natalie Curtis-Burlin lo imprime a partir de un cuarteto masculino de Virginia [^burlin1918][^hymnarchive]
 - 1925: The Book of American Negro Spirituals lo arregla para voz y piano, p. 142 [^johnson1925][^hymnarchive]
 - 1925: Saint Helena Island Spirituals lo reimprime a partir de Hampton con una estrofa nueva, p. 88 [^sthelena1925][^hymnarchive]
@@ -70,7 +70,7 @@ En 1855 Frederick Douglass escribió que, cuando él y sus amigos cantaban sobre
 
 ### La letra completa
 
-Estos son el estribillo y las tres estrofas tal como los imprime la página de Dett de 1927, con la misma letra que la página de Hampton de 1909; el estribillo se canta dos veces, como indican sus signos de repetición, y otra vez después de cada estrofa [^dett1927][^hampton1909]. Cantamos las estrofas 1 y 2.
+Estos son el estribillo y las tres estrofas tal como los imprime la página de Hampton de 1909; el estribillo se canta dos veces, como indican sus signos de repetición, y otra vez después de cada estrofa. Se imprimieron en Estados Unidos en 1909, antes de 1931, y son de dominio público [^hampton1909]. La página de Dett de 1927 imprime la misma letra [^dett1927]. Cantamos las estrofas 1 y 2.
 
 **Estribillo**
 > Ev'ry time I feel the Spirit moving in my heart I will pray.
@@ -100,7 +100,7 @@ Un espiritual folclórico se canta de oído, como lo aprendía una congregación
 
 En las iglesias se canta como un canto de oración: The United Methodist Hymnal lo clasifica en la oración, y el Chalice Hymnal en la oración y el Espíritu Santo [^hymnary-umh][^hymnary-chalice]. Su métrica es irregular [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
 
-Nuestro arreglo mantiene el Mi bemol de la página de 1927, a 70 pulsos por minuto, para 2 a 4 cantantes [^dett1927]. Todos cantan el estribillo en armonía, dos veces, como indican los signos de repetición; luego la contralto canta sola la estrofa 1, el estribillo vuelve dos veces, después la estrofa 2, y otra vez el estribillo dos veces. La estrofa del Jordán queda fuera. En el estribillo la melodía es la voz superior impresa, y nuestras voces inferiores son nuestras, cotejadas con los acordes impresos. Las respiraciones vienen marcadas para quienes empiezan.
+Nuestro arreglo mantiene el Mi bemol de la página de 1909, a 70 pulsos por minuto, para 2 a 4 cantantes [^hampton1909]. Todos cantan el estribillo en armonía, dos veces, como indican los signos de repetición; luego la contralto canta sola la estrofa 1, el estribillo vuelve dos veces, después la estrofa 2, y otra vez el estribillo dos veces. La estrofa del Jordán queda fuera. En el estribillo la melodía es la voz superior impresa, y nuestras voces inferiores son nuestras, cotejadas con los acordes impresos. Las respiraciones vienen marcadas para quienes empiezan.
 
 ## Versiones y otras letras
 
@@ -128,22 +128,22 @@ Nadie lo sabe. Es un espiritual afroamericano tradicional, y su primera impresi�
 
 ### ¿Qué significa Every Time I Feel the Spirit?
 
-Es una promesa de orar: siempre que quien canta siente al Espíritu Santo moverse en el corazón, orará [^dett1927]. Los himnarios lo relacionan con Romanos 8 y Lucas 11 [^hymnary-umh][^hymnary-ph1990]. Sus estrofas pintan al Señor hablando desde el monte, muy probablemente el Sinaí, entre fuego y humo; todo lo que brilla alrededor de quien canta; y el frío río Jordán, que enfría el cuerpo, pero no el alma [^hampton1909][^kjv].
+Es una promesa de orar: siempre que quien canta siente al Espíritu Santo moverse en el corazón, orará [^hampton1909]. Los himnarios lo relacionan con Romanos 8 y Lucas 11 [^hymnary-umh][^hymnary-ph1990]. Sus estrofas pintan al Señor hablando desde el monte, muy probablemente el Sinaí, entre fuego y humo; todo lo que brilla alrededor de quien canta; y el frío río Jordán, que enfría el cuerpo, pero no el alma [^hampton1909][^kjv].
 
 ### ¿Qué voz canta la melodía en este arreglo?
 
-En el estribillo la soprano canta la melodía, la voz superior impresa, con las demás voces en armonía por debajo [^dett1927]. En las estrofas la contralto canta sola la melodía. La página de 1927 marca las estrofas "Solo" sin nombrar una voz, y su línea va grave, del Do central al Sol, así que se la damos a la contralto [^dett1927].
+En el estribillo la soprano canta la melodía, la voz superior impresa, con las demás voces en armonía por debajo [^hampton1909]. En las estrofas la contralto canta sola la melodía. La página de 1909 da las estrofas a una sola voz sin nombrarla, y la reimpresión de Dett de 1927 las marca "Solo"; la línea va grave, del Do central al Sol, así que se la damos a la contralto [^hampton1909][^dett1927].
 
 ## Canta después
 
 - [Were You There](/songs/were-you-there): del mismo libro de Hampton, lento y suave, con la soprano haciendo sola cada pregunta.
-- [Ezekiel Saw the Wheel](/songs/ezekiel-saw-the-wheel): también del libro de Hampton de Dett, más rápido, con versos solistas para la soprano y todos respondiendo.
-- [Balm in Gilead](/songs/balm-in-gilead): del mismo libro, lento, a cuatro voces del propio Dett.
+- [Ezekiel Saw the Wheel](/songs/ezekiel-saw-the-wheel): del mismo libro de Hampton de 1909, más rápido, con versos solistas para la soprano y todos respondiendo.
+- [Balm in Gilead](/songs/balm-in-gilead): del libro de Hampton de 1927, lento, a cuatro voces del propio Dett.
 
 ## Fuentes
 
 - [^work1907]: Frederick J. Work, ed., *Folk Songs of the American Negro, Number Two*, introducción de John W. Work, Jr. (Nashville: Work Bros. & Hart Co., [1907]), introducción firmada "J. W. Work", Fisk University, 15 de mayo de 1907 (imagen n1); "I Will Pray", p. 4 (imagen n5); University of North Carolina at Chapel Hill, University Library, registro b11424315 (OCLC 1099329806), facsímil. https://archive.org/details/folksongsofameri00work/page/n5
-- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, nueva edición, arreglada por los directores musicales del Hampton Normal and Agricultural Institute a partir de la edición original de Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909); Robert R. Moton, Commandant, "Note to New Edition", 11 de mayo de 1909, p. vi (imagen n9); "Ev'ry Time I Feel the Spirit", p. 169 (imagen n178); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsímil. https://archive.org/details/religiousfolkson00hamp/page/n178
+- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, nueva edición, arreglada por los directores musicales del Hampton Normal and Agricultural Institute a partir de la edición original de Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), portada (imagen n4); Robert R. Moton, Commandant, "Note to New Edition", 11 de mayo de 1909, p. vi (imagen n9); "Ev'ry Time I Feel the Spirit", p. 169 (imagen n178); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsímil. https://archive.org/details/religiousfolkson00hamp/page/n178
 - [^dett1927]: R. Nathaniel Dett, ed., *Religious Folk-Songs of the Negro as Sung at Hampton Institute* (Hampton, Va.: Hampton Institute Press, 1927), introducción, sección IX, p. xviii, e Index of Subjects; "Hymns of Meditation", "Ev'ry Time I Feel the Spirit", p. 169 (imagen n200); Princeton Theological Seminary Library, BV461 .R477 1927, facsímil. https://archive.org/details/religiousfolkson00dett/page/n200
 - [^burlin1918]: Natalie Curtis-Burlin, *Negro Folk-Songs*, Hampton Series, Book II, Spirituals (Nueva York: G. Schirmer, 1918), prólogo; n.º III, "O Ev'ry Time I Feel de Spirit", nota y letra, p. 28 (imagen n29), música desde la p. 29 (imagen n30); ejemplar de la Princeton Theological Seminary Library, facsímil. https://archive.org/details/negrofol02curt/page/n29
 - [^johnson1925]: James Weldon Johnson, ed., *The Book of American Negro Spirituals*, arreglos musicales de J. Rosamond Johnson (Nueva York: The Viking Press, 1925), "Ev'ry Time I Feel de Spirit", p. 142 (imagen n147); University of Toronto, Faculty of Music Library, M1670 .B685 1925, facsímil. https://archive.org/details/31761097696793/page/n147

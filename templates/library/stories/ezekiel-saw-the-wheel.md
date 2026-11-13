@@ -11,29 +11,29 @@ origin: United States
 alsoKnownAs: Ezekiel Saw de Wheel
 wikidata: Q5423166
 quote: An' de big wheel run by de grace ob God
-quoteSource: dett1927
-updated: 2026-11-12
+quoteSource: hampton1909
+updated: 2026-11-13
 reviewed: true
 checked: 2026-11-13
 searches: ezekiel saw the wheel meaning | ezekiel saw the wheel lyrics | ezekiel saw the wheel lyrics meaning | ezekiel saw the wheel spiritual meaning | ezekiel saw the wheel song meaning | what was the wheel that ezekiel saw | ezekiel wheel within a wheel meaning | ezekiel saw the wheel bible verse | ezekiel saw the wheel way up in the middle of the air | what is the song ezekiel saw the wheel about | ezekiel saw the wheel story | who wrote ezekiel saw the wheel | when was ezekiel saw the wheel written | ezekiel saw the wheel origin | ezekiel saw the wheel song history
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett
+original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), pp. 164 to 165, University of Toronto, Faculty of Music Library | https://archive.org/details/religiousfolkson00hamp/page/n173
 ---
 
-Ezekiel Saw the Wheel, printed as "Ezekiel Saw de Wheel", is an African American spiritual about the vision that opens the Book of Ezekiel, where the prophet sees wheels whose work "was as it were a wheel in the middle of a wheel" [^kjv][^hampton1909]. No maker's name is known. Its earliest known printing is from 1909, in the songbook of Hampton Institute in Virginia, whose students had sung and published spirituals since the 1870s [^hampton1909][^hampton1874]. Its form is call and response: everyone sings the refrain, and in each verse one voice sings a line alone and everyone answers, "'Way in de middle ob de air" [^dett1927][^carnegiefolk].
+Ezekiel Saw the Wheel, printed as "Ezekiel Saw de Wheel", is an African American spiritual about the vision that opens the Book of Ezekiel, where the prophet sees wheels whose work "was as it were a wheel in the middle of a wheel" [^kjv][^hampton1909]. No maker's name is known. Its earliest known printing is from 1909, in the songbook of Hampton Institute in Virginia, whose students had sung and published spirituals since the 1870s [^hampton1909][^hampton1874]. Its form is call and response: everyone sings the refrain, and in each verse one voice sings a line alone and everyone answers, "'Way in de middle ob de air" [^hampton1909][^carnegiefolk].
 
 ## Where it comes from
 
 **A song without a maker.** When and where it was first sung is not known; no source we have read gives it an author, a place or a date. Some of its lines are older, though.
 
-**Hampton's books.** Hampton Institute published its students' songs from 1874, when a band of student singers toured the North to raise money for a new building, Virginia Hall [^hampton1909][^hampton1874]. Hampton's edition of 1901, which we searched, does not include Ezekiel Saw the Wheel [^cabin1901]. Nor do the other books we searched: the Fisk Jubilee Singers' Jubilee Songs (1872) and The Story of the Jubilee Singers (1903), Frederick J. Work's New Jubilee Songs (1904) and Folk Songs of the American Negro (1907), Calhoun Plantation Songs (1901), from the Calhoun Colored School in Alabama, or Slave Songs of the United States (1867), made by three white collectors [^seward1872][^marsh1903][^work1904][^work1907][^calhoun1901][^slavesongs1867].
+**Hampton's books.** Hampton Institute published its students' songs from 1874, when a band of student singers toured the North to raise money for a new building, Virginia Hall [^hampton1909][^hampton1874]. Hampton's 1901 edition does not include it [^cabin1901]. Nor do the other books we searched: the Fisk Jubilee Singers' Jubilee Songs (1872) and The Story of the Jubilee Singers (1903), Frederick J. Work's New Jubilee Songs (1904) and Folk Songs of the American Negro (1907), Calhoun Plantation Songs (1901), from the Calhoun Colored School in Alabama, or Slave Songs of the United States (1867), made by three white collectors [^seward1872][^marsh1903][^work1904][^work1907][^calhoun1901][^slavesongs1867].
 
-**The earliest known printing, 1909.** In 1909 Hampton published a new edition, Religious Folk Songs of the Negro as Sung on the Plantations [^hampton1909]. Its note, signed by Robert R. Moton, Hampton's commandant, on 11 May 1909, says it adds "some twenty-five new ones", thanking F. J. Work of Fisk University, Jennie C. Lee of Tuskegee Institute, the Calhoun Colored School and the Penn School, without saying which song came from whom [^hampton1909]. "Ezekiel Saw de Wheel" fills pages 164 and 165 [^hampton1909].
+**The earliest known printing, 1909.** In 1909 Hampton published a new edition, Religious Folk Songs of the Negro as Sung on the Plantations, "arranged by the musical directors" of the Institute "from the original edition by Thomas P. Fenner" [^hampton1909]. Its note, signed by Robert R. Moton, Hampton's commandant, on 11 May 1909, says it adds "some twenty-five new ones", thanking F. J. Work of Fisk University, Jennie C. Lee of Tuskegee Institute, the Calhoun Colored School and the Penn School, without saying which song came from whom [^hampton1909]. "Ezekiel Saw de Wheel" fills pages 164 and 165 [^hampton1909].
 
-**What the 1909 page shows.** Under a black-letter title, the refrain, headed "Chorus", is in A-flat major and 2/4 time, in four parts, with short, dotted notes. Then the top voice sings each verse line alone while the other three voices rest, and all four parts answer, "'Way in de middle ob de air". The three verses share one line of music, and "D.C." sends the singers back to the chorus. The page gives no tempo and does not say who sings the verse lines [^hampton1909].
+**What the 1909 page shows.** Under a black-letter title, the refrain, headed "Chorus", is in A-flat major and 2/4 time, in four parts, with short, dotted notes. Then the top voice sings each verse line alone while the other three voices rest, and all four parts answer, "'Way in de middle ob de air". The three verses share one line of music, the last "air" held with a pause, and "D.C." sends the singers back to the chorus, which ends at "Fine." The page gives no tempo and no "Solo" or "Tutti" [^hampton1909]. Our tune and words are read from these two pages.
 
 ![[1]]
 
-**Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), born in Ontario, who had taught at Hampton since 1913 and directed its choirs, edited a new Hampton book, Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^cdnenc-dett][^dett1927]. Its harmonies, he wrote, were as sung at Hampton, "where the singing of these songs has been traditional since 1868" [^dett1927]. On pages 60 and 61, the 1909 setting returns with markings, about 90 beats a minute and the first answer "Tutti con entusiasmo", all together, with enthusiasm, and one word changed, "you" for "yo'" in verse 2 [^dett1927][^hampton1909].
+**Dett's book, 1927.** In 1927 the composer R. Nathaniel Dett (1882 to 1943), born in Ontario, who had taught at Hampton since 1913 and directed its choirs, edited a new Hampton book, Religious Folk-Songs of the Negro as Sung at Hampton Institute [^lva-dett][^cdnenc-dett][^dett1927]. Its harmonies, he wrote, were as sung at Hampton, "where the singing of these songs has been traditional since 1868" [^dett1927]. On pages 60 and 61 he reprints the 1909 setting with markings of his own: a tempo of 90 beats a minute, "Solo" for the verse lines and "Tutti", all together, for the refrain and the answers. He also prints "you" at the end of verse 2, where the 1909 page has a dialect spelling of it [^dett1927][^hampton1909].
 
 ![[2]]
 
@@ -57,17 +57,17 @@ Ezekiel Saw the Wheel, printed as "Ezekiel Saw de Wheel", is an African American
 
 **"An' de little wheel run by faith, An' de big wheel run by de grace ob God."** The song drives Ezekiel's wheels by faith and God's grace, as older spirituals drove a chariot. Slave Songs (1867) has "De fore wheels run by de grace ob God, An' de hind wheels dey run by faith", and Hampton's book of 1874 has a fore wheel that runs "by love" and a hind wheel "by faith" [^slavesongs1867][^hampton1874].
 
-**Verse 1.** Some people go to church to sing and shout, but within six months they are all "turned out": put out, expelled, here from the church [^webster1913]. The couplet travelled, in other words: it is in Hampton's "Danville Chariot" of 1874 and Barton's "Who's Dat Yandah?" of 1899 [^hampton1874][^barton1899].
+**Verse 1.** Some people go to church to sing and shout, but within six months they are all "turned out": put out, expelled, here from the church [^webster1913]. The couplet travelled: it is in Hampton's "Danville Chariot" of 1874 and Barton's "Who's Dat Yandah?" of 1899 [^hampton1874][^barton1899].
 
 **Verse 2.** A hypocrite gossips about me and about you. Jesus warns against hypocrites who pray "that they may be seen of men" [^kjv].
 
 **Verse 3.** One day at twelve o'clock the old world will reel and rock: the end of the world. Isaiah says, "The earth shall reel to and fro like a drunkard" [^kjv].
 
-We sing the book's spellings: "de" is "the", "ob" "of", "befo'" "before", "dey" "they", "hypocrit'll" "hypocrite will", "'bout" "about", "dese" "these", "worl'" "world", "gwine" "going", "an'" "and", "fo'" "for", "o'" "of", "dis" "this" and "ole" "old".
+We sing the 1909 page's spellings: "de" is "the", "ob" "of", "befo'" "before", "dey" "they", "hypocrit'll" "hypocrite will", "'bout" "about", "dese" "these", "worl'" "world", "gwine" "going", "an'" "and", "fo'" "for", "o'" "of", "dis" "this" and "ole" "old".
 
 ### The full words
 
-These are the words as Dett's 1927 book prints them on pages 60 and 61, the same words as the 1909 page except "you" for "yo'" in verse 2; the refrain is sung before the first verse and after each verse [^dett1927][^hampton1909]. We sing the refrain, verse 1, the refrain, verse 2 and the refrain.
+These are the words as Hampton's 1909 book prints them on pages 164 and 165, except the last word of verse 2, which we sing as "you" where the page has a dialect spelling of it; the refrain is sung before the first verse and after each verse. They were printed in the United States in 1909, before 1931, and are in the public domain [^hampton1909]. We sing the refrain, verse 1, the refrain, verse 2 and the refrain.
 
 **Refrain**
 Ezekiel saw de wheel,
@@ -92,7 +92,7 @@ He'll talk 'bout me an' he'll talk 'bout you,
 'Way in de middle ob de air.
 
 **Verse 3**
-One o' dese days, 'bout twelve o'clock
+One o' dese days, 'bout twelve o'clock,
 'Way in de middle ob de air;
 Dis ole worl' gwine to reel an' rock,
 'Way in de middle ob de air.
@@ -101,7 +101,7 @@ Dis ole worl' gwine to reel an' rock,
 
 A folk spiritual was made and sung by enslaved and freed Black people among themselves, often as call and response, a leader singing a line and the others answering; a concert spiritual is arranged for choirs and soloists on the stage [^carnegiefolk][^carnegie]. Hampton's books print, in four parts, songs its students sang together [^hampton1909][^dett1927]. Dett wrote that his settings were for unaccompanied chorus, as almost all such folk singing is, and that a song once started keeps its beat [^dett1927]. He asked for expressive solo lines, and remembered Robert R. Moton, who led Hampton's singing for nearly twenty years, singing many solo lines himself; once a chorus of a thousand voices was going, Moton would put his hands behind his back and leave the singers to it [^dett1927][^hampton1909].
 
-Our arrangement takes its tune and words from Dett's pages, a semitone lower, in G, at 84 beats a minute; the four parts are our own, checked against the printed chords [^dett1927]. Two singers sing soprano and alto, three add the bass, four the tenor. The soprano sings the solo lines, everyone answers, and the last "air" of each verse is held, as the printed pause asks.
+Our arrangement takes its tune and words from the 1909 pages, a semitone lower, in G, at 84 beats a minute, a little slower than Dett's 90; the four parts are our own, checked against the printed chords [^hampton1909][^dett1927]. Two singers sing soprano and alto, three add the bass, four the tenor. The soprano sings the solo lines, everyone answers, and the last "air" of each verse is held, as the printed pause asks.
 
 ## Versions and other words
 
@@ -125,7 +125,7 @@ It was part of a vision in Ezekiel chapter 1. Beside four living creatures the p
 
 ### What is the song Ezekiel Saw the Wheel about?
 
-Its refrain retells Ezekiel's vision and makes the wheels a picture of faith and the grace of God [^dett1927][^kjv]. Its verses warn about churchgoers who sing and shout but are soon "turned out", about hypocrites who gossip, and about the day "Dis ole worl' gwine to reel an' rock": the end of the world [^dett1927].
+Its refrain retells Ezekiel's vision and makes the wheels a picture of faith and the grace of God [^hampton1909][^kjv]. Its verses warn about churchgoers who sing and shout but are soon "turned out", about hypocrites who gossip, and about the day "Dis ole worl' gwine to reel an' rock": the end of the world [^hampton1909].
 
 ### Who wrote Ezekiel Saw the Wheel, and when?
 
@@ -133,7 +133,7 @@ No one knows. It is a traditional African American spiritual, and no source we h
 
 ### Which part sings the solo lines?
 
-The soprano, in our arrangement. Hampton's 1927 book marks the first line of each verse "Solo quasi extempore", for one voice, as if made up on the spot, and the answer, "'Way in de middle ob de air", "Tutti", for everyone [^dett1927]. So the soprano sings each line alone while the others rest, and everyone joins on the answer.
+The soprano, in our arrangement. The 1909 page we read from names no voice [^hampton1909]. Dett's 1927 reprint marks the first line of each verse "Solo quasi extempore", for one voice, as if made up on the spot, and the answer, "'Way in de middle ob de air", "Tutti", for everyone [^dett1927].
 
 ## Sing next
 
@@ -143,7 +143,7 @@ The soprano, in our arrangement. Hampton's 1927 book marks the first line of eac
 
 ## Sources
 
-- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), "Copyright, July 1, 1909"; Fenner's preface dated 1 January 1874; introduction; Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909; "A Wheel in a Wheel", p. 110 (image n119); "What Yo' Gwine t' Do When de Lamp Burn Down?", p. 136 (image n145); "Ezekiel Saw de Wheel", pp. 164 to 165 (images n173 and n174); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n173
+- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), title page (image n4); "Copyright, July 1, 1909"; Fenner's preface dated 1 January 1874; introduction; Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909; "A Wheel in a Wheel", p. 110 (image n119); "What Yo' Gwine t' Do When de Lamp Burn Down?", p. 136 (image n145); "Ezekiel Saw de Wheel", pp. 164 to 165 (images n173 and n174); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n173
 - [^dett1927]: R. Nathaniel Dett, ed., *Religious Folk-Songs of the Negro as Sung at Hampton Institute* (Hampton, Va.: Hampton Institute Press, 1927), introduction dated 14 March 1926, sections VI and IX, pp. xv to xviii; "Hymns on Biblical Themes", "Ezekiel Saw de Wheel", pp. 60 to 61 (images n91 and n92); Princeton Theological Seminary Library, BV461 .R477 1927, facsimile. https://archive.org/details/religiousfolkson00dett/page/n91
 - [^hampton1874]: M. F. Armstrong and Helen W. Ludlow, *Hampton and Its Students*, with fifty cabin and plantation songs arranged by Thomas P. Fenner (New York: G. P. Putnam's Sons, 1874), "Entered ... in the year 1874"; p. 90; "The Danville Chariot", p. 183 (image n188); "Oh, Wasn't Dat a Wide Riber", p. 194 (image n199); Library of Congress, Rouben Mamoulian Collection, facsimile. https://archive.org/details/hamptonitsstuden00arms/page/n188
 - [^cabin1901]: *Cabin and Plantation Songs as Sung by the Hampton Students*, third edition, enlarged (New York: G. P. Putnam's Sons, 1901), index, including "A Wheel in a Wheel", p. 110; Princeton Theological Seminary Library copy, facsimile, full text searched. https://archive.org/details/cabinplan00fenn

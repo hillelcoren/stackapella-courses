@@ -14,14 +14,14 @@ alsoKnownAs: Ev'ry Time I Feel the Spirit, I Will Pray
 wikidata: Q5417616
 quote: Of all the Spirituals, this is one of the most touching in its prayerful suggestion and quiet reverence
 quoteSource: burlin1918
-original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett
+original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), p. 169, University of Toronto, Faculty of Music Library | https://archive.org/details/religiousfolkson00hamp/page/n178
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: every time i feel the spirit | every time i feel the spirit lyrics | every time i feel the spirit meaning | every time i feel the spirit lyrics meaning | every time i feel the spirit history | who wrote every time i feel the spirit | every time i feel the spirit hymn | every time i feel the spirit spiritual | every time i feel the spirit moving in my heart lyrics | every time i feel the spirit arr. dawson
 ---
 
-Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is an African American spiritual about prayer: every time the singer feels the Spirit moving in the heart, they pray [^dett1927][^work1907]. No maker's name is known [^canterbury][^hymnarchive]. Its earliest known printing is from 1907, at Fisk University in Nashville, under the title "I Will Pray" [^work1907][^hymnarchive]. Two years later Hampton Institute in Virginia printed it with three different verses, about the Lord speaking on the mountain, everything shining around the singer and the chilly Jordan river; we sing the first two [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal and the Chalice Hymnal all print it, under the tune name PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
+Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is an African American spiritual about prayer: every time the singer feels the Spirit moving in the heart, they pray [^hampton1909][^work1907]. No maker's name is known [^canterbury][^hymnarchive]. Its earliest known printing is from 1907, at Fisk University in Nashville, under the title "I Will Pray" [^work1907][^hymnarchive]. Two years later Hampton Institute in Virginia printed it with three different verses, about the Lord speaking on the mountain, everything shining around the singer and the chilly Jordan river; we sing the first two [^hampton1909][^hymnarchive]. The United Methodist Hymnal, The Presbyterian Hymnal and the Chalice Hymnal all print it, under the tune name PENTECOST [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
 
 ![[1]]
 
@@ -35,7 +35,7 @@ Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is a
 
 ![[2]]
 
-**Hampton, 1909.** Hampton Institute had published its students' songs since 1874, and its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, prints "Ev'ry Time I Feel the Spirit" on page 169 [^hampton1909][^lva-dett][^hymnarchive]. The refrain has the same words, again in E-flat and four parts, but the three verses are new [^hampton1909][^work1907]. Each verse is one line of tune over an empty lower staff: one voice alone [^hampton1909]. The book's note, signed by Robert R. Moton, Hampton's commandant, thanks Professor F. J. Work of Fisk and others for some of its new songs, but this page names no source, and its verses are not Fisk's [^hampton1909][^work1907][^hymnarchive].
+**Hampton, 1909.** Hampton Institute had published its students' songs since 1874, and its new edition of 1909, Religious Folk Songs of the Negro as Sung on the Plantations, "arranged by the musical directors" of the Institute "from the original edition by Thomas P. Fenner", prints "Ev'ry Time I Feel the Spirit" on page 169 [^hampton1909][^lva-dett][^hymnarchive]. The refrain has the same words, again in E-flat and four parts, but the three verses are new [^hampton1909][^work1907]. Each verse is one line of tune over an empty lower staff: one voice alone. The refrain ends with repeat marks and "Fine.", and "D. C." after the verses sends the singers back to it; the page gives no tempo and names no voice [^hampton1909]. Our tune and words are read from this page. The book's note, signed by Robert R. Moton, Hampton's commandant, thanks Professor F. J. Work of Fisk and others for some of its new songs, but this page names no source, and its verses are not Fisk's [^hampton1909][^work1907][^hymnarchive].
 
 ![[3]]
 
@@ -43,14 +43,14 @@ Every Time I Feel the Spirit, also printed as Ev'ry Time I Feel the Spirit, is a
 
 **For the concert hall and the islands, 1925.** The Book of American Negro Spirituals, edited by James Weldon Johnson, set it for solo voice and piano, arranged by J. Rosamond Johnson, "Moderately Slow", with the same three verses [^johnson1925][^hymnarchive]. The same year, the Penn School on St. Helena Island, South Carolina, printed it in Saint Helena Island Spirituals, giving Hampton's page 169 as its source and adding a fourth verse, about a train to heaven [^sthelena1925][^hymnarchive].
 
-**Dett's book, 1927.** The composer R. Nathaniel Dett (1882 to 1943) taught music and directed Hampton's choirs from 1913 [^lva-dett][^ewb-dett]. His 1927 edition prints the 1909 setting again, newly typeset, on page 169, under the heading "Hymns of Meditation" [^dett1927][^hampton1909]. It adds markings the 1909 page lacks: "Andante molto espress.", at a walking pace and very expressive, 68 to 72 beats a minute; "Tutti", everyone, for the refrain, loud and growing quieter; and "Solo", fairly quiet, for the verses [^dett1927][^hampton1909]. Our arrangement is read from this page.
+**Dett's book, 1927.** The composer R. Nathaniel Dett (1882 to 1943) taught music and directed Hampton's choirs from 1913 [^lva-dett][^ewb-dett]. His 1927 edition prints the 1909 setting again, newly typeset, on page 169, under the heading "Hymns of Meditation" [^dett1927][^hampton1909]. It adds markings the 1909 page lacks: "Andante molto espress.", at a walking pace and very expressive, 68 to 72 beats a minute; "Tutti", everyone, for the refrain, loud and growing quieter; and "Solo", fairly quiet, for the verses [^dett1927][^hampton1909]. These marks are Dett's; the pace of 70 beats a minute is our own, inside his range.
 
 ![[4]]
 
 ### Timeline
 
 - 1907: Frederick J. Work's Folk Songs of the American Negro, Number Two, prints it at Fisk as "I Will Pray", p. 4 [^work1907][^hymnarchive]
-- 1909: Hampton's new edition prints it with the mountain, shining and Jordan verses, p. 169 [^hampton1909][^hymnarchive]
+- 1909: Hampton's new edition prints it with the mountain, shining and Jordan verses, p. 169, the page our arrangement is read from [^hampton1909][^hymnarchive]
 - 1918: Natalie Curtis-Burlin prints it from a men's quartet in Virginia [^burlin1918][^hymnarchive]
 - 1925: The Book of American Negro Spirituals sets it for voice and piano, p. 142 [^johnson1925][^hymnarchive]
 - 1925: Saint Helena Island Spirituals reprints it from Hampton with a new verse, p. 88 [^sthelena1925][^hymnarchive]
@@ -69,7 +69,7 @@ In 1855 Frederick Douglass wrote that when he and his friends sang of Canaan whi
 
 ### The full words
 
-These are the refrain and three verses as Dett's 1927 page prints them, the same words as the 1909 Hampton page; the refrain is sung twice, as its repeat marks say, and again after each verse [^dett1927][^hampton1909]. We sing verses 1 and 2.
+These are the refrain and three verses as Hampton's 1909 page prints them; the refrain is sung twice, as its repeat marks say, and again after each verse. They were printed in the United States in 1909, before 1931, and are in the public domain [^hampton1909]. Dett's 1927 page prints the same words [^dett1927]. We sing verses 1 and 2.
 
 **Refrain**
 Ev'ry time I feel the Spirit moving in my heart I will pray.
@@ -92,7 +92,7 @@ A folk spiritual is sung by ear, the way a congregation learned it; a concert sp
 
 In churches it is sung as a song of prayer: the United Methodist Hymnal files it under prayer, and the Chalice Hymnal under prayer and the Holy Spirit [^hymnary-umh][^hymnary-chalice]. Its meter is irregular [^hymnary-umh][^hymnary-ph1990][^hymnary-chalice].
 
-Our arrangement keeps the 1927 page's E-flat, at 70 beats a minute, for 2 to 4 singers [^dett1927]. Everyone sings the refrain in harmony, twice, as the repeat marks say; then the alto sings verse 1 alone, the refrain comes twice, then verse 2, and the refrain twice more. The Jordan verse is left out. In the refrain the tune is the printed top voice, and our lower parts are our own, checked against the printed chords. Breaths are written in for beginners.
+Our arrangement keeps the 1909 page's E-flat, at 70 beats a minute, for 2 to 4 singers [^hampton1909]. Everyone sings the refrain in harmony, twice, as the repeat marks say; then the alto sings verse 1 alone, the refrain comes twice, then verse 2, and the refrain twice more. The Jordan verse is left out. In the refrain the tune is the printed top voice, and our lower parts are our own, checked against the printed chords. Breaths are written in for beginners.
 
 ## Versions and other words
 
@@ -120,22 +120,22 @@ No one knows. It is a traditional African American spiritual, and its earliest k
 
 ### What does Every Time I Feel the Spirit mean?
 
-It is a promise to pray: whenever the singer feels the Holy Spirit moving in the heart, they will pray [^dett1927]. Hymnals link it to Romans 8 and Luke 11 [^hymnary-umh][^hymnary-ph1990]. Its verses picture the Lord speaking from the mountain, most likely Sinai, in fire and smoke, everything shining around the singer, and the cold river Jordan, which chills the body but not the soul [^hampton1909][^kjv].
+It is a promise to pray: whenever the singer feels the Holy Spirit moving in the heart, they will pray [^hampton1909]. Hymnals link it to Romans 8 and Luke 11 [^hymnary-umh][^hymnary-ph1990]. Its verses picture the Lord speaking from the mountain, most likely Sinai, in fire and smoke, everything shining around the singer, and the cold river Jordan, which chills the body but not the soul [^hampton1909][^kjv].
 
 ### Which part sings the tune in this arrangement?
 
-In the refrain the soprano sings the tune, the printed top voice, with the other parts in harmony below [^dett1927]. In the verses the alto sings the tune alone. The 1927 page marks the verses "Solo" without naming a voice, and its line sits low, from middle C up to G, so we give it to the alto [^dett1927].
+In the refrain the soprano sings the tune, the printed top voice, with the other parts in harmony below [^hampton1909]. In the verses the alto sings the tune alone. The 1909 page gives the verses to one voice without naming it, and Dett's 1927 reprint marks them "Solo"; the line sits low, from middle C up to G, so we give it to the alto [^hampton1909][^dett1927].
 
 ## Sing next
 
 - [Were You There](/songs/were-you-there): from the same Hampton book, slow and quiet, with the soprano asking each question alone.
-- [Ezekiel Saw the Wheel](/songs/ezekiel-saw-the-wheel): from Dett's Hampton book too, quicker, with solo lines for the soprano and everyone answering.
-- [Balm in Gilead](/songs/balm-in-gilead): from the same book, slow, in Dett's own four parts.
+- [Ezekiel Saw the Wheel](/songs/ezekiel-saw-the-wheel): from the same 1909 Hampton book, quicker, with solo lines for the soprano and everyone answering.
+- [Balm in Gilead](/songs/balm-in-gilead): from Dett's 1927 Hampton book, slow, in his own four parts.
 
 ## Sources
 
 - [^work1907]: Frederick J. Work, ed., *Folk Songs of the American Negro, Number Two*, introduction by John W. Work, Jr. (Nashville: Work Bros. & Hart Co., [1907]), introduction signed "J. W. Work", Fisk University, 15 May 1907 (image n1); "I Will Pray", p. 4 (image n5); University of North Carolina at Chapel Hill, University Library, record b11424315 (OCLC 1099329806), facsimile. https://archive.org/details/folksongsofameri00work/page/n5
-- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909); Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909, p. vi (image n9); "Ev'ry Time I Feel the Spirit", p. 169 (image n178); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n178
+- [^hampton1909]: *Religious Folk Songs of the Negro as Sung on the Plantations*, new edition, arranged by the musical directors of the Hampton Normal and Agricultural Institute from the original edition by Thomas P. Fenner (Hampton, Va.: The Institute Press, 1909), title page (image n4); Robert R. Moton, Commandant, "Note to New Edition", 11 May 1909, p. vi (image n9); "Ev'ry Time I Feel the Spirit", p. 169 (image n178); University of Toronto, Faculty of Music Library, M1670 .H3 R4, facsimile. https://archive.org/details/religiousfolkson00hamp/page/n178
 - [^dett1927]: R. Nathaniel Dett, ed., *Religious Folk-Songs of the Negro as Sung at Hampton Institute* (Hampton, Va.: Hampton Institute Press, 1927), introduction, section IX, p. xviii, and Index of Subjects; "Hymns of Meditation", "Ev'ry Time I Feel the Spirit", p. 169 (image n200); Princeton Theological Seminary Library, BV461 .R477 1927, facsimile. https://archive.org/details/religiousfolkson00dett/page/n200
 - [^burlin1918]: Natalie Curtis-Burlin, *Negro Folk-Songs*, Hampton Series, Book II, Spirituals (New York: G. Schirmer, 1918), foreword; No. III, "O Ev'ry Time I Feel de Spirit", note and words p. 28 (image n29), music from p. 29 (image n30); Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/negrofol02curt/page/n29
 - [^johnson1925]: James Weldon Johnson, ed., *The Book of American Negro Spirituals*, musical arrangements by J. Rosamond Johnson (New York: The Viking Press, 1925), "Ev'ry Time I Feel de Spirit", p. 142 (image n147); University of Toronto, Faculty of Music Library, M1670 .B685 1925, facsimile. https://archive.org/details/31761097696793/page/n147
