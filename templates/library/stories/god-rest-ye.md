@@ -5,7 +5,7 @@ lead: An English Christmas carol with no known author, printed on cheap single s
 words: Traditional English
 tune: Traditional English
 tuneName: GOD REST YOU MERRY
-meter: 8.6.8.6.8.6 with refrain
+meter: irregular, given as 8.6.8.6.8.6 or 7.6.7.6.8.6, with refrain
 earliestPrinting: Four Choice Carols for Christmas Holidays, a broadside, catalogued as about 1700 with a query
 earliestPrintingSource: ebba
 language: English
@@ -15,51 +15,52 @@ alsoKnownAs: God Rest You Merry, Gentlemen
 wikidata: Q1512638
 quote: There is no carol, perhaps, so universally known as this.
 quoteSource: husk
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote god rest ye merry gentlemen | who originally wrote god rest ye merry gentlemen | god rest ye merry gentlemen history | what does god rest ye merry gentlemen mean | god rest ye merry gentlemen meaning of lyrics | where is the comma in god rest ye merry gentlemen supposed to go | does god rest ye merry gentlemen have a comma | god rest ye merry gentlemen original
 listen: Internet Archive, 1917 recording | https://archive.org/details/edison-50447_01_5677 || Internet Archive, 1923 recording | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
-original: Four Choice Carols for Christmas Holidays (about 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation
+original: Four Choice Carols for Christmas Holidays (about 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation || Three New Christmas Carols (about 1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
 ---
 
-God Rest Ye Merry, Gentlemen is an English Christmas carol. Nobody knows who made its words or its tune: the earliest known printings are cheap single sheets of the 1700s, and they name no author [^ebba][^ecco1760][^canterbury]. Its first line is a greeting, "God keep you merry", spoken to the gentlemen listening [^ned-rest][^rolfe]. The carol then tells the Christmas story, from the angel's news to the shepherds' visit to the manger. It was a street song before it was a choir piece: in 1833 a collector could still hear a lone singer in London "croaking out" this carol [^sandys1833]. A Victorian editor wrote that there was "no carol, perhaps, so universally known" [^husk].
+God Rest Ye Merry, Gentlemen is an English Christmas carol. Nobody knows who made its words or its tune: the earliest known printings are cheap single sheets of the 1700s, and they name no author [^ebba][^ecco1760][^canterbury]. Its first line is a greeting, "God keep you merry", spoken to the gentlemen listening [^ned-rest][^rolfe]. It was a street song before it was a choir piece: in 1833 a collector could still hear a lone singer in London "croaking out" this carol [^sandys1833]. A Victorian editor wrote that there was "no carol, perhaps, so universally known" [^husk].
 
 ## Where it comes from
 
-**The earliest printings.** Its earliest known printings are broadsides, songs printed on one side of a single sheet. In the Roxburghe collection at the British Library, a sheet called Four Choice Carols for Christmas Holidays opens with it; the English Broadside Ballad Archive dates the sheet to 1700, with a question mark [^ebba]. Another sheet, Three New Christmas Carols, sold at the printing office in Bow Church Yard, London, is catalogued as about 1760 [^ecco1760].
+**The earliest printings.** Its earliest known printings are broadsides, songs printed on one side of a single sheet. In the Roxburghe collection at the British Library, a sheet called Four Choice Carols for Christmas Holidays opens with it [^chappell]; the English Broadside Ballad Archive dates the sheet to 1700, with a question mark [^ebba]. Another sheet, Three New Christmas Carols, sold at the printing office in Bow Church Yard, London, is catalogued as about 1760. Woodcuts of six saints frame its text. Its words differ from today's: the refrain is "Which brings tidings of comfort and joy", one verse blesses "the ruler of this house", and the last begins "God rest you merry, Gentlemen, / Who are within this place" [^ecco1760].
 
 **In London's streets.** In 1823 the writer William Hone, expecting the carols then printed to fall out of use, listed the 89 in his own collection. Number 28 is "God rest you, merry gentlemen" [^hone1823]. He remembered it from long before: "The woodcuts round the annual sheets, and the melody of 'God rest you merry Gentlemen' delighted my childhood" [^hone1823].
 
-Ten years later the antiquary William Sandys described the same London trade. Carols were "yet printed in London for the chapmen, or dealers in cheap literature", chiefly by Pitts, Catnach and Batchelar. In the streets, he wrote, "a solitary itinerant may be occasionally heard", croaking out this carol or another "to an ancient and simple tune" [^sandys1833]. His book of 1833, Christmas Carols, Ancient and Modern, printed the carol in its second part, "carols still used in the West of England", with a tune of its own [^sandys1833].
+Ten years later the antiquary William Sandys wrote that carols were "yet printed in London for the chapmen, or dealers in cheap literature", chiefly by Pitts, Catnach and Batchelar. In the streets, he wrote, "a solitary itinerant may be occasionally heard", croaking out this carol or another "to an ancient and simple tune" [^sandys1833]. His book of 1833, Christmas Carols, Ancient and Modern, printed the carol in its second part, "carols still used in the West of England", with a tune of its own [^sandys1833].
 
 ![[1]]
 
 **Dickens.** In the first chapter of A Christmas Carol, in 1843, a young caroller stoops at Scrooge's keyhole to sing "God bless you merry gentleman! May nothing you dismay!", and Scrooge seizes the ruler "with such energy of action, that the singer fled in terror" [^dickens-mcgill].
 
-**The tune.** The tune we sing is the minor one. The collector William Chappell, who printed it in the 1850s, noted that the carol was "sometimes sung in a major key, and sometimes in a minor", and that the earliest copy of the tune he had seen was "in the handwriting of Dr. Nares, the cathedral composer", where it was called "The old Christmas Carol" [^chappell]. James Nares (1715 to 1783) was organist of York Minster and later organist and composer to the Chapel Royal [^grove-nares][^dnb-nares]. Edward Rimbault's A Little Book of Christmas Carols, undated and placed by hymnal editors about 1846 to 1850, printed the carol twice, as a "common version" and a "Cornish version" [^rimbault-imslp][^hymnary-tune][^hcc-notes].
+**The tune.** The tune we sing is the minor one. The collector William Chappell, who printed it in the 1850s, noted that the carol was "sometimes sung in a major key, and sometimes in a minor", and that the earliest copy of the tune he had seen was "in the handwriting of Dr. Nares, the cathedral composer", where it was called "The old Christmas Carol" [^chappell]. James Nares (1715 to 1783) was organist of York Minster and later organist and composer to the Chapel Royal [^grove-nares][^dnb-nares]. Edward Rimbault's A Little Book of Christmas Carols, undated and placed by hymnal editors about 1846 to 1850, printed the carol twice, as the version "sung in the streets of London" and the one "sung in Cornwall" [^rimbault-imslp][^hymnary-tune][^hcc-notes].
 
 ![[2]]
 
-**Bramley and Stainer.** In Christmas Carols New and Old the words were edited by Henry Ramsden Bramley, a Fellow of Magdalen College, Oxford, and its music by John Stainer, organist of the same college [^bramley]. God rest you merry opens the book as No. 1, in four parts in E minor with seven verses [^bramley]. The first series came out in November 1867: the Musical Times of 1 December 1867 lists it among Novello's books of the past month, and an 1887 history of the firm gives the same month. The Musical Times reviewed it in December 1868 [^mt1867][^hcc-bs][^mt1868]. A second series followed in 1870, and the date 1871, often given, belongs to an illustrated edition of the first two series together [^hymnarchive-stainer][^cam-blog].
+**Bramley and Stainer.** In Christmas Carols New and Old the words were edited by Henry Ramsden Bramley, a Fellow of Magdalen College, Oxford, and its music by John Stainer, organist of the same college [^bramley]. God rest you merry opens the book as No. 1, in four parts in E minor with seven verses [^bramley]. The first series came out in November 1867: the Musical Times of 1 December 1867 lists it among Novello's books of the past month, and Joseph Bennett's history of the firm, of 1887, gives the same month. The Musical Times reviewed it in December 1868, which is why some lists date it 1868 [^mt1867][^hcc-bs][^mt1868][^hymnarchive-stainer]. A second series followed in 1870, reviewed that December. Bennett's history gives 1871 for it, the year of an illustrated edition of the first two series together [^hymnarchive-stainer][^cam-blog][^hcc-bs].
 
 ![[3]]
 
-**Myth and record.** Often told: the carol goes back to the 1500s, when London's waits, musicians who went about at night, sang it [^hcc-notes][^webster]. What the record shows: its greeting was everyday speech in the 1500s, and a dictionary of 1548 already gives "Reste you mery" as what "the vulgare people saie" [^ned-rest]. But the earliest known printings of the carol are of the 1700s, and nobody has traced who first sang it [^ebba][^ecco1760][^canterbury].
+**Myth and record.** Often told: the carol goes back to the 1500s, when London's waits, musicians who went about at night, sang it [^hcc-notes][^webster]. What the record shows: its greeting was everyday speech in the 1500s [^ned-rest]. Hymns and Carols of Christmas, citing published sources, reports an older text, "Sit You, Merry Gentlemen", in a manuscript of about 1650 in the Bodleian Library at Oxford, MS Eng. poet. b. 5 [^hcc-notes]. The earliest known printings are of the 1700s, and nobody has traced who first sang it [^ebba][^ecco1760][^canterbury].
 
 ### Timeline
 
-- 1700?: A broadside, Four Choice Carols for Christmas Holidays, opens with the carol; its date is a cataloguer's estimate. [^ebba]
+- About 1650: A Bodleian Library manuscript, MS Eng. poet. b. 5, holds "Sit You, Merry Gentlemen", as Hymns and Carols of Christmas reports. [^hcc-notes]
+- 1700?: The broadside Four Choice Carols for Christmas Holidays opens with it; the date is a cataloguer's estimate. [^ebba]
 - 1760?: Three New Christmas Carols, sold in Bow Church Yard, London, prints it. [^ecco1760]
 - 1823: William Hone lists it as No. 28 of the 89 carols in his collection. [^hone1823]
 - 1833: William Sandys prints it among the carols still used in the West of England. [^sandys1833]
 - 1843: Dickens's caroller sings it at Scrooge's keyhole. [^dickens-mcgill]
-- About 1846 to 1850: Rimbault prints a common version and a Cornish version. [^rimbault-imslp][^hymnary-tune]
+- About 1846 to 1850: Rimbault prints a London version and a Cornish version. [^rimbault-imslp][^hymnary-tune]
 - 1867: The first series of Bramley and Stainer's Christmas Carols New and Old prints it as No. 1. [^mt1867][^hcc-bs]
 
 ## What the words mean
 
-**The first line.** "Rest" here is an old use of the verb: to stay or remain in a state. The great Oxford dictionary, in its first edition, files "rest you merry" under that sense, while noting it may belong with the senses next to it. It quotes a Latin dictionary of 1548, which explains a Latin greeting as "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" [^ned-rest]. So "God rest you merry" means "God keep you merry", as an editor of Shakespeare glossed it in 1878 [^rolfe]. It was a greeting, spoken to the "gentlemen", so the comma goes after "merry".
+**The first line.** "Rest" here is an old use of the verb. The great Oxford dictionary, in its first edition, files the short greeting "rest you merry" under "to stay, remain", and the full "God rest you merry" under "to give (one) rest or repose", pointing each entry to the other. It quotes a Latin dictionary of 1548: "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" [^ned-rest]. So "God rest you merry" means "God keep you merry", as an editor of Shakespeare glossed it in 1878 [^rolfe]. It was a greeting, spoken to the "gentlemen", so the comma goes after "merry".
 
 Our words follow Bramley and Stainer, who put the comma after "you", as Hone's list does; Sandys put it after "merry" [^bramley][^hone1823][^sandys1833]. Sing "God rest you merry" as one phrase and the sense comes through. All three printed "you": our title keeps the "ye" many people know, but we sing "you".
 
@@ -69,11 +70,11 @@ Our words follow Bramley and Stainer, who put the comma after "you", as Hone's l
 
 **Verses 3 to 5.** An angel brings the shepherds the news, tells them "Fear not" and that a Saviour is born, as in Luke [^kjv], "of a pure Virgin bright". The shepherds leave their flocks "in tempest, storm, and wind" and go to Bethlehem.
 
-**Verse 6.** They find the child in a manger "where oxen feed on hay", with Mary kneeling in prayer [^kjv].
+**Verse 6.** They find the child in a manger, as in Luke [^kjv]. The oxen feeding on hay and Mary kneeling in prayer are the carol's own.
 
-**Verse 7.** Everyone in the room is asked to sing praises and to embrace one another "with true love and brotherhood". This holy season "all other doth deface": "deface" once meant to outshine, so Christmas outshines every other time of year [^ned-deface].
+**Verse 7.** Everyone in the room is asked to sing praises and embrace "with true love and brotherhood". This holy season "all other doth deface": "deface" once meant to outshine, so Christmas outshines every other time of year [^ned-deface].
 
-Sandys's first verse has "For Jesus Christ our Saviour / Was born upon this day", where Bramley and Stainer have "Remember Christ our Saviour / Was born on Christmas Day" (his music has "on Christmas day"), and he spells Jewry "Jury" [^sandys1833][^bramley].
+Sandys's first verse has "For Jesus Christ our Saviour / Was born upon this day", where Bramley and Stainer have "Remember Christ our Saviour / Was born on Christmas Day"; his refrain goes on, "For Jesus Christ our Saviour was born on Christmas day", and he spells Jewry "Jury" [^sandys1833][^bramley].
 
 ### The full words
 
@@ -141,17 +142,18 @@ All other doth deface.
 
 ## How it is sung
 
-The New Oxford Book of Carols calls it a "luck-visit song", one sung by visitors at a house [^canterbury]. Its tune is GOD REST YOU MERRY. Hymnary.org gives its meter as 8.6.8.6.8.6 with refrain; The Hymnal 1982, No. 105, gives 7.6.7.6.8.6 [^hymnary-tune][^h82].
+The New Oxford Book of Carols calls it a "luck-visit song", one sung by visitors at a house [^canterbury]. Its tune is GOD REST YOU MERRY. Hymnary.org gives its meter as 8.6.8.6.8.6 with refrain; The Hymnal 1982, No. 105, gives 7.6.7.6.8.6 with refrain [^hymnary-tune][^h82].
 
 Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s, in E minor as printed [^bramley]. We sing the first verse and its refrain. Where Stainer slurs two notes on one syllable in the lower parts, we sing one held note, in 17 places. Nine notes are changed: more thirds between the soprano and alto, no wide leaps in the bass and inner parts, and a tenor that moves mostly by step. Breaths are written in. On "O tidings of comfort and joy" the harmony turns toward G major, and the last "joy" comes home to E minor.
 
 ## Versions and other words
 
-- **The West Country tune.** Sandys's tune of 1833 is a different melody in a major key, which Hymnary.org lists as an anonymous Cornish carol [^sandys1833][^hymnary-cornish]. Rimbault's "Cornish version" sits beside the common one [^rimbault-imslp].
+- **The West Country tune.** Sandys's tune of 1833 is a different melody in a major key, which Hymnary.org lists as an anonymous Cornish carol [^sandys1833][^hymnary-cornish]. Rimbault's Cornish version sits beside his London one [^rimbault-imslp][^hcc-notes].
 
 ## Did you know?
 
 - The greeting is in Shakespeare: Romeo and Juliet has "Rest you merry", and As You Like It has "God rest you merry, sir" [^ned-rest][^rolfe].
+
 ## Singing it
 
 - [Soprano](/songs/god-rest-ye/soprano): the tune. It opens on two Es and leaps up to B on "you"; land the B cleanly. It reaches its low D on "Let" and "Was" and its top E on "Satan's" and on "of" in the last "O tidings of comfort and joy". The quick "comfort" in the middle of the refrain is two short notes, G and F-sharp.
@@ -161,26 +163,22 @@ Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s,
 
 ## Questions
 
-### What does God Rest Ye Merry Gentlemen mean?
-
-It means "God keep you merry". "Rest" was an old verb for staying in a state, and "rest you merry" was a common greeting in the 1500s; a dictionary of 1548 calls it what ordinary people say [^ned-rest][^rolfe]. The singer wishes the listeners joy, then gives the reason: Christ was born on Christmas Day, and the angel brought the shepherds "tidings", news, of comfort and joy [^kjv][^webster].
-
 ### Where is the comma in God Rest Ye Merry Gentlemen supposed to go?
 
-After "merry": "God rest you merry, gentlemen." The phrase is "rest you merry", stay merry, and "gentlemen" are the people addressed [^ned-rest][^rolfe]. Old printers disagreed: William Sandys put it after "merry" in 1833, while William Hone's list of 1823 and Bramley and Stainer's book put it after "you" [^sandys1833][^hone1823][^bramley].
+After "merry": "God rest you merry, gentlemen." The phrase is "rest you merry", stay merry, and "gentlemen" are the people addressed [^ned-rest][^rolfe]. Old printers disagreed: the Bow Church Yard sheet of about 1760 and William Sandys in 1833 put it after "merry", while William Hone's list of 1823 and Bramley and Stainer's book put it after "you" [^ecco1760][^sandys1833][^hone1823][^bramley].
 
 ### Who originally wrote God Rest Ye Merry Gentlemen?
 
-Nobody knows. The earliest known printings, broadsides of the 1700s, name no author, and a modern dictionary of hymns calls it anonymous and British, of the 1700s [^ebba][^ecco1760][^canterbury]. The tune is traditional too: the earliest copy William Chappell had seen was in the hand of the composer James Nares, who died in 1783 [^chappell][^grove-nares][^dnb-nares]. Bramley and Stainer's book of 1867 standardized the version most people know [^bramley][^cam-blog][^hcc-notes].
+Nobody knows. Hymns and Carols of Christmas reports a text called "Sit You, Merry Gentlemen" in a Bodleian manuscript of about 1650 [^hcc-notes]; the earliest known printings, broadsides of the 1700s, name no author, and a modern dictionary of hymns calls it anonymous and British [^ebba][^ecco1760][^canterbury]. The tune is traditional too: the earliest copy William Chappell had seen was in the hand of the composer James Nares, who died in 1783 [^chappell][^grove-nares][^dnb-nares]. Bramley and Stainer's book of 1867 standardized the version most people know [^bramley][^cam-blog][^hcc-notes].
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; with four, the tenor fills the middle of the chord.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; with four, the tenor fills the middle of the chord. The tune runs from the low D on "Let" up to the top E on "Satan's", while the alto stays within a sixth, from B up to G.
 
 ## Sing next
 
 - [Hark! The Herald Angels Sing](/songs/hark-the-herald): another English Christmas favourite in four parts from a Victorian book.
-- [Greensleeves](/songs/greensleeves): another old English tune in a minor key, and an easier one.
+- [Greensleeves](/songs/greensleeves): another old English tune in a minor key, from William Chappell's Popular Music of the Olden Time, which also prints this carol's minor tune.
 - [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): a bright beginner carol for the same season.
 
 ## Sources
@@ -192,8 +190,8 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^mt1868]: *The Musical Times*, vol. 13, no. 310 (1 December 1868), p. 616, review of *Christmas Carols, New and Old*. https://archive.org/details/jstor-3352356
 - [^cam-blog]: William Hale, Cambridge University Library Special Collections, *The Christmas Carol in Print* (blog post, 13 December 2019, updated 24 July 2023). https://specialcollections-blog.lib.cam.ac.uk/?p=19504
 - [^ebba]: English Broadside Ballad Archive, University of California, Santa Barbara, EBBA 31130, *Four Choice Carols for Christmas Holidays*, British Library, Roxburghe 3.452 (C.20.f.9.452), ESTC T40075, dated "1700?". https://ebba.english.ucsb.edu/ballad/31130/citation
-- [^ecco1760]: *Three New Christmas Carols* (London: printed and sold at the printing office in Bow Church Yard, [1760?]), dated [1760?] in library catalogues (e.g. Wellcome Collection), facsimile from Eighteenth Century Collections Online at the Internet Archive. https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
-- [^hone1823]: William Hone, *Ancient Mysteries Described* (London, 1823), "Christmas Carols", pp. 97 to 98 (the list, No. 28) and p. 106. https://archive.org/details/ancientmysteries00honeuoft
+- [^ecco1760]: *Three New Christmas Carols* (London: printed and sold at the printing office in Bow Church Yard, [1760?]), dated [1760?] in library catalogues (e.g. Wellcome Collection), facsimile from Eighteenth Century Collections Online at the Internet Archive; imprint at the foot, 'Printed and Sold at the Printing-Office in Bow Church-Yard, London'; one sheet (image 1). https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
+- [^hone1823]: William Hone, *Ancient Mysteries Described* (London, 1823), "Christmas Carols", pp. 97 to 99 (the list; No. 28 on p. 98) and p. 106. https://archive.org/details/ancientmysteries00honeuoft
 - [^sandys1833]: William Sandys, *Christmas Carols, Ancient and Modern; including the most popular in the West of England, and the airs to which they are sung* (London: Richard Beckley, 1833), Introduction, and Part the Second, "God rest you merry, Gentlemen", pp. 102 to 104; and its airs at the end, 'God rest you merry Gentlemen' (music, unpaginated). https://archive.org/details/christmascarolsa00sandrich
 - [^dickens-mcgill]: Charles Dickens, *A Christmas Carol. In Prose. Being a Ghost Story of Christmas* (London: Chapman and Hall, 1843), Stave One, pp. 16 to 17; McGill University Library copy. https://archive.org/details/McGillLibrary-97856-8
 - [^chappell]: William Chappell, *Popular Music of the Olden Time*, vol. 2 (London: Cramer, Beale and Chappell, [1855 to 1859]), "God rest you merry, gentlemen", pp. 752 to 753. https://archive.org/details/popularmusicov2185559chap
