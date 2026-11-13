@@ -39,7 +39,7 @@ Johann Stephan Rittangel (1606 to 1652), a Christian Hebraist at Königsberg, pu
 
 ## What the words mean
 
-The title is the hymn's last line: ki lo naeh, ki lo yaeh. Ki means for, lo means to Him, and both naeh and yaeh mean fitting or due. "For to Him it is fitting, for to Him it is due."[^sefaria][^baruch] The words echo Jeremiah 10:7, "ki lecha yaata", for to You it is due.[^tanakh][^baruch][^sacks] The hymn is also called Adir Bimlucha, after its first words.[^ej][^davidson]
+The title is the hymn's last line: ki lo naeh, ki lo yaeh. Ki means for, lo means to Him, and both naeh and yaeh mean fitting or due. "For to Him it is fitting, for to Him it is due."[^sefaria][^baruch] The words echo Jeremiah 10:7, "ki lecha yaata", "for it befitteth Thee".[^tanakh][^baruch][^sacks] The hymn is also called Adir Bimlucha, after its first words.[^ej][^davidson]
 
 The full hymn has eight stanzas, each the same except for three words whose first letters march through the alphabet. The last stanza uses the final letter, tav, three times.[^je][^sefaria] The Union Haggadah prints three of them, and we sing those: the first, seventh and eighth.[^uh1923][^sefaria]
 
@@ -49,7 +49,7 @@ The full hymn has eight stanzas, each the same except for three words whose firs
 
 **Verse 3.** Takif bimlucha: powerful in kingship. Tomech kahalacha: upholding, as is right. Temimav yomru lo: His perfect ones, the wholehearted, say to Him.[^sefaria]
 
-**The answer, after every verse.** Lecha ulecha: Yours and Yours. Lecha ki lecha: Yours, for it is Yours. Lecha af lecha: Yours, yes, Yours. Lecha Adoshem hamamlacha: Yours, Hashem, is the kingdom. Then the title line again.[^sefaria] The answer is built from Bible phrases: "Yours, Hashem, is the kingdom" is from 1 Chronicles 29:11, and "the heavens are Yours, the earth too" from Psalm 89:12 gives the pattern of "lecha af lecha".[^tanakh][^baruch][^sacks] Listen for the turn: the hymn speaks about Hashem, "to Him", but the hosts speak to Hashem, "Yours".[^sefaria]
+**The answer, after every verse.** Lecha ulecha: Yours and Yours. Lecha ki lecha: Yours, for it is Yours. Lecha af lecha: Yours, yes, Yours. Lecha Adoshem hamamlacha: Yours, Hashem, is the kingdom. Then the title line again.[^sefaria] The answer is built from Bible phrases: "Thine is the kingdom, O Hashem" is from 1 Chronicles 29:11, and "Thine are the heavens, Thine also the earth" from Psalm 89:12 gives the pattern of "lecha af lecha".[^tanakh][^baruch][^sacks] Listen for the turn: the hymn speaks about Hashem, "to Him", but the hosts speak to Hashem, "Yours".[^sefaria]
 
 Who are the speakers? The Encyclopaedia Judaica reads them all as kinds of angels.[^ej] Jacob of Lissa, in his Haggadah commentary Maaseh Nissim, splits them: the troops and the angels are angels, but the righteous and the perfect ones are Israel. He reads the names through midrash too. The midrash says Hashem appeared at the Red Sea as a warrior and at Sinai as an elder full of compassion, and he and other teachers read bachur, which can also mean a young man, as that young warrior. Rachum recalls the Talmud's story that Hashem stopped the angels singing as the Egyptians drowned, because they too were the work of His hands.[^lissa][^ejlissa][^bogomilsky][^marbeh][^rashi][^megillah]
 
@@ -184,7 +184,7 @@ There are other tunes. The Jewish Encyclopedia mentions several, and in 1929 the
 ## Did you know?
 
 - The answer says "lecha", Yours, seven times. Commentators have read meanings into the number, among them the seven heavens, the seven days of the week and the seven thousand years of the world.[^sacks][^marbeh]
-- The phrase "it is fitting for You" has an old echo. A midrash in Genesis Rabbah reads Psalm 74:16, "Yours is the day, Yours also the night", as: it is fitting for You that we sing by day and by night.[^berrab][^tanakh][^sacks]
+- The phrase "it is fitting for You" has an old echo. A midrash in Genesis Rabbah reads Psalm 74:16, "Thine is the day, Thine also the night", as: it is fitting for You that we sing by day and by night.[^berrab][^tanakh][^sacks]
 
 ## Singing it
 
@@ -233,7 +233,7 @@ No one knows; it is anonymous. The Encyclopaedia Judaica says the earliest manus
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, revised edition (1923), contents, pp. 82 to 85 and 156 to 158, scan from the University of Florida, George A. Smathers Libraries, leaves n103 and n104 (pp. 84 and 85). https://archive.org/details/unionhaggadahhom00unse
 - [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), preface, contents and pp. 54 and 55, leaves n52 and n53 (pp. 54 and 55). https://archive.org/details/ccar1908union
 - [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", Hebrew text (Sefaria's public-domain version, from the Da'at Jewish studies site) and the English of the Koren Haggadah (Koren, 2013), with the order of Nirtzah, via Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
-- [^tanakh]: Jeremiah 10:7, 1 Chronicles 29:11, Psalms 74:16 and 89:12, Hebrew (Miqra according to the Masorah) and the JPS translation, via Sefaria. https://www.sefaria.org/Jeremiah.10.7
+- [^tanakh]: Jeremiah 10:7, 1 Chronicles 29:11, Psalms 74:16 and 89:12, Hebrew (Miqra according to the Masorah, via Sefaria) and English from *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), with Hashem for the Name, via Mechon Mamre. https://mechon-mamre.org/p/pt/pt1110.htm
 - [^sacks]: Jonathan Sacks, *The Jonathan Sacks Haggadah* (Koren, 2013), Nirtzah, "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/The_Jonathan_Sacks_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^baruch]: Barukh Epstein, *Barukh SheAmar on the Haggadah* (Tel Aviv, 1968), "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/Barukh_SheAmar_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^lissa]: Jacob Lorberbaum of Lissa, *Maaseh Nissim on the Haggadah* (Warsaw edition, 1895), "Ki Lo Na'e", via Sefaria. https://www.sefaria.org/Maaseh_Nissim_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e

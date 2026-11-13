@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: true
 searches: ki lo naeh letra | ki lo na eh transliteración | ki lo naeh pésaj | ki lo na eh traducción | ki lo naeh significado
 original: The Union Haggadah (1923), p. 84, University of Florida scan, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/n103
-translatedFrom: 2c72d4ee9634
+translatedFrom: 7010efbc38a7
 ---
 
 Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
@@ -234,7 +234,7 @@ No se sabe; es anónimo. La Encyclopaedia Judaica dice que los manuscritos más 
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah: Home Service for the Passover*, edición revisada (1923), índice, pp. 82 a 85 y 156 a 158, escaneo de la University of Florida, George A. Smathers Libraries, hojas n103 y n104 (pp. 84 y 85). https://archive.org/details/unionhaggadahhom00unse
 - [^uh1908]: Central Conference of American Rabbis, *The Union Haggadah* (Cincinnati, 1908), prefacio, índice y pp. 54 y 55, hojas n52 y n53 (pp. 54 y 55). https://archive.org/details/ccar1908union
 - [^sefaria]: *Pesach Haggadah*, Nirtzah, "Ki Lo Na'e", texto hebreo (la versión de dominio público de Sefaria, tomada del sitio de estudios judíos Da'at) y la versión inglesa de la Koren Haggadah (Koren, 2013), con el orden de Nirtzah, en Sefaria. https://www.sefaria.org/Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
-- [^tanakh]: Jeremías 10:7, 1 Crónicas 29:11, Salmos 74:16 y 89:12, hebreo (Miqra according to the Masorah) y la traducción de la JPS, en Sefaria; las citas en español, de la Reina-Valera de 1909. https://www.sefaria.org/Jeremiah.10.7
+- [^tanakh]: Jeremías 10:7, 1 Crónicas 29:11, Salmos 74:16 y 89:12, hebreo (Miqra according to the Masorah, en Sefaria) e inglés de *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), con Hashem en lugar del Nombre, en Mechon Mamre; las citas en español, de la Reina-Valera de 1909. https://mechon-mamre.org/p/pt/pt1110.htm
 - [^sacks]: Jonathan Sacks, *The Jonathan Sacks Haggadah* (Koren, 2013), Nirtzah, "Ki Lo Na'e", en Sefaria. https://www.sefaria.org/The_Jonathan_Sacks_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^baruch]: Barukh Epstein, *Barukh SheAmar on the Haggadah* (Tel Aviv, 1968), "Ki Lo Na'e", en Sefaria. https://www.sefaria.org/Barukh_SheAmar_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
 - [^lissa]: Jacob Lorberbaum de Lissa, *Maaseh Nissim on the Haggadah* (edición de Varsovia, 1895), "Ki Lo Na'e", en Sefaria. https://www.sefaria.org/Maaseh_Nissim_on_Pesach_Haggadah%2C_Nirtzah%2C_Ki_Lo_Na'e
