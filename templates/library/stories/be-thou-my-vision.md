@@ -210,9 +210,9 @@ The tune carries other words too. Jan Struther (1901 to 1953) wrote "Lord of all
 ## Singing it
 
 - [Soprano](/songs/be-thou-my-vision/soprano): you carry the tune, and it runs wide. It dips to low C on "-sion, O", then climbs to its high F on "best" in the third line, "Thou my best thought". Take that top gently, or move the key.
-- [Alto](/songs/be-thou-my-vision/alto): you sing the words mostly a third or sixth under the tune, moving mostly by step. In "Thou my best thought by day" you rock between B-flat and A at the top of your part. At the very end you skip down a third, from C to your lowest note, low A, on "light".
+- [Alto](/songs/be-thou-my-vision/alto): you sing the words mostly a third or sixth under the tune, moving mostly by step. On "my best thought by" you rock between B-flat and A at the top of your part. At the very end you skip down a third, from C to your lowest note, low A, on "light".
 - [Tenor](/songs/be-thou-my-vision/tenor): you sing the middle of the chords, often resting on F, and never leap more than a fourth. You hold your top note, C, through "my heart, Naught is", then come back to F.
-- [Bass](/songs/be-thou-my-vision/bass): you walk the bass line, mostly by step. Under "Naught is all else to" you step down C, B-flat, A, G to a low F, and you end on that low F under "light".
+- [Bass](/songs/be-thou-my-vision/bass): you walk the bass line, by step about half the time. Under "Naught is all else to" you step down C, B-flat, A, G to a low F, and you end on that low F under "light".
 
 ## Questions
 

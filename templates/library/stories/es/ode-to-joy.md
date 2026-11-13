@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: himno a la alegría historia | himno a la alegría significado | quién escribió el himno a la alegría | himno a la alegría himno europeo | joyful joyful we adore thee significado | joyful joyful we adore thee historia
-translatedFrom: c83b9f6a6127
+translatedFrom: 15883b95b4e8
 original: The Poems of Henry van Dyke (Scribner's, 1911), Internet Archive | https://archive.org/details/cu31924021507672
 ---
 
@@ -191,9 +191,9 @@ Nuestra melodía y nuestra letra vienen del Hymnal for American Youth de H. Augu
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ode-to-joy/soprano): llevas la melodía, desde el Re por encima del Do central hasta el Re una octava más arriba. Se mueve por grados conjuntos casi en todas partes: "Joy-ful, joy-ful" sube Si, Si, Do, Re y vuelve a bajar paso a paso. El único salto grande llega en el sexto verso, donde "a-way" baja de La a tu Re grave; aterriza en él con suavidad, porque el tenor se encuentra contigo en ese mismo Re.
-- [Contralto](/songs/ode-to-joy/alto): cantas la letra muy cerca por debajo de la melodía, desde el Si por debajo del Do central hasta Si. Los versos que empiezan con "Joy-ful", "Hearts" y "Giv-er" comienzan una tercera por debajo de la melodía y se apoyan en Fa sostenido. Los que empiezan con "God of glo-ry", "Prais-ing Thee" y "fill us" comienzan abajo, en Si, y suben Si, Do, Mi hasta Fa sostenido. En "a-way", en el sexto verso, tu Fa sostenido queda un momento por encima del Re grave de la soprano.
-- [Tenor](/songs/ode-to-joy/tenor): cantas el centro del acorde, desde el Re por debajo del Do central hasta el Re justo por encima, con muchas notas repetidas. Empiezas en ese Re agudo. "Prais-ing Thee their" son cuatro Sol; luego bajas al Re grave para "sun a-bove", y el último verso termina igual, en un Re grave largo en "day!". En el sexto verso subes Sol, Si, Do, Re en "of doubt a-way" para encontrarte con la soprano.
+- [Soprano](/songs/ode-to-joy/soprano): llevas la melodía, desde el Re por encima del Do central hasta el Re una octava más arriba. Se mueve por grados conjuntos casi en todas partes: "Joy-ful, joy-ful" sube Si, Si, Do, Re y vuelve a bajar paso a paso. Los saltos grandes llegan al final del sexto verso, donde "a-way" baja de La a tu Re grave, y justo después, donde "Giv-er" vuelve a subir de un salto a Si; aterriza en el Re con suavidad, porque el tenor se encuentra contigo en ese mismo Re.
+- [Contralto](/songs/ode-to-joy/alto): cantas la letra muy cerca por debajo de la melodía, desde el Si por debajo del Do central hasta Si. Los versos que empiezan con "Joy-ful", "Hearts" y "Giv-er" comienzan una tercera por debajo de la melodía y se apoyan en Fa sostenido. Los que empiezan con "God of glo-ry", "Prais-ing Thee" y "fill us" comienzan abajo, en Si, y suben Si, Do, Mi hasta Fa sostenido. En el "-way" de "a-way", en el sexto verso, tu Fa sostenido queda un momento por encima del Re grave de la soprano.
+- [Tenor](/songs/ode-to-joy/tenor): cantas el centro del acorde, desde el Re por debajo del Do central hasta el Re justo por encima, con muchas notas repetidas. Empiezas en ese Re agudo. "Prais-ing Thee their" son cuatro Sol; luego bajas al Re grave para "sun a-bove", con Mi en "a-", y el último verso termina igual, en un Re grave largo en "day!". En el sexto verso subes Sol, Si, Do, Re en "of doubt a-way" para encontrarte con la soprano.
 - [Bajo](/songs/ode-to-joy/bass): cantas "oo" (una u), una nota cada dos tiempos, desde el Sol grave hasta el Sol una octava más arriba, sobre todo Sol y Re. En los versos primero, tercero y séptimo subes Sol, Re y hasta el Sol agudo. Bajo "Melt the clouds of sin" cantas Re tres veces, seis tiempos en total, y tu único Si llega en el sexto verso.
 
 ## Preguntas

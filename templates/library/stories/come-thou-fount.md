@@ -131,10 +131,10 @@ In William Walker's shape-note book The Southern Harmony the words go to another
 
 ## Singing it
 
-- [Soprano](/songs/come-thou-fount/soprano): you carry NETTLETON, lilting in three. Lines 1 and 2 come back as lines 3 and 4 and again as 7 and 8, so two lines teach you six. The new music, "Teach me some melodious sonnet, Sung by flaming tongues above", climbs to your top E-flat on "some" and "flaming", and ends on that E-flat for "above".
-- [Alto](/songs/come-thou-fount/alto): you sing close under the tune, mostly on E-flat, holding while the tune moves above you. In the middle lines, where every part sings higher, you reach your top B-flat on "melodious" and again on "flaming", just as the tune steps down from its E-flat. Twice you drop to a low G, on "grace" and on "love" at the very end, so that with two singers those lines end on a fuller chord.
-- [Tenor](/songs/come-thou-fount/tenor): you sing the words in the middle of the chords, mostly on B-flat, rocking down to A-flat and G and back. Your two high moments are E-flat on "melodious" and on "tongues above"; solo those lines in the player until the leap feels easy.
-- [Bass](/songs/come-thou-fount/bass): you sing the bass line, on the chord's root most of the time, mostly E-flat and the B-flat below it. "Tune my heart", "Call for songs" and "Mount of thy" each climb E-flat, G, A-flat at the start of the line; in the middle you reach A-flat again on "melodious" and "tongues".
+- [Soprano](/songs/come-thou-fount/soprano): you carry NETTLETON, lilting in three. Lines 1 and 2 come back as lines 3 and 4 and again as 7 and 8, so two lines teach you six. The new music, "Teach me some melodious sonnet, Sung by flaming tongues above", climbs to your top E-flat on "some" and the "flam-" of "flaming", and ends on that E-flat for "above".
+- [Alto](/songs/come-thou-fount/alto): you sing close under the tune, mostly on E-flat, holding while the tune moves above you. In the middle lines, where every part sings higher, you reach your top B-flat on the "me-" of "melodious" and again on the "-ing" of "flaming", just as the tune steps down from its E-flat. Twice you drop to a low G, on "grace" and on "love" at the very end, so that with two singers those lines end on a fuller chord.
+- [Tenor](/songs/come-thou-fount/tenor): you sing the words in the middle of the chords, mostly on B-flat, rocking down to A-flat and G and back. Your two high moments are E-flat on the "-lodious" of "melodious" and on "tongues a-"; solo those lines in the player until the leap feels easy.
+- [Bass](/songs/come-thou-fount/bass): you sing the bass line, on the chord's root most of the time, mostly E-flat and the B-flat below it. "Tune my heart", "Call for songs" and "Mount of thy" each climb E-flat, G, A-flat at the start of the line; in the middle you reach A-flat again on the "-lo-" of "melodious" and on "tongues".
 
 ## Questions
 

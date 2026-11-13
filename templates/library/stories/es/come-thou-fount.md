@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: b52628963908
+translatedFrom: 973a88288a75
 listen: National Jukebox, grabación de 1922 | https://archive.org/details/loc-jukebox-61007-come-thou-fount-of-every-blessing
 ---
 
@@ -164,10 +164,10 @@ En The Southern Harmony, el libro de William Walker en notación de formas (shap
 
 ## Cómo cantarla
 
-- [Soprano](/songs/come-thou-fount/soprano): llevas NETTLETON, cadenciosa, a tres tiempos. Los versos 1 y 2 vuelven como versos 3 y 4 y otra vez como 7 y 8, así que dos versos te enseñan seis. La música nueva, "Teach me some melodious sonnet, Sung by flaming tongues above", sube a tu Mi bemol agudo en "some" y en "flaming", y termina en ese Mi bemol en "above".
-- [Contralto](/songs/come-thou-fount/alto): cantas muy cerca, por debajo de la melodía, sobre todo en Mi bemol, y sostienes la nota mientras la melodía se mueve por encima. En los versos centrales, donde todas las voces cantan más agudo, llegas a tu Si bemol más agudo en "melodious" y otra vez en "flaming", justo cuando la melodía baja de su Mi bemol. Dos veces bajas a un Sol grave, en "grace" y en el "love" del final, para que con dos cantantes esos versos terminen en un acorde más lleno.
-- [Tenor](/songs/come-thou-fount/tenor): cantas la letra en el centro de los acordes, sobre todo en Si bemol, meciéndote hacia La bemol y Sol y de vuelta. Tus dos momentos agudos son el Mi bemol de "melodious" y el de "tongues above"; pon esos versos en solo en el reproductor hasta que el salto te resulte fácil.
-- [Bajo](/songs/come-thou-fount/bass): cantas la línea del bajo, casi siempre en la fundamental del acorde, sobre todo Mi bemol y el Si bemol de debajo. "Tune my heart", "Call for songs" y "Mount of thy" suben Mi bemol, Sol, La bemol al comienzo del verso; en el centro vuelves a llegar a La bemol en "melodious" y en "tongues".
+- [Soprano](/songs/come-thou-fount/soprano): llevas NETTLETON, cadenciosa, a tres tiempos. Los versos 1 y 2 vuelven como versos 3 y 4 y otra vez como 7 y 8, así que dos versos te enseñan seis. La música nueva, "Teach me some melodious sonnet, Sung by flaming tongues above", sube a tu Mi bemol agudo en "some" y en el "flam-" de "flaming", y termina en ese Mi bemol en "above".
+- [Contralto](/songs/come-thou-fount/alto): cantas muy cerca, por debajo de la melodía, sobre todo en Mi bemol, y sostienes la nota mientras la melodía se mueve por encima. En los versos centrales, donde todas las voces cantan más agudo, llegas a tu Si bemol más agudo en el "me-" de "melodious" y otra vez en el "-ing" de "flaming", justo cuando la melodía baja de su Mi bemol. Dos veces bajas a un Sol grave, en "grace" y en el "love" del final, para que con dos cantantes esos versos terminen en un acorde más lleno.
+- [Tenor](/songs/come-thou-fount/tenor): cantas la letra en el centro de los acordes, sobre todo en Si bemol, meciéndote hacia La bemol y Sol y de vuelta. Tus dos momentos agudos son el Mi bemol del "-lodious" de "melodious" y el de "tongues a-"; pon esos versos en solo en el reproductor hasta que el salto te resulte fácil.
+- [Bajo](/songs/come-thou-fount/bass): cantas la línea del bajo, casi siempre en la fundamental del acorde, sobre todo Mi bemol y el Si bemol de debajo. "Tune my heart", "Call for songs" y "Mount of thy" suben Mi bemol, Sol, La bemol al comienzo del verso; en el centro vuelves a llegar a La bemol en el "-lo-" de "melodious" y en "tongues".
 
 ## Preguntas
 
@@ -189,7 +189,7 @@ Se canta en muchas iglesias. Los Santos de los Últimos Días lo imprimieron en 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta NETTLETON. Con dos cantantes tienes la melodía y la contralto, muy cerca por debajo y casi siempre en una misma nota. Un tercer cantante añade el bajo, casi siempre en las fundamentales de los acordes, y el tenor completa el centro para cuatro [^methodist1905].
+La soprano canta NETTLETON. Con dos cantantes tienes la melodía y la contralto, muy cerca por debajo y sobre todo en una misma nota. Un tercer cantante añade el bajo, casi siempre en las fundamentales de los acordes, y el tenor completa el centro para cuatro [^methodist1905].
 
 ## Canta después
 

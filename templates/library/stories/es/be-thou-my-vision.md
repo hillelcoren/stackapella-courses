@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: bbc2068c4eef
+translatedFrom: 3937b6acf233
 original: The Poem-Book of the Gael (Londres, 1912), Internet Archive | https://archive.org/details/poembookofgaeltr00hulluoft
 ---
 
@@ -235,9 +235,9 @@ La melodía lleva también otras letras. Jan Struther (1901 a 1953) escribió pa
 ## Cómo cantarla
 
 - [Soprano](/songs/be-thou-my-vision/soprano): llevas la melodía, y tiene mucho recorrido. Baja al Do grave en "-sion, O" y luego sube a su Fa agudo en "best", en el tercer verso, "Thou my best thought". Toma esa nota aguda con suavidad, o cambia la tonalidad.
-- [Contralto](/songs/be-thou-my-vision/alto): cantas la letra casi siempre una tercera o una sexta por debajo de la melodía, moviéndote sobre todo por grados conjuntos. En "Thou my best thought by day" oscilas entre Si bemol y La, en lo más agudo de tu voz. Al final bajas una tercera, de Do a tu nota más grave, el La grave, en "light".
+- [Contralto](/songs/be-thou-my-vision/alto): cantas la letra casi siempre una tercera o una sexta por debajo de la melodía, moviéndote sobre todo por grados conjuntos. En "my best thought by" oscilas entre Si bemol y La, en lo más agudo de tu voz. Al final bajas una tercera, de Do a tu nota más grave, el La grave, en "light".
 - [Tenor](/songs/be-thou-my-vision/tenor): cantas el centro de los acordes, a menudo descansando en Fa, y nunca saltas más de una cuarta. Sostienes tu nota más aguda, Do, durante "my heart, Naught is", y luego vuelves a Fa.
-- [Bajo](/songs/be-thou-my-vision/bass): recorres la línea del bajo, casi siempre por grados conjuntos. Debajo de "Naught is all else to" bajas por Do, Si bemol, La y Sol hasta un Fa grave, y terminas en ese Fa grave bajo "light".
+- [Bajo](/songs/be-thou-my-vision/bass): recorres la línea del bajo, por grados conjuntos más o menos la mitad del tiempo. Debajo de "Naught is all else to" bajas por Do, Si bemol, La y Sol hasta un Fa grave, y terminas en ese Fa grave bajo "light".
 
 ## Preguntas
 

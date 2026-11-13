@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: keep on the sunny side significado | keep on the sunny side historia | quién escribió keep on the sunny side | keep on the sunny side carter family | keep on the sunny side o brother | keep on the sunny side letra en español
-translatedFrom: 2769a7b78964
+translatedFrom: 706a6b6452a8
 original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen
 ---
 
@@ -127,8 +127,8 @@ Nuestro arreglo canta la estrofa 1 y el estribillo, en La bemol, como la imprimi
 
 ## Cómo cantarla
 
-- [Soprano](/songs/keep-on-the-sunny-side/soprano): llevas la melodía saltarina y su ritmo con puntillo. Tu Mi bemol agudo llega en "bright and a sunny" y en "darkness" en la estrofa, luego en "Keep on the sunny" al comienzo del estribillo y en "help us" más adelante en él.
-- [Contralto](/songs/keep-on-the-sunny-side/alto): cantas la letra, con más frecuencia una sexta o una tercera por debajo de la melodía, sobre todo en el Mi bemol y el Do. Mantén Sol durante "meet with the darkness and" y, tras el silencio del final de la estrofa, salta una octava hacia arriba al entrar en el estribillo.
+- [Soprano](/songs/keep-on-the-sunny-side/soprano): llevas la melodía saltarina y su ritmo con puntillo. Tu Mi bemol agudo llega en "bright and a sun-" y en el "dark-" de "darkness" en la estrofa, luego en "Keep on the sun-" al comienzo del estribillo y en "help us" más adelante en él.
+- [Contralto](/songs/keep-on-the-sunny-side/alto): cantas la letra, con más frecuencia una sexta o una tercera por debajo de la melodía, sobre todo en el Mi bemol y el Do. Quédate en el Sol, una nota por sílaba, durante "meet with the darkness and" y, tras el silencio del final de la estrofa, salta una octava hacia arriba al entrar en el estribillo.
 - [Tenor](/songs/keep-on-the-sunny-side/tenor): cantas la letra en el centro del acorde, sobre todo en el La bemol y el Mi bemol, con muchas notas repetidas; mantén en ellas nítido el ritmo con puntillo.
 - [Bajo](/songs/keep-on-the-sunny-side/bass): cantas la línea del bajo, sobre todo en el La bemol y el Mi bemol, hasta tu La bemol agudo en "life" y "strife" en la estrofa, en el "Keep on the sunny side" con que empieza el estribillo y en "day, It will".
 

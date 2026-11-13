@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió now thank we all our god | now thank we all our god historia | now thank we all our god significado | cuándo se escribió now thank we all our god | nun danket alle gott traducción | nun danket alle gott bach | es now thank we all our god un himno fúnebre
-translatedFrom: ecb154d25b45
+translatedFrom: 5229ae01c37d
 original: Crüger, Praxis pietatis melica (1653), Biblioteca Estatal de Baviera | https://www.digitale-sammlungen.de/en/view/bsb00065813
 listen: National Jukebox, grabación de 1919 | https://archive.org/details/loc-jukebox-32824-now-thank-we-all-our-god || National Jukebox, grabación de 1921, en alemán | https://archive.org/details/loc-jukebox-43058-nun-danket-alle-gott
 ---
@@ -203,10 +203,10 @@ Nuestro arreglo, para 2 a 4 cantantes, toma el himno 422 de The Hymnal de 1916: 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/now-thank-we-all-our-god/soprano): llevas la melodía de Crüger, casi siempre por grados conjuntos y con un tiempo por nota. Los versos 1 y 3 se apoyan en Do y suben a tu Re agudo ("all our", "things hath"), y los versos 2 y 4 bajan por grados conjuntos hasta Fa, tenido cuatro tiempos en "voices" y "rejoices". El verso 6 te da las únicas dos notas en una misma palabra, La y Si becuadro en "blessed", y luego Re en "on". El último verso baja a tu Mi grave en "to-" antes del Fa de "day".
-- [Contralto](/songs/now-thank-we-all-our-god/alto): cantas una tercera por debajo de la melodía en los versos 1 y 3, La y Si bemol bajo su Do y su Re, y luego bajas a un La grave tenido cuatro tiempos bajo "voices" y "rejoices". El verso 7 tiene dos Fa sostenido, en "count-" y "of", antes del Sol de "love". Terminas abajo: La, Si bemol, La en "ours to-day".
+- [Soprano](/songs/now-thank-we-all-our-god/soprano): llevas la melodía de Crüger, sobre todo por grados conjuntos y con un tiempo por nota. Los versos 1 y 3 se apoyan en Do y suben a tu Re agudo ("all our", "things hath"), y los versos 2 y 4 bajan por grados conjuntos hasta Fa, tenido cuatro tiempos en el "-ces" de "voices" y "rejoices". El verso 6 te da las únicas dos notas en una misma palabra, La y Si becuadro en "blessed", y luego Re en "on". El último verso baja a tu Mi grave en "to-" antes del Fa de "day".
+- [Contralto](/songs/now-thank-we-all-our-god/alto): cantas una tercera por debajo de la melodía en los versos 1 y 3, La y Si bemol bajo su Do y su Re, y luego bajas a un La grave tenido cuatro tiempos en el "-ces" de "voices" y "rejoices". El verso 7 tiene dos Fa sostenido, en "count-" y "of", antes del Sol de "love". Terminas abajo: La, Si bemol, La en "ours to-day".
 - [Tenor](/songs/now-thank-we-all-our-god/tenor): en los versos 1 y 3 te mueves en contra de la melodía: mientras ella sube de Do a Re, tú bajas de Do a Si bemol. Tu Re agudo llega en "Whom". El verso 6 es el difícil: Si becuadro en "on", Sol sostenido en "our" y luego La en "way"; ponlo en solo en el reproductor. Terminas en tu nota más grave, Do, en "to-day".
-- [Bajo](/songs/now-thank-we-all-our-god/bass): tu primer verso salta de Fa a Si bemol en "all our" y vuelve. Los versos 2 y 4 terminan en tu Fa grave, tenido cuatro tiempos en "voices" y "rejoices". El verso 5 tiene un Si becuadro en "from", y el verso 7 sostiene Fa sostenido en "countless" y luego baja de Sol al Sol grave en "love".
+- [Bajo](/songs/now-thank-we-all-our-god/bass): tu primer verso salta de Fa a Si bemol en "all our" y vuelve. Los versos 2 y 4 terminan en tu Fa grave, tenido cuatro tiempos en el "-ces" de "voices" y "rejoices". El verso 5 tiene un Si becuadro en "from", y el verso 7 sostiene Fa sostenido en "countless" y luego baja de Sol al Sol grave en "love".
 
 ## Preguntas
 

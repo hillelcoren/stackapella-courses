@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
-translatedFrom: 6356c0a603cc
+translatedFrom: 58223701838a
 original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up || The Beacon Hymnal (1924), n.º 17, Internet Archive | https://archive.org/details/beaconhymnalforc00unse/page/n147
 ---
 
@@ -167,7 +167,7 @@ El alemán de Kremser, de Josef Weyl, "Wir treten zum Beten vor Gott, den Gerech
 
 - [Soprano](/songs/we-gather-together/soprano): llevas la antigua melodía neerlandesa, con su balanceo en los pares largo-corto de "gath-er" y "chas-tens". El verso 2 sube a un rápido Mi agudo al final de "hastens" ("maintaining" en la estrofa 2), y la melodía tiene dos notas en una misma palabra en "cease" (La, Si) y en "name" (La, Sol). Cada estrofa termina en tu Re grave: "his own", y el "thine!" largo.
 - [Contralto](/songs/we-gather-together/alto): empiezas una tercera por debajo de la melodía, Fa sostenido y Sol bajo "We gather". En el verso 3 sostienes Fa sostenido durante "-pressing now cease" mientras la melodía se mueve por encima, y el verso 4 empieza en tu La grave en "Sing". Terminas por encima de la melodía, en Fa sostenido sobre su Re grave, en "own" y "thine!".
-- [Tenor](/songs/we-gather-together/tenor): cantas casi todos los dos primeros versos en una sola nota, La, con un Sol sostenido en "hastens" y "make" que hay que afinar con cuidado. Tu Do sostenido agudo llega en el "The" de "The wicked" y en "from dis-"; el verso 4 baja a tu Re grave en la primera sílaba de "praises" y sostiene Mi en "name".
+- [Tenor](/songs/we-gather-together/tenor): cantas la mayor parte de los dos primeros versos en una sola nota, La, con un Sol sostenido en el "-tens" de "hastens" y en "make" que hay que afinar con cuidado. Tu Do sostenido agudo llega en el "The" de "The wicked" y en "from dis-"; el verso 4 baja a tu Re grave en la primera sílaba de "praises" y sostiene Mi en "name".
 - [Bajo](/songs/we-gather-together/bass): empiezas en Re para "We gather togeth-", y luego vas Mi, Fa sostenido, Mi y subes hasta La en "Lord's". El verso 2 termina arriba, en La para "known", y el verso 3 vuelve a bajar desde ahí grado a grado, La, Sol, Fa sostenido, Mi, bajo "The wicked oppressing now cease". Tu nota más grave, Sol, llega en "to" de "Sing praises to his name".
 
 ## Preguntas

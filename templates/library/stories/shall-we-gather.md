@@ -132,9 +132,9 @@ Charles Ives's Fourth Violin Sonata, "Children's Day at the Camp Meeting", remem
 
 ## Singing it
 
-- [Soprano](/songs/shall-we-gather/soprano): you carry Lowry's tune, cheerful and steady, its dotted rhythm ("gath-er at the") giving it its march. The fun is the chorus: from the low E-flat on "God?" you jump up to C for "Yes, we'll", then climb to your top E-flat on "gather at", and again on "saints at".
-- [Alto](/songs/shall-we-gather/alto): you sing mostly in thirds under the tune. In the chorus you hold one note, A-flat, through "Yes, we'll gather at the" and "Gather with the saints at the" while the tune leaps above you. You share the soprano's E-flat on the verse's "God?" and end on a low G under the last "God".
-- [Tenor](/songs/shall-we-gather/tenor): you sing the words mostly on B-flat, rising to E-flat on "river", "forever" and "Gather with the". "Yes, we'll gather" sits on C, a sixth under the alto, with a quick dip to B natural on "-er"; solo it in the player to tune that half step.
+- [Soprano](/songs/shall-we-gather/soprano): you carry Lowry's tune, cheerful and steady, its dotted rhythm ("gath-er at the") giving it its march. The fun is the chorus: from the low E-flat on "God?" you jump up to C for "Yes, we'll", then climb to your top E-flat on the "gath-" of "gather" and on "at", and again on "saints at".
+- [Alto](/songs/shall-we-gather/alto): you sing mostly in thirds under the tune. In the chorus you stay on A-flat, one note to each syllable, through "Yes, we'll gather at the" and "Gather with the saints at the" while the tune leaps above you. You share the soprano's E-flat on the verse's "God?" and end on a low G under the last "God".
+- [Tenor](/songs/shall-we-gather/tenor): you sing the words mostly on B-flat, rising to E-flat, among other places, on the first "river", the "-ever" of "forever" and "Gather with the". "Yes, we'll gather" sits on C, a sixth under the alto, with a quick dip to B natural on "-er"; solo it in the player to tune that half step.
 - [Bass](/songs/shall-we-gather/bass): you sing the roots on just three notes, E-flat, B-flat and A-flat. The whole first line is on E-flat and the whole second line on the low B-flat. In the chorus you start high on A-flat for "Yes, we'll gather" and "Gather with the saints".
 
 ## Questions

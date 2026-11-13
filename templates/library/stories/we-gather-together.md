@@ -154,7 +154,7 @@ Kremser's German by Josef Weyl, "Wir treten zum Beten vor Gott, den Gerechten", 
 
 - [Soprano](/songs/we-gather-together/soprano): you carry the old Dutch tune, its lilt in the long-short pairs of "gath-er" and "chas-tens". Line 2 climbs to a quick top E at the end of "hastens" ("maintaining" in verse 2), and the tune keeps two notes on one word in "cease" (A, B) and "name" (A, G). Each verse ends on your low D: "his own", and the held "thine!".
 - [Alto](/songs/we-gather-together/alto): you start a third under the tune, F-sharp and G under "We gather". In line 3 you hold F-sharp through "-pressing now cease" while the tune moves above you, and line 4 starts on your low A for "Sing". You end above the tune, on F-sharp over its low D, for "own" and "thine!".
-- [Tenor](/songs/we-gather-together/tenor): you sing most of the first two lines on one note, A, with a G-sharp on "hastens" and "make" to tune carefully. Your top C-sharp comes on "The" before "wicked" and on "from dis-"; line 4 drops to your low D on the first syllable of "praises" and holds E for "name".
+- [Tenor](/songs/we-gather-together/tenor): you sing most of the first two lines on one note, A, with a G-sharp on the "-tens" of "hastens" and on "make" to tune carefully. Your top C-sharp comes on "The" before "wicked" and on "from dis-"; line 4 drops to your low D on the first syllable of "praises" and holds E for "name".
 - [Bass](/songs/we-gather-together/bass): you start on D for "We gather togeth-", then move E, F-sharp, E and up to A on "Lord's". Line 2 ends high, on A for "known", and line 3 walks back down from it a step at a time, A, G, F-sharp, E, under "The wicked oppressing now cease". Your lowest note, G, comes on "to" in "Sing praises to his name".
 
 ## Questions

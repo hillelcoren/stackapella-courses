@@ -108,8 +108,8 @@ Our arrangement sings verse 1 and the chorus, in A-flat as Entwisle printed it, 
 
 ## Singing it
 
-- [Soprano](/songs/keep-on-the-sunny-side/soprano): you carry the bouncing tune and its dotted rhythm. Your top E-flat comes on "bright and a sunny" and on "darkness" in the verse, then on "Keep on the sunny" at the start of the chorus and on "help us" later in it.
-- [Alto](/songs/keep-on-the-sunny-side/alto): you sing the words, most often a sixth or a third under the tune, mostly on E-flat and C. Hold G through "meet with the darkness and", and after the rest at the end of the verse, leap up an octave into the chorus.
+- [Soprano](/songs/keep-on-the-sunny-side/soprano): you carry the bouncing tune and its dotted rhythm. Your top E-flat comes on "bright and a sun-" and on the "dark-" of "darkness" in the verse, then on "Keep on the sun-" at the start of the chorus and on "help us" later in it.
+- [Alto](/songs/keep-on-the-sunny-side/alto): you sing the words, most often a sixth or a third under the tune, mostly on E-flat and C. Stay on G, one note to each syllable, through "meet with the darkness and", and after the rest at the end of the verse, leap up an octave into the chorus.
 - [Tenor](/songs/keep-on-the-sunny-side/tenor): you sing the words in the middle of the chord, mostly on A-flat and E-flat, with many repeated notes; keep the dotted rhythm crisp on them.
 - [Bass](/songs/keep-on-the-sunny-side/bass): you sing the bass line, mostly on A-flat and E-flat, up to your high A-flat on "life" and "strife" in the verse, the chorus's opening "Keep on the sunny side", and "day, It will".
 

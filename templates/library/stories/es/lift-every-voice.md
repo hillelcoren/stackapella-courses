@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing historia | quién escribió lift every voice and sing | lift every voice and sing significado | lift every voice and sing himno nacional negro | lift every voice and sing letra en español | lift every voice and sing escultura
-translatedFrom: 2ec268bdfae3
+translatedFrom: e24e42cc3859
 original: Lift Every Voice and Sing, National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Biblioteca del Congreso | https://www.loc.gov/item/2021561009/
 ---
 
@@ -151,10 +151,10 @@ Nuestro arreglo se lee de las cuatro partes vocales del propio Rosamond Johnson 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/lift-every-voice/soprano): llevas la melodía de Rosamond Johnson. Sube dos veces a su Mi agudo, en "rise, High" y en "sun, Of". En "full of the faith that the dark past has" baja a un Si grave; canta ligeras esas notas rápidas. El verso siguiente termina con un salto de casi una octava, del Do de "has" al Si de "brought", y luego un Do largo en "us"; toma aire a fondo al empezar el verso.
+- [Soprano](/songs/lift-every-voice/soprano): llevas la melodía de Rosamond Johnson. Sube dos veces a su Mi agudo, en "rise, High" y en "sun, Of". En "full of the faith that the dark past has" baja a un Si grave en los dos "the" y en "has"; canta ligeras esas notas rápidas. El verso siguiente termina con un salto de casi una octava, del Do de "has" al Si de "brought", y luego un Do largo en "us"; toma aire a fondo al empezar el verso.
 - [Contralto](/songs/lift-every-voice/alto): cantas por debajo de la melodía, sobre todo en Si, Mi y Re. En "Sing a song full of the faith that the dark past has" sostienes un mismo Si en cada sílaba, y en el verso siguiente bajas medio tono a Si bemol. Tu nota más alta, Sol sostenido, llega en "rise, High" y en "sun, Of", una sexta por debajo de la melodía.
-- [Tenor](/songs/lift-every-voice/tenor): cantas en el centro de los acordes, sobre todo en Sol, La y Si, y subes hasta Re en "loud" y en "till". En los dos versos de "Sing a song" sostienes un Sol firme mientras la melodía se mueve por encima; ponlo en solo en el reproductor.
-- [Bajo](/songs/lift-every-voice/bass): cantas la línea del bajo, sobre todo Sol, Re y Mi. Sostienes un Sol grave en los dos versos de "Sing a song full of", la base bajo el centro de la canción, y vuelves a caer en el Sol grave en "sea" y en "won".
+- [Tenor](/songs/lift-every-voice/tenor): cantas en el centro de los acordes, sobre todo en Sol, La y Si, y subes hasta Re en "loud" y en "till". En los dos versos de "Sing a song" te quedas en el Sol, una nota por sílaba, y solo lo dejas en "taught us" y en el último "us", mientras la melodía se mueve por encima; ponlo en solo en el reproductor.
+- [Bajo](/songs/lift-every-voice/bass): cantas la línea del bajo, sobre todo Sol, Re y Mi. Te quedas en un Sol grave, una nota por sílaba, en los dos versos de "Sing a song full of", y solo lo dejas en "taught us" y en el último "us": la base bajo el centro de la canción. También cantas el Sol grave en "-ing sea", justo antes, y en "is won", al final.
 
 ## Preguntas
 

@@ -111,10 +111,10 @@ Our arrangement is read from Curwen's own plate of Parry's song, as The Old Coun
 
 ## Singing it
 
-- [Soprano](/songs/jerusalem/soprano): you carry Parry's broad tune, from the low B on "green?" up to the top E on "Jerusalem". The first and third lines start with the same climb, D, F-sharp, A, B, on "And did those feet" and "And was the Holy". Watch the G-sharp on "pleasant" and the C natural on "clouded".
+- [Soprano](/songs/jerusalem/soprano): you carry Parry's broad tune, from the low B on "green?" up to the top E on the "-ru-" of "Jerusalem". The first and third lines start with the same climb, D, F-sharp, A, B, on "And did those feet" and "And was the Ho-". Watch the G-sharp on the "-sant" of "pleasant" and the C natural on the "cloud-" of "clouded".
 - [Alto](/songs/jerusalem/alto): you sing the words under the tune, mostly on D, B and E, from a low G on "green?" up to A on "Lamb". Under "And did the Countenance Divine" you move through D-sharp and C natural; solo it in the player.
 - [Tenor](/songs/jerusalem/tenor): you sing the words in the middle of the harmony, mostly on G and A. You sit on a low D through "England's mountains green?" and the "And" after it, and rise to D on "here".
-- [Bass](/songs/jerusalem/bass): you follow the lowest notes of Parry's accompaniment, mostly G, B and D. You go down to a low F-sharp in several lines, among them "England's", "Lamb of" and "dark Satanic", and up to A on "Countenance Divine".
+- [Bass](/songs/jerusalem/bass): you follow the lowest notes of Parry's accompaniment, mostly G, B and D. You go down to a low F-sharp in several lines, among them "England's", "Lamb of" and the "dark Sa-" of "dark Satanic", and up to A on the "-ance" of "Countenance" and the "Di-" of "Divine".
 
 ## Questions
 

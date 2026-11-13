@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió shall we gather at the river | shall we gather at the river significado | shall we gather at the river historia del himno | shall we gather at the river versículo bíblico | shall we gather at the river películas | shall we gather at the river letra
-translatedFrom: 6fcbcf3d8a96
+translatedFrom: 3ba0c5bafa43
 ---
 
 Shall We Gather at the River?, llamado Beautiful River en sus primeras impresiones conocidas, es un himno evangélico de Robert Lowry, pastor bautista de Brooklyn, que escribió su letra y su melodía en julio de 1864 [^burrage1888][^sankey1907][^canterbury-hymn]. Su primera estrofa hace una pregunta sobre el cielo, y el estribillo la responde: sí, nos reuniremos junto al río de la vida que brota del trono de Dios en el libro del Apocalipsis [^burrage1888][^brightjewels1869]. Su primera impresión conocida está en Happy Voices, un libro de escuela dominical de 1865 [^happyvoices1865][^julian], y Henry Burrage e Ira D. Sankey escribieron más tarde que cuarenta mil niños de Brooklyn lo cantaron en 1865, el año después de escribirlo [^burrage1888][^sankey1907]. Hymnary.org lo registra en más de 800 himnarios [^hymnary-text], y el director de cine John Ford lo usó en sus películas del Oeste, donde los críticos de cine lo llaman uno de sus himnos favoritos [^afi-stagecoach][^afi-searchers][^filmsite-stagecoach][^bbcmusic][^ebert-clementine].
@@ -161,9 +161,9 @@ La Sonata para violín n.º 4 de Charles Ives, "Children's Day at the Camp Meeti
 
 ## Cómo cantarla
 
-- [Soprano](/songs/shall-we-gather/soprano): llevas la melodía de Lowry, alegre y firme; su ritmo con puntillo ("gath-er at the") le da su aire de marcha. Lo divertido es el estribillo: desde el Mi bemol grave de "God?" saltas a Do en "Yes, we'll", y luego subes a tu Mi bemol agudo en "gather at", y otra vez en "saints at".
-- [Contralto](/songs/shall-we-gather/alto): cantas sobre todo en terceras bajo la melodía. En el estribillo sostienes una sola nota, La bemol, durante "Yes, we'll gather at the" y "Gather with the saints at the", mientras la melodía salta por encima de ti. Compartes con la soprano el Mi bemol del "God?" de la estrofa y terminas en un Sol grave bajo el último "God".
-- [Tenor](/songs/shall-we-gather/tenor): cantas la letra sobre todo en Si bemol y subes a Mi bemol en "river", "forever" y "Gather with the". "Yes, we'll gather" va en Do, una sexta por debajo de la contralto, con una bajada rápida a Si becuadro en "-er"; ponlo en solo en el reproductor para afinar ese semitono.
+- [Soprano](/songs/shall-we-gather/soprano): llevas la melodía de Lowry, alegre y firme; su ritmo con puntillo ("gath-er at the") le da su aire de marcha. Lo divertido es el estribillo: desde el Mi bemol grave de "God?" saltas a Do en "Yes, we'll", y luego subes a tu Mi bemol agudo en el "gath-" de "gather" y en "at", y otra vez en "saints at".
+- [Contralto](/songs/shall-we-gather/alto): cantas sobre todo en terceras bajo la melodía. En el estribillo te quedas en el La bemol, una nota por sílaba, durante "Yes, we'll gather at the" y "Gather with the saints at the", mientras la melodía salta por encima de ti. Compartes con la soprano el Mi bemol del "God?" de la estrofa y terminas en un Sol grave bajo el último "God".
+- [Tenor](/songs/shall-we-gather/tenor): cantas la letra sobre todo en Si bemol y subes a Mi bemol, entre otros sitios, en el primer "river", en el "-ever" de "forever" y en "Gather with the". "Yes, we'll gather" va en Do, una sexta por debajo de la contralto, con una bajada rápida a Si becuadro en "-er"; ponlo en solo en el reproductor para afinar ese semitono.
 - [Bajo](/songs/shall-we-gather/bass): cantas las fundamentales con solo tres notas: Mi bemol, Si bemol y La bemol. Todo el primer verso va en Mi bemol, y todo el segundo, en el Si bemol grave. En el estribillo empiezas arriba, en La bemol, para "Yes, we'll gather" y "Gather with the saints".
 
 ## Preguntas

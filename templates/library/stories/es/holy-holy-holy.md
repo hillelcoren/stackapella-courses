@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: santo santo santo himno historia | quién escribió santo santo santo señor omnipotente | quién escribió holy holy holy | quién compuso la música de holy holy holy | holy holy holy himno significado | el que era el que es y el que ha de venir significado
-translatedFrom: 0b71c20f472c
+translatedFrom: 11c67c21514f
 listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5485-holy-holy-holy || National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119201-holy-holy-holy
 ---
 
@@ -127,9 +127,9 @@ Como el segundo verso empieza "Early in the morning" (de madrugada), algunos him
 
 ## Cómo cantarla
 
-- [Soprano](/songs/holy-holy-holy/soprano): llevas la melodía de Dykes. Empieza subiendo por el acorde de tónica, Mi, Sol sostenido y Si, en "Holy, holy, holy", dos notas por palabra. Llega a su Mi agudo en la primera sílaba de "morning" y en "God", dentro de "God in Three Persons", y termina, de vuelta en la nota base, en el Mi grave del último "Trinity".
+- [Soprano](/songs/holy-holy-holy/soprano): llevas la melodía de Dykes. Empieza subiendo por el acorde de tónica, Mi, Sol sostenido y Si, en "Holy, holy, holy", dos notas por palabra. Llega a su Mi agudo en la primera sílaba de "morning" y en "God", dentro de "God in Three Persons", y termina, de vuelta en la nota base, en el Mi grave del "-ity" de "Trinity".
 - [Contralto](/songs/holy-holy-holy/alto): empiezas por encima de la melodía, en Sol sostenido, en el primer "Holy" de los versos uno y tres, luego cruzas por debajo y terminas otra vez por encima al final de "Trinity". Casi todo el tiempo cantas una tercera o una sexta por debajo de la melodía, sobre todo en Sol sostenido y Re sostenido. El La sostenido de "rise" es tu única nota fuera de la tonalidad; ponla en solo en el reproductor para afinarla.
-- [Tenor](/songs/holy-holy-holy/tenor): rellenas el centro del acorde, casi siempre en Si, y después en Do sostenido. En "God in Three Persons" empiezas en Mi, la nota más aguda de tu voz, y bajas por grados conjuntos pasando por Re becuadro en "Three", una nota fuera de la tonalidad, hasta Do sostenido y Si.
+- [Tenor](/songs/holy-holy-holy/tenor): rellenas el centro del acorde, con más frecuencia en Si, y después en Do sostenido. En "God in Three Persons" empiezas en Mi, la nota más aguda de tu voz, y bajas por grados conjuntos pasando por Re becuadro en "Three", una nota fuera de la tonalidad, hasta Do sostenido y Si.
 - [Bajo](/songs/holy-holy-holy/bass): cantas el bajo de Dykes, con tres pasajes más fáciles, casi siempre en las fundamentales, Mi, La y Si. Subes a tu La agudo en "Lord God Al-" y en "merciful and". Bajo "God in Three Persons" bajas de Do sostenido a tu nota más grave, Sol sostenido, en "in Three".
 
 ## Preguntas

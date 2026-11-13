@@ -110,7 +110,7 @@ Because line 2 begins "Early in the morning", some hymnals rewrote it so the hym
 
 ## Singing it
 
-- [Soprano](/songs/holy-holy-holy/soprano): you carry Dykes's tune. It opens by climbing the home chord, E, G-sharp and B, on "Holy, holy, holy", two notes to each word. It reaches its top E on the first syllable of "morning" and on "God" in "God in Three Persons", and comes home to the low E on the last "Trinity".
+- [Soprano](/songs/holy-holy-holy/soprano): you carry Dykes's tune. It opens by climbing the home chord, E, G-sharp and B, on "Holy, holy, holy", two notes to each word. It reaches its top E on the first syllable of "morning" and on "God" in "God in Three Persons", and comes home to the low E on the "-ity" of "Trinity".
 - [Alto](/songs/holy-holy-holy/alto): you begin above the tune, on G-sharp, for the first "Holy" of lines one and three, then cross beneath it, and you finish above it again on the end of "Trinity". Most of the time you sing a third or a sixth under the tune, mostly on G-sharp and D-sharp. The A-sharp on "rise" is your one note outside the key; solo it in the player to tune it.
 - [Tenor](/songs/holy-holy-holy/tenor): you fill the middle of the chord, most often on B, then C-sharp. In "God in Three Persons" you start on E, the top of your part, and step down through D natural on "Three", a note outside the key, to C-sharp and B.
 - [Bass](/songs/holy-holy-holy/bass): you sing Dykes's bass, made easier in three spots, mostly on the roots, E, A and B. You rise to your top A on "Lord God Al-" and on "merciful and". Under "God in Three Persons" you drop from C-sharp to your lowest note, G-sharp, on "in Three".

@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: jerusalem himno | jerusalem himno significado | quién compuso la música de jerusalem | dark satanic mills significado | es jerusalem el himno nacional de inglaterra | jerusalem william blake poema completo
-translatedFrom: fea07eb61f20
+translatedFrom: 16b27b34b6ba
 original: The Old Country (1917), Internet Archive | https://archive.org/details/oldcountrybookof0000erne
 ---
 
@@ -128,10 +128,10 @@ Nuestro arreglo se lee de la propia plancha de Curwen de la canción de Parry, t
 
 ## Cómo cantarla
 
-- [Soprano](/songs/jerusalem/soprano): llevas la amplia melodía de Parry, del Si grave de "green?" al Mi agudo de "Jerusalem". El primer y el tercer verso empiezan con la misma subida, Re, Fa sostenido, La, Si, en "And did those feet" y en "And was the Holy". Atención al Sol sostenido de "pleasant" y al Do becuadro de "clouded".
+- [Soprano](/songs/jerusalem/soprano): llevas la amplia melodía de Parry, del Si grave de "green?" al Mi agudo del "-ru-" de "Jerusalem". El primer y el tercer verso empiezan con la misma subida, Re, Fa sostenido, La, Si, en "And did those feet" y en "And was the Ho-". Atención al Sol sostenido del "-sant" de "pleasant" y al Do becuadro del "cloud-" de "clouded".
 - [Contralto](/songs/jerusalem/alto): cantas la letra por debajo de la melodía, sobre todo en Re, Si y Mi, desde un Sol grave en "green?" hasta La en "Lamb". Bajo "And did the Countenance Divine" pasas por Re sostenido y Do becuadro; ponlo en solo en el reproductor.
 - [Tenor](/songs/jerusalem/tenor): cantas la letra en el centro de la armonía, sobre todo en Sol y La. Te quedas en un Re grave durante "England's mountains green?" y el "And" que sigue, y subes a Re en "here".
-- [Bajo](/songs/jerusalem/bass): sigues las notas más graves del acompañamiento de Parry, sobre todo Sol, Si y Re. Bajas a un Fa sostenido grave en varios versos, entre ellos en "England's", "Lamb of" y "dark Satanic", y subes a La en "Countenance Divine".
+- [Bajo](/songs/jerusalem/bass): sigues las notas más graves del acompañamiento de Parry, sobre todo Sol, Si y Re. Bajas a un Fa sostenido grave en varios versos, entre ellos en "England's", "Lamb of" y el "dark Sa-" de "dark Satanic", y subes a La en el "-ance" de "Countenance" y en el "Di-" de "Divine".
 
 ## Preguntas
 

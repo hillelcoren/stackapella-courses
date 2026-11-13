@@ -114,10 +114,10 @@ Our arrangement is read from Rosamond Johnson's own four voice parts in the 1900
 
 ## Singing it
 
-- [Soprano](/songs/lift-every-voice/soprano): you carry Rosamond Johnson's tune. It climbs to its top E twice, on "rise, High" and on "sun, Of". In "full of the faith that the dark past has" it drops to a low B; keep those quick notes light. The next line ends with a leap of nearly an octave, from C on "has" up to B on "brought", then a held C on "us"; take a full breath at the start of the line.
+- [Soprano](/songs/lift-every-voice/soprano): you carry Rosamond Johnson's tune. It climbs to its top E twice, on "rise, High" and on "sun, Of". In "full of the faith that the dark past has" it drops to a low B on the two "the"s and on "has"; keep those quick notes light. The next line ends with a leap of nearly an octave, from C on "has" up to B on "brought", then a held C on "us"; take a full breath at the start of the line.
 - [Alto](/songs/lift-every-voice/alto): you sing under the tune, mostly on B, E and D. In "Sing a song full of the faith that the dark past has" you hold one B for every syllable, and in the next line slip down a half step to B-flat. Your top G-sharp comes on "rise, High" and "sun, Of", a sixth under the tune.
-- [Tenor](/songs/lift-every-voice/tenor): you sing in the middle of the chords, mostly on G, A and B, up to D on "loud" and "till". Through both "Sing a song" lines you hold a steady G while the tune moves above you; solo it in the player.
-- [Bass](/songs/lift-every-voice/bass): you sing the bass line, mostly G, D and E. You hold a low G through both "Sing a song full of" lines, the floor under the middle of the song, and land on low G again on "sea" and "won".
+- [Tenor](/songs/lift-every-voice/tenor): you sing in the middle of the chords, mostly on G, A and B, up to D on "loud" and "till". Through both "Sing a song" lines you stay on G, one note to each syllable, leaving it only for "taught us" and the last "us", while the tune moves above you; solo it in the player.
+- [Bass](/songs/lift-every-voice/bass): you sing the bass line, mostly G, D and E. You stay on a low G, one note to each syllable, through both "Sing a song full of" lines, leaving it only for "taught us" and the last "us": the floor under the middle of the song. You also sing low G on "-ing sea" just before them and on "is won" at the end.
 
 ## Questions
 

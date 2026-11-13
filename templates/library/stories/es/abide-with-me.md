@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: abide with me historia | quién escribió abide with me y por qué | quién compuso la música de abide with me | abide with me final de la fa cup | señor jesús la luz del sol se fue himno | abide with me significado versículo bíblico
-translatedFrom: 9034ab42fa73
+translatedFrom: aed98bcff242
 listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-119028-abide-with-me || National Jukebox, grabación de 1914 | https://archive.org/details/loc-jukebox-11743-abide-with-me
 ---
 
@@ -172,10 +172,10 @@ Julian comparó cuatro textos antiguos: el manuscrito de Lyte, la hoja de 1847, 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/abide-with-me/soprano): llevas la melodía serena de Monk, de Mi bemol hasta Do en "falls" y en "deepens", y de vuelta a Mi bemol en el último "me". Después de "Lord" sube por grados conjuntos, Fa, Sol, La becuadro, Si bemol, en "with me abide".
+- [Soprano](/songs/abide-with-me/soprano): llevas la melodía serena de Monk, de Mi bemol hasta Do en "falls" y en el "deep-" de "deepens", y de vuelta a Mi bemol en el último "me". Después de "Lord" sube por grados conjuntos, Fa, Sol, La becuadro, Si bemol, en "with me abide".
 - [Contralto](/songs/abide-with-me/alto): cantas la letra muy cerca de la melodía, por debajo, con solo cuatro notas, sobre todo Mi bemol y Re. Bajo "comforts flee" pasas por Mi becuadro hasta Fa, el único momento cromático de tu voz. Ponla en solo en el reproductor y afina bien ese Mi becuadro.
 - [Tenor](/songs/abide-with-me/tenor): cantas la letra en el centro de los acordes, sobre todo en Si bemol. Bajas a un Mi bemol grave en "fast falls" y en la "a-" de "Lord, with me abide", y subes a Do en "Lord", en "fail, and com-" y en la "a-" del último "abide".
-- [Bajo](/songs/abide-with-me/bass): cantas la línea del bajo, sobre todo Mi bemol, Si bemol y Do. Bajas a un Sol grave en "fast" y en el "-ers" de "helpers", luego subes a tu nota más aguda, La bemol, en "Help" y bajas la escala, La bemol, Sol, Fa, Mi bemol, bajo "Help of the helpless".
+- [Bajo](/songs/abide-with-me/bass): cantas la línea del bajo, sobre todo Mi bemol, Si bemol y Do. Bajas a un Sol grave en "fast" y en el "-ers" de "helpers", luego subes a tu nota más aguda, La bemol, en "Help" y bajas la escala, La bemol, Sol, Fa, Mi bemol, bajo "Help of the help-", antes de que el "-less" baje a Si bemol.
 
 ## Preguntas
 

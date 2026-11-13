@@ -178,10 +178,10 @@ Our arrangement, for 2 to 4 singers, takes Hymn 422 of The Hymnal of 1916: Winkw
 
 ## Singing it
 
-- [Soprano](/songs/now-thank-we-all-our-god/soprano): you carry Crüger's tune, mostly by step and one beat to a note. Lines 1 and 3 sit on C and lift to your top D ("all our", "things hath"), and lines 2 and 4 step down to F, held four beats on "voices" and "rejoices". Line 6 gives you the only two notes on one word, A and B natural on "blessed", then D on "on". The last line dips to your low E on "to-" before F on "day".
-- [Alto](/songs/now-thank-we-all-our-god/alto): you sing a third under the tune through lines 1 and 3, A and B-flat under its C and D, then drop to a low A held four beats under "voices" and "rejoices". Line 7 has two F-sharps, on "count-" and "of", before G on "love". You end low: A, B-flat, A on "ours to-day".
+- [Soprano](/songs/now-thank-we-all-our-god/soprano): you carry Crüger's tune, mostly by step and one beat to a note. Lines 1 and 3 sit on C and lift to your top D ("all our", "things hath"), and lines 2 and 4 step down to F, held four beats on the "-ces" of "voices" and "rejoices". Line 6 gives you the only two notes on one word, A and B natural on "blessed", then D on "on". The last line dips to your low E on "to-" before F on "day".
+- [Alto](/songs/now-thank-we-all-our-god/alto): you sing a third under the tune through lines 1 and 3, A and B-flat under its C and D, then drop to a low A held four beats on the "-ces" of "voices" and "rejoices". Line 7 has two F-sharps, on "count-" and "of", before G on "love". You end low: A, B-flat, A on "ours to-day".
 - [Tenor](/songs/now-thank-we-all-our-god/tenor): in lines 1 and 3 you move against the tune: as it rises from C to D, you step down from C to B-flat. Your top D comes on "Whom". Line 6 is the tricky one, B natural on "on", G-sharp on "our", then A on "way"; solo it in the player. You end on your lowest note, C, for "to-day".
-- [Bass](/songs/now-thank-we-all-our-god/bass): your first line leaps from F up to B-flat on "all our" and back. Lines 2 and 4 end on your low F, held four beats for "voices" and "rejoices". Line 5 has a B natural on "from", and line 7 holds F-sharp for "countless", then falls from G to the low G on "love".
+- [Bass](/songs/now-thank-we-all-our-god/bass): your first line leaps from F up to B-flat on "all our" and back. Lines 2 and 4 end on your low F, held four beats for the "-ces" of "voices" and "rejoices". Line 5 has a B natural on "from", and line 7 holds F-sharp for "countless", then falls from G to the low G on "love".
 
 ## Questions
 

@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: estoy bien con mi dios historia | alcancé salvación himno historia | quién escribió it is well with my soul y por qué | it is well with my soul historia | it is well with my soul significado | it is well with my soul versículo bíblico
-translatedFrom: 942712fdebc6
+translatedFrom: ff35e0e0339f
 listen: National Jukebox, grabación de 1906 | https://archive.org/details/loc-jukebox-422502-it-is-well-with-my-soul
 ---
 
@@ -132,9 +132,9 @@ Nuestro arreglo lee las cuatro voces de Bliss en esa página de 1876, impresa en
 ## Cómo cantarla
 
 - [Soprano](/songs/it-is-well/soprano): llevas la melodía de Bliss. Sube hasta su Re agudo en "taught me", dentro de "Thou hast taught me to say"; toma aire antes de "Whatever" para llegar holgada. En el estribillo sostienes "well" y luego "soul" en Sol mientras los demás responden por debajo: mantén firmes las notas largas y deja que las demás voces vengan a ti.
-- [Contralto](/songs/it-is-well/alto): cantas la letra casi siempre una sexta por debajo de la melodía, sobre todo en Mi. "Thou hast taught me to say" es tu momento con más color: un Do sostenido en "hast" y un Fa sostenido en "to". Pon esa frase en solo en el reproductor hasta que tengas seguras las dos notas.
-- [Tenor](/songs/it-is-well/tenor): cantas la letra sobre todo en Sol, con La y Do. Atención al Sol sostenido de "sorrows". En el estribillo respondes "It is well" y "with my soul" después de la melodía, y bajas a tu nota más grave, Mi, en ese "soul".
-- [Bajo](/songs/it-is-well/bass): cantas las notas graves de los acordes de Bliss, sobre todo Do y Sol, y bajas hasta un Sol grave bajo "attendeth my way". En el estribillo te unes a la contralto y al tenor en las respuestas, y luego las cuatro voces se juntan para el último verso.
+- [Contralto](/songs/it-is-well/alto): cantas la letra sobre todo una sexta por debajo de la melodía, ante todo en Mi. "Thou hast taught me to say" es tu momento con más color: un Do sostenido en "hast" y un Fa sostenido en "to". Pon esa frase en solo en el reproductor hasta que tengas seguras las dos notas.
+- [Tenor](/songs/it-is-well/tenor): cantas la letra sobre todo en Sol, con La y Do. Atención al Sol sostenido del "-rows" de "sorrows". En el estribillo respondes "It is well" y "with my soul" después de la melodía, y bajas a tu nota más grave, Mi, en ese "soul".
+- [Bajo](/songs/it-is-well/bass): cantas las notas graves de los acordes de Bliss, sobre todo Do y Sol, y bajas hasta un Sol grave bajo el "-eth" de "attendeth" y bajo "my". En el estribillo te unes a la contralto y al tenor en las respuestas, y luego las cuatro voces se juntan para el último verso.
 
 ## Preguntas
 
@@ -152,7 +152,7 @@ Sí. La letra de Spafford y la melodía de Bliss, VILLE DU HAVRE, se imprimieron
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Bliss. Con dos cantantes tienes la melodía y la contralto, casi siempre una sexta por debajo; con tres, añade el bajo en las notas graves de cada acorde; el tenor completa las cuatro voces. En el estribillo la melodía sostiene sus notas largas mientras las otras tres voces responden "It is well" por debajo.
+La soprano canta la melodía de Bliss. Con dos cantantes tienes la melodía y la contralto, sobre todo una sexta por debajo; con tres, añade el bajo en las notas graves de cada acorde; el tenor completa las cuatro voces. En el estribillo la melodía sostiene sus notas largas mientras las otras tres voces responden "It is well" por debajo.
 
 ## Canta después
 

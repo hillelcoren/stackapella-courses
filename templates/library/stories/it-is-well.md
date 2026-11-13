@@ -114,8 +114,8 @@ Our arrangement reads Bliss's four parts from that 1876 page, printed in D-flat 
 
 - [Soprano](/songs/it-is-well/soprano): you carry Bliss's tune. It climbs to its top D on "taught me" in "Thou hast taught me to say"; take a breath before "Whatever" so you have it. In the chorus you hold "well", then "soul", on G while the others answer beneath you: keep the long notes steady and let them come to you.
 - [Alto](/songs/it-is-well/alto): you sing the words mostly a sixth under the tune, mostly on E. "Thou hast taught me to say" is your colourful moment: a C-sharp on "hast" and an F-sharp on "to". Solo that line in the player until both are sure.
-- [Tenor](/songs/it-is-well/tenor): you sing the words mostly on G, with A and C. Watch the G-sharp on "sorrows". In the chorus you answer "It is well" and "with my soul" after the tune, stepping down to your lowest note, E, on that "soul".
-- [Bass](/songs/it-is-well/bass): you sing the low notes of Bliss's chords, mostly C and G, down to a low G under "attendeth my way". In the chorus you join the alto and tenor in the answers, then all four come together for the last line.
+- [Tenor](/songs/it-is-well/tenor): you sing the words mostly on G, with A and C. Watch the G-sharp on the "-rows" of "sorrows". In the chorus you answer "It is well" and "with my soul" after the tune, stepping down to your lowest note, E, on that "soul".
+- [Bass](/songs/it-is-well/bass): you sing the low notes of Bliss's chords, mostly C and G, down to a low G under the "-eth" of "attendeth" and "my". In the chorus you join the alto and tenor in the answers, then all four come together for the last line.
 
 ## Questions
 

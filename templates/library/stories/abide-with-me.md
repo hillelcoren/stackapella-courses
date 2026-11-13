@@ -139,10 +139,10 @@ Julian compared four early texts: Lyte's manuscript, the 1847 leaflet, the Remai
 
 ## Singing it
 
-- [Soprano](/songs/abide-with-me/soprano): you carry Monk's calm tune, from E-flat up to C on "falls" and "deepens", and back down to E-flat on the last "me". After "Lord" it climbs step by step, F, G, A natural, B-flat, on "with me abide".
+- [Soprano](/songs/abide-with-me/soprano): you carry Monk's calm tune, from E-flat up to C on "falls" and the "deep-" of "deepens", and back down to E-flat on the last "me". After "Lord" it climbs step by step, F, G, A natural, B-flat, on "with me abide".
 - [Alto](/songs/abide-with-me/alto): you sing the words close under the tune on just four notes, mostly E-flat and D. Under "comforts flee" you step through E natural to F, the part's one chromatic moment. Solo it in the player and tune that E natural.
 - [Tenor](/songs/abide-with-me/tenor): you sing the words in the middle of the chords, mostly on B-flat. You drop to a low E-flat on "fast falls" and on the "a-" of "Lord, with me abide", and rise to C on "Lord", on "fail, and com-" and on the "a-" of the last "abide".
-- [Bass](/songs/abide-with-me/bass): you sing the bass line, on E-flat, B-flat and C above all. You go down to a low G on "fast" and on the "-ers" of "helpers", then climb to your top note, A-flat, on "Help" and walk down the scale, A-flat, G, F, E-flat, under "Help of the helpless".
+- [Bass](/songs/abide-with-me/bass): you sing the bass line, on E-flat, B-flat and C above all. You go down to a low G on "fast" and on the "-ers" of "helpers", then climb to your top note, A-flat, on "Help" and walk down the scale, A-flat, G, F, E-flat, under "Help of the help-", before the "-less" drops to B-flat.
 
 ## Questions
 
