@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "the-first-noel",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 94,
+    "scotchSnaps": 0,
+    "dottedPairs": 4,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.07,
+  "climaxAt": 0.1,
+  "opening": [
+    "mi",
+    "re",
+    "do",
+    "re"
+  ],
+  "ending": [
+    "sol",
+    "fa",
+    "mi"
+  ],
+  "difficulty": {
+    "melody": 26,
+    "parts": {
+      "soprano": 26,
+      "alto": 26,
+      "tenor": 19,
+      "bass": 43
+    }
+  },
+  "kin": [
+    {
+      "id": "deep-river",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "mi",
+        "re",
+        "do",
+        "re"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
