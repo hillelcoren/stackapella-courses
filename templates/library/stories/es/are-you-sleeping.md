@@ -17,7 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: frère jacques historia | frère jacques significado | quién escribió frère jacques | frère jacques canon | martinillo canción historia | fray santiago canción significado
-translatedFrom: 58df72748132
+translatedFrom: dd06dabc7120
+original: The Gem (Filadelfia, 1911), Internet Archive | https://archive.org/details/acredse00phil
 ---
 
 Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleeping, Brother John?, es un canon: una melodía corta que los cantantes empiezan uno tras otro, de modo que suena contra sí misma [^grove-round][^gem1911]. En la letra francesa, a un fraile llamado hermano Jacques le preguntan si está dormido y le dicen que toque la campana de maitines, las oraciones de la noche [^widor1883][^academie-matines]. Su primera impresión conocida, en París en 1811, da la melodía sin ninguna letra [^cle1811][^ballad]. En 1817 un libro sobre música lo llamó el canon que todo el mundo conoce [^stendhal1817]. Un cancionero escolar de Filadelfia lo imprimió en inglés como Brother James en 1911, y la letra de Brother John ya estaba impresa en 1916 [^gem1911][^normal1916]. Gustav Mahler lo convirtió en una marcha fúnebre en tonalidad menor en su Primera Sinfonía [^sfs][^bso].

@@ -18,6 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote be thou my vision originally | who wrote the music for be thou my vision | be thou my vision original lyrics | be thou my vision traditional | be thou my vision history of hymns | be thou my vision meaning bible verse
+original: The Poem-Book of the Gael (London, 1912), Internet Archive | https://archive.org/details/poembookofgaeltr00hulluoft
 ---
 
 Be Thou My Vision is a prayer from medieval Ireland, made into an English hymn in the 20th century. Its Irish poem, "Rop tú mo baile", asks God to be everything to the one who prays: sight, thought, wisdom, father, shield and treasure [^eriu1905][^celt]. Nobody knows who wrote it [^celt][^hymnarchive]. Mary Byrne printed it with a plain English translation in 1905, and Eleanor Hull turned that into rhyming couplets in 1912 [^eriu1905][^hull1912]. The earliest known pairing of the words with their tune, SLANE, an Irish folk melody, is in the Church of Ireland's hymnal of 1919 [^hymnarchive][^methodist]. The Presbyterian churches of Scotland, Ireland, England and Wales printed it in their shared hymnal of 1927 [^rch1927][^moffatt1927].

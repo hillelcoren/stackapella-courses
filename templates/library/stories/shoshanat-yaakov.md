@@ -13,6 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shoshanat yaakov meaning | shoshanat yaakov translation | shoshanat yaakov lyrics | shoshanat yaakov text | shoshanat yaakov words | shoshanat yaakov song
+original: Baal T'fillah (Gothenburg, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
 Shoshanat Yaakov is a short Hebrew song for Purim. Once the Book of Esther has been read from its scroll and the blessing after it said, these lines follow.[^baer][^kitzur] They are the last lines of an old poem, Asher heni, with one more line from an old custom, and they gather the whole story into a few words: the Jews rejoiced when they saw Mordecai in royal blue, Hashem was their rescue then and is their hope in every generation, and Harbona, the king's servant who pointed out Haman's gallows, is remembered for good.[^vitry][^yer][^je-harbona] Our tune is the one printed by Abraham Baer, cantor of the Gothenburg synagogue in Sweden.[^baer][^hammarlund]

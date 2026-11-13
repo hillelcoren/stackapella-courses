@@ -17,6 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: frere jacques meaning | frere jacques meaning in english | frère jacques lyrics meaning | frère jacques song meaning | frere jacques dormez vous meaning | frère jacques dark meaning | frère jacques nursery rhyme meaning | frere jacques history | frere jacques song history | who wrote frere jacques | is frere jacques a canon | is frere jacques french | are you sleeping brother john meaning | are you sleeping brother john in french | frere jacques mahler symphony 1 | frere jacques minor mahler
+original: The Gem (Philadelphia, 1911), Internet Archive | https://archive.org/details/acredse00phil
 ---
 
 Frère Jacques, sung in English as Are You Sleeping? or Are You Sleeping, Brother John?, is a round: one short tune that singers begin one after another, so that it sounds against itself [^grove-round][^gem1911]. In the French words a friar called Brother Jacques is asked whether he is asleep and told to ring the bell for matins, the prayers of the night [^widor1883][^academie-matines]. Its earliest known printing, in Paris in 1811, gives the tune with no words at all [^cle1811][^ballad]. By 1817 a book on music called it the canon everyone knows [^stendhal1817]. A Philadelphia school songbook printed it in English as Brother James in 1911, and the Brother John words were in print by 1916 [^gem1911][^normal1916]. Gustav Mahler turned it into a minor-key funeral march in his First Symphony [^sfs][^bso].

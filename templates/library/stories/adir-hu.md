@@ -18,6 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adir hu meaning | adir hu translation | adir hu lyrics english | adir hu passover song | adir hu transliteration | who wrote adir hu
+original: The Union Haggadah (United States, 1923), Internet Archive | https://archive.org/details/unionhaggadahhom00unse
 ---
 
 Adir Hu is a Hebrew hymn sung at the Passover seder, the home service and festive meal on the first nights of the festival.[^je][^idel29] In the Ashkenazi rite it comes after the formal service is over, among the songs that close the evening.[^ej][^sefaria] Its verses run through the Hebrew alphabet, praising Hashem as mighty, chosen, great, holy and more, and each one ends with the same plea: build Your house, the Temple, soon.[^je][^ej][^sefaria] Unlike most seder songs, it has one tune nearly everywhere, and synagogues borrowed it to mark the festival in their own prayers.[^je][^ej]

@@ -19,8 +19,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: good king wenceslas historia | good king wenceslas significado | good king wenceslas letra significado | quién escribió good king wenceslas | villancico del rey wenceslao | san wenceslao villancico
-translatedFrom: 245707e6b801
+translatedFrom: ab4797ef25d7
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), HathiTrust | https://catalog.hathitrust.org/Record/011630024
+listen: UCSB Cylinder Audio Archive, grabación de 1921, instrumental, con campanas de iglesia, un popurrí que incluye Good King Wenceslas | https://www.library.ucsb.edu/OBJID/Cylinder12124
 ---
 
 Good King Wenceslas, que también se imprime como Good King Wenceslas Looked Out, es un villancico inglés de Navidad de John Mason Neale, que se conoce por primera vez por el libro de villancicos que hizo con Thomas Helmore en 1853 [^neale1853][^hymnarchive][^woodward]. Cuenta una leyenda: en la fiesta de San Esteban, el 26 de diciembre, un rey lleva comida, vino y leña a través de la nieve a un pobre, y su paje, muerto de frío, encuentra calor pisando en las huellas del rey [^neale1853][^ce-stephen]. El rey es Wenceslao, en checo Václav, un duque de Bohemia asesinado en 929 o 935 y hoy santo patrón de los checos [^nce][^ce][^radio2026]. Su melodía, Tempus adest floridum, es una canción latina de primavera impresa en 1582 [^pc1582][^canterbury-tempus]. En 1928, los editores del Oxford Book of Carols esperaban que dejara de cantarse; no fue así [^obc][^canterbury].

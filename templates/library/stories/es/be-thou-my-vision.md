@@ -18,7 +18,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: d8b0fc211818
+translatedFrom: f2bd6df66d09
+original: The Poem-Book of the Gael (Londres, 1912), Internet Archive | https://archive.org/details/poembookofgaeltr00hulluoft
 ---
 
 Be Thou My Vision es una oración de la Irlanda medieval convertida en himno inglés en el siglo XX. Su poema irlandés, "Rop tú mo baile", pide a Dios que lo sea todo para quien reza: vista, pensamiento, sabiduría, padre, escudo y tesoro [^eriu1905][^celt]. Nadie sabe quién lo escribió [^celt][^hymnarchive]. Mary Byrne lo publicó con una sencilla traducción inglesa en 1905, y Eleanor Hull la convirtió en pareados rimados en 1912 [^eriu1905][^hull1912]. La primera unión conocida de la letra con su melodía, SLANE, una melodía popular irlandesa, está en el himnario de la Iglesia de Irlanda de 1919 [^hymnarchive][^methodist]. Las iglesias presbiterianas de Escocia, Irlanda, Inglaterra y Gales lo imprimieron en su himnario común de 1927 [^rch1927][^moffatt1927].

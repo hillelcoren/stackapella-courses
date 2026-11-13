@@ -17,8 +17,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público | cascabel villancico origen | navidad navidad hoy es navidad origen
-translatedFrom: 76451a43572f
+translatedFrom: cb4f181fd97f
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
+listen: National Jukebox, grabación de 1916, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-18721-favorite-college-songs || National Jukebox, grabación de 1922, instrumental, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-43957-hortense
 ---
 
 Jingle Bells es una canción sobre un paseo rápido en trineo por la nieve recién caída, y su letra no menciona nunca la Navidad. James Lord Pierpont escribió la letra y la música, y Oliver Ditson & Co., de Boston, la publicó en 1857 como "The One Horse Open Sleigh", una canción con un estribillo a cuatro voces [^ditson1857]. Su primera interpretación conocida fue en un escenario de minstrel show de Boston el 15 de septiembre de 1857, cantada por un artista con la cara pintada de negro (blackface) [^hamill][^bostonia]. Antes de veinte años ya estaba en un libro de Boston de canciones universitarias estadounidenses, con el estribillo marcado "acompañado de copas que tintinean" [^carmina1876]. Solo más tarde se convirtió en canción de Navidad, y hoy es de las más conocidas [^hamill][^bostonia].

@@ -20,6 +20,7 @@ checked: 2026-11-13
 reviewed: true
 searches: good king wenceslas story | good king wenceslas meaning | good king wenceslas meaning in english | good king wenceslas lyrics meaning | good king wenceslas history | good king wenceslas carol history | good king wenceslas history of song | who wrote good king wenceslas | who originally wrote good king wenceslas | who wrote the music for good king wenceslas
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), HathiTrust | https://catalog.hathitrust.org/Record/011630024
+listen: UCSB Cylinder Audio Archive, 1921 recording, instrumental, on church bells, a medley that includes Good King Wenceslas | https://www.library.ucsb.edu/OBJID/Cylinder12124
 ---
 
 Good King Wenceslas, also printed as Good King Wenceslas Looked Out, is an English Christmas carol by John Mason Neale, first known from the carol book he made with Thomas Helmore in 1853 [^neale1853][^hymnarchive][^woodward]. It tells a legend: on St Stephen's Day, 26 December, a king carries food, wine and logs through the snow to a poor man, and his freezing page finds warmth by treading in the king's footprints [^neale1853][^ce-stephen]. The king is Wenceslas, in Czech Václav, a duke of Bohemia killed in 929 or 935 and now the Czech patron saint [^nce][^ce][^radio2026]. Its tune, Tempus adest floridum, is a Latin spring song printed in 1582 [^pc1582][^canterbury-tempus]. In 1928 the editors of the Oxford Book of Carols hoped it would fall out of use; it did not [^obc][^canterbury].

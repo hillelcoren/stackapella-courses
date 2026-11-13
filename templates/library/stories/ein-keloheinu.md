@@ -16,6 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ein keloheinu meaning | ein keloheinu translation | ein keloheinu prayer | ein keloheinu lyrics | ein keloheinu song
+original: Union Hymnal (New York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
 Ein Keloheinu, also spelled En Kelohenu, is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals; Sephardi Jews say it on weekdays as well.[^ej][^huji] Nobody knows who wrote it, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]

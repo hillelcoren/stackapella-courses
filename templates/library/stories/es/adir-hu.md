@@ -18,7 +18,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: d6781e7aed34
+translatedFrom: 2b90e3eae52d
+original: The Union Haggadah (Estados Unidos, 1923), Internet Archive | https://archive.org/details/unionhaggadahhom00unse
 ---
 
 Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminada la parte formal del séder, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes, y las sinagogas la tomaron prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]

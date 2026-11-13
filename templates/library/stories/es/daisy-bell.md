@@ -17,8 +17,9 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: daisy bell historia | daisy bell significado | quién escribió daisy bell | daisy bell letra en español | daisy bell computadora | daisy bell hal 9000
-translatedFrom: 23a469c90aee
+translatedFrom: 197830c32013
 original: Harry Dacre, Daisy Bell (T. B. Harms & Co., copyright 1892), Internet Archive | https://archive.org/details/daisybell00harr
+listen: UCSB Cylinder Audio Archive, grabación de 1894 | https://www.library.ucsb.edu/OBJID/Cylinder10477 || National Jukebox, grabación de 1915, un popurrí que incluye Daisy Bell | https://archive.org/details/loc-jukebox-13605-songs-of-the-past-no-1 || National Jukebox, grabación de 1922, un popurrí que incluye Daisy Bell | https://archive.org/details/loc-jukebox-669619-medley-of-old-timers
 ---
 
 Daisy Bell, la canción que muchos conocen como A Bicycle Built for Two (una bicicleta hecha para dos) o simplemente "Daisy, Daisy", fue escrita y compuesta por Harry Dacre y publicada en 1892 por T. B. Harms en Nueva York y por Francis, Day and Hunter en Londres [^harms1892][^powell][^loc-nrr]. Es un vals en el que un joven le pide matrimonio a Daisy: no puede permitirse un carruaje, pero ella estará preciosa en el asiento de una bicicleta tándem [^harms1892]. Su estribillo se cantaba en los music halls (los teatros de variedades) de la década de 1890 [^powell][^loc-nrr], y en 1961 unos investigadores de Bell Labs hicieron que una computadora la cantara con voz sintetizada [^loc-nrr][^ccrma][^mathews2011]. Siete años después la cantó HAL 9000, la computadora moribunda de la película 2001: Una odisea del espacio [^loc-nrr][^mathews2011].

@@ -18,6 +18,7 @@ checked: 2026-11-13
 reviewed: true
 searches: who wrote jingle bells originally | what year was jingle bells written | was jingle bells written for thanksgiving | was jingle bells a minstrel song | is jingle bells a christmas song | jingle bells history minstrel | is jingle bells public domain | jingle bells meaning origin
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
+listen: National Jukebox, 1916 recording, a medley that includes Jingle Bells | https://archive.org/details/loc-jukebox-18721-favorite-college-songs || National Jukebox, 1922 recording, instrumental, a medley that includes Jingle Bells | https://archive.org/details/loc-jukebox-43957-hortense
 ---
 
 Jingle Bells is a song about a fast sleigh ride on new snow, and its words never mention Christmas. James Lord Pierpont wrote the words and the music, and Oliver Ditson & Co. of Boston published it in 1857 as "The One Horse Open Sleigh", a song with a chorus for four voices [^ditson1857]. Its first known performance was on a Boston minstrel stage on 15 September 1857, sung by a performer in blackface [^hamill][^bostonia]. Within twenty years it was in a Boston book of American college songs, its chorus marked "accompanied by jingling glasses" [^carmina1876]. It became a Christmas song only later, and is now one of the best known [^hamill][^bostonia].
