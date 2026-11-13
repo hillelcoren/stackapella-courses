@@ -1,7 +1,7 @@
 ---
 title: Adon Olam: historia, significado y la letra explicada
 description: Adon Olam abre las oraciones de cada mañana y cierra el oficio matinal del sabbat en muchas sinagogas. Nuestra melodía antigua es de un libro de 1897.
-lead: Adon Olam, "Señor del mundo", es un himno hebreo medieval con el que muchas congregaciones cierran el oficio matinal del sabbat. Cantamos una melodía antigua armonizada a cuatro voces en la colección de Eliezer Gerovitsch, edición de 1897.
+lead: Adon Olam, "Amo del mundo", es un himno hebreo medieval con el que muchas congregaciones cierran el oficio matinal del sabbat. Cantamos una melodía antigua armonizada a cuatro voces en la colección de Eliezer Gerovitsch, edición de 1897.
 words: Himno hebreo medieval, atribuido por tradición a Solomon ibn Gabirol (siglo XI)
 tune: Tradicional, marcada como "una melodía antigua" por Eliezer Gerovitsch (1844 a 1913 o 1914), que la armonizó
 language: hebreo
@@ -14,11 +14,11 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 06e9ebba63e8
+translatedFrom: ed0dc7e5f1f9
 original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
-Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
+Adon Olam, "Amo del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
 
 ## De dónde viene
 
@@ -50,7 +50,7 @@ Su Shirei Tefilah (Sinagogen-Gesänge), cantos para la sinagoga, se imprimió en
 
 El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abrahams veía su encanto en unir las grandes doctrinas de la fe con pensamientos sencillos del corazón.[^abrahams] Aquí están los diez versos en palabras sencillas, tal como los imprime el libro de oraciones asquenazí.[^sefaria]
 
-**Verso 1 (cantado).** Señor del mundo, que fue Rey antes de que nada en absoluto fuera formado. Adon es "señor", y olam es "mundo", una palabra que también significa "para siempre". Malach es "reinó".
+**Verso 1 (cantado).** Amo del mundo, que fue Rey antes de que nada en absoluto fuera formado. Adon es "amo", y olam es "mundo", una palabra que también significa "para siempre". Malach es "reinó".
 
 **Verso 2 (cantado).** Cuando todo fue hecho por Su voluntad, entonces fue llamado Rey.
 
@@ -81,7 +81,7 @@ Estos son los diez versos tal como los imprime el libro de oraciones asquenazí,
 **Versos 1 y 2**
 > אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
 *Adon olam asher malach,*
-Señor del mundo, que fue Rey
+Amo del mundo, que fue Rey
 > בְּטֶֽרֶם כָּל יְצִיר נִבְרָא:
 *b'terem kol yetzir nivra.*
 antes de que nada en absoluto fuera formado.

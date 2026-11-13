@@ -1,7 +1,7 @@
 ---
 title: Adon Olam: history, meaning and the words explained
 description: Adon Olam opens the daily morning prayers and closes the Sabbath morning service in many synagogues. Our old tune is in Eliezer Gerovitsch's print of 1897.
-lead: Adon Olam, "Lord of the world", is a medieval Hebrew hymn that many congregations sing to close the Sabbath morning service. We sing an old tune from a four-part setting in Eliezer Gerovitsch's collection, in an edition of 1897.
+lead: Adon Olam, "Master of the world", is a medieval Hebrew hymn that many congregations sing to close the Sabbath morning service. We sing an old tune from a four-part setting in Eliezer Gerovitsch's collection, in an edition of 1897.
 words: Medieval Hebrew hymn, traditionally credited to Solomon ibn Gabirol (11th century)
 tune: Traditional, marked "an old tune" by Eliezer Gerovitsch (1844 to 1913 or 1914), who harmonised it
 language: Hebrew
@@ -17,7 +17,7 @@ searches: adon olam meaning | adon olam meaning in english | who wrote adon olam
 original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
-Adon Olam, "Lord of the world", is a Hebrew hymn about Hashem, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into Hashem's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
+Adon Olam, "Master of the world", is a Hebrew hymn about Hashem, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into Hashem's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
 
 ## Where it comes from
 
@@ -49,7 +49,7 @@ His Shirei Tefilah (Sinagogen-Gesänge), songs for the synagogue, was printed in
 
 The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw its charm in joining the faith's great doctrines to simple thoughts of the heart.[^abrahams] Here is each of the ten lines in plain words, as the Ashkenazi prayer book prints them.[^sefaria]
 
-**Line 1 (sung).** Lord of the world, who was King before anything at all was formed. Adon is "lord", and olam is "world", a word that also means "forever". Malach is "reigned".
+**Line 1 (sung).** Master of the world, who was King before anything at all was formed. Adon is "master", and olam is "world", a word that also means "forever". Malach is "reigned".
 
 **Line 2 (sung).** When everything was made by His will, then He was called King.
 
@@ -80,7 +80,7 @@ These are the ten lines as the Ashkenazi prayer book prints them, in the Hebrew 
 **Lines 1 and 2**
 > אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
 *Adon olam asher malach,*
-Lord of the world, who was King
+Master of the world, who was King
 > בְּטֶֽרֶם כָּל יְצִיר נִבְרָא:
 *b'terem kol yetzir nivra.*
 before anything at all was formed.

@@ -3,7 +3,7 @@
 Usage: python3 tools/divine_names_check.py [content dir, default: this repo]
 
 Rule (Hillel): on Jewish song pages a full divine name never appears, in Hebrew script or in transliteration, in any
-language. We write and sing only the substituted forms (Kel, Keli, Elokeinu, Elokim, Adoshem, Shakai, Hashem, ה').
+language. We write and sing only the substituted forms (Kel, Keli, Elokeinu, Elokim, Adoshem, Shakai, Hashem, ה'), and our own words never use God, Lord, Almighty, Dios, Señor or Todopoderoso as a title for the Name (quotations, book titles and source lines aside).
 Jewish songs are the song files whose language is Hebrew or Yiddish. For each one this checks its song file, its
 stories (en and es), its meaning file, its course file (every language in it) and its course facts.
 """
@@ -28,6 +28,10 @@ URL = re.compile(r"https?://\S+")
 EL = re.compile(r"\b(El|Eli)\b")
 EL_ES = re.compile(r"(?:[a-záéíóúñü]|,) (El|Eli)\b")
 EL_ALLOWED = ('Eli Ziyyon', 'Eli Tziyon', 'Eli Zion', 'El Paso')
+# Titles standing for the Name in our own words (Hillel: our English says Hashem, never God or Lord; our Spanish never
+# Dios or Señor). Arranger, 2026-11-14: "our Lord" and "Lord of the world" slipped into two Abouts.
+TITLE_EN = re.compile(r"\b(God|Lord|LORD|Almighty)\b")
+TITLE_ES = re.compile(r"\b(Dios|Señor|Todopoderoso)\b")
 # Hebrew script: compare with vowels and cantillation removed, whole words.
 HEB_POINTS = re.compile('[֑-ׇ]')
 HEB_FULL = {'יהוה', 'אלהים', 'אלוהים', 'אלהינו', 'אלוהינו', 'אלהי', 'אלוהי', 'אלהיך', 'אלוהיך', 'אדני', 'שדי', 'צבאות'}
@@ -47,6 +51,12 @@ def hits(text, english):
         if HEB_POINTS.sub('', w) in HEB_FULL:
             found.append(w)
     found += [m.group(0) for m in HEB_EL.finditer(text)]
+    # titles: our own words only, so quoted titles and quotations, italic book titles and a footnote's source line are
+    # left out; "Almighty Hashem" (our substitution) and Lord Byron are fine
+    own = re.sub(r'"[^"]*"|“[^”]*”|\*[^*]+\*', '', text)
+    if not own.lstrip().startswith(('- [^', 'alsoKnownAs:')):  # a source line, or names others call it by
+        own = own.replace('Almighty Hashem', '').replace('Lord Byron', '').replace('Todopoderoso Hashem', '')
+        found += [m.group(0) for m in (TITLE_EN if english else TITLE_ES).finditer(own)]
     return found
 
 

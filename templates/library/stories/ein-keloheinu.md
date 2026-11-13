@@ -20,7 +20,7 @@ searches: ein keloheinu meaning | ein keloheinu translation | ein keloheinu pray
 original: Union Hymnal (New York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
-Ein Keloheinu, also spelled En Kelohenu, is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals, though Ashkenazi prayer books for Israel print it on weekdays too; Sephardi Jews say it on weekdays as well.[^ej][^huji][^sefaria] Nobody knows who wrote it or when, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
+Ein Keloheinu, also spelled En Kelohenu, is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Master, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals, though Ashkenazi prayer books for Israel print it on weekdays too; Sephardi Jews say it on weekdays as well.[^ej][^huji][^sefaria] Nobody knows who wrote it or when, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
 
 ## Where it comes from
 
@@ -52,23 +52,23 @@ From Germany the tune crossed to America. The Union Hymnal of the Central Confer
 
 ## What the words mean
 
-The hymn is built from four titles. Each verse runs through the same four titles, Elokeinu, Hashem; Adoneinu, our Lord; Malkeinu, our King; Moshienu, our Saviour, and changes only the word in front.[^je][^mjl]
+The hymn is built from four titles. Each verse runs through the same four titles, Elokeinu, Hashem; Adoneinu, our Master; Malkeinu, our King; Moshienu, our Saviour, and changes only the word in front.[^je][^mjl]
 
-**Verse 1.** There is none like Hashem, none like our Lord, none like our King, none like our Saviour. Ke- means "like".
+**Verse 1.** There is none like Hashem, none like our Master, none like our King, none like our Saviour. Ke- means "like".
 
-**Verse 2.** Who is like Hashem, our Lord, our King, our Saviour? The question comes after its answer; in Amram's day, as the Jewish Encyclopedia reads it, the question came first.[^je]
+**Verse 2.** Who is like Hashem, our Master, our King, our Saviour? The question comes after its answer; in Amram's day, as the Jewish Encyclopedia reads it, the question came first.[^je]
 
-**Verse 3.** We give thanks to Hashem, our Lord, our King, our Saviour. Node means "we thank".
+**Verse 3.** We give thanks to Hashem, our Master, our King, our Saviour. Node means "we thank".
 
-**Verse 4.** Blessed is Hashem, our Lord, our King, our Saviour.
+**Verse 4.** Blessed is Hashem, our Master, our King, our Saviour.
 
-**Verse 5.** You are Hashem, our Lord, our King, our Saviour. The hymn ends by speaking to Hashem directly. In the Ashkenazi prayer book a further line follows, recalling the incense the ancestors offered, which leads into the passage on the Temple incense read next.[^je][^posen]
+**Verse 5.** You are Hashem, our Master, our King, our Saviour. The hymn ends by speaking to Hashem directly. In the Ashkenazi prayer book a further line follows, recalling the incense the ancestors offered, which leads into the passage on the Temple incense read next.[^je][^posen]
 
 The page shows our words in modern Israeli pronunciation. The 1897 hymnal spelled them the Ashkenazi way, "En Kelohenu", "Boruch", "Atto hu", with the same syllables under the same notes.[^uh1897] We sing it with the substituted names customary when singing outside prayer, Kelokeinu and Elokeinu: it is the custom not to say Hashem's name in full outside prayer, and a practice song is outside prayer. The title keeps the spelling the prayer is known by.
 
 ### The full words
 
-These are the five verses and the line that follows them as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria; some editions add Hashem's name to that last line.[^sefaria] It prints adonenu, "our Lord", where we sing adoneinu, another spelling of the same word, and the transliteration uses the substituted names we sing.
+These are the five verses and the line that follows them as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria; some editions add Hashem's name to that last line.[^sefaria] It prints adonenu, "our Master", where we sing adoneinu, another spelling of the same word, and the transliteration uses the substituted names we sing.
 
 **Verse 1**
 > אֵין כֵּאלֹקֵינוּ.
@@ -76,7 +76,7 @@ These are the five verses and the line that follows them as the Ashkenazi prayer
 There is none like Hashem,
 > אֵין כַּאדוֹנֵנוּ.
 *ein kadonenu,*
-none like our Lord,
+none like our Master,
 > אֵין כְּמַלְכֵּנוּ.
 *ein kemalkenu,*
 none like our King,
@@ -90,7 +90,7 @@ none like our Saviour.
 Who is like Hashem?
 > מִי כַאדוֹנֵנוּ.
 *mi chadonenu,*
-Who is like our Lord?
+Who is like our Master?
 > מִי כְמַלְכֵּנוּ.
 *mi chemalkenu,*
 Who is like our King?
@@ -104,7 +104,7 @@ Who is like our Saviour?
 We give thanks to Hashem,
 > נוֹדֶה לַאדוֹנֵנוּ.
 *node ladonenu,*
-we give thanks to our Lord,
+we give thanks to our Master,
 > נוֹדֶה לְמַלְכֵּנוּ.
 *node lemalkenu,*
 we give thanks to our King,
@@ -118,7 +118,7 @@ we give thanks to our Saviour.
 Blessed is Hashem,
 > בָּרוּךְ אֲדוֹנֵנוּ.
 *baruch adonenu,*
-blessed is our Lord,
+blessed is our Master,
 > בָּרוּךְ מַלְכֵּנוּ.
 *baruch malkenu,*
 blessed is our King,
@@ -132,7 +132,7 @@ blessed is our Saviour.
 You are Hashem,
 > אַתָּה הוּא אֲדוֹנֵנוּ.
 *ata hu adonenu,*
-You are our Lord,
+You are our Master,
 > אַתָּה הוּא מַלְכֵּנוּ.
 *ata hu malkenu,*
 You are our King,
@@ -180,7 +180,7 @@ Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it i
 
 ### What does Ein Keloheinu mean?
 
-"There is none like Hashem." The hymn's five verses say there is none like Hashem, our Lord, our King, our Saviour; ask who is like Hashem; give thanks to Hashem; bless Hashem; and end, "You are Hashem". The first letters of the first three verses spell Amen.[^je][^ej][^mjl]
+"There is none like Hashem." The hymn's five verses say there is none like Hashem, our Master, our King, our Saviour; ask who is like Hashem; give thanks to Hashem; bless Hashem; and end, "You are Hashem". The first letters of the first three verses spell Amen.[^je][^ej][^mjl]
 
 ### Who wrote Ein Keloheinu?
 

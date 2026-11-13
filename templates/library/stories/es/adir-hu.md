@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adir hu significado | adir hu traducción | adir hu letra en español | adir hu canción de pésaj | adir hu transliteración | quién escribió adir hu
-translatedFrom: d82a7186fd76
+translatedFrom: 2a2b5b0bd25f
 original: The Union Haggadah (Estados Unidos, 1923), Internet Archive | https://archive.org/details/unionhaggadahhom00unse
 ---
 
@@ -164,7 +164,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
 > רַחוּם הוּא, שַׁקַּי הוּא, תַּקִּיף הוּא
 *Rachum hu, Shakai hu, takif hu,*
-Él es compasivo, Él es el Todopoderoso, Él es potente,
+Él es compasivo, Él es todopoderoso, Él es potente,
 > יִבְנֶה בֵיתוֹ בְּקָרוֹב.
 *yivne veito bekarov.*
 que construya pronto Su casa.

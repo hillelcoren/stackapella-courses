@@ -163,7 +163,7 @@ Hashem, build, Hashem, build, build Your house soon.
 
 > רַחוּם הוּא, שַׁקַּי הוּא, תַּקִּיף הוּא
 *Rachum hu, Shakai hu, takif hu,*
-He is compassionate, He is the Almighty, He is powerful,
+He is compassionate, He is all-powerful, He is mighty,
 > יִבְנֶה בֵיתוֹ בְּקָרוֹב.
 *yivne veito bekarov.*
 may He build His house soon.
