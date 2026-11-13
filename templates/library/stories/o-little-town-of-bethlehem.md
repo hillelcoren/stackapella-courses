@@ -20,13 +20,18 @@ checked: 2026-11-13
 reviewed: true
 searches: who wrote o little town of bethlehem | who wrote the music for o little town of bethlehem | what year was o little town of bethlehem written | o little town of bethlehem history | o little town of bethlehem meaning | o little town of bethlehem lyrics meaning | o little town of bethlehem tune st louis | o little town of bethlehem tune forest green | o little town of bethlehem two tunes | what key is o little town of bethlehem in
 original: The Church Porch, New York, 1874, No. 43, Internet Archive | https://archive.org/details/churchporchservi00hunt/page/n112
+listen: Internet Archive, 1916 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-19923-oh-little-town-of-bethlehem
 ---
 
 O Little Town of Bethlehem is a Christmas carol by Phillips Brooks, an Episcopal priest, written in 1868 for the Sunday school of his church in Philadelphia [^benson1903][^allen1900][^julian]. He had spent Christmas Eve of 1865 in Bethlehem, at the Church of the Nativity [^lot1893][^canterbury]. His organist, Lewis H. Redner, wrote its tune for the children's Christmas service, and another editor named it ST. LOUIS in 1874 [^benson1903][^churchporch1874]. British and Irish books such as the Church of Scotland's Church Hymnary set it instead to FOREST GREEN, an English folk tune that Ralph Vaughan Williams set to the words in The English Hymnal of 1906 [^eh1906][^ch4][^iph2004].
 
+![[1]]
+
 ## Where it comes from
 
 **Bethlehem, 1865.** In August 1865 Phillips Brooks, the rector of the Church of the Holy Trinity in Philadelphia, left for a year abroad [^allen1900][^lot1893][^benson1903]. On Sunday, 24 December, he rode from Jerusalem to Bethlehem [^lot1893]. Writing home on 30 December, he described a good-looking town on a ridge among terraced gardens, and a ride before dark to the field "where they say the shepherds saw the star" [^lot1893]. The service in the Church of the Nativity ran from about ten at night to three in the morning, and he found it long and tiring [^lot1893][^canterbury]. Julian's Dictionary of Hymnology (1907) puts the visit at Christmas 1866, but Brooks's letter is dated 1865 [^julian][^lot1893].
+
+![[2]]
 
 Two months later it looked different. Writing from Rome on 19 February 1866 to his Sunday-school children, he remembered standing "close to the spot where Jesus was born" while the church rang "hour after hour" with hymns, and hearing in them the voices of home [^lot1893][^allen1900].
 
@@ -36,7 +41,11 @@ Two months later it looked different. Writing from Rome on 19 February 1866 to h
 
 **In print.** Benson wrote that the carol was printed for the Sunday school's Christmas programme of 1868, its earliest known printing [^benson1903][^allen1900], and Redner remembered a Philadelphia bookseller, Richard McCauley, printing it on leaflets for sale [^benson1903][^hymnarchive]. Its earliest known printing in a book came in 1870, in the Sunday School Service and Hymn Book of the Episcopal Diocese of Ohio [^ohio1870][^hymnarchive]. There it is No. 63, under "Christmas Eve", with five stanzas and no author's name. It has no music of its own, only a line sending singers to two other books for a tune [^ohio1870].
 
+![[3]]
+
 In 1874 William Reed Huntington, rector of All Saints' Church in Worcester, Massachusetts, printed words and tune together in his Sunday-school book The Church Porch [^benson1903][^churchporch1874]. Redner said it was Huntington who named the tune ST. LOUIS [^benson1903][^hymnarchive]. In 1892 the carol entered the official hymnal of Brooks's own church, the Episcopal Church's Hymnal of 1892, where it is No. 58 [^benson1903][^hrgc1892]. Brooks, Bishop of Massachusetts from 1891, died on 23 January 1893 [^benson1903][^hymnarchive-brooks].
+
+![[4]]
 
 **The other tune.** In December 1903 Ralph Vaughan Williams noted down a folk tune from a singer named Mr. Garman at Forest Green, in Surrey. The Journal of the Folk-Song Society printed it in 1906 as "The Ploughboy's Dream" [^jfss1906][^hymnarchive]. That year Vaughan Williams, the musical editor of The English Hymnal, set Brooks's words to it as No. 15, named FOREST GREEN and credited as an "English Traditional Melody" [^eh1906][^hymnarchive].
 

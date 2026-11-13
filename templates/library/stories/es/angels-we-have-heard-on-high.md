@@ -19,8 +19,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: angels we have heard on high historia | angels we have heard on high significado | quién escribió angels we have heard on high | angels we have heard on high letra traducida | gloria in excelsis deo significado | les anges dans nos campagnes historia
-translatedFrom: 421961857893
+translatedFrom: 6762bdc59cff
 original: The Holy Family Hymns (Londres, 1860), página 12, la versión inglesa de Chadwick | https://archive.org/details/TheHolyFamilyHymns1860/page/n31/mode/1up
+listen: Internet Archive, grabación de 1906, en francés (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-124033-les-anges-dans-nos-campagnes
 ---
 
 Angels We Have Heard on High es un villancico francés, Les anges dans nos campagnes, "Los ángeles en nuestros campos", que se canta en inglés con su estribillo en latín: Gloria in excelsis Deo, "gloria a Dios en las alturas", las palabras de los ángeles a los pastores en el Evangelio de Lucas [^lamb1842][^hutchins][^vulgate-org]. Su letra francesa ya estaba impresa en Marsella en 1805, y letra y melodía juntas en París en 1842 [^roche1805][^lamb1842][^ha]. La versión inglesa nació con James Chadwick, sacerdote y más tarde obispo católico de Hexham y Newcastle, en un himnario de Londres de 1860 [^hfh1860][^julian-chadwick][^ce-chadwick]. Los editores de himnarios atribuyen su popularidad al estribillo: la primera sílaba, "Glo", baja a lo largo de tres compases de notas descendentes antes de que la palabra termine [^psh][^lamb1842][^hfh1860].
@@ -31,7 +32,11 @@ Angels We Have Heard on High es un villancico francés, Les anges dans nos campa
 
 **La melodía, y el villancico que conocemos.** En París, en 1842, un libro de cantos religiosos con melodías nuevas, Choix de cantiques sur des airs nouveaux, arreglado para tres o cuatro voces con órgano o piano por el músico jesuita Louis Lambillotte, imprimió el villancico como n.º 3 [^lamb1842][^sibley1867][^ha]. Allí se titula L'écho des montagnes de Béthléem, "El eco de las montañas de Belén", "Noël languedocien", un villancico del Languedoc, y da la música como "Musique de W. M." [^lamb1842][^sibley1867]. No se sabe quién era W. M. [^ha]. Es la primera impresión conocida de la melodía y del comienzo "Les Anges, dans nos campagnes" [^lamb1842][^sommervogel].
 
+![[1]]
+
 **La versión inglesa de Chadwick.** James Chadwick, nacido en Drogheda, Irlanda, en 1813, era un sacerdote que enseñaba en el Ushaw College, cerca de Durham [^julian-chadwick][^ce-chadwick]. En 1860, Richardson and Son, de Londres, publicó The Holy Family Hymns, para la Sociedad de la Sagrada Familia, con la aprobación del cardenal Wiseman [^hfh1860]. Su índice atribuye el n.º 9, "Christmas Hymn", a "Rev. J. Chadwick" [^hfh1860][^julian]. Empieza "The Angels we have heard on high, Most sweetly singing o'er our plains", con una sílaba de más al principio de cada verso, y su libro de música acompañante lo pone con la melodía francesa y añade una nota de anacrusa para llevar esa sílaba [^hfh1860][^ha]. Chadwick llegó a ser obispo en 1866 y murió en 1882 [^julian-chadwick][^ce-chadwick].
+
+![[2]]
 
 **La forma que cantamos.** En 1862, The Crown of Jesus, un devocionario católico impreso en Londres, dio el himno como "Angels we have heard on high, Sweetly singing o'er our plains", en versos más cortos que encajan en la melodía sin la nota de más [^julian][^ha][^crown]. El libro no nombra a ningún editor (los catálogos de bibliotecas dan como sus compiladores a R. R. Suffield y C. F. R. Palmer), y no se sabe quién rehízo el himno; esa revisión también cambió la cuarta estrofa [^ha][^crown][^canterbury-crown]. Algunos manuales de himnarios atribuyen el cambio al organista de Newcastle Henri Hemy, en un Crown of Jesus Music fechado en 1862, pero la música de Hemy para el libro salió en 1864, dos años después de la letra [^psh][^canterbury-hemy][^ha].
 
@@ -244,6 +249,8 @@ La carrera es la misma en las impresiones de 1842, 1860 y 1916: "Glo" empieza en
 En los himnarios, la melodía se llama GLORIA, y su métrica es 7.7.7.7 con el estribillo [^psh][^hymnary]. Muchos himnarios imprimen la armonía que Edward Shippen Barnes (1887 a 1958), un organista estadounidense, hizo para The New Church Hymnal de 1937, con el Gloria cantado dos veces [^ha][^psh][^canterbury-barnes]. Esa armonía retoma, nota por nota, una armonía a cuatro voces más antigua que Charles L. Hutchins (1838 a 1920) imprimió en Boston en 1891, en The Parish Choir, el semanario que dirigía, y repitió en Carols Old and Carols New en 1916; Hutchins tiene un solo Gloria, y Barnes añadió el segundo [^ha][^parishchoir1891][^hutchins].
 
 Nuestro arreglo toma la melodía y la letra del villancico 181 de Carols Old and Carols New, que lo imprime a cuatro voces en Fa, y lo canta un tono más arriba, en Sol: las estrofas 1 a 3, cada una seguida del estribillo una vez, como lo imprime el libro [^hutchins]. La soprano canta esa melodía, y la contralto, el tenor y el bajo son nuestros, comprobados con los acordes del arreglo a cuatro voces sin firma del libro, para 2 a 4 cantantes (soprano y contralto, luego el bajo, luego el tenor).
+
+![[3]]
 
 ## ¿Sabías que...?
 

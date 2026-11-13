@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the holly and the ivy significado | the holly and the ivy historia | quién escribió the holly and the ivy | the holly and the ivy letra en español | the holly and the ivy es pagana | el acebo y la hiedra villancico
-translatedFrom: 87b573c8eda9
+translatedFrom: 7695be1c247a
 original: Cecil J. Sharp, English Folk-Carols (1911), n.º VII, p. 17, Internet Archive | https://archive.org/details/englishfolkcarol00shar/page/n34/mode/2up
 ---
 
@@ -27,6 +27,8 @@ The Holly and the Ivy (el acebo y la hiedra), también impreso como The Holly & 
 ## De dónde viene
 
 **El acebo y la hiedra antes del villancico.** El Survey of London de John Stow recuerda que "para la fiesta de Navidad, la casa de cada hombre, y también las iglesias parroquiales, se adornaban con holm, hiedra y laurel"; "holm" es un nombre antiguo y dialectal del acebo [^stow][^sylvester1861][^webster1913][^collins]. Las canciones de finales de la Edad Media hacían rivales a las dos plantas. En una, "Holver and Heivy made a grete party"; en otra, del libro de apuntes de Richard Hill, un londinense de principios del siglo XVI, el estribillo le dice a la hiedra "Nay, nay, Ivy! It may not be, iwis" (no, no, hiedra, no puede ser, en verdad), "For Holly must have the mastry" (porque el acebo ha de llevarse el dominio) [^chambers1907][^balliol][^sevensages][^dyboski]. En la canción de Hill, el acebo tiene sus "mery men" (sus hombres alegres) y la hiedra sus "jentell women" (sus damas gentiles), y se ha leído el acebo como la planta de los hombres y la hiedra como la de las mujeres [^chambers1907][^balladindex]. En 1779, una carta a The Gentleman's Magazine desde el este de Kent contaba que las chicas de un pueblo quemaban un "Holly Boy" (un niño de acebo) robado a los chicos, y los chicos una "Ivy Girl" (una niña de hiedra) [^gm1779][^chambers1907].
+
+![[1]]
 
 **Los pliegos de Birmingham.** Las primeras copias conocidas de la letra son pliegos sueltos, hojas impresas que se vendían por la calle. La Bodleian Library conserva dos de Birmingham [^wrighton][^bloomer][^glostrad-song]. Uno lo imprimió D. Wrighton, en el número 86 de Snow Hill, junto con Twelve Articles [^wrighton][^palmer-w]. Las fechas que le da la Bodleian son amplias, de 1812 a 1830, pero Roy Palmer, que estudió a los impresores de baladas de Birmingham, lo llama Daniel Wrighton y comprobó que imprimió baladas callejeras solo de 1811 a 1813, lo que haría de su pliego el más antiguo que se conoce [^wrighton][^glostrad-song][^palmer-w]. El otro lo imprimió T. Bloomer, que trabajó como impresor en Birmingham de 1817 a 1827, junto con "Herald Angels" [^bloomer][^palmer-a][^glostrad-song]. Otro impresor de Birmingham de la década de 1810, Henry Wadsworth, también lo imprimió; Sharp conocía su pliego, y hay un ejemplar en la colección de pliegos de Sharp, en la Vaughan Williams Memorial Library [^palmer-w][^sharp1911]. Estos pliegos imprimen seis estrofas, con la primera repetida como la última y el estribillo escrito entero después de la primera; Bloomer lo imprime solo ahí, y el pliego de Wrighton lo repite como "The rising, &c." [^wrighton][^bloomer].
 
@@ -37,6 +39,8 @@ The Holly and the Ivy (el acebo y la hiedra), también impreso como The Holly & 
 **La melodía de Mary Clayton.** Cecil Sharp (1859 a 1924) recogió canciones populares inglesas de cantantes del campo [^sutcliffe-sharp][^penn-sharp]. El 13 de enero de 1909, en Chipping Campden, una población de los Cotswolds, anotó canciones de la señora Mary Anne Clayton, que entonces tenía unos 64 años y vivía en Sheep Street [^fees1988][^glostrad-clayton][^sutcliffe-clayton]. Una era The Holly and the Ivy, un villancico del que recordaba tres estrofas [^fees1988][^glostrad-clayton][^sutcliffe-clayton].
 
 **English Folk-Carols, 1911.** Sharp lo imprimió como n.º VII del libro, en las páginas 17 y 18, para voz y piano, en Sol y en 3/4, con la indicación Andante moderato; su índice lo da como de Gloucestershire, y su nota lo encabeza con "Cantado por la señora Mary Clayton, en Chipping Campden" [^sharp1911][^glostrad-song]. Su nota explica que completó la letra de ella con otra versión "que me recitó la difunta señora Wyatt, de East Harptree, Somerset" [^sharp1911][^sutcliffe-clayton]. Cambió un solo verso, en la segunda estrofa, donde el verso de la señora Wyatt le pareció "obviamente incorrecto": en su lugar imprimió "la versión habitual de los pliegos", "To be our sweet Saviour" [^sharp1911][^bloomer]. La letra de Sharp difiere de la de los pliegos: tiene "When they are both full grown" donde los pliegos dicen "Now are both well grown", y "For to do us sinners good" en lugar de "To do poor sinners good" [^sharp1911][^wrighton][^bloomer]. Las notas de Gloucestershire Traditions señalan que la melodía de la señora Clayton es poco común: la mayoría de las versiones recogidas de cantantes están en 6/8, y la suya en 3/4 [^glostrad-song].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que The Holly and the Ivy es un villancico medieval, o una canción pagana a la que se le dio letra cristiana. Lo que muestran los documentos: no se conoce ninguna copia de esta letra anterior a los pliegos de Birmingham [^glostrad-song][^palmer-w], y el villancico no está en The Early English Carols de Richard Leighton Greene [^canterbury]. Las canciones medievales del acebo y la hiedra son poemas distintos [^chambers1907], y la letra del villancico es cristiana de principio a fin [^sharp1911][^wrighton].
 
@@ -56,6 +60,8 @@ The Holly and the Ivy (el acebo y la hiedra), también impreso como The Holly & 
 **El estribillo.** Siguen cuatro imágenes de una mañana de Navidad: el sol que sale, los ciervos que corren, el "merry organ", el alegre órgano, que suena en la iglesia, y el dulce canto del coro. Los primeros impresos no las explican, aunque Husk señaló que Chaucer también llamó "merry", alegre, al órgano de la iglesia [^wrighton][^sylvester1861][^husk].
 
 **Estrofa 2.** El acebo da una flor tan blanca como una azucena, y María dio a luz a Jesús "to be our sweet Saviour", para ser nuestro dulce Salvador. El acebo sí florece: da flores pequeñas, de un blanco apagado, en mayo y junio [^trees][^pfaf].
+
+![[3]]
 
 **Estrofa 3.** El acebo da una baya tan roja como la sangre, y María dio a luz a Jesús para hacer bien a los pecadores. El rojo puede leerse como la sangre de su muerte. La mayoría de los acebos son machos o hembras, y solo los que tienen flores femeninas dan bayas [^nybg][^trees][^pfaf].
 

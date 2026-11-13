@@ -24,11 +24,15 @@ original: Carols, Hymns, and Songs, New York, 1863, pp. 12 to 13, Internet Archi
 
 We Three Kings, also sung as We Three Kings of Orient Are and printed by its author as Three Kings of Orient, is an American carol for the Epiphany, the feast of the wise men, by John Henry Hopkins Jr., an Episcopal clergyman who wrote both its words and its tune [^chs1863][^sweet1894][^hymnary-text]. The earliest printing we have seen is in his own book, Carols, Hymns, and Songs, published in New York and usually dated 1863 [^chs1863][^hymnary-text]. Three of its five verses are solos, one for each king and the gift he carries: gold, frankincense and myrrh [^chs1863][^ha]. By 1894 Hopkins's biographer could write that it was known everywhere in the United States, and in England too, and the Methodist and Episcopal hymnals still print it today [^sweet1894][^umh][^eh1982].
 
+![[1]]
+
 ## Where it comes from
 
 **The writer.** John Henry Hopkins Jr. was born in Pittsburgh on 28 October 1820, the son of John Henry Hopkins, who became the Episcopal bishop of Vermont [^sweet1894][^julian][^uvm]. He graduated from the University of Vermont in 1839 and the General Theological Seminary in New York in 1850, and was ordained a deacon that year [^hymnary-person][^uvm][^sweet1894][^julian]. He then taught music at the seminary, and in 1853 founded and edited the Church Journal, a church newspaper [^sweet1894][^hymnary-person][^ha]. He was ordained priest only in 1872, after twenty-two years as a deacon, and served as rector at Plattsburgh, New York, and from 1876 at Williamsport, Pennsylvania [^sweet1894][^hymnary-person][^julian].
 
 **The carol.** Hopkins wrote the words and the tune together [^sweet1894][^ha][^hymnary-tune]. The book's third edition, of 1882, prints 1857 at the foot of the carol [^chs1882]. Hymnary.org and the United Methodist Hymnal give the same year [^hymnary-text][^umh]. Hymnology Archive found nothing written in 1857 to confirm it, and reports notices and printings of the carol from late 1858 on, before the book, which we have not seen [^ha].
+
+![[2]]
 
 **Myth and record.** Often told: Hopkins wrote it for a Christmas pageant at the General Theological Seminary [^uvm][^ha]. Another story says it was a surprise Christmas present for his nieces and nephews in Vermont [^canterbury][^uvm]. What the record shows: Sweet's life of Hopkins (1894) mentions neither a pageant nor a gift for children, and Hymnology Archive found no mention of a pageant in the Church Journal or the seminary's history, and no mention of either story in Hopkins's biographies [^sweet1894][^ha]. Neither is documented.
 
@@ -63,7 +67,11 @@ The carol retells Matthew's Gospel: "there came wise men from the east to Jerusa
 
 **Verse 3, Melchior: frankincense.** Frankincense is a fragrant resin, the incense of the next line [^webster-frankincense]. "Incense owns a Deity nigh": to own is to acknowledge, so the incense acknowledges that God is near [^webster-own]. The verse then turns to prayer and praise, as a psalm asks, "Let my prayer be set forth before thee as incense" [^kjv].
 
+![[3]]
+
 **Verse 4, Balthazar: myrrh.** Myrrh is a bitter, sweet-smelling gum resin [^webster-myrrh]. In John's Gospel, Nicodemus brings myrrh and aloes to wrap the body of Jesus for burial [^kjv]. So the myrrh "breathes", that is, gives off, a life heading into darkness: sorrow, suffering, death and a tomb sealed with a stone, as Matthew tells of the guards "sealing the stone" [^kjv].
+
+![[4]]
 
 **Verse 5.** All three sing again. The child has risen from that tomb, and the verse names him with the three gifts at once: "King, and God, and Sacrifice". It is the same reading of the gifts that the early Christian writer Origen gave: gold "as to a king", myrrh "as to one who was mortal", and incense "as to a God" [^chs1863][^origen][^ha]. Heaven sings Hallelujah and the earth answers.
 

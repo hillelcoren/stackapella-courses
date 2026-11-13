@@ -19,17 +19,21 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: we three kings significado | we three kings historia | quién escribió we three kings | we three kings of orient are significado | we three kings letra en español | villancico de los reyes magos en inglés
-translatedFrom: b66e257671b0
+translatedFrom: 3cbf247ab28d
 original: Carols, Hymns, and Songs, Nueva York, 1863, pp. 12 a 13, Internet Archive | https://archive.org/details/carolshym00hopk/page/n19/mode/1up
 ---
 
 We Three Kings, que también se canta como We Three Kings of Orient Are y que su autor imprimió como Three Kings of Orient, es un villancico estadounidense para la Epifanía, la fiesta de los Reyes Magos, de John Henry Hopkins Jr., un clérigo episcopaliano que escribió tanto la letra como la melodía [^chs1863][^sweet1894][^hymnary-text]. La impresión más antigua que hemos visto está en su propio libro, Carols, Hymns, and Songs, publicado en Nueva York y fechado por lo general en 1863 [^chs1863][^hymnary-text]. Tres de sus cinco estrofas son para un solista, una para cada rey y el regalo que lleva: oro, incienso y mirra [^chs1863][^ha]. En 1894 el biógrafo de Hopkins ya podía escribir que se conocía en todas partes en Estados Unidos, y también en Inglaterra, y los himnarios metodista y episcopaliano todavía lo imprimen hoy [^sweet1894][^umh][^eh1982].
+
+![[1]]
 
 ## De dónde viene
 
 **El autor.** John Henry Hopkins Jr. nació en Pittsburgh el 28 de octubre de 1820, hijo de John Henry Hopkins, que llegó a ser obispo episcopaliano de Vermont [^sweet1894][^julian][^uvm]. Se graduó en la Universidad de Vermont en 1839 y en el General Theological Seminary de Nueva York en 1850, y ese mismo año fue ordenado diácono [^hymnary-person][^uvm][^sweet1894][^julian]. Después enseñó música en el seminario, y en 1853 fundó y dirigió el Church Journal, un periódico de la Iglesia [^sweet1894][^hymnary-person][^ha]. No fue ordenado sacerdote hasta 1872, tras veintidós años como diácono, y fue párroco en Plattsburgh, Nueva York, y desde 1876 en Williamsport, Pensilvania [^sweet1894][^hymnary-person][^julian].
 
 **El villancico.** Hopkins escribió la letra y la melodía a la vez [^sweet1894][^ha][^hymnary-tune]. La tercera edición del libro, de 1882, imprime 1857 al pie del villancico [^chs1882]. Hymnary.org y el United Methodist Hymnal dan el mismo año [^hymnary-text][^umh]. Hymnology Archive no encontró nada escrito en 1857 que lo confirme, e informa de anuncios e impresiones del villancico desde finales de 1858, anteriores al libro, que nosotros no hemos visto [^ha].
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que Hopkins lo escribió para una representación navideña en el General Theological Seminary [^uvm][^ha]. Otra historia dice que fue un regalo de Navidad sorpresa para sus sobrinos de Vermont [^canterbury][^uvm]. Lo que muestran los documentos: la biografía de Hopkins escrita por Sweet (1894) no menciona ni una representación ni un regalo para niños, y Hymnology Archive no encontró ninguna mención de una representación en el Church Journal ni en la historia del seminario, ni de ninguna de las dos historias en las biografías de Hopkins [^sweet1894][^ha]. Ninguna de las dos está documentada.
 
@@ -64,7 +68,11 @@ El villancico vuelve a contar el Evangelio de Mateo: "unos magos vinieron del or
 
 **Estrofa 3, Melchior: incienso.** El incienso ("frankincense") es una resina aromática, el "incense" del verso siguiente [^webster-frankincense]. "Incense owns a Deity nigh": aquí "to own" es reconocer, así que el incienso reconoce que Dios está cerca [^webster-own]. Luego la estrofa pasa a la oración y la alabanza, como pide un salmo: "Sea enderezada mi oración delante de ti como un perfume" (en la versión King James, "as incense", como incienso) [^kjv].
 
+![[3]]
+
 **Estrofa 4, Balthazar: mirra.** La mirra es una gomorresina amarga y de olor agradable [^webster-myrrh]. En el Evangelio de Juan, Nicodemo lleva mirra y áloes para envolver el cuerpo de Jesús y darle sepultura [^kjv]. Así, la mirra "breathes", exhala, una vida que se adentra en la oscuridad: pena, sufrimiento, muerte y una tumba sellada con una piedra, como cuenta Mateo de los guardias, "sellando la piedra" [^kjv].
+
+![[4]]
 
 **Estrofa 5.** Cantan otra vez los tres. El niño ha resucitado de esa tumba, y la estrofa lo nombra con los tres regalos a la vez: "King, and God, and Sacrifice", Rey, Dios y Sacrificio. Es la misma lectura de los regalos que dio Orígenes, escritor cristiano de los primeros siglos: el oro "como a un rey", la mirra "como a quien era mortal" y el incienso "como a un Dios" [^chs1863][^origen][^ha]. El cielo canta aleluya y la tierra responde.
 

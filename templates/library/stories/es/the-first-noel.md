@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the first noel historia | the first noel significado | quién escribió the first noel | qué significa noel en the first noel | the first noel letra | the first nowell
-translatedFrom: e93b97ed31db
+translatedFrom: 4dffbe9a6fcd
 listen: Internet Archive, grabación de 1910 | https://archive.org/details/loc-jukebox-733500-the-first-nowell || Internet Archive, grabación de 1914 | https://archive.org/details/loc-jukebox-10792-the-first-nowell
 original: Christmas Carols, Ancient and Modern (1833), p. 74, Internet Archive | https://archive.org/details/christmascarolsa00sandrich/page/74/
 ---
@@ -32,9 +32,15 @@ The First Noel ("el primer Noel", es decir, la primera noticia de Navidad), que 
 
 **La letra en 1823.** En 1823 salió una segunda edición. Gilbert explicó que había encontrado "varios otros villancicos de la misma parte de Inglaterra", pero que "no había logrado, pese a sus mejores esfuerzos, conseguir más de las melodías antiguas" [^gilbert1823]. The First Nowel es el villancico IX, en las páginas 28 y 29, el primero de los doce villancicos nuevos [^gilbert1823][^cam-blog][^summerly]. Tiene nueve estrofas numeradas, con el estribillo impreso entero después de la primera y de la última, y sin música [^gilbert1823][^canterbury][^hymnary-text]. Gilbert escribe la palabra "Nowel", y su cuarta estrofa lleva la estrella a "Bethlehem Jury", donde "she took up her rest" (se detuvo a descansar) [^gilbert1823].
 
+![[1]]
+
 **La melodía en 1833.** William Sandys (1792 a 1874) fue un abogado y anticuario de Londres, amante de la música [^dnb-sandys][^viaf-sandys][^summerly]. Su Christmas Carols, Ancient and Modern (Londres, 1833) imprime el villancico en las páginas 74 y 75 bajo el encabezado "For Christmas Day in the Morning", con las mismas nueve estrofas, unas pocas palabras cambiadas, y con la grafía "Nowell" [^sandys1833][^hymnarchive]. Sus notas dicen que parte de su libro se eligió entre "más de cien obtenidos en distintas partes del oeste de Cornualles", algunos ya presentes en "la colección del Sr. Gilbert" [^sandys1833]. Al final del libro, entre sus dieciocho melodías, está "The First Nowell", en Re mayor y en 3/8, con una línea de bajo por debajo de la melodía [^sandys1833][^cam-blog][^summerly][^hymnarchive]. Es la primera impresión conocida de la melodía [^cam-blog][^summerly].
 
+![[2]]
+
 **Las cuatro voces de Stainer.** En 1867 Henry Ramsden Bramley, fellow del Magdalen College de Oxford, y John Stainer (1840 a 1901), organista del mismo colegio, publicaron la primera serie de Christmas Carols New and Old, veinte villancicos editados por Novello [^bs1867][^mt1867][^cam-blog][^hymnary-stainer][^h82]. Algunas obras de referencia la fechan en 1868 o en 1871, pero el anuncio de Novello del 1 de diciembre de 1867 ya incluye el n.º 6, "The first Nowell" [^mt1867][^hymnarchive][^hymnary-text]. En la reimpresión de la década de 1870 que hemos leído, The First Nowell es el n.º VI, en las páginas 12 y 13: las cuatro voces de Stainer en Re mayor y en 3/4, con seis estrofas [^bs1867][^mt1867]. Una edición ilustrada sin fecha de las dos primeras series, con grabados de los hermanos Dalziel y fechada en 1871 por el Hymnology Archive, lo mantuvo como n.º VI [^stainer-ill][^hymnarchive-carols]. La versión de Stainer fijó la forma conocida de la melodía [^cam-blog][^hymnarchive]. En 1914 el coleccionista Cecil Sharp podía llamarla simplemente la melodía "con la que se canta hoy en día (véase Bramley y Stainer, n.º 6)" [^jfss1914].
+
+![[3]]
 
 **¿De dónde salió la melodía?** Nadie lo sabe. El enigma está en su forma: repite una frase corta una y otra vez, y termina en la tercera nota de la escala en lugar de en la nota base [^jfss1915][^hymnarchive]. En 1914 Ralph Vaughan Williams escribió que siempre le había costado relacionar la melodía con la canción popular inglesa tal como él la conocía [^jfss1914][^hymnarchive]. En 1915 la estudiosa de la canción popular Annie Gilchrist contó que el verano anterior había encontrado, en los viejos libros de melodías del coro del pueblo de Orton, en Westmorland, una melodía de himno navideño cuya voz de tiple, por encima de la melodía, se parecía mucho a The First Nowell [^jfss1915][^hymnarchive]. Tomó la melodía del villancico por "una reliquia" de aquel antiguo canto a voces, una línea de armonía transmitida por los tiples en lugar de la melodía misma, y más tarde rastreó el origen de esa melodía de himno hasta el compositor Jeremiah Clarke [^jfss1915][^hymnarchive]. Sigue siendo una teoría.
 
@@ -137,6 +143,8 @@ y con Su sangre compró a la humanidad.
 ## Cómo se canta
 
 Empezó como un villancico del propio día de Navidad: Gilbert describe villancicos cantados en la iglesia el día de Navidad y en casa en Nochebuena, y Sandys lo encabeza "For Christmas Day in the Morning" (para la mañana del día de Navidad) [^gilbert1823][^sandys1833]. En 1833 Sandys escribió que en el oeste de Inglaterra, "sobre todo en las partes occidentales de Cornualles", los cantores todavía iban "de casa en casa", y en algunas iglesias parroquiales se reunían la noche de Nochebuena, "recibiendo con cantos la mañana sagrada" [^sandys1833]. Empieza con los pastores, pero la mayoría de sus estrofas siguen a los magos, así que también se canta como villancico de Epifanía [^canterbury][^hymnarchive]. Su melodía es THE FIRST NOWELL, de métrica irregular con estribillo [^hymnary-text][^h82]. The Hymnal 1982 imprime seis estrofas en el n.º 109 y nombra a Stainer en la música [^h82].
+
+![[4]]
 
 Nuestro arreglo está tomado de las cuatro voces de Stainer para el n.º VI de la primera serie, en una reimpresión de la década de 1870: en Re mayor y en 3/4, como está impreso, y empieza con una anacrusa de un tiempo [^bs1867]. Se conservan su melodía y sus acordes, con las voces graves rehechas para principiantes, una nota por sílaba. Cantamos las estrofas 1 y 2, cada una seguida del estribillo, con la letra tal como la imprime Stainer, "Nowell" y "lookèd" incluidos [^bs1867]. Es para 2 a 4 cantantes: con dos, la soprano, en la melodía, y la contralto; con tres, se añade el bajo, y el tenor completa las cuatro voces.
 

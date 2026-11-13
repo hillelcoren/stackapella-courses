@@ -19,15 +19,20 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: o little town of bethlehem historia | o little town of bethlehem significado | quién escribió o little town of bethlehem | o little town of bethlehem letra significado | o little town of bethlehem melodía st louis | o little town of bethlehem en qué tonalidad está
-translatedFrom: 7e5ee49ead2f
+translatedFrom: f4cfa96039d7
 original: The Church Porch, Nueva York, 1874, n.º 43, Internet Archive | https://archive.org/details/churchporchservi00hunt/page/n112
+listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-19923-oh-little-town-of-bethlehem
 ---
 
 O Little Town of Bethlehem es un villancico de Phillips Brooks, sacerdote episcopaliano, escrito en 1868 para la escuela dominical de su iglesia en Filadelfia [^benson1903][^allen1900][^julian]. Brooks había pasado la Nochebuena de 1865 en Belén, en la iglesia de la Natividad [^lot1893][^canterbury]. Su organista, Lewis H. Redner, escribió la melodía para el oficio de Navidad de los niños, y otro editor la llamó ST. LOUIS en 1874 [^benson1903][^churchporch1874]. Libros británicos e irlandeses, como el Church Hymnary de la Iglesia de Escocia, la cantan en cambio con FOREST GREEN, una melodía tradicional inglesa a la que Ralph Vaughan Williams puso esta letra en The English Hymnal de 1906 [^eh1906][^ch4][^iph2004].
 
+![[1]]
+
 ## De dónde viene
 
 **Belén, 1865.** En agosto de 1865, Phillips Brooks, rector de la iglesia de la Santísima Trinidad (Church of the Holy Trinity) de Filadelfia, se marchó a pasar un año en el extranjero [^allen1900][^lot1893][^benson1903]. El domingo 24 de diciembre fue a caballo de Jerusalén a Belén [^lot1893]. En una carta a casa del 30 de diciembre describió un pueblo de buen aspecto sobre una loma, entre huertos en terrazas, y un paseo a caballo, antes de que oscureciera, hasta el campo "donde dicen que los pastores vieron la estrella" [^lot1893]. El oficio en la iglesia de la Natividad duró desde las diez de la noche, más o menos, hasta las tres de la madrugada, y le pareció largo y agotador [^lot1893][^canterbury]. El Dictionary of Hymnology de Julian (1907) sitúa la visita en la Navidad de 1866, pero la carta de Brooks está fechada en 1865 [^julian][^lot1893].
+
+![[2]]
 
 Dos meses después lo veía de otra manera. Desde Roma, el 19 de febrero de 1866, escribió a los niños de su escuela dominical que recordaba estar "muy cerca del lugar donde nació Jesús" mientras la iglesia resonaba "hora tras hora" con himnos, y que en ellos oía las voces de casa [^lot1893][^allen1900].
 
@@ -37,7 +42,11 @@ Dos meses después lo veía de otra manera. Desde Roma, el 19 de febrero de 1866
 
 **Las primeras impresiones.** Benson escribió que el villancico se imprimió para el programa de Navidad de 1868 de la escuela dominical, su primera impresión conocida [^benson1903][^allen1900], y Redner recordaba que un librero de Filadelfia, Richard McCauley, lo imprimió en hojas sueltas para venderlo [^benson1903][^hymnarchive]. Su primera impresión conocida en un libro llegó en 1870, en el Sunday School Service and Hymn Book de la diócesis episcopal de Ohio [^ohio1870][^hymnarchive]. Allí es el n.º 63, bajo "Christmas Eve" (Nochebuena), con cinco estrofas y sin nombre de autor. No tiene música propia, solo una línea que remite a los cantantes a otros dos libros para la melodía [^ohio1870].
 
+![[3]]
+
 En 1874, William Reed Huntington, rector de la iglesia de Todos los Santos (All Saints' Church) de Worcester, Massachusetts, imprimió letra y melodía juntas en su libro para escuelas dominicales The Church Porch [^benson1903][^churchporch1874]. Redner dijo que fue Huntington quien llamó a la melodía ST. LOUIS [^benson1903][^hymnarchive]. En 1892 el villancico entró en el himnario oficial de la propia iglesia de Brooks, el Hymnal de 1892 de la Iglesia episcopal, donde es el n.º 58 [^benson1903][^hrgc1892]. Brooks, obispo de Massachusetts desde 1891, murió el 23 de enero de 1893 [^benson1903][^hymnarchive-brooks].
+
+![[4]]
 
 **La otra melodía.** En diciembre de 1903, Ralph Vaughan Williams anotó una melodía popular que le cantó un tal Mr. Garman en Forest Green, en Surrey. El Journal of the Folk-Song Society la imprimió en 1906 como "The Ploughboy's Dream" (el sueño del mozo de labranza) [^jfss1906][^hymnarchive]. Ese mismo año, Vaughan Williams, editor musical de The English Hymnal, le puso la letra de Brooks como n.º 15, con el nombre FOREST GREEN y atribuida a una "English Traditional Melody" (melodía tradicional inglesa) [^eh1906][^hymnarchive].
 

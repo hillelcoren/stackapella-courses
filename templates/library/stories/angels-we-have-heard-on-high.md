@@ -20,6 +20,7 @@ checked: 2026-11-13
 reviewed: true
 searches: who wrote angels we have heard on high | who wrote angels we have heard on high original | who wrote angels we have heard on high music | angels we have heard on high history | history behind angels we have heard on high | angels we have heard on high meaning | angels we have heard on high meaning bible verse | angels we have heard on high lyrics meaning | angels we have heard on high lyrics in english | gloria in excelsis deo meaning | les anges dans nos campagnes origine | les anges dans nos campagnes paroles
 original: The Holy Family Hymns (London, 1860), page 12, Chadwick's English | https://archive.org/details/TheHolyFamilyHymns1860/page/n31/mode/1up
+listen: Internet Archive, 1906 recording, in French (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-124033-les-anges-dans-nos-campagnes
 ---
 
 Angels We Have Heard on High is a French Christmas carol, Les anges dans nos campagnes, "The angels in our countryside", sung in English with its refrain left in Latin: Gloria in excelsis Deo, "Glory to God in the highest", the angels' words to the shepherds in Luke's Gospel [^lamb1842][^hutchins][^vulgate-org]. Its French words were in print in Marseille by 1805, and words and tune together in Paris by 1842 [^roche1805][^lamb1842][^ha]. The English began with James Chadwick, a priest and later the Catholic bishop of Hexham and Newcastle, in a London hymn book of 1860 [^hfh1860][^julian-chadwick][^ce-chadwick]. Hymnal editors put its popularity down to its refrain: the first syllable, "Glo", runs down three bars of falling notes before the word is finished [^psh][^lamb1842][^hfh1860].
@@ -30,7 +31,11 @@ Angels We Have Heard on High is a French Christmas carol, Les anges dans nos cam
 
 **The tune, and the carol we know.** In Paris in 1842 a book of church songs set to new tunes, Choix de cantiques sur des airs nouveaux, arranged for three or four voices with organ or piano by the Jesuit musician Louis Lambillotte, printed the carol as No. 3 [^lamb1842][^sibley1867][^ha]. Its title there is L'écho des montagnes de Béthléem, "The echo of the mountains of Bethlehem", "Noël languedocien", a Christmas song of Languedoc, and it gives the music as "Musique de W. M." [^lamb1842][^sibley1867]. Who W. M. was is not known [^ha]. It is the earliest known printing of the tune and of the opening "Les Anges, dans nos campagnes" [^lamb1842][^sommervogel].
 
+![[1]]
+
 **Chadwick's English.** James Chadwick, born in Drogheda, Ireland, in 1813, was a priest who taught at Ushaw College near Durham [^julian-chadwick][^ce-chadwick]. In 1860 Richardson and Son of London published The Holy Family Hymns, for the Society of the Holy Family, with Cardinal Wiseman's approval [^hfh1860]. Its contents page credits No. 9, "Christmas Hymn", to "Rev. J. Chadwick" [^hfh1860][^julian]. It begins "The Angels we have heard on high, Most sweetly singing o'er our plains", with an extra syllable at the start of each line, and its companion music book sets it to the French tune, adding a pickup note to carry that syllable [^hfh1860][^ha]. Chadwick became a bishop in 1866 and died in 1882 [^julian-chadwick][^ce-chadwick].
+
+![[2]]
 
 **The form we sing.** In 1862 The Crown of Jesus, a Catholic prayer book printed in London, gave the hymn as "Angels we have heard on high, Sweetly singing o'er our plains", in shorter lines that fit the tune without the extra note [^julian][^ha][^crown]. The book names no editor (library catalogues give its compilers as R. R. Suffield and C. F. R. Palmer), and who reworked the hymn is not known; the reworking also changed the fourth verse [^ha][^crown][^canterbury-crown]. Some hymnal handbooks credit the change to the Newcastle organist Henri Hemy, in a Crown of Jesus Music dated 1862, but Hemy's music for the book came out in 1864, two years after the words [^psh][^canterbury-hemy][^ha].
 
@@ -223,6 +228,8 @@ The run is the same in the 1842, 1860 and 1916 printings: "Glo" starts on a long
 In hymnals the tune is called GLORIA, and its meter is 7.7.7.7 with the refrain [^psh][^hymnary]. Many hymnals print the harmony that Edward Shippen Barnes (1887 to 1958), an American organist, made for The New Church Hymnal of 1937, with the Gloria sung twice [^ha][^psh][^canterbury-barnes]. It takes over, note for note, an older four-part harmony that Charles L. Hutchins (1838 to 1920) printed in Boston in 1891, in The Parish Choir, the weekly he edited, and repeated in Carols Old and Carols New in 1916; Hutchins has one Gloria, and Barnes added the second [^ha][^parishchoir1891][^hutchins].
 
 Our arrangement reads the tune and words from Carol 181 in Carols Old and Carols New, which prints it in four parts in F, and sings it a tone higher, in G: verses 1 to 3, each followed by the refrain once, as the book prints it [^hutchins]. The soprano sings that tune, and the alto, tenor and bass are our own, checked against the chords of the book's unsigned four-part setting, for 2 to 4 singers (soprano and alto, then bass, then tenor).
+
+![[3]]
 
 ## Did you know?
 

@@ -31,9 +31,15 @@ The First Noel, also spelled The First Nowell, is an English Christmas carol tha
 
 **The words in 1823.** A second edition followed in 1823. Gilbert explained that he had found "several other Carols from the same part of England", but had "not succeeded in his best endeavours to get more of the ancient Tunes" [^gilbert1823]. The First Nowel is Carol IX, on pages 28 and 29, the first of the twelve new carols [^gilbert1823][^cam-blog][^summerly]. It has nine numbered verses, with the refrain printed in full after the first and the last, and no music [^gilbert1823][^canterbury][^hymnary-text]. Gilbert spells the word "Nowel", and his fourth verse sends the star to "Bethlehem Jury", where "she took up her rest" [^gilbert1823].
 
+![[1]]
+
 **The tune in 1833.** William Sandys (1792 to 1874) was a London solicitor and antiquary with a love of music [^dnb-sandys][^viaf-sandys][^summerly]. His Christmas Carols, Ancient and Modern (London, 1833) prints the carol on pages 74 and 75 under the heading "For Christmas Day in the Morning", with the same nine verses, a few words changed, spelled "Nowell" [^sandys1833][^hymnarchive]. His notes say that part of his book was chosen from "upwards of one hundred obtained in different parts of the West of Cornwall", some already in "Mr. Gilbert's collection" [^sandys1833]. At the back of the book, among its eighteen tunes, is "The First Nowell", in D major and 3/8 time, with a bass line under the melody [^sandys1833][^cam-blog][^summerly][^hymnarchive]. It is the earliest known printing of the tune [^cam-blog][^summerly].
 
+![[2]]
+
 **Stainer's four parts.** In 1867 Henry Ramsden Bramley, a Fellow of Magdalen College, Oxford, and John Stainer (1840 to 1901), the college's organist, brought out the first series of Christmas Carols New and Old, twenty carols published by Novello [^bs1867][^mt1867][^cam-blog][^hymnary-stainer][^h82]. Some references date it 1868 or 1871, but Novello's advertisement of 1 December 1867 already lists No. 6, "The first Nowell" [^mt1867][^hymnarchive][^hymnary-text]. In the 1870s printing we read, The First Nowell is No. VI, on pages 12 and 13: Stainer's four voices in D major in 3/4 time, with six verses [^bs1867][^mt1867]. An undated illustrated edition of the first two series, engraved by the Brothers Dalziel and dated 1871 by the Hymnology Archive, kept it as No. VI [^stainer-ill][^hymnarchive-carols]. Stainer's version fixed the familiar form of the tune [^cam-blog][^hymnarchive]. By 1914 the collector Cecil Sharp could call it simply the tune "to which it is nowadays sung (see Bramley and Stainer, No. 6)" [^jfss1914].
+
+![[3]]
 
 **Where did the tune come from?** Nobody knows. The puzzle is its shape: it repeats one short phrase again and again, and it closes on the third note of the scale instead of the home note [^jfss1915][^hymnarchive]. In 1914 Ralph Vaughan Williams wrote that he had always found the tune hard to link with English folk song as he knew it [^jfss1914][^hymnarchive]. In 1915 the folk-song scholar Annie Gilchrist told how she had found, the summer before, in the old tune books of the village choir at Orton in Westmorland, a Christmas hymn tune whose treble part, above the tune, ran very like The First Nowell [^jfss1915][^hymnarchive]. She took the carol tune for "a relic" of that old singing in parts, a harmony line passed down by treble singers instead of the tune itself, and later traced the hymn tune to the composer Jeremiah Clarke [^jfss1915][^hymnarchive]. It remains a theory.
 
@@ -110,6 +116,8 @@ And with His Blood mankind hath bought.
 ## How it is sung
 
 It began as a carol of Christmas itself: Gilbert describes carols sung in church on Christmas Day and at home on Christmas Eve, and Sandys heads it "For Christmas Day in the Morning" [^gilbert1823][^sandys1833]. In 1833 Sandys wrote that in the West of England, "especially in the western parts of Cornwall", singers still went "from house to house", and in some parish churches met on the night of Christmas Eve, "singing-in the sacred morning" [^sandys1833]. It opens with the shepherds, but most of its verses follow the wise men, so it is also sung as an Epiphany carol [^canterbury][^hymnarchive]. Its tune is THE FIRST NOWELL, in an irregular meter with a refrain [^hymnary-text][^h82]. The Hymnal 1982 prints six verses at No. 109, with Stainer named for the music [^h82].
+
+![[4]]
 
 Our arrangement is read from Stainer's four parts for No. VI of the first series, in a printing of the 1870s: in D major and 3/4 as printed, starting on a one-beat pickup [^bs1867]. His tune and chords are kept, with the lower parts revoiced for beginners, one note to each syllable. We sing verses 1 and 2, each followed by the chorus, with the words as Stainer prints them, "Nowell" and "lookèd" included [^bs1867]. It is for two to four singers: two take soprano, on the tune, and alto, a third adds the bass, and the tenor makes four.
 
