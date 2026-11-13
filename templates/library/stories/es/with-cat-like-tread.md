@@ -16,7 +16,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: with cat like tread significado | with cat like tread letra | with cat like tread los piratas de penzance | come friends who plough the sea letra | hail hail the gang's all here origen | with cat like tread partitura
-translatedFrom: 2a35fc18b1e8
+translatedFrom: b8d79da4d51b
+original: The Pirates of Penzance, partitura vocal de Chappell (Londres, hacia 1920), Internet Archive | https://archive.org/details/vocalscoreofpira00sull
+listen: National Jukebox, grabación de 1910, un popurrí que incluye With Cat-like Tread | https://archive.org/details/loc-jukebox-129632-gems-from-pirates-of-penzance
 ---
 
 With Cat-like Tread, cuya segunda melodía empieza con Come, Friends, Who Plough the Sea, es el coro de los piratas del acto II de The Pirates of Penzance, la ópera cómica de W. S. Gilbert (letra) y Arthur Sullivan (música) que se estrenó en Nueva York el 31 de diciembre de 1879 [^hitchcock-lib][^nyt1880][^doyly]. Los piratas entran a hurtadillas en una capilla a la luz de la luna para robar en una casa, y aseguran que se oiría el paso de una mosca, mientras los policías, escondidos, responden "Tarantara!" [^chappell-score][^hitchcock-lib]. La broma está impresa en el propio libreto: junto a las palabras de los piratas sobre el silencio, la acotación de Gilbert dice "Very loud" (muy fuerte) [^hitchcock-lib][^stoddart-lib]. En 1917, Leo Feist publicó su melodía de "Come, friends" como el estribillo de Hail! Hail! The Gang's All Here [^feist1917][^ballad-index].
@@ -27,11 +29,19 @@ With Cat-like Tread, cuya segunda melodía empieza con Come, Friends, Who Plough
 
 **Ediciones autorizadas.** La partitura vocal estadounidense, publicada en Filadelfia por J. M. Stoddart y fechada en 1880, se presenta como la "Authorized Copyright Edition" (edición autorizada con copyright) [^stoddart-score]. Su portada lleva un aviso enmarcado y firmado por los dos: solo Stoddart puede publicar la ópera en Estados Unidos, nadie debería poner en el mercado "unauthorized editions" (ediciones no autorizadas), y la gente de ambos continentes, escriben, quiere ponerse de acuerdo en "an international copyright" (unos derechos de autor internacionales) [^stoddart-score].
 
+![[1]]
+
 **La escena.** El acto II transcurre en una capilla en ruinas, a la luz de la luna, en la finca del mayor general Stanley [^chappell-score][^hitchcock-lib]. El general se libró de los piratas fingiéndose huérfano, y los piratas, que nunca roban a un huérfano, han descubierto que mintió [^tribune1880]. Llegan de noche buscando "a penalty fifty-fold, For General Stanley's story" (un castigo cincuenta veces mayor por la historia del general Stanley) [^chappell-score][^gs-libretto]. Los policías, enviados a detenerlos, los oyen llegar y deciden que "our obvious course is now to hide" (lo obvio ahora es escondernos): la partitura de Chappell da el verso a su sargento, y los primeros libretos, a todo el coro de policías [^chappell-score][^hitchcock-lib][^stoddart-lib]. En los primeros libretos estadounidenses (el de Hitchcock, en Nueva York, sin fecha, y el de Stoddart, con copyright de 1880), los policías se esconden en una de las naves mientras los piratas entran trepando por una ventana en ruinas y bajan por el escenario de puntillas [^hitchcock-lib][^stoddart-lib]. Entonces los piratas cantan "(Very loud.) With cat-like tread", y los policías, escondidos, responden "(Pianissimo.) Tarantara!" [^hitchcock-lib][^stoddart-lib].
+
+![[2]]
 
 **La marcha de Sullivan.** Sullivan lo escribió como una marcha, Allegro marziale, en Re, con los piratas marcados forte y el piano tocando tres acordes suaves en la mayoría de los compases y uno fortissimo, estruendoso, en el cuarto tiempo [^stoddart-score][^chappell-score]. Samuel, el lugarteniente de los piratas, reparte las herramientas de ladrón en un solo; luego se unen los dos coros, y la reprise crece de suave a fortissimo [^chappell-score][^stoddart-score][^gs-libretto]. Un corresponsal en el estreno de Nueva York vio la broma: los ladrones "corean a voz en grito" que se acercan sin ser vistos [^era-ny].
 
+![[3]]
+
 **La partitura que leímos.** Nuestro arreglo está tomado de una impresión londinense posterior de la partitura vocal de Chappell, conservada en la University of Toronto y catalogada como de hacia 1920 [^chappell-score]. El número de plancha de Chappell, 23731, aparece al pie de cada página, y la portada cita la Copyright Act de 1911 y remite a quien quiera representar la ópera a Rupert D'Oyly Carte, en el Savoy Hotel [^chappell-score]. With Cat-like Tread es el acto II, n.º 12, un "Solo (Samuel and Chorus of Pirates)", como en la partitura de Stoddart de 1880 [^chappell-score][^stoddart-score]. En la letra E, en la página 152, piratas y policías cantan juntos, fortissimo, y alguien ha escrito a lápiz "Ladies" (damas) en lo alto de la página 149, donde empieza el segundo "Come, friends" [^chappell-score]. La partitura escribe "piracee" y "burglaree" para que rimen con "sea"; los primeros libretos imprimen "piracy" y "burglary" [^chappell-score][^hitchcock-lib].
+
+![[4]]
 
 ### Cronología
 

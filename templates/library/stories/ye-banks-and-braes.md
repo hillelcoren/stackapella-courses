@@ -16,9 +16,13 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ye banks and braes meaning | ye banks and braes meaning in english | ye banks and braes lyrics meaning | who wrote ye banks and braes | who wrote ye banks and braes o bonnie doon | ye banks and braes history | ye banks and braes lyrics in english
+original: James Johnson, The Scots Musical Museum, vol. 4 (Edinburgh, 1792), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuse04rugg
+listen: National Jukebox, 1909 recording | https://archive.org/details/loc-jukebox-127860-ye-banks-and-braes-o-bonnie-doon || National Jukebox, 1915 recording, celesta solo, no words | https://archive.org/details/loc-jukebox-650692-ye-banks-and-braes-o-bonny-doon
 ---
 
 Ye Banks and Braes o' Bonnie Doon, The Banks o' Doon in its earliest known printing, is a Scots song by Robert Burns about a young woman whose lover has left her. She walks by the river Doon in Ayrshire, near where Burns was born, and asks how its banks can bloom and its birds sing when she is so full of care [^smm1792][^rpo-flowery][^spl]. That printing is in the fourth volume of The Scots Musical Museum, published in Edinburgh in 1792, marked "Slow & tender" [^smm1792][^dick]. It was Burns's third try at the song [^dick][^chambers-wallace]. Burns told the odd story of its tune: an Edinburgh lawyer, told to keep to the black keys of a harpsichord, came up with the start of a "Scots air" [^stenhouse][^glen][^graham].
+
+![[1]]
 
 ## Where it comes from
 
@@ -26,11 +30,17 @@ Ye Banks and Braes o' Bonnie Doon, The Banks o' Doon in its earliest known print
 
 **The page of 1792.** James Johnson's Scots Musical Museum gathered Scottish songs with their tunes, and Burns gathered and wrote songs for it [^dick][^spl]. In the fourth volume, whose preface is dated 13 August 1792, the song is No. 374 on page 387, headed "The Banks o' Doon" [^smm1792]. It is engraved on two staves, the tune with the first verse under it and an unsigned bass, in G and in 6/8. The second verse is printed as a poem under the music, with the letter "B" at the foot of the page [^smm1792]. The index explains: songs marked "B. R. X. &c." are new, by "Scots gentlemen" [^smm1792]. The index entry itself reads "Ye Banks and braes o' bonie Don", with "Don" for Doon, "Burns, the Music by Mr James Millar Writer in Edinr." [^smm1792]. A writer, in Scots, is a lawyer [^dsl-writer]. In Blackwood's reissue of 1839 the same page carries a new line under the title: "Written for this Work by Robert Burns." [^smm1839][^smm1792]
 
+![[2]]
+
 **The tune.** It first appeared in print as "The Caledonian Hunt's Delight", in Niel Gow's Second Collection of Strathspey Reels [^dick][^glen]. Dick and the collector John Glen date that book 1788; one library catalogue gives about 1789 [^dick][^glen][^newhailes]. Gow dedicated the book to "the Noblemen & Gentlemen of the Caledonian Hunt", to whom Burns had dedicated his Edinburgh edition of 1787 [^imslp-gow][^newhailes][^burns1787][^dumfries-museum]. In November 1794 Burns recommended the air to George Thomson, the Edinburgh editor of another song collection. "Do you know the history of the air? It is curious enough," he wrote. Years before, James Miller, "writer in your good town", told the organist Stephen Clarke he longed to compose a Scots air. Clarke, "partly by way of joke", told him to keep to the black keys of the harpsichord and keep some kind of rhythm. In a few days Miller had "the rudiments of an air", which Clarke, "with some touches and corrections, fashioned into the tune". Burns had the story, he said, from Clarke himself [^stenhouse][^glen][^graham][^dick]. William Stenhouse, who wrote notes on the Museum's songs, said he knew all the parties [^stenhouse].
+
+![[3]]
 
 **The manuscript.** Stenhouse had Burns's manuscript of the song in front of him: a slip of Excise paper with red ink lines on the back [^stenhouse]. Burns then worked for the Excise, the tax service [^spl][^dick].
 
 **Myth and record.** Often told: the tune is really Irish, or Manx. What the record shows: Burns passed on both claims in the same letter. An Irish gentleman said he had heard it in Ireland among the old women, and a countess said a baronet's lady took it down from a wandering piper on the Isle of Man. "How difficult then to ascertain the truth," he wrote [^stenhouse][^dick]. The Glasgow publisher James Aird printed it as "Irish" in the fourth volume of his collection of airs [^dick][^glen]. Later the English historian William Chappell argued it was an English song, "Lost, lost, lost is my quiet", with a note or two changed [^chappell]. Glen and Dick answered that Gow had printed the tune in 1788, and that the English collection Chappell cited was later [^glen][^dick].
+
+![[4]]
 
 Often told, too: Burns wrote the song for Peggy Kennedy, a young woman who, in Allan Cunningham's words, "fell a victim to her love". Cunningham called this "an Ayrshire legend" [^chambers-wallace], and Robert Chambers, Dick says, dated the song to 1787 on that story [^dick]. What the record shows: Burns's own letter of 11 March 1791 says he sketched the first version that evening [^dick][^chambers-wallace]. Dick held that this "disposes of" Chambers's date. The 1896 revision of Chambers's own book allowed that Burns may still have had her story in mind [^dick][^chambers-wallace].
 

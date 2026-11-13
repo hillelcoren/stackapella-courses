@@ -7,7 +7,7 @@ tune: Credited to E. O. Lyte (1842 to 1913); earliest known printing 1874
 meter: 6/8, a round for up to four voices
 earliestPrinting: 1874, Row, Row (Round), The Teachers' Institute Glee Book, prepared by W. B. Hall and E. O. Lyte (Hall & Lyte, Lancaster, Pa.), p. 39
 earliestPrintingSource: hall1874
-original: The School Bell (1893), No. 5, Internet Archive | https://archive.org/details/schoolbell150son00lyte/page/n7 || The Teachers' Institute Glee Book (1874), p. 39, Internet Archive | https://archive.org/details/teachersinstitut00hall/page/n40
+original: E. O. Lyte, The School Bell (Lancaster, Pa., 1893), Internet Archive | https://archive.org/details/schoolbell150son00lyte
 language: English
 origin: United States
 alsoKnownAs: Row Your Boat; Row, Row; Row Your Boat (Round); Row, Row, Row Your Boat, Gently Down the Stream
@@ -30,9 +30,15 @@ Inside, the song is headed The Old Log Hut, marked Moderato Affetuoso, in D and 
 
 **The round of 1874.** The Teachers' Institute Glee Book was prepared by W. B. Hall, a teacher of vocal music in the Lancaster public schools, and E. O. Lyte, teacher of vocal music at the State Normal School in Millersville, and published by them as Hall & Lyte in 1874 [^hall1874]. On page 39, headed "Row, Row. Round.", the round is one line of melody in D and in 6/8, with no name beside it, and the numbers 1 to 4 stand over it every two bars, where each voice enters [^hall1874]. The words are the ones sung now, with the second half new: "Merrily, merrily, merrily, merrily; Life is but a dream" [^hall1874].
 
+![[1]]
+
 **Later printings.** J. P. McCaskey (1837 to 1935), principal of the Boys' High School in Lancaster, printed the round as "Row Your Boat", with "E. O. Lyte" at the right, in his Franklin Square Song Collection of 1881 [^annals][^loc-mccaskey][^psj1935][^mccaskey1881]. The same book prints another piece, Even Me, "By per. E. O. Lyte. From 'Institute Glee Book'": by Lyte's permission, from the book of 1874 [^mccaskey1881][^hall1874]. In 1893 Lyte printed the round again as No. 5 of his own The School Bell (Lancaster, Pa.; copyright 1892), signed "E. O. L." and marked "From 'The School Song Book'" [^lyte1893].
 
+![[2]]
+
 **E. O. Lyte.** Eliphalet Oram Lyte (1842 to 1913), a Lancaster County native, served in the Union army in the Civil War, and then studied and taught at the state normal school at Millersville, a teachers' college near Lancaster [^annals][^loc-lyte][^mu-blog]. He was its principal from 1887 to 1912 [^annals][^graver].
+
+![[3]]
 
 **Myth and record.** Often told: Eliphalet Oram Lyte wrote Row, Row, Row Your Boat, and some accounts say he published it in 1852 [^amsongwriter]. What the record shows: Lyte was born in 1842, and the sheet music of 1852 names R. Sinclair for the music and no one for the words [^annals][^loc-lyte][^sinclair1852]. The round is unsigned in the book he prepared with Hall in 1874, credited to him in 1881, and signed with his initials in his own book of 1893 [^hall1874][^mccaskey1881][^lyte1893]. James Fuld, as the Ballad Index reports him, knew of no printing of the tune before 1881 and called the credit not necessarily one of authorship [^ballad]. Whether Lyte composed, arranged or supplied the tune, no source we found says.
 
@@ -52,6 +58,8 @@ Inside, the song is headed The Old Log Hut, marked Moderato Affetuoso, in D and 
 3. **"Life is but a dream."** "But" here means "only" [^webster-but]: life is only a dream. In the song of 1852, these lines come after a singer looks back on a childhood home, and the dream is the future: "All that's past is gone you know, The future's but a dream" [^sinclair1852]. In the round, the whole of life is the dream.
 
 Readings of the song are interpretation. Classic FM, a British radio station's website, reports one popular reading: that the song is about keeping going and staying focused [^classicfm]. The thought is old. In a book dated 1872, Lewis Carroll ended Through the Looking-Glass with a poem that begins "A boat, beneath a sunny sky" and closes with the lines "Ever drifting down the stream" and "Life, what is it but a dream?" [^carroll1872]. No source we found links Carroll's poem to the round.
+
+![[4]]
 
 ### The full words
 

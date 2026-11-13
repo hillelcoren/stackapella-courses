@@ -16,10 +16,14 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: ye banks and braes significado | ye banks and braes letra traducida | quién escribió ye banks and braes | ye banks and braes historia | ye banks and braes letra en español
-translatedFrom: 95db4710a0db
+translatedFrom: fc496332ce70
+original: The Scots Musical Museum de James Johnson, vol. 4 (Edimburgo, 1792), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuse04rugg
+listen: National Jukebox, grabación de 1909 | https://archive.org/details/loc-jukebox-127860-ye-banks-and-braes-o-bonnie-doon || National Jukebox, grabación de 1915, solo de celesta, sin letra | https://archive.org/details/loc-jukebox-650692-ye-banks-and-braes-o-bonny-doon
 ---
 
 Ye Banks and Braes o' Bonnie Doon, titulada The Banks o' Doon en la primera impresión conocida, es una canción en escocés de Robert Burns sobre una joven a la que su enamorado ha abandonado. Pasea junto al río Doon, en Ayrshire, cerca de donde nació Burns, y pregunta cómo pueden florecer sus orillas y cantar sus pájaros cuando ella está tan llena de penas [^smm1792][^rpo-flowery][^spl]. Esa impresión está en el cuarto volumen de The Scots Musical Museum, publicado en Edimburgo en 1792, con la indicación "Slow & tender" (lento y tierno) [^smm1792][^dick]. Era el tercer intento de Burns con la canción [^dick][^chambers-wallace]. Burns contó la curiosa historia de su melodía: un abogado de Edimburgo, al que le dijeron que se limitara a las teclas negras de un clave, dio con el comienzo de una "melodía escocesa" [^stenhouse][^glen][^graham].
+
+![[1]]
 
 ## De dónde viene
 
@@ -27,11 +31,17 @@ Ye Banks and Braes o' Bonnie Doon, titulada The Banks o' Doon en la primera impr
 
 **La página de 1792.** The Scots Musical Museum de James Johnson reunía canciones escocesas con sus melodías, y Burns recogió y escribió canciones para él [^dick][^spl]. En el cuarto volumen, cuyo prefacio está fechado el 13 de agosto de 1792, la canción es el n.º 374, en la página 387, con el encabezado "The Banks o' Doon" [^smm1792]. Está grabada en dos pentagramas, la melodía con la primera estrofa debajo y un bajo sin firma, en Sol y en 6/8. La segunda estrofa está impresa como un poema bajo la música, con la letra "B" al pie de la página [^smm1792]. El índice lo explica: las canciones marcadas "B. R. X. &c." son nuevas, de "Scots gentlemen" (caballeros escoceses) [^smm1792]. La propia entrada del índice dice "Ye Banks and braes o' bonie Don", con "Don" por Doon, "Burns, the Music by Mr James Millar Writer in Edinr." [^smm1792]. En escocés, un writer es un abogado [^dsl-writer]. En la reedición de Blackwood de 1839, la misma página lleva una línea nueva bajo el título: "Written for this Work by Robert Burns." (escrita para esta obra por Robert Burns) [^smm1839][^smm1792]
 
+![[2]]
+
 **La melodía.** Su primera aparición impresa fue como "The Caledonian Hunt's Delight", en la Second Collection of Strathspey Reels de Niel Gow [^dick][^glen]. Dick y el coleccionista John Glen fechan ese libro en 1788; el catálogo de una biblioteca da hacia 1789 [^dick][^glen][^newhailes]. Gow dedicó el libro a "the Noblemen & Gentlemen of the Caledonian Hunt" (los nobles y caballeros de la Caledonian Hunt), a quienes Burns había dedicado su edición de Edimburgo de 1787 [^imslp-gow][^newhailes][^burns1787][^dumfries-museum]. En noviembre de 1794, Burns recomendó la melodía a George Thomson, el editor de Edimburgo de otra colección de canciones. "¿Conoces la historia de la melodía? Es bastante curiosa", escribió. Años antes, James Miller, "writer en tu buena ciudad", le dijo al organista Stephen Clarke que ansiaba componer una melodía escocesa. Clarke, "en parte en broma", le dijo que se limitara a las teclas negras del clave y que mantuviera algún tipo de ritmo. En pocos días, Miller tenía "los rudimentos de una melodía", que Clarke, "con algunos toques y correcciones, convirtió en la melodía". Burns tenía la historia, dijo, del propio Clarke [^stenhouse][^glen][^graham][^dick]. William Stenhouse, que escribió notas sobre las canciones del Museum, dijo que conocía a todos los implicados [^stenhouse].
+
+![[3]]
 
 **El manuscrito.** Stenhouse tuvo delante el manuscrito de Burns de la canción: una tira de papel de la Excise con líneas de tinta roja al dorso [^stenhouse]. Burns trabajaba entonces para la Excise, el servicio de impuestos [^spl][^dick].
 
 **Mito y documentos.** Se suele contar que la melodía es en realidad irlandesa, o de la isla de Man. Lo que muestran los documentos: Burns transmitió las dos afirmaciones en la misma carta. Un caballero irlandés dijo que la había oído en Irlanda entre las ancianas, y una condesa dijo que la esposa de un baronet la transcribió al oírsela a un gaitero ambulante en la isla de Man. "Qué difícil es, pues, averiguar la verdad", escribió [^stenhouse][^dick]. El editor de Glasgow James Aird la imprimió como "Irish" (irlandesa) en el cuarto volumen de su colección de melodías [^dick][^glen]. Más tarde, el historiador inglés William Chappell sostuvo que era una canción inglesa, "Lost, lost, lost is my quiet", con una nota o dos cambiadas [^chappell]. Glen y Dick respondieron que Gow había impreso la melodía en 1788, y que la colección inglesa que citaba Chappell era posterior [^glen][^dick].
+
+![[4]]
 
 También se suele contar que Burns escribió la canción para Peggy Kennedy, una joven que, en palabras de Allan Cunningham, "fue víctima de su amor". Cunningham lo llamó "una leyenda de Ayrshire" [^chambers-wallace], y Robert Chambers, según Dick, fechó la canción en 1787 basándose en esa historia [^dick]. Lo que muestran los documentos: la propia carta de Burns del 11 de marzo de 1791 dice que esbozó la primera versión esa tarde [^dick][^chambers-wallace]. Dick sostuvo que esto "descarta" la fecha de Chambers. La revisión de 1896 del propio libro de Chambers admitía que Burns quizá aún tuviera presente la historia de ella [^dick][^chambers-wallace].
 

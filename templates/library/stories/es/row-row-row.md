@@ -7,7 +7,7 @@ tune: Atribuida a E. O. Lyte (1842 a 1913); primera impresión conocida en 1874
 meter: 6/8, un canon para hasta cuatro voces
 earliestPrinting: 1874, Row, Row (Round), The Teachers' Institute Glee Book, preparado por W. B. Hall y E. O. Lyte (Hall & Lyte, Lancaster, Pensilvania), p. 39
 earliestPrintingSource: hall1874
-original: The School Bell (1893), n.º 5, Internet Archive | https://archive.org/details/schoolbell150son00lyte/page/n7 || The Teachers' Institute Glee Book (1874), p. 39, Internet Archive | https://archive.org/details/teachersinstitut00hall/page/n40
+original: E. O. Lyte, The School Bell (Lancaster, Pensilvania, 1893), Internet Archive | https://archive.org/details/schoolbell150son00lyte
 language: inglés
 origin: Estados Unidos
 alsoKnownAs: Row Your Boat; Row, Row; Row Your Boat (Round); Row, Row, Row Your Boat, Gently Down the Stream
@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-12
 reviewed: true
 searches: row row row your boat historia | row row row your boat significado | quién escribió row row row your boat | row row row your boat canon | cómo cantar row row row your boat en canon | row row row your boat letra en español
-translatedFrom: 16b372dcdb9d
+translatedFrom: 07e6482a728d
 ---
 
 Row, Row, Row Your Boat es un canon: una melodía de cuatro versos que dos, tres o cuatro cantantes empiezan en momentos distintos, de modo que se canta contra sí misma [^hall1874][^grove]. Sus dos primeros versos ya estaban impresos en 1852, como el estribillo de The Old Log Hut, una canción de los espectáculos de minstrel con la cara pintada de negro (blackface), con otra melodía [^sinclair1852][^rice][^ballad]. El canon, que termina con "Merrily, merrily" y "Life is but a dream", aparece en The Teachers' Institute Glee Book de 1874, preparado en Lancaster, Pensilvania, por W. B. Hall y E. O. Lyte; desde 1881 se imprime con el nombre de Lyte, pero ninguna fuente que encontramos dice quién hizo la melodía [^hall1874][^mccaskey1881][^ballad]. Después pasó a las canciones de campamento: el Ballad Index la encuentra en cancioneros de los Boy Scouts y de los clubes 4-H [^ballad].
@@ -31,9 +31,15 @@ Por dentro, la canción lleva el título The Old Log Hut, con la indicación Mod
 
 **El canon de 1874.** The Teachers' Institute Glee Book lo prepararon W. B. Hall, profesor de música vocal en las escuelas públicas de Lancaster, y E. O. Lyte, profesor de música vocal en la escuela normal del estado en Millersville, y lo publicaron ellos mismos como Hall & Lyte en 1874 [^hall1874]. En la página 39, con el título "Row, Row. Round.", el canon es una sola línea de melodía en Re y en 6/8, sin ningún nombre al lado, y los números del 1 al 4 están sobre ella cada dos compases, donde entra cada voz [^hall1874]. La letra es la que se canta ahora, con la segunda mitad nueva: "Merrily, merrily, merrily, merrily; Life is but a dream" [^hall1874].
 
+![[1]]
+
 **Impresiones posteriores.** J. P. McCaskey (1837 a 1935), director de la Boys' High School de Lancaster, imprimió el canon como "Row Your Boat", con "E. O. Lyte" a la derecha, en su Franklin Square Song Collection de 1881 [^annals][^loc-mccaskey][^psj1935][^mccaskey1881]. El mismo libro imprime otra pieza, Even Me, como "By per. E. O. Lyte. From 'Institute Glee Book'": con permiso de Lyte, tomada del libro de 1874 [^mccaskey1881][^hall1874]. En 1893 Lyte volvió a imprimir el canon como n.º 5 de su propio The School Bell (Lancaster, Pensilvania; copyright de 1892), firmado "E. O. L." y con la nota "From 'The School Song Book'" [^lyte1893].
 
+![[2]]
+
 **E. O. Lyte.** Eliphalet Oram Lyte (1842 a 1913), nacido en el condado de Lancaster, sirvió en el ejército de la Unión en la guerra de Secesión, y luego estudió y enseñó en la escuela normal del estado en Millersville, una escuela de magisterio cerca de Lancaster [^annals][^loc-lyte][^mu-blog]. Fue su director de 1887 a 1912 [^annals][^graver].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que Eliphalet Oram Lyte escribió Row, Row, Row Your Boat, y algunos relatos dicen que la publicó en 1852 [^amsongwriter]. Lo que muestran los documentos: Lyte nació en 1842, y la partitura de 1852 nombra a R. Sinclair como autor de la música y a nadie como autor de la letra [^annals][^loc-lyte][^sinclair1852]. El canon aparece sin firma en el libro que preparó con Hall en 1874, atribuido a él en 1881 y firmado con sus iniciales en su propio libro de 1893 [^hall1874][^mccaskey1881][^lyte1893]. James Fuld, según lo recoge el Ballad Index, no conocía ninguna impresión de la melodía anterior a 1881 y dijo que esa atribución no era necesariamente de autoría [^ballad]. Si Lyte compuso, arregló o aportó la melodía, ninguna fuente que encontramos lo dice.
 
@@ -53,6 +59,8 @@ Por dentro, la canción lleva el título The Old Log Hut, con la indicación Mod
 3. **"Life is but a dream."** Aquí "but" significa "solo" [^webster-but]: la vida no es más que un sueño. En la canción de 1852, estos versos llegan después de que quien canta recuerda la casa de su infancia, y el sueño es el futuro: "All that's past is gone you know, The future's but a dream" (todo lo pasado se fue, ya lo sabes, el futuro no es más que un sueño) [^sinclair1852]. En el canon, la vida entera es el sueño.
 
 Las lecturas de la canción son interpretación. Classic FM, el sitio web de una emisora de radio británica, recoge una lectura popular: que la canción habla de seguir adelante y no perder la concentración [^classicfm]. La idea es antigua. En un libro fechado en 1872, Lewis Carroll cerró Through the Looking-Glass con un poema que empieza "A boat, beneath a sunny sky" (una barca, bajo un cielo soleado) y termina con los versos "Ever drifting down the stream" (siempre a la deriva, río abajo) y "Life, what is it but a dream?" (la vida, ¿qué es sino un sueño?) [^carroll1872]. Ninguna fuente que encontramos relaciona el poema de Carroll con el canon.
+
+![[4]]
 
 ### La letra completa
 

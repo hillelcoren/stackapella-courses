@@ -16,6 +16,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: with cat like tread | with cat like tread lyrics | with cat like tread pirates of penzance | with cat like tread upon our prey we steal | pirates of penzance with cat like tread | cat like tread meaning | come friends who plough the sea | come friends who plough the sea lyrics | come friends who plough the sea opera | hail hail the gang's all here pirates of penzance | hail hail the gang's all here origin | where did the song hail hail the gang's all here come from | who wrote the song hail hail the gang's all here | with cat like tread sheet music
+original: The Pirates of Penzance, Chappell vocal score (London, about 1920), Internet Archive | https://archive.org/details/vocalscoreofpira00sull
+listen: National Jukebox, 1910 recording, a medley that includes With Cat-like Tread | https://archive.org/details/loc-jukebox-129632-gems-from-pirates-of-penzance
 ---
 
 With Cat-like Tread, whose second tune begins Come, Friends, Who Plough the Sea, is the pirates' chorus from Act II of The Pirates of Penzance, the comic opera by W. S. Gilbert (words) and Arthur Sullivan (music) premiered in New York on 31 December 1879 [^hitchcock-lib][^nyt1880][^doyly]. Pirates creep into a moonlit chapel to rob a house, claiming a fly's footstep would be heard, while the hidden police answer, "Tarantara!" [^chappell-score][^hitchcock-lib]. The joke is printed in the libretto itself: beside the pirates' words about silence, Gilbert's stage direction reads "Very loud" [^hitchcock-lib][^stoddart-lib]. In 1917 Leo Feist published its "Come, friends" tune as the chorus of Hail! Hail! The Gang's All Here [^feist1917][^ballad-index].
@@ -26,11 +28,19 @@ With Cat-like Tread, whose second tune begins Come, Friends, Who Plough the Sea,
 
 **Authorized editions.** The American vocal score, published in Philadelphia by J. M. Stoddart and dated 1880, calls itself the "Authorized Copyright Edition" [^stoddart-score]. Its title page carries a boxed notice signed by both men: Stoddart alone may publish the opera in the United States, no one should put "unauthorized editions" on the market, and the people of both continents, they write, want to agree on "an international copyright" [^stoddart-score].
 
+![[1]]
+
 **The scene.** Act II is set in a ruined chapel by moonlight on Major-General Stanley's estate [^chappell-score][^hitchcock-lib]. The General escaped the pirates by pretending to be an orphan, and the pirates, who never rob an orphan, have learned that he lied [^tribune1880]. They come at night seeking "a penalty fifty-fold, For General Stanley's story" [^chappell-score][^gs-libretto]. The police, sent to arrest them, hear them coming and decide that "our obvious course is now to hide": Chappell's score gives the line to their Sergeant, the early libretti to the whole police chorus [^chappell-score][^hitchcock-lib][^stoddart-lib]. In the first American libretti (Hitchcock's in New York, undated, and Stoddart's, copyright 1880) the police hide in one aisle while the pirates climb in at a ruined window and come down the stage on tiptoe [^hitchcock-lib][^stoddart-lib]. Then the pirates sing, "(Very loud.) With cat-like tread", and the hidden police answer, "(Pianissimo.) Tarantara!" [^hitchcock-lib][^stoddart-lib].
+
+![[2]]
 
 **Sullivan's march.** Sullivan set it as a march, Allegro marziale, in D, with the pirates marked forte and the piano playing three soft chords in most bars and a crashing fortissimo one on the fourth [^stoddart-score][^chappell-score]. Samuel, the pirates' lieutenant, hands out the burglars' tools in a solo; then both choruses join, and the reprise grows from soft to fortissimo [^chappell-score][^stoddart-score][^gs-libretto]. A correspondent at the New York opening saw the joke: the burglars "chorus vociferously" about creeping up unawares [^era-ny].
 
+![[3]]
+
 **The score we read.** Our arrangement is read from a later London printing of Chappell's vocal score, held by the University of Toronto and catalogued as about 1920 [^chappell-score]. Chappell's plate number, 23731, is at the foot of every page, and the title page cites the Copyright Act of 1911 and sends anyone who wants to stage the opera to Rupert D'Oyly Carte at the Savoy Hotel [^chappell-score]. With Cat-like Tread is Act II, No. 12, a "Solo (Samuel and Chorus of Pirates)", as in Stoddart's 1880 score [^chappell-score][^stoddart-score]. At letter E, page 152, pirates and police sing together, fortissimo, and someone has pencilled "Ladies" at the top of page 149, where the second "Come, friends" begins [^chappell-score]. The score spells "piracee" and "burglaree" to rhyme with "sea"; the early libretti print "piracy" and "burglary" [^chappell-score][^hitchcock-lib].
+
+![[4]]
 
 ### Timeline
 
