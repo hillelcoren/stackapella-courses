@@ -191,7 +191,8 @@ def check_versions(ref):
             except ValueError:
                 continue
             if isinstance(old, dict) and isinstance(old.get("id"), str):
-                before[old["id"]] = old
+                # A staged next version (<id>.next.json) is compared with the staged file at ref, never the live one.
+                before[(old["id"], name.endswith(".next.json"))] = old
     for path in songs:
         if path.parent.name not in ("free", "library"):
             continue
@@ -199,7 +200,7 @@ def check_versions(ref):
             song = json.loads(path.read_text())
         except ValueError:
             continue
-        old = before.get(song.get("id")) if isinstance(song, dict) else None
+        old = before.get((song.get("id"), path.name.endswith(".next.json"))) if isinstance(song, dict) else None
         if not old:
             continue
         was, now = old.get("version", 0), song.get("version", 0)
@@ -210,6 +211,39 @@ def check_versions(ref):
             problems.append(f"{where}: its notes changed at version {now} since {ref}; give it version {now + 1} (production's sync refuses the same version with other notes)")
 
 
+def check_staged():
+    """A staged next version (templates/library/<id>.next.json, the Stackapella repository's staged-version sync): the
+    same id as a live song, a higher version than it, and never reviewed (the sync refuses a reviewed staged file)."""
+    live = {}
+    for path in songs:
+        if path.parent.name in ("free", "library") and not path.name.endswith(".next.json"):
+            try:
+                song = json.loads(path.read_text())
+            except ValueError:
+                continue
+            if isinstance(song, dict):
+                live[song.get("id")] = song
+    for path in songs:
+        if not path.name.endswith(".next.json"):
+            continue
+        where = path.relative_to(ROOT)
+        try:
+            song = json.loads(path.read_text())
+        except ValueError:
+            continue
+        if not isinstance(song, dict) or path.name != f"{song.get('id')}.next.json":
+            problems.append(f"{where}: a staged file is named after its song's id")
+            continue
+        if song.get("reviewed"):
+            problems.append(f"{where}: a staged next version must not be reviewed (the sync refuses it)")
+        current = live.get(song["id"])
+        if current is None:
+            problems.append(f"{where}: no live song {song['id']} to stage a next version of")
+        elif song.get("version", 0) <= current.get("version", 0):
+            problems.append(f"{where}: version {song.get('version')} must be above the live version {current.get('version')}")
+
+
+check_staged()
 since = sys.argv[sys.argv.index("--since") + 1] if "--since" in sys.argv[1:-1] else "origin/main"
 check_versions(since)
 
