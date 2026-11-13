@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: home on the range significado | home on the range historia | quién escribió home on the range | home on the range letra en español | home on the range canción de kansas
-translatedFrom: c95cfe0d3acb
+translatedFrom: 88bebfce70a7
 original: Lomax, Cowboy Songs and Other Frontier Ballads (1910), Internet Archive | https://archive.org/details/cowboysongsother00lomauoft/page/n70/mode/1up
 ---
 
@@ -36,7 +36,7 @@ Home on the Range, que también se canta como "Oh, Give Me a Home Where the Buff
 
 ![[3]]
 
-**Por la ruta del ganado.** En 1908, el recopilador texano John Lomax la grabó en San Antonio a un hombre negro que regentaba allí una taberna de cerveza y que había sido cocinero en los arreos de ganado por el Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann, un profesor de música ciego de la escuela estatal para ciegos de Austin, transcribió la melodía de la grabación de Lomax, escuchándola con auriculares [^mechem][^corcoran]. Lomax imprimió letra y melodía como A Home on the Range en Cowboy Songs and Other Frontier Ballads, publicado en noviembre de 1910, sin nombrar autor ni compositor [^lomax1910][^lomax1929].
+**Por la ruta del ganado.** En 1908, el recopilador texano John Lomax la grabó en San Antonio a un hombre negro que regentaba allí una taberna de cerveza y que había sido cocinero en los arreos de ganado por el Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann (Leberman en el artículo de Mechem de 1949), un profesor de música ciego de la escuela estatal para ciegos de Austin, transcribió la melodía de la grabación de Lomax, escuchándola con auriculares [^mechem][^corcoran]. Lomax imprimió letra y melodía como A Home on the Range en Cowboy Songs and Other Frontier Ballads, publicado en noviembre de 1910, sin nombrar autor ni compositor [^lomax1910][^lomax1929].
 
 ![[4]]
 

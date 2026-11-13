@@ -35,7 +35,7 @@ Home on the Range, also sung as "Oh, Give Me a Home Where the Buffalo Roam", is 
 
 ![[3]]
 
-**Down the trail.** In 1908 the Texas collector John Lomax recorded it in San Antonio from a Black man who kept a beer saloon there and had been a cook on cattle drives up the Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann, a blind music teacher at the state school for the blind in Austin, took the tune down from Lomax's recording, listening through earphones [^mechem][^corcoran]. Lomax printed words and tune as A Home on the Range in Cowboy Songs and Other Frontier Ballads, published in November 1910, naming no author or composer [^lomax1910][^lomax1929].
+**Down the trail.** In 1908 the Texas collector John Lomax recorded it in San Antonio from a Black man who kept a beer saloon there and had been a cook on cattle drives up the Chisholm Trail [^mechem][^kansapedia][^texascoop]. Henry Lebermann (spelled Leberman in Mechem's 1949 article), a blind music teacher at the state school for the blind in Austin, took the tune down from Lomax's recording, listening through earphones [^mechem][^corcoran]. Lomax printed words and tune as A Home on the Range in Cowboy Songs and Other Frontier Ballads, published in November 1910, naming no author or composer [^lomax1910][^lomax1929].
 
 ![[4]]
 
