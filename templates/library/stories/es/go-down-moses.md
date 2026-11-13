@@ -1,26 +1,26 @@
 ---
 title: Go Down, Moses: historia, significado y la letra explicada
 description: Anotado en Fort Monroe, Virginia, de personas que habían huido de la esclavitud, y vendido como partitura en 1861. La historia del espiritual y su letra.
-lead: Un espiritual creado por afroamericanos esclavizados, anotado en 1861 de personas que habían huido a Fort Monroe, Virginia. Cantamos dos de las 24 estrofas que imprimieron los Fisk Jubilee Singers en 1872.
+lead: Un espiritual creado por afroamericanos esclavizados, anotado en 1861 de personas que habían huido a Fort Monroe, Virginia. Cantamos dos de las 24 estrofas que se imprimieron en 1872 tal como la cantaban los Fisk Jubilee Singers.
 words: Espiritual afroamericano tradicional
 tune: Tradicional
-earliestPrinting: The Song of the Contrabands, O Let My People Go, partitura, Nueva York, 1861 (la primera impresión conocida con música; la letra sola había salido antes ese año en periódicos de Nueva York)
+earliestPrinting: The Song of the Contrabands, O Let My People Go, partitura, Nueva York, 1861 (la primera impresión conocida con música; la letra sola salió el mismo año en periódicos de Nueva York)
 earliestPrintingSource: contrabands1861
 language: inglés
 alsoKnownAs: Let My People Go; The Song of the Contrabands
 wikidata: Q1533406
 quote: Esta canción nació entre los "contrabands", y se les oyó cantarla por primera vez al llegar a Fortress Monroe
 quoteSource: contrabands1861
-updated: 2026-11-12
-checked: 2026-11-12
-reviewed: false
+updated: 2026-11-13
+checked: 2026-11-13
+reviewed: true
 searches: go down moses significado | go down moses historia | quién escribió go down moses | go down moses espiritual historia | go down moses letra en español | go down moses louis armstrong
-translatedFrom: 762c5387f0d9
+translatedFrom: 425c4891c5a4
 original: Jubilee Songs (1872), página 22, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n24
 listen: Internet Archive, grabación de 1914 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-11026-go-down-moses
 ---
 
-Go Down, Moses es un espiritual afroamericano (en inglés, spiritual), creado por personas esclavizadas que cantaban como suya la historia bíblica del Éxodo. Dios envía a Moisés ante Faraón, el rey de Egipto, con una sola exigencia, "Let my people go" (deja ir á mi pueblo), y la canción responde con ella a cada verso de sus estrofas. Su primera impresión conocida con música es una partitura de 1861, The Song of the Contrabands, anotada en Fort Monroe, Virginia, de personas que habían escapado de la esclavitud en los primeros meses de la guerra civil estadounidense [^contrabands1861][^canterbury]. En 1872 los Fisk Jubilee Singers la imprimieron con 24 estrofas [^jubilee1872]. Harry T. Burleigh la arregló para voz y piano en 1917 [^burleigh1917][^imslp-burleigh], y Louis Armstrong la grabó en 1958 [^jazzjournal][^freshsound].
+Go Down, Moses es un espiritual afroamericano (en inglés, spiritual), creado por personas esclavizadas que cantaban como suya la historia bíblica del Éxodo. Dios envía a Moisés ante Faraón, el rey de Egipto, con una sola exigencia, "Let my people go" (deja ir á mi pueblo), y la canción responde con ella a cada verso de sus estrofas. Su primera impresión conocida con música es una partitura de 1861, The Song of the Contrabands, anotada en Fort Monroe, Virginia, de personas que habían escapado de la esclavitud en los primeros meses de la guerra civil estadounidense [^contrabands1861][^canterbury]. En 1872 se imprimió con 24 estrofas tal como la cantaban los Fisk Jubilee Singers [^jubilee1872]. Harry T. Burleigh la arregló para voz y piano en 1917 [^burleigh1917][^imslp-burleigh], y Louis Armstrong la grabó en 1958 [^jazzjournal][^freshsound].
 
 ## De dónde viene
 
@@ -58,6 +58,7 @@ La historia está en el libro del Éxodo. Los israelitas están esclavizados en 
 - **Estrofa 1.** "When Israel was in Egypt's land" quiere decir cuando los israelitas estaban esclavizados allí. "Oppressed so hard they could not stand" quiere decir tratados con tanta crueldad que ya no podían soportarlo más.
 - **Estrofa 2.** "Thus saith the Lord" quiere decir "así dice el Señor". Moisés lleva la advertencia de Dios de Éxodo 4: que deje ir al pueblo, o morirá el hijo primogénito de Faraón. Se cumple en Éxodo 12 [^kjv].
 - **El estribillo.** Dios le dice a Moisés que baje a Egipto y hable con el rey. "Ole" es "old" (viejo), y "Pharoh" es la grafía de Pharaoh (Faraón) en el libro de 1872, que mantenemos tal como se imprimió [^jubilee1872].
+- **Estrofas 22 y 23.** "Yer" es "your" (tu, vuestro), "de" es "the" (el, la) y "I likes" es "I like" (me gusta); la letra completa mantiene la grafía de 1872. "Quítate los zapatos de los pies" es lo que Dios le dice a Moisés ante la zarza ardiente (Éxodo 3:5), dicho aquí a las puertas del cielo [^kjv].
 
 Para quienes la crearon, la historia no hablaba solo del pasado. Frederick Douglass escribió en 1855 que, cuando él y sus amigos cantaban sobre Canaán mientras planeaban escapar, querían decir algo más que el cielo: "el norte era nuestro Canaán" [^douglass1855]. Las estrofas impresas también lo dicen: la partitura de 1861 tiene "O let us all from bondage flee" (huyamos todos de la esclavitud), y el libro de 1872 tiene "We need not always weep and moan, And wear these slavery chains forlorn" (no tenemos por qué llorar y gemir siempre, ni llevar, desolados, estas cadenas de esclavitud) [^contrabands1861][^jubilee1872].
 
@@ -235,7 +236,7 @@ Fue justo hacia el tiempo de la cosecha,
 > Let my people go;
 deja ir a mi pueblo;
 > When Joshua led his host divine,
-cuando Josué guió a su pueblo santo,
+cuando Josué guió a su hueste divina,
 > Let my people go.
 deja ir a mi pueblo.
 
@@ -275,7 +276,7 @@ Qué mañana tan hermosa será.
 > Let my people go:
 deja ir a mi pueblo;
 > When time breaks up in eternity,
-cuando el tiempo se abra a la eternidad,
+cuando el tiempo se deshaga en la eternidad,
 > Let my people go.
 deja ir a mi pueblo.
 
@@ -321,9 +322,9 @@ deja ir a mi pueblo.
 
 ## Cómo se canta
 
-Un espiritual folclórico se cantaba de oído, en el culto, por las personas que lo crearon; un espiritual de concierto se arregla para cantantes formados, en un escenario. Go Down, Moses ha sido las dos cosas. La edición de 1872 conserva su forma folclórica, el verso de quien dirige y la respuesta de todos: la llamada de cada estrofa es la melodía sola, y solo "Let my people go" está escrito a cuatro voces [^jubilee1872]. La partitura de 1861, en cambio, da las estrofas a una voz con piano y pone todo el estribillo a cuatro voces [^contrabands1861]. Los cantantes de Fisk la llevaron a las salas de concierto, y la introducción de su libro dice con claridad que su formación había cambiado su forma de cantar [^jubilee1872]. El arreglo de Burleigh de 1917 la convirtió en una canción de concierto para una voz y piano [^burleigh1917][^imslp-burleigh].
+Un espiritual folclórico se cantaba de oído, en el culto, por las personas que lo crearon; un espiritual de concierto se arregla para cantantes formados, en un escenario. Go Down, Moses ha sido las dos cosas. La edición de 1872 conserva su forma folclórica, el verso de quien dirige y la respuesta de todos: la llamada de cada estrofa es la melodía para una sola voz, el "Go down, Moses" del estribillo es la melodía para todos en octavas, y solo "Let my people go" está en armonía a cuatro voces [^jubilee1872]. La partitura de 1861, en cambio, da las estrofas a una voz con piano y pone todo el estribillo a cuatro voces [^contrabands1861]. Los cantantes de Fisk la llevaron a las salas de concierto, y la introducción de su libro dice con claridad que su formación había cambiado su forma de cantar [^jubilee1872]. El arreglo de Burleigh de 1917 la convirtió en una canción de concierto para una voz y piano [^burleigh1917][^imslp-burleigh].
 
-Nuestro arreglo se lee de la página 22 del libro de 1872, un tono más alto, en Sol menor, y su respuesta se basa en la de Seward [^jubilee1872]. Donde su respuesta empieza con una sola nota desnuda, la nuestra completa el acorde. Nuestra contralto toma la línea del tenor de Seward desde "people", la línea del tenor es nueva, y el bajo termina una octava por debajo del suyo, en un Sol grave. Cantamos las estrofas 1 y 2, cada una con el estribillo, despacio y con firmeza: la soprano canta sola cada llamada, y todos responden. Con dos cantantes se cantan la soprano y la contralto, con tres se suma el bajo, y con cuatro el tenor.
+Nuestro arreglo se lee de la página 22 del libro de 1872, un tono más alto, en Sol menor, y su respuesta se basa en la de Seward [^jubilee1872]. Donde su respuesta empieza con una sola nota desnuda, la nuestra completa el acorde. Nuestra contralto toma la línea del tenor de Seward desde "people", la línea del tenor es nueva, y el bajo termina una octava por debajo del suyo, en un Sol grave. Cantamos las estrofas 1 y 2, cada una con el estribillo, despacio y con firmeza: la soprano canta sola cada llamada, también la del estribillo, que en el libro canta todo el grupo, y todos responden. Con dos cantantes se cantan la soprano y la contralto, con tres se suma el bajo, y con cuatro el tenor.
 
 ## Versiones y otras letras
 
@@ -335,7 +336,7 @@ Nuestro arreglo se lee de la página 22 del libro de 1872, un tono más alto, en
 
 ## Cómo cantarla
 
-- [Soprano](/songs/go-down-moses/soprano): cantas sola cada llamada. Tu Re agudo llega en "way down" y en "Egypt", dentro de "way down in Egypt land"; toma aire a fondo antes. Cada "people" tiene un Fa sostenido: apóyate hacia arriba en él y luego asiéntate en Sol para "go".
+- [Soprano](/songs/go-down-moses/soprano): cantas sola cada llamada. Tu Re agudo llega en "way down" y en "Egypt", dentro de "way down in Egypt land"; toma aire a fondo antes. Cada "people" tiene un Fa sostenido: súbelo con decisión y luego asiéntate en Sol en "go".
 - [Contralto](/songs/go-down-moses/alto): cantas solo la respuesta, "Let my people go", con dos notas, Si bemol y Do. Escucha la llamada de la soprano y entra a la vez que las otras voces.
 - [Tenor](/songs/go-down-moses/tenor): cantas solo la respuesta, con dos notas, Sol y La, una buena primera línea para probar.
 - [Bajo](/songs/go-down-moses/bass): cantas solo la respuesta: Re en "Let my people" y luego bajas a un Sol grave en "go". Llega a ese Sol grave con firmeza.
@@ -348,11 +349,11 @@ Nadie en concreto: es un espiritual creado por afroamericanos esclavizados, y no
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía, y canta sola cada llamada, como la imprime el libro de 1872. Todos se unen en la respuesta, "Let my people go", en armonía: la contralto y el tenor con dos notas cada uno, y el bajo en Re y un Sol grave. Con dos cantantes tienes la soprano y la contralto, con tres se suma el bajo, y con cuatro el tenor.
+La soprano canta la melodía, y canta sola cada llamada; el libro de 1872 da las llamadas de las estrofas a una sola voz y pone a todo el grupo a cantar en octavas el "Go down, Moses" del estribillo. Todos se unen en la respuesta, "Let my people go", en armonía: la contralto y el tenor con dos notas cada uno, y el bajo en Re y un Sol grave. Con dos cantantes tienes la soprano y la contralto, con tres se suma el bajo, y con cuatro el tenor.
 
 ### ¿Cantaba Harriet Tubman Go Down Moses?
 
-Según su propio relato, cantaba una canción muy parecida, como aviso. En el libro de Sarah H. Bradford de 1869, una canción que empezaba "Moses go down in Egypt" decía a quienes se escondían en el bosque que siguieran escondidos [^bradford1869]. Tubman también contó que cambiaba el tempo de una canción para señalar si era seguro salir [^larson]. Nada en los documentos dice que la canción se hiciera sobre ella: la nota de Lockwood de 1861 la sitúa en Virginia [^contrabands1861].
+Según su propio relato, cantaba una canción muy parecida, como aviso. En el libro de Sarah H. Bradford de 1869, una canción que empezaba "Moses go down in Egypt" decía a quienes se escondían en el bosque que siguieran escondidos [^bradford1869]. Una historiadora de Tubman escribe que Tubman también contó que cambiaba el tempo de una canción para señalar si era seguro salir [^larson]. Nada en los documentos dice que la canción se hiciera sobre ella: la nota de Lockwood de 1861 la sitúa en Virginia [^contrabands1861].
 
 ## Canta después
 
@@ -377,13 +378,13 @@ Según su propio relato, cantaba una canción muy parecida, como aviso. En el li
 - [^nps-fm]: National Park Service, Fort Monroe National Monument, "Fort Monroe and the Contrabands of War". https://www.nps.gov/articles/fort-monroe-and-the-contrabands-of-war.htm
 - [^fisk]: Fisk University, "History". https://www.fisk.edu/about/history/
 - [^tsu]: Kay Beasley, "Fisk Jubilee Singers (1871- )", Tennessee State University Library. https://library3.tnstate.edu/library/DIGITAL/FISK.HTM
-- [^amheritage]: Andrew S. Ward, "They Brought Jubilee", *American Heritage* 51, n.º 4 (julio/agosto de 2000). https://www.americanheritage.com/they-brought-jubilee
-- [^kjv]: La Biblia, versión King James: Éxodo 1:11 a 14; 4:22 a 23; 5:1; 12:29 a 31; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
+- [^amheritage]: Andrew S. Ward, "They Brought the Jubilee", *American Heritage* 51, n.º 4 (julio/agosto de 2000). https://www.americanheritage.com/they-brought-jubilee
+- [^kjv]: La Biblia, versión King James: Éxodo 1:11 a 14; 3:5; 4:22 a 23; 5:1; 12:29 a 31; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%203%3A5%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot", edición de Project Gutenberg. https://www.gutenberg.org/files/202/202-h/202-h.htm
 - [^bradford1869]: Sarah H. Bradford, *Scenes in the Life of Harriet Tubman* (Auburn, N.Y.: W. J. Moses, Printer, 1869), pp. [9], 26 a 27 (imágenes n20, n37 y n38); ejemplar de la New York Public Library, facsímil. https://archive.org/details/scenesinlifeofha00brad
 - [^larson]: Kate Clifford Larson, "Myths and Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman
 - [^pbs]: PBS, "10 Interesting Facts about Harriet Tubman" (7 de septiembre de 2013). https://www.pbs.org/articles/harriet-tubman-facts-and-quotes/
-- [^burleigh1917]: H. T. Burleigh, *Negro Spirituals* (Londres: G. Ricordi, 1917), "Go Down, Moses!", para voz y piano; University of Toronto, Faculty of Music Library, M1670 .B87 N4, facsímil. https://archive.org/details/negrospirituals01burl
+- [^burleigh1917]: H. T. Burleigh, *Negro Spirituals*, Album No. 2 (Londres: G. Ricordi, después de 1925), p. 21, "Go Down, Moses!", para voz y piano, "Copyright MCMXVII by G. Ricordi"; University of Toronto, Faculty of Music Library, M1670 .B87 N4, facsímil. https://archive.org/details/negrospirituals01burl
 - [^imslp-burleigh]: IMSLP, "Go Down, Moses (Burleigh, Harry Thacker)", publicado en Nueva York: G. Ricordi & Co., 1917. https://imslp.org/wiki/Go_Down,_Moses_(Burleigh,_Harry_Thacker)
 - [^jazzjournal]: Hugh Rainey, reseña de Louis Armstrong, *Louis and the Good Book*, con discografía, Jazz Journal (16 de diciembre de 2022). https://jazzjournal.co.uk/2022/12/16/louis-armstrong-louis-and-the-good-book/
 - [^freshsound]: Fresh Sound Records, *Louis and the Good Book + Louis and the Angels*, notas de las pistas y las sesiones. http://www.freshsoundrecords.com/louis-armstrong-albums/5200-louis-and-the-good-book-louis-and-the-angels-2-lp-on-1-cd.html

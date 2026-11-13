@@ -1,25 +1,25 @@
 ---
 title: Go Down, Moses: history, meaning and the words explained
 description: Written down at Fort Monroe, Virginia, from people who had escaped slavery, and sold as sheet music in 1861. The spiritual's history and its words.
-lead: A spiritual made by enslaved African Americans, written down in 1861 from people who had escaped to Fort Monroe, Virginia. We sing two of the 24 verses the Fisk Jubilee Singers printed in 1872.
+lead: A spiritual made by enslaved African Americans, written down in 1861 from people who had escaped to Fort Monroe, Virginia. We sing two of the 24 verses printed in 1872 as the Fisk Jubilee Singers sang it.
 words: Traditional African American spiritual
 tune: Traditional
-earliestPrinting: The Song of the Contrabands, O Let My People Go, sheet music, New York, 1861 (earliest known printing with music; the words alone had appeared in New York papers earlier that year)
+earliestPrinting: The Song of the Contrabands, O Let My People Go, sheet music, New York, 1861 (earliest known printing with music; the words alone appeared in New York papers the same year)
 earliestPrintingSource: contrabands1861
 language: English
 alsoKnownAs: Let My People Go; The Song of the Contrabands
 wikidata: Q1533406
 quote: This Song, originated among the "Contrabands," and was first heard sung by them on their arrival at Fortress Monroe
 quoteSource: contrabands1861
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: go down moses meaning | who wrote go down moses | go down moses spiritual history | meaning behind go down moses | go down moses spiritual lyrics | go down moses louis armstrong
 original: Jubilee Songs (1872), page 22, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n24
 listen: Internet Archive, 1914 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-11026-go-down-moses
 ---
 
-Go Down, Moses is an African American spiritual, made by enslaved people who sang the Bible's story of the Exodus as their own. God sends Moses to Pharaoh, the king of Egypt, with one demand, "Let my people go", and the song answers every line of its verses with it. Its earliest known printing with music is sheet music of 1861, The Song of the Contrabands, taken down at Fort Monroe, Virginia, from people who had escaped slavery in the first months of the Civil War [^contrabands1861][^canterbury]. In 1872 the Fisk Jubilee Singers printed it with 24 verses [^jubilee1872]. Harry T. Burleigh set it for voice and piano in 1917 [^burleigh1917][^imslp-burleigh], and Louis Armstrong recorded it in 1958 [^jazzjournal][^freshsound].
+Go Down, Moses is an African American spiritual, made by enslaved people who sang the Bible's story of the Exodus as their own. God sends Moses to Pharaoh, the king of Egypt, with one demand, "Let my people go", and the song answers every line of its verses with it. Its earliest known printing with music is sheet music of 1861, The Song of the Contrabands, taken down at Fort Monroe, Virginia, from people who had escaped slavery in the first months of the Civil War [^contrabands1861][^canterbury]. In 1872 it was printed with 24 verses as the Fisk Jubilee Singers sang it [^jubilee1872]. Harry T. Burleigh set it for voice and piano in 1917 [^burleigh1917][^imslp-burleigh], and Louis Armstrong recorded it in 1958 [^jazzjournal][^freshsound].
 
 ## Where it comes from
 
@@ -57,6 +57,7 @@ The story is in the Book of Exodus. The Israelites are enslaved in Egypt, made t
 - **Verse 1.** "When Israel was in Egypt's land" means when the Israelites were enslaved there. "Oppressed so hard they could not stand" means treated so cruelly they could bear no more.
 - **Verse 2.** "Thus saith the Lord" means "this is what the Lord says". Moses carries God's warning from Exodus 4: let the people go, or Pharaoh's firstborn son will die. It comes true in Exodus 12 [^kjv].
 - **The refrain.** God tells Moses to go down into Egypt and speak to the king. "Ole" is old, and "Pharoh" is the 1872 book's spelling of Pharaoh, which we keep as printed [^jubilee1872].
+- **Verses 22 and 23.** "Yer" is your, "de" is the, and "I likes" is I like; the full words below keep the 1872 spelling. "Take your shoes from off your feet" is God's word to Moses at the burning bush (Exodus 3:5), here said at heaven's door [^kjv].
 
 For the people who made it, the story was not only about the past. Frederick Douglass wrote in 1855 that when he and his friends sang of Canaan while planning to escape, they meant more than heaven: "the north was our Canaan" [^douglass1855]. The printed verses say so too: the 1861 sheet music has "O let us all from bondage flee", and the 1872 book has "We need not always weep and moan, And wear these slavery chains forlorn" [^contrabands1861][^jubilee1872].
 
@@ -218,9 +219,9 @@ Let my people go.
 
 ## How it is sung
 
-A folk spiritual was sung by ear, in worship, by the people who made it; a concert spiritual is arranged for trained singers on a stage. Go Down, Moses has been both. The 1872 printing keeps its folk shape, a leader's line and everyone's answer: each verse's call is the tune alone, and only "Let my people go" is written for four voices [^jubilee1872]. The 1861 sheet music instead gives the verses to one voice with piano and sets the whole chorus in four parts [^contrabands1861]. The Fisk singers carried it into concert halls, and their book's introduction says plainly that their schooling had changed how they sang [^jubilee1872]. Burleigh's 1917 setting made it an art song for one voice and piano [^burleigh1917][^imslp-burleigh].
+A folk spiritual was sung by ear, in worship, by the people who made it; a concert spiritual is arranged for trained singers on a stage. Go Down, Moses has been both. The 1872 printing keeps its folk shape, a leader's line and everyone's answer: each verse's call is the tune for one voice, the refrain's "Go down, Moses" is the tune for everyone in octaves, and only "Let my people go" is in four-part harmony [^jubilee1872]. The 1861 sheet music instead gives the verses to one voice with piano and sets the whole chorus in four parts [^contrabands1861]. The Fisk singers carried it into concert halls, and their book's introduction says plainly that their schooling had changed how they sang [^jubilee1872]. Burleigh's 1917 setting made it an art song for one voice and piano [^burleigh1917][^imslp-burleigh].
 
-Our arrangement is read from page 22 of the 1872 book, a tone higher, in G minor, and its answer is built on Seward's [^jubilee1872]. Where his answer opens on one bare note, ours fills in the chord. Our alto takes Seward's tenor line from "people" on, the tenor's line is new, and the bass ends an octave below his, on a low G. We sing verses 1 and 2, each with the refrain, slowly and steadily: the soprano sings every call alone, and everyone answers. Two singers sing the soprano and alto, three add the bass, and four the tenor.
+Our arrangement is read from page 22 of the 1872 book, a tone higher, in G minor, and its answer is built on Seward's [^jubilee1872]. Where his answer opens on one bare note, ours fills in the chord. Our alto takes Seward's tenor line from "people" on, the tenor's line is new, and the bass ends an octave below his, on a low G. We sing verses 1 and 2, each with the refrain, slowly and steadily: the soprano sings every call alone, the refrain's too, where the book has everyone sing it, and everyone answers. Two singers sing the soprano and alto, three add the bass, and four the tenor.
 
 ## Versions and other words
 
@@ -245,11 +246,11 @@ No one person wrote it: it is a spiritual made by enslaved African Americans, an
 
 ### Which part sings the tune?
 
-The soprano sings the tune, and sings every call alone, as the 1872 book prints it. Everyone joins for the answer, "Let my people go", in harmony: the alto and tenor on two notes each, and the bass on D and a low G. With two singers you have the soprano and the alto, three add the bass, and four add the tenor.
+The soprano sings the tune, and sings every call alone; the 1872 book gives the verse calls to one voice and has everyone sing the refrain's "Go down, Moses" in octaves. Everyone joins for the answer, "Let my people go", in harmony: the alto and tenor on two notes each, and the bass on D and a low G. With two singers you have the soprano and the alto, three add the bass, and four add the tenor.
 
 ### Did Harriet Tubman sing Go Down Moses?
 
-By her own account she sang a song close to it, as a warning. In Sarah H. Bradford's book of 1869, a song beginning "Moses go down in Egypt" told people hiding in the woods to stay hidden [^bradford1869]. Tubman also said she changed a song's tempo to signal whether it was safe to come out [^larson]. Nothing in the record says the song was made about her: Lockwood's note of 1861 places it in Virginia [^contrabands1861].
+By her own account she sang a song close to it, as a warning. In Sarah H. Bradford's book of 1869, a song beginning "Moses go down in Egypt" told people hiding in the woods to stay hidden [^bradford1869]. A Tubman historian writes that Tubman also said she changed a song's tempo to signal whether it was safe to come out [^larson]. Nothing in the record says the song was made about her: Lockwood's note of 1861 places it in Virginia [^contrabands1861].
 
 ## Sing next
 
@@ -274,13 +275,13 @@ By her own account she sang a song close to it, as a warning. In Sarah H. Bradfo
 - [^nps-fm]: National Park Service, Fort Monroe National Monument, "Fort Monroe and the Contrabands of War". https://www.nps.gov/articles/fort-monroe-and-the-contrabands-of-war.htm
 - [^fisk]: Fisk University, "History". https://www.fisk.edu/about/history/
 - [^tsu]: Kay Beasley, "Fisk Jubilee Singers (1871- )", Tennessee State University Library. https://library3.tnstate.edu/library/DIGITAL/FISK.HTM
-- [^amheritage]: Andrew S. Ward, "They Brought Jubilee", *American Heritage* 51, no. 4 (July/August 2000). https://www.americanheritage.com/they-brought-jubilee
-- [^kjv]: The Bible, King James Version: Exodus 1:11 to 14; 4:22 to 23; 5:1; 12:29 to 31. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
+- [^amheritage]: Andrew S. Ward, "They Brought the Jubilee", *American Heritage* 51, no. 4 (July/August 2000). https://www.americanheritage.com/they-brought-jubilee
+- [^kjv]: The Bible, King James Version: Exodus 1:11 to 14; 3:5; 4:22 to 23; 5:1; 12:29 to 31. https://www.biblegateway.com/passage/?search=Exodus%201%3A11-14%3B%20Exodus%203%3A5%3B%20Exodus%204%3A22-23%3B%20Exodus%205%3A1%3B%20Exodus%2012%3A29-31&version=KJV
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), chapter 19, "The Run-Away Plot", Project Gutenberg edition. https://www.gutenberg.org/files/202/202-h/202-h.htm
 - [^bradford1869]: Sarah H. Bradford, *Scenes in the Life of Harriet Tubman* (Auburn, N.Y.: W. J. Moses, Printer, 1869), pp. [9], 26 to 27 (images n20, n37 and n38); New York Public Library copy, facsimile. https://archive.org/details/scenesinlifeofha00brad
 - [^larson]: Kate Clifford Larson, "Myths and Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman
 - [^pbs]: PBS, "10 Interesting Facts about Harriet Tubman" (7 September 2013). https://www.pbs.org/articles/harriet-tubman-facts-and-quotes/
-- [^burleigh1917]: H. T. Burleigh, *Negro Spirituals* (London: G. Ricordi, 1917), "Go Down, Moses!", for voice and piano; University of Toronto, Faculty of Music Library, M1670 .B87 N4, facsimile. https://archive.org/details/negrospirituals01burl
+- [^burleigh1917]: H. T. Burleigh, *Negro Spirituals*, Album No. 2 (London: G. Ricordi, after 1925), p. 21, "Go Down, Moses!", for voice and piano, "Copyright MCMXVII by G. Ricordi"; University of Toronto, Faculty of Music Library, M1670 .B87 N4, facsimile. https://archive.org/details/negrospirituals01burl
 - [^imslp-burleigh]: IMSLP, "Go Down, Moses (Burleigh, Harry Thacker)", published New York: G. Ricordi & Co., 1917. https://imslp.org/wiki/Go_Down,_Moses_(Burleigh,_Harry_Thacker)
 - [^jazzjournal]: Hugh Rainey, review of Louis Armstrong, *Louis and the Good Book*, with discography, Jazz Journal (16 December 2022). https://jazzjournal.co.uk/2022/12/16/louis-armstrong-louis-and-the-good-book/
 - [^freshsound]: Fresh Sound Records, *Louis and the Good Book + Louis and the Angels*, track and session notes. http://www.freshsoundrecords.com/louis-armstrong-albums/5200-louis-and-the-good-book-louis-and-the-angels-2-lp-on-1-cd.html
