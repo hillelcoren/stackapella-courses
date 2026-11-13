@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: fa9348b7b4b0
+translatedFrom: 9288c9c52101
 original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
@@ -178,6 +178,10 @@ Salamone Rossi incluyó una versión a ocho voces en su colección de cantos heb
 ### ¿Quién escribió Adon Olam?
 
 Nadie lo sabe. La tradición atribuye el himno a Solomon ibn Gabirol, el poeta español del siglo XI, pero la Jewish Encyclopedia de 1901 dice que su autor y su fecha son desconocidos. Israel Abrahams lo situó en la época de los Geonim, y la Encyclopaedia Judaica admite que puede ser más antiguo que Gabirol y venir de Babilonia.[^je][^abrahams][^ej][^etzion]
+
+### ¿Cuál es la historia de Adon Olam?
+
+Es un himno hebreo medieval anónimo. La tradición lo atribuye a Solomon ibn Gabirol, de la España del siglo XI, pero ningún documento lo prueba, y algunos estudiosos lo creen más antiguo.[^je][^abrahams][^ej][^etzion] Aparece por primera vez en libros de oraciones del rito asquenazí, o alemán, en el siglo XIV.[^ej][^etzion] Su verso sobre el dormir y el despertar llevó a los estudiosos a pensar que empezó como oración para antes de dormir.[^je][^abrahams] A finales de ese siglo los libros de oraciones también lo ponían al comienzo del servicio de la mañana y al cierre del Musaf de sabbat y de las fiestas, donde hoy es más conocido.[^etzion][^ej]
 
 ### ¿Por qué se canta Adon Olam con tantas melodías?
 

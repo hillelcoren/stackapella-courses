@@ -152,7 +152,7 @@ Our arrangement is read from his page, moved from D up to F and written in 3/4, 
 
 ### What does "blow the man down" mean?
 
-It means to knock a man down. W. B. Whall, a master mariner who learned the shanty at sea, wrote that "blow" in the packet-ship days meant "knock", and that the third mate was nicknamed the third "blower and striker" [^whallscan]. Richard Terry said "to blow" could also mean to kick [^terry]. In Whall's verses the man blown down is a Liverpool policeman [^whallscan].
+The earliest sailors we found who explained it said it means to knock a man down; the other reading often told, a gust of wind knocking a ship over, we found in no early source. W. B. Whall, a master mariner who learned the shanty at sea, wrote that "blow" in the packet-ship days meant "knock", and that the third mate was nicknamed the third "blower and striker" [^whallscan]. Richard Terry said "to blow" could also mean to kick [^terry]. In Whall's verses the man blown down is a Liverpool policeman [^whallscan].
 
 ### What is Blow the Man Down about, and where is it set?
 

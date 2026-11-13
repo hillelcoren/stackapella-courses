@@ -13,8 +13,8 @@ alsoKnownAs: Ave Verum; Ave verum Corpus, K. 618; Hail, true Body
 wikidata: Q955663
 quote: Esto nobis praegustatum in mortis examine.
 quoteSource: nma
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: ave verum corpus meaning | ave verum corpus meaning in english | ave verum corpus translation word for word | ave verum corpus latin and english | ave verum corpus meaning origin | ave verum corpus text meaning | who wrote ave verum corpus | who wrote ave verum corpus text | ave verum corpus history | ave verum corpus mozart history | ave verum corpus mozart 1791 | ave verum corpus when to sing | ave verum corpus byrd | ave verum corpus mozart lyrics | ave verum corpus mozart satb
 original: Mozart's autograph score (1791), Austrian National Library | https://data.onb.ac.at/rep/1321BF0C
@@ -99,7 +99,7 @@ Mozart's motet is in D major, Adagio, alla breve, two beats to the bar [^nma][^a
 
 ## Versions and other words
 
-William Byrd, the English royal organist, printed his Ave verum corpus in his Gradualia, published in London by Thomas East in 1605, nearly two centuries before Mozart [^byrd1605]. Many other composers set the words too [^nce]. In English, Julian's Dictionary of Hymnology lists several translations sung in churches, among them one beginning "Hail, true Body, born of Mary" [^julian].
+William Byrd, the English royal organist, printed his Ave verum corpus in his Gradualia, published in London by Thomas East in 1605, nearly two centuries before Mozart [^byrd1605]. Edward Elgar, then organist of St George's Catholic church in Worcester, wrote a Pie Jesu in 1887 for the funeral of William Allen, the solicitor he had worked for at fifteen; in 1902 he reworked it as an Ave verum corpus, and Novello published it as his Op. 2 No. 1, in its series Cantiones Sacrae, No. 36, dedicated "In Memoriam W. A." [^kennedy][^imslp-elgar]. Many other composers set the words too [^nce]. In English, Julian's Dictionary of Hymnology lists several translations sung in churches, among them one beginning "Hail, true Body, born of Mary" [^julian].
 
 ## Did you know?
 
@@ -122,11 +122,11 @@ William Byrd, the English royal organist, printed his Ave verum corpus in his Gr
 
 ### Who wrote Ave verum corpus?
 
-The words are anonymous: a medieval Latin prayer whose oldest dated copy is from 1293, later credited to a "Pope Innocent" without proof [^ah54][^mone][^cdh]. The most famous music for it is Mozart's, K. 618, dated at Baden on 17 June 1791 [^ah54][^autograph][^nma]. Among many other settings is William Byrd's, printed in London in 1605; ours is Mozart's [^byrd1605][^nce].
+The words are anonymous: a medieval Latin prayer whose oldest dated copy is from 1293, later credited to a "Pope Innocent" without proof; Innocent VI, the one usually named, reigned after it was already being copied [^ah54][^mone][^cdh][^nce]. The most famous music for it is Mozart's, K. 618, dated at Baden on 17 June 1791, probably for his friend Anton Stoll, the town's choirmaster [^autograph][^nma][^koechel1862][^mozstoll]. William Byrd's setting was printed in London in 1605, and Edward Elgar's, Op. 2 No. 1, in 1902 [^byrd1605][^imslp-elgar][^kennedy]. Ours is Mozart's.
 
 ### When is Ave verum corpus sung?
 
-It was made for the elevation, when the priest lifts the host at Mass, and Mozart's first publisher offered the motet for that moment at Mass [^ah54][^andre1808]. Mozart dated his score six days before the feast of Corpus Christi, which in 1791 fell on Thursday 23 June, but neither his score nor his catalogue names an occasion [^eastertable][^feasts][^autograph][^nma].
+It was made for the elevation, when the priest lifts the host at Mass, and Mozart's first publisher offered the motet for that moment [^ah54][^andre1808]. Mozart dated his score six days before the feast of Corpus Christi, which in 1791 fell on Thursday 23 June, but names no occasion [^eastertable][^feasts][^autograph][^nma]. The Catholic Church's chant book, the Liber Usualis, printed it in 1961 among the chants at Benediction of the Blessed Sacrament [^liber1961]. A modern Catholic reference calls the prayer no longer in liturgical use, but Elgar's setting, by one account, has kept its place in the choral repertory [^nce][^kennedy].
 
 ### Which part sings the tune?
 
@@ -161,5 +161,8 @@ The soprano sings Mozart's tune, mostly between E and B, rising to a top E only 
 - [^byrd1605]: William Byrd, *Gradualia: ac cantiones sacrae, quinis, quaternis, trinisque vocibus concinnatae* (London: Thomas East, 1605), Superius part-book, No. V, "Ave verum corpus". https://archive.org/details/bim_early-english-books-1475-1640_gradualia-ac-cantiones-_byrd-william_1605
 - [^ls]: Charlton T. Lewis and Charles Short, *A Latin Dictionary* (Oxford: Clarendon Press, 1879), s.v. "aveo" ("Ave! gratia plena"), "examen", "immolo", "praegusto". https://archive.org/details/latindictionaryf0000char_b0z3
 - [^vulgate]: *Biblia Sacra Vulgata*, John 19:34 ("unus militum lancea latus eius aperuit et continuo exivit sanguis et aqua"). https://www.biblegateway.com/passage/?search=John%2019%3A34&version=VULGATE
+- [^imslp-elgar]: IMSLP, *3 Motets, Op. 2 (Elgar, Edward)*: No. 1, "Ave Verum", composed 1887, revised 1902, dedicated "In Memoriam W. A. obit 27 January 1887 [William Allen]", its publication given as *Cantiones Sacrae*, No. 36 (London: Novello and Company, 1902), with a scan of a later issue; "originally conceived as Pie Jesu". https://imslp.org/wiki/3_Motets,_Op.2_(Elgar,_Edward)
+- [^kennedy]: Michael Kennedy, notes to *Elgar: Cathedral Music*, Worcester Cathedral Choir (Hyperion CDA66313, 1988). https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA66313
+- [^liber1961]: *The Liber Usualis, with introduction and rubrics in English*, edited by the Benedictines of Solesmes (Tournai and New York: Desclée, 1961), "Chants at Benediction of the Blessed Sacrament", "In Honour of the Blessed Sacrament", "Ave verum", pp. 1851 to 1857; Internet Archive item TheLiberUsualis1961, scan provided by the Church Music Association of America. https://archive.org/details/TheLiberUsualis1961
 - [^eastertable]: Utrecht University, Perpetual Easter Calculator, "Frequency of Occurrences of the Date of Easter over one Complete Gregorian Easter Cycle" (Easter Sunday on 24 April in 1791). https://webspace.science.uu.nl/~gent0113/easter/easter_text2c.htm
 - [^feasts]: Utrecht University, Perpetual Easter Calculator, "Liturgical Year" (Corpus Christi, the Thursday after Trinity Sunday, 60 days after Easter Sunday). https://webspace.science.uu.nl/~gent0113/easter/easter_text2b.htm

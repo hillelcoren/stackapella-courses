@@ -45,7 +45,7 @@ The tune has no known composer. Idelsohn printed it in the same book, in Table X
 
 ## What the words mean
 
-We sing only the refrain's first line, the three names, as Idelsohn printed it. His print spells the words the Ashkenazi way, "Eliyohu hanovi" and "hagilodi"; we sing them in modern Israeli pronunciation, syllable for syllable as his notes carry them.[^idel1929]
+We sing only the refrain's first line, the three names, as Idelsohn printed it. His print spells the words the Ashkenazi way, "Eliyohu hanovi" and "hagilodi"; we sing them in modern Israeli pronunciation, syllable for syllable as his notes carry them.[^idel1929] Said aloud, the title is "EL-ee-YAH-hoo hah-nah-VEE": the stress falls on "yah" in Eliyahu and on the last syllable of navi, "prophet", where the Bible's accent marks put it and where Hebrew speakers put it today. The other two names are "hah-tish-BEE" and "hah-gil-ah-DEE".[^masorah][^pealim]
 
 - **Eliyahu hanavi**: Elijah the prophet.
 - **Eliyahu hatishbi**: Elijah the Tishbite. Kings calls him this, probably after a place called Tishbe, whose site is uncertain.[^jeelijah]
@@ -209,9 +209,9 @@ In the Edot HaMizrach prayer book each stanza ends "Eliyahu hanavi zachur latov"
 
 ## Questions
 
-### Who composed the Eliyahu HaNavi song?
+### Who wrote Eliyahu HaNavi, and where do its words come from?
 
-No one knows. The words are a traditional Hebrew refrain whose author is unknown, and the tune is a folk tune. A. Z. Idelsohn printed it in 1929 among the tunes of the Eastern Ashkenazi folk song, and the Milken Archive's notes say its origin is still undetermined, though its dance rhythms sound Polish.[^idel1929][^milken]
+No one knows who wrote it. The words are a traditional refrain built from the Bible, and the tune is a folk tune whose origin, the Milken Archive's notes say, is still undetermined.[^idel1929][^milken] The three names come from the Book of Kings, "Elijah the Tishbite, who was of the settlers of Gilead"; the hope that he will come with the Messiah rests on Malachi's promise that Hashem would send Elijah before the great day.[^kings][^malachi][^jeelijah] Idelsohn called the refrain the oldest part of the Elijah songs sung at the close of the Sabbath by the eleventh century; the Milken notes are more cautious.[^idel1929][^milken]
 
 ### Why is Eliyahu HaNavi sung at Havdalah?
 
@@ -262,3 +262,5 @@ The soprano sings the tune throughout, as Idelsohn printed it, a minor third hig
 - [^brodt]: Eliezer Brodt, "The Cup for the Visitor: What lies behind the Kos Shel Eliyahu?", *The Seforim Blog* (18 March 2013). https://seforimblog.com/2013/03/the-cup-for-visitor-what-lies-behind/
 - [^chabad]: Israel Rubin, "The Silent Cup", *Chabad.org*. https://www.chabad.org/library/article_cdo/aid/117141/jewish/The-Silent-Cup.htm
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah*, revised edition (1923), introduction, "The Cup of Elijah", and the table setting. https://archive.org/details/unionhaggadahhom00unse
+- [^masorah]: *Miqra according to the Masorah*, the Hebrew Bible with its accent marks, based on the Aleppo Codex: I Kings 17:1 (Eliyahu, hatishbi), II Samuel 17:27 (hagiladi) and Malachi 3:23 (hanavi), via Sefaria. https://www.sefaria.org/Malachi.3.23
+- [^pealim]: Pealim, Hebrew dictionary, "נָבִיא (navi)", noun, prophet, with its stress marked on the last syllable. https://www.pealim.com/dict/4834-navi/

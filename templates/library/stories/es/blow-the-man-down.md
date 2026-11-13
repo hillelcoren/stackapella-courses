@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow the man down significado | qué significa blow the man down | blow the man down historia | blow the man down origen | quién escribió blow the man down | blow the man down letra
-translatedFrom: ae3bed7b5258
+translatedFrom: 944680bf4a44
 original: Whall, Ships, Sea Songs and Shanties (1913), p. 92, Internet Archive | https://archive.org/details/shipsseasongssha00whal/page/n111/mode/1up
 listen: National Jukebox, grabación de 1914 (popurrí) | https://www.loc.gov/item/jukebox-649564/
 ---
@@ -181,7 +181,7 @@ Nuestro arreglo está tomado de su página, subido de Re a Fa y escrito en 3/4, 
 
 ### ¿Qué significa "blow the man down"?
 
-Significa derribar a un hombre a golpes. W. B. Whall, capitán de la marina mercante que aprendió la shanty en el mar, escribió que en los tiempos de los paquebotes "blow" significaba "knock" (golpear), y que al tercer oficial lo apodaban el tercer "blower and striker" (el tercer golpeador) [^whallscan]. Richard Terry dijo que "to blow" también podía significar dar patadas [^terry]. En las estrofas de Whall, el hombre al que derriban es un policía de Liverpool [^whallscan].
+Los primeros marineros que encontramos que lo explicaron dijeron que significa derribar a un hombre a golpes; la otra lectura que se suele contar, una racha de viento que tumba un barco, no la encontramos en ninguna fuente antigua. W. B. Whall, capitán de la marina mercante que aprendió la shanty en el mar, escribió que en los tiempos de los paquebotes "blow" significaba "knock" (golpear), y que al tercer oficial lo apodaban el tercer "blower and striker" (el tercer golpeador) [^whallscan]. Richard Terry dijo que "to blow" también podía significar dar patadas [^terry]. En las estrofas de Whall, el hombre al que derriban es un policía de Liverpool [^whallscan].
 
 ### ¿De qué trata Blow the Man Down y dónde transcurre?
 

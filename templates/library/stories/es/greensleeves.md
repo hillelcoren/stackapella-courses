@@ -12,11 +12,11 @@ alsoKnownAs: Green Sleeves; Lady Greensleeves; Alas, my love, you do me wrong; A
 wikidata: Q674738
 quote: Greensleeves was all my joy, Greensleeves was my delight.
 quoteSource: chappell
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: greensleeves historia | greensleeves significado | quién escribió greensleeves | greensleeves enrique viii ana bolena | greensleeves letra traducción | greensleeves y what child is this
-translatedFrom: 41a52a9aea25
+translatedFrom: 43fa8a5bf021
 original: A Handful of Pleasant Delights (1584), reimpresión de Arber, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
 ---
 
@@ -189,7 +189,7 @@ Nuestro arreglo toma la melodía y la armonía de Macfarren de la página 230 de
 
 ## ¿Sabías que...?
 
-- Shakespeare hace que Mistress Ford la use para un desajuste: las palabras de Falstaff y su carácter, dice ella, casan tan poco como "el Salmo Cien con la melodía de 'Greensleeves'" [^folger][^chappell].
+- Shakespeare nombra la melodía dos veces en Las alegres comadres de Windsor (The Merry Wives of Windsor), impresa ya en 1602. En 2.1, Mistress Ford dice que las palabras de Falstaff y su carácter casan tan poco como "el Salmo Cien con la melodía de 'Greensleeves'", y en 5.5 Falstaff exclama: "Let the sky rain potatoes, let it thunder to the tune of 'Greensleeves'" (que el cielo llueva patatas, que truene con la melodía de "Greensleeves") [^folger][^folger55][^chappell][^folgertext].
 - El 23 de abril de 1660, después de jugar a los bolos y cenar, Samuel Pepys oyó a su señor cantar "una canción hecha sobre el Rump" con la melodía de "The Blacksmith", que, según anota su editor, "era la misma melodía que 'Green Sleeves'" [^pepys][^chappell].
 
 ## Cómo cantarla
@@ -244,6 +244,8 @@ La soprano canta la melodía, la copia más antigua de Chappell, un tono más ar
 - [^hymnary]: Hymnary.org, "What child is this, who, laid to rest", página del texto (William C. Dix, 1837 a 1898; The Manger Throne, 1865). https://hymnary.org/text/what_child_is_this_who_laid_to_rest
 - [^tcd]: Trinity College Dublin, The Library of Trinity College Dublin, exposición "In Tune", "Early music treasures": el libro de laúd de Ballet, TCD MS 408. https://www.tcd.ie/library/exhibitions/in-tune/early_music_treasures.php
 - [^folger]: William Shakespeare, *The Merry Wives of Windsor*, 2.1, FTLN 0653 a 0662, edición de la Folger Shakespeare Library. https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/2/1/
+- [^folger55]: William Shakespeare, *The Merry Wives of Windsor*, 5.5, FTLN 2675 a 2677, edición de la Folger Shakespeare Library. https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/5/5/
+- [^folgertext]: Barbara Mowat y Paul Werstine, "An Introduction to This Text: The Merry Wives of Windsor", Folger Shakespeare Library (el cuarto de 1602 y el Primer Folio de 1623). https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/an-introduction-to-this-text/
 - [^pepys]: Samuel Pepys, *Diary of Samuel Pepys, 1660*, ed. Henry B. Wheatley, entrada del 23 de abril de 1660, con la nota del editor sobre "the Blacksmith", libro electrónico 4125 de Project Gutenberg. https://www.gutenberg.org/files/4125/4125-h/4125-h.htm
 - [^gay]: John Gay, *The Beggar's Opera* (Londres: William Heinemann, 1921, texto de la edición de 1765), Air LXVI, "Green Sleeves", en la celda de los condenados, libro electrónico 25063 de Project Gutenberg. https://www.gutenberg.org/ebooks/25063
 - [^nls]: William Chappell, *Popular Music of the Olden Time*, vol. 1 (Londres: Cramer, Beale & Chappell, publicado por entregas, [1855 a 1859]), ejemplar de la National Library of Scotland encuadernado con las cubiertas de sus entregas: cubierta de la Part V, índice que da "Green Sleeves" en la p. 227, imágenes n449 a n450, y la lista del editor en su reverso, fechada "January, 1856", imagen n451. https://archive.org/details/popularmusicov1185559chap

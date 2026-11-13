@@ -97,6 +97,7 @@ Our arrangement takes its tune and words from Jubilee Songs, a tone higher, in A
 - **Hampton, 1874.** Hampton and Its Students, a book by two teachers at Hampton Institute in Virginia, with fifty "Cabin and Plantation Songs" arranged by Thomas P. Fenner, prints My Lord Delivered Daniel to another tune, its refrain in four parts. The refrain asks why He can't deliver me, and the fourth verse is the Fisk song's first verse, in the book's dialect spelling [^hampton1874].
 - **Burleigh, 1921.** Harry T. Burleigh's setting for solo voice and piano, from his "Jubilee Songs" of the United States of America, keeps the 1872 key of G minor and its 4/8 time, marked Andante [^burleigh1921][^imslp-burleigh].
 - **The Johnsons, 1925.** In The Book of American Negro Spirituals, J. Rosamond Johnson arranged it for voice and piano, also in G minor, "Lively (With spirit)", dedicated to Robert Russa Moton [^johnson1925].
+- **Paul Robeson, 1937.** The bass-baritone Paul Robeson recorded it at Abbey Road in London on 8 October 1937, with his accompanist Lawrence Brown at the piano; in America it came out on Victor 25809 [^emi1937][^spiritualsdb].
 - **Moses Hogan.** Moses Hogan arranged it for unaccompanied mixed choir in eight parts, published by Hal Leonard [^halleonard][^musicanet].
 
 ## Did you know?
@@ -121,9 +122,9 @@ It means: if God delivered Daniel from the lions, Jonah from the great fish and 
 
 No one knows. Its earliest known printing is in Jubilee Songs (New York, 1872), taken down from the Fisk Jubilee Singers, who said they had learned most of their songs as children. When and where it was made is not recorded [^seward1872].
 
-### Is this Moses Hogan's arrangement?
+### Is this Moses Hogan's arrangement, or another choir setting?
 
-No. Moses Hogan's well-known setting is for unaccompanied choir in eight parts [^halleonard][^musicanet]. Ours goes back to the 1872 page: the Fisk singers' own unison tune and words, a tone higher, with four simple parts of our own under it, and the verses sung by the soprano alone [^seward1872c].
+No. Moses Hogan's well-known setting is for unaccompanied choir in eight parts [^halleonard][^musicanet]. Other arrangers sell four-part settings of their own, among them one sold for mixed, men's or women's voices [^satbstore]. Ours is none of these; it goes back to the 1872 page: the Fisk singers' own unison tune and words, a tone higher, with four simple parts of our own under it, and the verses sung by the soprano alone [^seward1872c].
 
 ### Which part sings the tune?
 
@@ -157,4 +158,7 @@ The soprano, all the way through. It is the tune of 1872, which the book printed
 - [^commonprayer]: Common Prayer Online, *Lift Every Voice and Sing II*, No. 182, "Didn't My Lord Deliver Daniel?", text traditional. https://www.commonprayeronline.org/en/hymn/LEVAS/182
 - [^halleonard]: Hal Leonard, "Didn't My Lord Deliver Daniel", arranged by Moses Hogan, Festival Choral series, SATB divisi a cappella, HL 08703209. https://www.halleonard.com/product/8703209/didnt-my-lord-deliver-daniel
 - [^musicanet]: Musicanet, "Didn't My Lord Deliver Daniel", arr. Moses Hogan, SSAATTBB, Hal Leonard HL 08703209. https://musicanet.org/bdd/en/score/163057-didn-t-my-lord-deliver-daniel-moses-hogan
+- [^emi1937]: *Paul Robeson: The Complete EMI Sessions, 1928-1939* (EMI Classics, 2008), booklet, Compact Disc 6, "The 1937-8 Sessions", No. 4, "Didn't my Lord deliver Daniel?", traditional, Lawrence Brown, piano, recorded 8 October 1937, No. 3 Studio, Abbey Road, London; Internet Archive item cd_the-complete-emi-sessions-1928-1939_paul-robeson. https://archive.org/details/cd_the-complete-emi-sessions-1928-1939_paul-robeson
+- [^spiritualsdb]: *The Spirituals Database*, "Didn't My Lord Deliver Daniel", Paul Robeson, piano accompaniment, shellac disc, Victor 25809. https://spirituals-database.com/omeka/items/show/40143
+- [^satbstore]: "Didn't My Lord Deliver Daniel?", four-part arrangement for TTBB, SATB or SSAA, an arranger's sheet-music store (Elizabethtown, Kentucky). https://dalearrangements.com/?p=216
 - [^kjv]: The Bible, King James Version: Daniel 1:6 to 7; Daniel 3:12 to 25; Daniel 6:9 to 22; Jonah 1:17; Jonah 2:10; Matthew 12:40; Joel 2:31; Revelation 6:12 to 13. https://www.biblegateway.com/passage/?search=Daniel%201%3A6-7%3B%20Daniel%203%3A12-25%3B%20Daniel%206%3A9-22%3B%20Jonah%201%3A17%3B%20Jonah%202%3A10%3B%20Matthew%2012%3A40%3B%20Joel%202%3A31%3B%20Revelation%206%3A12-13&version=KJV

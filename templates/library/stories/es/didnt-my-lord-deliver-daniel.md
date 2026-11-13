@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: didn't my lord deliver daniel significado | didn't my lord deliver daniel historia | quién escribió didn't my lord deliver daniel | didn't my lord deliver daniel letra en español | and why not every man significado | didn't my lord deliver daniel moses hogan
-translatedFrom: eb6851d50ef1
+translatedFrom: a2dfa0afb273
 original: Jubilee Songs (1872), Emory University, Internet Archive | https://archive.org/details/29208201.4853.emory.edu
 ---
 
@@ -118,6 +118,7 @@ Nuestro arreglo toma su melodía y su letra de Jubilee Songs, un tono más arrib
 - **Hampton, 1874.** Hampton and Its Students, un libro de dos docentes del Hampton Institute, en Virginia, con cincuenta "Cabin and Plantation Songs" arregladas por Thomas P. Fenner, imprime My Lord Delivered Daniel con otra melodía, con su estribillo a cuatro voces. El estribillo pregunta por qué no puede Él librarme a mí, y la cuarta estrofa es la primera estrofa de la canción de Fisk, con la grafía dialectal del libro [^hampton1874].
 - **Burleigh, 1921.** El arreglo de Harry T. Burleigh para voz solista y piano, de sus "Jubilee Songs" of the United States of America, conserva la tonalidad de 1872, Sol menor, y su compás de 4/8, con la indicación Andante [^burleigh1921][^imslp-burleigh].
 - **Los Johnson, 1925.** En The Book of American Negro Spirituals, J. Rosamond Johnson la arregló para voz y piano, también en Sol menor, "Lively (With spirit)" (animado, con brío), con una dedicatoria a Robert Russa Moton [^johnson1925].
+- **Paul Robeson, 1937.** El bajo-barítono Paul Robeson la grabó en Abbey Road, en Londres, el 8 de octubre de 1937, con su pianista acompañante, Lawrence Brown; en Estados Unidos salió en el disco Victor 25809 [^emi1937][^spiritualsdb].
 - **Moses Hogan.** Moses Hogan la arregló para coro mixto a cappella a ocho voces, publicada por Hal Leonard [^halleonard][^musicanet].
 
 ## ¿Sabías que...?
@@ -142,9 +143,9 @@ Significa: si Dios libró a Daniel de los leones, a Jonás del gran pez y a los 
 
 Nadie lo sabe. Su primera impresión conocida está en Jubilee Songs (Nueva York, 1872), anotada a partir del canto de los Fisk Jubilee Singers, que dijeron haber aprendido de niños la mayoría de sus canciones. No consta cuándo ni dónde se creó [^seward1872].
 
-### ¿Es este el arreglo de Moses Hogan?
+### ¿Es este el arreglo de Moses Hogan, o el de otro coro?
 
-No. El conocido arreglo de Moses Hogan es para coro a cappella a ocho voces [^halleonard][^musicanet]. El nuestro vuelve a la página de 1872: la melodía al unísono y la letra de los propios cantantes de Fisk, un tono más arriba, con cuatro voces sencillas nuestras debajo, y las estrofas cantadas por la soprano sola [^seward1872c].
+No. El conocido arreglo de Moses Hogan es para coro a cappella a ocho voces [^halleonard][^musicanet]. Otros arreglistas venden sus propios arreglos a cuatro voces, entre ellos uno para voces mixtas, masculinas o femeninas [^satbstore]. El nuestro no es ninguno de ellos; vuelve a la página de 1872: la melodía al unísono y la letra de los propios cantantes de Fisk, un tono más arriba, con cuatro voces sencillas nuestras debajo, y las estrofas cantadas por la soprano sola [^seward1872c].
 
 ### ¿Qué voz canta la melodía?
 
@@ -178,4 +179,7 @@ La soprano, de principio a fin. Es la melodía de 1872, que el libro imprimió p
 - [^commonprayer]: Common Prayer Online, *Lift Every Voice and Sing II*, n.º 182, "Didn't My Lord Deliver Daniel?", letra tradicional. https://www.commonprayeronline.org/en/hymn/LEVAS/182
 - [^halleonard]: Hal Leonard, "Didn't My Lord Deliver Daniel", arreglo de Moses Hogan, serie Festival Choral, SATB divisi a cappella, HL 08703209. https://www.halleonard.com/product/8703209/didnt-my-lord-deliver-daniel
 - [^musicanet]: Musicanet, "Didn't My Lord Deliver Daniel", arr. Moses Hogan, SSAATTBB, Hal Leonard HL 08703209. https://musicanet.org/bdd/en/score/163057-didn-t-my-lord-deliver-daniel-moses-hogan
+- [^emi1937]: *Paul Robeson: The Complete EMI Sessions, 1928-1939* (EMI Classics, 2008), libreto, disco compacto 6, "The 1937-8 Sessions", n.º 4, "Didn't my Lord deliver Daniel?", tradicional, Lawrence Brown, piano, grabado el 8 de octubre de 1937, No. 3 Studio, Abbey Road, Londres; Internet Archive, ítem cd_the-complete-emi-sessions-1928-1939_paul-robeson. https://archive.org/details/cd_the-complete-emi-sessions-1928-1939_paul-robeson
+- [^spiritualsdb]: *The Spirituals Database*, "Didn't My Lord Deliver Daniel", Paul Robeson, con piano, disco de goma laca, Victor 25809. https://spirituals-database.com/omeka/items/show/40143
+- [^satbstore]: "Didn't My Lord Deliver Daniel?", arreglo a cuatro voces para TTBB, SATB o SSAA, tienda de partituras de un arreglista (Elizabethtown, Kentucky). https://dalearrangements.com/?p=216
 - [^kjv]: La Biblia, versión King James: Daniel 1:6 a 7; Daniel 3:12 a 25; Daniel 6:9 a 22; Jonás 1:17; Jonás 2:10; Mateo 12:40; Joel 2:31; Apocalipsis 6:12 a 13; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Daniel%201%3A6-7%3B%20Daniel%203%3A12-25%3B%20Daniel%206%3A9-22%3B%20Jonah%201%3A17%3B%20Jonah%202%3A10%3B%20Matthew%2012%3A40%3B%20Joel%202%3A31%3B%20Revelation%206%3A12-13&version=KJV

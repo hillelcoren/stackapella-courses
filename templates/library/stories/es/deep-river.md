@@ -12,11 +12,11 @@ alsoKnownAs: Deep River, My Home Is Over Jordan
 wikidata: Q5250269
 quote: En opinión del autor, esta es la melodía más bella y conmovedora de toda la serie
 quoteSource: coleridgetaylor1905
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: deep river significado | deep river espiritual historia | quién escribió deep river | deep river letra en español | qué significa camp ground en deep river | deep river río jordán significado
-translatedFrom: c9fd4726db5c
+translatedFrom: 84bc16e566e3
 listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-655500-deep-river || Internet Archive, grabación de 1923 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
 original: The Story of the Jubilee Singers, segunda edición (1875), Universitätsbibliothek Gießen | https://digisam.ub.uni-giessen.de/ubg-ihd-gb/content/pageview/5174010
 ---
@@ -135,7 +135,7 @@ Nadie lo sabe: es un espiritual creado por afroamericanos esclavizados, y no se 
 
 ### ¿Por qué es importante el río Jordán?
 
-En la Biblia los israelitas lo cruzan para entrar en la tierra prometida; el libro de Josué dice que se desbordaba en tiempo de la siega, y aun así lo cruzaron a pie enjuto [^kjv]. Por eso, en los himnos y los espirituales el Jordán representa la muerte, con el cielo en la otra orilla, y la tierra prometida del otro lado podía significar también la libertad: Frederick Douglass escribió que para él y sus amigos "el norte era nuestro Canaán" [^canterbury][^pitt][^douglass1855].
+En la Biblia los israelitas lo cruzan para entrar en la tierra prometida; el libro de Josué dice que se desbordaba en tiempo de la siega, y aun así lo cruzaron a pie enjuto [^kjv]. No es un río ancho: una partida de la marina estadounidense que lo bajó en bote desde el mar de Galilea en abril de 1848 anotó entre 25 y 90 yardas de ancho (unos 23 a 82 metros) y entre 2 y 11 pies de hondo (de medio metro a algo más de 3 metros), y una enciclopedia bíblica del siglo XIX, basada en ese viaje, da entre 80 y 150 pies de ancho y entre 5 y 12 de hondo [^lynch1852][^mcclintock]. En los himnos y los espirituales el Jordán representa la muerte, con el cielo en la otra orilla, y la tierra prometida del otro lado podía significar también la libertad: Frederick Douglass escribió que para él y sus amigos "el norte era nuestro Canaán" [^canterbury][^pitt][^douglass1855].
 
 ### ¿Qué voz canta la melodía?
 
@@ -171,4 +171,6 @@ La contralto, en las dos vueltas del estribillo, como lo escribió Burleigh; la 
 - [^tnencyc]: Conrad Ostwalt, "Camp Meetings", *Tennessee Encyclopedia* (Tennessee Historical Society). https://tennesseeencyclopedia.net/entries/camp-meetings/
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot", edición de Project Gutenberg. https://www.gutenberg.org/files/202/202-h/202-h.htm
 - [^anderson1923]: Library of Congress, National Jukebox, "Deep river", Marian Anderson con el arreglo de H. T. Burleigh, matriz Victor B-29072, toma 2, grabado el 10 de diciembre de 1923 (ítem de loc.gov jukebox-68748); copia en Internet Archive. https://archive.org/details/loc-jukebox-68748-deep-river
+- [^lynch1852]: W. F. Lynch, *Official Report of the United States' Expedition to Explore the Dead Sea and the River Jordan* (Baltimore: John Murphy & Co., 1852), pp. 28 a 31 y el diario de los botes, pp. 49 a 55; ejemplar digitalizado por Google, Internet Archive, ítem officialreportu00lyncgoog, escaneo. https://archive.org/details/officialreportu00lyncgoog
+- [^mcclintock]: John McClintock y James Strong, *Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature*, "Jordan" (Nueva York: Harper & Brothers, 1867 a 1887), el Jordán inferior, citando a Lynch, en Biblical Cyclopedia. https://www.biblicalcyclopedia.com/J/jordan.html
 - [^kjv]: La Biblia, versión King James: Deuteronomio 34:4; Josué 1:2; Josué 3:15 a 17; Lucas 14:16 a 17; Apocalipsis 4:10. https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A4%3B%20Joshua%201%3A2%3B%20Joshua%203%3A15-17%3B%20Luke%2014%3A16-17%3B%20Revelation%204%3A10&version=KJV

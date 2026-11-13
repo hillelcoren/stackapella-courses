@@ -2,7 +2,7 @@
 title: Ein Keloheinu: history, meaning and the words explained
 description: Ein Keloheinu comes near the end of the Sabbath morning service. Its first verses hide the word Amen; its tune was printed in Braunschweig in 1843.
 lead: Ein Keloheinu, "There is none like Hashem", is a short Hebrew hymn from the end of the Sabbath and festival morning service. Its tune here was written for the synagogue of Braunschweig, Germany.
-words: Traditional Hebrew liturgy, from the time of the Geonim; known from Amram Gaon's prayer book (9th century)
+words: Traditional Hebrew liturgy, author and date unknown; earliest known in Amram Gaon's prayer book (9th century)
 tune: Julius Freudenthal (1805 to 1874)
 earliestPrinting: 1843, the tune, in Hirsch Goldberg's songbook for the Braunschweig synagogue
 earliestPrintingSource: idel29
@@ -20,11 +20,11 @@ searches: ein keloheinu meaning | ein keloheinu translation | ein keloheinu pray
 original: Union Hymnal (New York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
-Ein Keloheinu, also spelled En Kelohenu, is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals; Sephardi Jews say it on weekdays as well.[^ej][^huji] Nobody knows who wrote it, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
+Ein Keloheinu, also spelled En Kelohenu, is a Hebrew hymn of five short verses that praise Hashem by four titles: Hashem, our Lord, our King, our Saviour. In the Ashkenazi rite it comes at the close of the additional service on Sabbaths and festivals, though Ashkenazi prayer books for Israel print it on weekdays too; Sephardi Jews say it on weekdays as well.[^ej][^huji][^sefaria] Nobody knows who wrote it or when, but it is already in the prayer book of Amram Gaon, from the ninth century.[^ej][^milken] Its words are older than any tune, so composers keep setting them: the Union Hymnal, an American Reform hymnal of 1897, printed four different settings, one after another.[^je][^uh1897][^uh1932] The tune we sing is the one Julius Freudenthal wrote for the synagogue of Braunschweig, printed there in 1843.[^idel29][^austerklein]
 
 ## Where it comes from
 
-**The words.** The hymn comes from the early Middle Ages, the period of the Geonim.[^huji][^posen] The oldest prayer book known to include it is Amram Gaon's, of the ninth century.[^ej][^milken] Its verses there stand in another order: the Jewish Encyclopedia of 1903 read it as opening with the question, "Who is like Hashem?", and only then answering, "There is none like Hashem", and the Posen Library's translation of Amram's text opens the same way.[^je][^posen] The two encyclopedias disagree on when today's order settled. The Jewish Encyclopedia says the hymn had its present form by the time of Rashi, who remarked on its acrostic; the Encyclopaedia Judaica says Rashi's prayer book still had the stanzas in a different sequence.[^je][^ej]
+**The words.** How old the hymn is, nobody knows. The Jewish Music Research Centre and the Posen Library place it in the early Middle Ages, the period of the Geonim.[^huji][^posen] The oldest prayer book known to include it is Amram Gaon's, of the ninth century: the earliest record of the words, though not proof of when they were made.[^ej][^milken] Its verses there stand in another order: the Jewish Encyclopedia of 1903 read it as opening with the question, "Who is like Hashem?", and only then answering, "There is none like Hashem", and the Posen Library's translation of Amram's text opens the same way.[^je][^posen] The two encyclopedias disagree on when today's order settled. The Jewish Encyclopedia says the hymn had its present form by the time of Rashi, who remarked on its acrostic; the Encyclopaedia Judaica says Rashi's prayer book still had the stanzas in a different sequence.[^je][^ej]
 
 That acrostic hides a word in the hymn's opening letters. The first letters of the first three verses, Ein, Mi and Node, spell Amen. The last two verses open with Baruch and Ata, "Blessed are You", the words that begin every Jewish blessing.[^je][^ej][^miller]
 
@@ -150,7 +150,7 @@ the incense of spices.
 
 ## How it is sung
 
-In the Ashkenazi rite Ein Keloheinu follows the additional service, Musaf, on Sabbaths and festivals; in the Sephardi rite it ends the weekday morning service too.[^ej][^huji] It was also sung at home, at the Sabbath table.[^je][^huji] The medieval commentator Rashi recorded the Ashkenazi custom of keeping it for Sabbaths and festivals. The Encyclopaedia Judaica gives his reason: the Sabbath Amidah, the central prayer, has seven blessings in place of the weekday nineteen, and the hymn's praises make up some of the difference.[^ej][^posen][^mjl]
+In the Ashkenazi rite Ein Keloheinu follows the additional service, Musaf, on Sabbaths and festivals; in the Sephardi rite it ends the weekday morning service too, and Ashkenazi prayer books for use in Israel print it in the weekday morning service as well.[^ej][^huji][^sefaria] It was also sung at home, at the Sabbath table.[^je][^huji] The medieval commentator Rashi recorded the Ashkenazi custom of keeping it for Sabbaths and festivals. The Encyclopaedia Judaica gives his reason: the Sabbath Amidah, the central prayer, has seven blessings in place of the weekday nineteen, and the hymn's praises make up some of the difference.[^ej][^posen][^mjl]
 
 Freudenthal's tune moves in short, even phrases, and in Braunschweig it was a dialogue between choir and cantor.[^bs1845] The Union Hymnal turned it into a plain four-part hymn for the whole choir, all five verses.[^uh1897]
 
@@ -184,11 +184,11 @@ Our arrangement is read from the 1897 Union Hymnal, No. 17. The book prints it i
 
 ### Who wrote Ein Keloheinu?
 
-Nobody knows who wrote the words. They come from the period of the Geonim, and the oldest prayer book known to include them is Amram Gaon's, of the ninth century. The tune we sing is by Julius Freudenthal of Braunschweig, printed there in 1843; the 1932 Union Hymnal names him.[^ej][^milken][^idel29][^uh1932]
+Nobody knows who wrote the words, or when. The oldest prayer book known to include them is Amram Gaon's, of the ninth century, and some scholars place them in the period of the Geonim, the early Middle Ages. The tune we sing is by Julius Freudenthal of Braunschweig, printed there in 1843; the 1932 Union Hymnal names him.[^ej][^milken][^huji][^idel29][^uh1932]
 
 ### When is Ein Keloheinu said?
 
-At the end of the Sabbath and festival service in Ashkenazi synagogues, right after Musaf. Sephardi Jews say it on weekdays too, at the close of the morning service. It has also been sung at home, at the Sabbath table.[^ej][^huji][^je]
+At the end of the Sabbath and festival service in most Ashkenazi synagogues, right after Musaf. Sephardi Jews say it on weekdays too, at the close of the morning service, and Ashkenazi prayer books for use in Israel print it there as well. It has also been sung at home, at the Sabbath table.[^ej][^huji][^sefaria][^je]
 
 ### Is Ein Keloheinu sung in Ladino?
 

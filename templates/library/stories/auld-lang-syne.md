@@ -13,8 +13,8 @@ alsoKnownAs: Should Auld Acquaintance Be Forgot; Auld Langsyne; For Auld Lang Sy
 wikidata: Q211939
 quote: We'll tak a cup o' kindness yet, For auld lang syne.
 quoteSource: smm5
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: auld lang syne meaning | auld lang syne meaning in english | auld lang syne meaning line by line | who wrote auld lang syne | who wrote auld lang syne music | auld lang syne history | auld lang syne original tune | why do we sing auld lang syne at new year's | auld lang syne how to pronounce | auld lang syne lyrics meaning
 original: The Scots Musical Museum, Internet Archive | https://archive.org/details/scotsmusicalmuv300john/page/n22
@@ -114,7 +114,7 @@ For auld lang syne.
 
 ## How it is sung
 
-In Scotland it is sung at midnight on Hogmanay, New Year's Eve, in a circle holding hands; on the last verse everyone crosses their arms and takes the hands on either side [^edinburgh][^scotorg]. It is sung at partings too; a Glasgow Burns scholar calls it "the global song of parting" [^gla][^dick]. In the 19th century it spread through social gatherings, Masonic ones among them, and the theatre, and in Scotland it took the place of "Good night, and joy be wi' you a'" as the song that ends a festive night [^mccue][^dick].
+In Scotland it is sung at midnight on Hogmanay, New Year's Eve, in a circle holding hands; on the last verse everyone crosses their arms and takes the hands on either side [^edinburgh][^scotorg]. That verse is the one about hands: "And there's a hand, my trusty fiere! And gie's a hand o' thine!" [^scotorg][^smm5]. Why the arms cross, no early source says. A University of Edinburgh musicologist's history of the song, of 2021, links the custom to the Freemasons' "mystic chain", a circle in which each man crosses his arms to give a hand to both neighbours, which draws the circle closer and makes it stronger [^grant][^edunews]. She finds a lodge's Burns night at Mauchline, in Ayrshire, closing in 1879 "by forming the circle of unity, and singing part of 'Auld langsyne'", and a school concert at Marlborough in 1867 ending with the song sung "with crossed hands" [^grant][^edunews]. It is sung at partings too; a Glasgow Burns scholar calls it "the global song of parting" [^gla][^dick]. In the 19th century it spread through social gatherings, Masonic ones among them, and the theatre, and in Scotland it took the place of "Good night, and joy be wi' you a'" as the song that ends a festive night [^mccue][^dick].
 
 Our arrangement takes the tune from Thomson's page, in F, written in 4/4 with every note value doubled, and Burns's words from the Museum, with its "and auld lang syne" [^thomson][^smm5]. We sing the first verse for 2 to 4 singers: the soprano sings the tune, the alto and tenor sing the words with it, and the bass holds the roots on "oo". Three held notes, "mind" among them, are shortened for breaths.
 
@@ -139,6 +139,10 @@ In the same 1799 volume Thomson set Burns's "Now Spring has clad the grove in gr
 ### Why do we sing Auld Lang Syne at New Year?
 
 Because in Scotland it is the Hogmanay song, sung at midnight in a circle of joined hands, and its words, old friends drinking to old times, suit the end of a year [^edinburgh][^scotorg]. Guy Lombardo's Canadian dance band played it at the stroke of midnight in its yearly New Year's Eve broadcasts, heard across North America [^tce][^natgeo]. Just why it became a world song is, a Glasgow Burns scholar says, still something of a mystery [^mccue].
+
+### Who wrote Auld Lang Syne, and who wrote the music?
+
+Robert Burns wrote the words we sing, on the pattern of older songs with the same first line, printed by James Watson in 1711 and Allan Ramsay in 1720 [^watson][^glen][^dick]. In 1793 he said he had taken it "down from an old man's singing", but no such song has been found, and how much of it is his is not known [^gebbie5][^dick][^hh3]. The music is not his: today's tune is a Scottish dance tune printed in 1759, which George Thomson set to the words in 1799. It is not William Shield's [^glen][^dick][^thomson].
 
 ### What is the original tune of Auld Lang Syne?
 
@@ -185,3 +189,5 @@ The soprano sings the tune, from middle C up to the D a ninth above [^thomson]. 
 - [^scotorg]: Scotland.org, "The history and words of Auld Lang Syne" (7 February 2017). https://www.scotland.org/inspiration/the-history-and-words-of-auld-lang-syne
 - [^natgeo]: Parissa Djangi, "Why we sing 'Auld Lang Syne' on New Year's Eve", *National Geographic* (27 December 2023). https://www.nationalgeographic.com/history/article/auld-lang-syne-new-years-eve-tradition
 - [^tce]: Edward B. Moogk, "Guy Lombardo and His Royal Canadians", *The Canadian Encyclopedia* (2008, edited 2015). https://www.thecanadianencyclopedia.ca/en/article/guy-lombardo-and-his-royal-canadians
+- [^grant]: M. J. Grant, *Auld Lang Syne: A Song and its Culture* (Cambridge: Open Book Publishers, 2021), chapter 5, "The Song of Union", pp. 103 to 107 and 115, open access. https://doi.org/10.11647/OBP.0231.05
+- [^edunews]: The University of Edinburgh, "Auld Lang Syne ritual lodged in Scotland's past" (news, 3 January 2022). https://www.ed.ac.uk/news/2022/auld-lang-syne-ritual-lodged-in-scotland-s-past

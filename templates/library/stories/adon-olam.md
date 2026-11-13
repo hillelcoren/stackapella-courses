@@ -178,6 +178,10 @@ Salamone Rossi included a setting for eight voices in his collection of Hebrew s
 
 Nobody knows. The hymn is traditionally credited to Solomon ibn Gabirol, the eleventh-century Spanish poet, but the Jewish Encyclopedia of 1901 calls its author and date unknown. Israel Abrahams placed it in the age of the Geonim, and the Encyclopaedia Judaica allows that it may be older than Gabirol and come from Babylonia.[^je][^abrahams][^ej][^etzion]
 
+### What is the history of Adon Olam?
+
+It is an anonymous medieval Hebrew hymn. Tradition credits Solomon ibn Gabirol, of eleventh-century Spain, but no record proves it, and some scholars think it older.[^je][^abrahams][^ej][^etzion] It is first found in prayer books of the Ashkenazi, or German, rite in the fourteenth century.[^ej][^etzion] Its line on sleeping and waking led scholars to think it began as a bedtime prayer.[^je][^abrahams] By the end of that century prayer books also set it at the start of the morning service and at the close of the Sabbath and festival Musaf, where it is best known today.[^etzion][^ej]
+
 ### Why is Adon Olam sung to so many tunes?
 
 Because its lines are short and strictly regular, many melodies fit them, as the Posen Library explains. The Encyclopaedia Judaica counts a great number of tunes, some written for it and some borrowed from other songs, Jewish and not. Yet in 1901 the Jewish Encyclopedia found that only four or five "deserve to be called traditional".[^posen][^ej][^je]

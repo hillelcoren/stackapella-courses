@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: b2bb3457392e
+translatedFrom: a64935a0e8fa
 original: Idelsohn, Jewish Music, p. 401, Internet Archive | https://archive.org/details/jewishmusicinits00idel_0/page/n418/mode/1up
 ---
 
@@ -46,7 +46,7 @@ La melodía no tiene compositor conocido. Idelsohn la imprimió en el mismo libr
 
 ## Qué dice la letra
 
-Cantamos solo el primer verso del estribillo, los tres nombres, tal como lo imprimió Idelsohn. Su impresión escribe las palabras a la manera asquenazí, "Eliyohu hanovi" y "hagilodi"; nosotros las cantamos con la pronunciación israelí moderna, sílaba por sílaba, tal como las llevan sus notas.[^idel1929]
+Cantamos solo el primer verso del estribillo, los tres nombres, tal como lo imprimió Idelsohn. Su impresión escribe las palabras a la manera asquenazí, "Eliyohu hanovi" y "hagilodi"; nosotros las cantamos con la pronunciación israelí moderna, sílaba por sílaba, tal como las llevan sus notas.[^idel1929] En voz alta, el título se dice "e-li-YA-hu ha-na-VI", con la h suave y aspirada: el acento cae en "ya" de Eliyahu y en la última sílaba de navi, "profeta", donde lo ponen los signos de acentuación de la Biblia y donde lo ponen hoy los hablantes de hebreo. Los otros dos nombres se dicen "ha-tish-BI" y "ha-gil-a-DI".[^masorah][^pealim]
 
 - **Eliyahu hanavi**: Elías el profeta.
 - **Eliyahu hatishbi**: Elías el tisbita. Así lo llama Reyes, probablemente por un lugar llamado Tisbé, cuyo emplazamiento no se conoce con certeza.[^jeelijah]
@@ -210,9 +210,9 @@ En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanav
 
 ## Preguntas
 
-### ¿Quién compuso la canción Eliyahu HaNavi?
+### ¿Quién escribió Eliyahu HaNavi, y de dónde viene su letra?
 
-Nadie lo sabe. La letra es un estribillo hebreo tradicional de autor desconocido, y la melodía es una melodía popular. A. Z. Idelsohn la imprimió en 1929 entre las melodías de la canción popular asquenazí oriental, y las notas del Milken Archive dicen que su origen sigue sin determinarse, aunque sus ritmos de danza suenan polacos.[^idel1929][^milken]
+Nadie sabe quién la escribió. La letra es un estribillo tradicional hecho con palabras de la Biblia, y la melodía es una melodía popular cuyo origen, según las notas del Milken Archive, sigue sin determinarse.[^idel1929][^milken] Los tres nombres vienen del libro de los Reyes, "Elías Thisbita, que era de los moradores de Galaad"; la esperanza de que venga con el Mesías se apoya en la promesa de Malaquías de que Hashem enviaría a Elías antes del gran día.[^kings][^malachi][^jeelijah] Idelsohn llamó al estribillo la parte más antigua de las canciones de Elías que se cantaban al cierre del sabbat en el siglo XI; las notas del Milken son más prudentes.[^idel1929][^milken]
 
 ### ¿Por qué se canta Eliyahu HaNavi en la Havdalá?
 
@@ -263,3 +263,5 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Idelsohn,
 - [^brodt]: Eliezer Brodt, "The Cup for the Visitor: What lies behind the Kos Shel Eliyahu?", *The Seforim Blog* (18 de marzo de 2013). https://seforimblog.com/2013/03/the-cup-for-visitor-what-lies-behind/
 - [^chabad]: Israel Rubin, "The Silent Cup", *Chabad.org*. https://www.chabad.org/library/article_cdo/aid/117141/jewish/The-Silent-Cup.htm
 - [^uh1923]: Central Conference of American Rabbis, *The Union Haggadah*, edición revisada (1923), introducción, "The Cup of Elijah", y la disposición de la mesa. https://archive.org/details/unionhaggadahhom00unse
+- [^masorah]: *Miqra according to the Masorah*, la Biblia hebrea con sus signos de acentuación, basada en el Códice de Alepo: I Reyes 17:1 (Eliyahu, hatishbi), II Samuel 17:27 (hagiladi) y Malaquías 3:23 (hanavi), en Sefaria. https://www.sefaria.org/Malachi.3.23
+- [^pealim]: Pealim, diccionario de hebreo, "נָבִיא (navi)", sustantivo, profeta, con el acento marcado en la última sílaba. https://www.pealim.com/dict/4834-navi/

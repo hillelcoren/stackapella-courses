@@ -12,11 +12,11 @@ alsoKnownAs: What Shall We Do with the Drunken Sailor?; What Shall We Do with a 
 wikidata: Q1261354
 quote: Ho! Ho! and up she rises, Early in the morning.
 quoteSource: olmsted
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: quién escribió drunken sailor | drunken sailor significado | drunken sailor canción significado | drunken sailor historia | drunken sailor hija del capitán significado | drunken sailor es irlandesa
-translatedFrom: d2868ae60d87
+translatedFrom: 972598bfbfd3
 original: Olmsted, Incidents of a Whaling Voyage (1841), p. 116, Internet Archive | https://archive.org/details/incidentsofwhali00olmsrich/page/n127/mode/1up
 ---
 
@@ -178,6 +178,10 @@ Terry la imprimió en 2/4, sin armadura, en Re dórico, una escala de sonido men
 ### ¿Quién escribió originalmente Drunken Sailor?
 
 Nadie lo sabe: es tradicional, y ninguna fuente antigua nombra a un autor. Su estribillo está impreso ya en 1841, a partir de un diario escrito en 1840 en el ballenero North America, de New London, donde la tripulación la cantaba a la vez mientras halaba [^olmsted][^balladindex]. La estrofa, "What shall we do with a drunken sailor", está impresa en 1908 como muy tarde, en *A Sailor's Garland*, de John Masefield [^masefield]. La melodía que cantamos es la que imprimió Richard Terry en 1921 [^terryscan].
+
+### ¿Cuál es la letra original de Drunken Sailor?
+
+No hay un único texto original. La primera impresión conocida, de 1841, a partir de un diario de un ballenero de 1840, trae solo el estribillo: "Ho! Ho! and up she rises" tres veces, y luego "Early in the morning" [^olmsted]. La estrofa "What shall we do with a drunken sailor" está impresa ya en 1908, en *A Sailor's Garland*, de Masefield, con el estribillo "Way, hay, there she rises" [^masefield]. Las seis estrofas que canta casi todo el mundo siguen *The Shanty Book*, de Richard Terry, de 1921 [^terryscan].
 
 ### ¿Drunken Sailor es irlandesa?
 

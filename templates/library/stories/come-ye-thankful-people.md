@@ -121,7 +121,9 @@ Our arrangement sings verse 1 and Alford's 1867 last verse, "Even so, Lord, quic
 
 ## Versions and other words
 
-Three texts are Alford's. The 1844 one has "We ourselves are God's own field" and a last verse calling on the "Church triumphant" and "ten thousand angels" [^ph1844]. In 1865 he changed only verse 3 [^pw1865]; in 1867, verses 2 and 4 [^yop1867]. Sources differ on which one is standard. Julian's Dictionary of Hymnology (1907) called the 1865 text the authorized one, and the one usually given in hymnals. The Psalter Hymnal Handbook (1987), quoted on Hymnary.org, traces its own hymnal's text to 1867 instead [^julian]. Some books mix them: the American Episcopal Hymnal of 1892 prints the 1867 text, but with the earlier line "Grant, O harvest Lord, that we", as in 1844 and 1865 [^pe1892][^ph1844][^pw1865].
+Three texts are Alford's. **The 1844 words**, set against the full words above, differ in three verses, leaving aside spelling and capitals ("gather'd", "his") [^ph1844]. Verse 1 is the same. Verse 2 opens "We ourselves are God's own field" and its prayer is "Grant, O Harvest Lord, that we / Wholesome grain and pure may be". Verse 3 has "From his field shall purge away / All that doth offend that day". Verse 4 reads: "Then, thou Church triumphant, come, / Raise the song of Harvest-home; / All are safely gather'd in, / Free from sorrow, free from sin; / There for ever purified, / In God's garner to abide: / Come, ten thousand angels, come, / Raise the glorious Harvest-home!" [^ph1844]
+
+In 1865 he changed only verse 3 [^pw1865]; in 1867, verses 2 and 4 [^yop1867]. Sources differ on which one is standard. Julian's Dictionary of Hymnology (1907) called the 1865 text the authorized one, and the one usually given in hymnals. The Psalter Hymnal Handbook (1987), quoted on Hymnary.org, traces its own hymnal's text to 1867 instead [^julian]. Some books mix them: the American Episcopal Hymnal of 1892 prints the 1867 text, but with the earlier line "Grant, O harvest Lord, that we", as in 1844 and 1865 [^pe1892][^ph1844][^pw1865].
 
 A fourth text is not his: the 1861 Hymns Ancient and Modern rewrite, which asks "What is earth but God's own field?" and gathers the saints "upon the golden floor" [^ham1861].
 
@@ -151,7 +153,7 @@ The first verse and Alford's last verse of 1867, "Even so, Lord, quickly come", 
 
 ### What are the original words?
 
-The original is Alford's text of 1844: four verses, headed "After Harvest", the second beginning "We ourselves are God's own field" [^ph1844]. He revised it in 1865 and 1867, and disowned the rewrite Hymns Ancient and Modern printed in 1861 [^pw1865][^yop1867][^ham1861].
+The original is Alford's text of 1844: four verses, headed "After Harvest" [^ph1844]. Its first verse is the one still sung. Verse 2 began "We ourselves are God's own field", verse 3 had "From his field shall purge away / All that doth offend that day", and verse 4 called the "Church triumphant" and "ten thousand angels" to the harvest-home; the 1844 wording is given under Versions and other words [^ph1844]. He revised it in 1865 and 1867, and disowned the rewrite Hymns Ancient and Modern printed in 1861 [^pw1865][^yop1867][^ham1861].
 
 ## Sing next
 

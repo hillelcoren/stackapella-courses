@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió come ye thankful people come | come ye thankful people come historia | come ye thankful people come significado | cuándo se escribió come ye thankful people come | come ye thankful people come letra original | come ye thankful people come himno melodía
-translatedFrom: 562964fe95e0
+translatedFrom: 99989d798aee
 ---
 
 Come, Ye Thankful People, Come es un himno de la cosecha. Henry Alford, vicario del pueblo de Wymeswold, en Leicestershire, lo imprimió en 1844, nuevo, en el himnario que preparó para su parroquia, con el encabezamiento "After Harvest" (después de la cosecha) [^ph1844][^life1873]. Su primera estrofa da gracias a Dios por una cosecha recogida antes del invierno. Las otras tres pasan a la parábola de Jesús del trigo y la cizaña, y a la cosecha del fin de los tiempos [^ph1844][^kjv]. Hymns Ancient and Modern le dio en 1861 la melodía con la que aún se canta, ST. GEORGE'S WINDSOR, de George Elvey, organista de la capilla de San Jorge de Windsor [^ham1861][^hymnary-tune]. En Inglaterra pertenece a la fiesta de la cosecha [^life1873][^hymnarchive]. Los himnarios episcopales estadounidenses lo imprimieron para el Día de Acción de Gracias al menos desde 1871 [^pe1871][^pe1892].
@@ -154,7 +154,9 @@ Nuestro arreglo canta la estrofa 1 y la última estrofa de Alford de 1867, "Even
 
 ## Versiones y otras letras
 
-Tres textos son de Alford. El de 1844 dice "We ourselves are God's own field" y tiene una última estrofa que llama a la "Church triumphant" (la Iglesia triunfante) y a "ten thousand angels" (diez mil ángeles) [^ph1844]. En 1865 cambió solo la estrofa 3 [^pw1865]; en 1867, las estrofas 2 y 4 [^yop1867]. Las fuentes no coinciden en cuál es el texto habitual. El Dictionary of Hymnology de Julian (1907) llamaba al texto de 1865 el autorizado, y el que solían dar los himnarios. El Psalter Hymnal Handbook (1987), citado en Hymnary.org, remonta en cambio el texto de su propio himnario a 1867 [^julian]. Algunos libros los mezclan: el himnario episcopal estadounidense de 1892 imprime el texto de 1867, pero con el verso anterior "Grant, O harvest Lord, that we", como en 1844 y 1865 [^pe1892][^ph1844][^pw1865].
+Tres textos son de Alford. **La letra de 1844**, comparada con la letra completa de arriba, cambia en tres estrofas, sin contar la ortografía y las mayúsculas ("gather'd", "his") [^ph1844]. La estrofa 1 es la misma. La estrofa 2 empieza "We ourselves are God's own field" (nosotros mismos somos el campo de Dios) y su oración es "Grant, O Harvest Lord, that we / Wholesome grain and pure may be" (concede, Señor de la cosecha, que seamos grano sano y puro). La estrofa 3 dice "From his field shall purge away / All that doth offend that day" (de su campo limpiará ese día todo lo que ofende). La estrofa 4 dice: "Then, thou Church triumphant, come, / Raise the song of Harvest-home; / All are safely gather'd in, / Free from sorrow, free from sin; / There for ever purified, / In God's garner to abide: / Come, ten thousand angels, come, / Raise the glorious Harvest-home!" (ven, pues, Iglesia triunfante, y canta la fiesta de la cosecha; todos están ya recogidos, libres de pena y de pecado, para quedarse, purificados para siempre, en el granero de Dios; venid, diez mil ángeles, y cantad la gloriosa fiesta de la cosecha) [^ph1844]
+
+En 1865 cambió solo la estrofa 3 [^pw1865]; en 1867, las estrofas 2 y 4 [^yop1867]. Las fuentes no coinciden en cuál es el texto habitual. El Dictionary of Hymnology de Julian (1907) llamaba al texto de 1865 el autorizado, y el que solían dar los himnarios. El Psalter Hymnal Handbook (1987), citado en Hymnary.org, remonta en cambio el texto de su propio himnario a 1867 [^julian]. Algunos libros los mezclan: el himnario episcopal estadounidense de 1892 imprime el texto de 1867, pero con el verso anterior "Grant, O harvest Lord, that we", como en 1844 y 1865 [^pe1892][^ph1844][^pw1865].
 
 Un cuarto texto no es suyo: la reescritura de Hymns Ancient and Modern de 1861, que pregunta "What is earth but God's own field?" (¿qué es la tierra sino el campo de Dios?) y reúne a los santos "upon the golden floor" (sobre el suelo de oro) [^ham1861].
 
@@ -184,7 +186,7 @@ La primera estrofa y la última de Alford de 1867, "Even so, Lord, quickly come"
 
 ### ¿Cuál es la letra original?
 
-La original es el texto de Alford de 1844: cuatro estrofas, con el encabezamiento "After Harvest", cuya segunda estrofa empieza "We ourselves are God's own field" [^ph1844]. Lo revisó en 1865 y en 1867, y rechazó la reescritura que Hymns Ancient and Modern imprimió en 1861 [^pw1865][^yop1867][^ham1861].
+La original es el texto de Alford de 1844: cuatro estrofas, con el encabezamiento "After Harvest" [^ph1844]. Su primera estrofa es la que se sigue cantando. La segunda empezaba "We ourselves are God's own field", la tercera decía "From his field shall purge away / All that doth offend that day", y la cuarta llamaba a la "Church triumphant" (la Iglesia triunfante) y a "ten thousand angels" (diez mil ángeles) a la fiesta de la cosecha; la letra de 1844 está en Versiones y otras letras [^ph1844]. Lo revisó en 1865 y en 1867, y rechazó la reescritura que Hymns Ancient and Modern imprimió en 1861 [^pw1865][^yop1867][^ham1861].
 
 ## Canta después
 

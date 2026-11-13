@@ -13,11 +13,11 @@ alsoKnownAs: Ave Verum; Ave verum Corpus, K. 618; Hail, true Body
 wikidata: Q955663
 quote: Esto nobis praegustatum in mortis examine.
 quoteSource: nma
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: ave verum corpus significado | ave verum corpus traducción | ave verum corpus letra en español | ave verum corpus historia | quién escribió el ave verum corpus | ave verum corpus mozart
-translatedFrom: f315921a6a2b
+translatedFrom: 6279202e3bd4
 original: Partitura autógrafa de Mozart (1791), Biblioteca Nacional de Austria | https://data.onb.ac.at/rep/1321BF0C
 listen: Internet Archive, grabación de 1923 | https://archive.org/details/AveVerum746Az || Internet Archive, grabación de 1914 | https://archive.org/details/aveverumgoldora
 ---
@@ -100,7 +100,7 @@ El motete de Mozart está en Re mayor, Adagio, alla breve, a dos pulsos por comp
 
 ## Versiones y otras letras
 
-William Byrd, el organista real inglés, imprimió su Ave verum corpus en su Gradualia, publicada en Londres por Thomas East en 1605, casi dos siglos antes que Mozart [^byrd1605]. Muchos otros compositores pusieron música a esta letra [^nce]. En inglés, el Dictionary of Hymnology de Julian recoge varias traducciones que se cantan en las iglesias, entre ellas una que empieza "Hail, true Body, born of Mary" (salve, verdadero cuerpo, nacido de María) [^julian].
+William Byrd, el organista real inglés, imprimió su Ave verum corpus en su Gradualia, publicada en Londres por Thomas East en 1605, casi dos siglos antes que Mozart [^byrd1605]. Edward Elgar, entonces organista de la iglesia católica de St George, en Worcester, escribió un Pie Jesu en 1887 para el funeral de William Allen, el abogado para quien había trabajado a los quince años; en 1902 lo rehízo como un Ave verum corpus, y Novello lo publicó como su op. 2 n.º 1, en su serie Cantiones Sacrae, n.º 36, dedicado "In Memoriam W. A." [^kennedy][^imslp-elgar]. Muchos otros compositores pusieron música a esta letra [^nce]. En inglés, el Dictionary of Hymnology de Julian recoge varias traducciones que se cantan en las iglesias, entre ellas una que empieza "Hail, true Body, born of Mary" (salve, verdadero cuerpo, nacido de María) [^julian].
 
 ## ¿Sabías que...?
 
@@ -123,11 +123,11 @@ William Byrd, el organista real inglés, imprimió su Ave verum corpus en su Gra
 
 ### ¿Quién escribió el Ave verum corpus?
 
-La letra es anónima: una oración latina medieval cuya copia fechada más antigua es de 1293, atribuida después a un "papa Inocencio" sin pruebas [^ah54][^mone][^cdh]. La música más famosa para ella es la de Mozart, K. 618, fechada en Baden el 17 de junio de 1791 [^ah54][^autograph][^nma]. Entre muchas otras versiones está la de William Byrd, impresa en Londres en 1605; la nuestra es la de Mozart [^byrd1605][^nce].
+La letra es anónima: una oración latina medieval cuya copia fechada más antigua es de 1293, atribuida después a un "papa Inocencio" sin pruebas; Inocencio VI, el que se suele nombrar, reinó cuando ya se copiaba [^ah54][^mone][^cdh][^nce]. La música más famosa para ella es la de Mozart, K. 618, fechada en Baden el 17 de junio de 1791, probablemente para su amigo Anton Stoll, el maestro de coro del lugar [^autograph][^nma][^koechel1862][^mozstoll]. La versión de William Byrd se imprimió en Londres en 1605, y la de Edward Elgar, op. 2 n.º 1, en 1902 [^byrd1605][^imslp-elgar][^kennedy]. La nuestra es la de Mozart.
 
 ### ¿Cuándo se canta el Ave verum corpus?
 
-Se hizo para la elevación, cuando el sacerdote alza la hostia en la Misa, y el primer editor de Mozart ofreció el motete para ese momento de la Misa [^ah54][^andre1808]. Mozart fechó su partitura seis días antes de la fiesta del Corpus Christi, que en 1791 cayó el jueves 23 de junio, pero ni su partitura ni su catálogo nombran una ocasión [^eastertable][^feasts][^autograph][^nma].
+Se hizo para la elevación, cuando el sacerdote alza la hostia en la Misa, y el primer editor de Mozart ofreció el motete para ese momento [^ah54][^andre1808]. Mozart fechó su partitura seis días antes de la fiesta del Corpus Christi, que en 1791 cayó el jueves 23 de junio, pero no nombra ninguna ocasión [^eastertable][^feasts][^autograph][^nma]. El libro de canto de la Iglesia católica, el Liber Usualis, lo imprimió en 1961 entre los cantos para la bendición con el Santísimo Sacramento [^liber1961]. Una obra católica de referencia moderna dice que la oración ya no se usa en la liturgia, pero la versión de Elgar, según una fuente, sigue en el repertorio de los coros [^nce][^kennedy].
 
 ### ¿Qué voz canta la melodía?
 
@@ -162,5 +162,8 @@ La soprano canta la melodía de Mozart, sobre todo entre Mi y Si, y sube a un Mi
 - [^byrd1605]: William Byrd, *Gradualia: ac cantiones sacrae, quinis, quaternis, trinisque vocibus concinnatae* (Londres: Thomas East, 1605), libro de la voz Superius, n.º V, "Ave verum corpus". https://archive.org/details/bim_early-english-books-1475-1640_gradualia-ac-cantiones-_byrd-william_1605
 - [^ls]: Charlton T. Lewis y Charles Short, *A Latin Dictionary* (Oxford: Clarendon Press, 1879), s.v. "aveo" ("Ave! gratia plena"), "examen", "immolo", "praegusto". https://archive.org/details/latindictionaryf0000char_b0z3
 - [^vulgate]: *Biblia Sacra Vulgata*, Juan 19:34 ("unus militum lancea latus eius aperuit et continuo exivit sanguis et aqua"). https://www.biblegateway.com/passage/?search=John%2019%3A34&version=VULGATE
+- [^imslp-elgar]: IMSLP, *3 Motets, Op. 2 (Elgar, Edward)*: n.º 1, "Ave Verum", compuesto en 1887, revisado en 1902, dedicado "In Memoriam W. A. obit 27 January 1887 [William Allen]", con la edición indicada como *Cantiones Sacrae*, n.º 36 (Londres: Novello and Company, 1902), con un escaneo de una tirada posterior; "originally conceived as Pie Jesu". https://imslp.org/wiki/3_Motets,_Op.2_(Elgar,_Edward)
+- [^kennedy]: Michael Kennedy, notas a *Elgar: Cathedral Music*, Worcester Cathedral Choir (Hyperion CDA66313, 1988). https://www.hyperion-records.co.uk/dc.asp?dc=D_CDA66313
+- [^liber1961]: *The Liber Usualis, with introduction and rubrics in English*, ed. por los benedictinos de Solesmes (Tournai y Nueva York: Desclée, 1961), "Chants at Benediction of the Blessed Sacrament", "In Honour of the Blessed Sacrament", "Ave verum", pp. 1851 a 1857; Internet Archive, ítem TheLiberUsualis1961, escaneo facilitado por la Church Music Association of America. https://archive.org/details/TheLiberUsualis1961
 - [^eastertable]: Utrecht University, Perpetual Easter Calculator, "Frequency of Occurrences of the Date of Easter over one Complete Gregorian Easter Cycle" (domingo de Pascua el 24 de abril en 1791). https://webspace.science.uu.nl/~gent0113/easter/easter_text2c.htm
 - [^feasts]: Utrecht University, Perpetual Easter Calculator, "Liturgical Year" (el Corpus Christi, el jueves después del domingo de la Trinidad, 60 días después del domingo de Pascua). https://webspace.science.uu.nl/~gent0113/easter/easter_text2b.htm

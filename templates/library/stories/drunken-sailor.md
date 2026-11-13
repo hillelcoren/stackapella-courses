@@ -12,8 +12,8 @@ alsoKnownAs: What Shall We Do with the Drunken Sailor?; What Shall We Do with a 
 wikidata: Q1261354
 quote: Ho! Ho! and up she rises, Early in the morning.
 quoteSource: olmsted
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who originally wrote drunken sailor | drunken sailor meaning | drunken sailor song meaning | drunken sailor captain's daughter meaning | drunken sailor history | drunken sailor is it irish | what shall we do with the drunken sailor lyrics
 original: Olmsted, Incidents of a Whaling Voyage (1841), p. 116, Internet Archive | https://archive.org/details/incidentsofwhali00olmsrich/page/n127/mode/1up
@@ -149,6 +149,10 @@ Terry printed it in 2/4, with no key signature, in D Dorian, a minor-sounding sc
 ### Who originally wrote Drunken Sailor?
 
 No one knows: it is traditional, and no early source names a maker. Its chorus is in print by 1841, from a journal kept in 1840 on the New London whaler North America, where the crew sang it together as they hauled [^olmsted][^balladindex]. The verse, "What shall we do with a drunken sailor", is in print by 1908 at the latest, in John Masefield's *A Sailor's Garland* [^masefield]. The tune we sing is the one Richard Terry printed in 1921 [^terryscan].
+
+### What are the original words of Drunken Sailor?
+
+There is no single original text. The earliest known printing, in 1841, from a whaler's journal of 1840, has only the chorus: "Ho! Ho! and up she rises" three times, then "Early in the morning" [^olmsted]. The verse "What shall we do with a drunken sailor" is in print by 1908, in Masefield's *A Sailor's Garland*, with the chorus "Way, hay, there she rises" [^masefield]. The six verses most people sing follow Richard Terry's *The Shanty Book* of 1921 [^terryscan].
 
 ### Is Drunken Sailor Irish?
 

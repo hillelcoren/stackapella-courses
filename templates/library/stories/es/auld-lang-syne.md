@@ -13,11 +13,11 @@ alsoKnownAs: Should Auld Acquaintance Be Forgot; Auld Langsyne; For Auld Lang Sy
 wikidata: Q211939
 quote: We'll tak a cup o' kindness yet, For auld lang syne.
 quoteSource: smm5
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: auld lang syne significado | auld lang syne traducción | quién escribió auld lang syne | auld lang syne historia | por qué se canta auld lang syne en año nuevo
-translatedFrom: 41a3dc3265c2
+translatedFrom: 966599573267
 original: The Scots Musical Museum, Internet Archive | https://archive.org/details/scotsmusicalmuv300john/page/n22
 listen: National Jukebox, grabación de 1918 | https://www.loc.gov/item/jukebox-28325/ || National Jukebox, grabación de 1908 | https://www.loc.gov/item/jukebox-422466/
 ---
@@ -139,7 +139,7 @@ por los viejos tiempos.
 
 ## Cómo se canta
 
-En Escocia se canta a medianoche en Hogmanay, la noche de fin de año, en un círculo con las manos unidas; en la última estrofa todos cruzan los brazos y toman las manos de quienes tienen a cada lado [^edinburgh][^scotorg]. Se canta también en las despedidas; una autoridad de Glasgow en Burns la llama "la canción mundial de la despedida" [^gla][^dick]. En el siglo XIX se extendió por las reuniones sociales, entre ellas las masónicas, y por el teatro, y en Escocia ocupó el lugar de "Good night, and joy be wi' you a'" como la canción que cierra una noche de fiesta [^mccue][^dick].
+En Escocia se canta a medianoche en Hogmanay, la noche de fin de año, en un círculo con las manos unidas; en la última estrofa todos cruzan los brazos y toman las manos de quienes tienen a cada lado [^edinburgh][^scotorg]. Esa estrofa es la de las manos: "And there's a hand, my trusty fiere! And gie's a hand o' thine!" (aquí tienes una mano, mi fiel compañero, y dame tú la tuya) [^scotorg][^smm5]. Por qué se cruzan los brazos, ninguna fuente antigua lo dice. Una historia de la canción de 2021, escrita por una musicóloga de la Universidad de Edimburgo, relaciona la costumbre con la "cadena mística" de los masones, un círculo en el que cada uno cruza los brazos para dar una mano a cada vecino, lo que estrecha el círculo y lo hace más fuerte [^grant][^edunews]. Encuentra una noche de Burns de una logia de Mauchline, en Ayrshire, que en 1879 terminó "by forming the circle of unity, and singing part of 'Auld langsyne'" (formando el círculo de la unidad y cantando parte de "Auld langsyne"), y un concierto escolar en Marlborough, en 1867, que terminó con la canción cantada "with crossed hands" (con las manos cruzadas) [^grant][^edunews]. Se canta también en las despedidas; una autoridad de Glasgow en Burns la llama "la canción mundial de la despedida" [^gla][^dick]. En el siglo XIX se extendió por las reuniones sociales, entre ellas las masónicas, y por el teatro, y en Escocia ocupó el lugar de "Good night, and joy be wi' you a'" como la canción que cierra una noche de fiesta [^mccue][^dick].
 
 Nuestro arreglo toma la melodía de la página de Thomson, en Fa, escrita en 4/4 con todos los valores de las notas duplicados, y la letra de Burns del Museum, con su "and auld lang syne" [^thomson][^smm5]. Cantamos la primera estrofa para 2 a 4 cantantes: la soprano canta la melodía, la contralto y el tenor cantan la letra con ella, y el bajo sostiene las fundamentales en "oo" (una u). Tres notas largas, entre ellas la de "mind", se acortan para respirar.
 
@@ -164,6 +164,10 @@ En el mismo volumen de 1799, Thomson puso "Now Spring has clad the grove in gree
 ### ¿Por qué se canta Auld Lang Syne en Año Nuevo?
 
 Porque en Escocia es la canción de Hogmanay, que se canta a medianoche en un círculo de manos unidas, y su letra, viejos amigos que brindan por los viejos tiempos, encaja con el final de un año [^edinburgh][^scotorg]. La orquesta de baile canadiense de Guy Lombardo la tocaba al dar la medianoche en sus emisiones anuales de fin de año, que se oían en toda Norteamérica [^tce][^natgeo]. Por qué exactamente se convirtió en una canción de todo el mundo sigue siendo, según una estudiosa de Burns de Glasgow, algo así como un misterio [^mccue].
+
+### ¿Quién escribió Auld Lang Syne, y quién compuso la música?
+
+Robert Burns escribió la letra que cantamos, siguiendo canciones más antiguas con el mismo primer verso, que imprimieron James Watson en 1711 y Allan Ramsay en 1720 [^watson][^glen][^dick]. En 1793 dijo que la había anotado "from an old man's singing" (del canto de un anciano), pero esa canción nunca se ha encontrado, y no se sabe cuánto de ella es suyo [^gebbie5][^dick][^hh3]. La música no es suya: la melodía de hoy es una danza escocesa impresa en 1759, que George Thomson unió a la letra en 1799. No es de William Shield [^glen][^dick][^thomson].
 
 ### ¿Cuál es la melodía original de Auld Lang Syne?
 
@@ -210,3 +214,5 @@ La soprano canta la melodía, desde el Do central hasta el Re una novena por enc
 - [^scotorg]: Scotland.org, "The history and words of Auld Lang Syne" (7 de febrero de 2017). https://www.scotland.org/inspiration/the-history-and-words-of-auld-lang-syne
 - [^natgeo]: Parissa Djangi, "Why we sing 'Auld Lang Syne' on New Year's Eve", *National Geographic* (27 de diciembre de 2023). https://www.nationalgeographic.com/history/article/auld-lang-syne-new-years-eve-tradition
 - [^tce]: Edward B. Moogk, "Guy Lombardo and His Royal Canadians", *The Canadian Encyclopedia* (2008, editado en 2015). https://www.thecanadianencyclopedia.ca/en/article/guy-lombardo-and-his-royal-canadians
+- [^grant]: M. J. Grant, *Auld Lang Syne: A Song and its Culture* (Cambridge: Open Book Publishers, 2021), capítulo 5, "The Song of Union", pp. 103 a 107 y 115, en acceso abierto. https://doi.org/10.11647/OBP.0231.05
+- [^edunews]: The University of Edinburgh, "Auld Lang Syne ritual lodged in Scotland's past" (noticia, 3 de enero de 2022). https://www.ed.ac.uk/news/2022/auld-lang-syne-ritual-lodged-in-scotland-s-past

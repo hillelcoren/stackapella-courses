@@ -2,7 +2,7 @@
 title: Ein Keloheinu: historia, significado y la letra explicada
 description: Ein Keloheinu llega casi al final del oficio matinal del sabbat. Sus primeras estrofas esconden la palabra Amén; su melodía se imprimió en Braunschweig en 1843.
 lead: Ein Keloheinu, "No hay nadie como Hashem", es un breve himno hebreo del final del oficio de la mañana del sabbat y de las fiestas. Nuestra melodía se escribió para la sinagoga de Braunschweig, en Alemania.
-words: Liturgia hebrea tradicional, de la época de los Geonim; conocida por el libro de oraciones de Amram Gaon (siglo IX)
+words: Liturgia hebrea tradicional, de autor y fecha desconocidos; la primera fuente conocida es el libro de oraciones de Amram Gaon (siglo IX)
 tune: Julius Freudenthal (1805 a 1874)
 earliestPrinting: 1843, la melodía, en el cancionero de Hirsch Goldberg para la sinagoga de Braunschweig
 earliestPrintingSource: idel29
@@ -17,15 +17,15 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ein keloheinu significado | ein keloheinu traducción | ein keloheinu oración | ein keloheinu letra | ein keloheinu canción
-translatedFrom: 19947cb9d5f1
+translatedFrom: 6a64a1e5489a
 original: Union Hymnal (Nueva York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
-Ein Keloheinu, también escrito En Kelohenu, es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas; los judíos sefardíes lo dicen también entre semana.[^ej][^huji] Nadie sabe quién lo escribió, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro músicas distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
+Ein Keloheinu, también escrito En Kelohenu, es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Señor, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas, aunque los libros de oraciones asquenazíes para Israel lo traen también entre semana; los judíos sefardíes lo dicen también entre semana.[^ej][^huji][^sefaria] Nadie sabe quién lo escribió ni cuándo, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro músicas distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
 
 ## De dónde viene
 
-**La letra.** El himno viene de la Alta Edad Media, la época de los Geonim.[^huji][^posen] El libro de oraciones más antiguo que se sabe que lo incluye es el de Amram Gaon, del siglo IX.[^ej][^milken] Allí sus estrofas van en otro orden: la Jewish Encyclopedia de 1903 lo leía como si empezara con la pregunta, "¿Quién es como Hashem?", y solo después respondiera: "No hay nadie como Hashem", y la traducción del texto de Amram en la Posen Library empieza igual.[^je][^posen] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
+**La letra.** Nadie sabe qué antigüedad tiene el himno. El Jewish Music Research Centre y la Posen Library lo sitúan en la Alta Edad Media, la época de los Geonim.[^huji][^posen] El libro de oraciones más antiguo que se sabe que lo incluye es el de Amram Gaon, del siglo IX: el documento más antiguo de la letra, aunque no prueba cuándo se hizo.[^ej][^milken] Allí sus estrofas van en otro orden: la Jewish Encyclopedia de 1903 lo leía como si empezara con la pregunta, "¿Quién es como Hashem?", y solo después respondiera: "No hay nadie como Hashem", y la traducción del texto de Amram en la Posen Library empieza igual.[^je][^posen] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
 
 Ese acróstico esconde una palabra en las letras iniciales del himno. Las primeras letras de las tres primeras estrofas, Ein, Mi y Node, forman Amén. Las dos últimas estrofas empiezan con Baruch y Ata, "Bendito eres Tú", las palabras con que empieza toda bendición judía.[^je][^ej][^miller]
 
@@ -151,7 +151,7 @@ el incienso de especias.
 
 ## Cómo se canta
 
-En el rito asquenazí, Ein Keloheinu sigue al oficio adicional, el Musaf, los sabbats y las fiestas; en el rito sefardí cierra también el oficio de la mañana entre semana.[^ej][^huji] También se cantaba en casa, en la mesa del sabbat.[^je][^huji] El comentarista medieval Rashi dejó constancia de la costumbre asquenazí de reservarlo para los sabbats y las fiestas. La Encyclopaedia Judaica da su razón: la Amidah del sabbat, la oración central, tiene siete bendiciones en lugar de las diecinueve de entre semana, y las alabanzas del himno compensan parte de la diferencia.[^ej][^posen][^mjl]
+En el rito asquenazí, Ein Keloheinu sigue al oficio adicional, el Musaf, los sabbats y las fiestas; en el rito sefardí cierra también el oficio de la mañana entre semana, y los libros de oraciones asquenazíes para Israel lo traen también en el oficio de la mañana entre semana.[^ej][^huji][^sefaria] También se cantaba en casa, en la mesa del sabbat.[^je][^huji] El comentarista medieval Rashi dejó constancia de la costumbre asquenazí de reservarlo para los sabbats y las fiestas. La Encyclopaedia Judaica da su razón: la Amidah del sabbat, la oración central, tiene siete bendiciones en lugar de las diecinueve de entre semana, y las alabanzas del himno compensan parte de la diferencia.[^ej][^posen][^mjl]
 
 La melodía de Freudenthal avanza en frases cortas y regulares, y en Braunschweig era un diálogo entre el coro y el cantor.[^bs1845] El Union Hymnal la convirtió en un himno sencillo a cuatro voces para todo el coro, con las cinco estrofas.[^uh1897]
 
@@ -185,11 +185,11 @@ Nuestro arreglo se basa en el Union Hymnal de 1897, n.º 17. El libro lo imprime
 
 ### ¿Quién escribió Ein Keloheinu?
 
-Nadie sabe quién escribió la letra. Viene de la época de los Geonim, y el libro de oraciones más antiguo que se sabe que la incluye es el de Amram Gaon, del siglo IX. La melodía que cantamos es de Julius Freudenthal, de Braunschweig, impresa allí en 1843; el Union Hymnal de 1932 lo nombra.[^ej][^milken][^idel29][^uh1932]
+Nadie sabe quién escribió la letra, ni cuándo. El libro de oraciones más antiguo que se sabe que la incluye es el de Amram Gaon, del siglo IX, y algunos estudiosos la sitúan en la época de los Geonim, la Alta Edad Media. La melodía que cantamos es de Julius Freudenthal, de Braunschweig, impresa allí en 1843; el Union Hymnal de 1932 lo nombra.[^ej][^milken][^huji][^idel29][^uh1932]
 
 ### ¿Cuándo se dice Ein Keloheinu?
 
-Al final del oficio del sabbat y de las fiestas en las sinagogas asquenazíes, justo después del Musaf. Los judíos sefardíes lo dicen también entre semana, al cierre del oficio de la mañana. También se ha cantado en casa, en la mesa del sabbat.[^ej][^huji][^je]
+Al final del oficio del sabbat y de las fiestas en la mayoría de las sinagogas asquenazíes, justo después del Musaf. Los judíos sefardíes lo dicen también entre semana, al cierre del oficio de la mañana, y los libros de oraciones asquenazíes para Israel lo traen ahí también. También se ha cantado en casa, en la mesa del sabbat.[^ej][^huji][^sefaria][^je]
 
 ### ¿Se canta Ein Keloheinu en ladino?
 

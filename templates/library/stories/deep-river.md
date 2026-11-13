@@ -12,8 +12,8 @@ alsoKnownAs: Deep River, My Home Is Over Jordan
 wikidata: Q5250269
 quote: In the author's opinion this is the most beautiful and touching melody of the whole series
 quoteSource: coleridgetaylor1905
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: deep river spiritual meaning | what does campground mean in deep river | deep river my home is over jordan meaning | who wrote deep river spiritual | deep river spiritual history | deep river song history | deep river american spiritual | why is the river jordan important | deep river spiritual lyrics | deep river choir sheet music
 listen: Internet Archive, 1916 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-655500-deep-river || Internet Archive, 1923 recording (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-68748-deep-river
@@ -125,7 +125,7 @@ No one knows: it is a spiritual made by enslaved African Americans, and no maker
 
 ### Why is the river Jordan important?
 
-In the Bible the Israelites cross it into the promised land; the book of Joshua says it overflowed its banks at harvest, yet they crossed on dry ground [^kjv]. So in hymns and spirituals the Jordan stands for death, with heaven on the other side, and the promised land beyond it could also mean freedom: Frederick Douglass wrote that for him and his friends "the north was our Canaan" [^canterbury][^pitt][^douglass1855].
+In the Bible the Israelites cross it into the promised land; the book of Joshua says it overflowed its banks at harvest, yet they crossed on dry ground [^kjv]. It is not a wide river: an American naval party that rowed down it from the Sea of Galilee in April 1848 logged it at 25 to 90 yards wide and 2 to 11 feet deep, and a 19th-century Bible encyclopedia, drawing on that survey, gives 80 to 150 feet wide and 5 to 12 feet deep [^lynch1852][^mcclintock]. In hymns and spirituals it stands for death, with heaven on the other side, and the promised land beyond it could also mean freedom: Frederick Douglass wrote that for him and his friends "the north was our Canaan" [^canterbury][^pitt][^douglass1855].
 
 ### Which part sings the tune?
 
@@ -161,4 +161,6 @@ The alto, twice through the refrain, as Burleigh wrote it; the soprano waits eig
 - [^tnencyc]: Conrad Ostwalt, "Camp Meetings", *Tennessee Encyclopedia* (Tennessee Historical Society). https://tennesseeencyclopedia.net/entries/camp-meetings/
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), chapter 19, "The Run-Away Plot", Project Gutenberg edition. https://www.gutenberg.org/files/202/202-h/202-h.htm
 - [^anderson1923]: Library of Congress, National Jukebox, "Deep river", Marian Anderson with H. T. Burleigh's arrangement, Victor matrix B-29072, take 2, recorded 10 December 1923 (loc.gov item jukebox-68748); Internet Archive mirror. https://archive.org/details/loc-jukebox-68748-deep-river
+- [^lynch1852]: W. F. Lynch, *Official Report of the United States' Expedition to Explore the Dead Sea and the River Jordan* (Baltimore: John Murphy & Co., 1852), pp. 28 to 31 and the boats' log, pp. 49 to 55; Google-digitized copy, Internet Archive item officialreportu00lyncgoog, scan. https://archive.org/details/officialreportu00lyncgoog
+- [^mcclintock]: John McClintock and James Strong, *Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature*, "Jordan" (New York: Harper & Brothers, 1867 to 1887), the lower Jordan, citing Lynch, via Biblical Cyclopedia. https://www.biblicalcyclopedia.com/J/jordan.html
 - [^kjv]: The Bible, King James Version: Deuteronomy 34:4; Joshua 1:2; Joshua 3:15 to 17; Luke 14:16 to 17; Revelation 4:10. https://www.biblegateway.com/passage/?search=Deuteronomy%2034%3A4%3B%20Joshua%201%3A2%3B%20Joshua%203%3A15-17%3B%20Luke%2014%3A16-17%3B%20Revelation%204%3A10&version=KJV

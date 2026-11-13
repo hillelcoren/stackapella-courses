@@ -12,8 +12,8 @@ alsoKnownAs: Green Sleeves; Lady Greensleeves; Alas, my love, you do me wrong; A
 wikidata: Q674738
 quote: Greensleeves was all my joy, Greensleeves was my delight.
 quoteSource: chappell
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote greensleeves | did henry viii write greensleeves | greensleeves henry viii anne boleyn | what does greensleeves mean | lady greensleeves meaning | greensleeves lyrics meaning | is greensleeves the same as what child is this | greensleeves when was it written | greensleeves history origin | is greensleeves an english folk song | greensleeves original song
 original: A Handful of Pleasant Delights (1584), Arber's reprint, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
@@ -145,7 +145,7 @@ Our arrangement reads the tune and Macfarren's harmony from Chappell's page 230,
 
 ## Did you know?
 
-- Shakespeare has Mistress Ford use it for a mismatch: Falstaff's words and his character, she says, go together no better than "the Hundredth Psalm to the tune of 'Greensleeves'" [^folger][^chappell].
+- Shakespeare names the tune twice in The Merry Wives of Windsor, in print by 1602. In 2.1 Mistress Ford says Falstaff's words and his character go together no better than "the Hundredth Psalm to the tune of 'Greensleeves'", and in 5.5 Falstaff cries "Let the sky rain potatoes, let it thunder to the tune of 'Greensleeves'" [^folger][^folger55][^chappell][^folgertext].
 - On 23 April 1660, after ninepins and supper, Samuel Pepys heard his lord sing "a song made upon the Rump" to the tune of "The Blacksmith", which, his editor notes, "was the same tune as 'Green Sleeves'" [^pepys][^chappell].
 
 ## Singing it
@@ -200,6 +200,8 @@ The soprano sings the tune, Chappell's oldest copy, a whole tone higher [^chappe
 - [^hymnary]: Hymnary.org, "What child is this, who, laid to rest", text page (William C. Dix, 1837 to 1898; The Manger Throne, 1865). https://hymnary.org/text/what_child_is_this_who_laid_to_rest
 - [^tcd]: Trinity College Dublin, The Library of Trinity College Dublin, exhibition "In Tune", "Early music treasures": the Ballet lute book, TCD MS 408. https://www.tcd.ie/library/exhibitions/in-tune/early_music_treasures.php
 - [^folger]: William Shakespeare, *The Merry Wives of Windsor*, 2.1, FTLN 0653 to 0662, Folger Shakespeare Library edition. https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/2/1/
+- [^folger55]: William Shakespeare, *The Merry Wives of Windsor*, 5.5, FTLN 2675 to 2677, Folger Shakespeare Library edition. https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/read/5/5/
+- [^folgertext]: Barbara Mowat and Paul Werstine, "An Introduction to This Text: The Merry Wives of Windsor", Folger Shakespeare Library (the quarto of 1602 and the First Folio of 1623). https://www.folger.edu/explore/shakespeares-works/the-merry-wives-of-windsor/an-introduction-to-this-text/
 - [^pepys]: Samuel Pepys, *Diary of Samuel Pepys, 1660*, ed. Henry B. Wheatley, entry of 23 April 1660, with the editor's note on "the Blacksmith", Project Gutenberg eBook 4125. https://www.gutenberg.org/files/4125/4125-h/4125-h.htm
 - [^gay]: John Gay, *The Beggar's Opera* (London: William Heinemann, 1921, text of the 1765 edition), Air LXVI, "Green Sleeves", in the condemned hold, Project Gutenberg eBook 25063. https://www.gutenberg.org/ebooks/25063
 - [^nls]: William Chappell, *Popular Music of the Olden Time*, vol. 1 (London: Cramer, Beale & Chappell, issued in parts, [1855 to 1859]), National Library of Scotland copy bound with its part wrappers: Part V wrapper, index listing "Green Sleeves" at p. 227, images n449 to n450, and the publisher's list on its back dated "January, 1856", image n451. https://archive.org/details/popularmusicov1185559chap
