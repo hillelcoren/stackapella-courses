@@ -1,7 +1,7 @@
 ---
 title: Annie Laurie: historia, significado y la letra explicada
 description: Lady John Scott hizo Annie Laurie con una canción más antigua en 1834 o 1835; se imprimió en Edimburgo en 1838 sin su nombre. Su historia y sus tres estrofas.
-lead: Annie Laurie es una canción de amor escocesa para la hija de un laird de Maxwelton. Su letra nació de unas estrofas impresas en 1823; Lady John Scott las rehízo con melodía propia, impresa sin su nombre en 1838.
+lead: Annie Laurie es una canción de amor escocesa para la hija de un laird de Maxwelton. Su letra nació de dos estrofas impresas en 1823; Lady John Scott las rehízo con melodía propia, impresa sin su nombre en 1838.
 words: según se dice, de un tal señor Douglas de Fingland (las estrofas antiguas, impresas en 1823), rehecha por Lady John Scott (1810 a 1900)
 tune: Lady John Scott (Alicia Ann Spottiswoode, 1810 a 1900)
 earliestPrinting: octubre de 1838, The Vocal Melodies of Scotland, vol. 3, n.º 27, p. 89 (Edimburgo: Paterson & Roy), sin firma
@@ -14,7 +14,7 @@ quote: And for bonnie Annie Laurie, / I'd lay me down and dee.
 quoteSource: hall
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió annie laurie | quién era annie laurie | annie laurie significado | annie laurie historia | annie laurie letra traducción | maxwelton braes are bonnie significado
 translatedFrom: 7ca57b45d3b6
 original: Annie Laurie (Nueva York: William Hall & Son, hacia 1850), Internet Archive | https://archive.org/details/b10258073

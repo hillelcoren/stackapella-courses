@@ -1,6 +1,6 @@
 ---
 title: O the Beautiful Treasure: historia, significado y la letra explicada
-description: Canción shaker copiada hacia 1849 en el cancionero de Mary Hazzard como "Valuable Riches" y firmada "Holy Ground", nombre shaker de Canterbury.
+description: Canción shaker copiada hacia 1849 en el cancionero de Mary Hazzard como "Valuable Riches", firmada "Holy Ground", nombre shaker de Canterbury (Nuevo Hampshire).
 lead: O the Beautiful Treasure es una breve canción shaker en tonalidad menor sobre un tesoro guardado para los sabios, más brillante que los diamantes de una corona. La cantamos según el cancionero manuscrito de Mary Hazzard, de hacia 1849.
 words: Canción shaker, sin autor nombrado (copiada hacia 1849)
 tune: Canción shaker, sin autor nombrado (copiada hacia 1849)
@@ -12,7 +12,7 @@ quote: O the beautiful treasure laid up for the wise
 quoteSource: hazzard
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: o the beautiful treasures | o the beautiful treasure canción shaker | qué son las canciones shaker | canciones shaker significado | haceos tesoros en el cielo significado | haceos tesoros en el cielo versículo
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 translatedFrom: 16f764e8b14b

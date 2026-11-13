@@ -16,7 +16,7 @@ quote: Ojalá que todo el pueblo de Jehová fuesen profetas.
 quoteSource: milton-ws
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: jerusalem himno | jerusalem himno significado | quién compuso la música de jerusalem | dark satanic mills significado | es jerusalem el himno nacional de inglaterra | jerusalem william blake poema completo
 translatedFrom: fea07eb61f20
 original: The Old Country (1917), Internet Archive | https://archive.org/details/oldcountrybookof0000erne
@@ -116,7 +116,7 @@ en la tierra verde y grata de Inglaterra.
 
 ## Cómo se canta
 
-Parry escribió una sola melodía para voces y órgano, con una estrofa para solista y luego una para todos [^oldcountry][^standpoint]. Los himnarios imprimen su melodía con su acompañamiento como armonía [^sop1925][^ucc1930]. La cantan coros de iglesia y los Women's Institutes, en jubileos y en acontecimientos deportivos ingleses, sobre todo en el rugby [^aspects][^robinson][^dibble][^oliveira]. Su nombre de melodía es JERUSALEM, y su metro, el largo doble, 8.8.8.8 D [^sop1925][^ucc1930].
+Parry escribió una sola melodía para voces y órgano, con una estrofa para solista y luego una para todos [^oldcountry][^standpoint]. Los himnarios imprimen su melodía con su acompañamiento como armonía [^sop1925][^ucc1930]. La cantan coros de iglesia y los Women's Institutes, en jubileos y en acontecimientos deportivos ingleses, sobre todo en el rugby [^aspects][^robinson][^dibble][^oliveira]. La melodía se llama JERUSALEM, y su metro es largo doble, 8.8.8.8 D [^sop1925][^ucc1930].
 
 ![[3]]
 

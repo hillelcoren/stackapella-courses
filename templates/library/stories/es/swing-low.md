@@ -15,7 +15,7 @@ quote: Swing low, sweet chariot, coming for to carry me home
 quoteSource: seward1872
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: swing low sweet chariot significado | swing low sweet chariot significado esclavitud | swing low sweet chariot ferrocarril subterráneo | quién escribió swing low sweet chariot | swing low sweet chariot historia | swing low sweet chariot rugby inglaterra
 translatedFrom: 2645c455193e
 original: Jubilee Songs (1872), página 6, Emory University | https://archive.org/details/29208201.4853.emory.edu/page/n8/mode/1up
@@ -180,7 +180,7 @@ La soprano canta la melodía de principio a fin, y las otras voces cantan en arm
 - [^psh]: Hymnary.org, *Psalter Hymnal* (1987), n.º 617, "Swing Low, Sweet Chariot", con las notas del Psalter Hymnal Handbook. https://hymnary.org/hymn/PsH/617
 - [^hymnary-text]: Hymnary.org, "Swing Low, Sweet Chariot" (texto), con notas. https://hymnary.org/text/swing_low_sweet_chariot
 - [^hymnary-jordan]: Hymnary.org, "I looked over Jordan, and what did I see" (Swing Low, Sweet Chariot), página del texto, en 111 himnarios. https://hymnary.org/text/i_looked_over_jordan_and_what_did_i_see
-- [^kjv]: La Biblia, versión King James: 2 Reyes 2:7 a 11; Josué 3:17; las citas en español, de la Reina-Valera de 1909 (https://www.biblegateway.com/passage/?search=2%20Reyes%202%3A7-11%3B%20Josu%C3%A9%203%3A17&version=RVA). https://www.biblegateway.com/passage/?search=2%20Kings%202%3A7-11%3B%20Joshua%203%3A17&version=KJV
+- [^kjv]: La Biblia, versión King James: 2 Reyes 2:7 a 11; Josué 3:17; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=2%20Kings%202%3A7-11%3B%20Joshua%203%3A17&version=KJV;RVA
 - [^douglass1855]: Frederick Douglass, *My Bondage and My Freedom* (1855), capítulo 19, "The Run-Away Plot"; texto de Project Gutenberg. https://www.gutenberg.org/ebooks/202
 - [^bordewich]: Fergus M. Bordewich, "Myths of the Underground Railroad", *Underground Railroad Online Handbook* (House Divided Project, Dickinson College). https://housedivided.dickinson.edu/sites/ugrr/thematic-essays/myths-of-the-underground-railroad-bordewich/
 - [^larson]: Kate Clifford Larson, "Myths & Facts About Harriet Tubman", Visit Maryland. https://www.visitmaryland.org/article/myths-facts-about-harriet-tubman

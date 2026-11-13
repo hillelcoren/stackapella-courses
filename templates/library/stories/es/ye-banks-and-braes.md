@@ -8,13 +8,13 @@ earliestPrinting: The Scots Musical Museum, vol. 4, Edimburgo, 1792, n.º 374, p
 earliestPrintingSource: smm1792
 language: escocés
 origin: Escocia
-alsoKnownAs: The Banks o' Doon; Ye Banks and Braes; Ye Banks and Braes o' Bonie Doon; Ye Banks and Braes of Bonnie Doon; The Caledonian Hunt's Delight (la melodía)
+alsoKnownAs: The Banks o' Doon; Ye Banks and Braes; Ye Banks and Braes o' Bonie Doon; Ye Banks and Braes of Bonnie Doon; The Caledonian Hunt's Delight (the tune)
 wikidata: Q16238954
 quote: Thou minds me o' departed joys, Departed never to return.
 quoteSource: smm1792
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: ye banks and braes significado | ye banks and braes letra traducida | quién escribió ye banks and braes | ye banks and braes historia | ye banks and braes letra en español
 translatedFrom: fc496332ce70
 original: The Scots Musical Museum de James Johnson, vol. 4 (Edimburgo, 1792), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuse04rugg

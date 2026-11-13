@@ -14,7 +14,7 @@ quote: Gin a body meet a body / Comin thro' the rye
 quoteSource: smm
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: comin thro the rye significado | comin thro the rye letra significado | comin thro the rye poema significado | quién escribió comin thro the rye | robert burns comin thro the rye significado | comin thro the rye traducción
 translatedFrom: 33f59833f94c
 original: The Scots Musical Museum, vol. 5 (1796), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuv300john
@@ -25,7 +25,7 @@ Comin' Thro' the Rye, impresa también como Coming Through the Rye y conocida po
 
 ## De dónde viene
 
-**Las dos versiones de 1796.** James Johnson, grabador y vendedor de música de Edimburgo, publicó The Scots Musical Museum en seis volúmenes, y Burns reunió y escribió canciones para él hasta su muerte.[^smm][^dick][^rpopoet] El quinto volumen no lleva fecha. La National Library of Scotland y el estudioso de Burns James C. Dick lo fechan en 1796, Dick en diciembre de ese año; en 1876, dos autores de Notes and Queries, entre ellos el historiador de la música inglés William Chappell, lo situaron en 1797.[^smm][^dick][^nq1876] En la página 430 está el n.º 417, "Comin thro' the rye. 1st Sett", marcado Very Slow, en Sol. Su estribillo, "Oh Jenny's a' weet poor body, Jenny's seldom dry", habla de Jenny, que lleva la enagua empapada del camino (weet es mojada), y le siguen dos estrofas cortas: "Gin a body kiss a body Need a body cry", y la misma "thro' the glen", donde la pregunta es "Need the warld ken!", es decir, si tiene que saberlo el mundo.[^smm][^dick-gloss] Al pie de la página hay grabada una letra B, que Dick lee como la firma de Burns.[^smm][^dick] En la página siguiente, el n.º 418, la "2d Sett", está en Si bemol, también Very Slow. Aquí la pregunta conocida recibe una respuesta nueva: "Ilka body has a body, ne'er a ane hae I, But a' the lads they loe me, And what the war am I." Siguen dos estrofas más, "comin frae the well" y "comin frae the town".[^smm]
+**Las dos versiones de 1796.** James Johnson, grabador y vendedor de música de Edimburgo, publicó The Scots Musical Museum en seis volúmenes, y Burns reunió y escribió canciones para él hasta su muerte.[^smm][^dick][^rpopoet] El quinto volumen no lleva fecha. La National Library of Scotland y el estudioso de Burns James C. Dick lo fechan en 1796, Dick en diciembre de ese año; en 1876, dos autores de Notes and Queries, entre ellos el historiador inglés de la música William Chappell, lo situaron en 1797.[^smm][^dick][^nq1876] En la página 430 está el n.º 417, "Comin thro' the rye. 1st Sett", marcado Very Slow, en Sol. Su estribillo, "Oh Jenny's a' weet poor body, Jenny's seldom dry", habla de Jenny, que lleva la enagua empapada del camino (weet es mojada), y le siguen dos estrofas cortas: "Gin a body kiss a body Need a body cry", y la misma "thro' the glen", donde la pregunta es "Need the warld ken!", es decir, si tiene que saberlo el mundo.[^smm][^dick-gloss] Al pie de la página hay grabada una letra B, que Dick lee como la firma de Burns.[^smm][^dick] En la página siguiente, el n.º 418, la "2d Sett", está en Si bemol, también Very Slow. Aquí la pregunta conocida recibe una respuesta nueva: "Ilka body has a body, ne'er a ane hae I, But a' the lads they loe me, And what the war am I." Siguen dos estrofas más, "comin frae the well" y "comin frae the town".[^smm]
 
 ![[1]]
 

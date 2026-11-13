@@ -15,7 +15,7 @@ quote: Solo conozco una auténtica canción de barca, la hermosa letra "Michael 
 quoteSource: slavesongs
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: quién escribió michael row the boat ashore | michael row the boat ashore significado | michael row the boat ashore significado aleluya | michael row the boat ashore en la biblia | michael row the boat ashore historia | michael row the boat ashore letra en español
 translatedFrom: 5a83ac50811b
 original: Slave Songs of the United States (1867), página 23, Smithsonian Libraries | https://archive.org/details/slavesongsofunit00alle/page/n82
@@ -60,7 +60,7 @@ La canción está dentro de la colección de Ware, los números 1 a 43, y en med
 
 El libro escribe la letra tal como sus editores oían el habla de las Sea Islands. "De" es "the" (el, la), "deh" es "there" (allí; el propio libro lo aclara), "gwine" es "going" (que va), "mudder" y "fader" son "mother" y "father" (madre y padre), "brudder" es "brother" (hermano), "riber" es "river" (río), "neber" es "never" (nunca), "t' oder" es "the other" (el otro) y "maussa" es "master" (amo) [^scan31].
 
-**Versos 1 y 2, los que llevan música.** Quien canta pide a Michael que lleve la barca remando hasta la orilla. En la Biblia, Miguel es un arcángel y "el gran príncipe" que protege a su pueblo [^kjv][^catholicenc]. Su barca es "a gospel boat": una barca del evangelio, la buena noticia. Cada verso termina en "Hallelujah", una palabra hebrea que significa "¡alabado sea el Señor!"; la Reina-Valera de 1909 la deja tal cual, "Aleluya", al abrir el Salmo 146 [^zondervan][^jewishenc][^kjv].
+**Versos 1 y 2, los que llevan música.** Quien canta pide a Michael que lleve la barca remando hasta la orilla. En la Biblia, Miguel es un arcángel y "el gran príncipe" que protege a su pueblo [^kjv][^catholicenc]. Su barca es "a gospel boat": una barca del evangelio, la buena noticia. Cada verso termina en "Hallelujah", una palabra hebrea que significa "¡alabado sea el Señor!"; la Biblia King James la traduce "Praise ye the LORD" (Salmo 146:1), y la Reina-Valera de 1909 la deja tal cual, "Aleluya", al abrir ese mismo salmo [^zondervan][^jewishenc][^kjv].
 
 **Versos 3 a 7.** Quien canta se pregunta dónde está su madre, y luego la ve "on de rock gwine home", camino de casa, en el nombre de Jesús. La barca de Miguel se vuelve "a music boat", una barca de música, y el ángel Gabriel toca la trompeta [^scan31].
 
@@ -219,4 +219,4 @@ La soprano canta la melodía, la llamada a Michael; la contralto, el tenor y el 
 - [^zondervan]: *Encyclopedia of the Bible*, "Hallelujah", Bible Gateway. https://www.biblegateway.com/resources/encyclopedia-of-the-bible/Hallelujah
 - [^amheritage]: Andrew Ward, "They Brought the Jubilee", *American Heritage*, vol. 51, n.º 4 (julio/agosto de 2000). https://americanheritage.com/they-brought-jubilee
 - [^tnenc]: Reavis L. Mitchell, Jr., "Jubilee Singers of Fisk University", *Tennessee Encyclopedia* (Tennessee Historical Society). https://tennesseeencyclopedia.net/entries/jubilee-singers-of-fisk-university/
-- [^kjv]: La Biblia, versión King James: Daniel 12:1, Judas 9, Apocalipsis 12:7, Josué 3:17, Levítico 25:10 y Salmo 146:1; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJude%201%3A9%3BRevelation%2012%3A7%3BJoshua%203%3A17%3BLeviticus%2025%3A10%3BPsalm%20146%3A1&version=KJV; Reina-Valera de 1909: https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJudas%201%3A9%3BApocalipsis%2012%3A7%3BSalmos%20146%3A1&version=RVA
+- [^kjv]: La Biblia, versión King James: Daniel 12:1, Judas 9, Apocalipsis 12:7, Josué 3:17, Levítico 25:10 y Salmo 146:1; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Daniel%2012%3A1%3BJude%201%3A9%3BRevelation%2012%3A7%3BJoshua%203%3A17%3BLeviticus%2025%3A10%3BPsalm%20146%3A1&version=KJV;RVA

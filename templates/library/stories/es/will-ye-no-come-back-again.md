@@ -12,7 +12,7 @@ quote: Better lo'ed ye canna be
 quoteSource: gems1894
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: will ye no come back again significado | will ye no come back again traducción | quién escribió will ye no come back again | will ye no come back again letra en español | will ye no come back again historia | bonnie prince charlie canción
 translatedFrom: bbe6b9740d43
 original: Gems of Scottish Song (Boston: Oliver Ditson & Company, catalogada como de 1883), Internet Archive | https://archive.org/details/gemsofscottishso0000vari
@@ -133,7 +133,7 @@ pero a mí siempre (aye) me canta una sola canción (ae sang):
 
 ## Cómo se canta
 
-Es una canción para el hogar: en 1855, Rogers encontró sus canciones, casi nunca conocidas como suyas, familiares "en el salón y en la casa de campo" [^rogers1855], y Ditson la imprimió para voz y piano [^gems1883]. Las dos impresiones de Ditson marcan que el estribillo crezca en volumen, que su aguda segunda frase se tome con libertad ("a piacere"), con un calderón en el "gain?" de esa frase, y que "Better lo'ed ye canna be" vuelva a tempo [^gems1883][^gems1894].
+Es una canción para el hogar: en 1855, Rogers encontró sus canciones, casi nunca conocidas como suyas, familiares "en el salón y en la cabaña" [^rogers1855], y Ditson la imprimió para voz y piano [^gems1883]. Las dos impresiones de Ditson marcan que el estribillo crezca en volumen, que su aguda segunda frase se tome con libertad ("a piacere"), con un calderón en el "gain?" de esa frase, y que "Better lo'ed ye canna be" vuelva a tempo [^gems1883][^gems1894].
 
 Nuestro arreglo toma la melodía de la impresión de 1883 y la letra de la estrofa 2 de la de 1894, para 2 a 4 cantantes. Nuestros acordes son más sencillos que los de Dun. Dejamos fuera la nota de adorno y los calderones, y marcamos una respiración al final de cada verso.
 

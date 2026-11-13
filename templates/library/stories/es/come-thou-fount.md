@@ -17,9 +17,9 @@ quoteSource: madan1760
 original: Martin Madan, A Collection of Psalms and Hymns (1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: 971f82e10b0e
+translatedFrom: b52628963908
 listen: National Jukebox, grabación de 1922 | https://archive.org/details/loc-jukebox-61007-come-thou-fount-of-every-blessing
 ---
 
@@ -27,7 +27,7 @@ Come, Thou Fount of Every Blessing es un himno de gratitud por la gracia, escrit
 
 ## De dónde viene
 
-**El autor.** Robert Robinson nació en Swaffham, Norfolk, el 27 de septiembre de 1735 [^julian-robinson][^dnb]. En 1749, con unos catorce años, entró de aprendiz con un peluquero de Londres [^dyer][^dnb]. El 24 de mayo de 1752 oyó predicar a George Whitefield sobre "la ira venidera", y desde ese día contó el comienzo de su vida religiosa [^julian-robinson][^hatfield][^dnb]. Predicó entre los metodistas calvinistas y después dirigió una iglesia independiente en Norwich [^julian-robinson][^hatfield]. En 1759 pasó a la iglesia bautista de Cambridge [^dnb][^hatfield][^julian-robinson].
+**El autor.** Robert Robinson nació en Swaffham, Norfolk, el 27 de septiembre de 1735 [^julian-robinson][^dnb]. En 1749, con unos catorce años, entró de aprendiz con un peluquero de Londres [^dyer][^dnb]. El 24 de mayo de 1752 oyó predicar a George Whitefield sobre "la ira que vendrá", y desde ese día contó el comienzo de su vida religiosa [^julian-robinson][^hatfield][^dnb]. Predicó entre los metodistas calvinistas y después dirigió una iglesia independiente en Norwich [^julian-robinson][^hatfield]. En 1759 pasó a la iglesia bautista de Cambridge [^dnb][^hatfield][^julian-robinson].
 
 ![[1]]
 

@@ -1,6 +1,6 @@
 ---
 title: Who Will Bow and Bend Like a Willow: historia, significado y la letra explicada
-description: Canción shaker del avivamiento, de reverencias, giros y "Mother's wine", copiada en el cancionero de Mary Hazzard entre dos canciones de Canterbury de 1847.
+description: Canción shaker de reverencias, tambaleos y "Mother's wine", copiada en el cancionero de Mary Hazzard entre dos canciones de Canterbury de 1847.
 lead: Una animada canción shaker en tres secciones que pregunta quién se inclinará y se doblará como un sauce y girará, se retorcerá y se tambaleará. Mary Hazzard la copió sin firma entre canciones de principios de 1847.
 words: Canción shaker anónima; sin firma en el cancionero de Mary Hazzard (hacia 1847)
 tune: Melodía shaker anónima, en la misma página
@@ -15,7 +15,7 @@ quote: Who will bow and bend like a willow
 quoteSource: hazzard
 updated: 2026-11-13
 checked: 2026-11-13
-reviewed: false
+reviewed: true
 searches: who will bow and bend | who will bow and bend like a willow | who will bow and bend like a willow lyrics
 translatedFrom: 30d322ebef22
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
@@ -125,7 +125,7 @@ La soprano tiene la melodía de la primera nota a la última, la línea que escr
 
 ## Canta después
 
-- [Simple Gifts](/songs/simple-gifts): copiada en el mismo libro de Hazzard, en la página 37, y también canta inclinarse, doblarse y girar.
+- [Simple Gifts](/songs/simple-gifts): copiada en el mismo libro de Hazzard, en la página 37, y también canta sobre inclinarse, doblarse y girar.
 - [I Will Bow and Be Simple](/songs/i-will-bow-and-be-simple): una canción de reverencias más suave del libro de Hazzard, en dos secciones.
 - [I Am Fill'd with Heavenly Treasures](/songs/heavenly-treasures): otra breve canción del avivamiento del mismo libro, con un balanceo en 6/8.
 
