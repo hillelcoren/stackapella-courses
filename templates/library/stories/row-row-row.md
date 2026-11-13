@@ -15,7 +15,7 @@ wikidata: Q6960010
 quote: Merrily, merrily, merrily, merrily; Life is but a dream.
 quoteSource: lyte1893
 updated: 2026-11-13
-checked: 2026-11-12
+checked: 2026-11-13
 reviewed: true
 searches: who wrote row row row your boat | row row row your boat original author | when was row row row your boat written | row row row your boat history | row row row your boat dark meaning | row row row your boat meaning | row row row your boat life is but a dream meaning | what is row row row your boat about | row row row your boat round | how do you sing row row row your boat in a round | is row row row your boat a nursery rhyme | is row row row your boat a canon | row row row your boat original lyrics | row row row your boat original melody | eliphalet oram lyte row row row your boat
 ---
@@ -106,6 +106,10 @@ Everyone sings the same tune, but starts at a different time. The 1874 printing 
 ### Is Row, Row, Row Your Boat a nursery rhyme?
 
 It is sung as one today, and Classic FM calls it one, but it began elsewhere [^classicfm]. Its first lines were the chorus of an 1852 song sung on the minstrel stage, and the round's earliest known printing is in an 1874 songbook for schools, not a book of nursery rhymes [^sinclair1852][^rice][^hall1874]. The Ballad Index files it as a camp song and a round [^ballad].
+
+### What are the original words and melody of Row, Row, Row Your Boat?
+
+The first words were the chorus of an 1852 song, The Old Log Hut: "Row, row, row your boat, Gently down the stream, All that's past is gone you know, The future's but a dream", sung to R. Sinclair's tune in 4/4, which is not today's [^sinclair1852]. Today's words and tune, in 6/8 with "Merrily, merrily" and "Life is but a dream", have their earliest known printing in 1874 [^hall1874]. The printings of 1874, 1881 and 1893 sing the "-ly" of "Gently" one note higher than most singers do now [^hall1874][^mccaskey1881][^lyte1893].
 
 ## Sing next
 

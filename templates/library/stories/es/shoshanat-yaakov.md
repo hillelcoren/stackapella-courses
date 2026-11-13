@@ -13,7 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shoshanat yaakov significado | shoshanat yaakov traducción | shoshanat yaakov letra | shoshanat yaakov texto | shoshanat yaakov purim | shoshanat yaakov canción
-translatedFrom: 4cf838a953d5
+translatedFrom: 4b37d819efee
 original: Baal T'fillah (Gotemburgo, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
@@ -151,6 +151,10 @@ Las dos cosas: son las mismas palabras hebreas dichas de dos maneras. En el hebr
 
 Nadie lo sabe. Sus versos cierran Asher heni, un poema alfabético que está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado por Simhah de Vitry, que había muerto ya en 1105, aunque sus manuscritos llevan también añadidos posteriores. El libro lo encabeza como "un poema de la fundación de los Hombres de la Gran Asamblea", una atribución tradicional, y no nombra a ningún poeta. El último verso, el de Harbona, viene de una costumbre que recoge el Talmud, y tampoco se sabe quién hizo la melodía de Baer.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
 
+### ¿Con qué melodías se canta Shoshanat Yaakov?
+
+Con muchas. Se hizo costumbre, dice el Jewish Music Research Centre de Jerusalén, cantar estos versos finales con una variedad de melodías rítmicas.[^jmrc] La nuestra es la antigua melodía de sinagoga que Abraham Baer imprimió en Gotemburgo en 1877, de autor desconocido.[^baer1877][^baer] Las cortes jasídicas tienen las suyas. El Centro compara la manera de un cantor, en la que cada estrofa empieza como un recitativo libre que desemboca en un niggun de baile, con la forma de cantarla de los jasidim de Modzhitz (Modzitz).[^jmrc] Los jasidim de Gur cantan una melodía que Yankel Talmud compuso para Purim en 1953.[^yivo-ger]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de principio a fin, tal como la imprimió Baer para el cantor; donde su impresión se divide un momento en dos voces, toma la más grave. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer]
@@ -183,3 +187,5 @@ La soprano canta la melodía de principio a fin, tal como la imprimió Baer para
 - [^kitzur]: Shlomo Ganzfried, *Kitzur Shulchan Aruch* 141:22, en Sefaria. https://www.sefaria.org/Kitzur_Shulchan_Arukh.141.22
 - [^singer]: Simeon Singer, trad., *The Standard Prayer Book* (Bloch Publishing, Nueva York, 1915), pp. 422 a 423, "Service for Purim", copia de la Princeton Theological Seminary Library, Internet Archive standardprayerbo00hagg, imágenes n847 y n849. https://archive.org/details/standardprayerbo00hagg/page/n847/mode/1up
 - [^sefard]: *Siddur Sefard*, Purim, lectura de la Meguilá, texto hebreo de Torat Emet (dominio público), en Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Purim%2C_Megillah_Reading.41-50
+- [^jmrc]: Jewish Music Research Centre, Hebrew University of Jerusalem, Song of the Month, "Haint Iz Purim, Brider, Part II" (abril de 2016). https://jewish-music.huji.ac.il/he/node/22555
+- [^yivo-ger]: YIVO Institute for Jewish Research, YIVO Digital Archive on Jewish Life in Poland, "Hasidim, Songs. Shoshanas Yaakov. Gerer Hasidim", niggun de Gur compuesto en Purim de 1953 por Yankel Talmud, cantado por jasidim de Gur en Brooklyn, grabado por Benedict Stambler hacia 1960. https://polishjews.yivo.org/audio/yarg1014germp3

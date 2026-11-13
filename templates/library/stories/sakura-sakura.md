@@ -129,6 +129,14 @@ No one knows. Its earliest known printing is the Ministry of Education's koto bo
 
 Its tune uses only five notes, the in scale of Japanese koto and shamisen music, mi, fa, la, si and do, with two half steps [^kb-miyakobushi][^kb-in]. It was printed for the koto in hira-jōshi, its basic tuning [^sokyokushu][^kb-hirajoshi], and it ends on a note that sounds open rather than finished.
 
+### What do cherry blossoms mean in Japan?
+
+They are the flower of spring, and of going out to see it. In old Japanese poetry "hana", flower, on its own meant the cherry, and today it is counted Japan's national flower [^kb-sakura]. Hanami, flower viewing, is the custom of eating, drinking and singing under the blossoms: a court festival in the Heian period, it spread to townspeople in the Edo period, and Japanese encyclopedias trace it to an older spring rite held before the farming year began [^kb-hanami]. The song's last line, "mi ni yukan", let's go and see them, is that invitation [^dittrich].
+
+### Is there an English version of Sakura Sakura?
+
+We found no standard English words to sing; it is sung in Japanese, as we sing it. Rudolf Dittrich printed German and English translations above his music in 1894, but his English is prose, not made to fit the notes: "No! for the fragrance of the blossoms diffuses itself" [^dittrich]. Our own plain English, line by line, is under "The full words" above, and the International Shakuhachi Society gives a modern translation [^tsuge].
+
 ## Sing next
 
 - [Shchedryk](/songs/shchedryk): another folk song sung in its own language: one short figure going round, over long notes in the lower parts.
@@ -164,3 +172,5 @@ Its tune uses only five notes, the in scale of Japanese koto and shamisen music,
 - [^puccini-museum]: Puccini Museum, Lucca, "Madama Butterfly" (first performance: Milan, Teatro alla Scala, 17 February 1904). https://www.puccinimuseum.org/en/giacomo-puccini/le-opere/madama-butterfly/
 - [^interlude]: Interlude, "Puccini: Madama Butterfly, Premiered Today in 1904". https://interlude.hk/puccini-madama-butterfly-premiered-today-1904/
 - [^mdw]: mdw, University of Music and Performing Arts Vienna, "mdw in Fernost" (2018). https://www.mdw.ac.at/magazin/2018/09/27/mdw-in-fernost/?lang=en
+- [^kb-sakura]: *Dejitaru Daijisen* (Shogakukan) and *Seisenban Nihon Kokugo Daijiten* (Shogakukan), "Sakura", at Kotobank. https://kotobank.jp/word/%E6%A1%9C-448703
+- [^kb-hanami]: *Seisenban Nihon Kokugo Daijiten* (Shogakukan), "Hanami", with its note on the word's history; *Kaitei Shinpan Sekai Daihyakka Jiten* (Heibonsha), "Hanami", by Kojima Yoshiyuki; and *Nihon Daihyakka Zensho* (Nipponica, Shogakukan), "Hanami", by Inokuchi Shōji; at Kotobank. https://kotobank.jp/word/%E8%8A%B1%E8%A6%8B-115723

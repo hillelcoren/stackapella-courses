@@ -1,8 +1,8 @@
 ---
 title: We Gather Together: historia, significado y la letra explicada
-description: Canto neerlandés de gratitud por las victorias de 1597, impreso en Haarlem en 1626. Kremser lo arregló en Viena en 1877 y Baker lo pasó al inglés en 1894.
-lead: Un canto neerlandés de gratitud por las victorias de 1597, impreso en 1626, arreglado en Viena por Eduard Kremser en 1877 y llevado al inglés por Theodore Baker en 1894. En Estados Unidos se canta en Acción de Gracias.
-words: Adrianus Valerius (murió en 1625); en inglés, Theodore Baker (1851 a 1934)
+description: Canto neerlandés de gratitud, impreso en Haarlem en 1626 tras el relato de las victorias de 1597; Kremser lo arregló en 1877 y Baker lo pasó al inglés en 1894.
+lead: Un canto neerlandés de gratitud, impreso en 1626 tras el relato de las victorias de 1597, arreglado en Viena por Eduard Kremser en 1877 y llevado al inglés por Theodore Baker en 1894. En Estados Unidos se canta en Acción de Gracias.
+words: Probablemente Adrianus Valerius (murió en 1625); en inglés, Theodore Baker (1851 a 1934)
 tune: melodía neerlandesa "Hey wilder dan wild", arreglada por Eduard Kremser (1838 a 1914)
 tuneName: KREMSER
 meter: 12.11.12.11
@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
-translatedFrom: 6138620b67db
+translatedFrom: 6356c0a603cc
 original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up || The Beacon Hymnal (1924), n.º 17, Internet Archive | https://archive.org/details/beaconhymnalforc00unse/page/n147
 ---
 
@@ -184,6 +184,10 @@ Porque fue un canto de gratitud desde el principio. El libro de Valerius lo sit�
 
 Significa que Dios corrige a su pueblo y se apresura a mostrarle lo que quiere. "Chasten" es disciplinar, la palabra que usa la versión King James de la Biblia para un padre que corrige al hijo que ama [^kjv-heb12]. "Hastens" significa que se da prisa en dar a conocer su voluntad. El verso viene del inglés de Baker de 1894, no del neerlandés [^harvard1920][^valerius1626].
 
+### ¿Qué himnarios traen We Gather Together?
+
+Cientos: Hymnary.org lo da como publicado en 257 himnarios [^hymnary-text]. Entre los de hoy están The United Methodist Hymnal (1989), n.º 131; el Seventh-day Adventist Hymnal (1985), n.º 8; el Hymnal 1982 de la Iglesia Episcopal, n.º 433; Glory to God, el himnario presbiteriano de 2013, n.º 336; y Hymns of Grace (2015), n.º 435 [^hy-umh][^hy-sdah][^hy-h1982][^hy-gtg][^hy-hog]. Entre los más antiguos, The Beacon Hymnal (1924), n.º 17, del que cantamos, The Abingdon Hymnal (1928), n.º 207, y The Methodist Hymnal (1935), n.º 20 [^beacon1924][^abingdon1928][^mh1935].
+
 ## Canta después
 
 - [Shall We Gather at the River](/songs/shall-we-gather): otro favorito de las iglesias estadounidenses sobre reunirse, a las cuatro voces de Robert Lowry de 1869.
@@ -228,3 +232,8 @@ Significa que Dios corrige a su pueblo y se apresura a mostrarle lo que quiere. 
 - [^kjv-heb12]: La Biblia, versión King James: Hebreos 12:5 a 11. https://www.biblegateway.com/passage/?search=Hebrews%2012%3A5-11&version=KJV
 - [^kjv-1pet5]: La Biblia, versión King James: 1 Pedro 5:8. https://www.biblegateway.com/passage/?search=1%20Peter%205%3A8&version=KJV
 - [^kjv-mt26]: La Biblia, versión King James: Mateo 26:41. https://www.biblegateway.com/passage/?search=Matthew%2026%3A41&version=KJV
+- [^hy-umh]: Hymnary.org, *The United Methodist Hymnal* (1989), n.º 131, "We Gather Together". https://hymnary.org/hymn/UMH/131
+- [^hy-sdah]: Hymnary.org, *Seventh-day Adventist Hymnal* (1985), n.º 8, "We Gather Together". https://hymnary.org/hymn/SDAH1985/8
+- [^hy-h1982]: Hymnary.org, *The Hymnal 1982: according to the use of the Episcopal Church*, n.º 433, "We gather together to ask the Lord's blessing", melodía KREMSER. https://hymnary.org/hymn/EH1982/433
+- [^hy-gtg]: Hymnary.org, *Glory to God: the Presbyterian Hymnal* (2013), n.º 336, "We Gather Together". https://hymnary.org/hymn/GG2013/336
+- [^hy-hog]: Hymnary.org, *Hymns of Grace* (2015), n.º 435, "We Gather Together". https://hymnary.org/hymn/HOG2015/435

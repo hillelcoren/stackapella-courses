@@ -139,6 +139,10 @@ Yes, the traditional words and tune are: no author is known, the printings we ci
 
 Yes. It tells of the crucifixion, the darkness and the burial, which Good Friday remembers [^kjv]. Glory and Praise lists it for Good Friday and Palm Sunday of the Passion, and The United Methodist Hymnal for Holy Week and Lent [^hymnary-gap][^hymnary-umh]. Hampton's 1927 songbook files it among its "Hymns of the Death of Christ" [^dett1927].
 
+### Is there a Spanish version of Were You There?
+
+Yes: Spanish-speaking churches sing it as "¿Viste tú?". The Himnario Bautista of 1978 prints it as No. 118, translated by Arnoldo Canclini, and the Himnario Luterano of 2021 as No. 487, with stanzas by Canclini and others, to the same tune, WERE YOU THERE [^hy-hb1978][^hy-hl2021]. Canclini lived from 1926 to 2014, so his Spanish words are still under copyright: we name them but do not give them [^hy-hl2021].
+
 ## Sing next
 
 - [Balm in Gilead](/songs/balm-in-gilead): from Dett's 1927 Hampton book, in his own four parts, slow, with solo verses for the soprano.
@@ -169,3 +173,5 @@ Yes. It tells of the crucifixion, the darkness and the burial, which Good Friday
 - [^dahr]: *Discography of American Historical Recordings* (UC Santa Barbara Library), "Columbia matrix 79606. Were you there? / Fisk University Jubilee Singers": male vocal quartet, unaccompanied; 28 December 1920, New York; Columbia A3919. https://adp.library.ucsb.edu/index.php/matrix/detail/2000027381/79606-Were_you_there
 - [^bbcmusic]: BBC Music Magazine, "'Were you there when they crucified my Lord?' lyrics", *Classical Music* (12 January 2023). https://www.classical-music.com/articles/were-you-there-when-they-crucified-my-lord-lyrics
 - [^kjv]: The Bible, King James Version: Matthew 27:35; Luke 23:44 to 45 and 23:53; John 19:34; Acts 5:30. https://www.biblegateway.com/passage/?search=Matthew%2027%3A35%3B%20Luke%2023%3A44-45%3B%20John%2019%3A34%3B%20Acts%205%3A30%3B%20Luke%2023%3A53&version=KJV
+- [^hy-hb1978]: Hymnary.org, *Himnario Bautista* (1978), No. 118, "¿Viste Tú?", translator Arnoldo Canclini, language Spanish, tune WERE YOU THERE. https://hymnary.org/hymn/HB1978/118
+- [^hy-hl2021]: Hymnary.org, *Himnario Luterano* (2021), No. 487, "¿Viste tú...?", with stanzas credited to Arnoldo Canclini, 1926-2014, and others, tune WERE YOU THERE. https://hymnary.org/hymn/HL2021/487

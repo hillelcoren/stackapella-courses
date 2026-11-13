@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: wade in the water significado | wade in the water historia | quién escribió wade in the water | wade in the water harriet tubman | wade in the water letra en español | wade in the water espiritual
-translatedFrom: a036688286e8
+translatedFrom: fd904baa6cda
 original: New Jubilee Songs, segunda edición (1904), páginas 8 y 9, Digital Library of Georgia | https://dlg.usg.edu/record/dlg_aaed_aarl90-001-001-001
 ---
 
@@ -133,6 +133,14 @@ No hay pruebas de que lo hiciera. La primera impresión conocida de la canción 
 
 Nadie lo sabe. Es un espiritual tradicional, y la impresión más antigua que hemos leído, New Jubilee Songs de la Universidad Fisk, de 1904, no nombra a quien la hizo; a Frederick J. Work se le atribuye haber recopilado y armonizado las canciones del libro, no haberlas escrito [^work1904]. Un relato dice que se imprimió en 1901, en la primera edición de ese libro, pero el libro y su registro de derechos de autor fechan esa edición en junio de 1902 [^songofamerica][^work1904][^cce1902].
 
+### ¿Wade in the Water es de dominio público?
+
+Sí, la canción tradicional lo es. No se conoce a quien la hizo, y su letra y su melodía las imprimió la Universidad Fisk en New Jubilee Songs, cuya primera edición se registró en junio de 1902; nosotros las leímos en la edición de 1904 [^work1904][^cce1902]. Los arreglos posteriores son obras aparte con sus propios derechos, entre ellos el de Harry T. Burleigh, registrado en 1925, y también lo son las grabaciones [^cce1925]. Nuestro arreglo es nuestro.
+
+### ¿Wade in the Water es gospel, blues o jazz?
+
+Es un espiritual: un canto religioso folclórico de llamada y respuesta, que el libro de Fisk de 1904 llama una melodía para bautismos [^work1904][^carnegiefolk]. Los espirituales dieron lugar al espiritual de concierto y alimentaron el gospel, y Burleigh arregló este para el escenario de concierto en 1925 [^songofamerica][^burleigh1925]. No nació como blues ni como jazz, pero el jazz lo hizo suyo: una grabación del pianista de jazz Ramsey Lewis (1935 a 2022) estuvo en la lista Hot 100 de Billboard en septiembre de 1966 [^billboard1966][^relix2022].
+
 ## Canta después
 
 - [Go Down, Moses](/songs/go-down-moses): otra vez Moisés y el Éxodo, y una canción de Moisés fue una de las señales reales de Tubman.
@@ -168,3 +176,5 @@ Nadie lo sabe. Es un espiritual tradicional, y la impresión más antigua que he
 - [^cce1925]: Library of Congress, Copyright Office, *Catalog of Copyright Entries*, parte 3, Musical Compositions, nueva serie, vol. 20, n.º 9-10 (1925), p. 1041, entradas 21431, "Wade in de water; four-part cho., negro spiritual, arr. H. T. Burleigh", 18 de septiembre de 1925, y 21432, la misma para voz aguda, 5 de octubre de 1925, G. Ricordi & Co., Inc., Nueva York (imagen n1084); facsímil. https://archive.org/details/catalogofcopyrig203libr
 - [^johnson1926]: James Weldon Johnson, ed., y J. Rosamond Johnson, arr., *The Second Book of Negro Spirituals* (Nueva York: Viking Press, 1926), prefacio y "God's A-Gwineter Trouble De Water", pp. 84 a 85; University of Toronto, Faculty of Music Library, M1670 .S43 1926, facsímil. https://archive.org/details/31761034975011
 - [^kjv]: La Biblia, versión King James: Juan 5:2-7; Éxodo 14:21-22; Apocalipsis 7:9; Isaías 61:1; Josué 3:17; Mateo 3:13; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=John%205%3A2-7%3B%20Exodus%2014%3A21-22%3B%20Revelation%207%3A9%3B%20Isaiah%2061%3A1%3B%20Joshua%203%3A17%3B%20Matthew%203%3A13&version=KJV
+- [^billboard1966]: *Billboard* (Nueva York: Billboard Publications, número del 3 de septiembre de 1966), "Hot 100", semana que termina el 3 de septiembre de 1966, "Wade in the Water", Ramsey Lewis; facsímil, World Radio History. https://www.worldradiohistory.com/Archive-All-Music/Billboard/60s/1966/Billboard%201966-09-03.pdf
+- [^relix2022]: Relix, "Legendary Jazz Pianist and Composer Ramsey Lewis Dead at 87" (13 de septiembre de 2022). https://relix.com/news/detail/legendary-jazz-pianist-and-composer-ramsey-lewis-dead-at-87

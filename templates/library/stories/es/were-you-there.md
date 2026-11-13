@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: were you there significado | were you there historia | were you there letra en español | quién escribió were you there | were you there when they crucified my lord significado | were you there viernes santo
-translatedFrom: 3bab27eecc9b
+translatedFrom: 27e7c2856f9a
 listen: Internet Archive, grabación de 1920 de los Fisk University Jubilee Singers (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-665185-were-you-there
 original: Religious Folk Songs of the Negro as Sung on the Plantations, New Edition (1909), p. 162, University of Toronto, Faculty of Music Library | https://archive.org/details/religiousfolkson00hamp/page/n171
 ---
@@ -160,6 +160,10 @@ Sí, la letra y la melodía tradicionales lo son: no se conoce autor, las impres
 
 Sí. Cuenta la crucifixión, las tinieblas y la sepultura, que el Viernes Santo recuerda [^kjv]. Glory and Praise lo propone para el Viernes Santo y el Domingo de Ramos de la Pasión del Señor, y The United Methodist Hymnal para la Semana Santa y la Cuaresma [^hymnary-gap][^hymnary-umh]. El cancionero de Hampton de 1927 lo clasifica entre sus "Hymns of the Death of Christ" (himnos de la muerte de Cristo) [^dett1927].
 
+### ¿Hay una versión en español de Were You There?
+
+Sí: las iglesias de habla hispana la cantan como "¿Viste tú?". El Himnario Bautista de 1978 la trae como n.º 118, en traducción de Arnoldo Canclini, y el Himnario Luterano de 2021 como n.º 487, con estrofas de Canclini y de otros, con la misma melodía, WERE YOU THERE [^hy-hb1978][^hy-hl2021]. Canclini vivió de 1926 a 2014, así que su letra en español sigue protegida por derechos de autor: la nombramos, pero no la reproducimos [^hy-hl2021].
+
 ## Canta después
 
 - [Balm in Gilead](/songs/balm-in-gilead): del libro de Hampton de 1927, a cuatro voces del propio Dett, lento, con estrofas solistas para la soprano.
@@ -190,3 +194,5 @@ Sí. Cuenta la crucifixión, las tinieblas y la sepultura, que el Viernes Santo 
 - [^dahr]: *Discography of American Historical Recordings* (UC Santa Barbara Library), "Columbia matrix 79606. Were you there? / Fisk University Jubilee Singers": cuarteto vocal masculino, sin acompañamiento; 28 de diciembre de 1920, Nueva York; Columbia A3919. https://adp.library.ucsb.edu/index.php/matrix/detail/2000027381/79606-Were_you_there
 - [^bbcmusic]: BBC Music Magazine, "'Were you there when they crucified my Lord?' lyrics", *Classical Music* (12 de enero de 2023). https://www.classical-music.com/articles/were-you-there-when-they-crucified-my-lord-lyrics
 - [^kjv]: La Biblia, versión King James: Mateo 27:35; Lucas 23:44 a 45 y 23:53; Juan 19:34; Hechos 5:30; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew%2027%3A35%3B%20Luke%2023%3A44-45%3B%20John%2019%3A34%3B%20Acts%205%3A30%3B%20Luke%2023%3A53&version=KJV
+- [^hy-hb1978]: Hymnary.org, *Himnario Bautista* (1978), n.º 118, "¿Viste Tú?", traductor Arnoldo Canclini, idioma español, melodía WERE YOU THERE. https://hymnary.org/hymn/HB1978/118
+- [^hy-hl2021]: Hymnary.org, *Himnario Luterano* (2021), n.º 487, "¿Viste tú...?", con estrofas atribuidas a Arnoldo Canclini, 1926-2014, y a otros, melodía WERE YOU THERE. https://hymnary.org/hymn/HL2021/487

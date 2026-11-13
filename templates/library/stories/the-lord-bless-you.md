@@ -102,7 +102,7 @@ Many later hymnals print the blessing without the sevenfold Amen [^phh][^hymnary
 
 ### Where is "The Lord bless you and keep you" in the Bible?
 
-It is Numbers 6:24 to 26, in the Book of Numbers, the fourth book of the Bible. In verses 22 and 23 the Lord tells Moses to have Aaron and his sons, the priests, bless the people of Israel with these words, so it is called the priestly or Aaronic blessing [^kjv1611][^je]. Lutkin's anthem sets those verses in his own order, with "you" for "thee" [^summy][^cdh].
+It is Numbers 6:24 to 26, in the Book of Numbers, the fourth book of the Bible. In verses 22 and 23 the Lord tells Moses to have Aaron and his sons, the priests, bless the people of Israel with these words, so it is called the priestly or Aaronic blessing [^kjv1611][^je]. Lutkin's anthem sets those verses in his own order, with "you" for "thee" [^summy][^cdh]. In Spanish, in the Reina-Valera of 1909, they read: "Jehová te bendiga, y te guarde: Haga resplandecer Jehová su rostro sobre ti, y haya de ti misericordia: Jehová alce á ti su rostro, y ponga en ti paz." [^rv1909]
 
 ### What does "The Lord bless you and keep you" mean?
 
@@ -151,3 +151,4 @@ The soprano sings the top line of the blessing. But all four parts sing the bles
 - [^imj]: The Israel Museum, Jerusalem, "'Priestly Benediction' on amulets", silver, Ketef Hinnom, Jerusalem, Iron Age II, 6th century BCE, via Google Arts and Culture. https://artsandculture.google.com/asset/priestly-benediction-on-amulets/WgGs7fls-QiYdw
 - [^cojs]: Center for Online Judaic Studies, "Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE". https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/
 - [^luther]: *Works of Martin Luther*, vol. 6 (Philadelphia: A. J. Holman Company and The Castle Press, 1932), "Formula of Mass and Communion for the Church at Wittenberg" (1523), translated by Paul Zeller Strodach, section VIII, p. 91, and note on the Aaronitic Benediction, p. 112. https://archive.org/details/in.ernet.dli.2015.180138
+- [^rv1909]: *La Santa Biblia, que contiene los Sagrados Libros del Antiguo y Nuevo Testamento: antigua versión de Cipriano de Valera, cotejada con diversas traducciones y revisada con arreglo á los originales hebreo y griego, con referencias* (Madrid: Depósito Central de la Sociedad Bíblica B. y E., 1914), Números 6:24 to 26; Princeton Theological Seminary Library copy, Internet Archive, item lasantabibliaque00unse; text checked against the Reina-Valera Antigua (1909) at Bible Gateway. https://archive.org/details/lasantabibliaque00unse

@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: shchedryk historia | shchedryk significado | quién escribió shchedryk | shchedryk letra en español | carol of the bells historia ucraniana | villancico de las campanas historia
-translatedFrom: 0848590c2aed
+translatedFrom: 5283067c4cb8
 original: Cancionero de Polishchuk y Ostapovych, Kyiv 1913, Internet Archive | https://archive.org/details/zbirnychoknakras00poli/page/n154/mode/1up
 ---
 
@@ -62,7 +62,7 @@ Leontovych volvía una y otra vez a Shchedryk. Los estudiosos ucranianos cuentan
 
 La letra es un texto popular sin autor conocido. Cantamos doce versos y luego los dos primeros otra vez para terminar.
 
-**"Shchedryk, shchedryk, shchedrivochka".** Son más palabras de llamada que una frase. Un diccionario ucraniano da "shchedryk", con el acento en la primera sílaba, como otro nombre de la propia Noche Generosa [^sum-shchedryk]. "Shchedrivochka" es una forma cariñosa y diminutiva de "shchedrivka", una canción de Año Nuevo [^eu-carols].
+**"Shchedryk, shchedryk, shchedrivochka".** Son más palabras de llamada que una frase. Un diccionario ucraniano da "shchedryk", con el acento en la primera sílaba, como otro nombre de la propia Noche Generosa [^sum-shchedryk]. Así, el título se dice SHCHED-rik: "shch" es una "sh" inglesa seguida de una "ch", como en el inglés "fresh cherries"; la "e" es la del inglés "bed", parecida a la nuestra, y la "y" se acerca a la "i" breve del inglés "bit" [^ua-lessons][^jenkala]. Shchedrik y Schedryk son otras grafías de la misma palabra. "Shchedrivochka" es una forma cariñosa y diminutiva de "shchedrivka", una canción de Año Nuevo [^eu-carols].
 
 **Llega la golondrina.** Ha entrado volando una golondrinita. Se pone a trinar y llama al dueño de la casa para que salga.
 
@@ -195,3 +195,5 @@ La soprano canta la melodía, la figura de cuatro notas, del primer compás al �
 - [^zbirnychok]: recopilado por K. L. Polishchuk, melodías anotadas por M. Ostapovych, ed. A. Koshyts, *Zbirnychok naikrashchykh ukrainskykh pisen z notamy*, parte 4 (Kyiv: Y. T. Hubanov, 1913), n.º 23, "Shchedryk, shchedryk shchedryvochka", p. 43, de Krasnopil, distrito de Zhytomyr, Volinia; ejemplar de la University of Toronto, Faculty of Music Library, M1764 .P65 Z3, imágenes n112 (portada) y n154. https://archive.org/details/zbirnychoknakras00poli
 - [^trypisni]: Mykola Leontovych, *Try pisni: 1. Shchedryk, 2. Dudaryk, 3. Prala* (Járkiv: Holovpolitosvita N. K. O., 1921), pp. 2 y 3; Vernadsky National Library of Ukraine, Music Collections Department, Ук III-27.3, según las fotografías publicadas en Svitlana Litvinova, "«Shchedryk»: 100-richna podorozh u chasi" (NBUV, 26 de diciembre de 2016), il. 2 y 3. http://nbuv.gov.ua/node/3286
 - [^nbuv]: Svitlana Litvinova, "«Shchedryk»: 100-richna podorozh u chasi" (Vernadsky National Library of Ukraine, 26 de diciembre de 2016). http://nbuv.gov.ua/node/3286
+- [^ua-lessons]: Ukrainian Lessons, "Ukrainian Alphabet: Full Guide with Examples and Pronunciation" (1 de febrero de 2021), letras Щ, Е e И. https://www.ukrainianlessons.com/ukrainian-alphabet/
+- [^jenkala]: Marta Jenkala, *Read Ukrainian!*, unidad 1, "1.4: The remaining letters" (UkrainianLanguage.uk, 2007), nota sobre la Щ. https://ukrainianlanguage.org.uk/read/unit01/page1-4.htm

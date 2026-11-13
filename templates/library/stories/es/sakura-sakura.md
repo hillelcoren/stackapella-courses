@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: sakura sakura significado | sakura sakura letra en español | sakura sakura historia | quién escribió sakura sakura | sakura sakura letra en japonés | sakura sakura letra romaji
-translatedFrom: 56578841a722
+translatedFrom: 2e0704e76e6c
 original: Rudolf Dittrich, Nippon Gakufu (Leipzig, 1894), Biblioteca Estatal de Baviera | https://www.digitale-sammlungen.de/en/view/bsb11462745
 ---
 
@@ -130,6 +130,14 @@ Nadie lo sabe. Su primera impresión conocida es el libro de koto del Ministerio
 
 Su melodía usa solo cinco notas, la escala "in" de la música japonesa para koto y shamisen, Mi, Fa, La, Si y Do, con dos semitonos [^kb-miyakobushi][^kb-in]. Se imprimió para koto en hira-jōshi, su afinación básica [^sokyokushu][^kb-hirajoshi], y termina en una nota que suena abierta más que conclusiva.
 
+### ¿Qué significan las flores de cerezo en Japón?
+
+Son la flor de la primavera, y de salir a verla. En la poesía japonesa antigua "hana", flor, a secas, quería decir el cerezo, y hoy se tiene por la flor nacional de Japón [^kb-sakura]. El hanami, "ver las flores", es la costumbre de comer, beber y cantar bajo los cerezos en flor: fiesta de la corte en el período Heian, pasó a la gente de las ciudades en el período Edo, y las enciclopedias japonesas lo hacen venir de un rito de primavera más antiguo, celebrado antes de empezar las labores del campo [^kb-hanami]. El último verso de la canción, "mi ni yukan", vamos a verlas, es esa invitación [^dittrich].
+
+### ¿Hay una versión en inglés de Sakura Sakura?
+
+No encontramos una letra en inglés estándar para cantarla; se canta en japonés, como la cantamos nosotros. Rudolf Dittrich imprimió traducciones al alemán y al inglés encima de su música en 1894, pero su inglés es prosa, no hecha para encajar en las notas: "No! for the fragrance of the blossoms diffuses itself" (¡No!, pues la fragancia de las flores se difunde) [^dittrich]. Nuestra traducción sencilla, verso a verso, está en "La letra completa", más arriba, y la International Shakuhachi Society ofrece una traducción moderna [^tsuge].
+
 ## Canta después
 
 - [Shchedryk](/songs/shchedryk): otra canción popular que se canta en su propio idioma: una figura breve que da vueltas, sobre notas largas en las voces graves.
@@ -165,3 +173,5 @@ Su melodía usa solo cinco notas, la escala "in" de la música japonesa para kot
 - [^puccini-museum]: Puccini Museum, Lucca, "Madama Butterfly" (estreno: Milán, Teatro alla Scala, 17 de febrero de 1904). https://www.puccinimuseum.org/en/giacomo-puccini/le-opere/madama-butterfly/
 - [^interlude]: Interlude, "Puccini: Madama Butterfly, Premiered Today in 1904". https://interlude.hk/puccini-madama-butterfly-premiered-today-1904/
 - [^mdw]: mdw, University of Music and Performing Arts Vienna, "mdw in Fernost" (2018). https://www.mdw.ac.at/magazin/2018/09/27/mdw-in-fernost/?lang=en
+- [^kb-sakura]: *Dejitaru Daijisen* (Shogakukan) y *Seisenban Nihon Kokugo Daijiten* (Shogakukan), "Sakura", en Kotobank. https://kotobank.jp/word/%E6%A1%9C-448703
+- [^kb-hanami]: *Seisenban Nihon Kokugo Daijiten* (Shogakukan), "Hanami", con su nota sobre la historia de la palabra; *Kaitei Shinpan Sekai Daihyakka Jiten* (Heibonsha), "Hanami", de Kojima Yoshiyuki; y *Nihon Daihyakka Zensho* (Nipponica, Shogakukan), "Hanami", de Inokuchi Shōji; en Kotobank. https://kotobank.jp/word/%E8%8A%B1%E8%A6%8B-115723

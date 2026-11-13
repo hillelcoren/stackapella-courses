@@ -97,6 +97,10 @@ As three blind mice.
 
 ## Questions
 
+### What does Three Blind Mice mean?
+
+On its face it is a comic round: three blind mice run after the farmer's wife, she cuts off their tails with a carving knife, and the singer asks, in the words of 1843, "Did you ever see such fools in your life?" [^halliwell1842][^halliwell1843]. No hidden meaning is on record before the reading of Mary I and three bishops, which the Ballad Index traces, probably, to a book of 1930 [^ballad][^thomas1930]. The earliest words, of 1609, are about something else: a miller's merry old wife scraping her tripe, with no farmer's wife and no tails [^deuteromelia1609].
+
 ### Is Three Blind Mice about Bloody Mary?
 
 Not as far as the record shows. The Ballad Index says the reading of the farmer's wife as Mary I, and the mice as three Protestant bishops, probably goes back to a book of 1930 [^ballad][^thomas1930]. The earliest known words, of 1609, have a miller's wife who scraped her tripe, with no farmer's wife and no tails cut off [^deuteromelia1609]. The bishops usually named, Ridley, Latimer and Cranmer, were burned at Oxford in 1555 and 1556, not blinded [^hammer1999][^oxfordhistory][^mentalfloss].

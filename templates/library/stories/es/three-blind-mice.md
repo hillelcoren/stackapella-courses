@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: three blind mice historia | three blind mice significado | quién escribió three blind mice | three blind mice canon | three blind mice bloody mary significado | tres ratones ciegos canción
-translatedFrom: 8f1a1744a53a
+translatedFrom: a2b4c8f098a4
 original: Deuteromelia (Londres, 1609), Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_deuteromelia-or-the-sec_ravenscroft-thomas_1609
 ---
 
@@ -104,6 +104,10 @@ como tres ratones ciegos?
 - [Bajo](/songs/three-blind-mice/bass): la melodía grave del tenor, entrando en último lugar, cuatro compases después de él; desde tu entrada, los cuatro versos suenan a la vez. Terminas en solitario, desde "ever you see such a sight in your life" hasta el último "As three blind mice".
 
 ## Preguntas
+
+### ¿Qué significa Three Blind Mice?
+
+A primera vista es un canon cómico: tres ratones ciegos corren tras la mujer del granjero, ella les corta la cola con un cuchillo de trinchar, y quien canta pregunta, con las palabras de 1843, "Did you ever see such fools in your life?" (¿has visto en tu vida tales tontos?) [^halliwell1842][^halliwell1843]. No consta ningún significado oculto antes de la lectura de María I y tres obispos, que el Ballad Index hace remontar, probablemente, a un libro de 1930 [^ballad][^thomas1930]. La letra más antigua, de 1609, habla de otra cosa: la alegre mujer de un molinero que raspa sus callos, sin mujer del granjero y sin colas [^deuteromelia1609].
 
 ### ¿Habla Three Blind Mice de "Bloody Mary"?
 

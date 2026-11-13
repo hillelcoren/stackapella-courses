@@ -25,7 +25,7 @@ Sweet Adeline, printed in 1903 as You're the Flower of My Heart, Sweet Adeline, 
 
 ## Where it comes from
 
-**The tune.** Harry Armstrong was born in Somerville, Massachusetts, in 1879 [^ascap1948][^witmark1939][^time1951]. He began the tune in 1896, as a teenager singing in a street-corner quartet; the publisher's history, built on his own account, says he was eighteen and worked in a Boston jewelry store, and Time's obituary says seventeen [^witmark1939][^time1951][^time1934]. By that history, the barbershop chord his quartet kept coming back to gave him the idea [^witmark1939]. The tune's first title varies: My Old New England Home in Spaeth's 1945 account and in Time [^rotarian1945][^time1951], Down Home in Old New England in The Etude in 1942 and in Variety's obituary of Gerard [^etude1942][^variety1948]. Armstrong moved to New York, played piano at Coney Island and in music halls, and joined the Witmark publishing house [^witmark1939][^ascap1948].
+**The tune.** Harry Armstrong was born in Somerville, Massachusetts, in 1879 [^ascap1948][^witmark1939][^time1951]. He began the tune about 1896, as a teenager singing in a street-corner quartet. The two tellings give that year but not the same age: the publisher's history, built on his own account, says he was eighteen and worked in a Boston jewelry store, and Time's obituary says seventeen [^witmark1939][^time1951][^time1934]. By that history, the barbershop chord his quartet kept coming back to gave him the idea [^witmark1939]. The tune's first title varies: My Old New England Home in Spaeth's 1945 account and in Time [^rotarian1945][^time1951], Down Home in Old New England in The Etude in 1942 and in Variety's obituary of Gerard [^etude1942][^variety1948]. Armstrong moved to New York, played piano at Coney Island and in music halls, and joined the Witmark publishing house [^witmark1939][^ascap1948].
 
 **The words.** Richard H. Gerard was born in 1876; his real surname was Husch [^ascap1948][^variety1948][^loc-gerard][^witmark1939]. He was a clerk in the New York post office [^spaeth1940][^time1934]. His first line was "You're the Flower of My Heart, Sweet Rosalie" [^witmark1939][^spaeth1940]. In the Witmarks' telling, publishers, their own firm among them, turned it down for years until the girl was renamed [^witmark1939].
 
@@ -45,7 +45,7 @@ Sweet Adeline, printed in 1903 as You're the Flower of My Heart, Sweet Adeline, 
 
 ### Timeline
 
-- 1896: Harry Armstrong, a teenager singing in a Boston-area quartet, begins the tune [^witmark1939][^time1951]
+- c. 1896: Harry Armstrong, a teenager singing in a Boston-area quartet, begins the tune [^witmark1939][^time1951]
 - 1903: M. Witmark and Sons publishes You're the Flower of My Heart, Sweet Adeline [^lilly1903][^spaeth1940]
 - 1904: Edison and Columbia issue cylinder recordings [^ucsb4243][^ucsb10500]
 - 1930: The copyright is renewed, with both writers at the signing [^witmark1939][^byu]

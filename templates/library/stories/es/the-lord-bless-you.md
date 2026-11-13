@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the lord bless you and keep you significado | the lord bless you and keep you historia | quién escribió the lord bless you and keep you | the lord bless you and keep you lutkin | bendición sacerdotal números 6 24 26 | jehová te bendiga y te guarde
-translatedFrom: 74e0e886d56f
+translatedFrom: d2483f139b87
 original: Lutkin, The Lord Bless You and Keep You (Summy), Internet Archive | https://archive.org/details/TheLordBlessYouAndKeepYou_700
 ---
 
@@ -113,7 +113,7 @@ Muchos himnarios posteriores imprimen la bendición sin el Amén séptuple [^phh
 
 ### ¿Dónde está "The Lord bless you and keep you" en la Biblia?
 
-Está en Números 6:24 a 26, en el libro de los Números, el cuarto libro de la Biblia. En los versículos 22 y 23 Dios le dice a Moisés que Aarón y sus hijos, los sacerdotes, bendigan al pueblo de Israel con estas palabras, y por eso se la llama la bendición sacerdotal o aarónica [^kjv1611][^je]. El himno coral de Lutkin pone música a esos versículos en su propio orden, con "you" en lugar de "thee" [^summy][^cdh].
+Está en Números 6:24 a 26, en el libro de los Números, el cuarto libro de la Biblia. En los versículos 22 y 23 Dios le dice a Moisés que Aarón y sus hijos, los sacerdotes, bendigan al pueblo de Israel con estas palabras, y por eso se la llama la bendición sacerdotal o aarónica [^kjv1611][^je]. El himno coral de Lutkin pone música a esos versículos en su propio orden, con "you" en lugar de "thee" [^summy][^cdh]. En español, en la Reina-Valera de 1909, dicen: "Jehová te bendiga, y te guarde: Haga resplandecer Jehová su rostro sobre ti, y haya de ti misericordia: Jehová alce á ti su rostro, y ponga en ti paz." [^rv1909]
 
 ### ¿Qué significa "The Lord bless you and keep you"?
 
@@ -162,3 +162,4 @@ La soprano canta la línea superior de la bendición. Pero las cuatro voces cant
 - [^imj]: The Israel Museum, Jerusalén, "'Priestly Benediction' on amulets", plata, Ketef Hinnom, Jerusalén, Edad del Hierro II, siglo VI a. C., en Google Arts and Culture. https://artsandculture.google.com/asset/priestly-benediction-on-amulets/WgGs7fls-QiYdw
 - [^cojs]: Center for Online Judaic Studies, "Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE". https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/
 - [^luther]: *Works of Martin Luther*, vol. 6 (Filadelfia: A. J. Holman Company and The Castle Press, 1932), "Formula of Mass and Communion for the Church at Wittenberg" (1523), trad. Paul Zeller Strodach, sección VIII, p. 91, y nota sobre la bendición aarónica, p. 112. https://archive.org/details/in.ernet.dli.2015.180138
+- [^rv1909]: *La Santa Biblia, que contiene los Sagrados Libros del Antiguo y Nuevo Testamento: antigua versión de Cipriano de Valera, cotejada con diversas traducciones y revisada con arreglo á los originales hebreo y griego, con referencias* (Madrid: Depósito Central de la Sociedad Bíblica B. y E., 1914), Números 6:24 a 26; ejemplar de la Princeton Theological Seminary Library, Internet Archive, ítem lasantabibliaque00unse; texto cotejado con la Reina-Valera Antigua (1909) en Bible Gateway. https://archive.org/details/lasantabibliaque00unse

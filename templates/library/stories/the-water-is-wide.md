@@ -14,8 +14,8 @@ alsoKnownAs: O Waly, Waly; Waly, Waly; The Water Is Wide
 wikidata: Q7773706
 quote: The water is wide I cannot get o'er / And neither have I wings to fly.
 quoteSource: sharp1906
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote the water is wide | the water is wide meaning | the water is wide song meaning | the water is wide folk song history | the water is wide origin | is the water is wide a scottish song | is the water is wide an irish song | o waly waly meaning | is the water is wide a hymn | o waly waly hymn tune | the water is wide lyrics | the water is wide satb | the water is wide alto
 original: Folk Songs from Somerset, third series (1906), p. 32, Internet Archive | https://archive.org/details/imslp-songs-from-somerset-sharp-cecil/SIBLEY1802.5603.14257.9a16-39087013594496thirdseries/page/n43/mode/1up
@@ -130,9 +130,9 @@ Our arrangement takes the melody and words from the 1906 printing. It is in G ma
 
 ## Questions
 
-### Is The Water Is Wide Scottish or English?
+### Is The Water Is Wide Scottish, Irish or English?
 
-Both, in different ways. The song as sung today is English: Cecil Sharp noted its tune and words in Somerset and printed them in 1906 [^sharp1906][^sharp1907]. Some of its lines are also in an older Scottish song, Waly, Waly, printed in the 1720s [^child][^glen]. For traditional poetry, Sharp wrote, England and the Lowlands of Scotland "must be regarded as one area" [^sharp1907].
+English and Scottish, as far as the record shows; we found no early Irish source. The song as sung today is English: Cecil Sharp noted it in Somerset and printed it in 1906 [^sharp1906][^sharp1907]. Some of its lines are in an older Scottish song, Waly, Waly, printed in the 1720s and reprinted in a Dublin edition of 1729 [^child][^glen][^ramsay1729]. The Ballad Index finds it in Irish tradition too, and a singer's note on the folk site Mainly Norfolk calls Carrickfergus, an Irish song recorded in the 1960s, "a localised Irish version of The Water Is Wide" [^balladindex][^mainlynorfolk].
 
 ### What does "O Waly, Waly" mean?
 
@@ -179,3 +179,4 @@ The soprano sings the tune, as Sharp printed it in 1906 [^sharp1906]. The alto a
 - [^bnf]: Bibliothèque nationale de France, catalogue général, Benjamin Britten, *Folk song arrangements. Volume 3. British Isles*, FRBNF16638240. https://catalogue.bnf.fr/ark:/12148/cb16638240c
 - [^ircam]: IRCAM, Brahms database, Benjamin Britten, "Folk Songs, volume 3 (1945-1946)". https://brahms.ircam.fr/en/works/work/23000
 - [^hes]: Historic Environment Scotland, scheduled monument SM13032, "Holyrood Park". https://portal.historicenvironment.scot/designation/SM13032
+- [^mainlynorfolk]: Mainly Norfolk: English Folk and Other Good Music, "Carrickfergus", with the singers' sleeve notes and Dominic Behan's recording of 1961. https://www.mainlynorfolk.info/songs/carrickfergus.html

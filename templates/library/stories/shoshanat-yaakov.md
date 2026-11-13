@@ -150,6 +150,10 @@ Both: they are the same Hebrew words said two ways. In Ashkenazi Hebrew the fina
 
 No one knows. Its lines close Asher heni, an alphabet poem in the Mahzor Vitry, the prayer book of Rashi's school compiled by Simhah of Vitry, who had died by 1105, though its manuscripts carry later additions too. The book heads the poem "a poem from the foundation of the Men of the Great Assembly", a traditional attribution, and names no poet. The last line, for Harbona, comes from a custom the Talmud records, and who made Baer's tune is not known either.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
 
+### Which tunes is Shoshanat Yaakov sung to?
+
+Many. It became common, says the Jewish Music Research Centre in Jerusalem, to sing these closing lines to a variety of rhythmic melodies.[^jmrc] Ours is the old synagogue tune Abraham Baer printed in Gothenburg in 1877, maker unknown.[^baer1877][^baer] Hasidic courts have their own. The Centre likens one cantor's way with it, each stanza opening as a free recitative that flows into a dance niggun, to the way the Modzhitz (Modzitz) Hasidim sing it.[^jmrc] The Gerer Hasidim sing a tune Yankel Talmud composed for Purim in 1953.[^yivo-ger]
+
 ### Which part sings the tune?
 
 The soprano sings the tune throughout, as Baer printed it for the cantor; where his print splits into two voices for a moment, it takes the lower one. With two singers it is soprano and alto, with three the bass joins, and with four the tenor fills the middle of each chord.[^baer]
@@ -182,3 +186,5 @@ The soprano sings the tune throughout, as Baer printed it for the cantor; where 
 - [^kitzur]: Shlomo Ganzfried, *Kitzur Shulchan Aruch* 141:22, via Sefaria. https://www.sefaria.org/Kitzur_Shulchan_Arukh.141.22
 - [^singer]: Simeon Singer, trans., *The Standard Prayer Book* (Bloch Publishing, New York, 1915), pp. 422 to 423, "Service for Purim", Princeton Theological Seminary Library copy, Internet Archive standardprayerbo00hagg, images n847 and n849. https://archive.org/details/standardprayerbo00hagg/page/n847/mode/1up
 - [^sefard]: *Siddur Sefard*, Purim, Megillah Reading, Hebrew text of Torat Emet (public domain), via Sefaria. https://www.sefaria.org/Siddur_Sefard%2C_Purim%2C_Megillah_Reading.41-50
+- [^jmrc]: Jewish Music Research Centre, Hebrew University of Jerusalem, Song of the Month, "Haint Iz Purim, Brider, Part II" (April 2016). https://jewish-music.huji.ac.il/he/node/22555
+- [^yivo-ger]: YIVO Institute for Jewish Research, YIVO Digital Archive on Jewish Life in Poland, "Hasidim, Songs. Shoshanas Yaakov. Gerer Hasidim", Gerer niggun composed Purim 1953 by Yankel Talmud, sung by Gerer Hasidim in Brooklyn, recorded by Benedict Stambler about 1960. https://polishjews.yivo.org/audio/yarg1014germp3

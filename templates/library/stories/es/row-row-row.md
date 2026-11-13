@@ -15,10 +15,10 @@ wikidata: Q6960010
 quote: Merrily, merrily, merrily, merrily; Life is but a dream.
 quoteSource: lyte1893
 updated: 2026-11-13
-checked: 2026-11-12
+checked: 2026-11-13
 reviewed: true
 searches: row row row your boat historia | row row row your boat significado | quién escribió row row row your boat | row row row your boat canon | cómo cantar row row row your boat en canon | row row row your boat letra en español
-translatedFrom: 07e6482a728d
+translatedFrom: fdab1d895db1
 ---
 
 Row, Row, Row Your Boat es un canon: una melodía de cuatro versos que dos, tres o cuatro cantantes empiezan en momentos distintos, de modo que se canta contra sí misma [^hall1874][^grove]. Sus dos primeros versos ya estaban impresos en 1852, como el estribillo de The Old Log Hut, una canción de los espectáculos de minstrel con la cara pintada de negro (blackface), con otra melodía [^sinclair1852][^rice][^ballad]. El canon, que termina con "Merrily, merrily" y "Life is but a dream", aparece en The Teachers' Institute Glee Book de 1874, preparado en Lancaster, Pensilvania, por W. B. Hall y E. O. Lyte; desde 1881 se imprime con el nombre de Lyte, pero ninguna fuente que encontramos dice quién hizo la melodía [^hall1874][^mccaskey1881][^ballad]. Después pasó a las canciones de campamento: el Ballad Index la encuentra en cancioneros de los Boy Scouts y de los clubes 4-H [^ballad].
@@ -111,6 +111,10 @@ Todos cantan la misma melodía, pero empiezan en momentos distintos. La impresi�
 ### ¿Row, Row, Row Your Boat es una canción infantil?
 
 Hoy se canta como tal, y Classic FM la llama así, pero empezó en otro lugar [^classicfm]. Sus primeros versos fueron el estribillo de una canción de 1852 que se cantaba en los espectáculos de minstrel, y la primera impresión conocida del canon está en un cancionero escolar de 1874, no en un libro de canciones infantiles [^sinclair1852][^rice][^hall1874]. El Ballad Index la clasifica como canción de campamento y como canon [^ballad].
+
+### ¿Cuál es la letra y la melodía original de Row, Row, Row Your Boat?
+
+La primera letra fue el estribillo de una canción de 1852, The Old Log Hut: "Row, row, row your boat, Gently down the stream, All that's past is gone you know, The future's but a dream" (rema, rema, rema tu bote, suave río abajo; todo lo pasado se fue, ya lo sabes; el futuro no es más que un sueño), con una melodía de R. Sinclair en 4/4 que no es la de hoy [^sinclair1852]. La letra y la melodía de hoy, en 6/8 con "Merrily, merrily" y "Life is but a dream", tienen su primera impresión conocida en 1874 [^hall1874]. Las impresiones de 1874, 1881 y 1893 cantan el "-ly" de "Gently" una nota más alto de lo que se suele cantar hoy [^hall1874][^mccaskey1881][^lyte1893].
 
 ## Canta después
 

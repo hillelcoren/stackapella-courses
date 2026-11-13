@@ -122,6 +122,14 @@ There is no evidence that she did. The song's earliest known printing is from 19
 
 No one knows. It is a traditional spiritual, and the earliest printing we have read, Fisk University's New Jubilee Songs of 1904, names no maker; Frederick J. Work is credited with collecting and harmonizing the book's songs, not writing them [^work1904]. One account says it was printed in 1901, in that book's first edition, but the book and its copyright record date that edition to June 1902 [^songofamerica][^work1904][^cce1902].
 
+### Is Wade in the Water public domain?
+
+Yes, the traditional song is. No maker is known, and its words and tune were printed by Fisk University in New Jubilee Songs, whose first edition was registered for copyright in June 1902; we read them in the edition of 1904 [^work1904][^cce1902]. Later arrangements are separate works with their own rights, Harry T. Burleigh's, copyrighted in 1925, among them, and so are recordings [^cce1925]. Our arrangement is our own.
+
+### Is Wade in the Water gospel, blues or jazz?
+
+It is a spiritual: a religious folk song in call and response, which Fisk's book of 1904 calls a melody for baptisms [^work1904][^carnegiefolk]. Spirituals grew into the concert spiritual and fed gospel, and Burleigh set this one for the concert stage in 1925 [^songofamerica][^burleigh1925]. It did not begin as blues or jazz, but jazz took it up: a recording by the jazz pianist Ramsey Lewis (1935 to 2022) was on Billboard's Hot 100 in September 1966 [^billboard1966][^relix2022].
+
 ## Sing next
 
 - [Go Down, Moses](/songs/go-down-moses): Moses and the Exodus again, and a Moses song was one of Tubman's real signals.
@@ -157,3 +165,5 @@ No one knows. It is a traditional spiritual, and the earliest printing we have r
 - [^cce1925]: Library of Congress, Copyright Office, *Catalog of Copyright Entries*, part 3, Musical Compositions, new series, vol. 20, nos. 9-10 (1925), p. 1041, entries 21431, "Wade in de water; four-part cho., negro spiritual, arr. H. T. Burleigh", Sept. 18, 1925, and 21432, the same for high voice, Oct. 5, 1925, G. Ricordi & Co., Inc., New York (image n1084); facsimile. https://archive.org/details/catalogofcopyrig203libr
 - [^johnson1926]: James Weldon Johnson, ed., and J. Rosamond Johnson, arr., *The Second Book of Negro Spirituals* (New York: Viking Press, 1926), preface and "God's A-Gwineter Trouble De Water", pp. 84 to 85; University of Toronto, Faculty of Music Library, M1670 .S43 1926, facsimile. https://archive.org/details/31761034975011
 - [^kjv]: The Bible, King James Version: John 5:2-7; Exodus 14:21-22; Revelation 7:9; Isaiah 61:1; Joshua 3:17; Matthew 3:13. https://www.biblegateway.com/passage/?search=John%205%3A2-7%3B%20Exodus%2014%3A21-22%3B%20Revelation%207%3A9%3B%20Isaiah%2061%3A1%3B%20Joshua%203%3A17%3B%20Matthew%203%3A13&version=KJV
+- [^billboard1966]: *Billboard* (New York: Billboard Publications, issue of 3 September 1966), "Hot 100", for week ending September 3, 1966, "Wade in the Water", Ramsey Lewis; facsimile, World Radio History. https://www.worldradiohistory.com/Archive-All-Music/Billboard/60s/1966/Billboard%201966-09-03.pdf
+- [^relix2022]: Relix, "Legendary Jazz Pianist and Composer Ramsey Lewis Dead at 87" (13 September 2022). https://relix.com/news/detail/legendary-jazz-pianist-and-composer-ramsey-lewis-dead-at-87

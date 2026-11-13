@@ -61,7 +61,7 @@ Leontovych kept coming back to Shchedryk. Ukrainian scholars count five versions
 
 The words are a folk text with no known author. We sing twelve lines and then the first two again to close.
 
-**"Shchedryk, shchedryk, shchedrivochka".** These are calling words more than a sentence. A Ukrainian dictionary gives "shchedryk", stressed on its first syllable, as another name for the Generous Evening itself [^sum-shchedryk]. "Shchedrivochka" is a fond, small form of "shchedrivka", a New Year song [^eu-carols].
+**"Shchedryk, shchedryk, shchedrivochka".** These are calling words more than a sentence. A Ukrainian dictionary gives "shchedryk", stressed on its first syllable, as another name for the Generous Evening itself [^sum-shchedryk]. So the title is said SHCHED-rik: "shch" is "sh" and "ch" run together, as in "fresh cherries", the "e" is the "e" of "bed", and the "y" is close to the "i" of "bit" [^ua-lessons][^jenkala]. Shchedrik and Schedryk are other spellings of the same word. "Shchedrivochka" is a fond, small form of "shchedrivka", a New Year song [^eu-carols].
 
 **The swallow arrives.** A little swallow has flown in. It starts to twitter and calls the master of the house to come out.
 
@@ -194,3 +194,5 @@ The soprano sings the tune, the four-note figure, from the first bar to the last
 - [^zbirnychok]: K. L. Polishchuk, comp., tunes written down by M. Ostapovych, ed. A. Koshyts, *Zbirnychok naikrashchykh ukrainskykh pisen z notamy*, part 4 (Kyiv: Y. T. Hubanov, 1913), No. 23, "Shchedryk, shchedryk shchedryvochka", p. 43, from Krasnopil, Zhytomyr district, Volhynia; University of Toronto, Faculty of Music Library copy, M1764 .P65 Z3, images n112 (title page) and n154. https://archive.org/details/zbirnychoknakras00poli
 - [^trypisni]: Mykola Leontovych, *Try pisni: 1. Shchedryk, 2. Dudaryk, 3. Prala* (Kharkiv: Holovpolitosvita N. K. O., 1921), pp. 2 and 3; Vernadsky National Library of Ukraine, Music Collections Department, Ук III-27.3, as photographed in Svitlana Litvinova, "«Shchedryk»: 100-richna podorozh u chasi" (NBUV, 26 December 2016), ill. 2 and 3. http://nbuv.gov.ua/node/3286
 - [^nbuv]: Svitlana Litvinova, "«Shchedryk»: 100-richna podorozh u chasi" (Vernadsky National Library of Ukraine, 26 December 2016). http://nbuv.gov.ua/node/3286
+- [^ua-lessons]: Ukrainian Lessons, "Ukrainian Alphabet: Full Guide with Examples and Pronunciation" (1 February 2021), letters Щ, Е and И. https://www.ukrainianlessons.com/ukrainian-alphabet/
+- [^jenkala]: Marta Jenkala, *Read Ukrainian!*, unit 1, "1.4: The remaining letters" (UkrainianLanguage.uk, 2007), note on Щ. https://ukrainianlanguage.org.uk/read/unit01/page1-4.htm

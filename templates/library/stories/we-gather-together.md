@@ -1,8 +1,8 @@
 ---
 title: We Gather Together: history, meaning and the words explained
-description: A Dutch song of thanks for the victories of 1597, printed in Haarlem in 1626, set by Kremser in Vienna in 1877 and put into English by Theodore Baker in 1894.
-lead: A Dutch song of thanks for the victories of 1597, printed in 1626, arranged in Vienna by Eduard Kremser in 1877 and put into English by Theodore Baker in 1894. Americans sing it at Thanksgiving.
-words: Adrianus Valerius (died 1625); English, Theodore Baker (1851 to 1934)
+description: A Dutch song of thanks, printed at Haarlem in 1626 after an account of the 1597 victories, set by Kremser in 1877 and put into English by Baker in 1894.
+lead: A Dutch song of thanks, printed in 1626 after an account of the victories of 1597, arranged in Vienna by Eduard Kremser in 1877 and put into English by Theodore Baker in 1894. Americans sing it at Thanksgiving.
+words: Probably Adrianus Valerius (died 1625); English, Theodore Baker (1851 to 1934)
 tune: Dutch tune "Hey wilder dan wild", arranged by Eduard Kremser (1838 to 1914)
 tuneName: KREMSER
 meter: 12.11.12.11
@@ -171,6 +171,10 @@ Because it was a song of thanks from the start. Valerius's book places it after 
 
 It means that God corrects his people and is quick to show them what he wants. To "chasten" is to discipline, the word the King James Bible uses for a father correcting the child he loves [^kjv-heb12]. "Hastens" means he hurries to make his will known. The line comes from Baker's English of 1894, not from the Dutch [^harvard1920][^valerius1626].
 
+### Which hymnals have We Gather Together?
+
+Hundreds: Hymnary.org lists it as published in 257 hymnals [^hymnary-text]. Among today's are The United Methodist Hymnal (1989), No. 131; the Seventh-day Adventist Hymnal (1985), No. 8; the Episcopal Church's Hymnal 1982, No. 433; Glory to God, the Presbyterian hymnal of 2013, No. 336; and Hymns of Grace (2015), No. 435 [^hy-umh][^hy-sdah][^hy-h1982][^hy-gtg][^hy-hog]. Older books include The Beacon Hymnal (1924), No. 17, which we sing from, The Abingdon Hymnal (1928), No. 207, and The Methodist Hymnal (1935), No. 20 [^beacon1924][^abingdon1928][^mh1935].
+
 ## Sing next
 
 - [Shall We Gather at the River](/songs/shall-we-gather): another American church favourite about gathering, in Robert Lowry's four parts of 1869.
@@ -215,3 +219,8 @@ It means that God corrects his people and is quick to show them what he wants. T
 - [^kjv-heb12]: The Bible, King James Version: Hebrews 12:5 to 11. https://www.biblegateway.com/passage/?search=Hebrews%2012%3A5-11&version=KJV
 - [^kjv-1pet5]: The Bible, King James Version: 1 Peter 5:8. https://www.biblegateway.com/passage/?search=1%20Peter%205%3A8&version=KJV
 - [^kjv-mt26]: The Bible, King James Version: Matthew 26:41. https://www.biblegateway.com/passage/?search=Matthew%2026%3A41&version=KJV
+- [^hy-umh]: Hymnary.org, *The United Methodist Hymnal* (1989), No. 131, "We Gather Together". https://hymnary.org/hymn/UMH/131
+- [^hy-sdah]: Hymnary.org, *Seventh-day Adventist Hymnal* (1985), No. 8, "We Gather Together". https://hymnary.org/hymn/SDAH1985/8
+- [^hy-h1982]: Hymnary.org, *The Hymnal 1982: according to the use of the Episcopal Church*, No. 433, "We gather together to ask the Lord's blessing", tune KREMSER. https://hymnary.org/hymn/EH1982/433
+- [^hy-gtg]: Hymnary.org, *Glory to God: the Presbyterian Hymnal* (2013), No. 336, "We Gather Together". https://hymnary.org/hymn/GG2013/336
+- [^hy-hog]: Hymnary.org, *Hymns of Grace* (2015), No. 435, "We Gather Together". https://hymnary.org/hymn/HOG2015/435

@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: sweet adeline historia | sweet adeline significado | quién escribió sweet adeline | sweet adeline letra en español | sweet adeline barbershop | quién cantó primero sweet adeline
-translatedFrom: 45e2bdc4a6e5
+translatedFrom: bff538b1877e
 original: You're the Flower of My Heart, Sweet Adeline (Witmark, 1903), Lilly Library, Universidad de Indiana | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-250085
 listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-245492-sweet-adeline || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-726049-you-re-the-flower-of-my-heart-sweet-adeline
 ---
@@ -26,7 +26,7 @@ Sweet Adeline, impresa en 1903 como You're the Flower of My Heart, Sweet Adeline
 
 ## De dónde viene
 
-**La melodía.** Harry Armstrong nació en Somerville, Massachusetts, en 1879 [^ascap1948][^witmark1939][^time1951]. Empezó la melodía en 1896, cuando era un adolescente que cantaba en un cuarteto callejero; la historia de la editorial, basada en su propio relato, dice que tenía dieciocho años y trabajaba en una joyería de Boston, y la necrológica de Time dice que diecisiete [^witmark1939][^time1951][^time1934]. Según esa historia, la idea se la dio el acorde de barbershop al que su cuarteto volvía una y otra vez [^witmark1939]. El primer título de la melodía varía: My Old New England Home en el relato de Spaeth de 1945 y en Time [^rotarian1945][^time1951], y Down Home in Old New England en The Etude en 1942 y en la necrológica de Gerard publicada por Variety [^etude1942][^variety1948]. Armstrong se mudó a Nueva York, tocó el piano en Coney Island y en music halls, y entró en la editorial Witmark [^witmark1939][^ascap1948].
+**La melodía.** Harry Armstrong nació en Somerville, Massachusetts, en 1879 [^ascap1948][^witmark1939][^time1951]. Empezó la melodía hacia 1896, cuando era un adolescente que cantaba en un cuarteto callejero. Los dos relatos dan ese año, pero no la misma edad: la historia de la editorial, basada en su propio relato, dice que tenía dieciocho años y trabajaba en una joyería de Boston, y la necrológica de Time dice que diecisiete [^witmark1939][^time1951][^time1934]. Según esa historia, la idea se la dio el acorde de barbershop al que su cuarteto volvía una y otra vez [^witmark1939]. El primer título de la melodía varía: My Old New England Home en el relato de Spaeth de 1945 y en Time [^rotarian1945][^time1951], y Down Home in Old New England en The Etude en 1942 y en la necrológica de Gerard publicada por Variety [^etude1942][^variety1948]. Armstrong se mudó a Nueva York, tocó el piano en Coney Island y en music halls, y entró en la editorial Witmark [^witmark1939][^ascap1948].
 
 **La letra.** Richard H. Gerard nació en 1876; su verdadero apellido era Husch [^ascap1948][^variety1948][^loc-gerard][^witmark1939]. Era empleado de la oficina de correos de Nueva York [^spaeth1940][^time1934]. Su primer verso fue "You're the Flower of My Heart, Sweet Rosalie" (eres la flor de mi corazón, dulce Rosalie) [^witmark1939][^spaeth1940]. Según cuentan los Witmark, los editores, su propia empresa entre ellos, la rechazaron durante años, hasta que la muchacha cambió de nombre [^witmark1939].
 
@@ -46,7 +46,7 @@ Sweet Adeline, impresa en 1903 como You're the Flower of My Heart, Sweet Adeline
 
 ### Cronología
 
-- 1896: Harry Armstrong, un adolescente que canta en un cuarteto de la zona de Boston, empieza la melodía [^witmark1939][^time1951]
+- c. 1896: Harry Armstrong, un adolescente que canta en un cuarteto de la zona de Boston, empieza la melodía [^witmark1939][^time1951]
 - 1903: M. Witmark and Sons publica You're the Flower of My Heart, Sweet Adeline [^lilly1903][^spaeth1940]
 - 1904: Edison y Columbia sacan grabaciones en cilindro [^ucsb4243][^ucsb10500]
 - 1930: Se renueva el copyright, con los dos autores presentes en la firma [^witmark1939][^byu]
