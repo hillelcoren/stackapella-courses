@@ -1,7 +1,7 @@
 ---
 title: I Am Fill'd with Heavenly Treasures: history, meaning and the words
 description: A Shaker gift song copied in 1847 into Mary Hazzard's songbook, noted as sung by the spirit Jack through Abraham Perkins on the holy Mount on Aug 30.
-lead: I Am Fill'd with Heavenly Treasures is a Shaker gift song of joy, one line of words and four "praise"s, each ending in a run of notes without words. It was noted down on 30 August 1847.
+lead: I Am Fill'd with Heavenly Treasures is a Shaker gift song of joy: one line of words, then four "praise"s, each line ending in a run of notes without words. Its page dates it 30 August 1847.
 words: Shaker gift song, credited on the page to the spirit "Jack" through Abraham Perkins (1847)
 tune: Shaker gift song, credited on the page to the spirit "Jack" through Abraham Perkins (1847)
 language: English
@@ -10,27 +10,27 @@ occasion: Shaker worship, as a gift song
 alsoKnownAs: I Am Filled with Heavenly Treasures; Heavenly Treasures
 quote: I am fill'd with heavenly treasures
 quoteSource: hazzard
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: i am filled with heavenly treasures | heavenly treasures shaker song | what are shaker songs | shaker gift songs | lay up treasures in heaven meaning
 ---
 
-I Am Fill'd with Heavenly Treasures, also written I Am Filled with Heavenly Treasures, is a short Shaker song of joy. It has one line of words, written twice, and then "Praise, praise, praise, praise", and each line ends in a run of notes with no words [^hazzard]. Mary Hazzard copied it into her handwritten songbook with a note that it was "Sung by Jack thro Abram P. on the holy Mount" on 30 August; the song above it on the page gives the year, 1847 [^hazzard]. To the Shakers that meant a spirit called Jack had sung it through a medium, Abraham Perkins of Enfield, New Hampshire [^andrews][^enfield]. Its "heavenly treasures" recall Jesus's words about laying up "treasures in heaven" [^kjv-bg][^kjv-pg].
+I Am Fill'd with Heavenly Treasures, also written I Am Filled with Heavenly Treasures, is a short Shaker song of joy. It has one line of words and then "Praise, praise, praise, praise", each written twice, and each line ends in a run of notes with no words [^hazzard]. Mary Hazzard copied it into her handwritten songbook with a note that it was "Sung by Jack thro Abram P. on the holy Mount" on 30 August; the song above it on the page gives the year, 1847 [^hazzard]. To the Shakers that meant a spirit called Jack had sung it through a medium, Abraham Perkins of Enfield, New Hampshire [^andrews][^enfield]. Its "heavenly treasures" recall Jesus's words about laying up "treasures in heaven" [^kjv-bg][^kjv-pg].
 
 ## Where it comes from
 
-**Gift songs and their instruments.** The Shakers worshipped with their own songs and dances [^shakermuseum][^andrews]. From 1837 a revival they called Mother Ann's Work brought a flood of new songs, which the Shakers believed came from the spirit world [^andrews][^devinne]. The singer who received one was called an "instrument", and the song was a "gift" [^andrews][^wonders][^wintcoll]. Songs were credited to Mother Ann and to departed Shakers [^andrews][^hazzardbook], and also to spirits the Shakers took for Native Americans, Africans and people of many other nations [^andrews][^wonders].
+**Gift songs and their instruments.** Shaker worship was sung and danced, to songs the Shakers made themselves [^shakermuseum][^andrews]. From 1837 a revival they called Mother Ann's Work brought a flood of new songs, which the Shakers believed came from the spirit world [^andrews][^devinne]. The singer who received one was called an "instrument", and the song was a "gift" [^andrews][^wonders][^wintcoll]. Songs were credited to Mother Ann and to departed Shakers [^andrews][^hazzardbook], and also to spirits the Shakers took for Native Americans, Africans and people of many other nations [^andrews][^wonders].
 
 **The book.** Mary Hazzard, a sister of the Church Family at New Lebanon, New York, began her "Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them" on 7 February 1847 [^hazzardbook][^wintcat][^smportrait][^andrews]. Winterthur Library, in Delaware, holds it as ASC 893 [^wintcat]. It is also the source of our [Simple Gifts](/songs/simple-gifts).
 
-**The page.** Hazzard's page 23 holds two songs [^hazzard]. The upper one, "While I march Zions borders", is dated "August 30th 1847" and signed "Sung by the Savior on the Holy Mount thro Abm Perkins". Below it, with no heading of its own, comes our song. Each line of words is followed by a row of dashes, and under the words runs the tune in Shaker letteral notation, small letters for the pitches with strokes and lines for their lengths [^hazzard][^wintcoll]. A "5" stands in the frame at the start of the staff, and every bar holds six eighth notes' worth, in two groups of three, the lilt we sing in 6/8 [^hazzard]. The letters run in A minor and end on a. At the foot is the note "Sung by Jack thro Abram P. on the holy Mount Aug 30th" [^hazzard].
+**The page.** Hazzard's page 23 holds two songs [^hazzard]. The upper one, "While I march Zions borders", is dated "August 30th 1847" and signed "Sung by the Savior on the Holy Mount thro Abm Perkins". Below it, with no heading of its own, comes our song. Each line of words is followed by a row of dashes, and under the words runs the tune in Shaker letteral notation, small letters for the pitches with strokes and lines for their lengths [^hazzard][^wintcoll]. A "5" stands in the frame at the start of the song, and every bar holds six eighth notes' worth, in two groups of three, the lilt we sing in 6/8 [^hazzard]. The letters run in A minor and end on a. At the foot is the note "Sung by Jack thro Abram P. on the holy Mount Aug 30th" [^hazzard].
 
-Two pages earlier, on page 21, a different song, "Come Mother's love and fill my soul", has the same date and a fuller note, underlined, saying it was given "on the Holy Mount" by a spirit "named Jack thro Abm Perkins" [^hazzardbook]. Andrews printed that song and its note in 1940 and placed it at Enfield, New Hampshire [^andrews]. So three songs in the book came through one medium on one day, two of them from Jack.
+Two pages earlier, on page 21, a different song, "Come Mother's love and fill my soul", has the same date and a fuller note, underlined: "Given on the Holy Mount by a Coulard spirit named Jack thro Abm Perkins", "Coulard" being her spelling of "coloured" [^hazzardbook]. Andrews printed that song and its note in 1940 and placed it at Enfield, New Hampshire [^andrews]. So three songs in the book came through one medium on one day, two of them from Jack.
 
 **Abraham Perkins.** Perkins was born at Sanbornton, New Hampshire, in 1807, and went to the Shakers at Enfield, New Hampshire, in 1827 [^runnels][^enfield]. A town history of 1881 says he became a preacher and adviser at both Enfield and Canterbury [^runnels]. The Enfield Shaker Museum lists medium among his roles and says he counted the gift of song among his greatest blessings [^enfield]. Hazzard's book has a song of his own, signed "Brother Abraham Perkins song Canterbury" [^hazzardbook].
 
-**Jack.** Jack appears more than once in Hazzard's book: a song "Sung by Jack March 1st 1847 Holy Ground", and an "Indian Song" from Holy Ground of 6 October 1847 [^hazzardbook][^andrews]. Andrews reads Holy Ground as Canterbury, New Hampshire [^andrews]. Andrews also printed a song "Sung by Br. Jack" at Enfield in 1848 [^andrews]. To the Shakers, Jack was the spirit of a Black man. His songs were sung by Shaker mediums such as Perkins, so the notes record how those Shakers heard and imagined him, and nothing more is known of him [^hazzardbook][^andrews]. Andrews, writing in 1940, called such performances "racial impersonations": in them the Shaker singers imitated other peoples as they pictured them, at times in a made-up dialect [^andrews]. The words of this song are plain English praise.
+**Jack.** Jack appears more than once in Hazzard's book: a song "Sung by Jack March 1st 1847 Holy Ground", and an "Indian Song" from Holy Ground of 6 October 1847 [^hazzardbook][^andrews]. Andrews reads Holy Ground as Canterbury, New Hampshire [^andrews]. Andrews also printed a song "Sung by Br. Jack" at Enfield in 1848 [^andrews]. Andrews printed Hazzard's "Coulard spirit" as "a colored spirit", and his 1848 song calls Jack "a colored spirit" too [^andrews]: to the Shakers, Jack was the spirit of a Black man [^andrews][^nwr]. His songs were sung by Shaker mediums such as Perkins, so the notes record how those Shakers heard and imagined him, and nothing more is known of him [^hazzardbook][^andrews]. Andrews, writing in 1940, called such performances "racial impersonations": in them the Shaker singers imitated other peoples as they pictured them, at times in a made-up dialect [^andrews]. The words of this song are plain English praise.
 
 **The holy Mount.** In the same revival the Shaker villages took spiritual names, and New Lebanon's was Holy Mount [^andrews][^devinne]. From 1842 each village also had a cleared hilltop feast ground for outdoor worship [^andrews][^devinne]. Andrews says New Lebanon's feast ground was called Holy Mount too; Christine De Vinne names it the Mount of Olives [^andrews][^devinne]. Enfield's own ground was Mount Assurance [^andrews][^devinne]. Perkins was an Enfield Shaker, and Andrews placed the companion song at Enfield, but the page does not say which mount is meant [^hazzard][^andrews].
 
@@ -48,7 +48,7 @@ Two pages earlier, on page 21, a different song, "Come Mother's love and fill my
 
 **"I am fill'd with heavenly treasures."** "Fill'd" is "filled", the apostrophe showing the "e" is not sounded. In the King James Bible, Jesus tells his hearers to "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (Matthew 6:20) [^kjv-bg][^kjv-pg]. This singer does not wait for them: the treasures are already here, and they fill the singer now.
 
-In the revival, treasures were handed out in worship. Before the feast days, elders gave the members spiritual robes that no one could see, taken from an imaginary chest [^andrews]. The very next song in Hazzard's book, "Baskets of Treasures" from Canterbury, offers "jewels and diamonds and many pretty rings" brought on silver wings [^hazzardbook][^andrews]. Andrews noted how often gift songs promised such treasure as the reward of the faithful [^andrews].
+In the revival, unseen gifts were handed out in worship. On the evening before a feast day, elders and eldresses took spiritual robes that no one could see from an imaginary chest and gave them to the members [^andrews]. The very next song in Hazzard's book, "Baskets of Treasures" from Canterbury, offers "jewels and diamonds and many pretty rings" brought on silver wings [^hazzardbook][^andrews]. Andrews noted how often gift songs promised such treasure as the reward of the faithful [^andrews].
 
 **"Praise, praise, praise, praise."** The second strain is praise and nothing else, sung four times over.
 
@@ -68,19 +68,20 @@ Praise praise praise praise
 
 It was a gift song of Shaker worship, from the revival years when instruments sang new songs in meetings [^andrews][^wonders]. Each strain is written out with two endings, marked to be sung twice [^hazzard].
 
-Our arrangement is read from Hazzard's page, with every pitch as she wrote it, moved down a fourth from A minor to E minor, in 6/8 with her values as written [^hazzard]. Both strains are sung twice, as her repeat signs mark them, and the last note of each line but the final one gives up half a beat for a breath. It is for 2 to 4 singers. The soprano sings the tune and its wordless runs, the alto and tenor sing the words and then "oo" under the runs, and the bass sings "oo", holding a low E through the first strain and moving with the chord roots in the second. The harmony is ours.
+Our arrangement is read from Hazzard's page, with every pitch as she wrote it, moved down a fourth from A minor to E minor, in 6/8 with her values as written [^hazzard]. Both strains are sung twice, as her repeat signs mark them, and the last note of each line but the final one gives up half a beat for a breath. It is for 2 to 4 singers. The soprano sings the tune and its wordless runs, the alto and tenor sing the words and then "oo" under the runs, and the bass sings "oo", holding an E through the first strain and moving with the chord roots in the second. The harmony is ours.
 
 ## Did you know?
 
 - Jack's March 1847 song in the same book, "I've got a little taste of the crums of heaven", is built the same way: a line of words, long runs without words, then "Praised be God" [^hazzardbook].
 - Perkins's own Canterbury song in the book has a refrain that says "For love is the bond of our union" [^hazzardbook].
+- In 2004 a New Hampshire choir that sings the Shakers' songs named a recording of Shaker songs after this one, I Am Filled with Heavenly Treasures; its booklet takes the song from Hazzard's page 23 [^nwr][^ecu].
 
 ## Singing it
 
 - [Soprano](/songs/heavenly-treasures/soprano): you carry the tune and every wordless run. In the first strain your highest note is C, on "heav-en-ly". After "treasures" you keep singing the word through a run of eight notes, G, E, F sharp, G, F sharp, G, E, F sharp, before the line comes again. The second strain leaps an octave, from the low E to the top E on the first "Praise", then sings B, C and A on the other three.
 - [Alto](/songs/heavenly-treasures/alto): you sing the words in the tune's rhythm a third below it, rising to A on "heav-en-ly". While the soprano runs in the first strain, you sing "oo", one note a beat, on E and D, falling to C as the strain closes. Your "Praise" lines sit on G, G, E and F sharp, and the strain's last "oo" drops to a low G.
 - [Tenor](/songs/heavenly-treasures/tenor): your part sits in a narrow space, F sharp to B. "I am fill'd with heav-" stays on B for five notes before you drop to G and rise to A. The first "Praise" line is on G, G, G and F sharp; the second starts higher, on B.
-- [Bass](/songs/heavenly-treasures/bass): you sing "oo" and anchor the first strain on a long low E, stepping up to F sharp under "treasures" and back. In the second strain you move once a beat with the "praise"s, E, G, C, D, and end on a long E.
+- [Bass](/songs/heavenly-treasures/bass): you sing "oo" and anchor the first strain on a long E, stepping up to F sharp under "treasures" and back. In the second strain you move once a beat with the "praise"s, E, G, C, D, and end on a long E.
 
 ## Questions
 
@@ -90,7 +91,7 @@ A gift song is a song the Shakers believed was given from the spirit world to a 
 
 ### What does "lay up treasures in heaven" mean?
 
-It is Jesus's teaching in Matthew's Gospel: store up what lasts with God rather than riches on earth, "where moth and rust doth corrupt" (Matthew 6:19 to 21) [^kjv-bg][^kjv-pg]. Shaker gift songs often carried that promise of a heavenly reward for the faithful, Andrews found [^andrews]. This song sings of having the treasure already: "I am fill'd with heavenly treasures" [^hazzard].
+It is Jesus's teaching in Matthew's Gospel: store up what lasts with God rather than riches on earth, "where moth and rust doth corrupt" (Matthew 6:19 to 21) [^kjv-bg][^kjv-pg]. Andrews found many gift songs that promised the faithful a reward in heaven [^andrews]. This song sings of having the treasure already: "I am fill'd with heavenly treasures" [^hazzard].
 
 ### Which part sings the tune?
 
@@ -117,3 +118,5 @@ The soprano sings the tune, including all the runs without words. Two singers ta
 - [^shakermuseum]: Shaker Museum | Mount Lebanon, "The Shakers". https://www.shakermuseum.us/the-shakers
 - [^kjv-bg]: The Holy Bible, King James Version, Matthew 6:19 to 21, at Bible Gateway. https://www.biblegateway.com/passage/?search=Matthew+6%3A19-21&version=KJV
 - [^kjv-pg]: *The King James Version of the Bible*, Project Gutenberg eBook No. 10, Matthew 6:19 to 21. https://www.gutenberg.org/ebooks/10
+- [^nwr]: New World Records, *I Am Filled with Heavenly Treasures*, CD 80617 (2004), booklet notes, track 23. https://nwr-site-liner-notes.s3.amazonaws.com/80617.pdf
+- [^ecu]: East Carolina University Libraries, catalogue record for *I am filled with heavenly treasures* (Recorded Anthology of American Music, 2004), recorded June 12 to 14, 2003, Hanover, New Hampshire. https://librarycatalog.ecu.edu/catalog/976147
