@@ -14,14 +14,17 @@ alsoKnownAs: Nearer My God to Thee; Más cerca, oh Dios, de ti
 wikidata: Q833220
 quote: Still all my song shall be, Nearer, my God, to thee
 quoteSource: fox1841
-original: Fox, Hymns and Anthems (1841), No. 85, Internet Archive | https://archive.org/details/hymnsandanthems01foxgoog/page/n70 || The Sabbath Hymn and Tune Book (1859), p. 244, Internet Archive | https://archive.org/details/sabbtune00maso/page/n249
+original: The Sabbath Hymn and Tune Book (1859), Internet Archive | https://archive.org/details/sabbtune00maso
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who wrote nearer my god to thee | who wrote the music for nearer my god to thee | nearer my god to thee meaning bible verse | nearer my god to thee titanic meaning | nearer my god to thee hymn history | nearer my god to thee lyrics meaning
+listen: National Jukebox, 1901 recording | https://archive.org/details/loc-jukebox-5890-nearer-my-god-to-thee || National Jukebox, 1908 recording | https://archive.org/details/loc-jukebox-119042-nearer-my-god-to-thee
 ---
 
 Nearer, My God, to Thee is a hymn about longing to be close to God, even through hardship. Sarah Flower Adams wrote it for the Unitarian chapel of William Johnson Fox in London, and its earliest known printing is No. 85 in Fox's Hymns and Anthems of 1841 [^fox1841][^julian][^canterbury]. Its verses follow Jacob's dream from Genesis, of a stairway between earth and heaven [^fox1841][^kjv]. By 1892 the hymnologist John Julian found it in very wide use in all English-speaking countries, and translated into many languages [^julian]. It was sung at the funeral services for President McKinley in 1901 [^halstead][^hazelton], and it is the hymn most often linked with the sinking of the Titanic, though survivors disagreed about whether the band played it [^gracie][^marshall1912].
+
+![[1]]
 
 ## Where it comes from
 
@@ -29,9 +32,13 @@ Nearer, My God, to Thee is a hymn about longing to be close to God, even through
 
 Eliza, a composer, supplied much of the music for the chapel's services, setting many of the Hymns and Anthems to her own music or adapting music by others [^dnb-eliza][^conway]. The 1841 book prints words only; a note in it says many of its pieces come from a series of sacred music by "E. Flower" [^fox1841]. Julian counted 13 hymns by her in it; the book's own index puts her name to 14 [^julian][^fox1841]. Hymn historians date this one to 1840 [^canterbury][^bb1906]. Moncure Conway, writing the chapel's history in 1894, saw it as born of Sarah's long struggle with religious doubt, and reproduced her first draft, sent to Fox [^conway][^humanists].
 
+![[2]]
+
 Eliza died of consumption in December 1846 [^dnb-eliza][^conway]. Sarah died in August 1848, and both sisters were buried at Harlow [^julian][^conway][^telford].
 
 **The tune.** The first music for the words was Eliza Flower's, for the chapel choir: Sarah's draft was laid out for choir and congregation to answer each other, and the Dictionary of National Biography noted in 1889 that many who loved the hymn had never heard her setting [^conway][^dnb-eliza]. Hymns Ancient and Modern printed it in 1861, four verses without the last, to HORBURY by John Bacchus Dykes, marked as new to that book [^ham1861][^canterbury]. Arthur Sullivan's PROPIOR DEO is dated 1872 [^hymnary-text][^rogerhall]. In America the words were wedded to Lowell Mason's BETHANY, which Hymnary.org's notes say he wrote for them [^bb1906][^hymnary-text]. BETHANY is usually dated 1856 [^bb1906][^rogerhall], though a hymnal of 1874 dates it 1858 [^hsp1874]; it was in print with these words by 1859: its earliest known printing is on page 244 of The Sabbath Hymn and Tune Book (New York, 1859), which Mason edited with Edwards A. Park and Austin Phelps [^sabbath1859][^hymnary-text].
+
+![[3]]
 
 **Myth and record.** Often told: as the Titanic went down on 15 April 1912, the ship's band played this hymn to the end. What the record shows: survivors disagreed. One woman said that from her lifeboat she heard the band playing it [^marshall1912]. Colonel Archibald Gracie, who survived the sinking, wrote that the band played cheerful tunes, not hymns; this one, he said, would have seemed a tactless warning of death [^gracie]. Harold Bride, the surviving wireless operator, told reporters that the band played ragtime, then "Autumn", which it was still playing as the ship sank [^marshall1912][^rogerhall]. "Autumn" may have meant a hymn tune of that name or the waltz "Songe d'Automne", a hit of the day [^marshall1912][^rogerhall][^mystic]. Which tune it would have been is argued over too: Hymnary.org's notes judge BETHANY, less known in Europe than HORBURY or PROPIOR DEO, the least likely, and one music historian thinks the question will probably never be settled [^hymnary-text][^rogerhall].
 
@@ -115,6 +122,8 @@ Our arrangement is Mason's own four parts in G, read from the 1859 book and chec
 ## Versions and other words
 
 In Adams's own text of 1841 the first verse's fifth line is "Still all my song would be"; only her last verse had "shall be" [^fox1841][^julian]. The Sabbath Hymn and Tune Book of 1859 prints "shall" in both, and differs from her in six more places: "Ev'n" for "E'en", "like a wanderer" for "like the wanderer", "Daylight all gone" for "The sun gone down", "Steps up to heaven" for "Steps unto heaven", "All that thou sendest me" for "All that thou send'st to me", and "Upward" for "Upwards" [^fox1841][^sabbath1859]. Hymns Ancient and Modern kept "The sun gone down" but sang "Darkness comes over me" and "There let my way appear", and left out the last verse [^ham1861].
+
+![[4]]
 
 In the third edition of 1890, Bickersteth's own Hymnal Companion rewrote the second verse, "Though night steal over me, My rest a stone, As o'er the patriarch", changed words in the fourth, and in place of Adams's last verse ended with a verse of rest, "Till in my Father's house Perfectly blest", closing "Ever, my God, with Thee". The book does not say who wrote it, but it reworks the lines Bickersteth had suggested in 1876 [^hymnalcompanion1890][^julian]. Its tunes are ST. BEDE by T. B. Southgate and WHITEFORD by E. J. Hopkins [^hymnalcompanion1890].
 

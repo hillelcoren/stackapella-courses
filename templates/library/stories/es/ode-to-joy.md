@@ -19,7 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: himno a la alegría historia | himno a la alegría significado | quién escribió el himno a la alegría | himno a la alegría himno europeo | joyful joyful we adore thee significado | joyful joyful we adore thee historia
-translatedFrom: c79d745554da
+translatedFrom: 04aad3b372c6
+original: The Poems of Henry van Dyke (Scribner's, 1911), Internet Archive | https://archive.org/details/cu31924021507672
 ---
 
 Ode to Joy (el "Himno a la alegría") es la melodía del último movimiento de la Novena Sinfonía de Beethoven, que se oyó por primera vez en Viena el 7 de mayo de 1824. En ella, solistas y coro cantan el poema alemán de Friedrich Schiller An die Freude, "A la alegría", de 1785 [^thayer3][^elbphil][^score1826][^gedichte1803]. En las iglesias de habla inglesa, la misma melodía lleva Joyful, Joyful, We Adore Thee (con alegría, con alegría, te adoramos), que el pastor y poeta estadounidense Henry van Dyke escribió para ella a más tardar en 1907 y llamó su "Hymn of Joy" (himno de gozo) [^h1911][^poems1911][^hymnarchive]. Desde 1972, la melodía, sin letra, es también el himno europeo [^coe][^eu]. Cantamos la primera estrofa del himno de van Dyke, para dos a cuatro cantantes.
@@ -28,13 +29,21 @@ Ode to Joy (el "Himno a la alegría") es la melodía del último movimiento de l
 
 **El poema de Schiller.** Friedrich Schiller escribió An die Freude en 1785 como poema de ocasión para unos amigos [^elbphil][^gedichte1803]. Lo imprimió en el segundo número de su revista Thalia, publicado por Göschen en Leipzig en 1786: nueve estrofas, cada una seguida de un estribillo [^thalia]. Dos versos de la primera estrofa eran entonces más tajantes: la alegría une lo que "der Mode Schwerd", la espada de la moda, había dividido, y "Bettler werden Fürstenbrüder", los mendigos se vuelven hermanos de príncipes [^thalia]. Cuando reunió sus poemas en 1803, dejó fuera la novena estrofa y convirtió esos versos en "Was die Mode streng getheilt", lo que la costumbre ha dividido con severidad, y "Alle Menschen werden Brüder", todos los seres humanos se vuelven hermanos [^gedichte1803][^thalia]. En octubre de 1800 le había dicho a su amigo Körner que era "ein schlechtes Gedicht", un mal poema, que se había convertido en una especie de poema popular porque se ajustaba a un gusto equivocado de su tiempo [^schkoerner].
 
+![[1]]
+
 **El largo plan de Beethoven.** En 1793 Fischenich, un amigo de Bonn, escribió a la familia de Schiller que un joven músico de la ciudad, enviado por el Elector a estudiar con Haydn, se proponía poner música a la "Freude" de Schiller, estrofa por estrofa [^thayer1][^elbphil]. Unos treinta años después, aquello se convirtió en el final de una sinfonía terminada a principios de 1824 [^elbphil][^hymnarchive] y tocada por primera vez el 7 de mayo en el teatro de la corte junto al Kärntnertor, en Viena [^thayer3][^elbphil][^hymnarchive]. En el final, el bajo solista canta primero unas palabras del propio Beethoven, "O Freunde, nicht diese Töne!", "¡Oh, amigos, no estos sonidos!"; luego vienen las tres primeras estrofas de Schiller y tres de sus estribillos, en un orden nuevo, en el texto de 1803 [^wsbeethoven][^elbphil][^gedichte1803]. Schott, de Maguncia, publicó la partitura en 1826 como una sinfonía "con coro final sobre la oda de Schiller An die Freude" [^score1826][^hymnarchive].
 
+![[2]]
+
 **La melodía se vuelve melodía de himno.** En 1846 Elam Ives imprimió la melodía en Nueva York, en su Mozart Collection of Sacred Music, como BONN, "From Beethoven's Choral Symphony, (No. 9.)" (de la sinfonía coral de Beethoven, n.º 9), a cuatro voces [^ives][^hymnarchive].
+
+![[3]]
 
 **La letra de van Dyke.** Henry van Dyke fue pastor presbiteriano, profesor de literatura inglesa en Princeton y, más tarde, ministro de Estados Unidos en los Países Bajos [^tvd][^hymnarchive][^statehist]. Se conserva un manuscrito del himno entre los papeles de su amigo Louis F. Benson, el himnólogo que editó la edición revisada de The Hymnal de la Iglesia presbiteriana, publicada en 1911; lleva una fecha de 1907 escrita a lápiz [^hymnarchive][^tvd][^h1911]. En una carta a Benson, van Dyke escribió que el himno "se escribió con la música presente en todo momento" [^hymnarchive].
 
 La letra llegó a la imprenta dos veces en 1911. The Poems of Henry van Dyke, de Scribner's, la titula "Hymn of Joy" (himno de gozo), "To the Music of Beethoven's Ninth Symphony" (con la música de la Novena Sinfonía de Beethoven): cuatro estrofas de ocho versos, fechadas en 1908 [^poems1911][^hymnarchive]. The Hymnal de la Iglesia presbiteriana la pone como n.º 115 con "The Hymn to Joy", "Arr. from Ludwig van Beethoven, 1824", y la firma "Rev. Henry van Dyke, 1907"; el ejemplar escaneado es el del propio Benson [^h1911][^hymnarchive]. Así que los dos libros discrepan en un año. The Hymnal for American Youth, de 1919, que tomó la letra "From Poems of Henry van Dyke" con permiso de Scribner's, sigue el 1908 del libro; la fecha a lápiz del manuscrito favorece 1907 [^poems1911][^h1911][^hay1919][^hymnarchive]. El texto del himnario, no el del libro de poemas, es el que acabó imprimiendo la mayoría de los himnarios [^hymnarchive].
+
+![[4]]
 
 **Mito y documentos.** Se suele contar que van Dyke lo escribió siendo predicador invitado en el Williams College, en Massachusetts, y que se lo entregó durante el desayuno al rector, Harry A. Garfield. Lo que muestran los documentos: la historia viene del hijo de van Dyke, años después, y Garfield tomó posesión como rector el 7 de octubre de 1908, después de la fecha del manuscrito, así que es dudosa [^hymnarchive][^garfield]. Se suele contar también que, en el estreno, Beethoven, sordo, no oyó los aplausos hasta que la contralto Unger lo hizo volverse hacia ellos. Lo que muestran los documentos: la historia se cuenta de varias formas, como dicen tanto Grove como Thayer. La propia Unger le contó a George Grove en Londres, en 1869, que fue al final de la sinfonía, con Beethoven todavía marcando el compás, de espaldas a la sala; el pianista Thalberg, que estaba allí, le contó a Thayer que fue después del Scherzo, el segundo movimiento, cuando Unger tiró a Beethoven de la manga y le señaló al público [^grove][^thayer3].
 

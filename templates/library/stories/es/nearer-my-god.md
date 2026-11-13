@@ -14,15 +14,18 @@ alsoKnownAs: Nearer My God to Thee; Más cerca, oh Dios, de ti
 wikidata: Q833220
 quote: Still all my song shall be, Nearer, my God, to thee
 quoteSource: fox1841
-original: Fox, Hymns and Anthems (1841), n.º 85, Internet Archive | https://archive.org/details/hymnsandanthems01foxgoog/page/n70 || The Sabbath Hymn and Tune Book (1859), p. 244, Internet Archive | https://archive.org/details/sabbtune00maso/page/n249
+original: The Sabbath Hymn and Tune Book (1859), Internet Archive | https://archive.org/details/sabbtune00maso
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: más cerca oh dios de ti historia | quién escribió nearer my god to thee | quién compuso la música de nearer my god to thee | nearer my god to thee significado versículo bíblico | nearer my god to thee titanic | nearer my god to thee historia del himno
-translatedFrom: 26b45994eaee
+translatedFrom: 04f2eda59c4d
+listen: National Jukebox, grabación de 1901 | https://archive.org/details/loc-jukebox-5890-nearer-my-god-to-thee || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-119042-nearer-my-god-to-thee
 ---
 
 Nearer, My God, to Thee, que en español se canta como "Más cerca, oh Dios, de ti", en la versión de Juan B. Cabrera (1837 a 1916) [^hymnary-es], es un himno sobre el anhelo de estar cerca de Dios, incluso en la adversidad. Sarah Flower Adams lo escribió para la capilla unitaria de William Johnson Fox en Londres, y su primera impresión conocida es el n.º 85 de Hymns and Anthems, de Fox, de 1841 [^fox1841][^julian][^canterbury]. Sus estrofas siguen el sueño de Jacob en el Génesis, el de una escalera entre la tierra y el cielo [^fox1841][^kjv]. En 1892 el himnólogo John Julian lo hallaba muy extendido en todos los países de habla inglesa, y traducido a muchas lenguas [^julian]. Se cantó en los funerales del presidente McKinley en 1901 [^halstead][^hazelton], y es el himno que más se asocia con el hundimiento del Titanic, aunque los supervivientes no se pusieron de acuerdo sobre si la orquesta lo tocó [^gracie][^marshall1912].
+
+![[1]]
 
 ## De dónde viene
 
@@ -30,9 +33,13 @@ Nearer, My God, to Thee, que en español se canta como "Más cerca, oh Dios, de 
 
 Eliza, que era compositora, aportó buena parte de la música para los oficios de la capilla: puso música propia a muchos de los Hymns and Anthems o adaptó música de otros [^dnb-eliza][^conway]. El libro de 1841 imprime solo la letra; una nota en él dice que muchas de sus piezas proceden de una serie de música sacra de "E. Flower" [^fox1841]. Julian contó en él 13 himnos de Sarah; el índice del propio libro pone su nombre a 14 [^julian][^fox1841]. Los himnólogos lo fechan en 1840 [^canterbury][^bb1906]. Moncure Conway, al escribir la historia de la capilla en 1894, lo vio nacido de la larga lucha de Sarah con la duda religiosa, y reprodujo su primer borrador, enviado a Fox [^conway][^humanists].
 
+![[2]]
+
 Eliza murió de tisis en diciembre de 1846 [^dnb-eliza][^conway]. Sarah murió en agosto de 1848, y las dos hermanas fueron enterradas en Harlow [^julian][^conway][^telford].
 
 **La melodía.** La primera música de la letra fue la de Eliza Flower, para el coro de la capilla: el borrador de Sarah estaba dispuesto para que el coro y la congregación se respondieran, y el Dictionary of National Biography señalaba en 1889 que muchos de los que amaban el himno nunca habían oído su versión [^conway][^dnb-eliza]. Hymns Ancient and Modern lo imprimió en 1861, en cuatro estrofas, sin la última, con HORBURY, de John Bacchus Dykes, marcada como nueva en ese libro [^ham1861][^canterbury]. PROPIOR DEO, de Arthur Sullivan, está fechada en 1872 [^hymnary-text][^rogerhall]. En Estados Unidos la letra se unió a BETHANY, de Lowell Mason, que, según las notas de Hymnary.org, él escribió para ella [^bb1906][^hymnary-text]. BETHANY suele fecharse en 1856 [^bb1906][^rogerhall], aunque un himnario de 1874 la fecha en 1858 [^hsp1874]; ya estaba impresa con esta letra en 1859: su primera impresión conocida está en la página 244 de The Sabbath Hymn and Tune Book (Nueva York, 1859), que Mason editó con Edwards A. Park y Austin Phelps [^sabbath1859][^hymnary-text].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que, mientras el Titanic se hundía el 15 de abril de 1912, la orquesta del barco tocó este himno hasta el final. Lo que muestran los documentos: los supervivientes no se pusieron de acuerdo. Una mujer dijo que, desde su bote salvavidas, oyó a la orquesta tocarlo [^marshall1912]. El coronel Archibald Gracie, que sobrevivió al naufragio, escribió que la orquesta tocaba melodías alegres, no himnos; este, dijo, habría parecido un aviso de muerte poco delicado [^gracie]. Harold Bride, el radiotelegrafista superviviente, contó a los periodistas que la orquesta tocó ragtime y luego "Autumn", que seguía tocando cuando el barco se hundió [^marshall1912][^rogerhall]. "Autumn" puede referirse a una melodía de himno con ese nombre o al vals "Songe d'Automne", un éxito de la época [^marshall1912][^rogerhall][^mystic]. También se discute qué melodía habría sido: las notas de Hymnary.org consideran BETHANY, menos conocida en Europa que HORBURY o PROPIOR DEO, la menos probable, y un historiador de la música cree que probablemente la cuestión nunca se resolverá [^hymnary-text][^rogerhall].
 
@@ -151,6 +158,8 @@ Nuestro arreglo son las cuatro voces del propio Mason en Sol, leídas del libro 
 ## Versiones y otras letras
 
 En el texto de Adams de 1841, el quinto verso de la primera estrofa es "Still all my song would be"; solo la última decía "shall be" [^fox1841][^julian]. The Sabbath Hymn and Tune Book, de 1859, imprime "shall" en las dos y difiere de ella en otros seis lugares: "Ev'n" por "E'en", "like a wanderer" (como un caminante) por "like the wanderer" (como el caminante), "Daylight all gone" (ya sin luz del día) por "The sun gone down" (el sol ya puesto), "Steps up to heaven" por "Steps unto heaven" (las dos, escalones hasta el cielo), "All that thou sendest me" por "All that thou send'st to me" (todo lo que me envías) y "Upward" por "Upwards" (hacia lo alto) [^fox1841][^sabbath1859]. Hymns Ancient and Modern conservó "The sun gone down", pero cantaba "Darkness comes over me" (la oscuridad me envuelve) y "There let my way appear" (que allí aparezca mi camino), y suprimió la última estrofa [^ham1861].
+
+![[4]]
 
 En la tercera edición, de 1890, el propio Hymnal Companion de Bickersteth reescribió la segunda estrofa, "Though night steal over me, My rest a stone, As o'er the patriarch", cambió palabras de la cuarta y, en lugar de la última estrofa de Adams, terminó con una estrofa de reposo, "Till in my Father's house Perfectly blest" (hasta que, en la casa de mi Padre, sea del todo feliz), que se cierra con "Ever, my God, with Thee" (siempre contigo, Dios mío). El libro no dice quién la escribió, pero retoma los versos que Bickersteth había propuesto en 1876 [^hymnalcompanion1890][^julian]. Sus melodías son ST. BEDE, de T. B. Southgate, y WHITEFORD, de E. J. Hopkins [^hymnalcompanion1890].
 

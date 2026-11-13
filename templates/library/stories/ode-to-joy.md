@@ -19,6 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote ode to joy | who wrote ode to joy beethoven or schiller | ode to joy meaning | ode to joy meaning in english | ode to joy lyrics meaning line by line | ode to joy history | is ode to joy part of beethoven's ninth symphony | is ode to joy the eu anthem | is ode to joy a christian song | was beethoven deaf when he wrote ode to joy | is ode to joy sung in german | joyful joyful we adore thee history | joyful joyful we adore thee meaning | joyful joyful we adore thee original
+original: The Poems of Henry van Dyke (Scribner's, 1911), Internet Archive | https://archive.org/details/cu31924021507672
 ---
 
 Ode to Joy is the tune of the last movement of Beethoven's Ninth Symphony, first heard in Vienna on 7 May 1824. There soloists and a chorus sing Friedrich Schiller's German poem An die Freude, "To Joy", from 1785 [^thayer3][^elbphil][^score1826][^gedichte1803]. In English-speaking churches the same tune carries Joyful, Joyful, We Adore Thee, which the American minister and poet Henry van Dyke wrote for it by 1907 and called his Hymn of Joy [^h1911][^poems1911][^hymnarchive]. Since 1972 the tune, with no words, has also been the European anthem [^coe][^eu]. We sing the first verse of van Dyke's hymn for two to four singers.
@@ -27,13 +28,21 @@ Ode to Joy is the tune of the last movement of Beethoven's Ninth Symphony, first
 
 **Schiller's poem.** Friedrich Schiller wrote An die Freude in 1785 as an occasional poem for friends [^elbphil][^gedichte1803]. He printed it in the second issue of his magazine Thalia, published by Göschen in Leipzig in 1786: nine stanzas, each followed by a chorus [^thalia]. Two first-stanza lines were sharper then: joy binds what "der Mode Schwerd", fashion's sword, had divided, and "Bettler werden Fürstenbrüder", beggars become princes' brothers [^thalia]. When he collected his poems in 1803 he left out the ninth stanza and made those lines "Was die Mode streng getheilt", what custom has sternly divided, and "Alle Menschen werden Brüder", all people become brothers [^gedichte1803][^thalia]. In October 1800 he had told his friend Körner it was "ein schlechtes Gedicht", a bad poem, which had become a kind of people's poem because it suited a faulty taste of its time [^schkoerner].
 
+![[1]]
+
 **Beethoven's long plan.** In 1793 Fischenich, a friend in Bonn, wrote to Schiller's family that a young musician of the town, sent by the Elector to study with Haydn, meant to compose Schiller's "Freude", stanza by stanza [^thayer1][^elbphil]. Some thirty years later it became the finale of a symphony finished early in 1824 [^elbphil][^hymnarchive] and first played on 7 May at the court theatre by the Kärntnertor in Vienna [^thayer3][^elbphil][^hymnarchive]. In the finale the bass soloist first sings Beethoven's own words, "O Freunde, nicht diese Töne!", "O friends, not these sounds!"; then come Schiller's first three stanzas and three of his choruses, in a new order, in the 1803 text [^wsbeethoven][^elbphil][^gedichte1803]. Schott of Mainz published the score in 1826 as a symphony "with closing chorus on Schiller's ode An die Freude" [^score1826][^hymnarchive].
 
+![[2]]
+
 **The tune becomes a hymn tune.** In 1846 Elam Ives printed the melody in New York in his Mozart Collection of Sacred Music as BONN, "From Beethoven's Choral Symphony, (No. 9.)", in four parts [^ives][^hymnarchive].
+
+![[3]]
 
 **Van Dyke's words.** Henry van Dyke was a Presbyterian minister, a Princeton professor of English literature and later the United States minister to the Netherlands [^tvd][^hymnarchive][^statehist]. A manuscript of the hymn survives in the papers of his friend Louis F. Benson, the hymnologist who edited the revised edition of the Presbyterian Church's The Hymnal, published in 1911; it carries a pencilled date in 1907 [^hymnarchive][^tvd][^h1911]. In a letter to Benson, van Dyke wrote that the hymn "was written with the music steadily in mind" [^hymnarchive].
 
 The words reached print twice in 1911. Scribner's The Poems of Henry van Dyke calls them "Hymn of Joy", "To the Music of Beethoven's Ninth Symphony", four eight-line stanzas dated 1908 [^poems1911][^hymnarchive]. The Presbyterian Church's The Hymnal sets them as No. 115 to "The Hymn to Joy", "Arr. from Ludwig van Beethoven, 1824", signed "Rev. Henry van Dyke, 1907"; the scanned copy is Benson's own [^h1911][^hymnarchive]. So the two books disagree by a year. The Hymnal for American Youth of 1919, which took the words "From Poems of Henry van Dyke" by Scribner's permission, follows the book's 1908; the manuscript's pencilled date favours 1907 [^poems1911][^h1911][^hay1919][^hymnarchive]. The hymnal's text, not the book of poems', became the one most hymnals print [^hymnarchive].
+
+![[4]]
 
 **Myth and record.** Often told: van Dyke wrote it as a guest preacher at Williams College, Massachusetts, and handed it to the president, Harry A. Garfield, at breakfast. What the record shows: the story comes from van Dyke's son, years later, and Garfield was installed as president on 7 October 1908, after the manuscript's date, so it is doubtful [^hymnarchive][^garfield]. Often told too: at the first performance the deaf Beethoven did not hear the applause until the contralto Unger turned him to face it. What the record shows: the story comes in several forms, as both Grove and Thayer say. Unger herself told George Grove in London in 1869 that it was at the end of the symphony, with Beethoven still beating time, his back to the hall; the pianist Thalberg, who was there, told Thayer that it was after the Scherzo, the second movement, when Unger pulled Beethoven by the sleeve and pointed to the audience [^grove][^thayer3].
 
