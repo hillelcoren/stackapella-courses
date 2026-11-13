@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oh ven oh ven emanuel historia | oh ven oh ven emanuel significado | quién escribió o come o come emmanuel | o come o come emmanuel significado | veni veni emmanuel significado | veni veni emmanuel letra en latín
-translatedFrom: 1ca0c3c503b7
+translatedFrom: 6d3c19090b6f
 original: The Hymnal Noted, Part II (Londres, 1856; una impresión posterior), página 131, la melodía con el inglés revisado de Neale | https://archive.org/details/bub_gb_2E3Dya5ON5oC/page/n143/mode/1up
 ---
 
@@ -35,9 +35,17 @@ O Come, O Come, Emmanuel es un himno de Adviento, que se canta en las semanas de
 
 **El inglés de Neale.** John Mason Neale (1818 a 1866), sacerdote, estudioso y traductor, era el director del Sackville College, un asilo de East Grinstead, en Sussex [^julian][^canterbury-neale][^neale1851]. Su libro Mediaeval Hymns and Sequences (Londres, 1851) trae el himno en la página 119, con una nota que lo llama "poco más que una versificación" de las antífonas de la O [^neale1851][^julian]. Empieza "Draw nigh, draw nigh, Emmanuel, And loose Thy captive Israel" (acércate, acércate, Emmanuel, y suelta a Tu Israel cautivo), y su estribillo dice que Emmanuel "Is born for thee, O Israel!" (ha nacido para ti, oh Israel) [^neale1851].
 
+![[1]]
+
+![[2]]
+
 **La melodía.** The Hymnal Noted, himnos latinos en inglés impresos con canto llano con la aprobación de la Ecclesiological Society, tuvo como editor musical a Thomas Helmore (1811 a 1890), sacerdote y maestro de coro [^julian][^hn1856][^canterbury-helmore]. Su Part II, fechada en 1856 en la portada, imprime el himno en la página 131 con el encabezado "Veni, veni Emmanuel. Adviento. De un misal francés de la Biblioteca Nacional de Lisboa" [^hn1856][^mch1901]. La melodía está en notas cuadradas de canto llano, en una sola línea sin compases, bajo la letra revisada de Neale, que ahora dice "And ransom captive Israel" (y rescata al Israel cautivo), con el estribillo "Shall be born for thee" (nacerá para ti) [^hn1856]. El ejemplar del propio Helmore muestra la misma página [^pocknee]. Algunas obras de referencia fechan la Part II en 1854, y Julian fecha el texto revisado de Neale en 1852 [^pocknee][^hymnary-tune][^julian].
 
+![[3]]
+
 **O come, O come.** Hymns Ancient and Modern lo compiló un comité de clérigos cuyo secretario y editor era Henry Williams Baker (1821 a 1877), párroco en Herefordshire [^julian][^canterbury-baker]. Julian dice que su edición de prueba de 1859 ya empezaba "O come, O come, Emmanuel"; no la hemos visto [^julian][^pocknee][^ha]. La primera edición con melodías, con el prefacio fechado en la Cuaresma de 1861, lo imprime como himno 36, en la sección de Adviento, con armonía a cuatro voces de su editor musical, William Henry Monk (1823 a 1889) [^ham1861][^canterbury-monk]. Su prefacio agradece a Helmore "su amistosa colaboración en esta obra" [^ham1861]. La edición revisada, con el prefacio fechado el 21 de enero de 1875, lo convirtió en el n.º 49, "Para cantarse al unísono" [^ham1875][^julian][^hamrev].
+
+![[4]]
 
 **Mito y documentos.** Se suele contar que la melodía es un canto medieval de un misal de Lisboa. Lo que muestran los documentos: en 1901 un manual de himnos contó que se habían revisado los misales franceses de la Biblioteca Nacional de Lisboa y que la melodía no estaba allí [^mch1901][^pocknee]. En 1966 Mary Berry (1917 a 2008), estudiosa del canto llano en Cambridge, conocida entonces como la madre Thomas More, dio a conocer una melodía que había encontrado en París, en la Bibliothèque nationale, manuscrito latino 10581 [^rankin][^pocknee][^ha][^gdc]. Es un procesional que perteneció a monjas franciscanas francesas, fechado en el siglo XV o hacia 1500, y la melodía lleva "Bone Jesu dulcis cunctis", un canto que pide misericordia por los difuntos [^pocknee][^ha-bone][^hymnary-tune]. Su melodía se parece mucho a la de las estrofas del himno; la parte que hoy se canta con "Rejoice! Rejoice!" cambió mucho, en una adaptación que se suele atribuir a Helmore [^pocknee][^eh1906].
 

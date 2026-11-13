@@ -26,11 +26,15 @@ The Coventry Carol, also known by its first line, Lully, Lulla, Thou Little Tiny
 
 **The pageant.** Coventry's trading companies each kept a pageant, a play on a wagon moved through the streets; the word first meant the wagon and only later the play [^sharp1825][^king1997]. The Shearmen and Tailors kept their pageant house in Mill Lane and played at Corpus Christi [^hone1823][^craig1902][^sharp1825][^king1997]. Their subject, in Sharp's words, was "the Birth of Christ and Offering of the Magi, with the Flight into Egypt and Murder of the Innocents" [^sharp1825][^king1997].
 
+![[1]]
+
 **Robert Croo's text.** The play's only known text was a book written out by Robert Croo. At its end, in red ink, Sharp reproduced his note: "T[h]ys matter nevly correcte be Robart Croo the xiiijth dey of marche fenysschid in the yere of owre lorde god M CCCCC & xxxiiijte", newly corrected and finished on 14 March 1534 [^sharp1825][^craig1902]. So Croo was revising an older play, and Sharp regretted that the older copies were gone [^sharp1825][^king1997].
 
 **The mothers' scene.** An angel sends Mary and Joseph away into Egypt. Croo's stage direction follows, as Craig spells it out: "Here the wemen cum in wythe there chyldur, syngyng them; and Mare and Josoff goth awey cleyne" [^sharp1825][^craig1902]. Three women speak; one lulls her child in her arms so that it will not cry. Herod's soldiers arrive, the women plead and then fight back, one with her pot ladle, and the soldiers do what Herod ordered [^sharp1825][^craig1902]. Croo's text marks where the women sing but does not give their song; its words come after the end of the play, with the music [^craig1902][^king1997].
 
 **The songs of 1591.** After the play, Sharp printed the songs under their own heading: "Theise songes belonge to the Taylors & Shearemens Pagant. The first and the laste the shepheards singe and the second or middlemost the women singe." [^sharp1825][^king1997]. Below it, in black-letter type, come a name, "Thomas Mawdycke", and a date in Latin, 13 May 1591, with the city's officers of that year [^sharp1825][^craig1902]. Nothing on the page says whether Mawdycke wrote, copied or owned the songs [^sharp1825]; one modern history of the plays takes him to be their copyist [^king1997]. The music is for three voices, headed "The treble", "The tenor" and "The basse", engraved for Sharp's book in the old notation, with diamond-shaped notes and one flat in the key, the words written under the notes and each verse set out in full [^sharp1825][^king1997].
+
+![[2]]
 
 **Thomas Sharp and the fire.** Thomas Sharp (1770 to 1841), a Coventry hatter's son, copied many of the city's old records before they were lost [^dnb1897][^king1997]. In 1817 he printed the pageant in only twelve copies [^hone1823][^craig1902][^king1997]; no account of that printing we have read says whether it had the songs. His Dissertation of 1825 reprints the play and gives the songs' words and engraved music [^sharp1825][^craig1902]. His Coventry manuscripts later passed into William Staunton's Warwickshire collection, and with it to the Birmingham Free Reference Library. On 11 January 1879, the date Showell's Dictionary of Birmingham gives (one modern history of the plays says 1878), the library burned, and with it, in that dictionary's words, "the valued and patient gatherings of Thomas Sharpe, the Coventry antiquarian" [^showell1885][^craig1902][^king1997]. The play's manuscript was among them; Sharp's pages are now its only record [^craig1902][^king1997].
 
@@ -90,6 +94,8 @@ By by lully lullay
 It is a Christmas carol. The killing of the children is remembered in the church year on Holy Innocents' Day, 28 December [^catholicenc][^bcp1928].
 
 The 1591 setting is for three voices, treble, tenor and bass, with the tune in the treble [^sharp1825][^king1997]. Sharp's plates give the full refrain once, at the start, then the three verses, each with its own small changes to the tune [^sharp1825].
+
+![[3]]
 
 Our arrangement is read from Sharp's plates, in G minor as printed, in 3/4 time and slow. It sings the short refrain (its first line and "By by lully lullay"), verses 1 to 3, then the refrain again, as The English Carol Book (1923 printing) lays it out, with Sharp's words and spelling [^sharp1825][^ecb1923]. The soprano sings the 1591 treble, which is the tune; the alto sings the 1591 tenor; the bass sings the 1591 bass. The tenor is ours, written so that every chord keeps its third when two or three people sing: with two, soprano and tenor; with three, add the bass. The old harmony turns from minor to major on "lulla", on "this day" and on every last "lullay". Verse 2 ends on a bare open chord in 1591; our tenor adds the third, so it ends major like the others. A few notes differ from Sharp's plates: some where the engraving seems to slip, and some to make the lines easier to sing, such as one note to a syllable in the alto and a breath at the end of each line.
 

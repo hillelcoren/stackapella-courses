@@ -19,8 +19,9 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: it came upon the midnight clear historia | it came upon the midnight clear significado | quién escribió it came upon the midnight clear | it came upon the midnight clear letra significado | it came upon a midnight clear melodía | it came upon the midnight clear dominio público
-translatedFrom: c8fca35519ae
+translatedFrom: 043a92c7b461
 original: Christian Register, Boston, 29 de diciembre de 1849, p. 206, Internet Archive (de microfilm) | https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_christian-register_1849-12-29_28_52/page/n1
+listen: Internet Archive, grabación de 1914 | https://archive.org/details/loc-jukebox-190754-it-came-upon-the-midnight-clear
 ---
 
 It Came Upon the Midnight Clear, que a menudo se recuerda como It Came Upon a Midnight Clear, es un villancico de Edmund Hamilton Sears, ministro unitario de Wayland, Massachusetts [^hymnarchive][^wayland]. Su primera impresión conocida está en un periódico de Boston, el Christian Register, del 29 de diciembre de 1849 [^register1849][^canterbury]. No cuenta ninguna historia de Belén y nunca nombra a Jesús. En cambio, oye el antiguo canto de los ángeles, "Peace on the earth" (paz en la tierra), que sigue sonando sobre un mundo demasiado ocupado en sus guerras para escucharlo [^register1849][^hymnary-text]. Las iglesias estadounidenses lo cantan con CAROL, una melodía del músico neoyorquino Richard Storrs Willis; las británicas, con NOEL, una melodía tradicional arreglada por Arthur Sullivan [^umh218][^eh1982-89][^ch4-303][^hymnary-noel].
@@ -33,11 +34,17 @@ It Came Upon the Midnight Clear, que a menudo se recuerda como It Came Upon a Mi
 
 El Register lo imprimió en el volumen 28, número 52, en la página 206 [^register1849][^canterbury]. La página muestra cinco estrofas de ocho versos bajo el título "CHRISTMAS CAROLS.", sin música, firmadas solo con las iniciales "E. H. S." [^register1849][^hymnarchive]. Encima, el director elogiaba el himno anterior de Sears como si hubiera recogido el canto que se oyó sobre Belén, y escribía que pocas cosas en sus pocos meses como director le habían agradado más que recibir "los versos siguientes del mismo autor" [^register1849].
 
+![[1]]
+
 **Mito y documentos.** Se suele contar que Sears escribió el villancico como respuesta a la guerra entre Estados Unidos y México, o que sus feligreses lo cantaron por primera vez en su casa en Nochebuena. Lo que muestran los documentos: un ensayo que el Wayland Museum reproduce de UU World llama al vínculo con la guerra una suposición mantenida durante mucho tiempo, y dice que nadie sabe dónde se interpretó por primera vez el villancico [^wayland]. El relato más antiguo de su uso es el de Morison: una lectura en Quincy, no un canto en Wayland [^putnam1875][^canterbury]. Las fechas sí muestran el mundo en que se escribió: Estados Unidos había terminado su guerra con México en 1848, ese mismo año las revoluciones habían recorrido Europa, y la guerra de Secesión llegaría unos doce años después [^hymnarchive][^methodist][^hymnary-text].
 
 **La melodía, 1850.** Richard Storrs Willis nació en Boston en 1819 y se graduó en Yale en 1841 [^yale1900][^appletons][^yalemusic]. Estudió música en Alemania durante más de seis años y pasó un verano con Felix Mendelssohn, que revisó algunas de sus composiciones [^yale1900][^yalemusic]. En 1850 publicó Church Chorals and Choir Studies [^yale1900][^willis1850]. Su prefacio dice que los "choir studies" (estudios para coro) eran melodías para el ensayo del coro, para la iglesia y para cantar en casa [^willis1850][^hymnarchive]. En la página 93, el Study No. 23 pone música a "See Israel's gentle shepherd stand", de Philip Doddridge, en métrica común [^willis1850]. Contiene más o menos la primera mitad de la melodía que hoy llamamos CAROL [^hymnarchive][^willis1850].
 
+![[2]]
+
 **Cómo se unieron melodía y letra.** Ya en 1869 la melodía había crecido hasta su doble longitud completa. Hymns of the Church with Tunes, publicado en Nueva York ese año, la imprime como PIERCE, a cuatro voces, para "While shepherds watched their flocks by night" [^hotc1869][^hymnarchive]. La primera impresión conocida de la melodía con la letra de Sears llegó en 1874, en Hymns and Songs of Praise, también de Nueva York. Allí es el n.º 158, "Christmas Carol", con el nombre de melodía "CAROL. C. M." y el nombre de Willis, y con las cinco estrofas en una versión ligeramente revisada; este libro lo pone en 6/8 y en Si bemol, y fecha la letra en 1850 [^hsp1874][^hymnarchive]. Hymnary.org da 1878 como el año en que se unieron por primera vez, pero la página de 1874 es anterior [^hymnary-text][^hsp1874].
+
+![[3]]
 
 **Gran Bretaña, 1874.** Ese mismo año, en Londres, Church Hymns with Tunes, con la música a cargo de Arthur Sullivan, puso la letra con una melodía nueva, NOEL, marcada "Traditional Air rearranged" (aire tradicional arreglado de nuevo) [^chwt1874][^hymnary-noel]. Hymnology Archive y Hymnary.org relacionan ese aire antiguo con el villancico popular "Dives and Lazarus"; Hymnology Archive concluye que Sullivan escribió él mismo su tercera frase, con lo que la melodía resulta casi el doble de larga que la popular [^hymnarchive][^hymnary-noel].
 
@@ -174,6 +181,8 @@ Nuestro arreglo está tomado de las cuatro voces de Willis tal como las imprimi�
 ## Versiones y otras letras
 
 El libro de Sullivan de 1874, que trajo NOEL, también cambió la letra: "The words of peace they bring" (las palabras de paz que traen) en la tercera estrofa, una cuarta estrofa nueva dirigida al "Prince of Peace" (el Príncipe de Paz), y ninguna quinta [^chwt1874]. Algunos libros recientes imprimen el primer verso como "It came upon a midnight clear", entre ellos Hymnal: A Worship Book (1992) y Voices Together (2020) [^hawb1992][^vt2020].
+
+![[4]]
 
 ## ¿Sabías que...?
 

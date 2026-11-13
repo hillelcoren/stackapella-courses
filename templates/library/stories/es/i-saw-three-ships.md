@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i saw three ships significado | i saw three ships letra | i saw three ships historia | quién escribió i saw three ships | i saw three ships letra en español | i saw three ships villancico
-translatedFrom: a35cae0a1c52
+translatedFrom: baded6573f7b
 original: Christmas Carols, Ancient and Modern (1833), p. 112, Internet Archive | https://archive.org/details/christmascarolsa00sandrich/page/112/
 ---
 
@@ -29,9 +29,15 @@ I Saw Three Ships, que también se canta como I Saw Three Ships Come Sailing In 
 
 **Sandys, 1833.** El villancico no está entre los ocho del libro de villancicos del oeste de Inglaterra de Davies Gilbert, de 1822, ni entre los veinte de su segunda edición, de 1823 [^gilbert1822][^gilbert1823]. William Sandys (1792 a 1874), abogado y anticuario de Londres, lo imprimió en su Christmas Carols, Ancient and Modern, un libro que prometía "los más populares del oeste de Inglaterra, y las melodías con que se cantan" [^sandys1833][^dnb-sandys][^viaf-sandys]. En las páginas 112 y 113 da nueve estrofas [^sandys1833]. Al final del libro está la melodía, la n.º 9, "I Saw Three Ships", en Sol mayor y en 3/4, con ritmos con puntillo sobre una línea de bajo [^sandys1833]. En sus notas, Sandys citó de Ritson la estrofa del barco de Aberdeen y mencionó un villancico impreso en pliego, "muy parecido", con "Joseph and his 'fair lady'" (José y su "bella dama") en los barcos [^sandys1833].
 
+![[1]]
+
 **Los pliegos y los cantantes.** El editor victoriano de villancicos William Henry Husk (1814 a 1887) escribió que el villancico aparecía "bajo formas diversas, en casi todas las colecciones de villancicos en pliegos", y The Sunny Bank entre las más impresas [^husk1868][^canterbury-husk][^dnb-husk]. Su Songs of the Nativity da nueve estrofas parecidas a las de Sandys y, al final, una melodía titulada "On Christmas Day in the Morning", en La mayor y en 6/8, armonizada a cuatro voces [^husk1868]. Es la melodía que cantamos, nota por nota y con el mismo ritmo con que la imprimieron Bramley y Stainer diez años después, un tono más alta. Es también la melodía de Sandys con otro ritmo: seis por ocho en lugar de tres por cuatro, y las mismas notas salvo una [^husk1868][^ccno-complete][^sandys1833]. En 1911 Cecil Sharp imprimió tres versiones cantadas en Gloucestershire y Worcestershire, como As I Sat on a Sunny Bank [^sharp1911][^obc1928].
 
+![[2]]
+
 **El arreglo de Stainer, 1878.** Christmas Carols New and Old, editado por el reverendo Henry Ramsden Bramley y John Stainer, salió por series en la editorial Novello, de Londres [^mt1878oct][^hymnarchive-carols]. La primera serie, de veinte villancicos, apareció en 1867 [^mt1867][^cam-blog], y una segunda, los n.os 21 a 42, en noviembre de 1870 [^mt1870nov][^mt1870dec][^hymnarchive-carols]. I Saw Three Ships llegó en la tercera. El 1 de octubre de 1878, Novello anunció que esa serie estaría lista el 15 de octubre, con los n.os 43 a 68, entre ellos "64. I saw three ships ... Arrd. by J. Stainer" (arreglado por J. Stainer) [^mt1878oct]. El Musical Times del 1 de noviembre de 1878 la incluyó entre las publicaciones de Novello del mes anterior y la reseñó [^mt1878nov][^hymnarchive-carols]. En la edición completa posterior, el n.º 64 ocupa las páginas 164 y 165, con la indicación "Briskly" (con viveza): la melodía en Sol mayor y en 6/8 a cuatro voces en dos pentagramas, y luego una segunda melodía, "Or this (in 3 parts)" (o esta, a 3 voces), con las estrofas 2 a 9 impresas debajo [^ccno-complete]. Su índice da la letra como "Traditional" (tradicional) y la melodía como "Traditional (Derbyshire). Harm. by J. S." (tradicional, de Derbyshire; armonización de J. S.) [^ccno-complete][^obc1928].
+
+![[3]]
 
 **¿Qué año?** El Oxford Book of Carols (1928) fecha la edición de Bramley y Stainer en 1871, pero la edición ilustrada de 1871 termina en el n.º 42 [^obc1928][^stainer-ill][^hymnarchive-carols]. El Dictionary of National Biography (1912) fecha el libro entero en 1884 [^dnb-stainer]. El libro de Husk, sin fecha, está catalogado como de 1884 en los ejemplares que leímos, pero el Dictionary of National Biography lo fecha en 1868, igual que el Oxford Book of Carols; el Canterbury Dictionary of Hymnology dice 1867 o 1868, y la lista de Hymnology Archive, 1866 [^husk1868][^dnb-husk][^obc1928][^canterbury-husk][^hymnarchive-carols].
 

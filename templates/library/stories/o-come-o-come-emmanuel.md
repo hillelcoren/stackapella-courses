@@ -34,9 +34,17 @@ O Come, O Come, Emmanuel is an Advent hymn, sung in the weeks of waiting before 
 
 **Neale's English.** John Mason Neale (1818 to 1866), a priest, scholar and translator, was warden of Sackville College, an almshouse at East Grinstead in Sussex [^julian][^canterbury-neale][^neale1851]. His Mediaeval Hymns and Sequences (London, 1851) gives the hymn on page 119, with a note calling it "little more than a versification" of the O antiphons [^neale1851][^julian]. It opens "Draw nigh, draw nigh, Emmanuel, And loose Thy captive Israel", and its refrain says Emmanuel "Is born for thee, O Israel!" [^neale1851].
 
+![[1]]
+
+![[2]]
+
 **The tune.** The Hymnal Noted, Latin hymns in English printed with plainsong under the sanction of the Ecclesiological Society, had Thomas Helmore (1811 to 1890), a priest and choir trainer, as its musical editor [^julian][^hn1856][^canterbury-helmore]. Its Part II, dated 1856 on its title page, prints the hymn on page 131 as "Veni, veni Emmanuel. Advent. From a French Missal in the National Library, Lisbon" [^hn1856][^mch1901]. The tune stands in square plainsong notes, one unbarred line, under Neale's revised words, now "And ransom captive Israel", with the refrain "Shall be born for thee" [^hn1856]. Helmore's own copy shows the same page [^pocknee]. Some reference books date Part II to 1854, and Julian dates Neale's revised text to 1852 [^pocknee][^hymnary-tune][^julian].
 
+![[3]]
+
 **O come, O come.** Hymns Ancient and Modern was compiled by a committee of clergy whose secretary and editor was Henry Williams Baker (1821 to 1877), a vicar in Herefordshire [^julian][^canterbury-baker]. Julian says its trial copy of 1859 already began "O come, O come, Emmanuel"; we have not seen it [^julian][^pocknee][^ha]. The first edition with tunes, its preface dated Lent 1861, prints it as Hymn 36 under Advent, with four-part harmony by its musical editor, William Henry Monk (1823 to 1889) [^ham1861][^canterbury-monk]. Its preface thanks Helmore "for his friendly co-operation in this work" [^ham1861]. The Revised Edition, its preface dated 21 January 1875, made it No. 49, "To be sung in Unison" [^ham1875][^julian][^hamrev].
+
+![[4]]
 
 **Myth and record.** Often told: the tune is a medieval chant from a Lisbon missal. What the record shows: in 1901 a hymn handbook reported that the French missals in Lisbon's National Library had been searched and the melody was not there [^mch1901][^pocknee]. In 1966 Mary Berry (1917 to 2008), a Cambridge chant scholar then known as Mother Thomas More, reported a melody she had found in Paris, Bibliothèque nationale, Latin manuscript 10581 [^rankin][^pocknee][^ha][^gdc]. It is a processional that belonged to French Franciscan nuns, dated to the fifteenth century or about 1500, and the melody carries "Bone Jesu dulcis cunctis", a chant asking mercy for the dead [^pocknee][^ha-bone][^hymnary-tune]. Its melody matches the tune of the hymn's verses closely; the part now sung to "Rejoice! Rejoice!" was much changed, an adaptation usually credited to Helmore [^pocknee][^eh1906].
 

@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: what child is this significado | what child is this historia | quién escribió what child is this | what child is this letra en español | what child is this y greensleeves
-translatedFrom: 6dd9ce33382d
+translatedFrom: 76a4271cf4a3
 original: Christmas Carols New and Old, primera serie, n.º XIV, p. 32, Internet Archive | https://archive.org/details/christmascarolsn00staiiala/page/n37/
 ---
 
@@ -30,11 +30,17 @@ What Child Is This? es un villancico navideño del escritor de himnos inglés Wi
 
 **El libro de 1867.** Bramley era miembro (fellow) del Magdalen College de Oxford, y Stainer era el organista del colegio [^bs1867][^mt1868]. Su prefacio dice que habían puesto "un empeño considerable" en encontrar villancicos tradicionales aún no impresos, "pero sin mucho éxito". Así que debían la mayor parte del material nuevo del libro a los compositores, autores y traductores nombrados en su índice, y añadieron, con dos o tres piezas propias, "las mejores y más populares melodías" de las colecciones que tenían [^bs1867]. Lo ofrecieron a los "amantes de la música" que quisieran "celebrar la fiesta de Navidad con una alegría que no traspase los límites de la reverencia" [^bs1867][^mt1868]. El 1 de diciembre de 1867, el Musical Times incluyó el libro entre las publicaciones de Novello "durante el último mes", como "Twenty Christmas Carols, Old and New" [^mt1867]. El anuncio de Novello en la página 235 enumera los veinte: el n.º 14 es "What Child is this?", con música "Old English" [^mt1867].
 
+![[1]]
+
 **Lo que muestra la página.** En nuestro ejemplar de la primera serie, una impresión posterior que anuncia juntas la primera y la segunda serie, el villancico es el n.º XIV, en las páginas 32 y 33, con el título "What Child is this?" entre comillas [^bs1867]. Cuatro voces comparten dos pentagramas, en Mi menor y en 6/8, desde una sola nota de anacrusa [^bs1867]. La primera estrofa y su estribillo van bajo las notas, con el estribillo marcado para cantarse muy fuerte; las estrofas 2 y 3 van impresas debajo como estrofas de ocho versos, cada una con su propia letra para el estribillo [^bs1867]. El índice de la propia primera serie atribuye la letra a "W. C. Dix" y la melodía a "Old English", y no nombra a nadie por la armonía [^bs1867]. El índice del libro completo, posterior, marca algunos villancicos añadidos después de la primera serie con "Har. by J. S.", armonía de J. S., pero no este [^ccno-complete]. El editor musical del libro fue John Stainer (1840 a 1901) [^bs1867][^hymnary-stainer].
+
+![[2]]
 
 **La melodía.** El libro nunca usa el nombre Greensleeves, pero la melodía es esa canción isabelina, que los himnarios llaman GREENSLEEVES [^hymnary-text][^hymnarchive][^h82]. Una balada de la dama Greensleeves se registró en el Stationers' Hall de Londres en septiembre de 1580, y la melodía se conserva en libros de laúd de hacia 1590 [^chappell][^hymnarchive]. Su historia completa está en nuestra página de [Greensleeves](/songs/greensleeves). En el libro, la quinta nota de la melodía, en "this" del primer verso, es Do becuadro, como también el Do del segundo "this" al comienzo del estribillo. Donde la línea vuelve a subir hacia la nota base, en "watch" y en "Son of", lleva Do sostenido y Re sostenido [^bs1867].
 
 **¿Qué año?** Buenas fuentes dan tres fechas. Hymnology Archive fecha la primera serie en 1868, citando la reseña del Musical Times de diciembre de 1868, y da 1871 para una edición ilustrada; el Canterbury Dictionary of Hymnology fecha el libro en 1871 [^hymnarchive][^canterbury-wcit][^mt1868]. Los anuncios del Musical Times del 1 de diciembre de 1867, que nombran los veinte villancicos, muestran la primera serie a la venta en noviembre de 1867 [^mt1867][^cam-blog].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar, en las notas para quienes dirigen de Hymnary.org y en las líneas de fuente de algunos himnarios, que Dix hizo el villancico a partir de un poema suyo más largo, "The Manger Throne" (el trono del pesebre), escrito en 1865 [^hymnary-text]. Lo que muestran los documentos: "The Manger Throne" es otro villancico de Dix, que empieza "Like silver lamps in a distant shrine". Es el n.º II de la misma primera serie, con música de C. Steggall, doce números antes de What Child is this? [^bs1867][^ccno-complete][^mt1867]. El Canterbury Dictionary of Hymnology dice que la historia del poema es incorrecta [^canterbury-wcit].
 

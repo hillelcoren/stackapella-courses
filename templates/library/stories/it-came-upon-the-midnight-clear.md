@@ -20,6 +20,7 @@ checked: 2026-11-13
 reviewed: true
 searches: who wrote it came upon the midnight clear | who wrote the music for it came upon a midnight clear | when was it came upon the midnight clear written | it came upon the midnight clear meaning | it came upon the midnight clear lyrics meaning | it came upon the midnight clear history | it came upon the midnight clear all verses | it came upon the midnight clear tune noel | it came upon the midnight clear english tune | is it came upon the midnight clear public domain
 original: Christian Register, Boston, 29 December 1849, p. 206, Internet Archive (from microfilm) | https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_christian-register_1849-12-29_28_52/page/n1
+listen: Internet Archive, 1914 recording | https://archive.org/details/loc-jukebox-190754-it-came-upon-the-midnight-clear
 ---
 
 It Came Upon the Midnight Clear, often remembered as It Came Upon a Midnight Clear, is a Christmas carol by Edmund Hamilton Sears, a Unitarian minister in Wayland, Massachusetts [^hymnarchive][^wayland]. Its earliest known printing is in a Boston paper, the Christian Register, of 29 December 1849 [^register1849][^canterbury]. It tells no Bethlehem story and never names Jesus. Instead it hears the angels' old song of "Peace on the earth" still sounding over a world too busy with its wars to listen [^register1849][^hymnary-text]. American churches sing it to CAROL, a tune by the New York musician Richard Storrs Willis; British churches sing it to NOEL, a traditional melody arranged by Arthur Sullivan [^umh218][^eh1982-89][^ch4-303][^hymnary-noel].
@@ -32,11 +33,17 @@ It Came Upon the Midnight Clear, often remembered as It Came Upon a Midnight Cle
 
 The Register printed it in volume 28, number 52, on page 206 [^register1849][^canterbury]. The page shows five stanzas of eight lines under the heading "CHRISTMAS CAROLS.", with no music, signed only with the initials "E. H. S." [^register1849][^hymnarchive]. Above it, the editor praised Sears's earlier hymn as if it had caught the anthem sung over Bethlehem, and wrote that little in his few months as editor had pleased him more than receiving "the following verses from the same writer" [^register1849].
 
+![[1]]
+
 **Myth and record.** Often told: Sears wrote the carol as an answer to the Mexican-American War, or his parishioners first sang it at his home on Christmas Eve. What the record shows: an essay the Wayland Museum reprints from UU World calls the war link a long-held assumption and says nobody knows where the carol was first performed [^wayland]. The earliest account of it in use is Morison's: a reading in Quincy, not a singing in Wayland [^putnam1875][^canterbury]. The dates do show the world it was written into: the United States had ended its war with Mexico in 1848, revolutions had run through Europe that same year, and the Civil War lay about a dozen years ahead [^hymnarchive][^methodist][^hymnary-text].
 
 **The tune, 1850.** Richard Storrs Willis was born in Boston in 1819 and graduated from Yale in 1841 [^yale1900][^appletons][^yalemusic]. He studied music in Germany for over six years, spending a summer with Felix Mendelssohn, who looked over some of his compositions [^yale1900][^yalemusic]. In 1850 he published Church Chorals and Choir Studies [^yale1900][^willis1850]. Its preface says the "choir studies" were tunes for choir practice, for church and for singing at home [^willis1850][^hymnarchive]. On page 93, Study No. 23 sets Philip Doddridge's "See Israel's gentle shepherd stand" in common meter [^willis1850]. It holds roughly the first half of the melody we now call CAROL [^hymnarchive][^willis1850].
 
+![[2]]
+
 **How tune and words met.** By 1869 the melody had grown to its full double length. Hymns of the Church with Tunes, published in New York that year, prints it as PIERCE, in four parts, for "While shepherds watched their flocks by night" [^hotc1869][^hymnarchive]. The earliest known printing of the tune with Sears's words came in 1874, in Hymns and Songs of Praise, also from New York. There it is No. 158, "Christmas Carol", under the tune name "CAROL. C. M." and Willis's name, with all five stanzas in a lightly revised wording; this book sets it in 6/8 time in B-flat, and dates the words 1850 [^hsp1874][^hymnarchive]. Hymnary.org gives 1878 for the first pairing, but the 1874 page is older [^hymnary-text][^hsp1874].
+
+![[3]]
 
 **Britain, 1874.** That same year in London, Church Hymns with Tunes, the music edited by Arthur Sullivan, set the words to a new tune, NOEL, marked "Traditional Air rearranged" [^chwt1874][^hymnary-noel]. Hymnology Archive and Hymnary.org both link the old air to the folk carol "Dives and Lazarus"; Hymnology Archive finds that Sullivan wrote its third phrase himself, making a tune about twice as long as the folk one [^hymnarchive][^hymnary-noel].
 
@@ -133,6 +140,8 @@ Our arrangement is read from Willis's four parts as Charles L. Hutchins printed 
 ## Versions and other words
 
 Sullivan's 1874 book, which brought in NOEL, also changed the words: "The words of peace they bring" in the third stanza, a new fourth stanza addressed to the "Prince of Peace", and no fifth [^chwt1874]. Some recent books print the first line as "It came upon a midnight clear", among them Hymnal: A Worship Book (1992) and Voices Together (2020) [^hawb1992][^vt2020].
+
+![[4]]
 
 ## Did you know?
 
