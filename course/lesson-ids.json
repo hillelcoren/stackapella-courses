@@ -129,140 +129,506 @@
   "range-4-challenge"
  ],
  "plus/sight-singing/course.json": [
-  "ss-1-do",
-  "ss-1-up",
-  "ss-1-turns",
-  "ss-1-challenge",
-  "ss-2-chord",
-  "ss-2-below",
-  "ss-2-mixed",
-  "ss-2-challenge",
-  "ss-3-long",
-  "ss-3-quick",
-  "ss-3-dotted",
-  "ss-3-challenge",
-  "ss-5-la",
-  "ss-5-half",
-  "ss-5-minor",
-  "ss-5-challenge",
-  "ss-4-signature",
-  "ss-4-alto",
-  "ss-4-chord",
-  "ss-4-challenge"
+  {
+   "id": "ss-1-do",
+   "title": "Do on the stave"
+  },
+  {
+   "id": "ss-1-up",
+   "title": "Steps up and down"
+  },
+  {
+   "id": "ss-1-turns",
+   "title": "Lines that turn"
+  },
+  {
+   "id": "ss-1-challenge",
+   "title": "A line, read cold"
+  },
+  {
+   "id": "ss-2-chord",
+   "title": "Do, mi, so"
+  },
+  {
+   "id": "ss-2-below",
+   "title": "So below do"
+  },
+  {
+   "id": "ss-2-mixed",
+   "title": "Steps and skips"
+  },
+  {
+   "id": "ss-2-challenge",
+   "title": "Leaps, read cold"
+  },
+  {
+   "id": "ss-3-long",
+   "title": "Long and short"
+  },
+  {
+   "id": "ss-3-quick",
+   "title": "Quick notes"
+  },
+  {
+   "id": "ss-3-dotted",
+   "title": "Dotted notes"
+  },
+  {
+   "id": "ss-3-challenge",
+   "title": "A line in time"
+  },
+  {
+   "id": "ss-5-la",
+   "title": "Up to la"
+  },
+  {
+   "id": "ss-5-half",
+   "title": "The two half steps"
+  },
+  {
+   "id": "ss-5-minor",
+   "title": "La is home"
+  },
+  {
+   "id": "ss-5-challenge",
+   "title": "A minor line, read cold"
+  },
+  {
+   "id": "ss-4-signature",
+   "title": "Sharps and flats at the start"
+  },
+  {
+   "id": "ss-4-alto",
+   "title": "A part of its own"
+  },
+  {
+   "id": "ss-4-chord",
+   "title": "Inside the chord"
+  },
+  {
+   "id": "ss-4-challenge",
+   "title": "Your part, read"
+  }
  ],
  "plus/humming/course.json": [
-  "hum-1-coaster",
-  "hum-1-bubble",
-  "hum-1-tune",
-  "hum-1-challenge",
-  "hum-2-ng",
-  "hum-2-bigger",
-  "hum-2-open",
-  "hum-2-challenge",
-  "hum-3-buzz",
-  "hum-3-tune",
-  "hum-3-open",
-  "hum-3-challenge",
-  "hum-4-trill-line",
-  "hum-4-words",
-  "hum-4-warmup",
-  "hum-4-challenge"
+  {
+   "id": "hum-1-coaster",
+   "title": "A roller coaster"
+  },
+  {
+   "id": "hum-1-bubble",
+   "title": "Keep it bubbling"
+  },
+  {
+   "id": "hum-1-tune",
+   "title": "Trill on a tune"
+  },
+  {
+   "id": "hum-1-challenge",
+   "title": "The big dipper"
+  },
+  {
+   "id": "hum-2-ng",
+   "title": "Ng"
+  },
+  {
+   "id": "hum-2-bigger",
+   "title": "Bigger sirens"
+  },
+  {
+   "id": "hum-2-open",
+   "title": "Ng to ah"
+  },
+  {
+   "id": "hum-2-challenge",
+   "title": "Siren loops"
+  },
+  {
+   "id": "hum-3-buzz",
+   "title": "A buzzing hum"
+  },
+  {
+   "id": "hum-3-tune",
+   "title": "Hum a tune"
+  },
+  {
+   "id": "hum-3-open",
+   "title": "Hum to open"
+  },
+  {
+   "id": "hum-3-challenge",
+   "title": "Hum a line"
+  },
+  {
+   "id": "hum-4-trill-line",
+   "title": "Trill into a line"
+  },
+  {
+   "id": "hum-4-words",
+   "title": "Hum into words"
+  },
+  {
+   "id": "hum-4-warmup",
+   "title": "A three-minute warm-up"
+  },
+  {
+   "id": "hum-4-challenge",
+   "title": "Your warm-up"
+  }
  ],
  "plus/belting/course.json": [
-  "belting-1-call",
-  "belting-1-onset",
-  "belting-1-easy",
-  "belting-1-challenge",
-  "belting-2-phrase",
-  "belting-2-come",
-  "belting-2-twang",
-  "belting-2-challenge",
-  "belting-3-hold",
-  "belting-3-colours",
-  "belting-3-lighter",
-  "belting-3-challenge",
-  "belting-4-heyho",
-  "belting-4-haul",
-  "belting-4-wade",
-  "belting-4-challenge"
+  {
+   "id": "belting-1-call",
+   "title": "The call"
+  },
+  {
+   "id": "belting-1-onset",
+   "title": "Start on h, y, n"
+  },
+  {
+   "id": "belting-1-easy",
+   "title": "As easy as talking"
+  },
+  {
+   "id": "belting-1-challenge",
+   "title": "Calls"
+  },
+  {
+   "id": "belting-2-phrase",
+   "title": "No you don't"
+  },
+  {
+   "id": "belting-2-come",
+   "title": "Hey, come here"
+  },
+  {
+   "id": "belting-2-twang",
+   "title": "Nyeah"
+  },
+  {
+   "id": "belting-2-challenge",
+   "title": "Say it, sing it"
+  },
+  {
+   "id": "belting-3-hold",
+   "title": "A short hold"
+  },
+  {
+   "id": "belting-3-colours",
+   "title": "Same note, two colours"
+  },
+  {
+   "id": "belting-3-lighter",
+   "title": "Lighter higher"
+  },
+  {
+   "id": "belting-3-challenge",
+   "title": "Holds and letting go"
+  },
+  {
+   "id": "belting-4-heyho",
+   "title": "Hey, ho"
+  },
+  {
+   "id": "belting-4-haul",
+   "title": "Way, haul away"
+  },
+  {
+   "id": "belting-4-wade",
+   "title": "Wade in the water"
+  },
+  {
+   "id": "belting-4-challenge",
+   "title": "Your calls"
+  }
  ],
  "plus/diction/course.json": [
-  "di-1-heard",
-  "di-1-pure",
-  "di-1-two",
-  "di-1-challenge",
-  "di-2-onset",
-  "di-2-finals",
-  "di-2-together",
-  "di-2-challenge",
-  "di-3-hum",
-  "di-3-n-l",
-  "di-3-buzz",
-  "di-3-challenge",
-  "di-4-heard",
-  "di-4-choir",
-  "di-4-lining",
-  "di-4-challenge"
+  {
+   "id": "di-1-heard",
+   "title": "Be heard"
+  },
+  {
+   "id": "di-1-pure",
+   "title": "Pure vowels"
+  },
+  {
+   "id": "di-1-two",
+   "title": "Two vowels, one note"
+  },
+  {
+   "id": "di-1-challenge",
+   "title": "Amazing Grace, every vowel"
+  },
+  {
+   "id": "di-2-onset",
+   "title": "The vowel on the beat"
+  },
+  {
+   "id": "di-2-finals",
+   "title": "The end on the beat"
+  },
+  {
+   "id": "di-2-together",
+   "title": "Together"
+  },
+  {
+   "id": "di-2-challenge",
+   "title": "Danny Boy"
+  },
+  {
+   "id": "di-3-hum",
+   "title": "On the m"
+  },
+  {
+   "id": "di-3-n-l",
+   "title": "The n on the note"
+  },
+  {
+   "id": "di-3-buzz",
+   "title": "Buzz, not hiss"
+  },
+  {
+   "id": "di-3-challenge",
+   "title": "Shenandoah"
+  },
+  {
+   "id": "di-4-heard",
+   "title": "Would they understand?"
+  },
+  {
+   "id": "di-4-choir",
+   "title": "One choir, one vowel"
+  },
+  {
+   "id": "di-4-lining",
+   "title": "Lining out"
+  },
+  {
+   "id": "di-4-challenge",
+   "title": "Every word, heard"
+  }
  ],
  "plus/other-languages/course.json": [
-  "ol-1-sakura",
-  "ol-1-vowels",
-  "ol-1-mora",
-  "ol-1-challenge",
-  "ol-2-habanera",
-  "ol-2-join",
-  "ol-2-light",
-  "ol-2-challenge",
-  "ol-3-latin",
-  "ol-3-letters",
-  "ol-3-line",
-  "ol-3-challenge",
-  "ol-4-letters",
-  "ol-4-figure",
-  "ol-4-swallow",
-  "ol-4-challenge"
+  {
+   "id": "ol-1-sakura",
+   "title": "Sakura"
+  },
+  {
+   "id": "ol-1-vowels",
+   "title": "Five whole vowels"
+  },
+  {
+   "id": "ol-1-mora",
+   "title": "Every small sound"
+  },
+  {
+   "id": "ol-1-challenge",
+   "title": "Sakura with the others"
+  },
+  {
+   "id": "ol-2-habanera",
+   "title": "The habanera"
+  },
+  {
+   "id": "ol-2-join",
+   "title": "Two vowels, one note"
+  },
+  {
+   "id": "ol-2-light",
+   "title": "Light consonants"
+  },
+  {
+   "id": "ol-2-challenge",
+   "title": "La Paloma's refrain"
+  },
+  {
+   "id": "ol-3-latin",
+   "title": "Ah-veh, not Ay-vee"
+  },
+  {
+   "id": "ol-3-letters",
+   "title": "Soft c, soft g, silent h"
+  },
+  {
+   "id": "ol-3-line",
+   "title": "One breath, one line"
+  },
+  {
+   "id": "ol-3-challenge",
+   "title": "Ave verum"
+  },
+  {
+   "id": "ol-4-letters",
+   "title": "Eleven letters"
+  },
+  {
+   "id": "ol-4-figure",
+   "title": "The figure, faster"
+  },
+  {
+   "id": "ol-4-swallow",
+   "title": "The swallow's line"
+  },
+  {
+   "id": "ol-4-challenge",
+   "title": "Shchedryk"
+  }
  ],
  "plus/counterpoint/course.json": [
-  "cp-1-round",
-  "cp-1-hear",
-  "cp-1-pedal",
-  "cp-1-ostinato",
-  "cp-1-challenge",
-  "cp-2-follow",
-  "cp-2-minor",
-  "cp-2-canon",
-  "cp-2-challenge",
-  "cp-3-call",
-  "cp-3-counter",
-  "cp-3-descant",
-  "cp-3-partners",
-  "cp-3-challenge",
-  "cp-4-consonance",
-  "cp-4-motion",
-  "cp-4-first",
-  "cp-4-second",
-  "cp-4-challenge",
-  "cp-5-yours",
-  "cp-5-hold",
-  "cp-5-challenge"
+  {
+   "id": "cp-1-round",
+   "title": "Be a round"
+  },
+  {
+   "id": "cp-1-hear",
+   "title": "Which voice moved?"
+  },
+  {
+   "id": "cp-1-pedal",
+   "title": "Be the drone"
+  },
+  {
+   "id": "cp-1-ostinato",
+   "title": "A pattern that repeats"
+  },
+  {
+   "id": "cp-1-challenge",
+   "title": "Hold the floor"
+  },
+  {
+   "id": "cp-2-follow",
+   "title": "The second voice"
+  },
+  {
+   "id": "cp-2-minor",
+   "title": "A round in minor"
+  },
+  {
+   "id": "cp-2-canon",
+   "title": "Lead, then follow"
+  },
+  {
+   "id": "cp-2-challenge",
+   "title": "In the middle"
+  },
+  {
+   "id": "cp-3-call",
+   "title": "Call and response"
+  },
+  {
+   "id": "cp-3-counter",
+   "title": "A slow line under a tune"
+  },
+  {
+   "id": "cp-3-descant",
+   "title": "Float above it"
+  },
+  {
+   "id": "cp-3-partners",
+   "title": "Two songs at once"
+  },
+  {
+   "id": "cp-3-challenge",
+   "title": "The last verse"
+  },
+  {
+   "id": "cp-4-consonance",
+   "title": "Smooth and rubbing"
+  },
+  {
+   "id": "cp-4-motion",
+   "title": "Ways to move"
+  },
+  {
+   "id": "cp-4-first",
+   "title": "First species"
+  },
+  {
+   "id": "cp-4-second",
+   "title": "Two against one"
+  },
+  {
+   "id": "cp-4-challenge",
+   "title": "Hold the cantus"
+  },
+  {
+   "id": "cp-5-yours",
+   "title": "Your choice"
+  },
+  {
+   "id": "cp-5-hold",
+   "title": "Hold on, then let go"
+  },
+  {
+   "id": "cp-5-challenge",
+   "title": "Write a counterpoint"
+  }
  ],
  "plus/improvising-harmony/course.json": [
-  "imp-1-third",
-  "imp-1-switch",
-  "imp-1-fourth",
-  "imp-1-ear",
-  "imp-1-challenge",
-  "imp-2-below",
-  "imp-2-hold",
-  "imp-2-echo",
-  "imp-2-challenge",
-  "imp-3-chord",
-  "imp-3-two-ways",
-  "imp-3-challenge",
-  "imp-4-hints",
-  "imp-4-free",
-  "imp-4-high",
-  "imp-4-challenge"
+  {
+   "id": "imp-1-third",
+   "title": "A part above"
+  },
+  {
+   "id": "imp-1-switch",
+   "title": "Major and minor thirds"
+  },
+  {
+   "id": "imp-1-fourth",
+   "title": "Third or fourth?"
+  },
+  {
+   "id": "imp-1-ear",
+   "title": "Harmony or the tune?"
+  },
+  {
+   "id": "imp-1-challenge",
+   "title": "A new tune"
+  },
+  {
+   "id": "imp-2-below",
+   "title": "A part below"
+  },
+  {
+   "id": "imp-2-hold",
+   "title": "Hold, then step off"
+  },
+  {
+   "id": "imp-2-echo",
+   "title": "Answer in harmony"
+  },
+  {
+   "id": "imp-2-challenge",
+   "title": "Under and over"
+  },
+  {
+   "id": "imp-3-chord",
+   "title": "Sing the chord"
+  },
+  {
+   "id": "imp-3-two-ways",
+   "title": "Close, then against"
+  },
+  {
+   "id": "imp-3-challenge",
+   "title": "Your harmony"
+  },
+  {
+   "id": "imp-4-hints",
+   "title": "Lights when you need them"
+  },
+  {
+   "id": "imp-4-free",
+   "title": "Lights off"
+  },
+  {
+   "id": "imp-4-high",
+   "title": "The tenor above"
+  },
+  {
+   "id": "imp-4-challenge",
+   "title": "A trio of you"
+  }
  ],
  "plus/barbershop/course.json": [
   "bb-1-ring",
@@ -284,92 +650,326 @@
   "bb-4-challenge"
  ],
  "plus/a-cappella-bass/course.json": [
-  "acb-1-root",
-  "acb-1-low",
-  "acb-1-hear",
-  "acb-1-challenge",
-  "acb-2-doom",
-  "acb-2-dm",
-  "acb-2-buh",
-  "acb-2-challenge",
-  "acb-3-fifth",
-  "acb-3-time",
-  "acb-3-hear",
-  "acb-3-challenge",
-  "acb-4-walk",
-  "acb-4-lead",
-  "acb-4-swing",
-  "acb-4-challenge"
+  {
+   "id": "acb-1-root",
+   "title": "Under the group"
+  },
+  {
+   "id": "acb-1-low",
+   "title": "Low and easy"
+  },
+  {
+   "id": "acb-1-hear",
+   "title": "Bright or dark?"
+  },
+  {
+   "id": "acb-1-challenge",
+   "title": "The four chords"
+  },
+  {
+   "id": "acb-2-doom",
+   "title": "Doom"
+  },
+  {
+   "id": "acb-2-dm",
+   "title": "Dm dm"
+  },
+  {
+   "id": "acb-2-buh",
+   "title": "Call and response"
+  },
+  {
+   "id": "acb-2-challenge",
+   "title": "Talk like a bass"
+  },
+  {
+   "id": "acb-3-fifth",
+   "title": "Root and fifth"
+  },
+  {
+   "id": "acb-3-time",
+   "title": "Keep the time"
+  },
+  {
+   "id": "acb-3-hear",
+   "title": "Steady or rushing?"
+  },
+  {
+   "id": "acb-3-challenge",
+   "title": "The groove"
+  },
+  {
+   "id": "acb-4-walk",
+   "title": "Walk down"
+  },
+  {
+   "id": "acb-4-lead",
+   "title": "Arrive home"
+  },
+  {
+   "id": "acb-4-swing",
+   "title": "Swing Low, rehearsed"
+  },
+  {
+   "id": "acb-4-challenge",
+   "title": "The floor"
+  }
  ],
  "plus/gospel-runs/course.json": [
-  "gr-1-stairs",
-  "gr-1-scale",
-  "gr-1-turn",
-  "gr-1-challenge",
-  "gr-2-groups",
-  "gr-2-clean",
-  "gr-2-place",
-  "gr-2-challenge",
-  "gr-3-bend",
-  "gr-3-up",
-  "gr-3-hear",
-  "gr-3-challenge",
-  "gr-4-ladder",
-  "gr-4-swing",
-  "gr-4-steal",
-  "gr-4-challenge"
+  {
+   "id": "gr-1-stairs",
+   "title": "Five stairs"
+  },
+  {
+   "id": "gr-1-scale",
+   "title": "Five notes only"
+  },
+  {
+   "id": "gr-1-turn",
+   "title": "A turn"
+  },
+  {
+   "id": "gr-1-challenge",
+   "title": "A run at the end"
+  },
+  {
+   "id": "gr-2-groups",
+   "title": "In groups"
+  },
+  {
+   "id": "gr-2-clean",
+   "title": "Clean, smeared or choppy?"
+  },
+  {
+   "id": "gr-2-place",
+   "title": "Where a run goes"
+  },
+  {
+   "id": "gr-2-challenge",
+   "title": "Wade in the Water"
+  },
+  {
+   "id": "gr-3-bend",
+   "title": "Bend up"
+  },
+  {
+   "id": "gr-3-up",
+   "title": "Run up to it"
+  },
+  {
+   "id": "gr-3-hear",
+   "title": "Bend or stall?"
+  },
+  {
+   "id": "gr-3-challenge",
+   "title": "A bluesy ending"
+  },
+  {
+   "id": "gr-4-ladder",
+   "title": "The ladder"
+  },
+  {
+   "id": "gr-4-swing",
+   "title": "Swing Low, with a run"
+  },
+  {
+   "id": "gr-4-steal",
+   "title": "Steal Away"
+  },
+  {
+   "id": "gr-4-challenge",
+   "title": "Your run"
+  }
  ],
  "plus/scat/course.json": [
-  "sc-1-trade",
-  "sc-1-swing",
-  "sc-1-and",
-  "sc-1-challenge",
-  "sc-2-form",
-  "sc-2-finish",
-  "sc-2-third",
-  "sc-2-challenge",
-  "sc-3-ends",
-  "sc-3-answer",
-  "sc-3-riff",
-  "sc-3-challenge",
-  "sc-4-blue",
-  "sc-4-scale",
-  "sc-4-four",
-  "sc-4-challenge"
+  {
+   "id": "sc-1-trade",
+   "title": "Trade with the band"
+  },
+  {
+   "id": "sc-1-swing",
+   "title": "Long, short"
+  },
+  {
+   "id": "sc-1-and",
+   "title": "Start on the and"
+  },
+  {
+   "id": "sc-1-challenge",
+   "title": "Four trades on the and"
+  },
+  {
+   "id": "sc-2-form",
+   "title": "The twelve bars"
+  },
+  {
+   "id": "sc-2-finish",
+   "title": "Finish the phrase"
+  },
+  {
+   "id": "sc-2-third",
+   "title": "The colour note"
+  },
+  {
+   "id": "sc-2-challenge",
+   "title": "Land them all"
+  },
+  {
+   "id": "sc-3-ends",
+   "title": "Keep the rhythm, change the end"
+  },
+  {
+   "id": "sc-3-answer",
+   "title": "Answer the call"
+  },
+  {
+   "id": "sc-3-riff",
+   "title": "A riff"
+  },
+  {
+   "id": "sc-3-challenge",
+   "title": "Trading twos"
+  },
+  {
+   "id": "sc-4-blue",
+   "title": "The blue note"
+  },
+  {
+   "id": "sc-4-scale",
+   "title": "The blues scale"
+  },
+  {
+   "id": "sc-4-four",
+   "title": "Four bars of your own"
+  },
+  {
+   "id": "sc-4-challenge",
+   "title": "Your chorus"
+  }
  ],
  "plus/backing-vocals/course.json": [
-  "bv-1-pad",
-  "bv-1-moving",
-  "bv-1-together",
-  "bv-1-shenandoah",
-  "bv-2-doo-wah",
-  "bv-2-shoo-bop",
-  "bv-2-three",
-  "bv-2-doo-wop",
-  "bv-3-fill",
-  "bv-3-response",
-  "bv-3-on-time",
-  "bv-3-verse",
-  "bv-4-red-river",
-  "bv-4-two-more",
-  "bv-4-amazing-grace"
+  {
+   "id": "bv-1-pad",
+   "title": "A pad"
+  },
+  {
+   "id": "bv-1-moving",
+   "title": "Moving with the chords"
+  },
+  {
+   "id": "bv-1-together",
+   "title": "Together off"
+  },
+  {
+   "id": "bv-1-shenandoah",
+   "title": "Shenandoah's pad"
+  },
+  {
+   "id": "bv-2-doo-wah",
+   "title": "Doo-wah"
+  },
+  {
+   "id": "bv-2-shoo-bop",
+   "title": "Shoo-bop"
+  },
+  {
+   "id": "bv-2-three",
+   "title": "Three parts"
+  },
+  {
+   "id": "bv-2-doo-wop",
+   "title": "Your doo-wop"
+  },
+  {
+   "id": "bv-3-fill",
+   "title": "Fill the gap"
+  },
+  {
+   "id": "bv-3-response",
+   "title": "The response"
+  },
+  {
+   "id": "bv-3-on-time",
+   "title": "Back in on time"
+  },
+  {
+   "id": "bv-3-verse",
+   "title": "Answers through a verse"
+  },
+  {
+   "id": "bv-4-red-river",
+   "title": "Home on the Range: a pad, then answers"
+  },
+  {
+   "id": "bv-4-two-more",
+   "title": "Amazing Grace: two more parts"
+  },
+  {
+   "id": "bv-4-amazing-grace",
+   "title": "Amazing Grace, your backing"
+  }
  ],
  "plus/choir-part/course.json": [
-  "chp-1-hear",
-  "chp-1-first",
-  "chp-1-page",
-  "chp-1-two",
-  "chp-2-lines",
-  "chp-2-find",
-  "chp-2-speed",
-  "chp-2-verse",
-  "chp-3-refrain",
-  "chp-3-last",
-  "chp-3-away",
-  "chp-3-alone",
-  "chp-4-ready",
-  "chp-4-keep",
-  "chp-4-dress"
+  {
+   "id": "chp-1-hear",
+   "title": "Hear your line"
+  },
+  {
+   "id": "chp-1-first",
+   "title": "Your first note"
+  },
+  {
+   "id": "chp-1-page",
+   "title": "Your line on the page"
+  },
+  {
+   "id": "chp-1-two",
+   "title": "The first two lines"
+  },
+  {
+   "id": "chp-2-lines",
+   "title": "Two new lines"
+  },
+  {
+   "id": "chp-2-find",
+   "title": "Find the hard bars"
+  },
+  {
+   "id": "chp-2-speed",
+   "title": "Up to speed"
+  },
+  {
+   "id": "chp-2-verse",
+   "title": "The verse"
+  },
+  {
+   "id": "chp-3-refrain",
+   "title": "The refrain"
+  },
+  {
+   "id": "chp-3-last",
+   "title": "The last line"
+  },
+  {
+   "id": "chp-3-away",
+   "title": "The guide steps away"
+  },
+  {
+   "id": "chp-3-alone",
+   "title": "Your part, on your own"
+  },
+  {
+   "id": "chp-4-ready",
+   "title": "The morning of"
+  },
+  {
+   "id": "chp-4-keep",
+   "title": "Don't stop"
+  },
+  {
+   "id": "chp-4-dress",
+   "title": "Dress rehearsal"
+  }
  ],
  "plus/folk/course.json": [
   "folk-1-crew",
@@ -426,113 +1026,404 @@
   "pop-4-challenge"
  ],
  "plus/musical-theatre/course.json": [
-  "mt-1-speak",
-  "mt-1-stress",
-  "mt-1-thought",
-  "mt-1-challenge",
-  "mt-2-two",
-  "mt-2-consonants",
-  "mt-2-quicker",
-  "mt-2-challenge",
-  "mt-3-bright",
-  "mt-3-legit",
-  "mt-3-diphthongs",
-  "mt-3-challenge",
-  "mt-4-button",
-  "mt-4-someone",
-  "mt-4-hail",
-  "mt-4-challenge"
+  {
+   "id": "mt-1-speak",
+   "title": "Say it, then sing it"
+  },
+  {
+   "id": "mt-1-stress",
+   "title": "The word that matters"
+  },
+  {
+   "id": "mt-1-thought",
+   "title": "Breathe where the thought ends"
+  },
+  {
+   "id": "mt-1-challenge",
+   "title": "Little Buttercup"
+  },
+  {
+   "id": "mt-2-two",
+   "title": "Two notes, many words"
+  },
+  {
+   "id": "mt-2-consonants",
+   "title": "Consonant first"
+  },
+  {
+   "id": "mt-2-quicker",
+   "title": "A little quicker"
+  },
+  {
+   "id": "mt-2-challenge",
+   "title": "I am the very model"
+  },
+  {
+   "id": "mt-3-bright",
+   "title": "Bright, like talking"
+  },
+  {
+   "id": "mt-3-legit",
+   "title": "Tall and steady"
+  },
+  {
+   "id": "mt-3-diphthongs",
+   "title": "Hold the first vowel"
+  },
+  {
+   "id": "mt-3-challenge",
+   "title": "Tit-willow"
+  },
+  {
+   "id": "mt-4-button",
+   "title": "The button"
+  },
+  {
+   "id": "mt-4-someone",
+   "title": "Sing it to someone"
+  },
+  {
+   "id": "mt-4-hail",
+   "title": "Hail, Poetry, the first half"
+  },
+  {
+   "id": "mt-4-challenge",
+   "title": "The company"
+  }
  ],
  "plus/whistling/course.json": [
-  "wh-1-find",
-  "wh-1-steady",
-  "wh-1-start",
-  "wh-1-challenge",
-  "wh-2-step",
-  "wh-2-five",
-  "wh-2-slide",
-  "wh-2-challenge",
-  "wh-3-small",
-  "wh-3-bigger",
-  "wh-3-high",
-  "wh-3-challenge",
-  "wh-4-drone",
-  "wh-4-breath",
-  "wh-4-wave",
-  "wh-4-challenge"
+  {
+   "id": "wh-1-find",
+   "title": "Find your whistle"
+  },
+  {
+   "id": "wh-1-steady",
+   "title": "Hold it steady"
+  },
+  {
+   "id": "wh-1-start",
+   "title": "A clean start"
+  },
+  {
+   "id": "wh-1-challenge",
+   "title": "Hot Cross Buns"
+  },
+  {
+   "id": "wh-2-step",
+   "title": "The next note up"
+  },
+  {
+   "id": "wh-2-five",
+   "title": "Five notes, one at a time"
+  },
+  {
+   "id": "wh-2-slide",
+   "title": "A slide"
+  },
+  {
+   "id": "wh-2-challenge",
+   "title": "Ode to Joy"
+  },
+  {
+   "id": "wh-3-small",
+   "title": "Small jumps"
+  },
+  {
+   "id": "wh-3-bigger",
+   "title": "Bigger jumps"
+  },
+  {
+   "id": "wh-3-high",
+   "title": "The big jump"
+  },
+  {
+   "id": "wh-3-challenge",
+   "title": "Simple Gifts"
+  },
+  {
+   "id": "wh-4-drone",
+   "title": "In tune with a held note"
+  },
+  {
+   "id": "wh-4-breath",
+   "title": "A breath each phrase"
+  },
+  {
+   "id": "wh-4-wave",
+   "title": "An even wave"
+  },
+  {
+   "id": "wh-4-challenge",
+   "title": "The Water Is Wide"
+  }
  ],
  "plus/live-looping/course.json": [
-  "ll-1-loop",
-  "ll-1-lock",
-  "ll-1-longer",
-  "ll-1-first",
-  "ll-2-pad",
-  "ll-2-rhythm",
-  "ll-2-three",
-  "ll-2-band",
-  "ll-3-row",
-  "ll-3-frere",
-  "ll-3-sailor",
-  "ll-3-round",
-  "ll-4-bass",
-  "ll-4-layers",
-  "ll-4-song"
+  {
+   "id": "ll-1-loop",
+   "title": "The loop"
+  },
+  {
+   "id": "ll-1-lock",
+   "title": "Lock to yourself"
+  },
+  {
+   "id": "ll-1-longer",
+   "title": "A longer loop"
+  },
+  {
+   "id": "ll-1-first",
+   "title": "Your first loop"
+  },
+  {
+   "id": "ll-2-pad",
+   "title": "The pad"
+  },
+  {
+   "id": "ll-2-rhythm",
+   "title": "A rhythm part"
+  },
+  {
+   "id": "ll-2-three",
+   "title": "Three layers"
+  },
+  {
+   "id": "ll-2-band",
+   "title": "The band"
+  },
+  {
+   "id": "ll-3-row",
+   "title": "Row, Row, Row Your Boat"
+  },
+  {
+   "id": "ll-3-frere",
+   "title": "Are You Sleeping (Frère Jacques)"
+  },
+  {
+   "id": "ll-3-sailor",
+   "title": "Drunken Sailor"
+  },
+  {
+   "id": "ll-3-round",
+   "title": "A round with yourself"
+  },
+  {
+   "id": "ll-4-bass",
+   "title": "Choose your bass"
+  },
+  {
+   "id": "ll-4-layers",
+   "title": "Choose your layers"
+  },
+  {
+   "id": "ll-4-song",
+   "title": "Your song"
+  }
  ],
  "plus/sea-shanties/course.json": [
-  "sh-1-answer",
-  "sh-1-joe",
-  "sh-1-breathe",
-  "sh-1-challenge",
-  "sh-2-pull",
-  "sh-2-stamp",
-  "sh-2-hoist",
-  "sh-2-capstan",
-  "sh-2-challenge",
-  "sh-3-lead",
-  "sh-3-find",
-  "sh-3-line",
-  "sh-3-challenge",
-  "sh-4-together",
-  "sh-4-part",
-  "sh-4-root",
-  "sh-4-stack",
-  "sh-4-challenge"
+  {
+   "id": "sh-1-answer",
+   "title": "The answer"
+  },
+  {
+   "id": "sh-1-joe",
+   "title": "Sweating up"
+  },
+  {
+   "id": "sh-1-breathe",
+   "title": "Breathe in the call"
+  },
+  {
+   "id": "sh-1-challenge",
+   "title": "Haul Away, Joe"
+  },
+  {
+   "id": "sh-2-pull",
+   "title": "On the pull"
+  },
+  {
+   "id": "sh-2-stamp",
+   "title": "Stamp and go"
+  },
+  {
+   "id": "sh-2-hoist",
+   "title": "The long hoist"
+  },
+  {
+   "id": "sh-2-capstan",
+   "title": "Walk it round"
+  },
+  {
+   "id": "sh-2-challenge",
+   "title": "Into port"
+  },
+  {
+   "id": "sh-3-lead",
+   "title": "Lead the call"
+  },
+  {
+   "id": "sh-3-find",
+   "title": "Find the call"
+  },
+  {
+   "id": "sh-3-line",
+   "title": "Make up a line"
+  },
+  {
+   "id": "sh-3-challenge",
+   "title": "Lead Leave Her, Johnny"
+  },
+  {
+   "id": "sh-4-together",
+   "title": "All together"
+  },
+  {
+   "id": "sh-4-part",
+   "title": "A part under the tune"
+  },
+  {
+   "id": "sh-4-root",
+   "title": "The root"
+  },
+  {
+   "id": "sh-4-stack",
+   "title": "Stack a crew"
+  },
+  {
+   "id": "sh-4-challenge",
+   "title": "Your crew"
+  }
  ],
  "plus/classical-singing/course.json": [
-  "cl-1-joined",
-  "cl-1-start",
-  "cl-1-vowel",
-  "cl-1-challenge",
-  "cl-2-comma",
-  "cl-2-steady",
-  "cl-2-shape",
-  "cl-2-challenge",
-  "cl-3-thirds",
-  "cl-3-lean",
-  "cl-3-slide",
-  "cl-3-challenge",
-  "cl-4-first",
-  "cl-4-middle",
-  "cl-4-return",
-  "cl-4-challenge"
+  {
+   "id": "cl-1-joined",
+   "title": "One joined line"
+  },
+  {
+   "id": "cl-1-start",
+   "title": "A clean start"
+  },
+  {
+   "id": "cl-1-vowel",
+   "title": "One vowel, many notes"
+  },
+  {
+   "id": "cl-1-challenge",
+   "title": "Your first Italian song"
+  },
+  {
+   "id": "cl-2-comma",
+   "title": "Breathe at the comma"
+  },
+  {
+   "id": "cl-2-steady",
+   "title": "Steady in the middle"
+  },
+  {
+   "id": "cl-2-shape",
+   "title": "The end of a phrase"
+  },
+  {
+   "id": "cl-2-challenge",
+   "title": "A phrase on one breath"
+  },
+  {
+   "id": "cl-3-thirds",
+   "title": "Skips that stay joined"
+  },
+  {
+   "id": "cl-3-lean",
+   "title": "The leaning note"
+  },
+  {
+   "id": "cl-3-slide",
+   "title": "A slide on purpose"
+  },
+  {
+   "id": "cl-3-challenge",
+   "title": "Semplicetta tortorella"
+  },
+  {
+   "id": "cl-4-first",
+   "title": "Caro mio ben, the opening"
+  },
+  {
+   "id": "cl-4-middle",
+   "title": "The middle"
+  },
+  {
+   "id": "cl-4-return",
+   "title": "The return and the ending"
+  },
+  {
+   "id": "cl-4-challenge",
+   "title": "Caro mio ben"
+  }
  ],
  "plus/blues-singing/course.json": [
-  "bl-1-say",
-  "bl-1-hum",
-  "bl-1-answer",
-  "bl-1-challenge",
-  "bl-2-blue",
-  "bl-2-ending",
-  "bl-2-two",
-  "bl-2-challenge",
-  "bl-3-room",
-  "bl-3-fall",
-  "bl-3-lay",
-  "bl-3-challenge",
-  "bl-4-first",
-  "bl-4-answer",
-  "bl-4-verse",
-  "bl-4-challenge"
+  {
+   "id": "bl-1-say",
+   "title": "Say it, say it again"
+  },
+  {
+   "id": "bl-1-hum",
+   "title": "Hum it first"
+  },
+  {
+   "id": "bl-1-answer",
+   "title": "The answer line"
+  },
+  {
+   "id": "bl-1-challenge",
+   "title": "One whole verse"
+  },
+  {
+   "id": "bl-2-blue",
+   "title": "The blue note in the tune"
+  },
+  {
+   "id": "bl-2-ending",
+   "title": "A bluer ending"
+  },
+  {
+   "id": "bl-2-two",
+   "title": "Not every blues has three lines"
+  },
+  {
+   "id": "bl-2-challenge",
+   "title": "Muscle Shoals Blues"
+  },
+  {
+   "id": "bl-3-room",
+   "title": "Leave room"
+  },
+  {
+   "id": "bl-3-fall",
+   "title": "The fall"
+  },
+  {
+   "id": "bl-3-lay",
+   "title": "Lay back"
+  },
+  {
+   "id": "bl-3-challenge",
+   "title": "The Fives"
+  },
+  {
+   "id": "bl-4-first",
+   "title": "Your first line"
+  },
+  {
+   "id": "bl-4-answer",
+   "title": "Your answer line"
+  },
+  {
+   "id": "bl-4-verse",
+   "title": "Your verse"
+  },
+  {
+   "id": "bl-4-challenge",
+   "title": "Your blues"
+  }
  ],
  "songs/abide-with-me.json": [
   {
