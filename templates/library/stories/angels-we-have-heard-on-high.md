@@ -221,7 +221,7 @@ Gloria in excelsis Deo.
 
 ## How it is sung
 
-It is sung at Christmas, and its early printings set the Gloria apart from the verse. In the Paris book of 1842, marked "très doux", very soft, two upper voices sing the verse and the bass comes in only for the Gloria, sung twice [^lamb1842]. The London book of 1860 marks the verse "Solo" and the Gloria "Chorus", and its preface explains how: a few singers who know the tune sing the verse, and the whole congregation answers [^hfh1860].
+It is a Christmas carol, not an Advent song: it sings of the night of the birth, and Christmas is its season. Its English began in Catholic books, The Holy Family Hymns of 1860 and The Crown of Jesus of 1862, but other churches sing it as a hymn too; the Psalter Hymnal of the Christian Reformed Church in North America prints it at No. 347, to the tune GLORIA [^hfh1860][^crown][^psh]. Its one tie to Advent is the Mass's Gloria, left out on the Sundays of Advent and sung again at Christmas [^girm][^gloria-ce]. Its early printings set the Gloria apart from the verse. In the Paris book of 1842, marked "très doux", very soft, two upper voices sing the verse and the bass comes in only for the Gloria, sung twice [^lamb1842]. The London book of 1860 marks the verse "Solo" and the Gloria "Chorus", and its preface explains how: a few singers who know the tune sing the verse, and the whole congregation answers [^hfh1860].
 
 The run is the same in the 1842, 1860 and 1916 printings: "Glo" starts on a long note and falls away in quick notes, five to a bar, each bar starting a step lower [^lamb1842][^hfh1860][^hutchins]. The French tune ends its second and fourth lines on A, a third above the home note F; the Boston book of 1916, like Chope's of 1875, brings those lines down to F, the shape many hymnals now print [^lamb1842][^hutchins][^chope][^ha]. Its Gloria, sung once, is marked "Unison. ad lib." [^hutchins].
 
@@ -253,13 +253,13 @@ No one knows. The French carol's earliest known printing is in a book of noëls 
 
 It is not known. The tune's earliest known printing, in Paris in 1842, says only "Musique de W. M.", and nobody has shown who that was [^lamb1842][^sommervogel][^ha]. Later four-part harmonies came from Charles L. Hutchins, in his Boston weekly The Parish Choir (1891), and from Edward Shippen Barnes, who extended Hutchins's harmony for The New Church Hymnal (1937) [^parishchoir1891][^ha][^psh].
 
-### What does Gloria in excelsis Deo mean?
+### What does Gloria in excelsis Deo mean, and what Bible verse is it from?
 
-It is Latin for "Glory to God in the highest". The words are the angels' song to the shepherds on the night of Jesus' birth, in Luke 2:14, where they go on: and on earth peace to people of good will [^vulgate-org][^vulgate-drbo]. They also open the Gloria, the ancient hymn sung at Mass, which Catholic tradition calls the angelic hymn [^gloria-ce][^loomis].
+It is Latin for "Glory to God in the highest", the angels' song to the shepherds on the night of Jesus' birth, in Luke 2:14, where they go on: and on earth peace to people of good will [^vulgate-org][^vulgate-drbo]. The carol retells Luke 2:8 to 15, the angel's news and the child in the manger, with that song as its refrain [^psh][^vulgate-org]. The same words open the Gloria, the ancient hymn sung at Mass, which Catholic tradition calls the angelic hymn [^gloria-ce][^loomis].
 
-### What Bible verse is Angels We Have Heard on High based on?
+### Is Angels We Have Heard on High public domain?
 
-It retells Luke 2:8 to 15, where an angel appears to shepherds near Bethlehem, tells them they will find the child lying in a manger, and a crowd of angels sings "Glory to God in the highest" [^psh][^vulgate-org]. The refrain is that song of Luke 2:14, in Latin [^vulgate-org][^vulgate-drbo].
+The carol itself is old. Its French words and its tune are anonymous, in print by 1805 and 1842 [^roche1805][^lamb1842]. James Chadwick, who wrote the English in 1860, died in 1882, and Charles L. Hutchins, whose page of 1916 our arrangement reads, died in 1920 [^hfh1860][^julian-chadwick][^ha][^hutchins]. Edward Shippen Barnes's harmony of 1937, printed in many hymnals, is a later work of its own and not what we sing [^ha][^canterbury-barnes]. Our arrangement is our own: the soprano sings the 1916 tune, and the alto, tenor and bass are our parts.
 
 ### Which part sings the tune?
 
@@ -289,7 +289,7 @@ The soprano. In our arrangement it sings the tune as Carols Old and Carols New p
 - [^parishchoir1891]: Charles L. Hutchins, editor, *The Parish Choir*, No. 543 (Boston, 11 November 1891), Carol 181, "Angels we have heard", Old French Carol, p. 2197, "Copyright, 1891, by C. L. Hutchins"; page reproduced as Fig. 10 in Hymnology Archive. https://www.hymnologyarchive.com/angels-we-have-heard-on-high
 - [^hutchins]: Charles L. Hutchins, editor, *Carols Old and Carols New, for Use at Christmas and Other Seasons of the Christian Year* (Boston: The Parish Choir, 1916), Carol 181, "Angels we have heard", Old French Carol, p. 157, foot "Parish Choir, No. 543-4"; Princeton Theological Seminary Library copy, image n182. https://archive.org/details/carolsoldcarolsn00huth/page/n182/mode/1up
 - [^chope]: R. R. Chope, editor, *Carols for Use in Church during Christmas and Epiphany* (London: Metzler and Co., 1875), Carol 68, "When the crimson sun had set", p. 139, and index of first lines ("Rev. Geo. Peirce Grantham"); Princeton Theological Seminary Library copy. https://archive.org/details/carolnch00chop
-- [^psh]: *Psalter Hymnal Handbook*, on *Psalter Hymnal* (1987) No. 347, "Angels We Have Heard on High", tune GLORIA, harmonization by Edward S. Barnes, at Hymnary.org. https://hymnary.org/hymn/PsH/347
+- [^psh]: *Psalter Hymnal Handbook*, on *Psalter Hymnal* (1987) No. 347, "Angels We Have Heard on High", tune GLORIA, harmonization by Edward S. Barnes, at Hymnary.org. https://hymnary.org/hymn/PsH/347 ; and the hymnal's page there (Grand Rapids: CRC Publications, for the Christian Reformed Church in North America). https://hymnary.org/hymnal/PsH
 - [^hymnary]: Hymnary.org, "Angels we have heard on high" (text), meter 7.7.7.7 with refrain, and its tunes GLORIA and IRIS. https://hymnary.org/text/angels_we_have_heard_on_high
 - [^canterbury-barnes]: *The Canterbury Dictionary of Hymnology*, "Edward Shippen Barnes" (Canterbury Press, 2013), open excerpt. https://hymnology.hymnsam.co.uk/e/edward-shippen-barnes
 - [^gloria-ce]: Adrian Fortescue, "Gloria in Excelsis Deo", *The Catholic Encyclopedia*, vol. 6 (New York: Robert Appleton Company, 1909). https://www.newadvent.org/cathen/06583a.htm

@@ -191,6 +191,14 @@ It is a legend of charity. On St Stephen's Day a king sees a poor man gathering 
 
 John Mason Neale, an English priest and hymn writer who lived from 1818 to 1866, wrote the words. They are first known from Carols for Christmas-tide, which he made with Thomas Helmore in 1853 [^julian][^neale1853][^hymnarchive][^cvp1854]. He had told the same story in prose in Deeds of Faith, whose preface is dated 1849, and named no source for it [^deeds].
 
+### Why is Good King Wenceslas a Christmas carol?
+
+Because of its day, not its story. It never mentions the birth of Jesus: it is set on the Feast of Stephen, 26 December, the day after Christmas, and Neale wrote it for Carols for Christmas-tide, the book he made with Thomas Helmore in 1853 [^ce-stephen][^neale1853][^cvp1854]. In his prose tale of 1849 the walk happens in Advent; for the carol he moved it to St Stephen's Day [^deeds][^hymnarchive]. Its last verse gives the season its lesson: Christians with wealth who bless the poor will be blessed themselves [^neale1853].
+
+### How do you pronounce Wenceslas?
+
+In English, WEN-sis-lus, with the stress on the first syllable; American dictionaries also give WEN-sis-laws, for the spelling Wenceslaus [^dictcom]. The carol sings all three syllables: "Good King Wen-ces-las looked out" [^neale1853]. In Czech he is Václav, said VAHTS-lahf: the first syllable is stressed, the á is long, c sounds like "ts", and a v at the end of a word like "f" [^dictcom][^muni].
+
 ### Who wrote the music for Good King Wenceslas?
 
 Nobody knows. The tune is Tempus adest floridum, a Latin spring song whose earliest known printing is Piae Cantiones, a songbook of the Swedish and Finnish church and schools printed in Greifswald in 1582 [^pc1582][^hymnarchive][^canterbury-tempus]. Thomas Helmore harmonised it for Neale's words in 1853 [^neale1853][^hymnarchive].
@@ -224,6 +232,8 @@ Nobody knows. The tune is Tempus adest floridum, a Latin spring song whose earli
 - [^radio2017]: Daniela Lazarová, "Popular British carol sings the praises of St. Václav", Radio Prague International (22 December 2017). https://english.radio.cz/node/8173346
 - [^radio2026]: Vít Pohanka and Rob Cameron, "Blood in Bohemia: the killing of Saint Wenceslas and the birth of a legend", Radio Prague International (2 May 2026), drawing on the Institute of History of the Czech Academy of Sciences. https://english.radio.cz/blood-bohemia-killing-saint-wenceslas-and-birth-a-legend-8883296
 - [^czechtourism]: CzechTourism, "Public holidays" (28 September, Czech Statehood Day). https://www.visitczechia.com/en-us/news/2022/01/n-public-holidays
+- [^dictcom]: Dictionary.com, "Wenceslaus", variant "Wenceslas": the American entry from Dictionary.com Unabridged, [wen-sis-laws], and the British entry from Collins English Dictionary, /ˈwɛnsɪsləs/; and "Havel", Collins entry, "Václav (ˈvʌtslav)". https://www.dictionary.com/browse/wenceslaus
+- [^muni]: Martin Josef Páč, *Pronunciation* (Masaryk University Language Centre, Brno, 2022), "Speech Sounds", "Consonant Devoicing" ("Václav [Václaf]") and stress on the first syllable. https://www.cjv.muni.cz/media/3402817/pronunciation.docx
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "league", "fence", "rude", "flesh", "dint" and "sod". https://webstersdictionary1828.com/Dictionary/league
 - [^kjv]: *The Holy Bible*, King James Version: Acts 6:1 to 6 and 7:59 to 60; Luke 14:13 to 14 (BibleGateway). https://www.biblegateway.com/passage/?search=Acts+6%3A1-6%3B+Acts+7%3A59-60%3B+Luke+14%3A13-14&version=KJV
 - [^hymnary]: Hymnary.org, "Good King Wenceslas" (text): author, tune TEMPUS ADEST FLORIDUM, meter, scripture references, and its biography of John Mason Neale. https://hymnary.org/text/good_king_wenceslas_looked_out

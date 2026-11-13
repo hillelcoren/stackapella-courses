@@ -162,6 +162,10 @@ Oliphant's 1862 words were a drinking song for the holidays. His first verse has
 
 It means "let us now put on our festive clothes". To don is to put on, apparel is clothing, and gay is the older sense of the word: merry, or bright and showy [^dictionary]. The line replaced Oliphant's "Fill the mead-cup, drain the barrel"; its earliest known printing is in an American school journal of 1877 [^psj1877][^hullah1866].
 
+### Why was Deck the Halls written, and is it a carol?
+
+Thomas Oliphant wrote its English words in 1862 to give a Welsh harp tune for New Year's Eve, Nos Galan, English words for John Thomas's Welsh Melodies, which printed them beside Welsh words by Talhaiarn; his are not a translation [^thomas1862][^hullah1866][^handyfinch3]. It is sung as a Christmas carol, but not a religious one: it is about holly, singing and the turning year, and never mentions the birth of Jesus [^thomas1862]. Oliphant's verses were for drinking too; the American words of 1877 took the drinking out [^psj1877][^hullah1866].
+
 ### Which part sings the tune?
 
 The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, a third below it for most of the verse; with three, add the bass; the tenor makes four. The tune's highest note, a top E-flat, comes on the last "la" of the rising "fa la la" in the middle.

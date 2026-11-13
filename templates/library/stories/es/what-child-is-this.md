@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: what child is this significado | what child is this historia | quién escribió what child is this | what child is this letra en español | what child is this y greensleeves
-translatedFrom: 76a4271cf4a3
+translatedFrom: b15c47e66fe6
 original: Christmas Carols New and Old, primera serie, n.º XIV, p. 32, Internet Archive | https://archive.org/details/christmascarolsn00staiiala/page/n37/
 ---
 
@@ -160,6 +160,10 @@ Nadie sabe el año exacto. Su primera impresión conocida es la primera serie de
 ### ¿Quién escribió la música de What Child Is This?
 
 Nadie sabe quién hizo la melodía. Es Greensleeves, una melodía tradicional inglesa conocida en Londres ya en 1580 [^chappell][^balladindex][^pittaway1]. El libro de 1867, la primera impresión conocida de la letra de Dix, la llama solo "Old English" [^mt1867][^bs1867]. Su armonía a cuatro voces no está firmada, en un libro cuyo editor musical fue John Stainer [^bs1867][^ccno-complete].
+
+### ¿En qué versículos de la Biblia se basa What Child Is This?
+
+En ninguno solo: Dix toma de varios. El niño acostado y los pastores que velan son Lucas 2:7 a 8; el buey y el asno vienen de Isaías 1:3; "the Word made Flesh" (el Verbo hecho carne) es Juan 1:14, con "the Word" (el Verbo) de Juan 1:1; y los regalos de incienso, oro y mirra son los de los magos en Mateo 2:11 [^kjv][^bs1867]. Los clavos y la lanza del estribillo de la segunda estrofa anuncian la cruz, en Juan 19:34 y 20:25 [^kjv].
 
 ### ¿Qué voz canta la melodía en nuestro arreglo?
 

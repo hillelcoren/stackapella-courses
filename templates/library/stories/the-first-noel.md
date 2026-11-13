@@ -9,7 +9,7 @@ meter: irregular, with refrain
 earliestPrinting: Davies Gilbert, Some Ancient Christmas Carols, second edition (London, 1823), Carol IX
 earliestPrintingSource: gilbert1823
 language: English
-origin: West of England (Cornwall)
+origin: West of England (Gilbert, 1823), perhaps Cornwall
 occasion: Christmas and Epiphany
 alsoKnownAs: The First Nowell; The First Nowel
 wikidata: Q686012
@@ -146,6 +146,10 @@ Nobody knows. The tune is traditional, and its earliest known printing is in Wil
 
 Nobody knows. The words have no known author, and their earliest known printing is in Davies Gilbert's Some Ancient Christmas Carols, second edition, 1823 [^canterbury][^hymnary-text][^gilbert1823]. Gilbert said only that his carols came from the West of England, where they had been sung in churches and homes at Christmas [^gilbert1823].
 
+### Why does The First Noel say "Born is the King of Israel"?
+
+Because the carol hails the child as the king the wise men came to find: its third verse says that "To seek for a King was their intent" [^bs1867][^stainer-ill]. Both names come from the Gospels. In Matthew the wise men ask, "Where is he that is born King of the Jews?", and in John, Nathanael says to Jesus, "thou art the King of Israel" [^kjv]. The refrain sets that title after its fourfold "Nowell", so each chorus cheers the birth of that king.
+
 ## Sing next
 
 - [God Rest Ye Merry, Gentlemen](/songs/god-rest-ye): another carol William Sandys printed in 1833, and No. 1 in the same first series of Bramley and Stainer.
@@ -178,4 +182,4 @@ Nobody knows. The words have no known author, and their earliest known printing 
 - [^chaucer]: Geoffrey Chaucer, *The Canterbury Tales*, The Franklin's Tale, line 1255, in Walter W. Skeat (ed.), *The Complete Works of Geoffrey Chaucer*, vol. 4, second edition (Oxford: Clarendon Press, 1900), at Project Gutenberg. https://www.gutenberg.org/ebooks/22120
 - [^webster1828]: Noah Webster, *An American Dictionary of the English Language* (1828), "Nowel", "Deep" (noun, sense 4), "Jewry" and "Naught". https://webstersdictionary1828.com/Dictionary/nowel
 - [^webster1913]: *Webster's Revised Unabridged Dictionary* (Springfield, Mass.: G. and C. Merriam, 1913), "Noel" and "Nowel". https://www.websters1913.com/words/Nowel
-- [^kjv]: *The Holy Bible*, King James Version: Luke 2:7 to 12 and Matthew 2:1 to 11 (BibleGateway). https://www.biblegateway.com/passage/?search=Luke+2%3A7-12%3B+Matthew+2%3A1-11&version=KJV
+- [^kjv]: *The Holy Bible*, King James Version: Luke 2:7 to 12, Matthew 2:1 to 11 and John 1:49 (BibleGateway). https://www.biblegateway.com/passage/?search=Luke+2%3A7-12%3B+Matthew+2%3A1-11%3B+John+1%3A49&version=KJV

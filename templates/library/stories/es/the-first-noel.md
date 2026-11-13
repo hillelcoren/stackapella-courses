@@ -9,7 +9,7 @@ meter: irregular, con estribillo
 earliestPrinting: Davies Gilbert, Some Ancient Christmas Carols, segunda edición (Londres, 1823), villancico IX
 earliestPrintingSource: gilbert1823
 language: inglés
-origin: oeste de Inglaterra (Cornualles)
+origin: oeste de Inglaterra (Gilbert, 1823), quizá Cornualles
 occasion: Navidad y Epifanía
 alsoKnownAs: The First Nowell; The First Nowel
 wikidata: Q686012
@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the first noel historia | the first noel significado | quién escribió the first noel | qué significa noel en the first noel | the first noel letra | the first nowell
-translatedFrom: 4dffbe9a6fcd
+translatedFrom: aa83e64cf59f
 listen: Internet Archive, grabación de 1910 | https://archive.org/details/loc-jukebox-733500-the-first-nowell || Internet Archive, grabación de 1914 | https://archive.org/details/loc-jukebox-10792-the-first-nowell
 original: Christmas Carols, Ancient and Modern (1833), p. 74, Internet Archive | https://archive.org/details/christmascarolsa00sandrich/page/74/
 ---
@@ -173,6 +173,10 @@ Nadie lo sabe. La melodía es tradicional, y su primera impresión conocida est�
 
 Nadie lo sabe. La letra no tiene autor conocido, y su primera impresión conocida está en Some Ancient Christmas Carols, de Davies Gilbert, segunda edición, de 1823 [^canterbury][^hymnary-text][^gilbert1823]. Gilbert solo dijo que sus villancicos venían del oeste de Inglaterra, donde se cantaban en Navidad en las iglesias y en las casas [^gilbert1823].
 
+### ¿Por qué The First Noel dice "Born is the King of Israel"?
+
+Porque el villancico aclama al niño como el rey que los magos venían a buscar: su tercera estrofa dice "To seek for a King was their intent" (su intención era buscar a un rey) [^bs1867][^stainer-ill]. Los dos títulos vienen de los Evangelios. En Mateo los magos preguntan: "¿Dónde está el Rey de los Judíos, que ha nacido?", y en Juan, Natanael le dice a Jesús: "tú eres el Rey de Israel" [^kjv]. El estribillo pone ese título después de sus cuatro "Nowell", así que cada estribillo celebra el nacimiento de ese rey.
+
 ## Canta después
 
 - [God Rest Ye Merry, Gentlemen](/songs/god-rest-ye): otro villancico que William Sandys imprimió en 1833, y el n.º 1 de la misma primera serie de Bramley y Stainer.
@@ -205,4 +209,4 @@ Nadie lo sabe. La letra no tiene autor conocido, y su primera impresión conocid
 - [^chaucer]: Geoffrey Chaucer, *The Canterbury Tales*, The Franklin's Tale, verso 1255, en Walter W. Skeat (ed.), *The Complete Works of Geoffrey Chaucer*, vol. 4, segunda edición (Oxford: Clarendon Press, 1900), en Project Gutenberg. https://www.gutenberg.org/ebooks/22120
 - [^webster1828]: Noah Webster, *An American Dictionary of the English Language* (1828), "Nowel", "Deep" (sustantivo, acepción 4), "Jewry" y "Naught". https://webstersdictionary1828.com/Dictionary/nowel
 - [^webster1913]: *Webster's Revised Unabridged Dictionary* (Springfield, Mass.: G. and C. Merriam, 1913), "Noel" y "Nowel". https://www.websters1913.com/words/Nowel
-- [^kjv]: *The Holy Bible*, King James Version: Lucas 2:7 a 12 y Mateo 2:1 a 11 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A7-12%3B+Matthew+2%3A1-11&version=KJV
+- [^kjv]: *The Holy Bible*, King James Version: Lucas 2:7 a 12, Mateo 2:1 a 11 y Juan 1:49 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A7-12%3B+Matthew+2%3A1-11%3B+John+1%3A49&version=KJV

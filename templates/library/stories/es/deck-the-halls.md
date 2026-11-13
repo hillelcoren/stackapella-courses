@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: 4bb6eefb197a
+translatedFrom: 6f2c4f0e53b4
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
@@ -210,6 +210,10 @@ La letra de Oliphant de 1862 era una canción de bebida para las fiestas. Su pri
 ### ¿Qué significa "Don we now our gay apparel"?
 
 Quiere decir "pongámonos ahora nuestra ropa de fiesta". "Don" es ponerse, "apparel" es ropa, y "gay" tiene el sentido antiguo de la palabra: alegre, o vistoso y llamativo [^dictionary]. El verso sustituyó al "Fill the mead-cup, drain the barrel" de Oliphant; su impresión más antigua conocida está en una revista escolar estadounidense de 1877 [^psj1877][^hullah1866].
+
+### ¿Por qué se escribió Deck the Halls, y es un villancico?
+
+Thomas Oliphant escribió su letra inglesa en 1862 para dar letra en inglés a una melodía galesa de arpa para la Nochevieja, Nos Galan, en los Welsh Melodies de John Thomas, que la imprimieron junto a una letra galesa de Talhaiarn; la suya no es una traducción [^thomas1862][^hullah1866][^handyfinch3]. Se canta como villancico de Navidad, pero no es religioso: habla del acebo, del canto y del año que cambia, y nunca menciona el nacimiento de Jesús [^thomas1862]. Las estrofas de Oliphant eran también para beber; la letra estadounidense de 1877 quitó la bebida [^psj1877][^hullah1866].
 
 ### ¿Qué voz canta la melodía?
 

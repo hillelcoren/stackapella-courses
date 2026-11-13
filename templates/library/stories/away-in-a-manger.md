@@ -132,6 +132,10 @@ Luke 2:7, where Mary lays her firstborn son in a manger "because there was no ro
 
 The soprano sings Kirkpatrick's tune, from a low D up to the E a ninth above. With two singers you have the tune and the alto, which is Kirkpatrick's own second voice, as he printed it "Solo or Duet" [^jp1908]. With three, add the bass; the tenor makes four.
 
+### Is Away in a Manger public domain?
+
+The carol itself is old. Its words are anonymous: the first two verses were in print by 1882 and the third by 1892 [^cynosure1882][^gabriel1892][^hymnarchive]. James R. Murray, who printed his tune in 1887, died in 1905, and William J. Kirkpatrick, whose tune of 1895 we sing, died in 1921 [^murray1887][^phh-tunes][^hymnarchive][^kirk1895][^hymnary-kirkpatrick]. Our arrangement is our own: Kirkpatrick's tune and second voice from a hymnal of 1920, the second voice lightly changed, with tenor and bass parts we wrote on his harmony [^hutchins1920].
+
 ## Sing next
 
 - [Silent Night](/songs/silent-night): another gentle Christmas carol in three time, for beginners.

@@ -129,6 +129,10 @@ Nothing on its own: they are hushing sounds for putting a baby to sleep, related
 
 The 1591 setting has three: treble, tenor and bass, with the tune in the treble [^sharp1825][^king1997]. Four-part versions came later, from editors such as those of The English Carol Book [^ecb1923]. Ours keeps the three 1591 parts and adds a tenor, so two, three or four people can sing it.
 
+### Is the Coventry Carol the same as What Child Is This?
+
+No. The Coventry Carol is the mothers' lullaby from Coventry's Nativity pageant, known only from a copy dated 1591, which Thomas Sharp printed in 1825 with its own music for three voices [^sharp1825][^craig1902]. What Child Is This? is William Chatterton Dix's carol, whose earliest known printing is a London carol book of 1867, set to an "Old English" air, the tune Greensleeves [^bs1867][^hymnary-wcit]. Both are English Christmas songs in a minor key, but they share neither words nor tune.
+
 ## Sing next
 
 - [Riu, Riu, Chiu](/songs/riu-riu-chiu): a Christmas song from the same century, printed in Venice in 1556 for four voices.
@@ -146,6 +150,8 @@ The 1591 setting has three: treble, tenor and bass, with the tune in the treble 
 - [^sandys1833]: William Sandys, *Christmas Carols, Ancient and Modern* (London: Richard Beckley, 1833), introduction, "Song II. (By the Women.)"; University of California Libraries copy, Internet Archive. https://archive.org/details/christmascarolsa00sandrich
 - [^humphreys1900]: Frank Landon Humphreys (selector), *Christmas Carols* (Novello, Ewer and Co., copyright 1900), "The Coventry Carol", p. 41; Internet Archive. https://archive.org/details/christmascarols00humpgoog/page/n45
 - [^ecb1923]: Martin Shaw and Percy Dearmer (editors), *The English Carol Book, Second Series* (London: A. R. Mowbray, 1923 printing), No. 38, "Coventry Carol", p. 83; University of Toronto copy, Internet Archive. https://archive.org/details/englishcarolbook00dear/page/n18
+- [^bs1867]: H. R. Bramley and John Stainer, *Christmas Carols New and Old*, first series (London: Novello, Ewer and Co.; Boston, New York and Philadelphia: Ditson and Co., undated, catalogued [187?]), No. XIV, "What Child is this?", pp. 32 to 33 (images n37, n38), and "Index.: First Series" (image n51); University of California Libraries copy. https://archive.org/details/christmascarolsn00staiiala
+- [^hymnary-wcit]: Hymnary.org, *What child is this, who, laid to rest* (text page, with its tunes, GREENSLEEVES among them). https://hymnary.org/text/what_child_is_this_who_laid_to_rest
 - [^kjv]: *The Holy Bible*, King James Version, Matthew 2:13 to 18 (BibleGateway). https://www.biblegateway.com/passage/?search=Matthew+2%3A13-18&version=KJV
 - [^catholicenc]: Frederick Holweck, "Holy Innocents", *The Catholic Encyclopedia*, vol. 7 (New York: Robert Appleton, 1910); New Advent. https://www.newadvent.org/cathen/07419a.htm
 - [^bcp1928]: *The Book of Common Prayer* (Episcopal Church, 1928), "The Holy Innocents. [December 28.]", collect, epistle and gospel. https://episcopalnet.org/1928bcp/propers/holyinnocents.html

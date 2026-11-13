@@ -136,6 +136,10 @@ Nobody knows the exact year. Its earliest known printing is the first series of 
 
 Nobody knows who made the tune. It is Greensleeves, a traditional English tune known in London by 1580 [^chappell][^balladindex][^pittaway1]. The 1867 book, the earliest known printing of Dix's words, calls it only "Old English" [^mt1867][^bs1867]. Its four-part harmony is unsigned, in a book whose music editor was John Stainer [^bs1867][^ccno-complete].
 
+### What Bible verses is What Child Is This based on?
+
+No single verse: Dix draws on several. The child laid to rest and the shepherds keeping watch are Luke 2:7 to 8; the ox and ass come from Isaiah 1:3; "the Word made Flesh" is John 1:14, with "the Word" from John 1:1; and the gifts of incense, gold and myrrh are the wise men's in Matthew 2:11 [^kjv][^bs1867]. The nails and the spear in the second verse's chorus look ahead to the cross, in John 19:34 and 20:25 [^kjv].
+
 ### Which part sings the tune in our arrangement?
 
 The soprano, singing the Greensleeves tune from Bramley and Stainer's book a whole tone higher, in F-sharp minor [^bs1867]. The alto, tenor and bass sing the words beneath it in new parts on the book's chords: two singers take soprano and alto, three add the bass, and four add the tenor.

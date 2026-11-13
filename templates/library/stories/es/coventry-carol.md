@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: coventry carol significado | coventry carol historia | coventry carol letra en español | quién escribió el coventry carol | lully lullay significado | villancico de coventry
-translatedFrom: 09081382245b
+translatedFrom: 7a7a592090e5
 ---
 
 El Coventry Carol, conocido también por su primer verso, Lully, Lulla, Thou Little Tiny Child, es la canción que cantan las madres de Belén en el Pageant of the Shearmen and Tailors (la obra de los tundidores y los sastres), una obra de la Natividad que un gremio de Coventry representaba sobre un carro por las calles de la ciudad en la fiesta del Corpus Christi [^sharp1825][^king1997][^hone1823]. La cantan para calmar a sus bebés mientras los soldados del rey Herodes vienen a matarlos: la matanza de los inocentes que cuenta el Evangelio de Mateo [^kjv][^craig1902]. Su letra y su música a tres voces se conocen solo por una copia fechada el 13 de mayo de 1591, que Thomas Sharp imprimió, con música y todo, en 1825. El manuscrito de la obra, que era de Sharp, se quemó en 1879, y sus páginas impresas son hoy la única fuente [^sharp1825][^craig1902].
@@ -145,6 +145,10 @@ Nada por sí solo: son sonidos para dormir a un bebé, relacionados con "lull" (
 
 El arreglo de 1591 tiene tres: voz superior, tenor y bajo, con la melodía en la voz superior [^sharp1825][^king1997]. Las versiones a cuatro voces llegaron después, de editores como los de The English Carol Book [^ecb1923]. El nuestro conserva las tres voces de 1591 y añade un tenor, así que pueden cantarlo dos, tres o cuatro personas.
 
+### ¿Es el Coventry Carol lo mismo que What Child Is This?
+
+No. El Coventry Carol es la canción de cuna de las madres en la obra de la Natividad de Coventry, conocida solo por una copia fechada en 1591, que Thomas Sharp imprimió en 1825 con su propia música a tres voces [^sharp1825][^craig1902]. What Child Is This? es el villancico de William Chatterton Dix, cuya primera impresión conocida es un libro de villancicos de Londres de 1867, con un aire "Old English" (inglés antiguo), la melodía de Greensleeves [^bs1867][^hymnary-wcit]. Las dos son canciones navideñas inglesas en tono menor, pero no comparten ni la letra ni la melodía.
+
 ## Canta después
 
 - [Riu, Riu, Chiu](/songs/riu-riu-chiu): una canción de Navidad del mismo siglo, impresa en Venecia en 1556 a cuatro voces.
@@ -162,6 +166,8 @@ El arreglo de 1591 tiene tres: voz superior, tenor y bajo, con la melodía en la
 - [^sandys1833]: William Sandys, *Christmas Carols, Ancient and Modern* (Londres: Richard Beckley, 1833), introducción, "Song II. (By the Women.)"; ejemplar de las University of California Libraries, Internet Archive. https://archive.org/details/christmascarolsa00sandrich
 - [^humphreys1900]: Frank Landon Humphreys (selección), *Christmas Carols* (Novello, Ewer and Co., copyright 1900), "The Coventry Carol", p. 41; Internet Archive. https://archive.org/details/christmascarols00humpgoog/page/n45
 - [^ecb1923]: Martin Shaw y Percy Dearmer (eds.), *The English Carol Book, Second Series* (Londres: A. R. Mowbray, impresión de 1923), n.º 38, "Coventry Carol", p. 83; ejemplar de la University of Toronto, Internet Archive. https://archive.org/details/englishcarolbook00dear/page/n18
+- [^bs1867]: H. R. Bramley y John Stainer, *Christmas Carols New and Old*, primera serie (Londres: Novello, Ewer and Co.; Boston, Nueva York y Filadelfia: Ditson and Co., sin fecha, catalogado [187?]), n.º XIV, "What Child is this?", pp. 32 a 33 (imágenes n37, n38), e "Index.: First Series" (imagen n51); ejemplar de las University of California Libraries. https://archive.org/details/christmascarolsn00staiiala
+- [^hymnary-wcit]: Hymnary.org, *What child is this, who, laid to rest* (página del texto, con sus melodías, entre ellas GREENSLEEVES). https://hymnary.org/text/what_child_is_this_who_laid_to_rest
 - [^kjv]: *The Holy Bible*, versión King James, Mateo 2:13 a 18 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Matthew+2%3A13-18&version=KJV
 - [^catholicenc]: Frederick Holweck, "Holy Innocents", *The Catholic Encyclopedia*, vol. 7 (Nueva York: Robert Appleton, 1910); New Advent. https://www.newadvent.org/cathen/07419a.htm
 - [^bcp1928]: *The Book of Common Prayer* (Episcopal Church, 1928), "The Holy Innocents. [December 28.]", colecta, epístola y evangelio. https://episcopalnet.org/1928bcp/propers/holyinnocents.html

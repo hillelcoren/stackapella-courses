@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público | cascabel villancico origen | navidad navidad hoy es navidad origen
-translatedFrom: cb4f181fd97f
+translatedFrom: 9bcdb0b7cf6d
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 listen: National Jukebox, grabación de 1916, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-18721-favorite-college-songs || National Jukebox, grabación de 1922, instrumental, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-43957-hortense
 ---
@@ -212,6 +212,10 @@ Sí, en sus comienzos. Su primera interpretación conocida fue la de Johnny Pell
 ### ¿Jingle Bells es de dominio público?
 
 Sí. Pierpont publicó la letra y la música en 1857 y murió en 1893 [^ditson1857][^historycom]. En Estados Unidos, las obras publicadas antes de 1931 son de dominio público [^cornell]. Un arreglo o una grabación más recientes pueden seguir protegidos por derechos de autor, pero la canción en sí se puede cantar, imprimir y arreglar libremente.
+
+### ¿Fue Jingle Bells la primera canción tocada en el espacio?
+
+Según la NASA y el Smithsonian, sí. El 16 de diciembre de 1965 la tripulación de la Gemini 6 la tocó en órbita, Wally Schirra en una pequeña armónica Hohner y Tom Stafford con unos cascabeles pequeños [^nasm-story][^nasa]. El National Air and Space Museum del Smithsonian lo llama "the first musical interlude from space" (el primer interludio musical desde el espacio), y la NASA llama a la armónica y los cascabeles "the first musical instruments played in outer space" (los primeros instrumentos musicales tocados en el espacio exterior) [^nasm-story][^nasa]. Los dos instrumentos están en la colección del museo [^nasm-harmonica].
 
 ### ¿Qué voz canta la melodía?
 

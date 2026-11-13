@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 40afa246d832
+translatedFrom: 19c26040c978
 original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
@@ -144,6 +144,10 @@ En Lucas 2:7, donde María acuesta a su hijo primogénito en un pesebre "because
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Kirkpatrick, desde un Re grave hasta el Mi una novena más arriba. Con dos cantantes tienes la melodía y la contralto, que es la propia segunda voz de Kirkpatrick, tal como la imprimió, "Solo or Duet" [^jp1908]. Con tres, añade el bajo; el tenor completa las cuatro.
+
+### ¿Es Away in a Manger de dominio público?
+
+El villancico en sí es antiguo. Su letra es anónima: las dos primeras estrofas ya estaban impresas en 1882 y la tercera en 1892 [^cynosure1882][^gabriel1892][^hymnarchive]. James R. Murray, que imprimió su melodía en 1887, murió en 1905, y William J. Kirkpatrick, cuya melodía de 1895 cantamos, murió en 1921 [^murray1887][^phh-tunes][^hymnarchive][^kirk1895][^hymnary-kirkpatrick]. Nuestro arreglo es nuestro: la melodía y la segunda voz de Kirkpatrick tomadas de un himnario de 1920, la segunda voz con pequeños cambios, con un tenor y un bajo que escribimos sobre su armonía [^hutchins1920].
 
 ## Canta después
 

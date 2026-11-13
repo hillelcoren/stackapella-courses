@@ -164,6 +164,10 @@ Yes, at its beginning. Its first known performance was by Johnny Pell, a white p
 
 Yes. Pierpont published the words and music in 1857 and died in 1893 [^ditson1857][^historycom]. In the United States, works published before 1931 are in the public domain [^cornell]. A newer arrangement or recording can still be under copyright, but the song itself is free to sing, print and arrange.
 
+### Was Jingle Bells the first song played in space?
+
+By NASA's and the Smithsonian's accounts, yes. On 16 December 1965 the Gemini 6 crew played it in orbit, Wally Schirra on a small Hohner harmonica and Tom Stafford on small bells [^nasm-story][^nasa]. The Smithsonian's National Air and Space Museum calls it "the first musical interlude from space", and NASA calls the harmonica and bells "the first musical instruments played in outer space" [^nasm-story][^nasa]. Both instruments are in the museum's collection [^nasm-harmonica].
+
 ### Which part sings the tune?
 
 The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, mostly a sixth below it; with three, add the bass, trotting on "dm" in the verse and ringing "jing" in the chorus; the tenor, mostly on G, makes four.

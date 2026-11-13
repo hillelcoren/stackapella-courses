@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: good king wenceslas historia | good king wenceslas significado | good king wenceslas letra significado | quién escribió good king wenceslas | villancico del rey wenceslao | san wenceslao villancico
-translatedFrom: ef0781560e50
+translatedFrom: c76332027312
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), HathiTrust | https://catalog.hathitrust.org/Record/011630024
 listen: UCSB Cylinder Audio Archive, grabación de 1921, instrumental, con campanas de iglesia, un popurrí que incluye Good King Wenceslas | https://www.library.ucsb.edu/OBJID/Cylinder12124
 ---
@@ -232,6 +232,14 @@ Es una leyenda sobre la caridad. En la fiesta de San Esteban, un rey ve a un pob
 
 John Mason Neale, un sacerdote y autor de himnos inglés que vivió de 1818 a 1866, escribió la letra. Se conoce por primera vez por Carols for Christmas-tide, que hizo con Thomas Helmore en 1853 [^julian][^neale1853][^hymnarchive][^cvp1854]. Había contado la misma historia en prosa en Deeds of Faith, cuyo prefacio está fechado en 1849, y no le nombró ninguna fuente [^deeds].
 
+### ¿Por qué Good King Wenceslas es un villancico de Navidad?
+
+Por su día, no por su historia. Nunca menciona el nacimiento de Jesús: transcurre en la fiesta de San Esteban, el 26 de diciembre, el día después de Navidad, y Neale lo escribió para Carols for Christmas-tide, el libro que hizo con Thomas Helmore en 1853 [^ce-stephen][^neale1853][^cvp1854]. En su cuento en prosa de 1849, el camino ocurre en Adviento; para el villancico lo trasladó a la fiesta de San Esteban [^deeds][^hymnarchive]. Su última estrofa da a estas fiestas su lección: los cristianos con riquezas que bendicen a los pobres serán bendecidos ellos mismos [^neale1853].
+
+### ¿Cómo se pronuncia Wenceslas?
+
+En inglés, más o menos "UÉN-sis-les", con el acento en la primera sílaba; los diccionarios estadounidenses dan también "UÉN-sis-los", para la grafía Wenceslaus [^dictcom]. El villancico canta las tres sílabas: "Good King Wen-ces-las looked out" [^neale1853]. En checo se llama Václav, y se dice "VÁTS-laf": se acentúa la primera sílaba, la á es larga, la c suena "ts" y la v al final de palabra suena "f" [^dictcom][^muni].
+
 ### ¿Quién escribió la música de Good King Wenceslas?
 
 Nadie lo sabe. La melodía es Tempus adest floridum, una canción latina de primavera cuya primera impresión conocida es Piae Cantiones, un cancionero de la iglesia y las escuelas de Suecia y Finlandia impreso en Greifswald en 1582 [^pc1582][^hymnarchive][^canterbury-tempus]. Thomas Helmore la armonizó para la letra de Neale en 1853 [^neale1853][^hymnarchive].
@@ -265,6 +273,8 @@ Nadie lo sabe. La melodía es Tempus adest floridum, una canción latina de prim
 - [^radio2017]: Daniela Lazarová, "Popular British carol sings the praises of St. Václav", Radio Prague International (22 de diciembre de 2017). https://english.radio.cz/node/8173346
 - [^radio2026]: Vít Pohanka y Rob Cameron, "Blood in Bohemia: the killing of Saint Wenceslas and the birth of a legend", Radio Prague International (2 de mayo de 2026), basado en el Instituto de Historia de la Academia de Ciencias de la República Checa. https://english.radio.cz/blood-bohemia-killing-saint-wenceslas-and-birth-a-legend-8883296
 - [^czechtourism]: CzechTourism, "Public holidays" (28 de septiembre, Día de la Estatalidad Checa). https://www.visitczechia.com/en-us/news/2022/01/n-public-holidays
+- [^dictcom]: Dictionary.com, "Wenceslaus", variante "Wenceslas": la entrada estadounidense de Dictionary.com Unabridged, [wen-sis-laws], y la británica de Collins English Dictionary, /ˈwɛnsɪsləs/; y "Havel", entrada de Collins, "Václav (ˈvʌtslav)". https://www.dictionary.com/browse/wenceslaus
+- [^muni]: Martin Josef Páč, *Pronunciation* (Centro de Idiomas de la Universidad Masaryk, Brno, 2022), "Speech Sounds", "Consonant Devoicing" ("Václav [Václaf]") y el acento en la primera sílaba. https://www.cjv.muni.cz/media/3402817/pronunciation.docx
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "league", "fence", "rude", "flesh", "dint" y "sod". https://webstersdictionary1828.com/Dictionary/league
 - [^kjv]: *The Holy Bible*, King James Version: Hechos 6:1 a 6 y 7:59 a 60; Lucas 14:13 a 14 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Acts+6%3A1-6%3B+Acts+7%3A59-60%3B+Luke+14%3A13-14&version=KJV
 - [^hymnary]: Hymnary.org, "Good King Wenceslas" (texto): autor, melodía TEMPUS ADEST FLORIDUM, métrica, referencias bíblicas y su biografía de John Mason Neale. https://hymnary.org/text/good_king_wenceslas_looked_out

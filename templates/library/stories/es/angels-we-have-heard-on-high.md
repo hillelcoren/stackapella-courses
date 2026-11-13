@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: angels we have heard on high historia | angels we have heard on high significado | quién escribió angels we have heard on high | angels we have heard on high letra traducida | gloria in excelsis deo significado | les anges dans nos campagnes historia
-translatedFrom: 6127d18a2147
+translatedFrom: 6fb704da2768
 original: The Holy Family Hymns (Londres, 1860), página 12, la versión inglesa de Chadwick | https://archive.org/details/TheHolyFamilyHymns1860/page/n31/mode/1up
 listen: Internet Archive, grabación de 1906, en francés (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-124033-les-anges-dans-nos-campagnes
 ---
@@ -242,7 +242,7 @@ Gloria a Dios en las alturas.
 
 ## Cómo se canta
 
-Se canta en Navidad, y sus primeras impresiones separan el Gloria de la estrofa. En el libro de París de 1842, con la indicación "très doux", muy suave, dos voces agudas cantan la estrofa y el bajo entra solo en el Gloria, que se canta dos veces [^lamb1842]. El libro de Londres de 1860 marca la estrofa como "Solo" y el Gloria como "Chorus", y su prefacio explica cómo: unos pocos cantantes que conocen la melodía cantan la estrofa, y toda la congregación responde [^hfh1860].
+Es un villancico de Navidad, no un canto de Adviento: canta la noche del nacimiento, y su tiempo es la Navidad. Su versión inglesa nació en libros católicos, The Holy Family Hymns de 1860 y The Crown of Jesus de 1862, pero otras iglesias también lo cantan como himno; el Psalter Hymnal de la Christian Reformed Church in North America (Iglesia Cristiana Reformada de Norteamérica) lo imprime con el n.º 347, con la melodía GLORIA [^hfh1860][^crown][^psh]. Su único lazo con el Adviento es el Gloria de la misa, que se omite los domingos de Adviento y vuelve a cantarse en Navidad [^girm][^gloria-ce]. Sus primeras impresiones separan el Gloria de la estrofa. En el libro de París de 1842, con la indicación "très doux", muy suave, dos voces agudas cantan la estrofa y el bajo entra solo en el Gloria, que se canta dos veces [^lamb1842]. El libro de Londres de 1860 marca la estrofa como "Solo" y el Gloria como "Chorus", y su prefacio explica cómo: unos pocos cantantes que conocen la melodía cantan la estrofa, y toda la congregación responde [^hfh1860].
 
 La carrera es la misma en las impresiones de 1842, 1860 y 1916: "Glo" empieza en una nota larga y cae en notas rápidas, cinco por compás, y cada compás empieza un grado más abajo [^lamb1842][^hfh1860][^hutchins]. La melodía francesa termina su segundo y su cuarto verso en La, una tercera por encima de la nota base, Fa; el libro de Boston de 1916, como el de Chope de 1875, baja esos versos al Fa, la forma que imprimen hoy muchos himnarios [^lamb1842][^hutchins][^chope][^ha]. Su Gloria, que se canta una vez, lleva la indicación "Unison. ad lib." [^hutchins].
 
@@ -274,13 +274,13 @@ No se sabe. La primera impresión conocida del villancico francés está en un l
 
 No se sabe. La primera impresión conocida de la melodía, en París en 1842, dice solo "Musique de W. M.", y nadie ha demostrado quién era [^lamb1842][^sommervogel][^ha]. Las armonías a cuatro voces posteriores son de Charles L. Hutchins, en su semanario de Boston The Parish Choir (1891), y de Edward Shippen Barnes, que amplió la armonía de Hutchins para The New Church Hymnal (1937) [^parishchoir1891][^ha][^psh].
 
-### ¿Qué significa Gloria in excelsis Deo?
+### ¿Qué significa Gloria in excelsis Deo, y de qué pasaje de la Biblia viene?
 
-Es latín y significa "gloria a Dios en las alturas". Son las palabras del canto de los ángeles a los pastores la noche del nacimiento de Jesús, en Lucas 2:14, donde siguen: y en la tierra paz a las personas de buena voluntad [^vulgate-org][^vulgate-drbo]. También abren el Gloria, el antiguo himno que se canta en la misa, al que la tradición católica llama el himno angélico [^gloria-ce][^loomis].
+Es latín y significa "gloria a Dios en las alturas", el canto de los ángeles a los pastores la noche del nacimiento de Jesús, en Lucas 2:14, donde siguen: y en la tierra paz a las personas de buena voluntad [^vulgate-org][^vulgate-drbo]. El villancico vuelve a contar Lucas 2:8 a 15, la noticia del ángel y el niño en el pesebre, con ese canto como estribillo [^psh][^vulgate-org]. Las mismas palabras abren el Gloria, el antiguo himno que se canta en la misa, al que la tradición católica llama el himno angélico [^gloria-ce][^loomis].
 
-### ¿En qué pasaje de la Biblia se basa Angels We Have Heard on High?
+### ¿Es Angels We Have Heard on High de dominio público?
 
-Vuelve a contar Lucas 2:8 a 15, donde un ángel se aparece a unos pastores cerca de Belén y les dice que encontrarán al niño acostado en un pesebre, y una multitud de ángeles canta gloria a Dios en las alturas [^psh][^vulgate-org]. El estribillo es ese canto de Lucas 2:14, en latín [^vulgate-org][^vulgate-drbo].
+El villancico en sí es antiguo. Su letra francesa y su melodía son anónimas, impresas ya en 1805 y 1842 [^roche1805][^lamb1842]. James Chadwick, que escribió la versión inglesa en 1860, murió en 1882, y Charles L. Hutchins, de cuya página de 1916 está tomado nuestro arreglo, murió en 1920 [^hfh1860][^julian-chadwick][^ha][^hutchins]. La armonía de Edward Shippen Barnes de 1937, impresa en muchos himnarios, es una obra posterior propia y no es la que cantamos [^ha][^canterbury-barnes]. Nuestro arreglo es nuestro: la soprano canta la melodía de 1916, y la contralto, el tenor y el bajo son voces nuestras.
 
 ### ¿Qué voz canta la melodía?
 
@@ -310,7 +310,7 @@ La soprano. En nuestro arreglo canta la melodía tal como la imprimió Carols Ol
 - [^parishchoir1891]: Charles L. Hutchins (ed.), *The Parish Choir*, n.º 543 (Boston, 11 de noviembre de 1891), villancico 181, "Angels we have heard", Old French Carol, p. 2197, "Copyright, 1891, by C. L. Hutchins"; página reproducida como fig. 10 en Hymnology Archive. https://www.hymnologyarchive.com/angels-we-have-heard-on-high
 - [^hutchins]: Charles L. Hutchins (ed.), *Carols Old and Carols New, for Use at Christmas and Other Seasons of the Christian Year* (Boston: The Parish Choir, 1916), villancico 181, "Angels we have heard", Old French Carol, p. 157, al pie "Parish Choir, No. 543-4"; ejemplar de la Princeton Theological Seminary Library, imagen n182. https://archive.org/details/carolsoldcarolsn00huth/page/n182/mode/1up
 - [^chope]: R. R. Chope (ed.), *Carols for Use in Church during Christmas and Epiphany* (Londres: Metzler and Co., 1875), villancico 68, "When the crimson sun had set", p. 139, e índice de primeros versos ("Rev. Geo. Peirce Grantham"); ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/carolnch00chop
-- [^psh]: *Psalter Hymnal Handbook*, sobre el *Psalter Hymnal* (1987), n.º 347, "Angels We Have Heard on High", melodía GLORIA, armonización de Edward S. Barnes, en Hymnary.org. https://hymnary.org/hymn/PsH/347
+- [^psh]: *Psalter Hymnal Handbook*, sobre el *Psalter Hymnal* (1987), n.º 347, "Angels We Have Heard on High", melodía GLORIA, armonización de Edward S. Barnes, en Hymnary.org. https://hymnary.org/hymn/PsH/347 ; y la página del himnario allí (Grand Rapids: CRC Publications, para la Christian Reformed Church in North America). https://hymnary.org/hymnal/PsH
 - [^hymnary]: Hymnary.org, "Angels we have heard on high" (texto), métrica 7.7.7.7 con estribillo, y sus melodías GLORIA e IRIS. https://hymnary.org/text/angels_we_have_heard_on_high
 - [^canterbury-barnes]: *The Canterbury Dictionary of Hymnology*, "Edward Shippen Barnes" (Canterbury Press, 2013), extracto de libre acceso. https://hymnology.hymnsam.co.uk/e/edward-shippen-barnes
 - [^gloria-ce]: Adrian Fortescue, "Gloria in Excelsis Deo", *The Catholic Encyclopedia*, vol. 6 (Nueva York: Robert Appleton Company, 1909). https://www.newadvent.org/cathen/06583a.htm
