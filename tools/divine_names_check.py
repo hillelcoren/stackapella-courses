@@ -19,6 +19,10 @@ LIB = os.path.join(ROOT, 'templates/library')
 # Full forms in transliteration, any language. Capitalised, whole words.
 TRANSLIT = re.compile(r"\b(Elohim|Elohei|Eloheinu|Elohenu|Elohai|Elohecha|Elohekha|Eloha|Adonai|Adonoy|Adonay|"
                       r"Shaddai|Shadai|Yahweh|Yahveh|Jehovah|Jehová|YHWH|Tzevaot|Tzeva'ot|Tsevaot|Sabaoth)\b")
+# A name split off by an apostrophe or hyphen, in any case ("Ke'eloheinu", "Ke-Elohenu"). The hymn title's fused
+# spellings (Ein Keloheinu, En Kelohenu, Ayn Kaylohaynu) are its name and stay (Hillel, 2026-11-11; lead, 2026-11-13).
+SPLIT = re.compile(r"['\u2019-](?:[Ee]loh(?:im|ei|einu|enu|ai|echa|ekha|a)|[Aa]donai|[Ss]hadd?ai)\b")
+URL = re.compile(r"https?://\S+")
 # "El" and "Eli" as the name. In English text anywhere; in Spanish only mid-sentence (after a lowercase word or a
 # comma), since a capital "El" opening a sentence is the article (backend's rule, 2026-11-13).
 EL = re.compile(r"\b(El|Eli)\b")
@@ -33,7 +37,9 @@ HEB_EL = re.compile('(?<![א-ת֑-ׇ])א[֑-֯]*ֵ[֑-֯]*ל[֑-֯]*(ִ[֑-֯]*�
 
 
 def hits(text, english):
+    text = URL.sub('', text)
     found = [m.group(0) for m in TRANSLIT.finditer(text)]
+    found += [m.group(0) for m in SPLIT.finditer(text)]
     for m in (EL if english else EL_ES).finditer(text):
         if not any(a in text[max(0, m.start() - 12):m.end() + 12] for a in EL_ALLOWED):
             found.append(m.group(1))
