@@ -145,8 +145,8 @@ Our arrangement reads the verse and chorus from Heart Songs of 1909, set by Stac
 
 ## Singing it
 
-- [Soprano](/songs/jingle-bells/soprano): the tune. Four times in the verse the tune leaps a sixth, low D up to B, on "Dash-ing", "one-horse", "Bells on" and "Mak-ing"; land it cleanly. The top E comes once, on "sleigh-" in "A sleighing song tonight". In the chorus every "Jingle bells" sits on one B: keep those repeated notes light and on pitch, not sinking.
-- [Alto](/songs/jingle-bells/alto): the words, mostly a sixth under the tune, mostly on D and B. Every "Jingle bells" is on D under the tune's B. Your top note is F-sharp, held through "Laughing all the" and repeated through "ride and sing a sleighing": keep it bright and in tune.
+- [Soprano](/songs/jingle-bells/soprano): the tune. The verse leaps up a sixth again and again: low D to B on "Dash-ing", "one-horse", "Bells on" and "Mak-ing", and E to C on "O'er the" and "fun it"; land each one cleanly. The top E comes once, on "sleigh-" in "A sleighing song tonight". In the chorus every "Jingle bells" sits on one B: keep those repeated notes light and on pitch, not sinking.
+- [Alto](/songs/jingle-bells/alto): the words, mostly a sixth under the tune, mostly on D and B. Every "Jingle bells" is on D under the tune's B. Your top note is F-sharp, held through "Laughing all the", repeated through "ride and sing a sleighing" and sung again in the chorus on the first "sleigh!" and the last "one-horse": keep it bright and in tune.
 - [Tenor](/songs/jingle-bells/tenor): mostly on G. The changes are few: A from "O'er the fields we go" to "Laughing all the", C on "ride and sing a", A on "sleighing", and down to F-sharp on "song to-". The chorus stays on G until the end of each half: B and A on "pen sleigh" the first time; A, then F-sharp, then home to G the last.
 - [Bass](/songs/jingle-bells/bass): the horse and the bells. A short low "dm" on every other beat through the verse, like hooves, then a ringing "jing" through the chorus, mostly on G, D and C. Keep it steady, and hold the last "jing" on low G for a full bar.
 

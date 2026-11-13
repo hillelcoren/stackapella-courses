@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing | oíd un son en alta esfera
-translatedFrom: 6e61e177ceb0
+translatedFrom: c88f6df85c34
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661398/ || National Jukebox, grabación de 1911 | https://www.loc.gov/item/jukebox-130938/
 original: Hymns and Sacred Poems (1739, segunda edición), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
 ---
@@ -200,10 +200,10 @@ Nuestro arreglo toma las cuatro voces de la edición estándar de 1875 del himna
 
 ## Cómo cantarla
 
-- [Soprano](/songs/hark-the-herald/soprano): la melodía de Mendelssohn, desde el Re grave del "Hark!" inicial hasta el Mi agudo de "With th'angelic" y del "Hark! the herald" del estribillo. Sus Re agudos repetidos en "Glory to", "Joyful, all" y "Join the tri-" deben ser ligeros.
-- [Contralto](/songs/hark-the-herald/alto): empieza en el Re de la melodía y lo sostiene durante "Hark! the herald an-" mientras la melodía sube, y luego canta casi siempre una tercera o una sexta por debajo. Afina las notas alteradas: Do sostenido en "reconciled", Sol sostenido en "proclaim" y en el "angels" del estribillo. El último "King" baja a un Si grave, su nota más grave.
-- [Tenor](/songs/hark-the-herald/tenor): el centro del acorde, casi siempre en Re, Si y Mi. Sostiene un La en "Joyful, all" y "Join the tri-" debajo del Re agudo de la melodía, y sostiene su Mi más agudo durante "With th'angelic host" y el "Hark! the herald an-" del estribillo: mantenlo firme mientras las demás voces se mueven.
-- [Bajo](/songs/hark-the-herald/bass): la línea del bajo, desde el Sol grave del comienzo. Sostiene un Re debajo de "Joyful, all" y "Join the", luego un Do debajo de "With th'angelic host" antes de subir por Mi hasta La en "proclaim"; el estribillo hace la misma subida en "angels sing". El último "King" es el Sol agudo, una octava por encima de donde empezó.
+- [Soprano](/songs/hark-the-herald/soprano): la melodía de Mendelssohn, desde el Re grave del "Hark!" inicial hasta el Mi agudo de las tres primeras sílabas de "With th'angelic" y del "Hark! the herald" del estribillo. Sus Re agudos repetidos en "Glory to", "Joyful, all" y "Join the tri-" deben ser ligeros.
+- [Contralto](/songs/hark-the-herald/alto): empieza en el Re de la melodía y lo sostiene durante "Hark! the herald an-" mientras la melodía sube, y luego canta sobre todo una tercera o una sexta por debajo. Afina las notas alteradas: Do sostenido en el "con" de "reconciled", Sol sostenido en el "pro-" de "proclaim" y en el "gels" del "angels" del estribillo. El último "King" baja a un Si grave, su nota más grave.
+- [Tenor](/songs/hark-the-herald/tenor): el centro del acorde, sobre todo en Re, Si y Mi. Sostiene un La en "Joyful, all" y "Join the tri-" debajo del Re agudo de la melodía, y sostiene su Mi más agudo durante "With th'angelic host" y el "Hark! the herald an-" del estribillo: mantenlo firme mientras las demás voces se mueven.
+- [Bajo](/songs/hark-the-herald/bass): la línea del bajo, desde el Sol grave del comienzo. Sostiene un Re debajo de "Joyful, all" y "Join the tri-", luego un Do debajo de "With th'angelic host" antes de subir por Mi hasta La en "proclaim"; el estribillo hace la misma subida en "angels sing". El último "King" es el Sol agudo, una octava por encima de donde empezó.
 
 ## Preguntas
 
@@ -225,7 +225,7 @@ El nuestro no: nuestro arreglo canta las cuatro voces del Hymns Ancient and Mode
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro. La melodía va desde el Re grave del "Hark!" inicial hasta el Mi agudo de "With th'angelic" y del "Hark! the herald" del estribillo.
+En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro. La melodía va desde el Re grave del "Hark!" inicial hasta el Mi agudo de las tres primeras sílabas de "With th'angelic" y del "Hark! the herald" del estribillo.
 
 ## Canta después
 

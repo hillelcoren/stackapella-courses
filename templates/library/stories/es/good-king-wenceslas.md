@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: good king wenceslas historia | good king wenceslas significado | good king wenceslas letra significado | quién escribió good king wenceslas | villancico del rey wenceslao | san wenceslao villancico
-translatedFrom: c76332027312
+translatedFrom: 2b417b419699
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), HathiTrust | https://catalog.hathitrust.org/Record/011630024
 listen: UCSB Cylinder Audio Archive, grabación de 1921, instrumental, con campanas de iglesia, un popurrí que incluye Good King Wenceslas | https://www.library.ucsb.edu/OBJID/Cylinder12124
 ---
@@ -218,7 +218,7 @@ Nuestro arreglo toma la melodía y las estrofas 1, 4 y 5 del n.º XI de The Cond
 ## Cómo cantarla
 
 - [Soprano](/songs/good-king-wenceslas/soprano): la melodía, con más frecuencia en el La, desde el Mi grave hasta el Mi agudo. El quinto y el último verso de cada estrofa empiezan en ese Mi agudo ("Brightly", "Gath'ring") y bajan por grados conjuntos, y en el "fu-" de "fuel." sube del La al Re antes de asentarse en el La hasta el final.
-- [Contralto](/songs/good-king-wenceslas/alto): sobre todo una sexta por debajo de la melodía, con más frecuencia en el Do sostenido; baja a su Sol sostenido grave solo al final del primer y el tercer verso de cada estrofa ("out," y "about,") y sube a su La agudo solo en "moon", "good" y "men,". Después de "sight,", toma aire y empieza el último verso abajo, en Do sostenido, y luego salta al Fa sostenido en "ring".
+- [Contralto](/songs/good-king-wenceslas/alto): sobre todo una sexta por debajo de la melodía, con más frecuencia en el Do sostenido; baja a su Sol sostenido grave solo al final del primer y el tercer verso de cada estrofa ("out," y el "bout," de "about,") y sube a su La agudo solo en "moon", "good" y "men,". Después de "sight,", toma aire y empieza el último verso abajo, en Do sostenido, y luego salta al Fa sostenido en "ring".
 - [Tenor](/songs/good-king-wenceslas/tenor): el centro del acorde, con más frecuencia en su Mi grave, luego en el La. Los cuatro primeros versos de cada estrofa se quedan sobre todo en ese Mi grave; el quinto y el séptimo suben a su Mi agudo, en "that" y "sight," en la estrofa 1.
 - [Bajo](/songs/good-king-wenceslas/bass): la línea del bajo, con más frecuencia en el La; baja a su Fa sostenido grave en la tercera nota del primer y el tercer verso de cada estrofa ("Wen-", "snow") y sube a su La agudo solo en "moon", "good" y "men,", una octava por debajo de la contralto. Bajo el "fuel." del último verso se queda en el La hasta el final.
 

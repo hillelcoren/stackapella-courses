@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: deck the halls historia | deck the halls significado | quién escribió deck the halls | deck the halls letra en español | deck the halls origen | deck the halls gay apparel significado
-translatedFrom: 6f2c4f0e53b4
+translatedFrom: 45f90d441d00
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
@@ -183,7 +183,7 @@ sin hacer caso del viento ni del tiempo.
 
 Se canta en Navidad, y su última estrofa es de la víspera de Año Nuevo, la noche que significa su nombre galés [^hullah1866][^jones1794]. La página de Hullah de 1866 dice "Repeat in Chorus" (repetir en coro) [^hullah1866].
 
-Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, todas las voces con la letra. Hemos cambiado once notas para que el dúo conserve sus terceras, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
+Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, todas las voces con la letra. Hemos cambiado once notas para que el dúo tenga sus terceras en la mayoría de los tiempos, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
 
 ## ¿Sabías que...?
 
@@ -192,8 +192,8 @@ Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 6
 
 ## Cómo cantarla
 
-- [Soprano](/songs/deck-the-halls/soprano): llevas la melodía galesa. "Deck the halls with boughs" baja por la escala de Si bemol a Mi bemol, y el "fa la la" que cierra el primer, el segundo y el último verso baja a un Re grave antes de asentarse. En el "fa la la" que sube por el medio llegas a tu Mi bemol agudo en el último "la"; apunta a esa nota.
-- [Contralto](/songs/deck-the-halls/alto): cantas la letra una tercera por debajo de la melodía durante casi toda la estrofa, sobre todo en Mi bemol y Re. En el "fa la la" que sube sostienes un Sol mientras la melodía asciende, y luego la sigues hacia abajo una sexta por debajo. Terminas el primer y el último verso en un Sol grave.
+- [Soprano](/songs/deck-the-halls/soprano): llevas la melodía galesa. "Deck the halls with boughs" baja por la escala de Si bemol a Mi bemol, y el "fa la la" que cierra el primer, el segundo y el último verso baja a un Re grave antes de asentarse. En el "fa la la" que sube por el medio llegas a tu Mi bemol agudo en la cuarta sílaba, donde la melodía vuelve a bajar; apunta a esa nota.
+- [Contralto](/songs/deck-the-halls/alto): cantas la letra una tercera por debajo de la melodía durante la mayor parte de la estrofa, sobre todo en Mi bemol y Re. En el "fa la la" que sube sostienes un Sol mientras la melodía asciende, y luego la sigues hacia abajo una sexta por debajo. Terminas el primer y el último verso en un Sol grave.
 - [Tenor](/songs/deck-the-halls/tenor): sostienes el centro del acorde, sobre todo en Si bemol. Al final del primer y del último verso bajas La bemol, Sol, Fa hasta un Mi bemol grave. En el "fa la la" del medio, cuando la melodía vuelve a bajar, una nota es un La becuadro; búscala en el reproductor.
 - [Bajo](/songs/deck-the-halls/bass): cantas la línea del bajo, sobre todo Mi bemol y Si bemol, las fundamentales del acorde de tónica y del que lleva de vuelta a él. En el "fa la la" que cierra el primer, el segundo y el último verso bajas una nota rápida a un La bemol grave, tu nota más grave.
 
@@ -217,7 +217,7 @@ Thomas Oliphant escribió su letra inglesa en 1862 para dar letra en inglés a u
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, una tercera por debajo durante casi toda la estrofa; con tres, se suma el bajo; el tenor completa las cuatro. La nota más aguda de la melodía, un Mi bemol agudo, llega en el último "la" del "fa la la" que sube por el medio.
+En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, una tercera por debajo durante la mayor parte de la estrofa; con tres, se suma el bajo; el tenor completa las cuatro. La nota más aguda de la melodía, un Mi bemol agudo, llega en la cuarta sílaba del "fa la la" que sube por el medio, donde la melodía vuelve a bajar.
 
 ## Canta después
 

@@ -144,7 +144,7 @@ All other doth deface.
 
 The New Oxford Book of Carols calls it a "luck-visit song", one sung by visitors at a house [^canterbury]. Its tune is GOD REST YOU MERRY. Hymnary.org gives its meter as 8.6.8.6.8.6 with refrain; The Hymnal 1982, No. 105, gives 7.6.7.6.8.6 with refrain [^hymnary-tune][^h82].
 
-Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s, in E minor as printed [^bramley]. We sing the first verse and its refrain. Where Stainer slurs two notes on one syllable in the lower parts, we sing one held note, in 17 places. Nine notes are changed: more thirds between the soprano and alto, no wide leaps in the bass and inner parts, and a tenor that moves mostly by step. Breaths are written in. On "O tidings of comfort and joy" the harmony turns toward G major, and the last "joy" comes home to E minor.
+Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s, in E minor as printed [^bramley]. We sing the first verse and its refrain. Where Stainer slurs two notes on one syllable in the lower parts, we sing one held note, in 17 places. Nine notes are changed, for more thirds between the soprano and alto and no wide leaps in the bass and inner parts. Breaths are written in. On "O tidings of comfort and joy" the harmony turns toward G major, and the last "joy" comes home to E minor.
 
 ## Versions and other words
 
@@ -156,10 +156,10 @@ Our arrangement reads Stainer's four parts for No. 1 in a printing of the 1870s,
 
 ## Singing it
 
-- [Soprano](/songs/god-rest-ye/soprano): the tune. It opens on two Es and leaps up to B on "you"; land the B cleanly. It reaches its low D on "Let" and "Was" and its top E on "Satan's" and on "of" in the last "O tidings of comfort and joy". The quick "comfort" in the middle of the refrain is two short notes, G and F-sharp.
-- [Alto](/songs/god-rest-ye/alto): starts and ends on the tune's E. In the first line it sings D-sharp on "merry", then D natural on "gentle-" two beats later: two different Ds, so solo it in the player. D-sharp, the note that pulls the minor key home to E, comes back under "dismay" and "Christmas Day". On the refrain's quick "comfort" it drops to its lowest note, B, which it also sings on "Let" and "Was".
-- [Tenor](/songs/god-rest-ye/tenor): fills in the middle of the chord, mostly on G and B. "To", at the start of the third line, is a G-sharp, where the first two lines sang G natural. It rises to D on "astray" and on "O tidings" and "comfort" in the last line.
-- [Bass](/songs/god-rest-ye/bass): the bass line, mostly E and B. D-sharp on "mer-" and "Christ" steps down to B, then home to E. The low G first comes on "Let", and the top A on "save".
+- [Soprano](/songs/god-rest-ye/soprano): the tune. It opens on two Es and leaps up to B on "you"; land the B cleanly. It reaches its low D on "Let" and "Was" and its top E on the "tan's" of "Satan's" and on "of" in the last "O tidings of comfort and joy". The quick "comfort" in the middle of the refrain is two short notes, G and F-sharp.
+- [Alto](/songs/god-rest-ye/alto): starts and ends on the tune's E. In the first line it sings D-sharp on the "ry" of "merry", then D natural on the "tle" of "gentlemen" two beats later: two different Ds, so solo it in the player. D-sharp, the note that pulls the minor key home to E, comes back again and again, among them on the "may" of "dismay" and on "Day" in "Christmas Day". On the refrain's quick "comfort" it drops to its lowest note, B, which it also sings on "Let" and "Was".
+- [Tenor](/songs/god-rest-ye/tenor): fills in the middle of the chord, mostly on G and B. "To", at the start of the third line, is a G-sharp, where the first two lines sang G natural. It rises to D on "astray" and on "O tidings" and the "com-" of "comfort" in the last line.
+- [Bass](/songs/god-rest-ye/bass): the bass line, mostly E and B. D-sharp on "mer-" and "Christ" drops a third to B, then goes home to E. The low G first comes on "Let", and the top A on "save".
 
 ## Questions
 
@@ -185,7 +185,7 @@ Yes. Its words and tune are traditional and anonymous, printed on broadsides in 
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; with four, the tenor fills the middle of the chord. The tune runs from the low D on "Let" up to the top E on "Satan's", while the alto stays within a sixth, from B up to G.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto; with three, add the bass; with four, the tenor fills the middle of the chord. The tune runs from the low D on "Let" up to the top E on the "tan's" of "Satan's", while the alto stays within a sixth, from B up to G.
 
 ## Sing next
 

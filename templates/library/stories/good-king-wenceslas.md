@@ -177,7 +177,7 @@ Our arrangement reads the tune and verses 1, 4 and 5 from No. XI of The Condense
 ## Singing it
 
 - [Soprano](/songs/good-king-wenceslas/soprano): the tune, most often on A, from the low E to the top E. Each verse's fifth and last lines start on that top E ("Brightly", "Gath'ring") and come down by step, and on the "fu-" of "fuel." it rises from A to D before settling on A to the end.
-- [Alto](/songs/good-king-wenceslas/alto): mostly a sixth below the tune, most often on C-sharp, down to its low G-sharp only at the end of each verse's first and third lines ("out," and "about,") and up to its top A only on "moon", "good" and "men,". After "sight," take the breath and start the last line low, on C-sharp, then leap up to F-sharp on "ring".
+- [Alto](/songs/good-king-wenceslas/alto): mostly a sixth below the tune, most often on C-sharp, down to its low G-sharp only at the end of each verse's first and third lines ("out," and the "bout," of "about,") and up to its top A only on "moon", "good" and "men,". After "sight," take the breath and start the last line low, on C-sharp, then leap up to F-sharp on "ring".
 - [Tenor](/songs/good-king-wenceslas/tenor): the middle of the chord, most often on its low E, then A. The first four lines of each verse sit mostly on that low E; the fifth and seventh climb to its top E, on "that" and "sight," in verse 1.
 - [Bass](/songs/good-king-wenceslas/bass): the bass line, most often on A, down to its low F-sharp on the third note of each verse's first and third lines ("Wen-", "snow") and up to its top A only on "moon", "good" and "men,", an octave under the alto. Under the last line's "fuel." it stays on A to the end.
 

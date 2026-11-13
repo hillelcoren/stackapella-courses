@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i saw three ships significado | i saw three ships letra | i saw three ships historia | quién escribió i saw three ships | i saw three ships letra en español | i saw three ships villancico
-translatedFrom: 5fbcdd301033
+translatedFrom: 6b4f60d87333
 original: Christmas Carols, Ancient and Modern (1833), p. 112, Internet Archive | https://archive.org/details/christmascarolsa00sandrich/page/112/
 ---
 
@@ -175,9 +175,9 @@ Nuestro arreglo está tomado del n.º 64 de la edición completa de Bramley y St
 ## Cómo cantarla
 
 - [Soprano](/songs/i-saw-three-ships/soprano): la melodía, con más frecuencia en el La, luego en el Sol, y llega a su Re agudo dos veces por estrofa, en el "sail-" de "sailing" en la estrofa 1. Después de cada respiración, la anacrusa ("I", "And", "The", "Then") entra una semicorchea tarde en el Re grave, así que toma aire y llega igualmente al Sol siguiente con las demás voces.
-- [Contralto](/songs/i-saw-three-ships/alto): por debajo de la melodía todo el tiempo, casi siempre una tercera por debajo y, si no, casi siempre una sexta, con más frecuencia en el Fa sostenido. Cada estrofa empieza en su Si grave durante tres notas ("I saw three"), y su Sol agudo llega en el "Christ-" del primer "Christmas" de cada mitad.
-- [Tenor](/songs/i-saw-three-ships/tenor): el centro del acorde, nunca por encima de la contralto, con más frecuencia en el La. Cada estrofa empieza y termina en su Re grave, en las tres primeras notas y en "morning", y sube a su Do agudo en el "mas day" del primer "Christmas day" de cada mitad.
-- [Bajo](/songs/i-saw-three-ships/bass): la línea del bajo, casi todo Sol y Re. Su única nota con sostenido, el Fa sostenido grave, llega solo en el "morn-" del último "morning" de cada estrofa, y sube a Sol en "ing".
+- [Contralto](/songs/i-saw-three-ships/alto): por debajo de la melodía todo el tiempo, sobre todo una tercera por debajo y, si no, casi siempre una sexta, con más frecuencia en el Fa sostenido. Cada estrofa empieza en su Si grave durante tres notas ("I saw three"), y su Sol agudo llega en muchas notas, entre ellas el "Christ-" del primer "Christmas" de cada mitad.
+- [Tenor](/songs/i-saw-three-ships/tenor): el centro del acorde, nunca por encima de la contralto, con más frecuencia en el La. Cada estrofa empieza y termina en su Re grave, en las tres primeras notas y en "morning", y sube a su Do agudo en muchas notas, entre ellas el "mas day" del primer "Christmas day" de cada mitad.
+- [Bajo](/songs/i-saw-three-ships/bass): la línea del bajo, sobre todo Sol y Re. Su única nota con sostenido, el Fa sostenido grave, llega solo en el "morn-" del último "morning" de cada estrofa, y sube a Sol en "ing".
 
 ## Preguntas
 

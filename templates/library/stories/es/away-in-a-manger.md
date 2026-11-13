@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 19c26040c978
+translatedFrom: f2b43cf102cf
 original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
@@ -109,7 +109,7 @@ Desde el principio fue un villancico para niños pequeños: un recitado en 1883,
 
 La melodía de Kirkpatrick es CRADLE SONG y la de Murray es MUELLER, aunque los libros también llaman a cualquiera de las dos AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. Common Praise (1998), de la Iglesia Anglicana de Canadá, y The Irish Presbyterian Hymnbook (2004) imprimen la de Kirkpatrick [^cp1998][^iph2004]. Los libros estadounidenses varían: The United Methodist Hymnal (1989) usa la de Murray, el Hymnal 1982 episcopaliano usa la de Kirkpatrick, y el Psalter Hymnal de la Christian Reformed Church imprime las dos [^umh1989][^eh1982][^phh-tunes].
 
-Nuestro arreglo está tomado de The Church Hymnal Revised, editado por Charles L. Hutchins (Boston, 1920), n.º 643, MANGER, entre sus himnos "For Younger Children" (para los más pequeños), donde la melodía de Kirkpatrick y su segunda voz están impresas en Fa; las cantamos un tono más arriba, en Sol [^hutchins1920]. Allí sus dos voces coinciden con las de su propio Joy and Praise, con el que lo cotejamos [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que se mueva por grados conjuntos. El tenor y el bajo son nuestros, sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
+Nuestro arreglo está tomado de The Church Hymnal Revised, editado por Charles L. Hutchins (Boston, 1920), n.º 643, MANGER, entre sus himnos "For Younger Children" (para los más pequeños), donde la melodía de Kirkpatrick y su segunda voz están impresas en Fa; las cantamos un tono más arriba, en Sol [^hutchins1920]. Allí sus dos voces coinciden con las de su propio Joy and Praise, con el que lo cotejamos [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once de sus notas cambiadas para hacerla más fluida. El tenor y el bajo son nuestros, sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
 
 ## Versiones y otras letras
 
@@ -123,9 +123,9 @@ Las primeras impresiones proponían "Home, Sweet Home" como melodía [^pilgrim18
 ## Cómo cantarla
 
 - [Soprano](/songs/away-in-a-manger/soprano): llevas la melodía de Kirkpatrick, una canción de cuna suave a tres tiempos. El primer y el tercer verso tienen la misma melodía, y cada uno sube a tu Mi más agudo, en "a" de "no crib for a bed" y en "He" de "looked down where He lay".
-- [Contralto](/songs/away-in-a-manger/alto): cantas la segunda voz de Kirkpatrick, casi siempre una sexta o una tercera por debajo de la melodía, casi siempre en Si, Re y Do. Dos momentos piden cuidado: el Do sostenido de "down His sweet", que baja a Do en "head", y el Fa becuadro de "down where" (en "looked down where") antes del Sol de "He". Pon tu voz en solo en el reproductor para oírlos.
-- [Tenor](/songs/away-in-a-manger/tenor): rellenas el centro del acorde, casi siempre en Sol. Todo el primer verso está en Sol hasta "bed", donde bajas a Fa sostenido. Tu nota más aguda, un Do, llega en "lay", al final del tercer verso, y se queda en "The little", que empieza el último.
-- [Bajo](/songs/away-in-a-manger/bass): cantas una línea nuestra, sobre la armonía de Kirkpatrick, casi siempre en Sol y Re. Tu nota más aguda, un Mi, está en "a" de "no crib for a bed", debajo del Mi agudo de la melodía. La más grave, un Fa sostenido grave, está en "Lord", en el último verso.
+- [Contralto](/songs/away-in-a-manger/alto): cantas la segunda voz de Kirkpatrick, sobre todo una sexta o una tercera por debajo de la melodía, sobre todo en Si, Re y Do. Dos momentos piden cuidado: el Do sostenido de "down His sweet", que baja a Do en "head", y el Fa becuadro de "down where" (en "looked down where") antes del Sol de "He". Pon tu voz en solo en el reproductor para oírlos.
+- [Tenor](/songs/away-in-a-manger/tenor): rellenas el centro del acorde, sobre todo en Sol. Todo el primer verso está en Sol hasta "bed", donde bajas a Fa sostenido. Tu nota más aguda, un Do, llega en "lay", al final del tercer verso, y se queda en "The little", que empieza el último.
+- [Bajo](/songs/away-in-a-manger/bass): cantas una línea nuestra, sobre la armonía de Kirkpatrick, sobre todo en Sol y Re. Tu nota más aguda, un Mi, está en "a" de "no crib for a bed", debajo del Mi agudo de la melodía. La más grave, un Fa sostenido grave, está en "Lord", en el último verso.
 
 ## Preguntas
 

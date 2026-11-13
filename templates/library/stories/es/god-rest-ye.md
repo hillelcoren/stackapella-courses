@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: god rest ye merry gentlemen historia | god rest ye merry gentlemen significado | quién escribió god rest ye merry gentlemen | god rest ye merry gentlemen dónde va la coma | god rest ye merry gentlemen letra original
-translatedFrom: d54c8b3beea0
+translatedFrom: fa26fc8660f4
 listen: Internet Archive, grabación de 1917 | https://archive.org/details/edison-50447_01_5677 || Internet Archive, grabación de 1923 | https://archive.org/details/78_god-rest-ye-merry-gentlemen_champion-quartette_gbia0535287a
 original: Four Choice Carols for Christmas Holidays (hacia 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation || Three New Christmas Carols (hacia 1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
 ---
@@ -189,7 +189,7 @@ eclipsa a todas las demás.
 
 The New Oxford Book of Carols lo llama una "luck-visit song", una canción que cantan quienes visitan una casa para desearle suerte [^canterbury]. Su melodía es GOD REST YOU MERRY. Hymnary.org da su métrica como 8.6.8.6.8.6 con estribillo; The Hymnal 1982, n.º 105, da 7.6.7.6.8.6 con estribillo [^hymnary-tune][^h82].
 
-Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresión de la década de 1870, en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo. Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Hay nueve notas cambiadas: más terceras entre la soprano y la contralto, ningún salto amplio en el bajo ni en las voces interiores, y un tenor que se mueve casi siempre por grados conjuntos. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" vuelve a casa, a Mi menor.
+Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresión de la década de 1870, en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo. Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Hay nueve notas cambiadas, para tener más terceras entre la soprano y la contralto y ningún salto amplio en el bajo ni en las voces interiores. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" vuelve a casa, a Mi menor.
 
 ## Versiones y otras letras
 
@@ -201,10 +201,10 @@ Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresió
 
 ## Cómo cantarla
 
-- [Soprano](/songs/god-rest-ye/soprano): la melodía. Empieza con dos Mi y salta a Si en "you"; aterriza en ese Si con limpieza. Llega a su Re grave en "Let" y "Was" y a su Mi agudo en "Satan's" y en "of" del último "O tidings of comfort and joy". El rápido "comfort" en medio del estribillo son dos notas cortas, Sol y Fa sostenido.
-- [Contralto](/songs/god-rest-ye/alto): empieza y termina en el Mi de la melodía. En el primer verso canta Re sostenido en "merry" y luego Re becuadro en "gentle-", dos tiempos después: son dos Re distintos, así que ponla en solo en el reproductor. El Re sostenido, la nota que lleva la tonalidad menor de vuelta a casa, a Mi, vuelve debajo de "dismay" y "Christmas Day". En el rápido "comfort" del estribillo baja a su nota más grave, Si, que también canta en "Let" y "Was".
-- [Tenor](/songs/god-rest-ye/tenor): rellena el centro del acorde, casi siempre en Sol y Si. "To", al comienzo del tercer verso, es un Sol sostenido, donde los dos primeros versos cantaban Sol becuadro. Sube a Re en "astray" y en "O tidings" y "comfort" del último verso.
-- [Bajo](/songs/god-rest-ye/bass): la línea del bajo, casi siempre Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a casa, a Mi. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
+- [Soprano](/songs/god-rest-ye/soprano): la melodía. Empieza con dos Mi y salta a Si en "you"; aterriza en ese Si con limpieza. Llega a su Re grave en "Let" y "Was" y a su Mi agudo en el "tan's" de "Satan's" y en "of" del último "O tidings of comfort and joy". El rápido "comfort" en medio del estribillo son dos notas cortas, Sol y Fa sostenido.
+- [Contralto](/songs/god-rest-ye/alto): empieza y termina en el Mi de la melodía. En el primer verso canta Re sostenido en el "ry" de "merry" y luego Re becuadro en el "tle" de "gentlemen", dos tiempos después: son dos Re distintos, así que ponla en solo en el reproductor. El Re sostenido, la nota que lleva la tonalidad menor de vuelta a casa, a Mi, vuelve una y otra vez, entre otras en el "may" de "dismay" y en el "Day" de "Christmas Day". En el rápido "comfort" del estribillo baja a su nota más grave, Si, que también canta en "Let" y "Was".
+- [Tenor](/songs/god-rest-ye/tenor): rellena el centro del acorde, sobre todo en Sol y Si. "To", al comienzo del tercer verso, es un Sol sostenido, donde los dos primeros versos cantaban Sol becuadro. Sube a Re en "astray" y en "O tidings" y el "com-" de "comfort" del último verso.
+- [Bajo](/songs/god-rest-ye/bass): la línea del bajo, sobre todo Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a casa, a Mi. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
 
 ## Preguntas
 
@@ -230,7 +230,7 @@ Sí. Su letra y su melodía son tradicionales y anónimas, impresas en hojas sue
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro del acorde. La melodía va del Re grave de "Let" al Mi agudo de "Satan's", mientras la contralto se mueve dentro de una sexta, de Si a Sol.
+En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro del acorde. La melodía va del Re grave de "Let" al Mi agudo del "tan's" de "Satan's", mientras la contralto se mueve dentro de una sexta, de Si a Sol.
 
 ## Canta después
 

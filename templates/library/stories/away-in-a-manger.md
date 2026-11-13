@@ -96,7 +96,7 @@ From the start it was a carol for small children: a recitation in 1883, a nurser
 
 Kirkpatrick's tune is CRADLE SONG and Murray's is MUELLER, though books also call either one AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. The Anglican Church of Canada's Common Praise (1998) and The Irish Presbyterian Hymnbook (2004) print Kirkpatrick's [^cp1998][^iph2004]. American books vary: The United Methodist Hymnal (1989) uses Murray's, the Episcopal Hymnal 1982 uses Kirkpatrick's, and the Christian Reformed Church's Psalter Hymnal prints both [^umh1989][^eh1982][^phh-tunes].
 
-Our arrangement is read from The Church Hymnal Revised, edited by Charles L. Hutchins (Boston, 1920), No. 643, MANGER, among its hymns "For Younger Children", where Kirkpatrick's tune and second voice are printed in F; we sing them a whole tone higher, in G [^hutchins1920]. His two voices there match his own Joy and Praise, our check [^jp1908]. The soprano sings his tune and the alto his second voice, with eleven notes changed so it moves by step. The tenor and bass are ours, on his harmony. We sing the first verse for 2 to 4 singers, slow and gentle.
+Our arrangement is read from The Church Hymnal Revised, edited by Charles L. Hutchins (Boston, 1920), No. 643, MANGER, among its hymns "For Younger Children", where Kirkpatrick's tune and second voice are printed in F; we sing them a whole tone higher, in G [^hutchins1920]. His two voices there match his own Joy and Praise, our check [^jp1908]. The soprano sings his tune and the alto his second voice, with eleven of its notes changed to make it smoother. The tenor and bass are ours, on his harmony. We sing the first verse for 2 to 4 singers, slow and gentle.
 
 ## Versions and other words
 

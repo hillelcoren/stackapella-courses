@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: angels we have heard on high historia | angels we have heard on high significado | quién escribió angels we have heard on high | angels we have heard on high letra traducida | gloria in excelsis deo significado | les anges dans nos campagnes historia
-translatedFrom: 6fb704da2768
+translatedFrom: dc33bb0c46d9
 original: The Holy Family Hymns (Londres, 1860), página 12, la versión inglesa de Chadwick | https://archive.org/details/TheHolyFamilyHymns1860/page/n31/mode/1up
 listen: Internet Archive, grabación de 1906, en francés (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-124033-les-anges-dans-nos-campagnes
 ---

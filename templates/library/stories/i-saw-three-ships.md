@@ -138,9 +138,9 @@ Our arrangement is set from No. 64 in the complete edition of Bramley and Staine
 ## Singing it
 
 - [Soprano](/songs/i-saw-three-ships/soprano): the tune, most often on A, then G, reaching its top D twice a verse, on the "sail-" of "sailing" in verse 1. After each breath the pickup ("I", "And", "The", "Then") comes in a semiquaver late on the low D, so take the breath and still land on the next G with the others.
-- [Alto](/songs/i-saw-three-ships/alto): under the tune all the way, mostly a third below it and otherwise mostly a sixth, most often on F-sharp. Each verse opens on its low B for three notes ("I saw three"), and its top G comes on the "Christ-" of the first "Christmas" in each half.
-- [Tenor](/songs/i-saw-three-ships/tenor): the middle of the chord, never above the alto, most often on A. Each verse starts and ends on its low D, on the first three notes and on "morning", and it climbs to its top C on the "mas day" of the first "Christmas day" in each half.
-- [Bass](/songs/i-saw-three-ships/bass): the bass line, almost all G and D. Its one sharp note, the low F-sharp, comes only on the "morn-" of each verse's last "morning", rising to G on "ing".
+- [Alto](/songs/i-saw-three-ships/alto): under the tune all the way, mostly a third below it and otherwise mostly a sixth, most often on F-sharp. Each verse opens on its low B for three notes ("I saw three"), and its top G comes on many notes, among them the "Christ-" of the first "Christmas" in each half.
+- [Tenor](/songs/i-saw-three-ships/tenor): the middle of the chord, never above the alto, most often on A. Each verse starts and ends on its low D, on the first three notes and on "morning", and it climbs to its top C on many notes, among them the "mas day" of the first "Christmas day" in each half.
+- [Bass](/songs/i-saw-three-ships/bass): the bass line, mostly G and D. Its one sharp note, the low F-sharp, comes only on the "morn-" of each verse's last "morning", rising to G on "ing".
 
 ## Questions
 

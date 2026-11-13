@@ -111,7 +111,7 @@ Our arrangement is read from Sharp's plates, in G minor as printed, in 3/4 time 
 ## Singing it
 
 - [Soprano](/songs/coventry-carol/soprano): the 1591 tune, most often on G, then A. Its top D comes once a verse, on the third line's first word ("This", "His", "For"), and its low F only on "yonge" in verse 2. Every "lullay" that ends a refrain, verse 1 or verse 3 closes on B natural, not B-flat.
-- [Alto](/songs/coventry-carol/alto): the 1591 tenor, mostly on D: hold it steady and let the tune move over it. It steps down to B natural on the "la" of each "lulla", on "this day" in verses 1 and 2 and on "and say" in verse 3, and to its low B-flat only on the "for" of "for thee" and the "nor" of "nor singe".
+- [Alto](/songs/coventry-carol/alto): the 1591 tenor, mostly on D: hold it steady and let the tune move over it. It drops a third to B natural on the "la" of each "lulla", on the "day" of "this day" in verses 1 and 2 and on the "say" of "and say" in verse 3, and to its low B-flat only on the "for" of "for thee" and the "nor" of "nor singe".
 - [Tenor](/songs/coventry-carol/tenor): our part, in the middle of the chord, most often on B-flat, then A; every line starts on that B-flat. Its top E-flat comes once, on the "dren" of "children" in verse 2, and its low D once, on "singe" in verse 3.
 - [Bass](/songs/coventry-carol/bass): the 1591 bass, the roots of the chords, most often on its top G, then D. Each verse's third line starts low on B-flat ("This", "His", "For"), and it falls to the low G only at the close of the second and last lines ("day", "say", "slay" and the "lay" of every closing "lullay").
 

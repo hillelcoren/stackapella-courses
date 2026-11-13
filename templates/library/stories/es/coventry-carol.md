@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: coventry carol significado | coventry carol historia | coventry carol letra en español | quién escribió el coventry carol | lully lullay significado | villancico de coventry
-translatedFrom: 7a7a592090e5
+translatedFrom: 674c49a0c2be
 ---
 
 El Coventry Carol, conocido también por su primer verso, Lully, Lulla, Thou Little Tiny Child, es la canción que cantan las madres de Belén en el Pageant of the Shearmen and Tailors (la obra de los tundidores y los sastres), una obra de la Natividad que un gremio de Coventry representaba sobre un carro por las calles de la ciudad en la fiesta del Corpus Christi [^sharp1825][^king1997][^hone1823]. La cantan para calmar a sus bebés mientras los soldados del rey Herodes vienen a matarlos: la matanza de los inocentes que cuenta el Evangelio de Mateo [^kjv][^craig1902]. Su letra y su música a tres voces se conocen solo por una copia fechada el 13 de mayo de 1591, que Thomas Sharp imprimió, con música y todo, en 1825. El manuscrito de la obra, que era de Sharp, se quemó en 1879, y sus páginas impresas son hoy la única fuente [^sharp1825][^craig1902].
@@ -127,7 +127,7 @@ Nuestro arreglo está tomado de las láminas de Sharp, en Sol menor, como están
 ## Cómo cantarla
 
 - [Soprano](/songs/coventry-carol/soprano): la melodía de 1591, con más frecuencia en el Sol, luego en el La. Su Re agudo llega una vez por estrofa, en la primera palabra del tercer verso ("This", "His", "For"), y su Fa grave solo en "yonge" en la estrofa 2. Cada "lullay" que cierra un estribillo, la estrofa 1 o la estrofa 3 termina en Si becuadro, no en Si bemol.
-- [Contralto](/songs/coventry-carol/alto): la voz de tenor de 1591, sobre todo en el Re: mantenla firme y deja que la melodía se mueva por encima. Baja a Si becuadro en el "la" de cada "lulla", en "this day" en las estrofas 1 y 2 y en "and say" en la estrofa 3, y a su Si bemol grave solo en el "for" de "for thee" y el "nor" de "nor singe".
+- [Contralto](/songs/coventry-carol/alto): la voz de tenor de 1591, sobre todo en el Re: mantenla firme y deja que la melodía se mueva por encima. Baja una tercera a Si becuadro en el "la" de cada "lulla", en el "day" de "this day" en las estrofas 1 y 2 y en el "say" de "and say" en la estrofa 3, y a su Si bemol grave solo en el "for" de "for thee" y el "nor" de "nor singe".
 - [Tenor](/songs/coventry-carol/tenor): nuestra voz, en el centro del acorde, con más frecuencia en el Si bemol, luego en el La; cada verso empieza en ese Si bemol. Su Mi bemol agudo llega una sola vez, en el "dren" de "children" en la estrofa 2, y su Re grave una vez, en "singe" en la estrofa 3.
 - [Bajo](/songs/coventry-carol/bass): el bajo de 1591, las fundamentales de los acordes, con más frecuencia en su Sol agudo, luego en el Re. El tercer verso de cada estrofa empieza abajo, en Si bemol ("This", "His", "For"), y baja al Sol grave solo al cierre del segundo y el último verso ("day", "say", "slay" y el "lay" de cada "lullay" final).
 

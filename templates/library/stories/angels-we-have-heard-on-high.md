@@ -240,7 +240,7 @@ Our arrangement reads the tune and words from Carol 181 in Carols Old and Carols
 
 - [Soprano](/songs/angels-we-have-heard-on-high/soprano): the tune, most often on B, then D. Each "Glo-" holds D, then runs down in quick notes, each bar a step lower, touching the top E just after it starts. Take the breath marked before it and pace it to the "ri-a", which drops to the low D.
 - [Alto](/songs/angels-we-have-heard-on-high/alto): mostly a sixth below the tune. After a breath it leaps an octave, low B to top B, for each "Glo-", then holds one note a chord under the run. On "ri-a" it stays on F-sharp, above the tune's low D, the only place it crosses the tune.
-- [Tenor](/songs/angels-we-have-heard-on-high/tenor): the middle of the chord, mostly G, A and B, between F-sharp and D in the verses. Under each run it holds long notes, up to its top E, then D, B and A; "Deo." steps G, F-sharp down to the low D.
+- [Tenor](/songs/angels-we-have-heard-on-high/tenor): the middle of the chord, mostly G, A and B, between F-sharp and D in the verses. Under each run it holds long notes, up to its top E, then D, B and A; "Deo." goes G, F-sharp, then down a third to the low D.
 - [Bass](/songs/angels-we-have-heard-on-high/bass): the roots of the chords, mostly G, low and high, and D. Each verse climbs G, B, D from the low G to the high G at the end of its first line. Under the run it holds G, A, G, A, then D for "ri-a", and the last "o" lands on the low G.
 
 ## Questions

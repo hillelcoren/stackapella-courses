@@ -134,7 +134,7 @@ Fa, la, la, la, la, la, la, la, la!
 
 It is sung at Christmas, and its last verse belongs to New Year's Eve, the night its Welsh name means [^hullah1866][^jones1794]. Hullah's 1866 page says "Repeat in Chorus" [^hullah1866].
 
-Our arrangement reads the Golden Book's four parts on page 66, printed in F and sung here a whole tone lower, in E-flat [^golden1923]. We sing the first verse for 2 to 4 singers, bright and quick, everyone on the words. Eleven notes are changed so the duet keeps its thirds, the alto holds a G under the rising "fa la la" and no inner part leaps awkwardly, and breaths are marked for beginners.
+Our arrangement reads the Golden Book's four parts on page 66, printed in F and sung here a whole tone lower, in E-flat [^golden1923]. We sing the first verse for 2 to 4 singers, bright and quick, everyone on the words. Eleven notes are changed so the duet has its thirds on most beats, the alto holds a G under the rising "fa la la" and no inner part leaps awkwardly, and breaths are marked for beginners.
 
 ## Did you know?
 
@@ -143,7 +143,7 @@ Our arrangement reads the Golden Book's four parts on page 66, printed in F and 
 
 ## Singing it
 
-- [Soprano](/songs/deck-the-halls/soprano): you carry the Welsh tune. "Deck the halls with boughs" steps down the scale from B-flat to E-flat, and the "fa la la" that ends the first, second and last lines dips to a low D before it lands. In the rising "fa la la" in the middle you climb to your top E-flat on the last "la"; aim for it.
+- [Soprano](/songs/deck-the-halls/soprano): you carry the Welsh tune. "Deck the halls with boughs" steps down the scale from B-flat to E-flat, and the "fa la la" that ends the first, second and last lines dips to a low D before it lands. In the rising "fa la la" in the middle you climb to your top E-flat on the fourth syllable, where the tune turns back down; aim for it.
 - [Alto](/songs/deck-the-halls/alto): you sing the words a third under the tune for most of the verse, mostly on E-flat and D. In the rising "fa la la" you hold G while the tune climbs, then follow it down a sixth below. You end the first and last lines on a low G.
 - [Tenor](/songs/deck-the-halls/tenor): you hold the middle of the chord, mostly on B-flat. At the end of the first and last lines you walk down A-flat, G, F to a low E-flat. In the middle "fa la la", as the tune comes back down, one note is an A-natural; listen for it in the player.
 - [Bass](/songs/deck-the-halls/bass): you sing the bass line, mostly E-flat and B-flat, the roots of the home chord and of the one that leads back to it. In the "fa la la" that ends the first, second and last lines you drop for one quick note to a low A-flat, your lowest.
@@ -168,7 +168,7 @@ Thomas Oliphant wrote its English words in 1862 to give a Welsh harp tune for Ne
 
 ### Which part sings the tune?
 
-The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, a third below it for most of the verse; with three, add the bass; the tenor makes four. The tune's highest note, a top E-flat, comes on the last "la" of the rising "fa la la" in the middle.
+The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, a third below it for most of the verse; with three, add the bass; the tenor makes four. The tune's highest note, a top E-flat, comes on the fourth syllable of the rising "fa la la" in the middle, where the tune turns back down.
 
 ## Sing next
 

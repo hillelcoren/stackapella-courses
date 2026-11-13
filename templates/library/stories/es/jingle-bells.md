@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: jingle bells historia | quién escribió jingle bells | jingle bells significado | jingle bells es una canción de navidad | jingle bells origen minstrel | jingle bells dominio público | cascabel villancico origen | navidad navidad hoy es navidad origen
-translatedFrom: 9bcdb0b7cf6d
+translatedFrom: 72ddc2d91c9b
 original: The One Horse Open Sleigh (1857), Library of Congress | https://www.loc.gov/item/2023812429/
 listen: National Jukebox, grabación de 1916, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-18721-favorite-college-songs || National Jukebox, grabación de 1922, instrumental, un popurrí que incluye Jingle Bells | https://archive.org/details/loc-jukebox-43957-hortense
 ---
@@ -194,9 +194,9 @@ Nuestro arreglo toma la estrofa y el estribillo de Heart Songs, de 1909; las voc
 
 ## Cómo cantarla
 
-- [Soprano](/songs/jingle-bells/soprano): la melodía. Cuatro veces en la estrofa la melodía salta una sexta, de Re grave a Si, en "Dash-ing", "one-horse", "Bells on" y "Mak-ing"; aterriza limpia en la nota. El Mi agudo llega una sola vez, en "sleigh-" de "A sleighing song tonight". En el estribillo cada "Jingle bells" está en un mismo Si: canta esas notas repetidas ligeras y afinadas, sin que se caigan.
-- [Contralto](/songs/jingle-bells/alto): la letra, casi siempre una sexta por debajo de la melodía, sobre todo en Re y Si. Cada "Jingle bells" va en Re, bajo el Si de la melodía. Tu nota más aguda es Fa sostenido: la mantienes en "Laughing all the" y la repites en "ride and sing a sleighing"; que suene brillante y afinada.
-- [Tenor](/songs/jingle-bells/tenor): casi siempre en Sol. Los cambios son pocos: La desde "O'er the fields we go" hasta "Laughing all the", Do en "ride and sing a", La en "sleighing", y baja a Fa sostenido en "song to-". El estribillo se queda en Sol hasta el final de cada mitad: Si y La en "pen sleigh" la primera vez; La, luego Fa sostenido y de vuelta a Sol la última.
+- [Soprano](/songs/jingle-bells/soprano): la melodía. La estrofa salta una sexta hacia arriba una y otra vez: de Re grave a Si en "Dash-ing", "one-horse", "Bells on" y "Mak-ing", y de Mi a Do en "O'er the" y "fun it"; aterriza limpia en cada nota. El Mi agudo llega una sola vez, en "sleigh-" de "A sleighing song tonight". En el estribillo cada "Jingle bells" está en un mismo Si: canta esas notas repetidas ligeras y afinadas, sin que se caigan.
+- [Contralto](/songs/jingle-bells/alto): la letra, sobre todo una sexta por debajo de la melodía, sobre todo en Re y Si. Cada "Jingle bells" va en Re, bajo el Si de la melodía. Tu nota más aguda es Fa sostenido: la mantienes en "Laughing all the", la repites en "ride and sing a sleighing" y vuelve en el estribillo, en el primer "sleigh!" y el último "one-horse"; que suene brillante y afinada.
+- [Tenor](/songs/jingle-bells/tenor): sobre todo en Sol. Los cambios son pocos: La desde "O'er the fields we go" hasta "Laughing all the", Do en "ride and sing a", La en "sleighing", y baja a Fa sostenido en "song to-". El estribillo se queda en Sol hasta el final de cada mitad: Si y La en "pen sleigh" la primera vez; La, luego Fa sostenido y de vuelta a Sol la última.
 - [Bajo](/songs/jingle-bells/bass): el caballo y los cascabeles. Un "dm" corto y grave en un pulso sí y otro no durante la estrofa, como cascos, y luego un "jing" que resuena durante el estribillo, sobre todo en Sol, Re y Do. Mantén el pulso firme y sostén el último "jing" en Sol grave un compás entero.
 
 ## Preguntas
@@ -219,7 +219,7 @@ Según la NASA y el Smithsonian, sí. El 16 de diciembre de 1965 la tripulación
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, casi siempre una sexta por debajo; con tres, se suma el bajo, que trota en "dm" en la estrofa y hace sonar "jing" en el estribillo; el tenor, casi siempre en Sol, completa las cuatro.
+En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto, sobre todo una sexta por debajo; con tres, se suma el bajo, que trota en "dm" en la estrofa y hace sonar "jing" en el estribillo; el tenor, sobre todo en Sol, completa las cuatro.
 
 ## Canta después
 
