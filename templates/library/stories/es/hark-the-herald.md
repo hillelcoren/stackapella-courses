@@ -15,16 +15,16 @@ alsoKnownAs: Hymn for Christmas-Day; Hark how all the welkin rings
 wikidata: Q1585437
 quote: Hark how all the welkin rings, "Glory to the King of kings"
 quoteSource: duke-hsp
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
-searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing
-translatedFrom: e3125bde702c
+searches: hark the herald angels sing historia | quién escribió hark the herald angels sing | hark the herald angels sing significado | qué significa herald en hark the herald angels sing | quién compuso la melodía de hark the herald angels sing | oíd un son en alta esfera
+translatedFrom: 76555d278851
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661398/ || National Jukebox, grabación de 1911 | https://www.loc.gov/item/jukebox-130938/
-original: Hymns and Sacred Poems (1739), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
+original: Hymns and Sacred Poems (1739, segunda edición), Internet Archive | https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1/page/n219
 ---
 
-Hark! The Herald Angels Sing es un himno inglés de Navidad. Su letra nació como el "Hymn for Christmas-Day" (himno para el día de Navidad) de Charles Wesley, impreso en Londres en 1739 con otro primer verso: "Hark how all the welkin rings" [^duke-hsp][^julian]. El comienzo que todos conocen lo escribió el predicador George Whitefield, que lo imprimió en 1753 [^duke-hsp][^julian]. La melodía es de Felix Mendelssohn, escrita en 1840 para una fiesta en Leipzig en honor de Gutenberg y de la invención de la imprenta; un organista inglés, William H. Cummings, la ajustó a la letra de Wesley en la década de 1850 [^mt1897][^lightwood]. En 1907 el Dictionary of Hymnology llamaba a este texto modificado la forma más popular del himno, de uso común en todos los países de habla inglesa [^julian].
+Hark! The Herald Angels Sing es un himno inglés de Navidad, que en español se canta como "Oíd un son en alta esfera" [^hymnary-oid][^singpraises]. Su letra nació como el "Hymn for Christmas-Day" (himno para el día de Navidad) de Charles Wesley, impreso en Londres en 1739 con otro primer verso: "Hark how all the welkin rings" [^duke-hsp][^julian]. El comienzo que todos conocen lo escribió el predicador George Whitefield, que lo imprimió en 1753 [^duke-hsp][^julian]. La melodía es de Felix Mendelssohn, escrita en 1840 para una fiesta en Leipzig en honor de Gutenberg y de la invención de la imprenta; un organista inglés, William H. Cummings, la ajustó a la letra de Wesley en la década de 1850 [^mt1897][^lightwood]. En 1907 el Dictionary of Hymnology llamaba a este texto modificado la forma más popular, de uso común en todos los países de habla inglesa [^julian].
 
 ## De dónde viene
 
@@ -32,17 +32,17 @@ Hark! The Herald Angels Sing es un himno inglés de Navidad. Su letra nació com
 
 ![[1]]
 
-**Los cambios.** George Whitefield, uno de los principales predicadores metodistas, de ideas calvinistas, lo incluyó en su Collection of Hymns for Social Worship en 1753 [^summerly][^nge][^duke-hsp][^julian]. Reescribió los dos primeros versos como "Hark! the herald angels sing / Glory to the new-born King!", hizo cambios menores y dejó fuera la octava y la décima estrofas de Wesley [^duke-hsp][^julian][^hymnarchive]. En 1760, la Collection of Psalms and Hymns de Martin Madan conservó el comienzo de Whitefield pero volvió a Wesley en lo demás, salvo en dos versos. Wesley había escrito "Universal nature say / 'Christ the Lord is born to day!'", y Whitefield los había cambiado por "Nature rise and worship him, / Who is born at Bethlehem". Madan puso "With th' angelic host proclaim, / 'Christ is born in Bethlehem!'" [^madan][^julian][^hymnarchive][^wf1753]. En 1782, un suplemento de himnos impreso con la New Version of the Psalms de Tate y Brady lo había convertido en tres estrofas de ocho versos, con sus dos primeros versos repetidos después de cada una como estribillo [^julian][^hymnarchive][^hymnary-text].
+**Los cambios.** George Whitefield, uno de los principales predicadores metodistas, de ideas calvinistas, lo incluyó en su Collection of Hymns for Social Worship en 1753 [^summerly][^nge][^duke-hsp][^julian]. Reescribió los dos primeros versos como "Hark! the herald angels sing / Glory to the new-born King!", hizo cambios menores y dejó fuera la octava y la décima estrofas de Wesley [^duke-hsp][^julian][^hymnarchive]. En 1760, la Collection of Psalms and Hymns de Martin Madan conservó el comienzo de Whitefield y sus cortes, volvió a casi todas las demás palabras de Wesley y reescribió dos versos. Wesley había escrito "Universal nature say / 'Christ the Lord is born to day!'", y Whitefield los había cambiado por "Nature rise and worship him, / Who is born at Bethlehem". Madan puso "With th' angelic host proclaim, / 'Christ is born in Bethlehem!'" [^madan][^julian][^hymnarchive][^wf1753]. En 1782, un suplemento de himnos impreso con la New Version of the Psalms de Tate y Brady lo había convertido en tres estrofas de ocho versos, con sus dos primeros versos repetidos después de cada una como estribillo [^julian][^hymnarchive][^hymnary-text].
 
 ![[2]]
 
-**La melodía.** En junio de 1840, Leipzig celebró una fiesta en honor de Gutenberg y de lo que se tenía por el 400 aniversario de la imprenta [^summerly][^praise]. Mendelssohn escribió un Festgesang, un "canto festivo", para voces de hombre y metales, y se cantó al aire libre el 24 de junio de 1840 [^mt1897][^imslp]. Su segundo número, titulado solo "Lied", canción, es nuestra melodía [^mt1897][^imslp].
+**La melodía.** En junio de 1840, Leipzig celebró una fiesta en honor de Gutenberg y de lo que se tenía por el 400 aniversario de la imprenta [^summerly][^praise]. Mendelssohn escribió un Festgesang, un "canto festivo", para coro de hombres y metales, y se cantó al aire libre el 24 de junio de 1840 [^mt1897][^imslp]. Su segundo número, titulado solo "Lied", canción, es nuestra melodía [^mt1897][^imslp].
 
-**La unión.** William H. Cummings, un joven organista de Waltham Abbey, estaba tocando el Festgesang cuando vio que su segundo coro podía llevar el himno de Wesley [^mt1897][^lightwood][^grove]. Según contó él mismo al Musical Times, la congregación de allí lo cantó "con gran entusiasmo", y tanta gente le pidió copias que lo llevó a los editores Ewer and Co., que lo imprimieron en 1856 [^mt1897][^summerly]. La historia de las melodías de himnos de Lightwood fecha la adaptación en 1855; Hymnary.org, en 1856 [^lightwood][^hymnary-tune].
+**La unión.** William H. Cummings, un joven organista de Waltham Abbey, estaba tocando el Festgesang cuando vio que su segundo coro podía llevar el himno de Wesley [^mt1897][^lightwood][^grove]. Según contó él mismo al Musical Times, la congregación de allí lo cantó "con gran entusiasmo", y tanta gente le pidió copias que lo llevó a los editores Ewer and Co., que lo imprimieron en 1856 [^mt1897][^summerly]. Lightwood, en su Hymn-Tunes and Their Story, fecha la adaptación en 1855, y Hymnary.org en 1856 [^lightwood][^hymnary-tune].
 
 ![[3]]
 
-Qué himnario imprimió primero la pareja es discutido: el Musical Times creía en 1897 que fue Hymns Ancient and Modern, en 1861, mientras que Hymnology Archive y el Praise Trust nombran uno anterior, el Congregational Hymn and Tune Book de Richard Chope [^mt1897][^hymnarchive][^praise]. En cualquier caso, Hymns Ancient and Modern fijó la unión [^hymnary-tune][^hymnarchive][^praise]. Imprimió el himno como n.º 43 en 1861, con la melodía indicada como "Mendelsohn", y como n.º 60, MENDELSSOHN, en su edición de referencia de 1875 [^ham1861][^ham1875].
+Se discute qué himnario imprimió primero la letra con esta melodía: el Musical Times creía en 1897 que fue Hymns Ancient and Modern, en 1861, mientras que Hymnology Archive y el Praise Trust nombran uno anterior, el Congregational Hymn and Tune Book de Richard Chope [^mt1897][^hymnarchive][^praise]. En cualquier caso, Hymns Ancient and Modern fijó la unión [^hymnary-tune][^hymnarchive][^praise]. Imprimió el himno como n.º 43 en 1861, con la melodía indicada como "Mendelsohn", y como n.º 60, MENDELSSOHN, en su edición estándar de 1875 [^ham1861][^ham1875].
 
 ![[4]]
 
@@ -54,14 +54,14 @@ Qué himnario imprimió primero la pareja es discutido: el Musical Times creía 
 - 1753: La colección de George Whitefield imprime el comienzo "Hark! the herald angels sing". [^duke-hsp][^julian]
 - 1760: La colección de Martin Madan añade "With th' angelic host proclaim". [^madan][^julian]
 - 1782: Un suplemento de himnos a los salmos de Tate y Brady repite los dos primeros versos como estribillo. [^hymnarchive][^hymnary-text]
-- 1840: El Festgesang de Mendelssohn se canta al aire libre en Leipzig el 24 de junio, para la fiesta de Gutenberg. [^mt1897][^imslp]
+- 1840: El Festgesang de Mendelssohn se canta en Leipzig el 24 de junio, para la fiesta de Gutenberg. [^mt1897][^imslp]
 - 1856: Ewer and Co. imprime el arreglo de Cummings de la melodía de Mendelssohn con la letra de Wesley. [^mt1897][^summerly]
 - 1861: Hymns Ancient and Modern imprime el himno como n.º 43 con la melodía de Mendelssohn. [^ham1861][^hymnary-tune]
-- 1875: La edición de referencia de Hymns Ancient and Modern llama a la melodía MENDELSSOHN. [^ham1875]
+- 1875: La edición estándar de Hymns Ancient and Modern llama a la melodía MENDELSSOHN. [^ham1875]
 
 ## Qué dice la letra
 
-Cantamos la primera estrofa y el estribillo de la forma en tres estrofas, hecha por etapas. Sus dos primeros versos son de Whitefield, de 1753; los cuatro siguientes, de Wesley, de 1739; los dos últimos, de Madan, de 1760; y el estribillo repite los dos primeros, como hacían los himnarios en 1782 [^duke-hsp][^madan][^julian][^hymnarchive]. Las tres estrofas son las seis primeras de las diez de Wesley, dos por estrofa [^julian][^ham1875].
+Cantamos la primera estrofa y el estribillo de la forma en tres estrofas. Sus dos primeros versos son de Whitefield, de 1753; los cuatro siguientes, de Wesley, de 1739; los dos últimos, de Madan, de 1760; y el estribillo repite los dos primeros, como hacían los himnarios en 1782 [^duke-hsp][^madan][^julian][^hymnarchive]. Las tres estrofas son las seis primeras de las diez de Wesley, dos por estrofa [^julian][^ham1875].
 
 **Estrofa 1, la que cantamos.** "Hark!" significa escucha, y un "herald", un heraldo, proclamaba noticias, así que los "herald angels" son los ángeles que anuncian el nacimiento [^webster]. La escena es la del Evangelio de Lucas: una multitud de la "heavenly host", un gran ejército de ángeles, se aparece a los pastores y canta "Glory to God in the highest, and on earth peace" (Gloria en las alturas á Dios, Y en la tierra paz) [^kjv]. "God and sinners reconciled": Dios y las personas, enfrentados, vuelven a ser amigos, como en la frase de Pablo "God was in Christ, reconciling the world unto himself" (Dios estaba en Cristo reconciliando el mundo á sí) [^kjv]. Todas las naciones son llamadas a levantarse y unirse a "the triumph of the skies", la fiesta del cielo. Donde Madan pone "Christ is born in Bethlehem", Wesley hacía decir a toda la naturaleza "Christ the Lord is born to day", muy cerca del "unto you is born this day ... Christ the Lord" (os ha nacido hoy ... CRISTO el Señor) del ángel [^duke-hsp][^kjv].
 
@@ -69,11 +69,11 @@ Cantamos la primera estrofa y el estribillo de la forma en tres estrofas, hecha 
 
 **Estrofa 3.** Cristo es aclamado como el "Prince of Peace" (Príncipe de paz) de Isaías y el "Sun of righteousness" (Sol de justicia) de Malaquías, que nace "with healing in his wings", con la salud en sus alas [^kjv]. Deja a un lado su gloria, la gloria del cielo, y nace para dar a las personas un "second birth", un segundo nacimiento, el nuevo nacimiento del que habla Jesús en el Evangelio de Juan [^kjv].
 
-**Las estrofas que se dejan fuera.** Las cuatro últimas estrofas de Wesley se vuelven hacia quien canta: piden al "Desire of nations", el Deseado de las naciones, título que viene de Ageo, que haga su morada en nosotros, y al "Second Adam", el segundo Adán, nombre que Pablo da a Cristo, que devuelva lo que Adán perdió [^duke-hsp][^kjv]. Whitefield quitó dos de ellas, y la forma en tres estrofas, las cuatro [^julian][^hymnarchive].
+**Las estrofas que se dejan fuera.** Las cuatro últimas estrofas de Wesley se vuelven hacia quien canta: piden al "Desire of nations", el Deseado de las naciones, título que viene de Hageo, que haga su morada en nosotros, y al "Second Adam", el segundo Adán, por el "postrer Adam" y el "segundo hombre" de Pablo, que devuelva lo que Adán perdió [^duke-hsp][^kjv]. Whitefield quitó dos de ellas, y la forma en tres estrofas, las cuatro [^julian][^hymnarchive].
 
 ### La letra completa
 
-Las tres estrofas y el estribillo tal como los imprimió Hymns Ancient and Modern en su edición estándar de 1875, himno 60, la página de la que se lee nuestro arreglo, con las versalitas escritas como letras normales y sin sus indicaciones de matiz ni el "Amen" [^ham1875]. Son las seis primeras estrofas de Wesley de 1739 con el comienzo de Whitefield de 1753, los versos de Madan de 1760 y pequeños cambios posteriores [^duke-hsp][^madan][^julian]. Después vienen las cuatro últimas estrofas de Wesley tal como las imprimió el libro de 1739, con la s larga escrita como s y su errata "the the" de la última estrofa tal como está impresa [^hsp1739]. Todos los que escribieron o cambiaron esta letra murieron antes de 1840, así que toda ella es de dominio público.
+Las tres estrofas y el estribillo tal como los imprimió Hymns Ancient and Modern en su edición estándar de 1875, himno 60, la página de la que se lee nuestro arreglo, con las versalitas escritas como letras normales y sin sus indicaciones de matiz ni el "Amen" [^ham1875]. Son las seis primeras estrofas de Wesley de 1739 con el comienzo de Whitefield de 1753, los versos de Madan de 1760 y pequeños cambios posteriores [^duke-hsp][^madan][^julian]. Después vienen las cuatro últimas estrofas de Wesley tal como las imprimió la segunda edición de 1739, con la s larga escrita como s y la errata "the the" de esa impresión en la última estrofa, tal como está [^hsp1739]. Toda esta letra estaba impresa en 1875, y sus autores murieron hace mucho (Whitefield en 1770, Wesley en 1788 y Madan en 1790), así que toda ella es de dominio público.
 
 **Estrofa 1**
 > Hark! the herald-angels sing
@@ -183,24 +183,25 @@ formado en cada corazón que cree!
 
 ## Cómo se canta
 
-Es un himno de Navidad, impreso entre los himnos de Navidad de Hymns Ancient and Modern, y a veces se canta sin su estribillo [^ham1875][^julian]. Su métrica es 7.7.7.7 D con estribillo: ocho versos de siete sílabas y luego el estribillo de dos versos [^hymnary-text][^ham1875]. Tanto en 1861 como en 1875 el himnario lo pedía al unísono, todos en la melodía, salvo el noveno verso, el primero del estribillo [^ham1861][^ham1875].
+Está impreso entre los himnos de Navidad de Hymns Ancient and Modern, y a veces se canta sin su estribillo [^ham1875][^julian]. Su métrica es 7.7.7.7 D con estribillo: ocho versos de siete sílabas y luego el estribillo de dos versos [^hymnary-text][^ham1875]. Tanto en 1861 como en 1875 el himnario lo pedía al unísono, todos en la melodía, salvo el noveno verso, el primero del estribillo [^ham1861][^ham1875].
 
-Nuestro arreglo toma las cuatro voces de la edición de referencia de 1875 del himnario, en Sol como está impreso, con sus blancas escritas como negras en 4/4 [^ham1875]. Cantamos la primera estrofa y el estribillo, cada verso a voces, con algunas notas de las tres voces graves cambiadas para que cada una se mueva con facilidad, y el bajo una octava más abajo donde sube demasiado para un principiante. Donde el himnario imprime el estribillo para órgano, cantamos las voces que el propio himnario da para la misma música dos versos antes. Cada verso se canta en una sola respiración. El texto de 1875 dice "With the Angelic host", pero el verso tiene siete notas, así que cantamos "With th'angelic", como lo imprimió Madan [^ham1875][^madan].
+Nuestro arreglo toma las cuatro voces de la edición estándar de 1875 del himnario, en Sol como está impreso, con sus blancas escritas como negras en 4/4 [^ham1875]. Cantamos la primera estrofa y el estribillo, cada verso a voces, con algunas notas de las tres voces graves cambiadas para que cada una se mueva con facilidad, y el bajo una octava más abajo donde sube demasiado. El himnario pone el estribillo sobre un pedal de órgano sostenido, así que ahí cantamos las voces que el propio himnario da para la misma música dos versos antes. Cada verso se canta en una sola respiración. El texto de 1875 dice "With the Angelic host", pero el verso tiene siete notas, así que cantamos "With th'angelic", como lo imprimió Madan [^ham1875][^madan].
 
 ## Versiones y otras letras
 
 - **El comienzo original de Wesley:** la edición de 1904 de Hymns Ancient and Modern recuperó "Hark! how all the welkin rings" como primeros versos y como estribillo. Su edición de 1906 recuperó el texto conocido junto al de Wesley [^julian-supp][^hymnarchive].
 - **Otra melodía:** en 1861, Hymns Ancient and Modern ofrecía una segunda melodía, "Batchelor", después de la de Mendelssohn [^ham1861].
 - **Jesus, the Light of the World:** las estrofas de Wesley con un estribillo de góspel, impresas en 1890 por George D. Elderkin como su arreglista, con la melodía WE'LL WALK IN THE LIGHT. Hymnary.org atribuye el estribillo a Elderkin, mientras que Hymnology Archive sigue el rastro de su letra hasta una canción de Fanny Crosby de 1880. Está en muchos himnarios afroamericanos, entre ellos el African American Heritage Hymnal de 2001 [^hymnary-light][^hymnarchive].
+- **En español:** se canta como "Oíd un son en alta esfera", en la traducción de Federico Fliedner [^hymnary-oid][^singpraises].
 
 ## ¿Sabías que...?
 
-- En 1897, el Musical Times, del lado de Cummings, se quejaba de que Hymns Ancient and Modern había omitido su nombre y añadido una nota que Mendelssohn nunca escribió: un Si en el tercer tiempo del compás doce [^mt1897]. Contando como el himnario imprime la melodía, dos compases por verso, el compás doce es "of the skies" tanto en 1861 como en 1875, y nuestra soprano, tomada del himnario de 1875, canta ese Si en "skies" antes de bajar a La [^ham1861][^ham1875].
+- En 1897, el Musical Times, del lado de Cummings, se quejaba de que Hymns Ancient and Modern había omitido su nombre y añadido una nota que Mendelssohn nunca escribió: un Si en el tercer tiempo del compás doce [^mt1897]. Contando como el himnario imprime la melodía, dos compases por verso, el compás doce es "of the skies" tanto en 1861 como en 1875, y nuestra soprano canta ese Si en "skies" antes de bajar a La [^ham1861][^ham1875].
 
 ## Cómo cantarla
 
-- [Soprano](/songs/hark-the-herald/soprano): la melodía de Mendelssohn, desde el Re grave del "Hark!" inicial hasta el Mi agudo de "With th'angelic" y del "Hark! the herald" del estribillo. Sus Re agudos repetidos en "Glory to", "Joyful, all" y "Join the tri-" deben ser ligeros, para que el Mi tenga adónde ir.
-- [Contralto](/songs/hark-the-herald/alto): empieza en el Re de la melodía y lo sostiene durante "Hark! the herald an-" mientras la melodía sube, y luego canta casi siempre una tercera o una sexta por debajo. Afina las notas alteradas: Do sostenido en "reconciled", Sol sostenido en "proclaim" y en el "angels" del estribillo. El último "King" baja a un Si grave, la nota más grave de la voz.
+- [Soprano](/songs/hark-the-herald/soprano): la melodía de Mendelssohn, desde el Re grave del "Hark!" inicial hasta el Mi agudo de "With th'angelic" y del "Hark! the herald" del estribillo. Sus Re agudos repetidos en "Glory to", "Joyful, all" y "Join the tri-" deben ser ligeros.
+- [Contralto](/songs/hark-the-herald/alto): empieza en el Re de la melodía y lo sostiene durante "Hark! the herald an-" mientras la melodía sube, y luego canta casi siempre una tercera o una sexta por debajo. Afina las notas alteradas: Do sostenido en "reconciled", Sol sostenido en "proclaim" y en el "angels" del estribillo. El último "King" baja a un Si grave, su nota más grave.
 - [Tenor](/songs/hark-the-herald/tenor): el centro del acorde, casi siempre en Re, Si y Mi. Sostiene un La en "Joyful, all" y "Join the tri-" debajo del Re agudo de la melodía, y sostiene su Mi más agudo durante "With th'angelic host" y el "Hark! the herald an-" del estribillo: mantenlo firme mientras las demás voces se mueven.
 - [Bajo](/songs/hark-the-herald/bass): la línea del bajo, desde el Sol grave del comienzo. Sostiene un Re debajo de "Joyful, all" y "Join the", luego un Do debajo de "With th'angelic host" antes de subir por Mi hasta La en "proclaim"; el estribillo hace la misma subida en "angels sing". El último "King" es el Sol agudo, una octava por encima de donde empezó.
 
@@ -227,16 +228,18 @@ En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantant
 ## Fuentes
 
 - [^duke-hsp]: John y Charles Wesley, *Hymns and Sacred Poems* (Londres: Strahan, 1739), "Hymn for Christmas-Day", pp. 206 a 208, en la edición del Duke Center for Studies in the Wesleyan Tradition, ed. Randy L. Maddox (2020), con notas sobre los cambios de Whitefield de 1753. https://divinity.duke.edu/sites/default/files/documents/04_Hymns_and_Sacred_Poems_%281739%29.pdf
-- [^hsp1739]: John y Charles Wesley, *Hymns and Sacred Poems* (1739), pp. 206 a 208, "Hymn for Christmass-Day", facsímil de una impresión de 1739 (Eighteenth Century Collections Online, en el Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
-- [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2.ª ed. (John Murray, 1907), vol. 1, pp. 487 a 488, "Hark, how all the welkin rings" (firmado J. J.). https://archive.org/details/dictionaryofhymn01lond
+- [^hsp1739]: John y Charles Wesley, *Hymns and Sacred Poems* (1739), pp. 206 a 208, "Hymn for Christmass-Day", facsímil de la segunda edición (1739), que ya dice "Heav'n-born" (Eighteenth Century Collections Online, en el Internet Archive). https://archive.org/details/bim_eighteenth-century_hymns-and-sacred-poems-_wesley-john_1739_1
+- [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2.ª ed. (John Murray, 1907), vol. 1, pp. 487 a 488, "Hark, how all the welkin rings" (firmado J. J.), y p. 802, "New Version, The". https://archive.org/details/dictionaryofhymn01lond
 - [^julian-supp]: John Julian (ed.), *A Dictionary of Hymnology*, 2.ª ed. (John Murray, 1907), vol. 2, New Supplement, p. 1645, "Hark! how all the welkin rings". https://archive.org/details/dictionaryofhymn02lond
 - [^madan]: Martin Madan, *A Collection of Psalms and Hymns, Extracted from Various Authors* (Londres, 1760), himno VIII, "Nativity of Christ", p. 8. https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760
 - [^wf1753]: George Whitefield, *A Collection of Hymns for Social Worship* (Londres, 1753), himno XXXI. https://archive.org/details/bim_eighteenth-century_a-collection-of-hymns-fo_whitefield-george_1753
-- [^canterbury]: Timothy Dudley-Smith, "Hark! the herald angels sing", *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), extracto abierto. https://hymnology.hymnsam.co.uk/h/hark!-the-herald-angels-sing
+- [^canterbury]: "Hark! the herald angels sing", *The Canterbury Dictionary of Hymnology* (Canterbury Press, 2013), extracto abierto. https://hymnology.hymnsam.co.uk/h/hark!-the-herald-angels-sing
 - [^hymnarchive]: Chris Fenner, *Hark how all the welkin rings*, Hymnology Archive (2018, revisado en 2022). https://www.hymnologyarchive.com/hark-the-herald-angels
 - [^hymnary-text]: Hymnary.org, *Hark! The Herald Angels Sing* (texto). https://hymnary.org/text/hark_the_herald_angels_sing_glory_to
 - [^hymnary-tune]: Hymnary.org, *MENDELSSOHN* (melodía). https://hymnary.org/tune/mendelssohn_mendelssohn
 - [^hymnary-light]: Hymnary.org, *Jesus, the Light of the World* (texto). https://hymnary.org/text/hark_the_herald_angels_sing_jesus_the
+- [^hymnary-oid]: Hymnary.org, *Oíd un son en alta esfera* (texto), traducción al español de Federico Fliedner, en 39 himnarios. https://hymnary.org/text/oid_un_son_en_alta_esfera
+- [^singpraises]: SingPraises.net, *Federico Fliedner* (cantos indexados), "Oíd un son en alta esfera", traductor, en el Himnario (RLDS) de 1964, n.º 53. https://singpraises.net/people/6226/federico-fliedner
 - [^hymnary-mendelssohn]: Hymnary.org, *Felix Mendelssohn* (biografía). https://hymnary.org/person/Mendelssohn_Felix
 - [^mt1897]: "Hark! The Herald Angels Sing", *The Musical Times*, vol. 38, n.º 658 (1 de diciembre de 1897), p. 810, con la carta de Mendelssohn del 30 de abril de 1843 (JSTOR 3367189); escaneo en Hymnology Archive. https://hymnologyarchive.squarespace.com/s/HarktheHerald-MusicalTimes1897.pdf
 - [^imslp]: IMSLP, *Festgesang, WoO 9 (MWV D 4)* (Mendelssohn), página de la obra con la edición completa de Breitkopf & Härtel. https://imslp.org/wiki/Festgesang,_WoO_9_(Mendelssohn,_Felix)
@@ -248,4 +251,4 @@ En nuestro arreglo, la soprano canta la melodía de Mendelssohn. Con dos cantant
 - [^ham1861]: *Hymns Ancient and Modern, for Use in the Services of the Church, with Accompanying Tunes*, ed. William Henry Monk (Londres: J. Alfred Novello, 1861), himno 43 y el índice de primeros versos, p. x; ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/modeance00chur
 - [^ham1875]: *Hymns Ancient and Modern, for Use in the Services of the Church, with Accompanying Tunes*, ed. W. H. Monk (Londres: William Clowes, 1875), himno 60, "Mendelssohn", pp. 76 a 77; ejemplar de la Princeton Theological Seminary Library. https://archive.org/details/hymnsanci00chur
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "hark", "herald" y "welkin". https://webstersdictionary1828.com/Dictionary/herald
-- [^kjv]: *The Holy Bible*, King James Version: Lucas 2:10 a 14; 2 Corintios 5:19; Mateo 1:23; Isaías 9:6; Malaquías 4:2; Juan 3:3; Ageo 2:7; 1 Corintios 15:45 a 47 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A10-14%3B+Malachi+4%3A2%3B+Haggai+2%3A7%3B+Isaiah+9%3A6%3B+Matthew+1%3A23%3B+Genesis+3%3A15%3B+1+Corinthians+15%3A45-47&version=KJV
+- [^kjv]: *The Holy Bible*, King James Version: Lucas 2:10 a 14; 2 Corintios 5:19; Mateo 1:23; Isaías 9:6; Malaquías 4:2; Juan 3:3; Hageo 2:7; Génesis 3:15; 1 Corintios 15:45 a 47 (BibleGateway); las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A10-14%3B+Malachi+4%3A2%3B+Haggai+2%3A7%3B+Isaiah+9%3A6%3B+Matthew+1%3A23%3B+Genesis+3%3A15%3B+1+Corinthians+15%3A45-47&version=KJV

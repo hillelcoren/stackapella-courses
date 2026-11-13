@@ -5,7 +5,8 @@ lead: Joseph Mohr's poem, Franz Xaver Gruber's tune: first sung on Christmas Eve
 words: Joseph Mohr (1816); English, John Freeman Young (1859)
 tune: Franz Xaver Gruber (1818)
 tuneName: STILLE NACHT
-earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, before 1832 (the words alone)
+meter: irregular; 6.6.8.8.6.6
+earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, undated, about 1827 to 1832 by the Silent Night Association's estimate (the words alone)
 earliestPrintingSource: sng-greis
 language: German; English
 origin: Oberndorf bei Salzburg, Austria
@@ -14,25 +15,25 @@ alsoKnownAs: Stille Nacht! Heilige Nacht!
 wikidata: Q172152
 quote: Silent night! Holy night! All is calm, all is bright
 quoteSource: young
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote silent night | silent night meaning | silent night history | silent night history world war 1 | silent night lyrics meaning round yon virgin | silent night german lyrics meaning
 listen: National Jukebox, 1917 recording | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, 1909 recording | https://www.loc.gov/item/jukebox-761693/
 original: Joseph Mohr's autograph, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
 
-Silent Night is a Christmas carol from Austria. Joseph Mohr, a Catholic assistant priest, wrote its German words, Stille Nacht! Heilige Nacht!, as a poem in 1816. Franz Xaver Gruber, a village schoolteacher and church organist, set them to music for Christmas Eve 1818 in Oberndorf, near Salzburg [^sng-hist][^hochradner]. Within about twenty years, families of Tyrolean singers had carried it to Leipzig and, it is believed, to New York, mostly without its authors' names [^sng-spread][^hymnarchive]. The Silent Night Society knows of translations into more than 300 languages and dialects; a 2024 German report puts the count at more than 320 [^sng-spread][^sonntagsblatt]. The English most people sing is John Freeman Young's, printed in New York in 1859 [^young][^hymnarchive].
+Silent Night is a Christmas carol from Austria. Joseph Mohr, a Catholic assistant priest, wrote its German words, Stille Nacht! Heilige Nacht!, as a poem in 1816. Franz Xaver Gruber, a village schoolteacher and church organist, set them to music for Christmas Eve 1818 in Oberndorf, near Salzburg [^sng-hist][^hochradner]. Within about twenty years, families of Tyrolean singers had carried it to Leipzig and, it is believed, to New York, mostly without its authors' names [^sng-spread][^hymnarchive][^hochradner]. The Silent Night Association knows of translations into more than 300 languages and dialects; a 2024 German report puts the count at more than 320 [^sng-spread][^sonntagsblatt]. The English most people sing is John Freeman Young's, printed in New York in 1859 [^young][^hymnarchive].
 
 ## Where it comes from
 
-**The words.** Mohr was born in Salzburg in 1792 and ordained a priest in 1815 [^sng-time][^julian]. He wrote the poem in 1816, as assistant priest in Mariapfarr, in the Lungau region [^sng-hist][^hochradner][^hymnarchive]. His own copy of the song, made around 1820 to 1825 and now in the Salzburg Museum, is signed "Text von Joseph Mohr mpia Coadjutor 1816": words by Joseph Mohr, in his own hand, assistant priest, 1816 [^mohr-ms][^sng-text]. That sheet came to light only in 1995 [^sng-time][^sonntagsblatt]. Older books, such as Julian's Dictionary of Hymnology, date the words to 1818 [^julian].
+**The words.** Mohr was born in Salzburg in 1792 and ordained a priest in 1815 [^sng-time][^julian]. He wrote the poem in 1816, as assistant priest in Mariapfarr, in the Lungau region [^sng-hist][^hochradner][^hymnarchive]. His own copy of the song, made around 1820 to 1825 and now in the Salzburg Museum, is signed "Text von Joseph Mohr mpia Coadjutor 1816": words by Joseph Mohr, in his own hand, assistant priest, 1816 [^mohr-ms][^sng-text]. At the top he wrote "Melodie von Fr. Xav. Gruber", the tune by Gruber, and the tempo mark Largo, slow; the two voices share one staff, above the guitar's [^mohr-ms]. That sheet came to light only in 1995 [^sng-time][^sonntagsblatt]. Older books, such as Julian's Dictionary of Hymnology, date the words to 1818 [^julian].
 
-**The tune.** In 1817 Mohr moved to the parish of St Nicholas in Oberndorf, whose organist was Gruber, the schoolteacher of nearby Arnsdorf [^hymnarchive][^sng-time]. Gruber told the rest in a short account dated 30 December 1854 [^sng-time][^hymnarchive]. On Christmas Eve 1818, he wrote, Mohr brought him the poem and asked for a melody for two solo voices and choir, with a guitar. Gruber wrote it that same day, and it was sung at the Christmas Eve Mass that night [^sng-hist][^hymnarchive]. By the Silent Night Society's account, Mohr sang the upper part and played the guitar, and Gruber the lower [^hochradner][^sng-hist]. The choir, by the musicologist Thomas Hochradner's account, repeated each verse's last line [^hochradner]. Gruber's first score is lost; the Silent Night Society lists four later copies in his hand, and Mohr's, mostly in D major and 6/8 time [^hochradner][^sng-text].
+**The tune.** In 1817 Mohr moved to the parish of St Nicholas in Oberndorf, whose organist was Gruber, the schoolteacher of nearby Arnsdorf [^hymnarchive][^sng-time]. Gruber told the rest in a short account dated 30 December 1854 [^sng-time][^hymnarchive]. On Christmas Eve 1818, he wrote, Mohr brought him the poem and asked for a melody for two solo voices and choir, with a guitar. Gruber wrote it that same day, and it was sung at the Christmas Eve Mass that night [^sng-hist][^hymnarchive][^hochradner]. Mohr sang the upper part, which the Silent Night Association calls the tenor, and played the guitar; Gruber sang the lower, the bass [^hochradner][^sng-hist]. The choir, by the musicologist Thomas Hochradner's account, repeated each verse's last line [^hochradner]. Gruber's first score is lost. Four later copies in his hand survive, of the seven the Silent Night Association lists, and so does Mohr's copy; all are in 6/8 time, and all but one, an orchestral version of 1836 in E flat, are in D major [^hochradner][^sng-text].
 
 ![[1]]
 
-**How it travelled.** Gruber's account says a well-known man from the Zillertal took the song to Tyrol; the Silent Night Society identifies him as the organ builder Carl Mauracher, of Fügen, who worked on the Oberndorf organ in 1825 [^sng-spread][^hochradner]. The Strasser siblings of Laimach, glove makers who also sang, performed it in Leipzig in December 1832, after a reader's letter to the Leipziger Tageblatt asked for it [^hochradner][^sng-spread][^hymnarchive]. Its earliest known printing with music followed in about 1833, in Dresden, among Vier ächte Tyroler Lieder, "four genuine Tyrolean songs". It named no authors, moved the key to C and kept three of Mohr's six verses: the first, the sixth and the second [^hochradner][^hymnarchive]. Another troupe, the Rainer family, are believed to have brought it to New York; the Silent Night Society places their singing of it on Christmas Day 1839, by the Alexander Hamilton monument in Trinity Church's churchyard; Hymnology Archive says Christmas Eve or Christmas Day [^sng-spread][^hymnarchive].
+**How it travelled.** Gruber's account says a well-known man from the Zillertal took the song to Tyrol; the Silent Night Association identifies him as the organ builder Carl Mauracher, of Fügen, who worked on the Oberndorf organ in 1825 [^sng-spread][^hochradner]. The Strasser siblings of Laimach, glove makers who also sang, performed it in Leipzig in December 1832, after a reader's letter to the Leipziger Tageblatt asked for it [^hochradner][^sng-spread][^hymnarchive]. Its earliest known printing with music followed in about 1833, in Dresden, among Vier ächte Tyroler Lieder, "four genuine Tyrolean songs". It named no authors, moved the key to C and kept three of Mohr's six verses: the first, the sixth and the second [^hochradner][^hymnarchive][^sng-spread]. Another troupe, the Rainer family, are believed to have brought it to New York; the Silent Night Association places their singing of it on Christmas Day 1839, by the Alexander Hamilton monument in Trinity Church's churchyard; Hymnology Archive says Christmas Eve or Christmas Day [^sng-spread][^hymnarchive].
 
 In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg who had written the song, and some thought it was by the composer Michael Haydn [^hochradner][^hymnarchive]. Gruber's answer, the only first-hand record of that night, survives in the Silent Night archive in Hallein, where he was by then organist and choir director [^hochradner][^sng-time].
 
@@ -40,25 +41,24 @@ In 1854 the royal court musicians in Berlin asked St Peter's Abbey in Salzburg w
 
 ![[2]]
 
-**Myth and record.** Often told: on Christmas Eve 1818 the organ broke down, mice had chewed through its bellows, and Mohr and Gruber wrote a song for guitar to save the service. What the record shows: Gruber's 1854 account gives no reason for the guitar [^hymnarchive][^sng-hist]. The Silent Night Society still names a broken organ as one supposition [^sng-hist]. Hochradner finds nothing in the documents to show the organ was broken, and suggests the guitar was chosen because the song was sung at the crib at the end of Mass [^hochradner]. The organ did need work: a hymnal companion quoted by Hymnology Archive says Gruber's son later called it almost unplayable, and in 1825 Mauracher rebuilt it, or by Hochradner's account built a new one [^hymnarchive][^sng-spread][^hochradner]. The mice in the bellows are an embroidered detail [^hymnarchive][^hochradner].
+**Myth and record.** Often told: on Christmas Eve 1818 the organ broke down, mice had chewed through its bellows, and Mohr and Gruber wrote a song for guitar to save the service. What the record shows: Gruber's 1854 account gives no reason for the guitar [^hymnarchive][^sng-hist]. The Silent Night Association still names a broken organ as one supposition [^sng-hist]. Hochradner finds nothing in the documents to show the organ was broken, and suggests the guitar was chosen because the song was sung at the crib at the end of Mass [^hochradner]. The organ did need work: a hymnal companion quoted by Hymnology Archive says Gruber's son later called it almost unplayable, and in 1825 Mauracher rebuilt it, or by Hochradner's account built a new one [^hymnarchive][^sng-spread][^hochradner]. The mice in the bellows are an embroidered detail [^hymnarchive][^hochradner].
 
 ### Timeline
 
 - 1816: Joseph Mohr writes the poem in Mariapfarr. [^sng-time][^hochradner][^hymnarchive]
 - 1818: Gruber sets it on 24 December, and it is sung at Christmas Eve Mass in Oberndorf. [^sng-hist][^hochradner][^hymnarchive]
+- 1827 to 1832: In Steyr, Joseph Greis prints all six stanzas, words only, in an undated Christmas leaflet, the earliest known printing of the text; the dates are the Silent Night Association's estimate. [^sng-greis][^orf-greis]
 - 1832: The Strasser siblings sing it in Leipzig. [^sng-spread][^hochradner][^hymnarchive]
-- before 1832: Joseph Greis prints all six stanzas, the words alone, in a Christmas leaflet at Steyr, the earliest known printing of the text. [^sng-greis][^orf-greis]
 - 1833: About this year, its earliest known printing with music, in Dresden. [^sng-spread][^hymnarchive]
 - 1839: The Rainer family singers are believed to bring it to New York. [^sng-spread][^hymnarchive]
-- 1854: Gruber dates his account of the song's making 30 December. [^sng-time][^hymnarchive]
 - 1859: John Freeman Young's English is printed in New York, in Carols for Christmas Tide. [^young]
 - 1995: Mohr's own copy of the song, dating the words to 1816, comes to light. [^sng-time][^sonntagsblatt]
 
 ## What the words mean
 
-Mohr wrote six verses. Young's English has three, the same three, in the same order, as the earliest printing with music [^young][^hochradner]. Young keeps Mohr's sense, not his exact words [^hymnarchive]. We sing Young's first verse as Charles L. Hutchins printed it in 1916 [^hutchins].
+Mohr wrote six verses. Young's English has three, the same three, in the same order, as the earliest printing with music [^young][^hochradner]. Young follows Mohr's meaning far more closely than James F. Warner's earlier English did, but freely, in lines of his own [^hymnarchive].
 
-**Verse 1, the one we sing.** A silent, holy night: the night of Jesus' birth. "All is calm, all is bright round yon virgin mother and child": everything is still and full of light around the mother and her baby. "Round yon" means around that one, over there, as if pointing at the manger. The virgin mother is Mary. The last lines speak to the baby, like a lullaby: holy infant, so tender and "mild", gentle, sleep in heavenly peace. Mohr's first verse is different, as his German below shows [^mohr-ms].
+**Verse 1, the one we sing.** A silent, holy night: the night of Jesus' birth. "All is calm, all is bright round yon virgin mother and child": everything is still and full of light around the mother and her baby. "Round yon" means around that one, over there, as if pointing at the manger. The virgin mother is Mary. The last lines speak to the baby, like a lullaby: holy infant, so tender and "mild", gentle, sleep in heavenly peace.
 
 **Verse 2 (Mohr's sixth).** The shepherds "quake", tremble, at the sight. Light streams from heaven, and the "heavenly hosts", the armies of angels, sing Alleluia, a cry of praise: "Christ, the Saviour is born" [^young]. It is the shepherds' story from Luke's Gospel, chapter 2 [^hymnarchive]. Mohr ends "Jesus der Retter ist da!": Jesus the Saviour is here [^mohr-ms].
 
@@ -66,7 +66,7 @@ Mohr wrote six verses. Young's English has three, the same three, in the same or
 
 ### Mohr's German
 
-Here are Mohr's six verses as he wrote them out in his own copy, read from its facsimile, with his spelling, such as "befreyt", "bey" and "Geburth" [^mohr-ms]. He writes the first line once, as "Stille Nacht! Heilge Nacht!", for every verse. The Silent Night Society prints the same words in modern spelling from a copy in Gruber's hand of about 1860, which has "urgrauer" where Mohr wrote "urgrauen" [^sng-text]. Under each line is our own plain English.
+Here are Mohr's six verses as he wrote them out in his own copy, read from its facsimile, with his spelling, such as "befreyt", "bey" and "Geburth" [^mohr-ms]. He writes the first line once, as "Stille Nacht! Heilge Nacht!", for every verse. The Silent Night Association prints the same words in modern spelling from a copy in Gruber's hand of about 1860, which has "urgrauer" where Mohr wrote "urgrauen" [^sng-text]. Under each line is our own plain English.
 
 **Verse 1**
 > Stille Nacht! Heilge Nacht!
@@ -186,17 +186,17 @@ Silent Night was made for a Catholic Christmas Eve Mass [^hochradner]. Protestan
 
 In hymnals the tune is called STILLE NACHT. Hymnary.org gives its meter both as irregular and as 6.6.8.8.6.6. Most hymnals print three verses [^hymnary-text][^hymnary-tune].
 
-Our arrangement sings Young's first verse in C, the key of Hutchins's 1916 printing, written in 3/4 and taken slowly [^hutchins]. It is for 2 to 4 singers, with the bass on "oo". The melody is the one sung today, a little changed from Gruber's: its first "Sleep in heavenly peace" begins a third higher than in his manuscripts [^hochradner][^hymnarchive].
+Our arrangement sings Young's first verse in C, the key of Hutchins's 1916 printing; he prints it in 6/8, and we write it in 3/4, taken slowly [^hutchins]. It is for 2 to 4 singers, with the bass on "oo". The melody is the one sung today, a little changed from Gruber's: its first "Sleep in heavenly peace" begins a third higher than in his manuscripts [^hochradner][^hymnarchive].
 
 ## Versions and other words
 
 - **Wichern's text:** printed in his songbook Unsere Lieder (Hamburg, 1844). Hochradner calls it a revision; Julian took it for the original form [^hochradner][^julian].
 - **English before Young:** James F. Warner's "Silent night! hallowed night!", a free version, in a New York primer, The Primary Note Reader: 1846 by Hymnology Archive, a fourth edition of 1847 by the Canterbury Dictionary of Hymnology [^hymnarchive][^canterbury].
-- **English in Britain:** Jane Montgomery Campbell's "Holy night! peaceful night!", in C. S. Bere's Garland of Songs: 1862 by Hymnology Archive, 1863 by Julian [^hymnarchive][^julian].
+- **English in Britain:** probably first, Emily Elizabeth Steele Elliott's, privately printed about 1858 for the choir of St Mark's, Brighton [^canterbury][^julian]. Then Jane Montgomery Campbell's "Holy night! peaceful night!", in C. S. Bere's Garland of Songs: 1862 by Hymnology Archive, 1863 by Julian [^hymnarchive][^julian].
 
 ## Singing it
 
-- [Soprano](/songs/silent-night/soprano): the tune, slow but wide, from the low C of the last "peace" to the high F on "heav-" in the first "Sleep in heavenly peace". Float that F, breathe after the high "sleep", and let the last phrase come down to the low C.
+- [Soprano](/songs/silent-night/soprano): the tune, slow but wide, from the low C of the last "peace" to the high F on "heav-" in the first "Sleep in heavenly peace". Float that F and breathe after the high "sleep".
 - [Alto](/songs/silent-night/alto): a third below the tune for most of the verse; "Round yon virgin mother and child" and "Holy infant so tender and mild" are the clearest stretches. In the first "Sleep in heavenly peace" it climbs slowly from B to E while the tune leaps to its top F, and on the last "peace" it ends on E, above the tune's low C.
 - [Tenor](/songs/silent-night/tenor): almost all G and C. From "all is bright" to "tender and" it holds one C while the others move: keep it steady and in tune. The few changes are up to D on "calm", down to F on "Sleep in", and a quick E on the last "heav-".
 - [Bass](/songs/silent-night/bass): "oo" on one long note a bar, mostly C, up to F under "Round yon virgin" and "Holy infant", down to the low G under "All is calm" and "Sleep in heavenly". On "child" it rises to E, the only E in the part.
@@ -213,7 +213,7 @@ It means "around that virgin mother and child". "Round" is around, and "yon" is 
 
 ### Was Silent Night sung in the 1914 Christmas truce?
 
-Yes, in places, by the memories British soldiers gave afterwards. Private Albert Moren of the 2nd Queen's remembered the Germans opposite singing "Stille Nacht" on Christmas Eve 1914, during the unofficial truce on parts of the Western Front [^cwgc]. Another British soldier, Colin Wilson, recalled hearing a German sing it in German [^npr]. These are memories, not records made that night. The truce was not everywhere: some units were met with gunfire [^cwgc][^npr].
+Yes, in places, by the memories British soldiers gave afterwards. Private Albert Moren of the 2nd Queen's remembered the Germans opposite singing "Stille Nacht" on Christmas Eve 1914, during the unofficial truce on parts of the Western Front [^cwgc]. Another British soldier, Colin Wilson, recalled hearing a German sing it in German [^npr]. These are memories, not records made that night. The truce was not everywhere: some units were met with gunfire [^cwgc].
 
 ### Which part sings the tune?
 
@@ -223,7 +223,7 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 
 - [Away in a Manger](/songs/away-in-a-manger): another gentle cradle carol in three, sung slowly.
 - [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): a beginner carol for the same Christmas Eve, bright where Silent Night is hushed.
-- [Brahms's Lullaby](/songs/brahms-lullaby): a German cradle song in three, slow and gentle.
+- [Noche de paz](/songs/noche-de-paz): the same tune with Spanish words, from a New York hymnal of 1893, all three verses.
 
 ## Sources
 

@@ -5,7 +5,8 @@ lead: Poema de Joseph Mohr, melodía de Franz Xaver Gruber: se cantó por primer
 words: Joseph Mohr (1816); en inglés, John Freeman Young (1859)
 tune: Franz Xaver Gruber (1818)
 tuneName: STILLE NACHT
-earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, antes de 1832 (solo la letra)
+meter: irregular; 6.6.8.8.6.6
+earliestPrinting: Vier schöne neue Weihnachtslieder, Joseph Greis, Steyr, sin fecha, hacia 1827 a 1832 según estima la Asociación Stille Nacht (solo la letra)
 earliestPrintingSource: sng-greis
 language: alemán; inglés
 origin: Oberndorf bei Salzburg, Austria
@@ -14,26 +15,26 @@ alsoKnownAs: Stille Nacht! Heilige Nacht!; Noche de paz
 wikidata: Q172152
 quote: Silent night! Holy night! All is calm, all is bright
 quoteSource: young
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz | noche de paz tregua de navidad 1914 | silent night letra significado | noche de paz letra original en alemán
-translatedFrom: 7ade0622283c
+translatedFrom: a7abb93b26ab
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-26061/ || National Jukebox, grabación de 1909 | https://www.loc.gov/item/jukebox-761693/
 original: Autógrafo de Joseph Mohr, Wikimedia Commons | https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg
 ---
 
-Silent Night, Noche de paz en español, es un villancico de Austria. Joseph Mohr, un sacerdote católico coadjutor, escribió su letra alemana, Stille Nacht! Heilige Nacht!, como un poema en 1816. Franz Xaver Gruber, maestro de escuela de pueblo y organista de la iglesia, le puso música para la Nochebuena de 1818 en Oberndorf, cerca de Salzburgo [^sng-hist][^hochradner]. En unos veinte años, familias de cantantes tiroleses la habían llevado a Leipzig y, según se cree, a Nueva York, casi siempre sin los nombres de sus autores [^sng-spread][^hymnarchive]. La Sociedad Noche de Paz conoce traducciones a más de 300 idiomas y dialectos; un reportaje alemán de 2024 habla de más de 320 [^sng-spread][^sonntagsblatt]. La versión inglesa que canta casi todo el mundo es la de John Freeman Young, impresa en Nueva York en 1859 [^young][^hymnarchive].
+Silent Night, Noche de paz en español, es un villancico de Austria. Joseph Mohr, un sacerdote católico coadjutor, escribió su letra alemana, Stille Nacht! Heilige Nacht!, como un poema en 1816. Franz Xaver Gruber, maestro de escuela de pueblo y organista de la iglesia, le puso música para la Nochebuena de 1818 en Oberndorf, cerca de Salzburgo [^sng-hist][^hochradner]. En unos veinte años, familias de cantantes tiroleses la habían llevado a Leipzig y, según se cree, a Nueva York, casi siempre sin los nombres de sus autores [^sng-spread][^hymnarchive][^hochradner]. La Asociación Stille Nacht conoce traducciones a más de 300 idiomas y dialectos; un reportaje alemán de 2024 habla de más de 320 [^sng-spread][^sonntagsblatt]. La versión inglesa que canta casi todo el mundo es la de John Freeman Young, impresa en Nueva York en 1859 [^young][^hymnarchive].
 
 ## De dónde viene
 
-**La letra.** Mohr nació en Salzburgo en 1792 y se ordenó sacerdote en 1815 [^sng-time][^julian]. Escribió el poema en 1816, como coadjutor en Mariapfarr, en la región del Lungau [^sng-hist][^hochradner][^hymnarchive]. Su propia copia de la canción, hecha hacia 1820 a 1825 y hoy en el Salzburg Museum, va firmada "Text von Joseph Mohr mpia Coadjutor 1816": letra de Joseph Mohr, de su puño y letra, coadjutor, 1816 [^mohr-ms][^sng-text]. Esa hoja no salió a la luz hasta 1995 [^sng-time][^sonntagsblatt]. Libros más antiguos, como el Dictionary of Hymnology de Julian, fechan la letra en 1818 [^julian].
+**La letra.** Mohr nació en Salzburgo en 1792 y se ordenó sacerdote en 1815 [^sng-time][^julian]. Escribió el poema en 1816, como coadjutor en Mariapfarr, en la región del Lungau [^sng-hist][^hochradner][^hymnarchive]. Su propia copia de la canción, hecha hacia 1820 a 1825 y hoy en el Salzburg Museum, va firmada "Text von Joseph Mohr mpia Coadjutor 1816": letra de Joseph Mohr, de su puño y letra, coadjutor, 1816 [^mohr-ms][^sng-text]. Arriba escribió "Melodie von Fr. Xav. Gruber", melodía de Fr. Xav. Gruber, y la indicación Largo, lento; las dos voces comparten un pentagrama, encima del de la guitarra [^mohr-ms]. Esa hoja no salió a la luz hasta 1995 [^sng-time][^sonntagsblatt]. Libros más antiguos, como el Dictionary of Hymnology de Julian, fechan la letra en 1818 [^julian].
 
-**La melodía.** En 1817 Mohr pasó a la parroquia de San Nicolás de Oberndorf, cuyo organista era Gruber, el maestro de escuela del cercano Arnsdorf [^hymnarchive][^sng-time]. Gruber contó el resto en un breve relato fechado el 30 de diciembre de 1854 [^sng-time][^hymnarchive]. La Nochebuena de 1818, escribió, Mohr le llevó el poema y le pidió una melodía para dos voces solistas y coro, con guitarra. Gruber la escribió ese mismo día, y se cantó esa noche en la misa de Nochebuena [^sng-hist][^hymnarchive]. Según la Sociedad Noche de Paz, Mohr cantó la voz aguda y tocó la guitarra, y Gruber cantó la grave [^hochradner][^sng-hist]. El coro, según el musicólogo Thomas Hochradner, repetía el último verso de cada estrofa [^hochradner]. La primera partitura de Gruber se ha perdido; la Sociedad Noche de Paz registra cuatro copias posteriores de su mano, y la de Mohr, casi todas en Re mayor y en 6/8 [^hochradner][^sng-text].
+**La melodía.** En 1817 Mohr pasó a la parroquia de San Nicolás de Oberndorf, cuyo organista era Gruber, el maestro de escuela del cercano Arnsdorf [^hymnarchive][^sng-time]. Gruber contó el resto en un breve relato fechado el 30 de diciembre de 1854 [^sng-time][^hymnarchive]. La Nochebuena de 1818, escribió, Mohr le llevó el poema y le pidió una melodía para dos voces solistas y coro, con guitarra. Gruber la escribió ese mismo día, y se cantó esa noche en la misa de Nochebuena [^sng-hist][^hymnarchive][^hochradner]. Mohr cantó la voz aguda, que la Asociación Stille Nacht llama de tenor, y tocó la guitarra; Gruber cantó la grave, la de bajo [^hochradner][^sng-hist]. El coro, según el musicólogo Thomas Hochradner, repetía el último verso de cada estrofa [^hochradner]. La primera partitura de Gruber se ha perdido. De las siete copias de su mano que registra la Asociación Stille Nacht se conservan cuatro posteriores, y también la copia de Mohr; todas están en 6/8, y todas menos una, una versión orquestal de 1836 en Mi bemol, en Re mayor [^hochradner][^sng-text].
 
 ![[1]]
 
-**Cómo viajó.** El relato de Gruber dice que un hombre conocido del Zillertal llevó la canción al Tirol; la Sociedad Noche de Paz lo identifica como el organero Carl Mauracher, de Fügen, que trabajó en el órgano de Oberndorf en 1825 [^sng-spread][^hochradner]. Los hermanos Strasser, de Laimach, guanteros que además cantaban, la interpretaron en Leipzig en diciembre de 1832, después de que la carta de un lector al Leipziger Tageblatt la pidiera [^hochradner][^sng-spread][^hymnarchive]. Su primera impresión conocida con música llegó hacia 1833, en Dresde, entre las Vier ächte Tyroler Lieder, "cuatro auténticas canciones tirolesas". No nombraba a los autores, pasaba la tonalidad a Do y conservaba tres de las seis estrofas de Mohr: la primera, la sexta y la segunda [^hochradner][^hymnarchive]. Se cree que otra compañía, la familia Rainer, la llevó a Nueva York; la Sociedad Noche de Paz sitúa su interpretación el día de Navidad de 1839, junto al monumento a Alexander Hamilton en el cementerio de la iglesia de la Trinidad (Trinity Church); Hymnology Archive dice que fue en Nochebuena o el día de Navidad [^sng-spread][^hymnarchive].
+**Cómo viajó.** El relato de Gruber dice que un hombre conocido del Zillertal llevó la canción al Tirol; la Asociación Stille Nacht lo identifica como el organero Carl Mauracher, de Fügen, que trabajó en el órgano de Oberndorf en 1825 [^sng-spread][^hochradner]. Los hermanos Strasser, de Laimach, guanteros que además cantaban, la interpretaron en Leipzig en diciembre de 1832, después de que la carta de un lector al Leipziger Tageblatt la pidiera [^hochradner][^sng-spread][^hymnarchive]. Su primera impresión conocida con música llegó hacia 1833, en Dresde, entre las Vier ächte Tyroler Lieder, "cuatro auténticas canciones tirolesas". No nombraba a los autores, pasaba la tonalidad a Do y conservaba tres de las seis estrofas de Mohr: la primera, la sexta y la segunda [^hochradner][^hymnarchive][^sng-spread]. Se cree que otra compañía, la familia Rainer, la llevó a Nueva York; la Asociación Stille Nacht sitúa su interpretación el día de Navidad de 1839, junto al monumento a Alexander Hamilton en el cementerio de la iglesia de la Trinidad (Trinity Church); Hymnology Archive dice que fue en Nochebuena o el día de Navidad [^sng-spread][^hymnarchive].
 
 En 1854 los músicos de la corte real de Berlín preguntaron a la abadía de San Pedro de Salzburgo quién había escrito la canción, y algunos creían que era del compositor Michael Haydn [^hochradner][^hymnarchive]. La respuesta de Gruber, el único testimonio de primera mano de aquella noche, se conserva en el archivo Stille Nacht de Hallein, donde para entonces era organista y director del coro [^hochradner][^sng-time].
 
@@ -41,25 +42,24 @@ En 1854 los músicos de la corte real de Berlín preguntaron a la abadía de San
 
 ![[2]]
 
-**Mito y documentos.** Se suele contar que la Nochebuena de 1818 el órgano se estropeó, porque los ratones habían roído el fuelle, y que Mohr y Gruber escribieron una canción para guitarra para salvar la misa. Lo que muestran los documentos: el relato de Gruber de 1854 no da ningún motivo para la guitarra [^hymnarchive][^sng-hist]. La Sociedad Noche de Paz todavía menciona un órgano estropeado como una suposición [^sng-hist]. Hochradner no encuentra nada en los documentos que muestre que el órgano estuviera roto, y sugiere que se eligió la guitarra porque la canción se cantaba junto al pesebre al final de la misa [^hochradner]. El órgano sí necesitaba arreglos: un comentario de himnario citado por Hymnology Archive dice que el hijo de Gruber lo describió más tarde como casi imposible de tocar, y en 1825 Mauracher lo reconstruyó o, según Hochradner, construyó uno nuevo [^hymnarchive][^sng-spread][^hochradner]. Los ratones en el fuelle son un detalle adornado [^hymnarchive][^hochradner].
+**Mito y documentos.** Se suele contar que la Nochebuena de 1818 el órgano se estropeó, porque los ratones habían roído el fuelle, y que Mohr y Gruber escribieron una canción para guitarra para salvar la misa. Lo que muestran los documentos: el relato de Gruber de 1854 no da ningún motivo para la guitarra [^hymnarchive][^sng-hist]. La Asociación Stille Nacht todavía menciona un órgano estropeado como una suposición [^sng-hist]. Hochradner no encuentra nada en los documentos que muestre que el órgano estuviera roto, y sugiere que se eligió la guitarra porque la canción se cantaba junto al pesebre al final de la misa [^hochradner]. El órgano sí necesitaba arreglos: un comentario de himnario citado por Hymnology Archive dice que el hijo de Gruber lo describió más tarde como casi imposible de tocar, y en 1825 Mauracher lo reconstruyó o, según Hochradner, construyó uno nuevo [^hymnarchive][^sng-spread][^hochradner]. Los ratones en el fuelle son un detalle adornado [^hymnarchive][^hochradner].
 
 ### Cronología
 
 - 1816: Joseph Mohr escribe el poema en Mariapfarr. [^sng-time][^hochradner][^hymnarchive]
 - 1818: Gruber le pone música el 24 de diciembre, y se canta en la misa de Nochebuena de Oberndorf. [^sng-hist][^hochradner][^hymnarchive]
+- 1827 a 1832: En Steyr, Joseph Greis imprime las seis estrofas, solo la letra, en un pliego navideño sin fecha, la primera impresión conocida del texto; las fechas son una estimación de la Asociación Stille Nacht. [^sng-greis][^orf-greis]
 - 1832: Los hermanos Strasser la cantan en Leipzig. [^sng-spread][^hochradner][^hymnarchive]
-- antes de 1832: Joseph Greis imprime las seis estrofas, solo la letra, en un pliego navideño en Steyr, la primera impresión conocida del texto. [^sng-greis][^orf-greis]
 - 1833: Hacia este año, su primera impresión conocida con música, en Dresde. [^sng-spread][^hymnarchive]
 - 1839: Se cree que los cantantes de la familia Rainer la llevan a Nueva York. [^sng-spread][^hymnarchive]
-- 1854: Gruber fecha su relato del origen de la canción el 30 de diciembre. [^sng-time][^hymnarchive]
 - 1859: La versión inglesa de John Freeman Young se imprime en Nueva York, en Carols for Christmas Tide. [^young]
 - 1995: Sale a la luz la propia copia de Mohr, que fecha la letra en 1816. [^sng-time][^sonntagsblatt]
 
 ## Qué dice la letra
 
-Mohr escribió seis estrofas. La versión inglesa de Young tiene tres, las mismas tres, en el mismo orden, que la primera impresión con música [^young][^hochradner]. Young mantiene el sentido de Mohr, no sus palabras exactas [^hymnarchive]. Cantamos la primera estrofa de Young tal como la imprimió Charles L. Hutchins en 1916 [^hutchins].
+Mohr escribió seis estrofas. La versión inglesa de Young tiene tres, las mismas tres, en el mismo orden, que la primera impresión con música [^young][^hochradner]. Young sigue el sentido de Mohr mucho más de cerca que la versión inglesa anterior de James F. Warner, pero con libertad, en versos propios [^hymnarchive].
 
-**Estrofa 1, la que cantamos.** Una noche silenciosa y santa: la noche en que nace Jesús. "All is calm, all is bright round yon virgin mother and child": todo está en calma y lleno de luz alrededor de la madre y su bebé. "Round yon" quiere decir alrededor de aquel, el de allí, como si señalara el pesebre. La madre virgen es María. Los últimos versos le hablan al niño, como una canción de cuna: niño santo, tan tierno y "mild", apacible, duerme en paz celestial. La primera estrofa de Mohr es distinta, como muestra su alemán más abajo [^mohr-ms].
+**Estrofa 1, la que cantamos.** Una noche silenciosa y santa: la noche en que nace Jesús. "All is calm, all is bright round yon virgin mother and child": todo está en calma y lleno de luz alrededor de la madre y su bebé. "Round yon" quiere decir alrededor de aquel, el de allí, como si señalara el pesebre. La madre virgen es María. Los últimos versos le hablan al niño, como una canción de cuna: niño santo, tan tierno y "mild", apacible, duerme en paz celestial.
 
 **Estrofa 2 (la sexta de Mohr).** Los pastores "quake", tiemblan, ante lo que ven. La luz baja del cielo, y las "heavenly hosts", los ejércitos de ángeles, cantan aleluya, un grito de alabanza: "Christ, the Saviour is born" (ha nacido Cristo, el Salvador) [^young]. Es la historia de los pastores del Evangelio de Lucas, capítulo 2 [^hymnarchive]. Mohr termina con "Jesus der Retter ist da!": Jesús, el Salvador, está aquí [^mohr-ms].
 
@@ -67,7 +67,7 @@ Mohr escribió seis estrofas. La versión inglesa de Young tiene tres, las misma
 
 ### El alemán de Mohr
 
-Estas son las seis estrofas de Mohr tal como las copió él mismo, leídas en el facsímil de su manuscrito, con su ortografía, como "befreyt", "bey" y "Geburth" [^mohr-ms]. Escribe el primer verso una sola vez, como "Stille Nacht! Heilge Nacht!", para todas las estrofas. La Sociedad Noche de Paz da las mismas palabras con ortografía moderna, de una copia de mano de Gruber de hacia 1860, que dice "urgrauer" donde Mohr escribió "urgrauen" [^sng-text]. Debajo de cada verso va nuestro propio sentido en español.
+Estas son las seis estrofas de Mohr tal como las copió él mismo, leídas en el facsímil de su manuscrito, con su ortografía, como "befreyt", "bey" y "Geburth" [^mohr-ms]. Escribe el primer verso una sola vez, como "Stille Nacht! Heilge Nacht!", para todas las estrofas. La Asociación Stille Nacht da las mismas palabras con ortografía moderna, de una copia de mano de Gruber de hacia 1860, que dice "urgrauer" donde Mohr escribió "urgrauen" [^sng-text]. Debajo de cada verso va nuestro propio sentido en español.
 
 **Estrofa 1**
 > Stille Nacht! Heilge Nacht!
@@ -205,17 +205,17 @@ Silent Night se hizo para una misa católica de Nochebuena [^hochradner]. La Ale
 
 En los himnarios, la melodía se llama STILLE NACHT. Hymnary.org da su métrica como irregular y también como 6.6.8.8.6.6. La mayoría de los himnarios imprimen tres estrofas [^hymnary-text][^hymnary-tune].
 
-Nuestro arreglo canta la primera estrofa de Young en Do, la tonalidad de la edición de Hutchins de 1916, escrita en 3/4 y a tempo lento [^hutchins]. Es para 2 a 4 cantantes, con el bajo en "oo". La melodía es la que se canta hoy, un poco cambiada respecto a la de Gruber: su primer "Sleep in heavenly peace" empieza una tercera más arriba que en sus manuscritos [^hochradner][^hymnarchive].
+Nuestro arreglo canta la primera estrofa de Young en Do, la tonalidad de la edición de Hutchins de 1916; él la imprime en 6/8, y nosotros la escribimos en 3/4, a tempo lento [^hutchins]. Es para 2 a 4 cantantes, con el bajo en "oo" (una u). La melodía es la que se canta hoy, un poco cambiada respecto a la de Gruber: su primer "Sleep in heavenly peace" empieza una tercera más arriba que en sus manuscritos [^hochradner][^hymnarchive].
 
 ## Versiones y otras letras
 
 - **El texto de Wichern:** impreso en su cancionero Unsere Lieder (Hamburgo, 1844). Hochradner lo llama una revisión; Julian lo tomó por la forma original [^hochradner][^julian].
 - **En inglés antes de Young:** "Silent night! hallowed night!", de James F. Warner, una versión libre, en un manual de Nueva York, The Primary Note Reader: de 1846 según Hymnology Archive, una cuarta edición de 1847 según el Canterbury Dictionary of Hymnology [^hymnarchive][^canterbury].
-- **En inglés en Gran Bretaña:** "Holy night! peaceful night!", de Jane Montgomery Campbell, en el Garland of Songs de C. S. Bere: de 1862 según Hymnology Archive, de 1863 según Julian [^hymnarchive][^julian].
+- **En inglés en Gran Bretaña:** probablemente la primera, la de Emily Elizabeth Steele Elliott, impresa de forma privada hacia 1858 para el coro de St Mark's, en Brighton [^canterbury][^julian]. Después, "Holy night! peaceful night!", de Jane Montgomery Campbell, en el Garland of Songs de C. S. Bere: de 1862 según Hymnology Archive, de 1863 según Julian [^hymnarchive][^julian].
 
 ## Cómo cantarla
 
-- [Soprano](/songs/silent-night/soprano): la melodía, lenta pero amplia, desde el Do grave del último "peace" hasta el Fa agudo de "heav-" en el primer "Sleep in heavenly peace". Deja flotar ese Fa, respira después del "sleep" agudo y deja que la última frase baje hasta el Do grave.
+- [Soprano](/songs/silent-night/soprano): la melodía, lenta pero amplia, desde el Do grave del último "peace" hasta el Fa agudo de "heav-" en el primer "Sleep in heavenly peace". Deja flotar ese Fa y respira después del "sleep" agudo.
 - [Contralto](/songs/silent-night/alto): una tercera por debajo de la melodía en casi toda la estrofa; "Round yon virgin mother and child" y "Holy infant so tender and mild" son los tramos más claros. En el primer "Sleep in heavenly peace" sube despacio de Si a Mi mientras la melodía salta a su Fa más agudo, y en el último "peace" termina en Mi, por encima del Do grave de la melodía.
 - [Tenor](/songs/silent-night/tenor): casi todo Sol y Do. Desde "all is bright" hasta "tender and" sostiene un mismo Do mientras las demás voces se mueven: mantenlo firme y afinado. Los pocos cambios son la subida a Re en "calm", la bajada a Fa en "Sleep in" y un Mi rápido en el último "heav-".
 - [Bajo](/songs/silent-night/bass): "oo" en una nota larga por compás, casi siempre Do, sube a Fa debajo de "Round yon virgin" y "Holy infant", y baja al Sol grave debajo de "All is calm" y "Sleep in heavenly". En "child" sube a Mi, el único Mi de la voz.
@@ -232,7 +232,7 @@ Significa "alrededor de aquella madre virgen y su niño". "Round" es alrededor, 
 
 ### ¿Se cantó Silent Night en la tregua de Navidad de 1914?
 
-Sí, en algunos lugares, según los recuerdos que contaron después soldados británicos. El soldado Albert Moren, del 2nd Queen's, recordaba que los alemanes de enfrente cantaron "Stille Nacht" la Nochebuena de 1914, durante la tregua no oficial en partes del frente occidental [^cwgc]. Otro soldado británico, Colin Wilson, recordaba haber oído a un alemán cantarla en alemán [^npr]. Son recuerdos, no documentos escritos esa noche. La tregua no fue general: algunas unidades se encontraron con disparos [^cwgc][^npr].
+Sí, en algunos lugares, según los recuerdos que contaron después soldados británicos. El soldado Albert Moren, del 2nd Queen's, recordaba que los alemanes de enfrente cantaron "Stille Nacht" la Nochebuena de 1914, durante la tregua no oficial en partes del frente occidental [^cwgc]. Otro soldado británico, Colin Wilson, recordaba haber oído a un alemán cantarla en alemán [^npr]. Son recuerdos, no documentos escritos esa noche. La tregua no fue general: algunas unidades se encontraron con disparos [^cwgc].
 
 ### ¿Qué voz canta la melodía?
 
@@ -242,11 +242,11 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 
 - [Away in a Manger](/songs/away-in-a-manger): otro villancico de cuna, suave y a tres tiempos, que se canta despacio.
 - [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): un villancico para principiantes, para la misma Nochebuena, luminoso donde Silent Night es callado.
-- [Brahms's Lullaby](/songs/brahms-lullaby): una canción de cuna alemana a tres tiempos, lenta y suave.
+- [Noche de paz](/songs/noche-de-paz): la misma melodía con la letra en español, de un himnario de Nueva York de 1893, con sus tres estrofas.
 
 ## Fuentes
 
-- [^sng-hist]: Stille Nacht Gesellschaft (Sociedad Noche de Paz), *History of the Song*. https://www.stillenacht.at/en/history-of-the-song
+- [^sng-hist]: Stille Nacht Gesellschaft (Asociación Stille Nacht), *History of the Song*. https://www.stillenacht.at/en/history-of-the-song
 - [^sng-time]: Stille Nacht Gesellschaft, *Research Timetable*. https://www.stillenacht.at/en/research/timetable
 - [^sng-spread]: Stille Nacht Gesellschaft, *Spreading of the Song*. https://www.stillenacht.at/en/history/spreading-of-the-song
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (los autógrafos y las seis estrofas). https://www.stillenacht.at/en/text-and-music

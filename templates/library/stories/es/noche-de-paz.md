@@ -153,7 +153,7 @@ La soprano canta la melodía de Gruber tal como la imprime el himnario español 
 - [^dbclm]: Enrique Sánchez Lubián, "Friedrich Fliedner Bertheau", *Diccionario biográfico de Castilla-La Mancha* (en español). https://diccionariobiograficodecastillalamancha.es/biografias/friedrich-fliedner-bertheau/
 - [^eldebate]: Fernando Carratalá, "'Noche de paz', el villancico que entonaron soldados rivales en la Navidad de la Primera Guerra Mundial", *El Debate* (26 de diciembre de 2023), en español. https://www.eldebate.com/religion/20231226/noche-paz-villancico-entonaron-soldados-rivales-navidad-primera-guerra-mundial_162271.html
 - [^cyber2009]: The Cyber Hymnal, *Noche de paz, noche de amor*, tal como lo archivó Internet Archive el 8 de marzo de 2009: "traductor desconocido". https://web.archive.org/web/20090308132026/http://www.cyberhymnal.org/non/es/nochepaz.htm
-- [^sng-time]: Stille Nacht Gesellschaft (Sociedad Noche de Paz), *Research Timetable*. https://www.stillenacht.at/en/research/timetable
+- [^sng-time]: Stille Nacht Gesellschaft (Asociación Stille Nacht), *Research Timetable*. https://www.stillenacht.at/en/research/timetable
 - [^sng-text]: Stille Nacht Gesellschaft, *Text and Music* (los autógrafos y las seis estrofas). https://www.stillenacht.at/en/text-and-music
 - [^hymnarchive]: Hymnology Archive, *Stille Nacht / Silent Night*. https://www.hymnologyarchive.com/stille-nacht-silent-night
 - [^mohr-ms]: Joseph Mohr, *Weyhnachts-Lied*, autógrafo para voces y guitarra (hacia 1820 a 1825), Salzburg Museum; facsímil en Wikimedia Commons. https://commons.wikimedia.org/wiki/File:Autograph_Mohr_Stille_Nacht.jpg

@@ -31,7 +31,7 @@ Checked 2026-11-12. Originals in raw/; finals made with sips only (BMP round tri
     from the negative; both long expired.
 - What it shows: houses deep in floodwater, the Salzach, a domed building on the hill at the top left and a white
   church with a tall tower in the distance. No people visible; no drawn figures; no logos or watermarks.
-- Caption facts: Silent Night Society, Oberndorf page, https://www.stillenacht.at/en/sites/oberndorf : "Fires and
+- Caption facts: Silent Night Association, Oberndorf page, https://www.stillenacht.at/en/sites/oberndorf : "Fires and
   floods (the bridge to Laufen was torn away in 1899)" were reasons for moving the town up the Salzach from 1901;
   "The church of St. Nikola in the old part of the village was demolished"; "In 1937 the Silent Night Chapel was
   built in its place." The caption does not claim that the church in the photo is St Nicholas. The slide's label
