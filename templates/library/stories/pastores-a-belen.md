@@ -15,17 +15,26 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: pastores a belen | pastores a belen letra | pastores a belen meaning | pastores a belen lyrics english | pastores a belen autor | pastores a belen puerto rico | pastores a belen letra completa
+original: Cánticos espirituales, 1916, Internet Archive | https://archive.org/details/b19151652/page/n19
 ---
 
 Pastores a Belén, printed in 1916 as Pastores á Belén and often searched as "Pastores a Belén, vamos con alegría", is a Spanish Christmas villancico, a carol of verse and refrain [^rae1869][^rae1914]. The shepherds call one another to Bethlehem to see the son of Mary, and agree to bring him turrones, nougat, and honey [^canticos1916][^rae1914]. The earliest printing we have seen is No. 23 in *Cánticos espirituales con música*, a Catholic songbook published in Las Vegas, New Mexico, in 1916 by the Revista Católica, among sixteen songs for Christmas Eve [^canticos1916][^canticos1916-index]. No poet or composer is named [^canticos1916][^canticos1916-index]. Its editors wrote that they left these songs as untouched as they could, because the people of their region knew and sang them that way [^canticos1916-note].
+
+![[1]]
 
 ## Where it comes from
 
 **The book.** Its title page reads *Cánticos Espirituales con música*, "Recogidos por la 'Revista Católica'", gathered by the Revista Católica, Las Vegas, N. Mex., 1916, with "A. M. D. G." at its head and a copyright line in the press's name [^canticos1916-index]. The Revista Católica was a Spanish-language Catholic paper and press run by the Jesuits of Las Vegas, which later moved to El Paso, Texas [^tsha][^castaneda]. The book is a keyboard hymnal, its words printed between the staves, with more than 300 pages of music [^canticos1916][^canticos1916-index]. The copy that was scanned is in the Gaylord Music Library at Washington University in St. Louis [^canticos1916][^canticos1916-index].
 
+![[2]]
+
 **The note.** Facing the first song is a note headed "¡¡¡IMPORTANTE!!!". At last, it says, the music of the "Cánticos espirituales, recogidos por el P. Ralliere" is coming out. Words and music do not always keep the rules of the art, it admits, but the people of "nuestras comarcas", our region, to whom the book is above all dedicated, "así los conoce, así los canta, así los quiere": know them, sing them and love them that way. So the editors felt it their duty to leave them "intactos", untouched, as far as they could. For further verses it sends singers to two words-only books the press sold: the fifth edition of the *Cánticos espirituales* (1913) and a *Colección de cánticos espirituales* of 1908 [^canticos1916-note]. An appendix at the back, from page 276, sets to music some songs "de la Edición Vegana (1908)", the Las Vegas edition, each marked with its page in that book, such as "ALMAS CRISTIANAS pg. 38" [^canticos1916-appendix].
 
+![[3]]
+
 **The collector.** "P. Ralliere" is Father J. B. Ralliere, as he signed his Spanish letters: Juan Bautista in Spanish, John Baptist in English [^ellis1955b][^ellisbaca1957c][^salpointe1898][^unm2025]. Florence Hawley Ellis and Edwin Baca, who published his notes in 1957, wrote that he used these forms rather than the French one he was baptised with, to be one with his parishioners [^ellisbaca1957]. J. B. Salpointe, later Archbishop of Santa Fe, names him in 1898 as one of six recruits Father Machebeuf brought back from France for the diocese of Santa Fe in 1856 [^salpointe1898]. The anthropologist Florence Hawley Ellis, who wrote his history in 1955 from his notes and his parishioners' memories, says he came from France as a deacon [^ellis1955a][^ellis1955b]. By 1859 he was the parish priest of Tomé, New Mexico [^salpointe1898][^ellis1955a]. In a letter printed with his notes in 1957, he calls Machebeuf "he who brought me to this country" [^ellisbaca1957c]. Ellis says he gave most of the music lessons in his school himself, trained the church choirs of Tomé, and composed some of the songs still sung in local church services and arranged others [^ellis1955b]. A University of New Mexico lecture page of 2025 says his *Cánticos espirituales* is regarded as the most influential Spanish-language hymnal of the nineteenth-century Southwest [^unm2025].
+
+![[4]]
 
 **What the page does not say.** Ralliere collected the songs, but the page does not say who wrote this one, though the same book does sign some tunes, such as the second Trisagio on its first page, marked "Lambillotte" [^canticos1916-note][^canticos1916]. Nor does the book tie the song to Las Posadas or to any shepherds' play: it simply files it for Christmas Eve [^canticos1916-index]. We have not seen the words-only editions of 1908 and 1913, so we cannot say when the song entered the collection, or where it came from.
 

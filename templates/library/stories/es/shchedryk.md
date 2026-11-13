@@ -13,7 +13,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: shchedryk historia | shchedryk significado | quién escribió shchedryk | shchedryk letra en español | carol of the bells historia ucraniana | villancico de las campanas historia
-translatedFrom: 4c57a870523a
+translatedFrom: 53ceb62a5e38
+original: Cancionero de Polishchuk, Kiev 1913, Internet Archive | https://archive.org/details/zbirnychoknakras00poli/page/n154/mode/1up
 ---
 
 Shchedryk es una shchedrivka ucraniana, una canción de Año Nuevo que le desea bien a una familia. En su letra una golondrina entra volando, llama al dueño de la casa para que salga a ver sus corderos recién nacidos y le dice que el año le traerá dinero [^eu-carols][^america][^kyivind]. El compositor Mykola Leontovych trabajó, según la cuenta de los estudiosos ucranianos, cerca de veinte años en un breve arreglo coral construido sobre su melodía de cuatro notas [^makarenko][^vn-bib]. En 1922 el Coro Nacional Ucraniano de Oleksandr Koshyts cantó ese arreglo en el Carnegie Hall de Nueva York [^america][^slate]. En 1936 el director de coro estadounidense Peter J. Wilhousky le puso a la música una letra inglesa nueva, sobre campanas, y como "Carol of the Bells" (en español, "Villancico de las campanas") entró en los villancicos de Navidad de Estados Unidos [^musicanet][^slate][^eu-carols].
@@ -28,11 +29,15 @@ Nadie puede fechar la letra. La golondrina es la pista que señalan casi todos l
 
 Leontovych volvía una y otra vez a Shchedryk. Los estudiosos ucranianos cuentan cinco versiones de su arreglo, la primera de hacia 1901 a 1902 y la última de 1919 [^makarenko][^vn-bib]. Un historiador de la canción sitúa en cambio el comienzo de su trabajo en 1910 [^ukrainer]. Fue la versión de 1916 la que se oyó primero en público. Koshyts la dirigió con un coro de estudiantes de la universidad de Kyiv y de sus cursos superiores para mujeres en un concierto de Navidad en la sala de la Asamblea de Comerciantes de Kyiv, el 29 de diciembre de 1916 según el calendario antiguo [^ukrainer][^zn][^vn-bib]. Muchos libros dan el 25 de diciembre, día de Navidad según ese calendario, pero investigaciones recientes dan el 29 [^zn][^vn-bib][^ukrainer]. Los conciertos hicieron famoso a Leontovych [^esu]. En 1918 se imprimió una edición del arreglo [^ukrainer][^zn].
 
+![[1]]
+
 **El coro.** A principios de 1919, por orden de Symon Petliura, la República Popular Ucraniana formó un coro para cantar en el extranjero: una embajada musical para mostrar a Europa que Ucrania era una nación [^makarenko][^ukrhec-europe]. La Encyclopedia of Ukraine fecha su fundación en 1918 [^eu-koshyts]. Koshyts lo dirigió como Capilla de la República Ucraniana (Ukrainian Republic Capella). Con los bolcheviques amenazando Kyiv, los cantantes se marcharon, y en 1919 empezaron su gira en Checoslovaquia [^ukrhec-europe][^ukrainer]. En los años siguientes cantaron en Francia, Bélgica, los Países Bajos, Inglaterra, España y otros países, con Shchedryk en el centro del programa [^ukrhec-europe][^makarenko][^america]. Mientras estaban de gira, los bolcheviques tomaron Ucrania y el Estado que los había enviado dejó de existir, así que los cantantes no pudieron volver a casa; el coro pasó a llamarse Coro Nacional Ucraniano (Ukrainian National Chorus) [^ukrhec-europe][^makarenko][^eu-koshyts][^ukrhec-nw].
 
 **La muerte de Leontovych.** Leontovych no vivió para ver adónde llegó su arreglo. El 23 de enero de 1921 un agente de la Cheka, la policía secreta soviética, lo mató de un disparo en la casa de sus padres, en el pueblo de Markivka [^eu-leon][^esu][^america][^slate]. Tenía 43 años.
 
 **Nueva York.** El coro zarpó de Hamburgo en el Caronia y llegó a Nueva York el 26 de septiembre de 1922 [^ukrhec-nw][^ukrainer]. El jueves 5 de octubre de 1922 cantó en el Carnegie Hall, y Shchedryk se oyó por primera vez en Estados Unidos [^ukrhec-nw][^kyivind][^america][^slate].
+
+![[2]]
 
 **La letra inglesa.** Peter J. Wilhousky (1902 a 1978) fue un director de coro estadounidense, nacido en Passaic, Nueva Jersey, en una familia de Europa del Este [^musicanet][^america][^ukrhec-nw]. Los autores no coinciden en sus raíces: unos dicen que era de origen ucraniano, mientras que el Ukrainian History and Education Center dice que la familia era rusina, de la región de Prešov, en la actual Eslovaquia [^ukrainer][^kyivind][^ukrhec-nw]. Más tarde arregló música coral para las emisiones de la Orquesta Sinfónica de la NBC [^america][^slate][^ukrhec-nw]. En 1936 Carl Fischer, de Nueva York, publicó su "Carol of the Bells", con la música de Leontovych y la letra inglesa del propio Wilhousky [^musicanet][^slate][^america]. Su letra habla de campanas, no de la golondrina, y no es una traducción [^america][^ukrainer]. Sigue protegida por derechos de autor, así que la nombramos y no la citamos [^musicanet][^slate].
 
@@ -59,6 +64,8 @@ La letra es un texto popular sin autor conocido. Cantamos doce versos y luego lo
 **Lo que le dice.** Sal, amo, y mira tu "koshara", tu redil [^sum-koshara]. Allí las ovejas "pokotylys", una palabra de campo para parir, que se usa para las ovejas [^sum-kotytysia], y han nacido corderos.
 
 **La promesa.** Todo tu "tovar", tu ganado, sobre todo vacuno en el sentido antiguo, es bueno [^sum-tovar]. Tendrás una "mirka" de dinero: la mirka era una medida doméstica para el grano, y también la vasija que lo contenía [^sum-mirka]. Si no dinero, "polova", la paja que queda al trillar el grano [^sum-polova], lo que parece prometer grano de sobra para trillar. Y tienes una esposa de cejas oscuras.
+
+![[3]]
 
 ### La letra completa
 

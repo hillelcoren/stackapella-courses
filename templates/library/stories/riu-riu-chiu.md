@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: what does riu riu chiu mean | riu riu chiu meaning in english | who wrote riu riu chiu | riu riu chiu history | riu riu chiu lyrics spanish | riu riu chiu pronunciation | cancionero del duque de calabria
+original: Cancionero de Upsala, Uppsala University Library | https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:55063
 ---
 
 Riu, riu, chiu, also written Ríu, ríu, chíu or Riu chiu, is a Spanish Christmas villancico printed in Venice in 1556 in *Villancicos de diversos autores* [^uppsala-title][^uppsala-riu]. The only known copy of that book is in Uppsala University Library in Sweden, hence its name, the Cancionero de Upsala, the Uppsala songbook; it is also called the Cancionero del Duque de Calabria [^mitjana1909][^enccat-canconer]. The refrain opens with a call of pure sound, then sings that God kept the wolf away from "our ewe-lamb", and the first verse makes the lamb the Virgin Mary, kept from every sin [^uppsala-riu][^lopez2026]. No poet or composer is named [^uppsala-riu][^mitjana1909]. A Spanish diplomat, Rafael Mitjana, printed its words in 1909, and the music came out in modern notation in 1944 [^mitjana1909][^residencia][^griffiths].
@@ -27,6 +28,8 @@ Riu, riu, chiu, also written Ríu, ríu, chíu or Riu chiu, is a Spanish Christm
 
 **The page.** Riu, riu, chiu fills one opening, folios 42v and 43r, the recto numbered XLIII; the book is numbered on one side of each leaf only [^uppsala-riu][^mitjana1909]. It is in choirbook layout, tiple (the top part) and alto on the left page, tenor and bass on the right, in white mensural notation [^uppsala-riu]. The bass sings the refrain first, alone; then all four sing it to a pause. Then the bass's staff says "SOLO LAS COBLAS", the verses alone, with "El lobo rabioso" printed under its notes, and six more verses stand in italic blocks between the staves [^uppsala-riu]. In the tiple, one "guardo" is set as "gnardo", a turned letter [^uppsala-riu]. Its neighbours show through the paper in mirror image: the Catalan carol "E la don don", Mitjana's no. 45, and "Señores, el qu'es nascido", his no. 47 [^uppsala-riu][^mitjana1909].
 
+![[1]]
+
 **The finder.** Rafael Mitjana (1869 to 1921) was a Spanish diplomat and musicologist who served in Sweden [^bakers][^pardo2013]. At Uppsala's university library, he wrote, "tuve la singular fortuna de tropezar con un rarísimo volumen": he had the rare luck to stumble on a very rare volume. He named it the Cancionero de Uppsala and thought it probably the only copy [^mitjana1909]. His book of 1909 printed the words alone, Riu, riu, chiu as no. 46 [^mitjana1909][^imslp]. In Lavignac's *Encyclopédie de la musique* he gave its shelfmark, 611, and said he had transcribed the music [^lavignac1920][^uppsala-shelfmark].
 
 **Who made it.** Words and tune are both anonymous and first known from this print, the earliest known printing of each and of their pairing [^uppsala-riu][^mitjana1909]. Mitjana thought the book's songs were by Spanish musicians in Italy, and wrote that he recognised some as Flecha's, without a first name or naming which [^lavignac1920]. The Gran Enciclopèdia Catalana says the collection comes from the Valencia court of Ferdinand of Aragon, Duke of Calabria, viceroy there from 1526 to 1550, and that the scholar Josep Romeu i Figueras named it for him, the Cancionero del Duque de Calabria [^enccat-canconer]. Flecha, said to have been born at Prades in Catalonia about 1481, was choirmaster of Valencia Cathedral from 1526 for a little over four years, beside the viceroys' chapel, and died about 1553, probably at the monastery of Poblet [^gomez][^enccat-fletxa].
@@ -34,6 +37,8 @@ Riu, riu, chiu, also written Ríu, ríu, chíu or Riu chiu, is a Spanish Christm
 **Myth and record.** Often told: Mateo Flecha the Elder wrote Riu, riu, chiu. ChoralWiki lists the song under his name, and Wikimedia Commons labels the Uppsala photograph "Attributed to" him [^cpdl][^commons-riu]. What the record shows: the print names no composer for it [^uppsala-riu][^mitjana1909]. The Gran Enciclopèdia Catalana says some of the book's anonymous songs have been attributed to Flecha, but, from concordances, it gives this one, its no. 46, to Bartomeu Càrceres [^enccat-fletxa][^enccat-canconer]. Neither name is in the print, so we credit it as anonymous.
 
 **Mitjana's text.** Mitjana wrote that he had altered nothing, "No me he permitido alterar para nada el texto original" [^mitjana1909]. Yet every refrain in his book reads "Dios guarde el lobo", may God keep the wolf away, a wish. The print, which has no accents, has "guardo" in every line but one, which we read as "guardó", God kept it away, and "guarda", God keeps it, once in the bass's solo [^mitjana1909][^uppsala-riu][^lopez2026]. In the last verse he prints "con nosotros uiniera (sic)", he came with us, where the print has "Conel hombre uiniera", he came with man [^mitjana1909][^uppsala-riu].
+
+![[2]]
 
 ### Timeline
 

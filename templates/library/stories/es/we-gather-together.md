@@ -19,7 +19,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: quién escribió we gather together | we gather together himno historia | es we gather together un himno neerlandés | por qué se canta we gather together en acción de gracias | we gather together significado | he chastens and hastens his will to make known significado
-translatedFrom: ddd37d50b68f
+translatedFrom: c6d012ab2acc
+original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up
 ---
 
 We Gather Together, que se canta con la melodía KREMSER y que en Estados Unidos se conoció un tiempo como Prayer of Thanksgiving (oración de acción de gracias), es el himno que muchas iglesias estadounidenses cantan el Día de Acción de Gracias [^hymnary-text][^komter1942]. Nació como un canto neerlandés, "Wilt heden nu treden" ("ven, da hoy un paso al frente"), cuya primera impresión conocida está en el Nederlandtsche Gedenck-clanck de Adrianus Valerius, impreso en Haarlem en 1626 [^valerius1626][^dbnl1942]. Allí da gracias a Dios tras las victorias neerlandesas sobre España de 1597 [^valerius1626][^komter1942]. Eduard Kremser lo arregló en Viena en 1877 como un Dankgebet alemán, una oración de acción de gracias [^komter1942][^hanslick1878], y el inglés de Theodore Baker se publicó en Nueva York en 1894 [^loc1894][^ccr1922].
@@ -28,9 +29,13 @@ We Gather Together, que se canta con la melodía KREMSER y que en Estados Unidos
 
 **El libro.** Adrianus Valerius (en neerlandés, Adriaen Valerius) vivía en Veere, en Zelanda [^valerius1626][^meertens1942]. Su Nederlandtsche Gedenck-clanck, un "sonido de recuerdo" de los Países Bajos, cuenta la rebelión neerlandesa contra España hasta 1625, con canciones entre la prosa [^valerius1626][^dbnl1942]. Murió en 1625, y sus herederos lo hicieron imprimir en Haarlem en 1626 [^valerius1626][^meertens1942][^hanslick1878]. Su portada dice que las canciones son "meest alle nieu", casi todas nuevas, cada una con sus notas y su tablatura para laúd y cistro [^valerius1626]. Los estudiosos creen que, salvo unas pocas canciones más antiguas como el Wilhelmus, las canciones son suyas [^tenhaeff1942][^vanduyse].
 
+![[1]]
+
 **La página.** En el ejemplar de 1626 de la Universidad de Gante, el canto está en la página numerada 170, justo después del relato de Valerius sobre 1597 [^valerius1626]. Dos páginas antes, una nota al margen señala el año y "la batalla de Turnhout, y la gran victoria del príncipe Mauricio": el 24 de enero, su caballería derrotó a una fuerza española, y su comandante, el conde de Varax, murió [^valerius1626][^rct][^dbnl1942]. Durante el verano y el otoño, Mauricio tomó Rheinberg, Moers, Groenlo y Lingen [^valerius1626][^dbnl1942]. Valerius escribe que se celebraron días de oración y de acción de gracias, en los que se daba la honra solo a Dios, y que se acuñaron medallas con la leyenda "Venit, Vidit, Deus vicit": vino, vio, Dios venció [^valerius1626][^komter1942]. Un breve poema y unas citas, la última del Salmo 33, llevan hasta el canto [^valerius1626][^kjv-ps33].
 
 El canto no tiene título, solo "Stem: Hey wilder dan wild", la melodía con la que se canta [^valerius1626]. La melodía está en notas de cabeza romboidal, con la primera estrofa debajo, que empieza con una gran letra decorada; las otras tres estrofas siguen, dos una al lado de la otra y la última centrada debajo, y al pie corre la tablatura de laúd [^valerius1626].
+
+![[2]]
 
 **La melodía.** La propia tabla de melodías de Valerius incluye "Hey! wilder dan wilt" entre las neerlandesas [^dbnl-tafel]. Era anterior a su libro: las notas de Hymnary.org y la edición de 1942 la remontan a una canción neerlandesa del siglo XVI [^hymnary-kremser][^komter1942].
 
@@ -52,6 +57,8 @@ En Alemania y Austria, mientras tanto, el Dankgebet de Kremser se convirtió en 
 - 1877: El Dankgebet alemán de Kremser se canta en Viena [^komter1942][^bohme]
 - 1894: G. Schirmer lo publica en Nueva York con el inglés de Baker [^loc1894][^ccr1922]
 - 1920: El homenaje de Harvard del Memorial Day empieza con él [^harvard1920]
+
+![[3]]
 
 ## Qué dice la letra
 
@@ -148,6 +155,8 @@ Que tu pueblo escape de la angustia;
 En Estados Unidos se canta el Día de Acción de Gracias y en los días cercanos [^hymnary-text][^komter1942][^ncca1935]. Su melodía es KREMSER, por el arreglista vienés, aunque la melodía es la antigua melodía neerlandesa del libro de Valerius [^hymnary-kremser][^komter1942]. Su metro es 12.11.12.11: el primer verso de cada estrofa tiene doce sílabas, y el segundo, once [^hymnary-kremser][^harvard1920].
 
 The Beacon Hymnal de 1924 lo imprime como n.º 17, bajo "Opening of Service" (apertura del culto), con el encabezamiento "Old Netherlands Melody, 1625", la letra como "Anon." y la indicación "Sing in unison" (cantar al unísono) [^beacon1924]. Las mismas cuatro voces aparecen en The Abingdon Hymnal de 1928 como "Arr. by E. Kremser", con una nota que pide cantar al unísono las dos primeras estrofas, hombres y mujeres por turnos si se quiere, y la última "in full harmony" (con la armonía completa) [^abingdon1928].
+
+![[4]]
 
 Nuestro arreglo canta las estrofas 1 y 2 del inglés de Baker, en Re mayor y en 3/4 con una anacrusa de un tiempo, sobre las cuatro voces que imprime The Beacon Hymnal, adaptadas para 2 a 4 cantantes, en armonía de principio a fin [^beacon1924]. La soprano canta la antigua melodía neerlandesa tal como está impresa; las voces de la armonía cantan una nota por sílaba, y las respiraciones van escritas [^beacon1924].
 

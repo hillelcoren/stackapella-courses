@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: el cant dels ocells meaning | what does el cant dels ocells mean | el cant dels ocells lyrics | el cant dels ocells letra | el cant dels ocells letra español | el cant dels ocells lletra | el cant dels ocells tiene letra | el cant dels ocells compositor | who wrote el cant dels ocells | el cant dels ocells casals | el cant dels ocells pau casals | pablo casals song of the birds united nations
+original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
 ---
 
 El cant dels ocells, "the song of the birds", is a Catalan Christmas carol. Older books spell it El cant dels aucells or Lo cant dels aucells, and in English it is often called Song of the Birds. In it the birds fly to greet the "greater light" that dawns in the most blessed night, from the imperial eagle to the owls [^millet1917][^briz1874]. Its words were in print by 1874 and its tune by 1903, with no author known for either [^briz1874][^capmany1903]. The choirmaster Lluís Millet harmonised it for men's voices [^millet1917][^enccat-millet], and the cellist Pau Casals made it known on the cello, playing it at the United Nations in 1971 [^un-av][^paucasals-un].
@@ -25,6 +26,8 @@ El cant dels ocells, "the song of the birds", is a Catalan Christmas carol. Olde
 
 **The words in print.** In 1874 the collector Francesc Pelay Briz opened the fourth volume of his *Cansons de la terra*, "songs of the land", with "Lo cant dels aucells", a "cansò de Nadal", a Christmas song [^briz1874]. Its fifteen six-line verses are Millet's of 1917, in the same order, with small differences of wording [^briz1874][^millet1917]. Briz's tune, though, is in 6/8 and is not the one we sing. He wrote that he could give many variants, "emperò la lletra no s'ho val", but the words were not worth it: what had real value was his tune, perhaps one of the most beautiful and original [^briz1874].
 
+![[1]]
+
 **The tune we sing.** Aureli Capmany's *Cançoner popular* came out in Barcelona as single sheets at ten cents each, already written about in La Renaixensa in September 1901 and gathered as a first series in 1903 [^capmany1903]. Sheet I, "Lo cant dels aucells", has a drawing signed J. M. Comas of birds around the stable, then the tune we sing, hand-lettered in 2/4 in B-flat minor, its last three lines repeated [^capmany1903]. Capmany's notes say it was sung on Christmas night, and that it had come down so complete because, no doubt, it was kept in print as goigs, single printed sheets of verse, for singing together [^capmany1903].
 
 **How old is it?** Capmany thought it "provablement és del sigle XVII", probably of the 1600s, and no later, because a parody of it greeted the archduke Charles of Austria, hailed in Barcelona as King Charles III, at the start of the 1700s. He printed the parody as his sheet IV, from a goigs sheet: its birds sing as the ships appear before Barcelona, and half its eagle verse is the carol's, with the same faulty rhyme, "imperial" with "volant" [^capmany1903]. We know of no printing of the carol before 1874.
@@ -32,6 +35,8 @@ El cant dels ocells, "the song of the birds", is a Catalan Christmas carol. Olde
 **Millet's harmony.** Lluís Millet (1867 to 1941) founded the Orfeó Català, a Barcelona choral society, with Amadeu Vives in 1891 [^enccat-millet][^palau-orfeo][^loc-millet]. In November 1912 he gave a lecture at the Palau de la Música Catalana on the people's religious song, at the third national congress of sacred music (on the 20th, says the footnote in his book; the Enciclopèdia's list of his works says the 23rd), with singers of the Orfeó giving the examples. Among the Christmas songs came this one, the birds proclaiming the good news, in the harmony for men's voices he had written some years before [^millet1912][^enccat-millet].
 
 **The page.** Its music was printed in Millet's *Pel nostre ideal*, finished in Barcelona on 26 May 1917 [^millet1917]. Exemple XIV, "El cant dels aucells", "Harm. de'n Lluís Millet", is marked Moderat. The four men's staves, Tenors I and II, Baritons and Baixos, carry pp and "(Boca tancada)", closed mouth: the men hum, three bars alone before the solo's first "Al". All fifteen verses follow under the music, and a footnote says Iberia Musical had published the score and parts [^millet1917].
+
+![[2]]
 
 **Myth and record.** Sometimes told: it is Pau Casals's own composition, as one radio almanac puts it [^datebook]. What the record shows: its words were printed in 1874, two years before Casals was born, and its tune by 1903; what Casals made was an arrangement for cello [^briz1874][^capmany1903][^loc-casals][^paucasals-bio].
 
@@ -282,6 +287,8 @@ Our arrangement is Millet's harmony, printed in 1917, a tone lower, in F minor, 
 **The smugglers.** The *Materials* of the Obra del Cançoner Popular de Catalunya, in a fascicle printed in May 1928 from Francesc Pujol's song samples for a congress in Vienna in March 1927, prints the carol, "noted and harmonised" by Millet, just after a smugglers' song, "Els contrabandistes", also noted by him. It calls the carol one of the finest in its songbook and nothing other than "Les contrebandiers", the smugglers' song, transfigured [^materials]. That is Pujol's own claim.
 
 **The cello.** Pau Casals arranged it for cello [^paucasals-bio][^enccat-casals]. In exile from 1939 at Prada de Conflent, he played it at the start of his concerts, the Enciclopèdia Catalana says, and it came to be seen, in its words, as a national symbol for Catalans [^enccat-ocells][^enccat-casals].
+
+![[3]]
 
 ## Did you know?
 

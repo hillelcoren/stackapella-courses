@@ -19,10 +19,14 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: noche de paz historia | noche de paz significado | quién escribió noche de paz en español | noche de paz letra | noche de paz autor y año | noche de paz original en alemán
-translatedFrom: 7fda4409e7d6
+translatedFrom: 92907e220156
+original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
+listen: Internet Archive, grabación de 1906, en alemán | https://archive.org/details/loc-jukebox-122507-stille-nacht-heilige-nacht || Internet Archive, grabación de 1912, en alemán | https://archive.org/details/loc-jukebox-131775-stille-nacht-heilige-nacht
 ---
 
 Noche de paz es Silent Night en español: la melodía austriaca de Franz Xaver Gruber, de 1818, con una letra española que empieza "¡Noche de paz, noche de amor!" [^h1893][^hymnary-text]. Su primera impresión conocida es el himno n.º 48 de El Himnario evangélico, un himnario para las iglesias protestantes de habla hispana que publicó en Nueva York en 1893 la Sociedad Americana de Tratados (American Tract Society) [^h1893][^hymnary-text]. Esa página no nombra a nadie, ni al autor alemán, Joseph Mohr, ni al español [^h1893]. Todavía no se sabe con certeza quién hizo la letra española. De estos himnarios para protestantes de habla hispana pasó a libros luteranos, adventistas, metodistas y bautistas y, desde 1989, a uno católico: Hymnary.org la registra en 52 himnarios [^h1915-front][^hymnary-text].
+
+![[1]]
 
 ## De dónde viene
 
@@ -30,9 +34,15 @@ Noche de paz es Silent Night en español: la melodía austriaca de Franz Xaver G
 
 **La página de 1893.** El Himnario evangélico, "para el uso de todas las iglesias", salió de la Sociedad Americana de Tratados (American Tract Society), en Nueva York, con copyright de 1893. Ni su portada ni su prefacio nombran a los editores [^h1893-preface][^h1893-text]. El prefacio dice que los editores buscaron himnos evangélicos en todos los países de habla hispana y que, en algunos, "nos hemos permitido cambiar en algo la fraseología", para mejorar el ritmo y el sonido [^h1893-preface]. En la página 38, bajo el encabezado "El Señor Jesu-Cristo: su encarnación", está el n.º 48, "¡Noche de paz, noche de amor!" [^h1893]. La melodía lleva un encabezado en inglés, "HOLY NIGHT.", sin nombre de compositor. Está en Do, en 6/8, a cuatro voces en dos pentagramas [^h1893]. El libro firma algunos de sus himnos, casi siempre "J. B. Cabrera" o "T. M. Westrup", pero deja sin firmar la mayoría, entre ellos los dos que rodean a este, "Oíd un son en alta esfera" y "Los heraldos celestiales" [^h1893][^h1893-text]. El n.º 48 no lleva ningún nombre [^h1893].
 
+![[2]]
+
 **Las impresiones siguientes.** En 1894 la misma sociedad imprimió solo la letra en Himnos evangélicos, otra vez como n.º 48, "Holy Night", otra vez sin firma, como los himnos que lo rodean; el n.º 46, dos lugares antes, va firmado "J. B. Cabrera" [^h1894]. En 1907 James H. Van Buren, obispo episcopal de Puerto Rico, lo incluyó en su Himnario provisional para congregaciones episcopales de habla hispana, como n.º 18 bajo "Navidad", con la melodía rebautizada "Noche Buena" [^h1907][^h1907-front]. Su aviso dice que la mayoría de sus himnos se tomaron de los Himnos evangélicos de la sociedad [^h1907-text].
 
+![[3]]
+
 **La revisión de 1915.** En 1915 la sociedad publicó El Nuevo himnario evangélico, "para el uso de las iglesias evangélicas de habla española en todo el mundo" [^h1915-front]. Su prefacio dice que un comité formado por todas las denominaciones que trabajaban en México pasó más de dos años revisando el himnario de 1893, estrofa por estrofa, comparando más de diez colecciones de España, Sudamérica y México y unos tres mil himnos. La nota del editor da los nombres de sus quince miembros, de las iglesias bautista, congregacional, metodista episcopal y presbiteriana [^h1915-front]. Aquí, como n.º 83 y todavía sin firma, el "En el campo al pastor" de la segunda estrofa pasa a ser "Oye humilde el fiel pastor" [^h1915][^h1893].
+
+![[4]]
 
 **Quién la escribió.** Ninguna impresión que hemos visto entre 1893 y 1915 nombra al autor de la letra española, y ninguna menciona a Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. En el índice de Hymnary.org, la letra española no lleva atribución antes de los años cincuenta; después, las atribuciones varían: J. B. Cabrera en 1952, F. J. Pagura en 1962, Federico Fliedner en 1964 (marcada "adapt.") y "anónimo" en otros [^hymnary-text][^hymnary-cc1964]. En los himnarios que Hymnary.org registra desde 1990, la suya es la atribución más frecuente, en 13 de 18, y la propia ficha de Hymnary.org lo nombra traductor [^hymnary-text]. Federico (Fritz) Fliedner nació en Kaiserswerth, a orillas del Rin, el 10 de junio de 1845, hijo de Theodor Fliedner [^ndb][^hymnary-fliedner]. Se estableció en Madrid en 1870 como misionero protestante, dirigió allí una iglesia y fundó escuelas protestantes, y murió en Madrid el 25 de abril de 1901 [^ndb][^dbclm][^hymnary-fliedner]. Sus biógrafos dicen que en su obra se tradujeron himnos alemanes al español y que escribió himnos para su escuela dominical [^ndb][^dbclm]. Así que la atribución es verosímil.
 

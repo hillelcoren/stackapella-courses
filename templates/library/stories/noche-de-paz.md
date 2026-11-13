@@ -19,9 +19,13 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: quién escribió noche de paz en español | noche de paz historia | noche de paz letra | que significa la cancion noche de paz | noche de paz autor y año | noche de paz pais de origen | noche de paz original aleman
+original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
+listen: Internet Archive, 1906 recording, in German | https://archive.org/details/loc-jukebox-122507-stille-nacht-heilige-nacht || Internet Archive, 1912 recording, in German | https://archive.org/details/loc-jukebox-131775-stille-nacht-heilige-nacht
 ---
 
 Noche de paz, "night of peace", is Silent Night in Spanish: Franz Xaver Gruber's Austrian tune of 1818 with Spanish words that begin "¡Noche de paz, noche de amor!", night of peace, night of love [^h1893][^hymnary-text]. Its earliest known printing is hymn No. 48 in El Himnario evangélico, a hymnal for Spanish-speaking Protestant churches published in New York in 1893 by the American Tract Society [^h1893][^hymnary-text]. That page names no one, neither the German writer, Joseph Mohr, nor the Spanish one [^h1893]. Who made the Spanish is still not known for certain. From these hymnals for Spanish-speaking Protestants it went into Lutheran, Adventist, Methodist and Baptist books and, from 1989, a Catholic one: Hymnary.org indexes it in 52 hymnals [^h1915-front][^hymnary-text].
+
+![[1]]
 
 ## Where it comes from
 
@@ -29,9 +33,15 @@ Noche de paz, "night of peace", is Silent Night in Spanish: Franz Xaver Gruber's
 
 **The 1893 page.** El Himnario evangélico, "for the use of all the churches", came from the Sociedad Americana de Tratados, the American Tract Society, in New York, copyright 1893. Its title page and preface name no editors [^h1893-preface][^h1893-text]. The preface says the editors searched every Spanish-speaking country for evangelical hymns and, in some, "nos hemos permitido cambiar en algo la fraseología": they allowed themselves to change the wording a little, for better rhythm and sound [^h1893-preface]. On page 38, under the heading "El Señor Jesu-Cristo: su encarnación", the Lord Jesus Christ, his incarnation, stands No. 48, "¡Noche de paz, noche de amor!" [^h1893]. The tune is headed in English, "HOLY NIGHT.", with no composer named. It is in C, in 6/8, four parts on two staves [^h1893]. The book signs some of its hymns, most often "J. B. Cabrera" or "T. M. Westrup", but leaves most unsigned, among them the two on either side of this one, "Oíd un son en alta esfera" and "Los heraldos celestiales" [^h1893][^h1893-text]. No. 48 has no name at all [^h1893].
 
+![[2]]
+
 **The next printings.** In 1894 the same society printed the words alone in Himnos evangélicos, again as No. 48, "Holy Night", again unsigned, like the hymns on either side of it; No. 46, two places before it, is signed "J. B. Cabrera" [^h1894]. In 1907 James H. Van Buren, the Episcopal bishop of Puerto Rico, put it in his Himnario provisional for Spanish-speaking Episcopal congregations, as No. 18 under "Navidad", Christmas, with the tune renamed "Noche Buena", Christmas Eve [^h1907][^h1907-front]. His notice says most of his hymns were taken from the society's Himnos evangélicos [^h1907-text].
 
+![[3]]
+
 **The 1915 revision.** In 1915 the society published El Nuevo himnario evangélico, "for the evangelical churches of Spanish speech in all the world" [^h1915-front]. Its preface says a committee drawn from all the denominations working in Mexico spent more than two years revising the 1893 hymnal, verse by verse, comparing more than ten collections from Spain, South America and Mexico and some three thousand hymns. The publisher's note lists the fifteen members, from the Baptist, Congregational, Methodist Episcopal and Presbyterian churches [^h1915-front]. Here, as No. 83 and still unsigned, the second verse's "En el campo al pastor" becomes "Oye humilde el fiel pastor" [^h1915][^h1893].
+
+![[4]]
 
 **Who wrote it.** No printing we have seen from 1893 to 1915 names the Spanish writer, and none mentions Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. In Hymnary.org's index the Spanish has no credit before the 1950s; after that the credits differ: J. B. Cabrera in 1952, F. J. Pagura in 1962, Federico Fliedner in 1964 (marked "adapt."), and "anónimo", anonymous, in others [^hymnary-text][^hymnary-cc1964]. In the hymnals Hymnary.org indexes from 1990 on, his is the most common credit, in 13 of 18, and Hymnary.org's own entry names him as translator [^hymnary-text]. Federico (Fritz) Fliedner was born at Kaiserswerth, on the Rhine, on 10 June 1845, the son of Theodor Fliedner [^ndb][^hymnary-fliedner]. He settled in Madrid in 1870 as a Protestant missionary, led a church there and built Protestant schools, and he died in Madrid on 25 April 1901 [^ndb][^dbclm][^hymnary-fliedner]. His biographers say German hymns were put into Spanish in his work, and that he wrote hymns for his Sunday school [^ndb][^dbclm]. So the credit is plausible.
 

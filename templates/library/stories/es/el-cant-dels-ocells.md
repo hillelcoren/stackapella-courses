@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
-translatedFrom: 956f4cbf66ef
+translatedFrom: 4785eba88dc1
+original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
 ---
 
 El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los libros antiguos lo escriben El cant dels aucells o Lo cant dels aucells, y en inglés se le suele llamar Song of the Birds. En él las aves vuelan a saludar a la "luz mayor" que despunta en la noche más dichosa, desde el águila imperial hasta los búhos [^millet1917][^briz1874]. Su letra ya estaba impresa en 1874 y su melodía en 1903, sin autor conocido para ninguna de las dos [^briz1874][^capmany1903]. El maestro de coro Lluís Millet lo armonizó para voces de hombre [^millet1917][^enccat-millet], y el violonchelista Pau Casals lo dio a conocer en el violonchelo, y lo tocó en las Naciones Unidas en 1971 [^un-av][^paucasals-un].
@@ -26,6 +27,8 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 
 **La letra impresa.** En 1874 el recopilador Francesc Pelay Briz abrió el cuarto volumen de sus *Cansons de la terra*, "canciones de la tierra", con "Lo cant dels aucells", una "cansò de Nadal", una canción de Navidad [^briz1874]. Sus quince estrofas de seis versos son las mismas que las de Millet en 1917, en el mismo orden, con pequeñas diferencias de redacción [^briz1874][^millet1917]. La melodía de Briz, en cambio, está en 6/8 y no es la que cantamos. Escribió que podría dar muchas variantes, "emperò la lletra no s'ho val", pero que la letra no valía la pena: lo que tenía verdadero valor era su melodía, quizá una de las más bellas y originales [^briz1874].
 
+![[1]]
+
 **La melodía que cantamos.** El *Cançoner popular* de Aureli Capmany salió en Barcelona en hojas sueltas a diez céntimos cada una; La Renaixensa ya escribía sobre él en septiembre de 1901, y las hojas se reunieron como primera serie en 1903 [^capmany1903]. La hoja I, "Lo cant dels aucells", lleva un dibujo firmado por J. M. Comas con pájaros alrededor del establo, y luego la melodía que cantamos, rotulada a mano en 2/4 en Si bemol menor, con sus tres últimos versos repetidos [^capmany1903]. Las notas de Capmany dicen que se cantaba la noche de Navidad, y que había llegado tan completo porque, sin duda, se conservaba impreso en goigs, hojas sueltas con versos impresos para cantar en grupo [^capmany1903].
 
 **¿Qué antigüedad tiene?** Capmany pensaba que "provablement és del sigle XVII", probablemente del siglo XVII, y no posterior, porque una parodia suya saludó al archiduque Carlos de Austria, aclamado en Barcelona como rey Carlos III, a principios del siglo XVIII. Imprimió la parodia como su hoja IV, tomada de una hoja de goigs: sus pájaros cantan cuando los barcos aparecen ante Barcelona, y la mitad de su estrofa del águila es la del villancico, con la misma rima defectuosa, "imperial" con "volant" [^capmany1903]. No conocemos ninguna impresión del villancico anterior a 1874.
@@ -33,6 +36,8 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 **La armonía de Millet.** Lluís Millet (1867 a 1941) fundó el Orfeó Català, una sociedad coral de Barcelona, con Amadeu Vives en 1891 [^enccat-millet][^palau-orfeo][^loc-millet]. En noviembre de 1912 dio una conferencia en el Palau de la Música Catalana sobre el canto religioso popular, en el tercer congreso nacional de música sagrada (el día 20, según la nota al pie de su libro; la lista de sus obras de la Enciclopèdia dice que el 23), con cantores del Orfeó que daban los ejemplos. Entre las canciones de Navidad sonó esta, las aves que proclaman la buena nueva, en la armonía para voces de hombre que había escrito unos años antes [^millet1912][^enccat-millet].
 
 **La página.** Su música se imprimió en *Pel nostre ideal* de Millet, terminado en Barcelona el 26 de mayo de 1917 [^millet1917]. El Exemple XIV, "El cant dels aucells", "Harm. de'n Lluís Millet", lleva la indicación Moderat. Los cuatro pentagramas de hombres, Tenors I y II, Baritons y Baixos, llevan pp y "(Boca tancada)", boca cerrada: los hombres cantan con la boca cerrada, tres compases solos antes del primer "Al" del solo. Las quince estrofas siguen bajo la música, y una nota al pie dice que Iberia Musical había publicado la partitura y las particellas [^millet1917].
+
+![[2]]
 
 **Mito y documentos.** A veces se cuenta que es una composición del propio Pau Casals, como dice un almanaque radiofónico [^datebook]. Lo que muestran los documentos: su letra se imprimió en 1874, dos años antes de que naciera Casals, y su melodía ya en 1903; lo que hizo Casals fue un arreglo para violonchelo [^briz1874][^capmany1903][^loc-casals][^paucasals-bio].
 
@@ -283,6 +288,8 @@ Nuestro arreglo es la armonía de Millet, impresa en 1917, un tono más grave, e
 **Los contrabandistas.** Los *Materials* de la Obra del Cançoner Popular de Catalunya, en un fascículo impreso en mayo de 1928 con las muestras de canciones de Francesc Pujol para un congreso en Viena en marzo de 1927, imprimen el villancico, "recogido y armonizado" por Millet, justo después de una canción de contrabandistas, "Els contrabandistes", también recogida por él. Lo llaman uno de los más bellos de su cancionero y dicen que no es otra cosa que "Les contrebandiers", la canción de los contrabandistas, transfigurada [^materials]. Esa afirmación es del propio Pujol.
 
 **El violonchelo.** Pau Casals lo arregló para violonchelo [^paucasals-bio][^enccat-casals]. Exiliado desde 1939 en Prada de Conflent, lo tocaba al comienzo de sus conciertos, según la Enciclopèdia Catalana, y llegó a verse, en sus palabras, como un símbolo nacional de los catalanes [^enccat-ocells][^enccat-casals].
+
+![[3]]
 
 ## ¿Sabías que...?
 

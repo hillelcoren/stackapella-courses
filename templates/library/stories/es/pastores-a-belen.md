@@ -15,18 +15,27 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: pastores a belén | pastores a belén letra | pastores a belén significado | pastores a belén autor | pastores a belén puerto rico | pastores a belén letra completa
-translatedFrom: 0ee68a5b65da
+translatedFrom: 86bda4c3f532
+original: Cánticos espirituales, 1916, Internet Archive | https://archive.org/details/b19151652/page/n19
 ---
 
 Pastores a Belén, impreso en 1916 como Pastores á Belén y que muchos buscan como "Pastores a Belén, vamos con alegría", es un villancico español, una canción de Navidad con estrofa y estribillo [^rae1869][^rae1914]. Los pastores se llaman unos a otros para ir a Belén a ver al hijo de María, y quedan en llevarle turrones y miel [^canticos1916][^rae1914]. La impresión más antigua que hemos visto es el n.º 23 de *Cánticos espirituales con música*, un cancionero católico publicado en Las Vegas, Nuevo México, en 1916 por la Revista Católica, entre dieciséis cantos para la Nochebuena [^canticos1916][^canticos1916-index]. No nombra ni poeta ni compositor [^canticos1916][^canticos1916-index]. Sus editores escribieron que dejaron estos cantos tan intactos como pudieron, porque la gente de su región los conocía y los cantaba así [^canticos1916-note].
+
+![[1]]
 
 ## De dónde viene
 
 **El libro.** Su portada dice *Cánticos Espirituales con música*, "Recogidos por la 'Revista Católica'", Las Vegas, N. Mex., 1916, con "A. M. D. G." en la cabecera y una línea de copyright a nombre de la imprenta [^canticos1916-index]. La Revista Católica era un periódico y una imprenta católicos en español, a cargo de los jesuitas de Las Vegas, que más tarde se trasladaron a El Paso, Texas [^tsha][^castaneda]. El libro es un himnario para teclado, con la letra impresa entre los pentagramas, y tiene más de 300 páginas de música [^canticos1916][^canticos1916-index]. El ejemplar escaneado está en la Gaylord Music Library de la Washington University in St. Louis [^canticos1916][^canticos1916-index].
 
+![[2]]
+
 **La nota.** Frente al primer canto hay una nota con el encabezado "¡¡¡IMPORTANTE!!!". Por fin, dice, sale la música de los "Cánticos espirituales, recogidos por el P. Ralliere". Reconoce que la letra y la música no siempre guardan las reglas del arte, pero que la gente de "nuestras comarcas", a la que el libro está dedicado ante todo, "así los conoce, así los canta, así los quiere". Por eso los editores creyeron su deber dejarlos "intactos" en lo posible. Para más estrofas remite a dos libros solo con la letra que vendía la imprenta: la quinta edición de los *Cánticos espirituales* (1913) y una *Colección de cánticos espirituales* de 1908 [^canticos1916-note]. Un apéndice al final, desde la página 276, pone música a algunos cantos "de la Edición Vegana (1908)", la edición de Las Vegas, cada uno marcado con su página en aquel libro, como "ALMAS CRISTIANAS pg. 38" [^canticos1916-appendix].
 
+![[3]]
+
 **El recopilador.** "P. Ralliere" es el padre J. B. Ralliere, como firmaba sus cartas en español: Juan Bautista en español, John Baptist en inglés [^ellis1955b][^ellisbaca1957c][^salpointe1898][^unm2025]. Florence Hawley Ellis y Edwin Baca, que publicaron sus apuntes en 1957, escribieron que usaba estas formas, y no la francesa con la que fue bautizado, para ser uno más con sus feligreses [^ellisbaca1957]. J. B. Salpointe, más tarde arzobispo de Santa Fe, lo nombra en 1898 como uno de los seis reclutas que el padre Machebeuf trajo de Francia para la diócesis de Santa Fe en 1856 [^salpointe1898]. La antropóloga Florence Hawley Ellis, que escribió su historia en 1955 a partir de sus apuntes y de los recuerdos de sus feligreses, dice que llegó de Francia siendo diácono [^ellis1955a][^ellis1955b]. En 1859 ya era párroco de Tomé, Nuevo México [^salpointe1898][^ellis1955a]. En una carta impresa con sus apuntes en 1957, llama a Machebeuf "el que me trajo a este país" [^ellisbaca1957c]. Ellis dice que él mismo daba la mayoría de las clases de música en su escuela, que preparó los coros de la iglesia de Tomé, y que compuso algunos de los cantos que todavía se cantaban en los oficios de las iglesias de la zona y arregló otros [^ellis1955b]. Una página de una conferencia de la Universidad de Nuevo México de 2025 dice que sus *Cánticos espirituales* se consideran el himnario en español más influyente del suroeste en el siglo XIX [^unm2025].
+
+![[4]]
 
 **Lo que la página no dice.** Ralliere recopiló los cantos, pero la página no dice quién escribió este, aunque el mismo libro sí firma algunas melodías, como el segundo Trisagio de su primera página, marcado "Lambillotte" [^canticos1916-note][^canticos1916]. Tampoco relaciona el libro la canción con Las Posadas ni con ninguna pastorela: simplemente la coloca para la Nochebuena [^canticos1916-index]. No hemos visto las ediciones solo con la letra de 1908 y 1913, así que no podemos decir cuándo entró la canción en la colección ni de dónde vino.
 

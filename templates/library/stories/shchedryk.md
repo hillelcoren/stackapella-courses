@@ -13,6 +13,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote shchedryk | shchedryk meaning in english | shchedryk song history | shchedryk lyrics meaning | carol of the bells ukrainian lyrics in english | carol of the bells ukrainian history
+original: Polishchuk's songbook, Kyiv 1913, Internet Archive | https://archive.org/details/zbirnychoknakras00poli/page/n154/mode/1up
 ---
 
 Shchedryk is a Ukrainian shchedrivka, a song for the New Year that wishes a household well. In its words a swallow flies in and calls the master of the house outside to see his new lambs, and tells him the year will bring him money [^eu-carols][^america][^kyivind]. The composer Mykola Leontovych worked, by Ukrainian scholars' count, for close to twenty years on a short choral setting built on its four-note tune [^makarenko][^vn-bib]. In 1922 Oleksandr Koshyts's Ukrainian National Chorus sang that setting at Carnegie Hall in New York [^america][^slate]. In 1936 the American choral director Peter J. Wilhousky gave the music new English words, about bells, and as Carol of the Bells it joined America's Christmas carols [^musicanet][^slate][^eu-carols].
@@ -27,11 +28,15 @@ No one can date the words. The swallow is the clue most writers point to. Before
 
 Leontovych kept coming back to Shchedryk. Ukrainian scholars count five versions of his setting, the first from about 1901 to 1902 and the last from 1919 [^makarenko][^vn-bib]. One historian of the song dates the start of his work to 1910 instead [^ukrainer]. It was the 1916 version that was first heard in public. Koshyts conducted it with a choir of Kyiv's university students and of its women's higher courses at a Christmas concert in the hall of Kyiv's Merchants' Assembly, on 29 December 1916 by the old calendar [^ukrainer][^zn][^vn-bib]. Many books give 25 December, Christmas Day by that calendar, but recent research gives the 29th [^zn][^vn-bib][^ukrainer]. The concerts made Leontovych famous [^esu]. An edition of the setting was printed in 1918 [^ukrainer][^zn].
 
+![[1]]
+
 **The chorus.** In early 1919, at Symon Petliura's order, the Ukrainian People's Republic formed a choir to sing abroad: a musical embassy to show Europe that Ukraine was a nation [^makarenko][^ukrhec-europe]. The Encyclopedia of Ukraine dates its founding to 1918 [^eu-koshyts]. Koshyts led it as the Ukrainian Republic Capella. With the Bolsheviks threatening Kyiv, the singers left, and in 1919 began their tour in Czechoslovakia [^ukrhec-europe][^ukrainer]. Over the next years they sang in France, Belgium, the Netherlands, England, Spain and more, with Shchedryk at the heart of the programme [^ukrhec-europe][^makarenko][^america]. While they toured, the Bolsheviks took Ukraine and the state that had sent them ceased to exist, so the singers could not go home; the choir was renamed the Ukrainian National Chorus [^ukrhec-europe][^makarenko][^eu-koshyts][^ukrhec-nw].
 
 **Leontovych's death.** Leontovych did not live to see where his setting went. On 23 January 1921 he was shot dead at his parents' home in the village of Markivka by an agent of the Cheka, the Soviet secret police [^eu-leon][^esu][^america][^slate]. He was 43.
 
 **New York.** The chorus sailed from Hamburg on the Caronia and reached New York on 26 September 1922 [^ukrhec-nw][^ukrainer]. On Thursday 5 October 1922 it sang at Carnegie Hall, and Shchedryk was heard in the United States for the first time [^ukrhec-nw][^kyivind][^america][^slate].
+
+![[2]]
 
 **The English.** Peter J. Wilhousky (1902 to 1978) was an American choral director, born in Passaic, New Jersey, to an Eastern European family [^musicanet][^america][^ukrhec-nw]. Writers differ on its roots: some call him of Ukrainian descent, while the Ukrainian History and Education Center calls the family Rusyn, from the Prešov region of today's Slovakia [^ukrainer][^kyivind][^ukrhec-nw]. He later arranged choral music for the NBC Symphony Orchestra's broadcasts [^america][^slate][^ukrhec-nw]. In 1936 Carl Fischer of New York published his Carol of the Bells, with Leontovych's music and Wilhousky's own English words [^musicanet][^slate][^america]. His words are about bells, not the swallow, and are not a translation [^america][^ukrainer]. They are still under copyright, so we name them and don't quote them [^musicanet][^slate].
 
@@ -58,6 +63,8 @@ The words are a folk text with no known author. We sing twelve lines and then th
 **What she tells him.** Come out, master, and look at your "koshara", your sheepfold [^sum-koshara]. The ewes there have "pokotylys", a farm word for giving birth, used of sheep [^sum-kotytysia], and lambs have been born.
 
 **The promise.** All your "tovar", your livestock, mostly cattle in the old sense, is good [^sum-tovar]. You will have a "mirka" of money: a mirka was a household measure for grain, and the vessel that held it [^sum-mirka]. If not money, then "polova", the chaff left from threshing grain [^sum-polova], which seems to promise grain enough to thresh. And you have a dark-browed wife.
+
+![[3]]
 
 ### The full words
 

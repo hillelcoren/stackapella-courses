@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: riu riu chiu significado | qué significa riu riu chiu | quién escribió riu riu chiu | riu riu chiu historia | riu riu chiu letra | cancionero de upsala
-translatedFrom: 0cae0d64e3e3
+translatedFrom: 6f81dca7ffc8
+original: Cancionero de Upsala, Biblioteca de la Universidad de Uppsala | https://www.alvin-portal.org/alvin/view.jsf?pid=alvin-record:55063
 ---
 
 Riu, riu, chiu, que también se escribe Ríu, ríu, chíu o Riu chiu, es un villancico español de Navidad impreso en Venecia en 1556 en *Villancicos de diversos autores* [^uppsala-title][^uppsala-riu]. El único ejemplar conocido de ese libro está en la Biblioteca de la Universidad de Upsala, en Suecia, y de ahí su nombre, Cancionero de Upsala; también se le llama Cancionero del Duque de Calabria [^mitjana1909][^enccat-canconer]. El estribillo empieza con una llamada de puro sonido y luego canta que Dios apartó al lobo de "nuestra cordera", y la primera estrofa hace de la cordera a la Virgen María, guardada de todo pecado [^uppsala-riu][^lopez2026]. No se nombra poeta ni compositor [^uppsala-riu][^mitjana1909]. Un diplomático español, Rafael Mitjana, imprimió su letra en 1909, y la música se publicó en notación moderna en 1944 [^mitjana1909][^residencia][^griffiths].
@@ -28,6 +29,8 @@ Riu, riu, chiu, que también se escribe Ríu, ríu, chíu o Riu chiu, es un vill
 
 **La página.** Riu, riu, chiu ocupa una sola apertura, los folios 42v y 43r, con el recto numerado XLIII; el libro numera solo una cara de cada hoja [^uppsala-riu][^mitjana1909]. Está dispuesta como libro de coro, con el tiple (la voz más aguda) y el alto en la página izquierda, y el tenor y el bajo en la derecha, en notación mensural blanca [^uppsala-riu]. El bajo canta primero el estribillo, solo; luego los cuatro lo cantan hasta un calderón. Después, el pentagrama del bajo dice "SOLO LAS COBLAS", es decir, las coplas solas, con "El lobo rabioso" impreso bajo sus notas, y otras seis estrofas aparecen en bloques en cursiva entre los pentagramas [^uppsala-riu]. En el tiple, un "guardo" está compuesto como "gnardo", con una letra invertida [^uppsala-riu]. Sus vecinas se transparentan a través del papel, en imagen de espejo: el villancico catalán "E la don don", n.º 45 de Mitjana, y "Señores, el qu'es nascido", su n.º 47 [^uppsala-riu][^mitjana1909].
 
+![[1]]
+
 **El descubridor.** Rafael Mitjana (1869 a 1921) fue un diplomático y musicólogo español que estuvo destinado en Suecia [^bakers][^pardo2013]. En la biblioteca universitaria de Upsala, escribió, "tuve la singular fortuna de tropezar con un rarísimo volumen". Lo llamó Cancionero de Uppsala y pensó que probablemente era el único ejemplar [^mitjana1909]. Su libro de 1909 imprimió solo la letra, con Riu, riu, chiu como n.º 46 [^mitjana1909][^imslp]. En la *Encyclopédie de la musique* de Lavignac dio su signatura, 611, y dijo que había transcrito la música [^lavignac1920][^uppsala-shelfmark].
 
 **Quién la hizo.** La letra y la melodía son anónimas y se conocen por primera vez por este impreso, la primera impresión conocida de cada una y de las dos juntas [^uppsala-riu][^mitjana1909]. Mitjana pensaba que las canciones del libro eran de músicos españoles en Italia, y escribió que reconocía algunas como de Flecha, sin dar nombre de pila ni decir cuáles [^lavignac1920]. La Gran Enciclopèdia Catalana dice que la colección procede de la corte valenciana de Fernando de Aragón, duque de Calabria, virrey allí de 1526 a 1550, y que el estudioso Josep Romeu i Figueras la llamó por él Cancionero del Duque de Calabria [^enccat-canconer]. Flecha, de quien se dice que nació en Prades, en Cataluña, hacia 1481, fue maestro de capilla de la catedral de Valencia desde 1526 durante poco más de cuatro años, junto a la capilla de los virreyes, y murió hacia 1553, probablemente en el monasterio de Poblet [^gomez][^enccat-fletxa].
@@ -35,6 +38,8 @@ Riu, riu, chiu, que también se escribe Ríu, ríu, chíu o Riu chiu, es un vill
 **Mito y documentos.** Se suele contar que Mateo Flecha el Viejo escribió Riu, riu, chiu. ChoralWiki pone la canción bajo su nombre, y Wikimedia Commons rotula la fotografía de Upsala "Attributed to" (atribuida a) él [^cpdl][^commons-riu]. Lo que muestran los documentos: el impreso no le da compositor [^uppsala-riu][^mitjana1909]. La Gran Enciclopèdia Catalana dice que algunas de las canciones anónimas del libro se han atribuido a Flecha, pero, por concordancias, da esta, su n.º 46, a Bartomeu Càrceres [^enccat-fletxa][^enccat-canconer]. Ninguno de los dos nombres está en el impreso, así que la damos como anónima.
 
 **El texto de Mitjana.** Mitjana escribió que no había cambiado nada: "No me he permitido alterar para nada el texto original" [^mitjana1909]. Sin embargo, todos los estribillos de su libro dicen "Dios guarde el lobo", un deseo: que Dios aparte al lobo. El impreso, que no lleva tildes, trae "guardo" en todos los versos menos uno, y lo leemos como "guardó", Dios lo apartó; el otro, una vez, en el solo del bajo, es "guarda", Dios lo aparta [^mitjana1909][^uppsala-riu][^lopez2026]. En la última estrofa imprime "con nosotros uiniera (sic)", vino con nosotros, donde el impreso dice "Conel hombre uiniera", vino con el hombre [^mitjana1909][^uppsala-riu].
+
+![[2]]
 
 ### Cronología
 

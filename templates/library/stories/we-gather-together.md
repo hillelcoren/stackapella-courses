@@ -19,6 +19,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: who wrote we gather together | we gather together hymn history | is we gather together a dutch hymn | why is we gather together sung at thanksgiving | we gather together meaning | he chastens and hastens his will to make known meaning
+original: Valerius, Nederlandtsche Gedenck-clanck, 1626, Internet Archive | https://archive.org/details/bub_gb_wxxKAAAAcAAJ/page/n183/mode/1up
 ---
 
 We Gather Together, sung to the tune KREMSER and once known in America as the Prayer of Thanksgiving, is the hymn many American churches sing on Thanksgiving Day [^hymnary-text][^komter1942]. It began as a Dutch song, "Wilt heden nu treden" ("Come, step forward today"), whose earliest known printing is in Adrianus Valerius's Nederlandtsche Gedenck-clanck, printed at Haarlem in 1626 [^valerius1626][^dbnl1942]. There it gives thanks to God after the Dutch victories over Spain in 1597 [^valerius1626][^komter1942]. Eduard Kremser arranged it in Vienna in 1877 as a German Dankgebet, a prayer of thanks [^komter1942][^hanslick1878], and Theodore Baker's English was published in New York in 1894 [^loc1894][^ccr1922].
@@ -27,9 +28,13 @@ We Gather Together, sung to the tune KREMSER and once known in America as the Pr
 
 **The book.** Adrianus Valerius (in Dutch, Adriaen Valerius) lived at Veere, in Zeeland [^valerius1626][^meertens1942]. His Nederlandtsche Gedenck-clanck, a "memorial sound" of the Netherlands, tells the Dutch revolt against Spain up to 1625, with songs set among the prose [^valerius1626][^dbnl1942]. He died in 1625, and his heirs had it printed at Haarlem in 1626 [^valerius1626][^meertens1942][^hanslick1878]. Its title page calls the songs "meest alle nieu", mostly all new, each with its notes and tablature for lute and cittern [^valerius1626]. Scholars think that, apart from a few older songs such as the Wilhelmus, the songs are his own [^tenhaeff1942][^vanduyse].
 
+![[1]]
+
 **The page.** In the Ghent University copy of 1626, the song stands on the page numbered 170, straight after Valerius's account of 1597 [^valerius1626]. Two pages earlier, a note in the margin marks the year and "the battle of Turnhout, and great victory of Prince Maurits": on 24 January his cavalry routed a Spanish force, and its commander, Count Varax, was killed [^valerius1626][^rct][^dbnl1942]. Through the summer and autumn Maurits took Rheinberg, Moers, Groenlo and Lingen [^valerius1626][^dbnl1942]. Valerius writes that days of prayer and thanksgiving were held, giving God alone the honour, and medals struck reading "Venit, Vidit, Deus vicit": he came, he saw, God conquered [^valerius1626][^komter1942]. A short poem and quotations, the last from Psalm 33, lead into the song [^valerius1626][^kjv-ps33].
 
 The song has no title, only "Stem: Hey wilder dan wild", the tune to sing it to [^valerius1626]. The melody stands in diamond-headed notes with the first verse under it, opening on a large decorated letter; the other three verses follow, two side by side and the last centred under them, and lute tablature runs along the foot [^valerius1626].
+
+![[2]]
 
 **The tune.** Valerius's own table of tunes lists "Hey! wilder dan wilt" among the Dutch ones [^dbnl-tafel]. It was older than his book: Hymnary.org's notes and the 1942 edition both trace it to a Dutch song of the sixteenth century [^hymnary-kremser][^komter1942].
 
@@ -51,6 +56,8 @@ In Germany and Austria, meanwhile, Kremser's Dankgebet became a song of national
 - 1877: Kremser's German Dankgebet is sung in Vienna [^komter1942][^bohme]
 - 1894: G. Schirmer publishes it in New York with Baker's English [^loc1894][^ccr1922]
 - 1920: Harvard's Memorial Day commemoration opens with it [^harvard1920]
+
+![[3]]
 
 ## What the words mean
 
@@ -135,6 +142,8 @@ Thy name be ever prais'd! O Lord, make us free!
 In the United States it is sung on and around Thanksgiving Day [^hymnary-text][^komter1942][^ncca1935]. Its tune is KREMSER, named after the Viennese arranger, though the melody is the old Dutch tune in Valerius's book [^hymnary-kremser][^komter1942]. Its meter is 12.11.12.11: the first line of each verse has twelve syllables, the second eleven [^hymnary-kremser][^harvard1920].
 
 The Beacon Hymnal of 1924 prints it as No. 17, under "Opening of Service", headed "Old Netherlands Melody, 1625", the words "Anon.", and marked "Sing in unison" [^beacon1924]. The same four parts appear in The Abingdon Hymnal of 1928 as "Arr. by E. Kremser", with a note that the first two verses be sung in unison, men and women taking turns if they like, and the last "in full harmony" [^abingdon1928].
+
+![[4]]
 
 Our arrangement sings verses 1 and 2 of Baker's English, in D major and 3/4 with a one-beat pickup, on the four parts The Beacon Hymnal prints, adapted for 2 to 4 singers, in harmony throughout [^beacon1924]. The soprano sings the old Dutch tune as printed; the harmony parts sing one note to a syllable, and breaths are written in [^beacon1924].
 
