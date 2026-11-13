@@ -15,8 +15,9 @@ alsoKnownAs: Lobe den Herren, den mächtigen König der Ehren; Lobe den Herren; 
 wikidata: Q1729571
 quote: Praise to the Lord! the Almighty, the King of creation!
 quoteSource: cbe1863
-updated: 2026-11-12
-checked: 2026-11-12
+original: Neander, Glaub- und Liebes-übung (Bremen, 1680), the only known copy of the first edition, Staats- und Universitätsbibliothek Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194 || The Chorale Book for England (1863), No. 9, Internet Archive | https://archive.org/details/choralebookforen00benn/page/n45
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote praise to the lord the almighty | praise to the lord the almighty history | praise to the lord the almighty meaning | what psalm is praise to the lord the almighty | lobe den herren meaning in english | is praise to the lord the almighty a catholic hymn | is praise to the lord the almighty public domain | joachim neander neanderthal
 ---
@@ -27,7 +28,7 @@ Praise to the Lord, the Almighty, the King of Creation is the English form of Lo
 
 **The poet.** Neander was born in Bremen in 1650 and studied at its Gymnasium illustre from 1666, where the preaching of the pietist Theodor Undereyck turned him toward a more personal faith [^julian-neander][^ndb]. He studied at Heidelberg as a tutor, and joined Spener's pietist circle in Frankfurt [^julian-neander][^ndb]. In 1674 he became rector of the Reformed Latin school in Düsseldorf, which also made him a preacher there [^julian-neander][^adb][^suub]. His private prayer meetings, and his staying away from public worship, led to a short suspension and a signed submission in February 1677; the NDB dates the suspension to 1676 [^julian-neander][^adb][^ndb]. In 1679 he went home to Bremen as an assistant preacher at St Martin's Church [^julian-neander][^adb][^suub]. Within a year he fell ill, with what, the ADB says, we do not know, and he died there on 31 May 1680, Whit Monday [^adb][^ndb][^suub]. The ADB gives his age as 30, the Bremen library as 29 [^adb][^suub].
 
-**The words.** The hymn's earliest known printing is in Neander's book of 57 hymns, A & Ω. Joachimi Neandri Glaub- und Liebes-übung, printed in Bremen by Herman Brauer in 1680 [^julian-neander][^ndb][^neander1680]. Its title calls them covenant songs and "Danck-Psalmen", psalms of thanks, "Zu lesen und zu singen auff Reisen / zu Hauß oder bey Christen-Ergetzungen im Grünen": to read and sing on journeys, at home, or at Christian outings in the green [^suub][^neander1680]. Some later books date the hymn 1679, but the ADB knows of no edition before 1680 [^adb][^cbe1863].
+**The words.** The hymn's earliest known printing is in Neander's book of 57 hymns, A & Ω. Joachimi Neandri Glaub- und Liebes-übung, printed in Bremen by Herman Brauer in 1680 [^julian-neander][^ndb][^neander1680]. Its title calls them covenant songs and "Danck-Psalmen", psalms of thanks, and the Bremen library quotes the purpose its title gives them: "zu lesen und zu singen auff Reisen / zu Hause oder bey Christen-Ergetzungen im Grünen", to read and sing on journeys, at home, or at Christian outings in the green [^suub][^neander1680]. Some later books date the hymn 1679, but the ADB knows of no edition before 1680 [^adb][^cbe1863].
 
 **What the 1680 page shows.** The hymn fills pages 46 to 49 [^neander1680]. Page 46, headed "Der Lobende", the one who praises, prints the tune in triple time with a figured bass beneath it [^neander1680]. Facing it, page 47 gives the verse the hymn grows from, "Ps. CIII. 1.", in German: praise the Lord, my soul, and all that is in me his holy name [^neander1680][^kjv]. Then comes "Mel. Hastu dann JEsu dein Angesicht &c.", sing it to the tune of "Hast du denn, Jesu, dein Angesicht", and stanzas 1 and 2 [^neander1680][^hymnarchive]. Page 48 prints the music again under Psalm 103's first verse in Hebrew, and page 49 has stanzas 3 to 5 [^neander1680].
 
@@ -58,7 +59,7 @@ Praise to the Lord, the Almighty, the King of Creation is the English form of Lo
 
 **Two psalms.** Neander built the hymn on Psalm 103 and Psalm 150 [^julian][^neander1680]. Psalm 103 begins: "Bless the Lord, O my soul: and all that is within me, bless his holy name", then "forget not all his benefits" [^kjv]. Psalm 150, the last psalm, calls for praise on every instrument and ends "Let every thing that hath breath praise the Lord" [^kjv]. Neander's last stanza borrows from both almost word for word [^neander1680][^kjv].
 
-**The English we sing.** Winkworth made four stanzas from Neander's five. Hymnology Archive and the Psalter Hymnal Handbook say she left out his third, about God's gift of health and his care in trouble; Julian says the fourth [^hymnarchive][^hymnary-text][^julian]. Set side by side, the texts favour the third: her third stanza's "Ponder anew What the Almighty can do" is his fourth's "Dencke daran, Was der Allmächtige kan", and nothing of his third is in hers [^cbe1863][^neander1680].
+**The English we sing.** Winkworth made four stanzas from Neander's five. Hymnology Archive and the Psalter Hymnal Handbook say she left out his third, about God's gift of health and his care in trouble; Julian says the fourth [^hymnarchive][^hymnary-text][^julian]. Set side by side, the texts favour the third: her third stanza's "Ponder anew What the Almighty can do" is his fourth's "Dencke daran, Was der Allmächtige kan", and of his third only its wings spread over you may echo, in her second stanza's "Shelters thee under His wings" [^cbe1863][^neander1680].
 
 **Verse 1.** "Praise to the Lord! the Almighty, the King of creation!" Neander's König der Ehren is the King of glory [^neander1680]. "O my soul, praise Him, for He is thy health and salvation" speaks to the singer's own soul, as Psalm 103 does [^cbe1863][^kjv]. "All ye who hear, Now to His temple draw near" calls everyone to God's house. Neander instead wakes the "Psalter und Harffe", psaltery and harp, as in Psalm 108 [^neander1680][^kjv]. A psaltery is a plucked string instrument [^dli].
 
@@ -168,12 +169,13 @@ Gladly for aye we adore Him!
 
 It spread through Reformed, Pietist and Lutheran hymnbooks in the 1700s and 1800s, and at last into Catholic ones [^suub][^julian]. Today it is No. 316 in the German Protestant hymnal, the Evangelisches Gesangbuch, and No. 392 in the Catholic Gotteslob [^eg][^dli]. English-speaking churches sing Winkworth's words, often with a newer stanza added [^hymnarchive][^hymnary-text]. Hymnals call the tune LOBE DEN HERREN; The English Hymnal of 1906 named it after the older song, HAST DU DENN, JESU [^hymnary-text][^eh1906]. Its meter is 14.14.4.7.8: two long lines, two short ones and a closing line [^zahn][^cbe1863].
 
-We sing verses 1 and 2 of Winkworth's English, in four parts adapted from the harmony printed with them in The Chorale Book for England in 1863 [^cbe1863][^hymnarchive]. We keep the book's key, G, but write its broad 3/2 in 3/4. The soprano sings the tune as printed and the bass is mostly as printed; the alto and tenor are reworked so that two singers, soprano and alto, sing in thirds and sixths, and the bass joins them for three. Where the page's lower parts move under a held note of the tune, we keep one note, and breaths are written in at the ends of lines.
+We sing verses 1 and 2 of Winkworth's English, in four parts adapted from the harmony printed with them in The Chorale Book for England in 1863 [^cbe1863][^hymnarchive]. We keep the book's key, G, but write its broad 3/2 in 3/4. The book prints only the first stanza under the music, its first two lines under a repeat, and the rest below; we write the repeat out and fit verse 2 to the notes ourselves [^cbe1863]. The soprano sings the tune as printed and the bass is mostly as printed; the alto and tenor are reworked so that two singers, soprano and alto, sing in thirds and sixths, and the bass joins them for three. Where the page's lower parts move under a held note of the tune, we keep one note, and breaths are written in at the ends of lines.
 
 ## Versions and other words
 
 - **The 1744 Pennsylvania text:** Saur's Germantown book has "Seele und Hertze wach auf, lasset das Lob und Danck hören", soul and heart awake, let praise and thanks be heard, where Neander had psaltery and harp and music, and gives its tune as that of "Christe, mein Leben, mein Hoffen" [^psalter1744][^neander1680].
 - **The English Hymnal (1906):** No. 536, credited to Winkworth "and others", with stanzas added to hers [^eh1906][^hymnarchive].
+- **In Spanish:** it is sung as "Alma, bendice al Señor", in the translation of Fritz Fliedner (1845 to 1901), printed for example in Cántico Nuevo (1962), No. 5 [^hymnary-es].
 
 ## Did you know?
 
@@ -198,7 +200,7 @@ Mostly Psalm 103, with Psalm 150 at the end. Neander printed Psalm 103's first v
 
 ### Is "Praise to the Lord, the Almighty" a Catholic hymn?
 
-It began as a Protestant hymn and is now sung by both. Neander was a Reformed, that is Calvinist, preacher touched by Pietism, and Catholic hymnbooks took the hymn up last [^ndb][^julian-neander][^suub]. Today it is No. 392 in the Gotteslob, the Catholic hymnal of the German-speaking dioceses, and No. 316 in the German Protestant hymnal [^dli][^eg].
+It began as a Protestant hymn and is now sung by both. Neander was a Reformed, that is Calvinist, preacher touched by Pietism, and Catholic hymnbooks took the hymn up last [^ndb][^julian-neander][^suub]. Today it is No. 392 in the Gotteslob, the Catholic hymnal of Germany and Austria, and No. 316 in the German Protestant hymnal [^dli][^eg].
 
 ### Is "Praise to the Lord, the Almighty" in the public domain?
 
@@ -212,7 +214,7 @@ Its old words and tune are. Neander's German was printed in 1680, the tune in 16
 
 ## Sources
 
-- [^neander1680]: Joachim Neander, *A & Ω. Joachimi Neandri Glaub- und Liebes-übung: Auffgemuntert durch Einfältige Bundes-Lieder und Danck-Psalmen* (Herman Brauer, Bremen, 1680), pp. 46 to 49, Staats- und Universitätsbibliothek Bremen, r the 971.1 x nea/575; pages read in the reproduction at Hymnology Archive, Fig. 1. https://www.hymnologyarchive.com/praise-to-the-lord-the-almighty
+- [^neander1680]: Joachim Neander, *A & Ω. Joachimi Neandri Glaub- und Liebes-übung: Auffgemuntert durch Einfältige Bundes-Lieder und Danck-Psalmen* (Herman Brauer, Bremen, 1680), pp. 46 to 49, Staats- und Universitätsbibliothek Bremen, r the 971.1 x nea/575, the only known copy of the first edition, digitised by the library; pages read in the reproduction at Hymnology Archive, Fig. 1. https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194
 - [^suub]: Staats- und Universitätsbibliothek Bremen, *Aktuelles Sammlungsstück: Joachim Neander, Glaub- und Liebesübung, Bremen 1680* (2021). https://www.suub.uni-bremen.de/uploads/cms/files/SuUB_Sammlungsstueck_2021_Neander.pdf
 - [^julian]: John Julian (ed.), *A Dictionary of Hymnology*, 2nd ed. (John Murray, 1907), vol. 1, p. 683, "Lobe den Herren den mächtigen König der Ehren" (signed J. M.). https://archive.org/details/dictionaryofhymn01lond/page/n706
 - [^julian-neander]: John Julian (ed.), *A Dictionary of Hymnology* (1907), "Neander, Joachim", as reproduced at Hymnary.org. https://hymnary.org/person/Neander_Joachim
@@ -221,7 +223,8 @@ Its old words and tune are. Neander's German was printed in 1680, the tune in 16
 - [^zahn]: Johannes Zahn, *Die Melodien der deutschen evangelischen Kirchenlieder*, vol. 1 (1889), p. 511, No. 1912a. https://archive.org/details/1508283124bsb11304498
 - [^hymnarchive]: Hymnology Archive, *Lobe den Herren, den mächtigen König der Ehren*. https://www.hymnologyarchive.com/praise-to-the-lord-the-almighty
 - [^hymnary-text]: Hymnary.org, *Praise to the Lord, the Almighty, the King of Creation* (text, with the Psalter Hymnal Handbook's notes). https://hymnary.org/text/praise_to_the_lord_the_almighty_the_king
-- [^cbe1863]: Catherine Winkworth (trans.), *The Chorale Book for England* (London, 1863), No. 9, "Praise and Thanksgiving", transcription and scan at the Christian Classics Ethereal Library. https://www.ccel.org/ccel/winkworth/chorales.h009.html
+- [^hymnary-es]: Hymnary.org, *Cántico Nuevo: Himnario Evangélico* (1962), No. 5, "Alma, Bendice al Señor", tr. Fritz Fliedner. https://hymnary.org/hymn/CNHE1962/5
+- [^cbe1863]: Catherine Winkworth (trans.), William Sterndale Bennett and Otto Goldschmidt (music eds.), *The Chorale Book for England* (Longman, Green, Longman, Roberts, and Green, London, 1863), No. 9, "Praise and Thanksgiving", tune LXII; University of Notre Dame copy, Brigham Young University preservation photocopy, Internet Archive, images n45 to n46. https://archive.org/details/choralebookforen00benn/page/n45
 - [^hc-winkworth]: Hymnary.org, *Catherine Winkworth* (with Julian's Dictionary of Hymnology and Bert Polman's biography). https://hymnary.org/person/Winkworth_C
 - [^bachvereniging]: Netherlands Bach Society, *Lobe den Herren, den mächtigen König der Ehren, BWV 137*. https://bachvereniging.nl/en/bwv/bwv-137
 - [^durr]: Alfred Dürr, notes on BWV 137, quoted in the Bach Cantatas Website's guide to the cantata. https://bach-cantatas.com/Guide/BWV137-Guide.htm
