@@ -1,7 +1,7 @@
 ---
 title: Be Thou My Vision: historia, significado y la letra explicada
-description: Oración irlandesa medieval anónima, que Mary Byrne pasó al inglés en 1905 y Eleanor Hull puso en verso en 1912, cantada con SLANE, melodía popular irlandesa.
-lead: Be Thou My Vision es una oración irlandesa medieval anónima, traducida al inglés en prosa por Mary Byrne (1905) y en rima por Eleanor Hull (1912), con SLANE, melodía popular irlandesa. Cantamos la primera estrofa de Hull.
+description: Oración irlandesa medieval anónima, que Mary Byrne pasó al inglés en 1905 y Eleanor Hull puso en verso en 1912, cantada con la melodía popular irlandesa SLANE.
+lead: Be Thou My Vision es una oración irlandesa medieval anónima, traducida al inglés en prosa por Mary Byrne (1905) y en rima por Eleanor Hull (1912), y cantada con la melodía irlandesa SLANE. Cantamos su primera estrofa.
 words: irlandés, anónimo, hacia 900 a 1100; traducción de Mary Byrne (1880 a 1931), 1905; versificación de Eleanor Hull (1860 a 1935), 1912
 tune: tradicional irlandesa; primera impresión conocida, P. W. Joyce, 1909
 tuneName: SLANE
@@ -14,35 +14,35 @@ alsoKnownAs: Rop tú mo baile; A Prayer
 wikidata: Q3269803
 quote: Heart of my own heart, whatever befall, Still be my Vision, O Ruler of all.
 quoteSource: hull1912
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: 716e5b25b24d
+translatedFrom: 6339e4b29b35
 ---
 
 Be Thou My Vision es una oración de la Irlanda medieval convertida en himno inglés en el siglo XX. Su poema irlandés, "Rop tú mo baile", pide a Dios que lo sea todo para quien reza: vista, pensamiento, sabiduría, padre, escudo y tesoro [^eriu1905][^celt]. Nadie sabe quién lo escribió [^celt][^hymnarchive]. Mary Byrne lo publicó con una sencilla traducción inglesa en 1905, y Eleanor Hull la convirtió en pareados rimados en 1912 [^eriu1905][^hull1912]. La primera unión conocida de la letra con su melodía, SLANE, una melodía popular irlandesa, está en el himnario de la Iglesia de Irlanda de 1919 [^hymnarchive][^methodist]. Las iglesias presbiterianas de Escocia, Irlanda, Inglaterra y Gales lo imprimieron en su himnario común de 1927 [^rch1927][^moffatt1927].
 
 ## De dónde viene
 
-**El poema.** El texto irlandés se conserva en tres manuscritos tardíos. La mejor copia está en la Real Academia Irlandesa (Royal Irish Academy), en Dublín: el manuscrito 23 N 10, páginas 95 y 96, escrito en el siglo XVI [^eriu1905][^isos][^hymnarchive]. Uno de sus copistas fechó su trabajo en 1575 [^isos]. Una segunda copia en la misma biblioteca, la 23 E 16, es, en palabras de Byrne, "solo una transcripción descuidada" de la primera [^eriu1905][^hymnarchive]. Una tercera, que perteneció al coleccionista Thomas Phillipps, está en la Biblioteca Nacional de Irlanda; Monica Nevin la editó en 1940 [^hymnarchive][^celt]. Los especialistas sitúan su lengua en el irlandés medio temprano, escrito en algún momento entre aproximadamente 900 y 1100 [^celt][^hymnarchive][^canterbury]. El poema tiene dieciséis estrofas breves, y muchas empiezan con "Rop tú", "sé tú" [^eriu1905][^canterbury].
+**El poema.** El texto irlandés se conserva en tres manuscritos tardíos. La mejor copia está en la Real Academia Irlandesa (Royal Irish Academy), en Dublín: el manuscrito 23 N 10, páginas 95 y 96, escrito en el siglo XVI [^eriu1905][^isos][^hymnarchive]. Uno de sus copistas fechó su trabajo en 1575 [^isos]. Una segunda copia en la misma biblioteca, la 23 E 16, es, en palabras de Byrne, "solo una transcripción descuidada" de la primera [^eriu1905][^hymnarchive]. Una tercera, que perteneció al coleccionista Thomas Phillipps, está en la Biblioteca Nacional de Irlanda; Monica Nevin la editó en 1940 [^hymnarchive][^celt]. Los especialistas sitúan su lengua en el irlandés medio temprano y fechan el poema entre aproximadamente 900 y 1100 [^celt][^hymnarchive][^canterbury]. El texto de Byrne tiene dieciséis estrofas de dos versos, y diez empiezan con "Rob tu" o "Rob tusa", "sé tú" [^eriu1905][^isos].
 
-**La traducción y el verso.** Mary Byrne (1880 a 1931) era una estudiosa dublinesa del irlandés antiguo [^canterbury-byrne][^hymnarchive]. En 1905 publicó el texto irlandés, con una traducción inglesa en prosa verso a verso, con el título "A Prayer" (una oración) en Ériu, la revista de la School of Irish Learning de Dublín [^eriu1905][^hymnarchive]. Su primer verso ya dice "Be thou my vision, O Lord of my heart" (sé tú mi visión, oh Señor de mi corazón). Eleanor Hull (1860 a 1935) nació en Inglaterra en una familia irlandesa y dedicó su vida a la literatura y la historia de Irlanda. Fue una de las fundadoras de la Irish Texts Society [^canterbury-hull][^dub-hull]. En 1912 puso la prosa de Byrne en doce pareados rimados para su antología The Poem-Book of the Gael. Está entre los primeros poemas cristianos del libro, y sus notas atribuyen a Byrne el texto irlandés y la traducción literal [^hull1912][^hymnarchive].
+**La traducción y el verso.** Mary Byrne (1880 a 1931) era una estudiosa dublinesa del irlandés antiguo [^canterbury-byrne][^hymnarchive]. En 1905 publicó el texto irlandés, con una traducción inglesa en prosa verso a verso, con el título "A Prayer" (una oración) en Ériu, la revista de la School of Irish Learning de Dublín [^eriu1905][^hymnarchive]. Su primer verso ya dice "Be thou my vision, O Lord of my heart" (sé tú mi visión, oh Señor de mi corazón). Eleanor Hull (1860 a 1935) nació en Inglaterra en una familia irlandesa y dedicó su vida a la literatura y la historia de Irlanda. Fue una de las fundadoras de la Irish Texts Society [^canterbury-hull][^dub-hull]. En 1912 puso la prosa de Byrne en doce pareados rimados para su antología The Poem-Book of the Gael. Está en la sección de poemas cristianos antiguos del libro (Early Christian Poems), y sus notas atribuyen a Byrne el texto irlandés y la traducción literal [^hull1912][^hymnarchive].
 
-**La melodía.** No se conoce compositor. La primera impresión conocida es el n.º 323 de Old Irish Folk Music and Songs (1909), editado por P. W. Joyce para la Royal Society of Antiquaries of Ireland [^joyce1909][^hymnarchive]. Joyce la imprimió como "With my love on the road" (con mi amor por el camino): dos líneas de música en compás de 3/4, sin letra y sin nota sobre dónde la encontró, en la parte del libro sacada de su propia colección [^joyce1909]. Su prefacio cuenta que creció en Glenosheen, en los montes Ballyhoura del condado de Limerick, donde la música y las canciones "estaban en el aire del valle". Desde 1853 anotó todas las melodías que recordaba, y después recorrió los pueblos anotando más [^joyce1909].
+**La melodía.** No se conoce compositor. La primera impresión conocida es el n.º 323 de Old Irish Folk Music and Songs (1909), editado por P. W. Joyce para la Royal Society of Antiquaries of Ireland [^joyce1909][^hymnarchive]. Joyce la imprimió como "With my love on the road" (con mi amor por el camino): dos líneas de música en compás de 3/4, sin letra y sin nota sobre dónde la encontró, en la parte del libro sacada de su propia colección [^joyce1909]. Su prefacio cuenta que creció en Glenosheen, en los montes Ballyhoura del condado de Limerick, donde la música y las canciones "estaban en el aire del valle". Desde 1853 anotó todas las melodías que recordaba, y después anduvo entre la gente, sobre todo en el sur, anotando más [^joyce1909].
 
-**Letra y melodía juntas.** La primera unión conocida está en el Church Hymnal de 1919 de la Iglesia de Irlanda, que puso la letra de Hull, con cambios, con la melodía de Joyce, y la llamó SLANE [^hymnarchive][^methodist]. En 1927 el Church Hymnary revisado lo imprimió como n.º 477, con el compositor galés David Evans como editor musical principal [^rch1927][^moffatt1927]. Las fuentes no coinciden sobre la primera unión. El Psalter Hymnal Handbook dice que SLANE se convirtió en melodía de himno gracias al arreglo de Evans en ese libro de 1927 [^hymnary-slane]. Hymnology Archive y las notas de himnos de la Iglesia Metodista la adelantan ocho años, al himnario irlandés de 1919 [^hymnarchive][^methodist].
+**Letra y melodía juntas.** La primera unión conocida está en el Church Hymnal de 1919 de la Iglesia de Irlanda, que puso la letra de Hull, con cambios, con la melodía de Joyce, y la llamó SLANE [^hymnarchive][^methodist]. En 1927 el Church Hymnary revisado lo imprimió como n.º 477, con el compositor galés David Evans como editor musical principal [^rch1927][^moffatt1927]. Las fuentes no coinciden sobre la primera unión: el Psalter Hymnal Handbook dice que SLANE se convirtió en melodía de himno gracias al arreglo de Evans en ese libro de 1927 [^hymnary-slane].
 
-**Mito y documentos: el autor.** Se suele contar que el poema lo escribió san Dallán Forgaill [^hymnarchive][^hymnary-text], un poeta irlandés de finales del siglo VI, que, según un relato, murió hacia 598 [^hymnarchive]; el Dictionary of National Biography solo dice "fl. 600", activo hacia 600 [^dnb-dallan]. Muchos himnarios imprimen "Irish, 8th century" (irlandés, siglo VIII) [^hymnary-text]. Lo que muestran los documentos: ninguna copia es anterior al siglo XV o al XVI [^hymnarchive][^isos], y su lengua apunta a una fecha entre aproximadamente 900 y 1100 [^hymnarchive][^celt]. Ni Byrne ni Hull nombraron autor alguno [^eriu1905][^hull1912]. La entrada del Dictionary of National Biography sobre Dallán (1888) enumera tres poemas que se le atribuyen, y esta oración no es uno de ellos [^dnb-dallan].
+**Mito y documentos: el autor.** Se suele contar que el poema lo escribió san Dallán Forgaill [^hymnarchive][^hymnary-text], un poeta irlandés de finales del siglo VI [^hymnarchive][^dnb-dallan]. El Dictionary of National Biography solo dice "fl. 600", activo hacia 600, y que no se sabe el año de su muerte [^dnb-dallan]. Muchos himnarios imprimen "Irish, 8th century" (irlandés, siglo VIII) [^hymnary-text]. Lo que muestran los documentos: ninguna copia es anterior al siglo XV o al XVI [^hymnarchive][^isos], y su lengua apunta a una fecha entre aproximadamente 900 y 1100 [^hymnarchive][^celt]. Ni Byrne ni Hull nombraron autor alguno [^eriu1905][^hull1912]. La entrada del Dictionary of National Biography sobre Dallán (1888) enumera tres poemas que se le atribuyen, y esta oración no es uno de ellos [^dnb-dallan].
 
-**Mito y documentos: la colina.** Se suele contar que la melodía lleva el nombre de la colina de Slane, en el condado de Meath, a unas diez millas de Tara. Allí, según la historia, Patricio encendió un fuego de Pascua desafiando la orden del rey Lóegaire de que ningún fuego ardiera antes que el del propio rey [^hymnary-slane][^bury1905][^moffatt1927]. Lo que muestran los documentos: la historia se conoce por primera vez en una Vida de Patricio escrita por Muirchú, un eclesiástico de finales del siglo VII, dos siglos después de Patricio [^bury1905][^dnb-muirchu]. Muirchú sitúa el fuego en el lugar de enterramiento de los hombres de Fíacc, en la llanura de Brega [^muirchu]. La tradición posterior lo situó en la colina de Slane [^bury1905][^moffatt1927]. El historiador J. B. Bury llamó leyenda al relato en 1905, aunque Patricio quizá pasara de verdad allí su primera Pascua [^bury1905]. La melodía no tiene ningún vínculo conocido con Patricio: en 1909 era "With my love on the road" [^joyce1909][^hymnarchive].
+**Mito y documentos: la colina.** La melodía lleva el nombre de la colina de Slane, en el condado de Meath, al otro lado de la llanura de Brega desde Tara [^hymnarchive][^hymnary-slane][^bury1905][^muirchu]. Se suele contar que allí Patricio encendió un fuego de Pascua desafiando la orden del rey Lóegaire de que ningún fuego ardiera antes que el del propio rey [^hymnary-slane][^bury1905][^moffatt1927]. Lo que muestran los documentos: la historia se cuenta por primera vez en Vidas de Patricio escritas a finales del siglo VII, dos siglos después de él, por extenso por el eclesiástico Muirchú y en breve por Tírechán [^bury1905][^dnb-muirchu]. Muirchú sitúa el fuego en el lugar de enterramiento de los hombres de Fíacc, en la llanura de Brega, y solo nombra Slane como el pueblo donde más tarde se veneraron las reliquias de un converso [^muirchu]. En 1905 el historiador J. B. Bury veía "evidente" que era una tradición de Slane. Llamó leyenda al relato, aunque Patricio quizá pasara de verdad allí su primera Pascua [^bury1905]. La melodía no tiene ningún vínculo conocido con Patricio: en 1909 era "With my love on the road" [^joyce1909][^hymnarchive].
 
 ### Cronología
 
 - siglo XVI: el poema se copia en el manuscrito 23 N 10 de la Real Academia Irlandesa, páginas 95 a 96 [^isos][^hymnarchive]
-- 1905: Mary Byrne publica el texto irlandés y su traducción en prosa en Ériu [^eriu1905][^hull1912]
-- 1909: P. W. Joyce imprime la melodía como "With my love on the road", n.º 323 [^joyce1909][^moffatt1927]
-- 1912: los doce pareados de Eleanor Hull en The Poem-Book of the Gael [^hull1912][^canterbury]
+- 1905: Mary Byrne publica el texto irlandés y su traducción en prosa en Ériu [^eriu1905][^hymnarchive]
+- 1909: P. W. Joyce imprime la melodía como "With my love on the road", n.º 323 [^joyce1909][^hymnarchive]
+- 1912: los doce pareados de Eleanor Hull en The Poem-Book of the Gael [^hull1912][^hymnarchive]
 - 1919: el Church Hymnal de la Iglesia de Irlanda pone la letra con SLANE [^hymnarchive][^methodist]
 - 1927: el Church Hymnary revisado lo imprime como n.º 477 [^rch1927][^moffatt1927]
 
@@ -209,13 +209,13 @@ sé aún mi visión, oh soberano de todo.
 
 ## Cómo se canta
 
-Es un himno de devoción y confianza, impreso en los himnarios de muchas iglesias y no ligado a ningún tiempo del año [^hymnary-text][^hymnary-slane]. Su melodía es SLANE, y su métrica, 10.10.10.10: cuatro versos de diez sílabas [^rch1927][^hymnary-slane]. La Iglesia de Irlanda lo cantó desde 1919, y las iglesias presbiterianas de Gran Bretaña e Irlanda, desde 1927 [^hymnary-ich3][^rch1927].
+Es un himno de devoción y confianza, impreso en los himnarios de muchas iglesias y no ligado a ningún tiempo litúrgico [^hymnary-text][^hymnary-slane]. Su melodía es SLANE, y su métrica, 10.10.10.10: cuatro versos de diez sílabas [^rch1927][^hymnary-slane]. La Iglesia de Irlanda lo cantó desde 1919, y las iglesias presbiterianas de Gran Bretaña e Irlanda, desde 1927 [^hymnary-ich3][^rch1927].
 
-Nuestro arreglo es una estrofa, los dos primeros pareados de Hull, para 2 a 4 cantantes, en Fa mayor y compás de 3/4. Joyce también imprimió la melodía en 3/4, con un bemol en la armadura [^joyce1909]. La soprano canta la melodía, y todas las voces cantan la letra. La armonía es nuestra, no la del himnario de 1919.
+Nuestro arreglo es una estrofa, los dos primeros pareados de Hull, para 2 a 4 cantantes, en Fa mayor y compás de 3/4. Joyce también imprimió la melodía en 3/4, con un bemol en la armadura [^joyce1909]. La armonía es nuestra, no la del himnario de 1919.
 
 ## Versiones y otras letras
 
-Los himnarios cambiaron la letra de Hull casi desde el principio. El Church Hymnary de 1927 imprimió cinco estrofas de cuatro versos y dejó fuera sus dos pareados de "King of the seven heavens" (Rey de los siete cielos). También cantaba "Naught be all else to me", "by day or by night" y "I Thy true son" donde Hull tiene "Naught is all else to me", "by day and by night" y "I thy dear son" [^rch1927][^hull1912]. Nosotros cantamos la letra de la propia Hull.
+Los himnarios cambiaron la letra de Hull casi desde el principio. Además de quitar dos pareados, el Church Hymnary de 1927 cantaba "Naught be all else to me", "by day or by night" y "I Thy true son" donde Hull tiene "Naught is all else to me", "by day and by night" y "I thy dear son" [^rch1927][^hull1912]. Nosotros cantamos la letra de la propia Hull.
 
 La melodía lleva también otras letras. Jan Struther (1901 a 1953) escribió para ella "Lord of all hopefulness", un himno para las horas del día, en la edición ampliada de Songs of Praise de 1931 [^canterbury-hopeful][^hymnary-hopeful].
 
@@ -228,7 +228,7 @@ La melodía lleva también otras letras. Jan Struther (1901 a 1953) escribió pa
 - [Soprano](/songs/be-thou-my-vision/soprano): llevas la melodía, y tiene mucho recorrido. Baja al Do grave en "-sion, O" y luego sube a su Fa agudo en "best", en el tercer verso, "Thou my best thought". Toma esa nota aguda con suavidad, o cambia la tonalidad.
 - [Contralto](/songs/be-thou-my-vision/alto): cantas la letra casi siempre una tercera o una sexta por debajo de la melodía, moviéndote sobre todo por grados conjuntos. En "Thou my best thought by day" oscilas entre Si bemol y La, en lo más agudo de tu voz. Al final bajas una tercera, de Do a tu nota más grave, el La grave, en "light".
 - [Tenor](/songs/be-thou-my-vision/tenor): cantas el centro de los acordes, a menudo descansando en Fa, y nunca saltas más de una cuarta. Sostienes tu nota más aguda, Do, durante "my heart, Naught is", y luego vuelves a Fa.
-- [Bajo](/songs/be-thou-my-vision/bass): recorres la línea del bajo, casi siempre por grados conjuntos. Bajo "Naught is all else to" bajas Do, Si bemol, La, Sol hasta un Fa grave, y terminas en ese Fa grave bajo "light".
+- [Bajo](/songs/be-thou-my-vision/bass): recorres la línea del bajo, casi siempre por grados conjuntos. Debajo de "Naught is all else to" bajas por Do, Si bemol, La y Sol hasta un Fa grave, y terminas en ese Fa grave bajo "light".
 
 ## Preguntas
 
@@ -238,15 +238,19 @@ Nadie lo sabe. El poema irlandés es anónimo, y los especialistas fechan su len
 
 ### ¿Quién compuso la música de Be Thou My Vision?
 
-No se conoce compositor. SLANE es una melodía popular irlandesa tradicional. Su primera impresión conocida está en Old Irish Folk Music and Songs (1909), de P. W. Joyce, con el título "With my love on the road" y sin letra [^joyce1909][^hymnarchive]. Su primera unión conocida con esta letra, con el nombre de SLANE, está en el himnario de la Iglesia de Irlanda de 1919 [^hymnarchive][^methodist], por la colina del condado de Meath unida a la leyenda del fuego de Pascua de san Patricio [^hymnary-slane][^bury1905].
+No se conoce compositor. SLANE es una melodía popular irlandesa tradicional. Su primera impresión conocida está en Old Irish Folk Music and Songs (1909), de P. W. Joyce, con el título "With my love on the road" y sin letra [^joyce1909][^hymnarchive]. Su primera unión conocida con esta letra está en el himnario de la Iglesia de Irlanda de 1919, que la llamó SLANE por la colina del condado de Meath unida a la leyenda del fuego de Pascua de san Patricio [^hymnarchive][^methodist][^hymnary-slane].
 
 ### ¿Cuál es la letra original de Be Thou My Vision?
 
-El original es un poema irlandés de dieciséis estrofas, de entre aproximadamente 900 y 1100, que empieza "Rop tú mo baile" [^eriu1905][^celt]. Su primera forma en inglés es la prosa verso a verso de Mary Byrne, de 1905, que empieza "Be thou my vision, O Lord of my heart" [^eriu1905]. Eleanor Hull la convirtió en doce pareados rimados en 1912, la letra que cantan los himnarios. La mayoría de los himnarios imprimen menos estrofas y cambian algunas palabras [^hull1912][^rch1927].
+El original es un poema irlandés de dieciséis estrofas, de entre aproximadamente 900 y 1100, que empieza "Rop tú mo baile" [^eriu1905][^celt]. Su primera forma en inglés es la prosa verso a verso de Mary Byrne, de 1905, que empieza "Be thou my vision, O Lord of my heart" [^eriu1905]. Eleanor Hull la convirtió en doce pareados rimados en 1912, la letra que cantan los himnarios. La mayoría de los himnarios imprimen menos estrofas y cambian algunas palabras [^hull1912][^rch1927][^hymnarchive].
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo la melodía la canta la soprano, desde un Do grave hasta un Fa agudo, el registro más amplio de la canción. Con dos cantantes tienes la melodía y la contralto. Un tercer cantante añade el bajo, y el tenor completa las cuatro voces. Las cuatro voces cantan la letra juntas, en Fa mayor y en un 3/4 regular.
+En nuestro arreglo la melodía la canta la soprano, desde un Do grave hasta un Fa agudo, el registro más amplio de la canción. Con dos cantantes tienes la melodía y la contralto. Un tercer cantante añade el bajo, y el tenor completa las cuatro voces.
+
+### ¿En qué versículo de la Biblia se basa Be Thou My Vision?
+
+En ninguno: es una oración irlandesa, no el arreglo de un pasaje, pero sus imágenes vienen de la Escritura. El "my high tower" de Hull es la expresión de la versión inglesa King James en el Salmo 18:2, donde la Reina-Valera de 1909 dice "Escudo mío, y el cuerno de mi salud, mi refugio", y su escudo de batalla y su espada recuerdan la armadura de Dios de Efesios 6: "el escudo de la fe" y "la espada del Espíritu" [^hymnarchive][^bible]. El índice de Hymnary.org lo relaciona también con Proverbios 29:18: en inglés, "Where there is no vision"; en la Reina-Valera de 1909, "Sin profecía el pueblo será disipado" [^hymnary-text][^bible].
 
 ## Canta después
 
@@ -256,9 +260,9 @@ En nuestro arreglo la melodía la canta la soprano, desde un Do grave hasta un F
 
 ## Fuentes
 
-- [^eriu1905]: M. E. Byrne, "A Prayer", *Ériu: The Journal of the School of Irish Learning*, vol. 2 (Dublín: School of Irish Learning, 1905), pp. 89 a 91; facsímil. https://archive.org/details/eriu_1905_2
-- [^hull1912]: Eleanor Hull, ed., *The Poem-Book of the Gael* (Londres: Chatto & Windus, 1912), "A Prayer", pp. 119 a 120, y notas, p. 354; ejemplar de la University of Toronto, facsímil. https://archive.org/details/poembookofgaeltr00hulluoft
-- [^joyce1909]: P. W. Joyce, ed., *Old Irish Folk Music and Songs: A Collection of 842 Irish Airs and Songs, Hitherto Unpublished* (Londres: Longmans, Green; Dublín: Hodges, Figgis, 1909), prefacio, pp. v a viii; n.º 323, "With my love on the road", p. 151; ejemplar de la University of Toronto, facsímil. https://archive.org/details/oldirishfolkmusi00royauoft
+- [^eriu1905]: M. E. Byrne, "A Prayer", *Ériu: The Journal of the School of Irish Learning*, vol. 2 (Dublín: School of Irish Learning, 1905), pp. 89 a 91 (la p. 89 es la imagen n92); facsímil. https://archive.org/details/eriu_1905_2/page/n92
+- [^hull1912]: Eleanor Hull, ed., *The Poem-Book of the Gael* (Londres: Chatto & Windus, 1912), "A Prayer", pp. 119 a 120, y notas, p. 354 (la p. 119 es la imagen n160); ejemplar de la University of Toronto, facsímil. https://archive.org/details/poembookofgaeltr00hulluoft/page/n160
+- [^joyce1909]: P. W. Joyce, ed., *Old Irish Folk Music and Songs: A Collection of 842 Irish Airs and Songs, Hitherto Unpublished* (Londres: Longmans, Green; Dublín: Hodges, Figgis, 1909), prefacio, pp. v a viii; n.º 323, "With my love on the road", p. 151 (imagen n192); ejemplar de la University of Toronto, facsímil. https://archive.org/details/oldirishfolkmusi00royauoft/page/n192
 - [^hymnarchive]: Chris Fenner, *Rop tú mo baile (Be Thou My Vision)*, Hymnology Archive (2018). https://www.hymnologyarchive.com/be-thou-my-vision
 - [^canterbury]: *The Canterbury Dictionary of Hymnology*, "Be thou my vision, O Lord of my heart" (Canterbury Press), sección inicial. https://hymnology.hymnsam.co.uk/b/be-thou-my-vision,-o-lord-of-my-heart
 - [^canterbury-byrne]: *The Canterbury Dictionary of Hymnology*, "Mary E. Byrne" (Canterbury Press), sección inicial. https://hymnology.hymnsam.co.uk/m/mary-e-byrne
@@ -278,3 +282,4 @@ En nuestro arreglo la melodía la canta la soprano, desde un Do grave hasta un F
 - [^rch1927]: *The Church Hymnary, Revised Edition* (Londres: Oxford University Press, prefacio fechado en abril de 1927; impresión de 1929), prefacio y n.º 477; facsímil. https://archive.org/details/churchhymnaryrev0000unse_u8a1
 - [^dub-hull]: Dictionary of Ulster Biography, *Eleanor Henrietta Hull (1860 to 1935)*. https://www.newulsterbiography.co.uk/index.php/home/viewPerson/719
 - [^hymnary-hopeful]: Hymnary.org, *Lord of all hopefulness, Lord of all joy* (texto), con sus notas. https://hymnary.org/text/lord_of_all_hopefulness_lord_of_all_joy
+- [^bible]: La Biblia, versión King James (1611): Salmos 18:2; Efesios 6:16 a 17; Proverbios 29:18; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Psalm+18%3A2%3BEphesians+6%3A16-17%3BProverbs+29%3A18&version=KJV
