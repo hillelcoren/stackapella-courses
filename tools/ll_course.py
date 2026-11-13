@@ -30,8 +30,8 @@ COLOUR = 4
 
 SAFETY = "Easy volume, your middle notes, the bass light; stop if anything tightens or hurts."
 BASS_SAFETY = "Easy volume, light, never pressed; stop if anything tightens or hurts."
-# Said once, on the course's first layer: from then on Sing it again is simply there.
-RESING = "Not happy with it? Sing it again before you stack on it."
+# Said once, after the course's first layer: from then on Sing it again is simply there.
+RESING = "Not happy with it? Sing it again: the next step loops your latest take."
 HEADPHONES = ("Headphones on", "Through a speaker, your loops rest while you sing")
 # A play step scores pitch alone unless it opts into timing: the bass, gap and rhythm layers, where the
 # loop's beat is the point, take `rhythm` (pitch 70, timing 30; docs/play-timing-plan.md in the app's repo)
@@ -262,15 +262,15 @@ def overdub(notes, loop, count, rest=None):
 
 UNIT1 = {"id": "ll-a-loop", "title": EN("A loop that lines up"), "colour": COLOUR, "lessons": [
     lesson("1-loop", "The loop", [
-        learn("A looper sings a short part, lets it repeat, and sings over it: a band made of one voice. Hear one: a bass four times round, and a second part over it. This course is for the web app for now.", [
-            ("The app closes the loop", "Your job is to fit inside it"),
+        learn("A looper sings a short part, lets it repeat, and sings over it: a band made of one voice. Hear one: a bass four times round, and a second part over it.", [
+            ("The app sets the loop's length", "Your job is to fit your notes inside it"),
             HEADPHONES,
             ("Low and easy", SAFETY),
         ], "bass", listen={"tempo": T12, "turn": False, "notes": passes(TWO_BASS, TWO, 4),
                            "with": [{"notes": passes(TWO_GAPS, TWO, 2, 2 * TWO)}]}),
-        bass(f"Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. {BASS_SAFETY}",
-             passes(TWO_BASS, TWO, 2), T12, generous=True),
-        play(f"{RESING} Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re.",
+        bass(f"Sing the bass on \"doom\", twice round: do, do, then low so, low so, a rest after each. Do is your home note, and low so sits below it. {BASS_SAFETY}",
+             passes(TWO_BASS, TWO, 2), T12, measures=f"{PITCH_BEAT} {RESING}", generous=True),
+        play(f"Now your bass loops: listen once round, then fill its gaps with short \"doo\"s, on mi, then re, both just above do.",
              overdub(TWO_GAPS, TWO, 2), T12, "Scored on your notes in the gaps, on pitch and on the beat. That's your loop under you.",
              under=under(1, loop=TWO), generous=True, rhythm=True),
     ]),

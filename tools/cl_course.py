@@ -354,7 +354,7 @@ UNIT1 = [
             ("Which one is joined?", [clip(gapped(FIVE, 0.8)), clip(FIVE)], 1, "The first left small gaps; the second kept going through each change."),
         ]),
         find("Find the notes of a famous first phrase, on \"ah\". Each waits until you're on it.", on(caro_first()), CARO.tempo if CARO else 60),
-        play("Now the whole phrase on \"ah\", joined: hear it, then sing it back.", on(caro_first()), CARO.tempo if CARO else 60, LANDS,
+        play("Now the whole phrase on \"ah\", joined: hear it, then sing it back.", on(caro_first()), CARO.tempo if CARO else 60, f"{LANDS} The joins aren't scored yet: listen back for them.",
              score="landing", generous=True, keep=KEEP),
     ]),
     lesson("1-start", 1, "A clean start", [

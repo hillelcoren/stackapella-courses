@@ -166,10 +166,10 @@ def mt_1_speak():
         "fact": fact("beggars-opera-borrowed-tunes", "The Beggar's Opera (London, 1728) set new words to tunes everyone already knew, such as \"Over the Hills and far away\" and \"Green Sleeves\".",
                      "Gay, The Beggar's Opera (the 1765 edition's airs)", "https://www.gutenberg.org/ebooks/25063"),
         "steps": [
-            learn("In a show, a song is the moment speaking isn't enough. Buttercup is selling her wares to a ship full of sailors: say her line, then sing it.",
+            learn("In a show, a song is the moment speaking isn't enough. In H.M.S. Pinafore (1878), Buttercup sells her wares to a ship full of sailors: say her line, then sing it.",
                   [("Say it", "In rhythm, as you'd tell it"), ("Sing it", "The same words, now on the notes"), ("Easy does it", SAFETY)]),
-            play("Speak the line in rhythm, the words in front of you. No notes yet: just say it as Buttercup would.", {"tempo": 88, "notes": line, "turn": False}, None, kind="try"),
-            play("Now sing it over the chords. Keep it sounding like you talking.", do,
+            play("Say the line out loud first, in rhythm, as Buttercup would. Then tap to try it on the notes: each one plays and waits until you sing it.", {"tempo": 88, "notes": line, "turn": False}, None, kind="try"),
+            play("Now sing it on your own, over the chords. Keep it sounding like you talking.", do,
                  "Scored on your notes on pitch. Listen back: did it still sound like you telling someone?"),
         ],
     }

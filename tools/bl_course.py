@@ -379,7 +379,7 @@ UNIT1 = [
             TELL,
         ]),
         find("The first line of a blues printed in Chicago in 1924. Find its notes: each waits until you're on it.", V1_A, SG_TEMPO),
-        choose("Listen to both, then choose.", SG_TEMPO, [
+        choose("Two short tunes. In one, the second half repeats the first: listen to both, then choose.", SG_TEMPO, [
             ("Which one says it again?", [clip(on(SAME, "oh")), clip(on(DIFF, "oh"))], 0, "The first sang the same tune twice. The second changed it."),
             ("Which one says it again?", [clip(on(DIFF, "oh")), clip(on(SAME, "oh"))], 1, "The second said it again, note for note."),
         ]),

@@ -37,10 +37,10 @@ KEYS = {"C": 0, "C#": 1, "Db": 1, "D": 2, "Eb": 3, "E": 4, "F": 5, "F#": 6, "Gb"
 EPS = 1e-9
 
 SAFE = "stop if anything tightens or hurts"
-BIG = ("As big as you could keep up", "Like calling a friend across a garden")
+BIG = ("A full sound, easy to keep going", "Like calling a friend across a garden")
 BODY = ("Pull with your body", f"Never your throat; {SAFE}")
 HEADPHONES = ("Headphones on", "Through a speaker, the crew rests while you sing")  # a lesson singing over the crew
-SPEAKER_OK = ("Headphones or a speaker", "The calls sound in your rests either way")
+SPEAKER_OK = ("Headphones or a speaker", "Either works: the other voices sing in the gaps between your lines")
 PITCH = "Scored on your answers on pitch."
 BEAT = "Scored on your answers on pitch and on the beat."
 CHOSE = "Scored on the rounds you got right first time."
@@ -412,7 +412,7 @@ UNIT1_LESSONS = [
         find("Find the answer's notes. Each waits until you're on it.", D_LINE, SAILOR.tempo),
         call_answer("Hear the shantyman's line, then answer: \"Hooray and up she rises\".",
                     D_CALL_LINE, D_LINE, SAILOR.tempo),
-        with_crew("Now the whole song: the shantyman sings the verse, then you sing the chorus, all four lines.",
+        with_crew("Now a verse and its chorus: the shantyman sings the verse, then you sing the chorus to the same tune, all four lines.",
                   D_CHORUS_SUNG, SAILOR.tempo, D_CALLS, PITCH, chords=SAILOR.chords_at(*D_SONG), generous=True, keep=KEEP),
     ]),
     lesson("1-joe", 1, "Sweating up", [
