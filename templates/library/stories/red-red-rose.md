@@ -17,6 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: a red red rose meaning | a red red rose meaning line by line | who wrote my love is like a red red rose | who did robert burns wrote a red red rose for | my love is like a red red rose history | a red red rose song | a red red rose lyrics meaning | a red red rose music
+original: Peter Urbani, A Selection of Scots Songs, Book 2 (Edinburgh, 1794), Internet Archive | https://archive.org/details/selectionofscots02urba
 ---
 
 A Red, Red Rose, also known by its first line, My Love Is Like a Red, Red Rose, or in Burns's Scots spelling, O My Luve's Like a Red, Red Rose, is a love song by Robert Burns [^smm1796][^smith]. A lover compares his love to a June rose and a sweet tune, swears to love her till the seas run dry, and promises to come back though it were ten thousand miles [^smm1796][^smith]. Its earliest known printing is in Peter Urbani's Selection of Scots Songs of 1794 [^urbani][^dick][^balladindex]. By the 1820s it had been printed to five tunes [^urbani][^smm1796][^dick][^smith]. Today's tune, Low down in the Broom, is the one R. A. Smith set it to in his Scotish Minstrel in the 1820s, its earliest known printing with that air [^smith][^graham][^balladindex].
@@ -27,7 +28,11 @@ A Red, Red Rose, also known by its first line, My Love Is Like a Red, Red Rose, 
 
 **Urbani's printing.** Pietro (Peter) Urbani was a singer from Milan who settled in Edinburgh and sang Scots songs at its concerts [^graham][^stenhouse][^urbani-uwo]. Burns met him in 1793 and told the publisher George Thomson he was "a narrow, conceited creature; but he sings so delightfully" [^dick][^gebbie5][^gebbie4]. The second book of Urbani's Selection, entered at Stationers' Hall in 1794, prints "The red red Rose" on pages 16 and 17, headed "The Music by P. Urbani": a slow air in 3/4 time, marked "Largo con molta Espressione", for voice, two violins, viola and harpsichord [^urbani][^graham][^stenhouse]. No poet is named on the page, and some words differ from Burns's later text: "O my love's like the red, red rose", "And I can love thee still", "my dearest Love" [^urbani].
 
+![[1]]
+
 **The Museum, 1796.** The fifth volume of the Museum is undated; the National Library of Scotland and Henley and Henderson date it 1796 [^smm1796][^hh3]. Its preface mourns "the late celebrated Scottish Bard", so it came out after Burns died, and its index gives the song to Burns [^smm1796]. On page 415, No. 402, "A red red Rose" is set in F, "Slow", to the strathspey Major Graham [^smm1796][^hh3][^dick]. That setting holds only three stanzas [^smm1796][^dick]; Stenhouse quotes a note by Stephen Clarke, who arranged the music, that once through the tune took in all the words "except the last four lines" [^stenhouse]. On the next page, No. 403, the "Old Set", gives all four stanzas to an older air of one strain, which Stenhouse calls Mary Queen of Scots and G. F. Graham calls Queen Mary's Lament [^smm1796][^stenhouse][^graham]. The letter R at the foot of that page, under the Old Set, is read by Dick and by Henley and Henderson as the signature of No. 402 [^smm1796][^dick][^hh3].
+
+![[2]]
 
 **The older songs behind it.** Graham, writing in the late 1840s, calls it an old song that Burns revised and extended, and its lines echo cheap chapbook songs [^graham][^hh3]. Graham names, and Dick quotes, a stall ballad, The Turtle Dove, or True Love's Farewell: "O fare you well, my own true love, O farewell for a while ... If I go ten thousand miles" [^graham][^dick]. Graham and Henley and Henderson point to a loyal lover's farewell in a chapbook, The Horn Fair Garland, with "And the Rocks melt with the Sun" [^graham][^hh3]. Burns's name is written in that copy in a boyish hand; Graham reported that it was believed to be Burns's own copy, while Henley and Henderson said the writing could no longer be proved genuine [^graham][^hh3]. Henley and Henderson, following the ballad editor J. W. Ebsworth, also hear the opening in an old black-letter ballad, The Wanton Wife of Castle Gate, whose cheeks "are like the Roses That blossom fresh in June" [^hh3]; Graham found the first six lines in none of the old versions he knew [^graham].
 
@@ -36,6 +41,8 @@ William Scott Douglas, in a note reprinted in an American edition of Burns in 18
 **Myth and record.** Told in the 19th century, from a text Peter Buchan supplied to Hogg and Motherwell's edition of Burns (1834): the song that gave Burns his ideas was a farewell written by a Lieutenant Hinches [^graham][^hh3][^dick]. What the record shows: Buchan gave nothing more about Hinches, not even when or where he lived, as Graham noted, and Henley and Henderson dismissed Buchan's text as a poor patchwork of a chapbook song [^graham][^hh3].
 
 **The tune we sing.** Low down in the Broom is in the first volume of the Museum (1787), No. 90, "Andante", in C, with an older song, "My Daddy is a canker'd carle", whose refrain runs "For he's low down, he's in the broom, That's waiting on me" [^smm1787][^stenhouse]. Robert Archibald Smith (1780 to 1829), who became precentor, the leader of the singing, at St George's Church, Edinburgh, in 1823, published The Scotish Minstrel in six volumes between 1821 and 1824 [^dnb][^graham][^smith-nls]. Its undated third volume prints the song on page 85, in C for voice and piano, and its index names the words as Burns's and the air as Low down in the Broom [^smith]. Smith's page adds a four-line refrain to each verse by repeating its closing lines [^smith]. Graham called the tune "a modern version" of the old air, and warned that some airs Smith gave as ancient were his own [^graham][^dnb].
+
+![[3]]
 
 ### Timeline
 
@@ -97,6 +104,8 @@ Tho' 'twere ten thousand mile.
 It is often sung at Burns Suppers, held on or near 25 January, Burns's birthday [^wbc][^lfs]. The early printings ask for a gentle pace: the Museum marks both settings "Slow", Urbani "Largo con molta Espressione", and Graham's edition, arranged by T. M. Mudie, "Moderato" [^smm1796][^urbani][^graham]. Smith's page gives no speed [^smith].
 
 Our arrangement takes the melody and words from Smith's page, in C and 4/4 as printed, without his grace notes [^smith]. We sing both his verses, slowly, for 2 to 4 singers: the soprano sings the tune, and the alto, tenor and bass sing the words beneath it. The parts are our own, written over Smith's piano chords, with breaths written in for beginners.
+
+![[4]]
 
 ## Versions and other words
 

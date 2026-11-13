@@ -15,7 +15,7 @@ alsoKnownAs: Lobe den Herren, den mächtigen König der Ehren; Lobe den Herren; 
 wikidata: Q1729571
 quote: Praise to the Lord! the Almighty, the King of creation!
 quoteSource: cbe1863
-original: Neander, Glaub- und Liebes-übung (Bremen, 1680), the only known copy of the first edition, Staats- und Universitätsbibliothek Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194 || The Chorale Book for England (1863), No. 9, Internet Archive | https://archive.org/details/choralebookforen00benn/page/n45
+original: Neander, Glaub- und Liebes-Übung (Bremen, 1680), Staats- und Universitätsbibliothek Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -32,13 +32,21 @@ Praise to the Lord, the Almighty, the King of Creation is the English form of Lo
 
 **What the 1680 page shows.** The hymn fills pages 46 to 49 [^neander1680]. Page 46, headed "Der Lobende", the one who praises, prints the tune in triple time with a figured bass beneath it [^neander1680]. Facing it, page 47 gives the verse the hymn grows from, "Ps. CIII. 1.", in German: praise the Lord, my soul, and all that is in me his holy name [^neander1680][^kjv]. Then comes "Mel. Hastu dann JEsu dein Angesicht &c.", sing it to the tune of "Hast du denn, Jesu, dein Angesicht", and stanzas 1 and 2 [^neander1680][^hymnarchive]. Page 48 prints the music again under Psalm 103's first verse in Hebrew, and page 49 has stanzas 3 to 5 [^neander1680].
 
+![[1]]
+
 **The tune.** The melody was older. Its earliest known printing is in the second part of a Stralsund hymnbook of 1665, to a hymn Zahn gives as beginning "Hast du denn, Liebster, dein Angesicht gänzlich verborgen", have you then, dearest, wholly hidden your face [^zahn][^dli][^hymnarchive]. Neander adapted it to his words [^julian][^hymnary-text]. The NDB calls the hymn one Neander set to music himself, and he did compose some of the book's tunes, about half by the ADB's count; but this one, the hymnologists show, came from Stralsund [^ndb][^adb][^zahn]. No composer is known [^zahn][^hymnarchive].
+
+![[2]]
 
 **Bach.** In Leipzig, Johann Sebastian Bach made the hymn a cantata, BWV 137, for the twelfth Sunday after Trinity, 19 August 1725, setting all five stanzas unchanged, one to each movement [^bachvereniging][^durr].
 
 **Into English.** Catherine Winkworth made the version we sing. It is No. 9 of her Chorale Book for England (London, 1863), in its section "Praise and Thanksgiving" [^cbe1863][^julian][^hc-winkworth]. The book gave each hymn its German tune, edited by William Sterndale Bennett and Otto Goldschmidt [^hymnarchive][^hc-winkworth].
 
+![[3]]
+
 **In America.** In 1744 Christoph Saur printed the German hymn in Germantown, Pennsylvania, as No. 286 of Das Kleine Davidische Psalterspiel der Kinder Zions [^psalter1744][^upenn]. American Lutheran and Reformed hymnals later printed several English versions, among them J. H. Good's (a full version by Julian's account) in the Ohio Lutheran hymnal of 1880 [^julian][^hymnarchive]. It was a hymn of thanks from the start: Julian files it under "Thanksgiving", and the NDB calls it a "Danklied", a song of thanks [^julian][^ndb]. The Augustana Lutheran hymnal of 1926, from Rock Island, Illinois, indexes it for "A Day of Thanksgiving or a Harvest Festival", and Lutheran Worship (1982) for the Day of Thanksgiving [^hoos1926][^lw1982]. The sources we read do not say when it first became a hymn for the American holiday.
+
+![[4]]
 
 **Myth and record.** Often told: Neander lived for months in a cave in a valley near Düsseldorf and wrote his hymns there. What the record shows: Julian thinks some may have been written in a cave there, but calls the months of living in one without foundation [^julian-neander]. The ADB calls the homeless summer a legend; walks in the valley may have inspired some hymns [^adb].
 

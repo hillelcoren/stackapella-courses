@@ -14,12 +14,12 @@ alsoKnownAs: O How Lovely Is the Evening; Oh, How Lovely!; Lovely Evening; O wie
 wikidata: Q19948825
 quote: O how lovely is the evening, is the evening, When the bells are sweetly ringing
 quoteSource: emc1896
-original: The Educational Music Course, First Reader (Ginn & Company, Boston, 1896), p. 22, ejemplar de Harvard University | https://archive.org/details/educationalmusi05masogoog/page/n32
+original: The Educational Music Course, First Reader (Ginn & Company, Boston, 1896), Internet Archive | https://archive.org/details/educationalmusi05masogoog
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oh how lovely is the evening historia | oh how lovely is the evening significado | quién escribió oh how lovely is the evening | oh how lovely is the evening letra en español | o wie wohl ist mir am abend significado | o wie wohl ist mir am abend canon
-translatedFrom: 0b21a9a64189
+translatedFrom: 5be02bfb363e
 ---
 
 Oh, How Lovely Is the Evening, también impreso como "O How Lovely Is the Evening" y "Lovely Evening" [^dann1916], es un canon corto sobre las campanas del atardecer: tres versos que cantan voces que empiezan una tras otra, el último de ellos solo "Ding, dong" en una sola nota grave [^emc1896]. Es la versión inglesa de un canon alemán, "O wie wohl ist mir am Abend", que significa "oh, qué bien me siento al atardecer" [^fliedner1842][^liederprojekt]. La impresión más antigua que encontramos está en un cancionero alemán para niños pequeños de 1842, donde los niños hacían como que tiraban de las cuerdas de las campanas en su "bim, bam, bom!" [^fliedner1842]. En 1869 se imprimió una versión inglesa en Canadá, y la letra que cantamos se enseñó en 1892 a una sala llena de trabajadores de Nueva York [^sefton1869][^harpers1892].
@@ -30,13 +30,21 @@ Oh, How Lovely Is the Evening, también impreso como "O How Lovely Is the Evenin
 
 **¿De quién es el canon?** El libro de 1842 no nombra a ningún autor [^fliedner1842]. Cuarenta años después, Liederlust und Psalter, un cancionero en alemán impreso en Cincinnati en 1882, lo puso en cuarto lugar entre sus "Vier Canons", cuatro cánones, firmado simplemente "Schulz." [^liebhart1882]. En 1889, el escritor de música alemán Wilhelm Tappert imprimió su comienzo como un "Canon" sin firma, y justo después un canon de "K. Schulz" que empieza casi con las mismas notas ascendentes: "Ich bin fröhlich, willst du mit mir fröhlich sein?", estoy alegre, ¿quieres estar alegre conmigo? [^tappert1889] Hoy el Lieder-Projekt de Carus y SWR2 llama a "O wie wohl ist mir am Abend" una canción popular hecha a partir de ese canon, "Ich bin fröhlich", de Carl Friedrich Schulz (1784 a 1850) [^liederprojekt]. Karl o Carl Schulz fue un maestro que terminó su carrera en Fürstenwalde: un diccionario de música de 1878 dice que enseñó en el seminario de maestros de Neuzelle y que después dirigió el Gymnasium de Fürstenwalde, mientras que un cancionero de 1882 dice que murió allí siendo antiguo subdirector de su escuela municipal [^mendel1878][^erk1882]. Escribió un método de canto para escuelas rurales, ya impreso en 1816 [^mendel1878][^musikverket]. Si fue él quien hizo el canon, o si el canon se hizo a partir del suyo, las impresiones que leímos no lo dicen.
 
+![[1]]
+
 **Mito y documentos.** A veces se cuenta que el canon es de Johann Abraham Peter Schulz (1747 a 1800), un compositor más conocido de la generación anterior. La gran enciclopedia alemana Der Große Brockhaus, en su volumen de 1933, lo llamó un canon a cuatro voces de J. A. Schulz, fechado en 1782 [^brockhaus1933][^erk1882][^mendel1878]. Un sitio web alemán de canciones populares lo atribuye hoy, en cambio, a "Chr. Schulz", con el año 1820 [^volkslieder]. Lo que muestran los documentos: la impresión más antigua que encontramos, de 1842, no nombra a nadie; en las impresiones que leímos, un Schulz aparece nombrado solo a partir de 1882; y todas las impresiones que leímos que marcan las voces lo ponen a tres, no a cuatro, incluido el propio ejemplo musical del Brockhaus [^fliedner1842][^liebhart1882][^sefton1869][^emc1896][^brockhaus1933].
 
 **Al inglés.** Una novelista inglesa lo conocía, en alemán, ya en 1851. En el relato de Elizabeth Gaskell "Mr. Harrison's Confessions", publicado por entregas en The Ladies' Companion en 1851, el joven cirujano que narra la historia está en un picnic en una vieja mansión con una barca en su foso cuando, al bajar el sol, tres hermanas en el césped entonan "el pequeño canon alemán", y el relato cita su primer verso [^duffy][^chadwick1910][^gaskell1855][^godey1852]. La versión inglesa más antigua que encontramos está en Three-Part Songs, para los alumnos de las escuelas públicas de Canadá, de Henry Francis Sefton, profesor de música de las escuelas Normal y Modelo de Ontario, impreso en Toronto en 1869 [^sefton1869]. En la página 41, "Oh, How Lovely! (Round for Three Voices.)" está en 6/8 y en Sol, con sus tres versos numerados para las voces: "Oh how lovely is the evening, is the evening, When to rest the bells are ringing, bells are ringing!", y para el tercer verso, seis veces en una misma nota, "Bome!" [^sefton1869].
 
+![[2]]
+
 **Un canon para toda una sala.** El domingo 23 de octubre de 1892, en la Cooper Union de Nueva York, Frank Damrosch dio la primera lección de sus People's Singing Classes (clases de canto para el pueblo), pensadas, como dijo Harper's Weekly, para "los trabajadores, que no podían permitirse pagar para que otros les hicieran música"; acudieron 2500 personas [^nyt1892][^dispatch1892][^harpers1892]. La revista cuenta que, después de explicar las notas en una pizarra, les enseñó una melodía corta, impresa allí como "how lonely is the evening, When the bells are sweetly ringing", una errata: "lonely" (solitario) por "lovely" (hermoso). Luego dividió la sala en tres grupos, la cantaron en canon y "salió sin un solo tropiezo" [^harpers1892].
 
+![[3]]
+
 **El libro del que cantamos.** The Educational Music Course era una serie de libros escolares de música de Luther Whiting Mason, James M. McLaughlin y George A. Veazie, supervisores de música escolar en Boston y sus alrededores, y W. W. Gilchrist, con poemas de Nathan Haskell Dole; Ginn & Company registró su copyright en 1896 [^emc1896]. La página 22 de su First Reader imprime "Round." en tres versos marcados I, II y III, en Fa y en 3/4: "O how lovely is the evening", "When the bells are sweetly ringing" y "Ding, dong" seis veces en un mismo Fa [^emc1896]. No se nombra a ningún autor; los editores dicen que los poemas del libro, salvo los seleccionados, los compuso, tradujo o adaptó Dole, y esta letra ya se cantaba en Nueva York cuatro años antes [^emc1896][^harpers1892].
+
+![[4]]
 
 ### Cronología
 

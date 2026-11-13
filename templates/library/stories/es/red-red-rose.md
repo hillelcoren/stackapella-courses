@@ -17,7 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: a red red rose significado | a red red rose poema significado | quién escribió a red red rose | my love is like a red red rose traducción | a red red rose robert burns historia | a red red rose canción
-translatedFrom: 21ec8a61565a
+translatedFrom: ef28f05be619
+original: A Selection of Scots Songs de Peter Urbani, libro 2 (Edimburgo, 1794), Internet Archive | https://archive.org/details/selectionofscots02urba
 ---
 
 A Red, Red Rose, conocida también por su primer verso, My Love Is Like a Red, Red Rose, o, en la ortografía escocesa de Burns, O My Luve's Like a Red, Red Rose, es una canción de amor de Robert Burns [^smm1796][^smith]. Un enamorado compara su amor con una rosa de junio y con una melodía dulce, jura quererla hasta que se sequen los mares y promete volver aunque fuera desde diez mil millas [^smm1796][^smith]. Su primera impresión conocida está en la Selection of Scots Songs de Peter Urbani, de 1794 [^urbani][^dick][^balladindex]. En la década de 1820 ya se había impreso con cinco melodías [^urbani][^smm1796][^dick][^smith]. La melodía de hoy, Low down in the Broom, es la que le puso R. A. Smith en su Scotish Minstrel en la década de 1820, su primera impresión conocida con esa melodía [^smith][^graham][^balladindex].
@@ -28,7 +29,11 @@ A Red, Red Rose, conocida también por su primer verso, My Love Is Like a Red, R
 
 **La impresión de Urbani.** Pietro (Peter) Urbani era un cantante de Milán que se instaló en Edimburgo y cantaba canciones escocesas en sus conciertos [^graham][^stenhouse][^urbani-uwo]. Burns lo conoció en 1793 y le dijo al editor George Thomson que era "una criatura estrecha y engreída; pero canta de maravilla" [^dick][^gebbie5][^gebbie4]. El segundo libro de la Selection de Urbani, registrado en Stationers' Hall en 1794, imprime "The red red Rose" en las páginas 16 y 17, con el encabezado "The Music by P. Urbani": una melodía lenta en 3/4, marcada "Largo con molta Espressione", para voz, dos violines, viola y clave [^urbani][^graham][^stenhouse]. La página no nombra a ningún poeta, y algunas palabras difieren del texto posterior de Burns: "O my love's like the red, red rose", "And I can love thee still", "my dearest Love" [^urbani].
 
+![[1]]
+
 **El Museum, 1796.** El quinto volumen del Museum no lleva fecha; la National Library of Scotland y Henley y Henderson lo fechan en 1796 [^smm1796][^hh3]. Su prefacio llora al "difunto y célebre bardo escocés", así que salió después de la muerte de Burns, y su índice atribuye la canción a Burns [^smm1796]. En la página 415, n.º 402, "A red red Rose" está en Fa, "Slow", con el strathspey Major Graham [^smm1796][^hh3][^dick]. Esa versión solo tiene tres estrofas [^smm1796][^dick]; Stenhouse cita una nota de Stephen Clarke, que arregló la música, según la cual una vuelta a la melodía abarcaba toda la letra "excepto los cuatro últimos versos" [^stenhouse]. En la página siguiente, el n.º 403, el "Old Set", da las cuatro estrofas con una melodía más antigua de una sola parte, que Stenhouse llama Mary Queen of Scots y G. F. Graham, Queen Mary's Lament [^smm1796][^stenhouse][^graham]. La letra R al pie de esa página, bajo el "Old Set", la leen Dick y Henley y Henderson como la firma del n.º 402 [^smm1796][^dick][^hh3].
+
+![[2]]
 
 **Las canciones más antiguas que hay detrás.** Graham, que escribía a finales de la década de 1840, la llama una canción antigua que Burns revisó y amplió, y sus versos recuerdan canciones baratas de pliego (chapbook) [^graham][^hh3]. Graham nombra, y Dick cita, una balada de puesto callejero, The Turtle Dove, or True Love's Farewell: "O fare you well, my own true love, O farewell for a while ... If I go ten thousand miles" [^graham][^dick]. Graham y Henley y Henderson señalan la despedida de un enamorado fiel en un pliego, The Horn Fair Garland, con "And the Rocks melt with the Sun" [^graham][^hh3]. El nombre de Burns está escrito en ese ejemplar con letra infantil; Graham contaba que se creía que era el ejemplar del propio Burns, mientras que Henley y Henderson dijeron que ya no se podía demostrar que la escritura fuera auténtica [^graham][^hh3]. Henley y Henderson, siguiendo al editor de baladas J. W. Ebsworth, oyen también el comienzo en una antigua balada en letra gótica, The Wanton Wife of Castle Gate, cuyas mejillas "are like the Roses That blossom fresh in June" [^hh3]; Graham no encontró los seis primeros versos en ninguna de las versiones antiguas que conocía [^graham].
 
@@ -37,6 +42,8 @@ William Scott Douglas, en una nota reimpresa en una edición estadounidense de B
 **Mito y documentos.** En el siglo XIX se contó, a partir de un texto que Peter Buchan dio a la edición de Burns de Hogg y Motherwell (1834), que la canción que dio a Burns sus ideas fue una despedida escrita por un tal teniente Hinches [^graham][^hh3][^dick]. Lo que muestran los documentos: Buchan no dio nada más sobre Hinches, ni siquiera cuándo o dónde vivió, como señaló Graham, y Henley y Henderson descartaron el texto de Buchan como un pobre remiendo de una canción de pliego [^graham][^hh3].
 
 **La melodía que cantamos.** Low down in the Broom está en el primer volumen del Museum (1787), n.º 90, "Andante", en Do, con una canción más antigua, "My Daddy is a canker'd carle", cuyo estribillo dice "For he's low down, he's in the broom, That's waiting on me" [^smm1787][^stenhouse]. Robert Archibald Smith (1780 a 1829), que en 1823 pasó a ser chantre (precentor, el que dirige el canto) de la iglesia de St George, en Edimburgo, publicó The Scotish Minstrel en seis volúmenes entre 1821 y 1824 [^dnb][^graham][^smith-nls]. Su tercer volumen, sin fecha, imprime la canción en la página 85, en Do, para voz y piano, y su índice atribuye la letra a Burns y da la melodía como Low down in the Broom [^smith]. La página de Smith añade a cada estrofa un estribillo de cuatro versos repitiendo sus versos finales [^smith]. Graham llamó a la melodía "una versión moderna" de la antigua, y advirtió que algunas melodías que Smith presentaba como antiguas eran suyas [^graham][^dnb].
+
+![[3]]
 
 ### Cronología
 
@@ -122,6 +129,8 @@ aunque fuera desde diez mil millas.
 Se canta a menudo en las Burns Suppers, las cenas que se celebran el 25 de enero, cumpleaños de Burns, o en fechas cercanas [^wbc][^lfs]. Las primeras impresiones piden un tempo tranquilo: el Museum marca las dos versiones "Slow", Urbani "Largo con molta Espressione", y la edición de Graham, con arreglo de T. M. Mudie, "Moderato" [^smm1796][^urbani][^graham]. La página de Smith no indica el tempo [^smith].
 
 Nuestro arreglo toma la melodía y la letra de la página de Smith, en Do y 4/4 como está impresa, sin sus notas de adorno [^smith]. Cantamos sus dos estrofas, despacio, para 2 a 4 cantantes: la soprano canta la melodía, y la contralto, el tenor y el bajo cantan la letra por debajo. Las voces son nuestras, escritas sobre los acordes de piano de Smith, con respiraciones marcadas para principiantes.
+
+![[4]]
 
 ## Versiones y otras letras
 

@@ -15,12 +15,12 @@ alsoKnownAs: Lobe den Herren, den mächtigen König der Ehren; Lobe den Herren; 
 wikidata: Q1729571
 quote: Praise to the Lord! the Almighty, the King of creation!
 quoteSource: cbe1863
-original: Neander, Glaub- und Liebes-übung (Bremen, 1680), el único ejemplar conocido de la primera edición, Staats- und Universitätsbibliothek Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194 || The Chorale Book for England (1863), n.º 9, Internet Archive | https://archive.org/details/choralebookforen00benn/page/n45
+original: Neander, Glaub- und Liebes-Übung (Bremen, 1680), Biblioteca Estatal y Universitaria de Bremen | https://nbn-resolving.org/urn:nbn:de:gbv:46:1-115194
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió praise to the lord the almighty | praise to the lord the almighty historia | praise to the lord the almighty significado | en qué salmo se basa praise to the lord the almighty | lobe den herren significado | alma bendice al señor himno historia
-translatedFrom: c394eb4dd4f8
+translatedFrom: d1950ba5efe7
 ---
 
 Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lobe den Herren, den mächtigen König der Ehren, un himno alemán de gratitud de Joachim Neander, predicador y maestro reformado de Bremen, que en español se canta como "Alma, bendice al Señor" [^julian][^ndb][^hymnary-es]. Se imprimió en Bremen en 1680, el año en que murió Neander, con unos 30 años [^neander1680][^adb][^suub]. Su melodía, LOBE DEN HERREN, es más antigua: su primera impresión conocida está en un himnario de Stralsund de 1665 [^zahn][^dli]. Bach hizo de él una cantata en 1725 [^bachvereniging][^durr]. En inglés se canta la traducción de Catherine Winkworth, de 1863 [^cbe1863][^julian]. Y el valle cerca de Düsseldorf por el que paseaba Neander, que más tarde llevó su nombre, dio nombre a los neandertales [^kuladig][^si].
@@ -33,13 +33,21 @@ Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lo
 
 **Lo que muestra la página de 1680.** El himno ocupa las páginas 46 a 49 [^neander1680]. La página 46, con el encabezamiento "Der Lobende", el que alaba, imprime la melodía en compás ternario con un bajo cifrado debajo [^neander1680]. Enfrente, la página 47 da el versículo del que nace el himno, "Ps. CIII. 1.", en alemán: alaba, alma mía, al Señor, y todo lo que hay en mí, su santo nombre [^neander1680][^kjv]. Luego viene "Mel. Hastu dann JEsu dein Angesicht &c.", es decir, que se cante con la melodía de "Hast du denn, Jesu, dein Angesicht", y las estrofas 1 y 2 [^neander1680][^hymnarchive]. La página 48 vuelve a imprimir la música bajo el primer versículo del Salmo 103 en hebreo, y la página 49 trae las estrofas 3 a 5 [^neander1680].
 
+![[1]]
+
 **La melodía.** La melodía era más antigua. Su primera impresión conocida está en la segunda parte de un himnario de Stralsund de 1665, con un himno que, según Zahn, empieza "Hast du denn, Liebster, dein Angesicht gänzlich verborgen": ¿has escondido del todo tu rostro, amado? [^zahn][^dli][^hymnarchive]. Neander la adaptó a su letra [^julian][^hymnary-text]. La NDB dice que Neander mismo le puso música al himno, y él sí compuso algunas melodías del libro, más o menos la mitad según la cuenta de la ADB; pero esta, como muestran los himnólogos, venía de Stralsund [^ndb][^adb][^zahn]. No se conoce a su compositor [^zahn][^hymnarchive].
+
+![[2]]
 
 **Bach.** En Leipzig, Johann Sebastian Bach hizo del himno una cantata, la BWV 137, para el duodécimo domingo después de la Trinidad, el 19 de agosto de 1725, con música para las cinco estrofas sin cambios, una en cada movimiento [^bachvereniging][^durr].
 
 **Al inglés.** Catherine Winkworth hizo la versión que cantamos. Es el n.º 9 de su Chorale Book for England (Londres, 1863), en la sección "Praise and Thanksgiving" (alabanza y acción de gracias) [^cbe1863][^julian][^hc-winkworth]. El libro dio a cada himno su melodía alemana, editada por William Sterndale Bennett y Otto Goldschmidt [^hymnarchive][^hc-winkworth].
 
+![[3]]
+
 **En Estados Unidos.** En 1744, Christoph Saur imprimió el himno alemán en Germantown, Pensilvania, como n.º 286 de Das Kleine Davidische Psalterspiel der Kinder Zions [^psalter1744][^upenn]. Más tarde, los himnarios luteranos y reformados estadounidenses imprimieron varias versiones inglesas, entre ellas la de J. H. Good (una versión completa, según Julian) en el himnario luterano de Ohio de 1880 [^julian][^hymnarchive]. Fue un himno de gratitud desde el principio: Julian lo clasifica en "Thanksgiving", y la NDB lo llama "Danklied", un canto de gratitud [^julian][^ndb]. El himnario luterano Augustana de 1926, de Rock Island, Illinois, lo pone en su índice para "A Day of Thanksgiving or a Harvest Festival" (un día de acción de gracias o una fiesta de la cosecha), y Lutheran Worship (1982), para el Día de Acción de Gracias [^hoos1926][^lw1982]. Las fuentes que hemos leído no dicen cuándo pasó a ser un himno de la fiesta estadounidense.
+
+![[4]]
 
 **Mito y documentos.** Se suele contar que Neander vivió meses en una cueva de un valle cerca de Düsseldorf y que allí escribió sus himnos. Lo que muestran los documentos: Julian cree que algunos pudieron escribirse en una cueva de allí, pero dice que lo de vivir meses en ella no tiene fundamento [^julian-neander]. La ADB llama leyenda a ese verano sin techo; los paseos por el valle pueden haber inspirado algunos himnos [^adb].
 

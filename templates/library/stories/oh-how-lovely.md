@@ -14,7 +14,7 @@ alsoKnownAs: O How Lovely Is the Evening; Oh, How Lovely!; Lovely Evening; O wie
 wikidata: Q19948825
 quote: O how lovely is the evening, is the evening, When the bells are sweetly ringing
 quoteSource: emc1896
-original: The Educational Music Course, First Reader (Ginn & Company, Boston, 1896), p. 22, Harvard University copy | https://archive.org/details/educationalmusi05masogoog/page/n32
+original: The Educational Music Course, First Reader (Ginn & Company, Boston, 1896), Internet Archive | https://archive.org/details/educationalmusi05masogoog
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
@@ -29,13 +29,21 @@ Oh, How Lovely Is the Evening, also printed "O How Lovely Is the Evening" and "L
 
 **Whose round?** The 1842 book names no maker [^fliedner1842]. Forty years later, Liederlust und Psalter, a German-language songbook printed in Cincinnati in 1882, put it fourth of "Vier Canons", four canons, signed simply "Schulz." [^liebhart1882]. In 1889 the German music writer Wilhelm Tappert printed its opening as an unsigned "Canon", and right after it a canon by "K. Schulz" that begins with nearly the same rising notes: "Ich bin fröhlich, willst du mit mir fröhlich sein?", I am happy, will you be happy with me? [^tappert1889] Today the Lieder-Projekt of Carus and SWR2 calls "O wie wohl ist mir am Abend" a folk song after that canon, "Ich bin fröhlich", by Carl Friedrich Schulz (1784 to 1850) [^liederprojekt]. Karl or Carl Schulz was a teacher who ended his career in Fürstenwalde: a music dictionary of 1878 says he taught at the teachers' seminary at Neuzelle and later headed the Fürstenwalde Gymnasium, while a songbook of 1882 says he died there as the former deputy head of its town school [^mendel1878][^erk1882]. He wrote a singing method for village schools, in print by 1816 [^mendel1878][^musikverket]. Whether he made the round, or the round was made from his canon, the printings we read do not say.
 
+![[1]]
+
 **Myth and record.** Sometimes told: the round is by Johann Abraham Peter Schulz (1747 to 1800), a better-known composer of the generation before. The large German encyclopedia Der Große Brockhaus, in its volume of 1933, called it a four-part canon by J. A. Schulz, dated 1782 [^brockhaus1933][^erk1882][^mendel1878]. A German folk-song website today credits "Chr. Schulz" instead, with the year 1820 [^volkslieder]. What the record shows: the earliest printing we found, from 1842, names no one; a Schulz is named in the printings we read only from 1882; and every printing we read that marks the voices sets it for three, not four, Brockhaus's own music example included [^fliedner1842][^liebhart1882][^sefton1869][^emc1896][^brockhaus1933].
 
 **Into English.** An English novelist knew it, in German, by 1851. In Elizabeth Gaskell's story "Mr. Harrison's Confessions", serialised in The Ladies' Companion in 1851, the young surgeon who tells the story is at a picnic at an old hall with a boat on its moat when, as the sun gets low, three sisters on the lawn strike up "the little German canon", and the story quotes its first line [^duffy][^chadwick1910][^gaskell1855][^godey1852]. The earliest English version we found is in Three-Part Songs for the pupils of Canada's public schools, by Henry Francis Sefton, music teacher at the Normal and Model Schools of Ontario, and printed in Toronto in 1869 [^sefton1869]. On page 41, "Oh, How Lovely! (Round for Three Voices.)" is in 6/8 and in G, its three lines numbered for the voices: "Oh how lovely is the evening, is the evening, When to rest the bells are ringing, bells are ringing!", and for the third line, six times on one note, "Bome!" [^sefton1869].
 
+![[2]]
+
 **A round for a whole hall.** On Sunday 23 October 1892, at Cooper Union in New York, Frank Damrosch gave the first lesson of his People's Singing Classes, meant, as Harper's Weekly put it, for "the working-people, who could not afford to have music made for them"; 2,500 came [^nyt1892][^dispatch1892][^harpers1892]. The magazine reports that after explaining notes on a blackboard he taught them a short tune, printed there as "how lonely is the evening, When the bells are sweetly ringing", a misprint for "lovely". Then he split the hall into three groups, they sang it as a round, and it "went without a hitch" [^harpers1892].
 
+![[3]]
+
 **The book we sing from.** The Educational Music Course was a series of school music readers by Luther Whiting Mason, James M. McLaughlin and George A. Veazie, school music supervisors in and around Boston, and W. W. Gilchrist, with poems by Nathan Haskell Dole; Ginn & Company copyrighted it in 1896 [^emc1896]. Page 22 of its First Reader prints "Round." in three lines marked I, II and III, in F and in 3/4: "O how lovely is the evening", "When the bells are sweetly ringing", and "Ding, dong" six times on one F [^emc1896]. No author is named for it; the publishers say that the book's poems, except those selected, were composed, translated or adapted by Dole, and these words were already being sung in New York four years before [^emc1896][^harpers1892].
+
+![[4]]
 
 ### Timeline
 
