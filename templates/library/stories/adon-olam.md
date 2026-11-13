@@ -14,6 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam meaning | adon olam meaning in english | who wrote adon olam | adon olam history | adon olam asher malach meaning | adon olam melody | adon olam song
+original: Gerovitsch, Schirej Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
 Adon Olam, "Lord of the world", is a Hebrew hymn about Hashem, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into Hashem's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
@@ -26,7 +27,11 @@ What is certain is its form. The Jewish Encyclopedia calls it "one of the few st
 
 **The tune.** Eliezer Gerovitsch was born in Ukraine in 1844. He studied music in Berdichev, in Odessa and at the conservatory in St Petersburg, and in 1887 he became cantor in Rostov-on-Don, where he served for twenty-five years.[^ejger][^huji] The Encyclopaedia Judaica says his synagogue music grew from traditional Jewish melodies.[^ejger] He died in 1913 by the Encyclopaedia Judaica's account; the Hebrew University's Jewish Music Research Centre and the European Institute of Jewish Music give 1914.[^ejger][^huji][^iemj]
 
+![[1]]
+
 His Schirej Tefilah, songs for the synagogue, was printed in Rostov, and the edition we read from, which Zemereshet calls the second, is dated 1897.[^hujicat][^zemer] Its second part, for the Sabbath and the three pilgrim festivals, has Adon Olam as No. 16, on pages 89 and 90. It opens with an eight-bar strain in D minor for four voices, soprano, alto, tenor and bass, and in its heading Gerovitsch wrote "A. W.", for alte Weise, "old tune". After the strain the setting goes on in music that seems to be his own, beginning with a recitative for the tenor.[^zemer]
+
+![[2]]
 
 **Myth and record.** Often told: the tune is Gerovitsch's own, and Zemereshet, the Israeli song archive, notes that it is sometimes credited to him. What the record shows: his own book marks the setting "A. W.", an old tune, so he harmonised a melody already sung. Who first sang it is not known.[^zemer] Zemereshet adds that the form most people sing today is simpler than the one he wrote down.[^zemer]
 
@@ -146,6 +151,8 @@ Hashem is with me; I will not fear.
 
 Adon Olam has two homes in the service. It is printed at the start of the daily morning prayers, and it is best known at the end.[^je][^ej][^sefaria] In 1901 the Jewish Encyclopedia reported that Sephardi Jews, and British synagogues generally, sang it all together at the close of the Sabbath and festival morning services, while Ashkenazi Jews often sang it at the close of the evening service in place of the hymn Yigdal.[^je] Today, the Encyclopaedia Judaica says, its main place is at the close of the Musaf, the additional service that ends the Sabbath and festival morning.[^ej] The Jewish Encyclopedia found it chanted almost everywhere on the eve of Yom Kippur, and the Encyclopaedia Judaica places it at the close of the Kol Nidre service that evening.[^je][^ej][^abrahams]
 
+![[3]]
+
 It also belongs to the night. Because line 9 speaks of sleeping and waking, the scholar Seligman Baer thought it was first meant to be said before going to sleep, and Abrahams thought that very likely. The Jewish Encyclopedia was not so sure: perhaps, it said, the hymn's beauty and grandeur brought it into the service, at its start or its close.[^je][^abrahams] It stands among the prayers said at bedtime, and it is said at the bedside of the dying.[^ej][^barth][^abrahams]
 
 Our arrangement is read from Gerovitsch's page, in D minor as printed, in 4/4. We sing only the old strain, not the music that follows it in his book. The strain carries two lines of the poem, each line two phrases of the tune, and it is sung four times: lines 1 and 2, 3 and 4, 5 and 6, and 9 and 10. At the end of each time through, the tune's low D is held before a breath. Bars 1 and 2 and 5 to 8 keep his chords and bass, with small changes for beginners; bars 3 and 4, where his tenor's quick notes are hard to read in the photograph of his page, are our own voicing over his chords. With two singers it is soprano and alto, with three the bass joins, and with four the tenor.
@@ -153,6 +160,8 @@ Our arrangement is read from Gerovitsch's page, in D minor as printed, in 4/4. W
 ## Versions and other words
 
 **Other tunes.** Adon Olam has a great number of melodies, some written for it and some borrowed, Jewish and not; its simple, regular metre fits them, and American congregations often sing it to popular tunes, "Rock Around the Clock" among them.[^ej][^posen] Yet in 1901 the Jewish Encyclopedia found the traditional tunes few, only four or five, the oldest seeming to be a short melody of Spanish origin.[^je]
+
+![[4]]
 
 Salamone Rossi included a setting for eight voices in his collection of Hebrew songs for the synagogue, printed in Venice in 1622 or 1623.[^ej][^imslp][^musicweb] In 1976 Uzi Hitman wrote the tune that Zemereshet calls the most widespread of the last generation.[^zemer][^ice]
 

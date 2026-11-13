@@ -17,14 +17,19 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: oy chanukah letra en español | oy chanukah canción en ídish | oy chanukah significado | oy chanukah historia | canción de janucá en ídish | oh chanukah letra
-translatedFrom: 50b3d64d2b9c
+translatedFrom: 5acc2d668c44
+original: Lider-zamelbukh, n.º 24, p. 32, Internet Archive | https://archive.org/details/nybc202667/page/n142/mode/1up
 ---
 
 Oy Chanukah es una canción en ídish para Janucá, la fiesta judía de las luces, que dura ocho días. Su primera estrofa es la fiesta en casa: dreidels cada noche, latkes calientes sin fin, las velitas finas encendidas, la oración por los milagros dicha, y luego un baile.[^k4] La segunda alaba a Judá Macabeo, que expulsó al enemigo y devolvió la vida a Jerusalén.[^k4][^1macc] Mordkhe Rivesman escribió la letra para un cancionero "para la escuela y la familia judías", publicado en San Petersburgo en 1911 o 1912, y el libro llama a la melodía simplemente jasídica.[^k4][^idel29][^leksk] La melodía ha viajado más allá del ídish. En hebreo se canta como Yemei HaChanukah, y quienes hablan inglés la cantan con una letra inglesa propia.[^zemer][^chagim][^mjl]
 
+![[1]]
+
 ## De dónde viene
 
 En 1908 un grupo de jóvenes músicos judíos, estudiantes del conservatorio de San Petersburgo, fundó allí la Sociedad para la Música Popular Judía (Society for Jewish Folk Music).[^ejsjfm][^idel29][^yusfin] Se proponía reunir canciones populares judías, arreglarlas para el concierto, la escuela y el hogar, y publicarlas.[^idel29][^ejsjfm] Entre sus libros había un cancionero para escuelas y hogares. Susman Kisselgof, un maestro que recogía canciones populares, reunió él mismo la mayoría de sus canciones populares, y Pesach Lvov y A. Zhitomirsky las arreglaron.[^k4][^ipri][^leksk] La edición que leemos reúne 85 canciones para coro a tres voces, que también puede cantar una sola voz, todas con piano: 62 canciones judías y 23 de la música culta alemana y rusa, tres de ellas añadidas en la segunda edición.[^k4][^idel29]
+
+![[2]]
 
 El prefacio de Kisselgof explica por qué. Los maestros escribían una y otra vez a la Sociedad, y a la Sociedad para la Difusión de la Ilustración entre los Judíos, pidiendo que les enviaran canciones populares en ídish, porque los cancioneros escolares que había entonces no traían ninguna. La canción popular en ídish, escribió, refleja la vida del pueblo, "sus penas y alegrías, sus costumbres y fiestas", y a través de ella un maestro puede sembrar en el corazón de un niño el amor por el pueblo.[^k4] El prefacio está firmado en San Petersburgo el 1 de junio de 1911. La historia de la música judía de Idelsohn fecha el libro en 1911; el léxico de escritores en ídish y la colección de música popular de Kyiv dan 1912.[^k4][^idel29][^leksk][^ipri]
 
@@ -55,6 +60,8 @@ El libro imprime dos estrofas, y cantamos las dos y luego otra vez la primera.[^
 - *geshvinder tsindt, kinder, di dininke likhtelekh on*: deprisa, niños, a encender las velitas finas.
 - *Zogt al hanisim, loybt Got far di nisim*: a decir Al hanisim, a alabar a Hashem por los milagros. Al hanisim, "por los milagros", es la acción de gracias que en Janucá se añade a las oraciones diarias y a la bendición después de las comidas.[^ejalh][^shab24][^jehan]
 - *un kumt gikher tantsn in kon*: y a venir deprisa a bailar en el corro. Un kon es la figura o el corro de un baile.[^harkavy][^league]
+
+![[3]]
 
 **Estrofa 2.**
 - *Yehude hot fartribn dem soyne, dem rotseyekh*: Judá expulsó al enemigo, al asesino.

@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea meaning | echad mi yodea lyrics english | echad mi yodea transliteration | echad mi yodea song meaning | echad mi yodea history | who wrote echad mi yodea
+original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
 Echad Mi Yodea is a Hebrew counting song for the Passover seder, the home service and meal on the first nights of the festival.[^idel29][^je] Ashkenazi families sing it near the end of the evening, just before Chad Gadya.[^ej][^jmrc][^sefaria] One voice asks, "Who knows one?", and the table answers: one is Hashem, in heaven and on earth.[^sefaria][^uh1923] Each new number brings a new answer, two tablets of the covenant, three fathers, four mothers, and the whole list is counted back down to one, all the way to thirteen.[^sefaria][^je] Its job was to keep everyone, children above all, awake to the end of a long night.[^ej][^chabad] The Union Haggadah of 1923 turned it into a race: "each reading as fast as possible, in the effort to finish the answer first."[^uh1923]
@@ -26,6 +27,8 @@ Echad Mi Yodea is a Hebrew counting song for the Passover seder, the home servic
 No one knows who made it.[^chabad][^uh1908] The Jewish Encyclopedia of 1903 called it a Hebrew nursery rhyme, probably first recited as a dialogue.[^je] The scholar Zunz placed it in German Haggadot from the fifteenth century on, and many scholars followed him in dating it to fifteenth-century Germany; the Union Haggadah of 1923 agreed, adding "largely under German influence".[^je][^ej][^uh1923] The Encyclopaedia Judaica says it is first found in Ashkenazi Haggadot of the sixteenth century.[^ej] A. Z. Idelsohn, the historian of Jewish music, listed it among seder songs composed "from the tenth century on".[^idel29]
 
 The earliest known copy is handwritten: a Hebrew text with a Yiddish one, added at an unknown date to a copy of the Haggadah printed in Prague in 1526/27, now at the National Library of Israel.[^jmrc][^jl] The earliest known printing is the Prague Haggadah of 1590, which set a Yiddish translation beside it.[^jmrc][^jrb] From then on it was a fixed part of the Ashkenazi seder.[^jmrc] It was not only for Passover: Zunz later found it in the rite of Avignon, in southern France, as a table song for all the festivals.[^je][^ej][^jrb]
+
+![[1]]
 
 The song has a German twin. Karl Simrock's collection of German folk songs, printed in 1851, has "Guter Freund, ich frage dich", "Good friend, I ask you". It counts the same way, and its first answer ends like the Hebrew: one is God the Lord, "der da lebt und der da schwebt im Himmel und auf Erden", who lives and hovers in heaven and on earth.[^simrock][^ej] Its two are the tablets of Moses and its three the patriarchs, but from four on its answers are almost all Christian: the evangelists, the wounds of Christ, the sacraments, the apostles. It stops at twelve.[^simrock][^je] Simrock printed it among his drinking songs, and the Jewish Encyclopedia took it for a peasants' drinking song that monks had reworked.[^simrock][^je]
 
@@ -58,6 +61,8 @@ Where the Haggadah has Eloheinu, we sing Elokeinu, with a k, the substituted nam
 **Verse 4.** Arba imahot: four mothers, the matriarchs Sarah, Rebecca, Rachel and Leah, again the four the Talmud names.[^berakhot][^jepatriarchs]
 
 **The verses we don't sing.** Five is the five books of the Torah; six, the six orders of the Mishnah; seven, the days of the week; eight, the eight days to a baby boy's circumcision; nine, the nine months to birth; ten, the Ten Commandments; eleven, the lights in the sky that bowed to Joseph in his dream; twelve, the tribes of Israel; and thirteen, the thirteen attributes of Hashem's mercy, from Exodus 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, writing in the Jewish Encyclopedia, saw meaning in the song's stopping at thirteen, the unlucky number: it made thirteen a holy and so a lucky number for Jews.[^je][^uh1908]
+
+![[2]]
 
 ### The full words
 
@@ -370,6 +375,8 @@ one is Hashem, who is in heaven and on earth.
 It comes in the seder's closing section, Nirtzah, after Ki Lo Naeh and Adir Hu.[^sefaria][^jmrc][^ej] The Union Haggadah of 1923 calls it "A Madrigal of Numbers".[^uh1923]
 
 Our arrangement is read from page 93 of that book. There it is "Ehod Mi Yodea", in D minor and 4/4.[^uh1923] We sing it a minor third higher, in F minor, with four parts of our own; the piano part was used only to check the chords. The book prints two verses under the notes and marks the third bar "(Omit for first stanza)". As we read it, that bar is the counting bar, sung once for each number on the way back down to two, so each verse grows by a bar.[^uh1923] We sing verses one to four, their Hebrew from page 87, respelled from the book's Ashkenazi "Ehod" and "luhos hab'ris" in modern Israeli pronunciation. The tune never rests until a verse ends, so short breaths are written in for beginners, and each verse's last note is held, as the book's pause sign asks.
+
+![[3]]
 
 ## Versions and other words
 

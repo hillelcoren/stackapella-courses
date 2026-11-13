@@ -14,7 +14,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi significado | eliyahu hanavi traducción | eliyahu hanavi letra en español | eliyahu hanavi havdalah | eliyahu hanavi pésaj | eliyahu hanavi zachur latov significado
-translatedFrom: 4ac1f5abb736
+translatedFrom: 01c2f9a0edcb
+original: Idelsohn, Jewish Music, p. 401, Internet Archive | https://archive.org/details/jewishmusicinits00idel_0/page/n418/mode/1up
 ---
 
 Eliyahu HaNavi, "Elías el profeta", es un breve estribillo hebreo. Se canta el sábado por la noche, cuando ha terminado el sabbat y se ha hecho la Havdalá, y en el séder de Pésaj, cuando se abre la puerta a Elías.[^ejhav][^jehab][^milken][^merwin] Llama al profeta con tres nombres: Elías el profeta, Elías el tisbita, Elías de Galaad.[^idel1929][^sefard] El profeta Malaquías prometió que Hashem enviaría a Elías antes del gran día que ha de venir, y el Talmud enseña que Elías no vendrá en viernes, ni tampoco en el propio sabbat. El sábado por la noche es el primer momento en que podría venir.[^malachi][^eruvin][^mb295] El estudioso A. Z. Idelsohn llamó a este estribillo la parte más antigua de las canciones de Elías que, según escribió, las comunidades judías ya cantaban al cierre del sabbat en el siglo XI.[^idel1929][^milken]
@@ -29,7 +30,11 @@ Los poetas escribieron muchas canciones para ese momento. Idelsohn, en su histor
 
 La melodía no tiene compositor conocido. Idelsohn la imprimió en el mismo libro, en la tabla XXXII, "Tunes of the Eastern Ashkenazic folk-song" (melodías de la canción popular asquenazí oriental), las canciones de los judíos asquenazíes de Europa del Este. Dio dos melodías para esta letra, "las dos muy populares", y la nuestra es la primera.[^idel1929] Escribió que su línea melódica, como la de varias melodías vecinas, se parece a melodías polacas, ucranianas, españolas, árabes y francesas antiguas.[^idel1929] Las notas del Milken Archive dicen que su origen sigue sin determinarse, y oyen en ella ritmos de danza polacos: un patrón de polonesa y el acento de la mazurca en el segundo tiempo.[^milken] Idelsohn, que vivió de 1882 a 1938, era entonces profesor de música judía en el Hebrew Union College de Cincinnati.[^ejidel][^loc][^idel1929]
 
+![[1]]
+
 **Mito y documentos.** Se suele contar que Elías visita cada séder y bebe un sorbo de su copa, mientras los niños vigilan el vino por si se mueve.[^milken][^chabad] Lo que muestran los documentos: no hay ninguna fuente talmúdica ni midráshica de una visita anual, y el Talmud no dice nada de una copa para Elías. La primera mención conocida de una es del siglo XV.[^zivotofsky][^brodt] Su explicación habitual es una duda sobre una quinta copa de vino, que según la tradición Elías resolverá algún día.[^uh1923][^zivotofsky] El Rema explica la puerta abierta de otro modo: muestra la confianza en que el séder es "una noche de vigilia", como la llama el Éxodo, y por esa fe, escribe, vendrá el Mesías.[^sa480][^zivotofsky]
+
+![[2]]
 
 ### Cronología
 
@@ -181,7 +186,9 @@ y él volverá el corazón de los padres hacia los hijos y el corazón de los hi
 
 ## Cómo se canta
 
-**En la Havdalah.** El sábado por la noche, cuando termina el sabbat, se dice la Havdalá ("separación") sobre el vino, las especias y una llama.[^jehab][^abrahams] Después es costumbre cantar himnos, y Eliyahu HaNavi es de los más conocidos, junto a Ha-Mavdil.[^ejhav][^jehab] El Rema recoge la costumbre de invocar a Elías el sábado por la noche, rezando para que venga y anuncie la redención.[^sa295][^mb295] En el libro de oraciones Edot HaMizrach, del rito sefardí y mizrají, algunos dicen el poema antes de la Havdalá.[^edot][^jehab] Hoy la mayoría canta solo el estribillo, observan las notas del Milken Archive.[^milken]
+**En la Havdalá.** El sábado por la noche, cuando termina el sabbat, se dice la Havdalá ("separación") sobre el vino, las especias y una llama.[^jehab][^abrahams] Después es costumbre cantar himnos, y Eliyahu HaNavi es de los más conocidos, junto a Ha-Mavdil.[^ejhav][^jehab] El Rema recoge la costumbre de invocar a Elías el sábado por la noche, rezando para que venga y anuncie la redención.[^sa295][^mb295] En el libro de oraciones Edot HaMizrach, del rito sefardí y mizrají, algunos dicen el poema antes de la Havdalá.[^edot][^jehab] Hoy la mayoría canta solo el estribillo, observan las notas del Milken Archive.[^milken]
+
+![[3]]
 
 **En el séder.** Después de la bendición que sigue a la comida y de la tercera copa de vino, con la copa de Elías en la mesa, se abre la puerta.[^zivotofsky][^milken][^uh1923] Muchos dicen los versículos que empiezan "Shefokh chamatkha", "Derrama Tu ira", mientras está abierta.[^zivotofsky][^sa480] Eliyahu HaNavi suele cantarse entonces, con la puerta abierta.[^milken][^merwin]
 

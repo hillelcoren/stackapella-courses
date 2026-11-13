@@ -17,13 +17,18 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: oy chanukah yiddish lyrics | oy chanukah yiddish song | oy chanukah lyrics | chanukah oh chanukah song | oh chanukah yiddish | oh chanukah yiddish lyrics
+original: Lider-zamelbukh, No. 24, p. 32, Internet Archive | https://archive.org/details/nybc202667/page/n142/mode/1up
 ---
 
 Oy Chanukah is a Yiddish song for Hanukkah, the eight-day Jewish festival of lights. Its first verse is the holiday at home: dreidels every night, hot latkes without end, the thin little candles lit, the prayer for the miracles said, and then a dance.[^k4] Its second praises Judah the Maccabee, who drove out the enemy and brought Jerusalem back to life.[^k4][^1macc] Mordkhe Rivesman wrote the words for a songbook "for the Jewish school and family", published in St Petersburg in 1911 or 1912, and the book calls the tune simply Hasidic.[^k4][^idel29][^leksk] The tune has travelled beyond Yiddish. In Hebrew it is sung as Yemei HaChanukah, and English speakers sing it with English words of their own.[^zemer][^chagim][^mjl]
 
+![[1]]
+
 ## Where it comes from
 
 In 1908 a group of young Jewish musicians, students of the St Petersburg conservatory, founded the Society for Jewish Folk Music there.[^ejsjfm][^idel29][^yusfin] It meant to gather Jewish folk songs, arrange them for concert, school and home, and publish them.[^idel29][^ejsjfm] Among its books was a songbook for schools and homes. Susman Kisselgof, a teacher who collected folk songs, gathered most of its folk songs himself, and Pesach Lvov and A. Zhitomirsky arranged them.[^k4][^ipri][^leksk] The edition we read holds 85 songs for three-part choir, which can also be sung by one voice, all with piano: 62 Jewish songs and 23 from German and Russian art music, three of them added in the second edition.[^k4][^idel29]
+
+![[2]]
 
 Kisselgof's preface says why. Teachers kept writing to the Society, and to the Society for the Spread of Enlightenment among the Jews, asking to be sent Yiddish folk songs, because the school songbooks then in print held none. The Yiddish folk song, he wrote, mirrors the people's life, "its sorrows and joys, its customs and holidays", and through it a teacher can plant in a child's heart a love for the people.[^k4] The preface is signed in St Petersburg on 1 June 1911. Idelsohn's history of Jewish music dates the book to 1911; the Yiddish writers' lexicon and the Kyiv folk-music collection give 1912.[^k4][^idel29][^leksk][^ipri]
 
@@ -54,6 +59,8 @@ The book prints two verses, and we sing both, then the first again.[^k4] Here th
 - *geshvinder tsindt, kinder, di dininke likhtelekh on*: quickly, children, light the thin little candles.
 - *Zogt al hanisim, loybt Got far di nisim*: say Al hanisim, praise Hashem for the miracles. Al hanisim, "for the miracles", is the thanksgiving added to the daily prayers and to the grace after meals on Hanukkah.[^ejalh][^shab24][^jehan]
 - *un kumt gikher tantsn in kon*: and come quickly to dance in the ring. A kon is a dance's figure or circle.[^harkavy][^league]
+
+![[3]]
 
 **Verse 2.**
 - *Yehude hot fartribn dem soyne, dem rotseyekh*: Judah drove out the enemy, the murderer.

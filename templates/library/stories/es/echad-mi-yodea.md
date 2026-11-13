@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: 9501bdcc4d28
+translatedFrom: 91155e907d85
+original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
 Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de Pésaj, el oficio en casa y la cena de las primeras noches de la fiesta.[^idel29][^je] Las familias asquenazíes la cantan cerca del final de la velada, justo antes de Chad Gadya.[^ej][^jmrc][^sefaria] Una voz pregunta: "¿Quién sabe qué es uno?", y la mesa responde: uno es Hashem, en el cielo y en la tierra.[^sefaria][^uh1923] Cada número nuevo trae una respuesta nueva, las dos tablas de la alianza, los tres padres, las cuatro madres, y la lista entera se cuenta hacia atrás hasta el uno, así hasta llegar al trece.[^sefaria][^je] Su función era mantener a todos despiertos, sobre todo a los niños, hasta el final de una noche larga.[^ej][^chabad] La Union Haggadah de 1923 la convirtió en una carrera: "cada uno leyendo lo más rápido posible, en el intento de terminar el primero la respuesta".[^uh1923]
@@ -27,6 +28,8 @@ Echad Mi Yodea es una canción hebrea para contar que se canta en el séder de P
 Nadie sabe quién la hizo.[^chabad][^uh1908] La Jewish Encyclopedia de 1903 la llamaba una canción infantil hebrea, que probablemente se recitaba al principio como un diálogo.[^je] El erudito Zunz la situaba en Hagadás alemanas del siglo XV en adelante, y muchos estudiosos lo siguieron al fecharla en la Alemania del siglo XV; la Union Haggadah de 1923 estaba de acuerdo, y añadía "en gran parte bajo influencia alemana".[^je][^ej][^uh1923] La Encyclopaedia Judaica dice que aparece por primera vez en Hagadás asquenazíes del siglo XVI.[^ej] A. Z. Idelsohn, el historiador de la música judía, la incluía entre las canciones del séder compuestas "a partir del siglo X".[^idel29]
 
 La copia más antigua que se conoce está escrita a mano: un texto hebreo con otro en yidis, añadidos en una fecha desconocida a un ejemplar de la Hagadá impresa en Praga en 1526/27, que hoy está en la Biblioteca Nacional de Israel.[^jmrc][^jl] La primera impresión conocida es la Hagadá de Praga de 1590, que puso a su lado una traducción al yidis.[^jmrc][^jrb] Desde entonces fue una parte fija del séder asquenazí.[^jmrc] No era solo para Pésaj: Zunz la encontró más tarde en el rito de Aviñón, en el sur de Francia, como canción de mesa para todas las fiestas.[^je][^ej][^jrb]
+
+![[1]]
 
 La canción tiene una gemela alemana. La colección de canciones populares alemanas de Karl Simrock, impresa en 1851, trae "Guter Freund, ich frage dich", "Buen amigo, te pregunto". Cuenta del mismo modo, y su primera respuesta termina como la hebrea: uno es Dios el Señor, "der da lebt und der da schwebt im Himmel und auf Erden", que vive y flota en el cielo y en la tierra.[^simrock][^ej] Su dos son las tablas de Moisés y su tres, los patriarcas, pero del cuatro en adelante sus respuestas son casi todas cristianas: los evangelistas, las llagas de Cristo, los sacramentos, los apóstoles. Se detiene en el doce.[^simrock][^je] Simrock la imprimió entre sus canciones de beber, y la Jewish Encyclopedia la tomó por una canción de beber de campesinos que habían rehecho unos monjes.[^simrock][^je]
 
@@ -59,6 +62,8 @@ Donde la Hagadá tiene Eloheinu, cantamos Elokeinu, con k, el nombre sustituto q
 **Estrofa 4.** Arba imahot: las cuatro madres, las matriarcas Sara, Rebeca, Raquel y Lea, de nuevo las cuatro que nombra el Talmud.[^berakhot][^jepatriarchs]
 
 **Las estrofas que no cantamos.** Cinco son los cinco libros de la Torá; seis, los seis órdenes de la Mishná; siete, los días de la semana; ocho, los ocho días hasta la circuncisión de un niño; nueve, los nueve meses hasta el parto; diez, los diez mandamientos; once, los astros que se inclinaron ante José en su sueño; doce, las tribus de Israel; y trece, los trece atributos de la misericordia de Hashem, de Éxodo 34.[^sefaria][^je][^uh1923] Kaufmann Kohler, en la Jewish Encyclopedia, veía sentido en que la canción se detuviera en el trece, el número de la mala suerte: hacía del trece un número santo, y por tanto de buena suerte, para los judíos.[^je][^uh1908]
+
+![[2]]
 
 ### La letra completa
 
@@ -371,6 +376,8 @@ uno es Hashem, que está en el cielo y en la tierra.
 Llega en la sección final del séder, Nirtzah, después de Ki Lo Naeh y Adir Hu.[^sefaria][^jmrc][^ej] La Union Haggadah de 1923 la llama "A Madrigal of Numbers" (un madrigal de números).[^uh1923]
 
 Nuestro arreglo se basa en la página 93 de ese libro. Allí es "Ehod Mi Yodea", en Re menor y en 4/4.[^uh1923] La cantamos una tercera menor más alta, en Fa menor, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro imprime dos estrofas bajo las notas y marca el tercer compás con "(Omit for first stanza)", omitir en la primera estrofa. Según lo leemos, ese compás es el de contar, y se canta una vez por cada número en la cuenta atrás hasta el dos, así que cada estrofa crece un compás.[^uh1923] Cantamos las estrofas uno a cuatro, con su hebreo de la página 87, reescrito con la pronunciación israelí moderna a partir del "Ehod" y el "luhos hab'ris" asquenazíes del libro. La melodía no descansa nunca hasta que acaba una estrofa, así que hemos marcado respiraciones cortas para principiantes, y la última nota de cada estrofa se sostiene, como pide el calderón del libro.
+
+![[3]]
 
 ## Versiones y otras letras
 

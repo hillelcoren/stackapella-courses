@@ -17,6 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: lecha dodi meaning | lecha dodi meaning in english | who wrote lecha dodi | lecha dodi history | lecha dodi lyrics meaning | lecha dodi hebrew meaning
+original: Jewish Encyclopedia, vol. 7, p. 677, Internet Archive | https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
 ---
 
 Lecha Dodi, "Come, my beloved", is the Hebrew hymn that welcomes the Sabbath on Friday evening. It belongs to Kabbalat Shabbat, "receiving the Sabbath", the short service sung as the Sabbath comes in, and as its last verse begins many in the congregation turn around and bow.[^ej][^abrahams] Solomon ha-Levi Alkabetz wrote it in Safed in the sixteenth century, and it was one of the last Hebrew poems to become a fixed part of the prayer book.[^je][^ej] Since then it has been sung in Jewish communities all over the world.[^schechter][^ejalk] In 1929 A. Z. Idelsohn wrote that it had received about two thousand musical settings.[^idel29][^ej] Ours is an old Ashkenazi one that was kept for the weeks between Passover and Shavuot.[^je][^idel29]
@@ -27,9 +28,13 @@ The idea is older than the poem. The Talmud tells of two rabbis who dressed for 
 
 In sixteenth-century Safed the greeting became a ritual. The town was then the gathering place of Jewish mystics, the kabbalists.[^jealk][^schechter] The Encyclopaedia Judaica tells how they walked out into the fields on Friday afternoons, praying and singing, to meet the Sabbath as a queen.[^ej] Idelsohn retells a story about Isaac Luria, who later led the Safed mystics: one Sabbath eve he went out of the city with his disciples to receive the Sabbath, singing.[^idel29] The psalms said before Lecha Dodi were added by the same Safed mystics.[^abrahams][^idel29]
 
+![[1]]
+
 Alkabetz was born about 1505.[^ejalk][^idel29][^huji] Before he settled in Safed he lived in the Ottoman cities of Salonica and Adrianople.[^jealk][^ejalk][^idel29] He was a kabbalist and poet, the teacher and brother-in-law of the mystic Moses Cordovero, and a contemporary of Joseph Caro, the author of the law code the Shulchan Aruch, with whom he studied.[^jealk][^ejalk] The sources differ on his death. The Jewish Encyclopedia of 1901 says only that he was still living in 1561; Idelsohn gives 1580, and the Encyclopaedia Judaica and the Hebrew University's Jewish Music Research Centre give 1584.[^jealk][^idel29][^ejalk][^huji]
 
 The poem has a refrain and nine verses. The first letters of the first eight spell his name in Hebrew, Shlomo HaLevi.[^je][^ej][^ashkenaz] Its words lean on the Bible, above all on Isaiah's prophecies that Israel will be restored.[^je][^abrahams] The scholar Solomon Schechter called it "perhaps one of the finest pieces of religious poetry in existence".[^abrahams][^schechter] Its earliest known printing is in a Sephardi prayer book of 1583/4.[^ej][^posen] That printing heads it with a tune to sing it to, that of Judah Halevi's poem "Shuvi nafshi limenuchayechi"; Halevi had died nearly five centuries before Alkabetz.[^ej][^je] The Jewish Encyclopedia took the heading as a sign that the Sephardi melody is older than the poem.[^je] No source from Alkabetz's own time says what tune it was first sung to.[^ej]
+
+![[2]]
 
 **The tune.** At certain seasons, the Jewish Encyclopedia wrote in 1904, many northern congregations set aside their newer settings of Lecha Dodi for two simpler old melodies. The better known was kept for the weeks of the Omer, between Passover and Shavuot.[^je] Idelsohn calls it the "Sefira Lechoh-dodi": sefira is the counting of those seven weeks, which the Bible commands.[^idel29][^lev] The Encyclopaedia Judaica also records special Lecha Dodi melodies for the Sabbaths of the counting.[^ej] Francis L. Cohen printed the tune in that 1904 article, with English words. Cohen (1862 to 1934) was an English rabbi and the Jewish Encyclopedia's music editor, and later chief minister of the Great Synagogue in Sydney.[^je][^jecohen][^ejcohen][^apple]
 
@@ -200,6 +205,8 @@ In the Ashkenazi rite of Friday evening, six psalms come first, 95 to 99 and 29;
 In Ashkenazi synagogues of 1904, the Jewish Encyclopedia wrote, the cantor sang the verses at length and the congregation answered each with the refrain. Sephardi congregations all sang it together to an old Moorish melody, using the refrain only as an introduction.[^je]
 
 Our arrangement is read from Cohen's 1904 printing, "Lekah Dodi (Melody for 'Omer Weeks)": a melody alone, in G major and 3/4 time, as we sing it. It carries English words, a rendering of the hymn's second stanza ("How lovely is the Day of Rest") and a refrain ("Then come, my friend, to meet the Bride").[^je] The Hebrew is fitted to the tune by us, and the four parts are our own. We sing the refrain, as the hymn begins, then verse 1, the refrain, verse 9 and the refrain to close, for 2 to 4 singers.
+
+![[3]]
 
 ## Versions and other words
 

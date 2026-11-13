@@ -17,7 +17,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: c92ce08f1083
+translatedFrom: f7abe11b0354
+original: Jewish Encyclopedia, vol. 7, p. 677, Internet Archive | https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
 ---
 
 Lecha Dodi, "Ven, amado mío", es el himno hebreo que recibe al sabbat el viernes por la noche. Forma parte de Kabbalat Shabbat, "recibir el sabbat", el breve oficio que se canta cuando entra el sabbat, y cuando empieza su última estrofa muchos en la congregación se dan la vuelta y hacen una reverencia.[^ej][^abrahams] Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI, y fue uno de los últimos poemas hebreos en entrar de forma fija en el libro de oraciones.[^je][^ej] Desde entonces se canta en comunidades judías de todo el mundo.[^schechter][^ejalk] En 1929, A. Z. Idelsohn escribió que había recibido unas dos mil versiones musicales.[^idel29][^ej] La nuestra es una antigua melodía asquenazí que se reservaba para las semanas entre Pésaj y Shavuot.[^je][^idel29]
@@ -28,9 +29,13 @@ La idea es más antigua que el poema. El Talmud cuenta que dos rabinos se vestí
 
 En la Safed del siglo XVI, aquel saludo se convirtió en un rito. La ciudad era entonces el lugar de reunión de los místicos judíos, los cabalistas.[^jealk][^schechter] La Encyclopaedia Judaica cuenta cómo salían a los campos los viernes por la tarde, rezando y cantando, para recibir al sabbat como a una reina.[^ej] Idelsohn recoge una historia sobre Isaac Luria, que más tarde encabezó a los místicos de Safed: una víspera de sabbat salió de la ciudad con sus discípulos para recibir el sabbat cantando.[^idel29] Los salmos que se dicen antes de Lecha Dodi los añadieron esos mismos místicos de Safed.[^abrahams][^idel29]
 
+![[1]]
+
 Alkabetz nació hacia 1505.[^ejalk][^idel29][^huji] Antes de establecerse en Safed vivió en las ciudades otomanas de Salónica y Adrianópolis.[^jealk][^ejalk][^idel29] Fue cabalista y poeta, maestro y cuñado del místico Moses Cordovero, y contemporáneo de Joseph Caro, autor del código legal Shulchan Aruch, con quien estudió.[^jealk][^ejalk] Las fuentes no coinciden sobre su muerte. La Jewish Encyclopedia de 1901 dice solo que seguía vivo en 1561; Idelsohn da 1580, y la Encyclopaedia Judaica y el Jewish Music Research Centre de la Universidad Hebrea dan 1584.[^jealk][^idel29][^ejalk][^huji]
 
 El poema tiene un estribillo y nueve estrofas. Las primeras letras de las ocho primeras forman su nombre en hebreo, Shlomo HaLevi.[^je][^ej][^ashkenaz] Su letra se apoya en la Biblia, sobre todo en las profecías de Isaías sobre la restauración de Israel.[^je][^abrahams] El estudioso Solomon Schechter lo llamó "quizá una de las piezas de poesía religiosa más hermosas que existen".[^abrahams][^schechter] La primera impresión conocida está en un libro de oraciones sefardí de 1583/4.[^ej][^posen] Esa impresión lo encabeza con una melodía para cantarlo, la del poema de Judah Halevi "Shuvi nafshi limenuchayechi"; Halevi había muerto casi cinco siglos antes que Alkabetz.[^ej][^je] La Jewish Encyclopedia vio en ese encabezamiento una señal de que la melodía sefardí es más antigua que el poema.[^je] Ninguna fuente de la época de Alkabetz dice con qué melodía se cantó por primera vez.[^ej]
+
+![[2]]
 
 **La melodía.** En ciertas épocas del año, escribía la Jewish Encyclopedia en 1904, muchas congregaciones del norte dejaban a un lado sus versiones más recientes de Lecha Dodi y cantaban dos melodías antiguas más sencillas. La más conocida se reservaba para las semanas del Ómer, entre Pésaj y Shavuot.[^je] Idelsohn la llama "Sefira Lechoh-dodi": sefira es la cuenta de esas siete semanas, que manda la Biblia.[^idel29][^lev] La Encyclopaedia Judaica también recoge melodías especiales de Lecha Dodi para los sabbats de la cuenta.[^ej] Francis L. Cohen imprimió la melodía en ese artículo de 1904, con letra en inglés. Cohen (1862 a 1934) fue un rabino inglés y el editor musical de la Jewish Encyclopedia, y más tarde ministro principal de la Gran Sinagoga de Sídney.[^je][^jecohen][^ejcohen][^apple]
 
@@ -201,6 +206,8 @@ En el rito asquenazí del viernes por la noche se dicen primero seis salmos, del
 En las sinagogas asquenazíes de 1904, escribía la Jewish Encyclopedia, el cantor cantaba las estrofas con amplitud y la congregación respondía a cada una con el estribillo. En las congregaciones sefardíes todos lo cantaban juntos con una antigua melodía morisca, y usaban el estribillo solo como introducción.[^je]
 
 Nuestro arreglo se basa en la impresión de Cohen de 1904, "Lekah Dodi (Melody for 'Omer Weeks)": una melodía sola, en Sol mayor y en 3/4, tal como la cantamos. Lleva letra en inglés, una versión de la segunda estrofa del himno ("How lovely is the Day of Rest", qué hermoso es el día de descanso) y un estribillo ("Then come, my friend, to meet the Bride", ven, pues, amigo mío, al encuentro de la novia).[^je] El hebreo lo hemos ajustado nosotros a la melodía, y las cuatro voces son nuestras. Cantamos el estribillo, como empieza el himno, luego la estrofa 1, el estribillo, la estrofa 9 y el estribillo para cerrar, para 2 a 4 cantantes.
+
+![[3]]
 
 ## Versiones y otras letras
 

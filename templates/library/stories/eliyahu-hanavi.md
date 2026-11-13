@@ -14,6 +14,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: eliyahu hanavi meaning | eliyahu hanavi meaning in english | eliyahu hanavi song meaning | eliyahu hanavi havdalah song | eliyahu hanavi passover song | eliyahu hanavi translation | eliyahu hanavi song composer | eliyahu hanavi zachur latov
+original: Idelsohn, Jewish Music, p. 401, Internet Archive | https://archive.org/details/jewishmusicinits00idel_0/page/n418/mode/1up
 ---
 
 Eliyahu HaNavi, "Elijah the Prophet", is a short Hebrew refrain. It is sung on Saturday night, once the Sabbath is over and Havdalah has been made, and at the Passover seder, when the door is opened for Elijah.[^ejhav][^jehab][^milken][^merwin] It calls the prophet by three names: Elijah the prophet, Elijah the Tishbite, Elijah of Gilead.[^idel1929][^sefard] The prophet Malachi promised that Hashem would send Elijah before the great day to come, and the Talmud teaches that Elijah will not come on a Friday, nor on the Sabbath itself. Saturday night is the first moment he might.[^malachi][^eruvin][^mb295] The scholar A. Z. Idelsohn called this refrain the oldest part of the Elijah songs that, he wrote, Jewish communities already sang at the close of the Sabbath in the eleventh century.[^idel1929][^milken]
@@ -28,7 +29,11 @@ Poets wrote many songs for that moment. Idelsohn, in his history of Jewish music
 
 The tune has no known composer. Idelsohn printed it in the same book, in Table XXXII, "Tunes of the Eastern Ashkenazic folk-song", the songs of the Ashkenazi Jews of Eastern Europe. He gave two tunes for these words, "both very popular", and ours is the first.[^idel1929] He wrote that its melodic line, like those of several tunes beside it, resembles Polish, Ukrainian, Spanish, Arabic and old French tunes.[^idel1929] The Milken Archive's notes say its origin remains undetermined, and hear Polish dance rhythms in it: a polonaise pattern and a mazurka's stress on the second beat.[^milken] Idelsohn, who lived from 1882 to 1938, was then professor of Jewish music at Hebrew Union College in Cincinnati.[^ejidel][^loc][^idel1929]
 
+![[1]]
+
 **Myth and record.** Often told: Elijah visits every seder and sips from his cup, while the children watch the wine for a ripple.[^milken][^chabad] What the record shows: there is no Talmudic or midrashic source for a yearly visit, and the Talmud says nothing of a cup for Elijah. The earliest known mention of one is from the fifteenth century.[^zivotofsky][^brodt] Its usual explanation is a question about a fifth cup of wine, which tradition says Elijah will one day settle.[^uh1923][^zivotofsky] The Rema explains the open door differently: it shows trust that the seder is "a night of watching", as Exodus calls it, and for that faith, he writes, the Messiah will come.[^sa480][^zivotofsky]
+
+![[2]]
 
 ### Timeline
 
@@ -181,6 +186,8 @@ and he will turn the hearts of parents to their children and the hearts of child
 ## How it is sung
 
 **At Havdalah.** On Saturday night, when the Sabbath is over, Havdalah ("separation") is said over wine, spices and a flame.[^jehab][^abrahams] After it, it is customary to sing hymns, and Eliyahu HaNavi is among the best known, beside Ha-Mavdil.[^ejhav][^jehab] The Rema records the custom of calling on Elijah on Saturday night, praying that he come and announce the redemption.[^sa295][^mb295] In the Edot HaMizrach prayer book, of the Sephardi and Mizrahi rite, some say the poem before Havdalah.[^edot][^jehab] Most people now sing only the refrain, the Milken Archive's notes observe.[^milken]
+
+![[3]]
 
 **At the seder.** After the grace after the meal and the third cup of wine, with Elijah's cup on the table, the door is opened.[^zivotofsky][^milken][^uh1923] Many say the verses beginning "Shefokh chamatkha", "Pour out Your wrath", while it stands open.[^zivotofsky][^sa480] Eliyahu HaNavi is usually sung then, with the door open.[^milken][^merwin]
 

@@ -18,9 +18,12 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: meaning of maoz tzur | maoz tzur lyrics in english | maoz tzur translation | who wrote maoz tzur | maoz tzur history | maoz tzur tune origin | rock of ages hanukkah song english
+original: Idelsohn, Sefer ha-Shirim, p. 77, Internet Archive | https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 ---
 
 Maoz Tzur is a Hebrew hymn for Hanukkah. In Ashkenazi homes it is sung once the Hanukkah lights are kindled, and it is sung in the synagogue too.[^je][^ej] Its poet, Mordecai, wrote it in the German lands in the Middle Ages and left his name in the first letters of its stanzas.[^je][^ej] The hymn walks through four rescues, from Egypt, from Babylon, from Haman's plot in Persia and from the Greeks in the days of the Hasmoneans, and it asks for the Temple to be rebuilt.[^ej][^melamed] Its bright tune became so much the sound of the festival that other Hanukkah hymns and prayers are sung to it as well.[^je][^ej] English-speaking congregations also sing it as Rock of Ages.[^ej][^uh1897]
+
+![[1]]
 
 ## Where it comes from
 
@@ -156,6 +159,8 @@ Maoz Tzur belongs to the Ashkenazi rite, where it follows the kindling of the Ha
 
 Our arrangement is read from page 77 of A. Z. Idelsohn's Sefer ha-Shirim, a songbook for Hebrew schools published in Berlin and Jerusalem and dated 5672, that is 1911 to 1912, where it is No. 83, in E major, in common time.[^id1912] We sing stanzas 1 and 5, for 2 to 4 singers, with four parts written on the harmony of his two and three voices. The words are in modern Israeli pronunciation, which fits his book: his preface faults earlier songbooks for using the Ashkenazi accent, which pupils in the East, who spoke Hebrew with the Sephardi accent, could not follow.[^id1912]
 
+![[2]]
+
 Each stanza sings its last line twice, as Idelsohn's repeat signs ask.[^id1912] The Encyclopaedia Judaica calls that repeat recent, absent from the standard sources of the nineteenth and early twentieth centuries; Idelsohn's page is an early witness to it.[^ej][^id1912]
 
 ## Versions and other words
@@ -163,6 +168,8 @@ Each stanza sings its last line twice, as Idelsohn's repeat signs ask.[^id1912] 
 **Other tunes.** The Ashkenazi Jews of Venice sang Maoz Tzur to a melody of their own, which Benedetto Marcello printed there in 1724 and used as the theme of his Psalm 15.[^je][^ej][^idel29] The Encyclopaedia Judaica says it is still sung in Italy, and sometimes in Israel and the United States.[^ej]
 
 **Other words.** In English the hymn is Rock of Ages, "Rock of Ages, let our song / Praise Thy saving power", as the Union Hymnal printed it in 1897.[^uh1897] The 1932 edition credits it to Marcus Jastrow and Gustav Gottheil, adapted from a German version by Leopold Stein; the Jewish Encyclopedia credits Gottheil alone.[^uh1932][^hymnary][^je]
+
+![[3]]
 
 ## Singing it
 
@@ -206,7 +213,7 @@ The soprano sings the tune throughout, as Idelsohn printed it. The alto sings wi
 - [^idel29]: A. Z. Idelsohn, *Jewish Music in its Historical Development* (Henry Holt, 1929), pp. 171 to 174, 293, 338 and 504 (notes). https://archive.org/details/jewishmusicinits00idel_0
 - [^id1912]: A. Z. Idelsohn, *Sefer ha-Shirim* (Berlin and Jerusalem: Hilfsverein der deutschen Juden, 5672, 1911 to 1912), preface pp. III to IV, and No. 83, "Ma'oz tzur", p. 77. https://archive.org/details/32882013391126-seferhashirimko
 - [^melamed]: Yitzhak Y. Melamed, "Maoz Tzur and the 'End of Christianity'", *TheTorah.com* (2016). https://www.thetorah.com/article/maoz-tzur-and-the-end-of-christianity
-- [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), No. 107, "Rock of Ages", pp. 116 to 117. https://archive.org/details/unionhymnal00rabbgoog
+- [^uh1897]: Central Conference of American Rabbis, *Union Hymnal* (1897), No. 107, "Rock of Ages", pp. 117 to 118. https://archive.org/details/unionhymnal00rabbgoog
 - [^uh1932]: Central Conference of American Rabbis, *Union Hymnal*, third edition (copyright 1932; 1936 printing), No. 207, "Rock of Ages", pp. 233 to 234. https://archive.org/details/unionhymnal00cent
 - [^hymnary]: Hymnary.org, "Rock of Ages, let our song" (text record). https://hymnary.org/text/rock_of_ages_let_our_song
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), No. 387, "Dear Christians, One and All, Rejoice", via Hymnary.org. https://hymnary.org/hymn/LH1941/387

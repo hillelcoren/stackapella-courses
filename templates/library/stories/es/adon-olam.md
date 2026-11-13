@@ -14,7 +14,8 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: 22cd10fe688d
+translatedFrom: c38d599189d7
+original: Gerovitsch, Schirej Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
@@ -27,7 +28,11 @@ Lo que es seguro es su forma. La Jewish Encyclopedia lo llama "uno de los pocos 
 
 **La melodía.** Eliezer Gerovitsch nació en Ucrania en 1844. Estudió música en Berdichev, en Odesa y en el conservatorio de San Petersburgo, y en 1887 se hizo cantor en Rostov del Don, donde sirvió veinticinco años.[^ejger][^huji] La Encyclopaedia Judaica dice que su música para la sinagoga nació de melodías judías tradicionales.[^ejger] Murió en 1913 según la Encyclopaedia Judaica; el Jewish Music Research Centre de la Universidad Hebrea y el European Institute of Jewish Music dan 1914.[^ejger][^huji][^iemj]
 
+![[1]]
+
 Su Schirej Tefilah, cantos para la sinagoga, se imprimió en Rostov, y la edición que leemos, que Zemereshet llama la segunda, está fechada en 1897.[^hujicat][^zemer] Su segunda parte, para el sabbat y las tres fiestas de peregrinación, trae Adon Olam como n.º 16, en las páginas 89 y 90. Empieza con una sección de ocho compases en Re menor para cuatro voces, soprano, contralto, tenor y bajo, y en el encabezamiento Gerovitsch escribió "A. W.", por alte Weise, "melodía antigua". Tras esa sección, la obra sigue con una música que parece suya, empezando por un recitativo para el tenor.[^zemer]
+
+![[2]]
 
 **Mito y documentos.** Se suele contar que la melodía es del propio Gerovitsch, y Zemereshet, el archivo israelí de canciones, señala que a veces se le atribuye. Lo que muestran los documentos: su propio libro marca la obra con "A. W.", una melodía antigua, así que armonizó una melodía que ya se cantaba. No se sabe quién la cantó primero.[^zemer] Zemereshet añade que la forma que más se canta hoy es más sencilla que la que él escribió.[^zemer]
 
@@ -147,6 +152,8 @@ Hashem está conmigo; no temeré.
 
 Adon Olam tiene dos lugares en el oficio. Se imprime al comienzo de las oraciones diarias de la mañana, y es más conocido al final.[^je][^ej][^sefaria] En 1901, la Jewish Encyclopedia contaba que los judíos sefardíes, y las sinagogas británicas en general, lo cantaban todos juntos al cierre de los oficios de la mañana del sabbat y de las fiestas, mientras que los judíos asquenazíes lo cantaban a menudo al cierre del oficio de la tarde en lugar del himno Yigdal.[^je] Hoy, dice la Encyclopaedia Judaica, su lugar principal es al cierre del Musaf, el oficio adicional que termina la mañana del sabbat y de las fiestas.[^ej] La Jewish Encyclopedia lo encontraba cantado casi en todas partes la víspera de Yom Kipur, y la Encyclopaedia Judaica lo sitúa al cierre del oficio de Kol Nidre de esa noche.[^je][^ej][^abrahams]
 
+![[3]]
+
 También pertenece a la noche. Como el verso 9 habla de dormir y despertar, el estudioso Seligman Baer pensaba que en un principio se decía antes de dormir, y Abrahams lo veía muy probable. La Jewish Encyclopedia no estaba tan segura: quizá, decía, la belleza y la grandeza del himno lo llevaron al oficio, a su comienzo o a su cierre.[^je][^abrahams] Está entre las oraciones que se dicen antes de dormir, y se dice junto al lecho de quien se está muriendo.[^ej][^barth][^abrahams]
 
 Nuestro arreglo se basa en la página de Gerovitsch, en Re menor como está impresa, en 4/4. Cantamos solo la sección antigua, no la música que la sigue en su libro. La sección lleva dos versos del poema, cada verso en dos frases de la melodía, y se canta cuatro veces: versos 1 y 2, 3 y 4, 5 y 6, y 9 y 10. Al final de cada vuelta se sostiene el Re grave de la melodía antes de respirar. Los compases 1 y 2 y 5 a 8 conservan sus acordes y su bajo, con pequeños cambios para principiantes; los compases 3 y 4, donde las notas rápidas de su tenor se leen mal en la fotografía de su página, son nuestra propia disposición de las voces sobre sus acordes. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor.
@@ -154,6 +161,8 @@ Nuestro arreglo se basa en la página de Gerovitsch, en Re menor como está impr
 ## Versiones y otras letras
 
 **Otras melodías.** Adon Olam tiene muchísimas melodías, unas escritas para él y otras prestadas, judías y no judías; su métrica sencilla y regular se presta a ello, y las congregaciones estadounidenses lo cantan a menudo con melodías populares, entre ellas "Rock Around the Clock".[^ej][^posen] Sin embargo, en 1901 la Jewish Encyclopedia encontraba pocas melodías tradicionales, solo cuatro o cinco, y la más antigua parecía ser una breve melodía de origen español.[^je]
+
+![[4]]
 
 Salamone Rossi incluyó una versión a ocho voces en su colección de cantos hebreos para la sinagoga, impresa en Venecia en 1622 o 1623.[^ej][^imslp][^musicweb] En 1976, Uzi Hitman escribió la melodía que Zemereshet llama la más extendida de la última generación.[^zemer][^ice]
 
