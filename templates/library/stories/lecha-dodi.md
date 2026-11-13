@@ -1,10 +1,10 @@
 ---
 title: Lecha Dodi: history, meaning and the words explained
-description: Lecha Dodi greets the Sabbath as a bride on Friday evening. Solomon Alkabetz wrote it in 16th-century Safed; Idelsohn put its settings at about 2,000.
+description: Lecha Dodi greets the Sabbath as a bride on Friday evening: words from 16th-century Safed, to an Omer-weeks tune whose earliest known printing is 1877.
 lead: Lecha Dodi, "Come, my beloved", is the Hebrew hymn that greets the Sabbath as a bride on Friday evening. Solomon ha-Levi Alkabetz wrote it in sixteenth-century Safed and signed eight of its nine verses with his name.
 words: Solomon ha-Levi Alkabetz (about 1505 to 1580 or 1584; the sources differ)
-tune: Traditional Ashkenazi tune for the weeks of the Omer, as printed by Abraham Baer (1834 to 1894)
-earliestPrinting: 1583/4, the words, in a Sephardi prayer book
+tune: Traditional Ashkenazi tune for the weeks of the Omer, as printed by Abraham Baer (1834 to 1894); the earliest known printing is 1877
+earliestPrinting: 1583/4, the words, in a Sephardi prayer book; 1877, the tune, in Abraham Baer's Baal T'fillah (Gothenburg)
 earliestPrintingSource: ej
 language: Hebrew
 origin: Safed
@@ -36,7 +36,7 @@ The poem has a refrain and nine verses. The first letters of the first eight spe
 
 ![[2]]
 
-**The tune.** At certain seasons, the Jewish Encyclopedia wrote in 1904, many northern congregations set aside their newer settings of Lecha Dodi for two simpler old melodies. The better known was kept for the weeks of the Omer, between Passover and Shavuot.[^je] Idelsohn calls it the "Sefira Lechoh-dodi": sefira is the counting of those seven weeks, which the Bible commands.[^idel29][^lev] Francis L. Cohen printed the tune in that 1904 article, with English words. Cohen (1862 to 1934) was an English rabbi and the Jewish Encyclopedia's music editor, and later chief minister of the Great Synagogue in Sydney.[^je][^jecohen][^ejcohen][^apple]
+**The tune.** At certain seasons, the Jewish Encyclopedia wrote in 1904, many northern congregations set aside their newer settings of Lecha Dodi for two simpler old melodies. The better known was kept for the weeks of the Omer, between Passover and Shavuot.[^je] Idelsohn calls it the "Sefira Lechoh-dodi": sefira is the counting of those seven weeks, which the Bible commands.[^idel29][^lev] Its earliest known printing is in Baal T'fillah, the book of synagogue tunes for the cantor by Abraham Baer of Gothenburg, whose first edition has its preface signed there in September 1877. On pages 90 and 91 Baer marks it for the Sabbaths of the sefira: No. 340, the verse, and No. 333, the refrain for the choir. The third edition, printed in Frankfurt am Main after 1883, has both on the same pages with the same numbers and the same notes, and our arrangement is read from it.[^baer1877][^baer] Baer's 1877 preface marks his new tunes "N. W." and leaves the oldest, known by their character and how widely they have spread, with no mark; these two carry none.[^baer1877] Francis L. Cohen printed the tune in that 1904 article, with English words. Cohen (1862 to 1934) was an English rabbi and the Jewish Encyclopedia's music editor, and later chief minister of the Great Synagogue in Sydney.[^je][^jecohen][^ejcohen][^apple]
 
 **Myth and record.** Often told: the tune comes from Mozart's opera *The Marriage of Figaro*. What the record shows: the Jewish Encyclopedia reports that some had heard in its phrases the English political song "Lilliburlero" and the cavatina near the start of *Figaro*, but it heard German folk song of the late seventeenth century all through the melody.[^je] Idelsohn agreed that it resembles that aria, No. 3 in *Figaro*, and found it also very like a German folk song of Paderborn, dated 1765. He thought an older German folk song lay behind both Mozart's aria and the cantors' tune, and that the cantors could not have taken it from Mozart, because manuscripts show the Lecha Dodi tune was well known long before the opera.[^idel29]
 
@@ -45,7 +45,8 @@ The poem has a refrain and nine verses. The first letters of the first eight spe
 - About 1505: Solomon ha-Levi Alkabetz is born. [^ejalk][^idel29]
 - 16th century: Alkabetz writes Lecha Dodi in Safed; the Jewish Encyclopedia dates it about the middle of the century. [^je][^abrahams][^posen]
 - 1583/4: the earliest known printing, in a Sephardi prayer book printed in Venice. [^ej][^posen]
-- After 1883: the third edition of Abraham Baer's Baal T'fillah, printed in Frankfurt am Main, marks this tune for the Sabbaths of the sefira; our arrangement is read from its pages. [^baer]
+- 1877: the first edition of Abraham Baer's Baal T'fillah, its preface signed at Gothenburg in September, prints this tune for the Sabbaths of the sefira as Nos. 340 and 333, on pages 90 and 91: the tune's earliest known printing. [^baer1877]
+- After 1883: the third edition, printed in Frankfurt am Main, prints the same numbers on the same pages with the same notes; our arrangement is read from its pages. [^baer][^baer1877]
 - 1904: Francis L. Cohen prints the same tune, its rhythms evened, as "Melody for 'Omer Weeks", in the Jewish Encyclopedia. [^jescan][^je]
 - 1929: Idelsohn writes that the poem has received about two thousand musical settings. [^idel29]
 
@@ -205,7 +206,7 @@ In the Ashkenazi rite of Friday evening, six psalms come first, 95 to 99 and 29;
 
 In Ashkenazi synagogues of 1904, the Jewish Encyclopedia wrote, the cantor sang the verses at length and the congregation answered each with the refrain. Sephardi congregations all sang it together to an old Moorish melody, using the refrain only as an introduction.[^je]
 
-Our arrangement is read from Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", the book of synagogue tunes for the cantor by Abraham Baer, chief cantor of the Jewish community of Gothenburg. Our copy is the undated third edition, printed in Frankfurt am Main after 1883. On pages 90 and 91, among the numbers Baer marks for the Sabbaths of the sefira, are No. 340, the cantor's verse, on the page headed "Shamor vezachor", and No. 333, the refrain, set for the choir, which answers the verse with it. Both are in G major and 3/4 time, as we sing them; our soprano sings the verse and the choir's top line.[^baer] Cohen's 1904 printing, "Lekah Dodi (Melody for 'Omer Weeks)", is the same tune in the same key with its rhythms evened, and we checked ours against it. It carries English words, a rendering of the hymn's second stanza ("How lovely is the Day of Rest") and a refrain ("Then come, my friend, to meet the Bride").[^jescan][^je] Like Cohen, we sing Baer's dotted rhythms evenly, to make it easier for beginners. The Hebrew is fitted to the tune by us, and the four parts are our own. We sing the refrain, as the hymn begins, then verse 1, the refrain, verse 9 and the refrain to close.
+Our arrangement is read from Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", the book of synagogue tunes for the cantor by Abraham Baer, chief cantor of the Jewish community of Gothenburg. Our copy is the undated third edition, printed in Frankfurt am Main after 1883. On pages 90 and 91, among the numbers Baer marks for the Sabbaths of the sefira, are No. 340, the cantor's verse, on the page headed "Shamor vezachor", and No. 333, the refrain, set for the choir, which answers the verse with it. Both are in G major and 3/4 time, as we sing them; our soprano sings the verse and the choir's top line.[^baer] The first edition of 1877 prints both numbers on the same pages, note for note the same.[^baer1877] Cohen's 1904 printing, "Lekah Dodi (Melody for 'Omer Weeks)", is the same tune in the same key with its rhythms evened, and we checked ours against it. It carries English words, a rendering of the hymn's second stanza ("How lovely is the Day of Rest") and a refrain ("Then come, my friend, to meet the Bride").[^jescan][^je] Like Cohen, we sing Baer's dotted rhythms evenly, to make it easier for beginners. The Hebrew is fitted to the tune by us, and the four parts are our own. We sing the refrain, as the hymn begins, then verse 1, the refrain, verse 9 and the refrain to close.
 
 ![[3]]
 
@@ -242,7 +243,7 @@ Readings differ. Dodi is "my beloved", the word the Song of Songs uses in "Come,
 
 ### Which part sings the tune?
 
-The soprano, throughout: the Omer-weeks melody as Abraham Baer printed it, the tune Francis L. Cohen also printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^baer][^je]
+The soprano, throughout: the Omer-weeks melody as Abraham Baer printed it from 1877 on, the tune Francis L. Cohen also printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^baer][^baer1877][^je]
 
 ## Sing next
 
@@ -255,6 +256,7 @@ The soprano, throughout: the Omer-weeks melody as Abraham Baer printed it, the t
 - [^je]: Cyrus Adler and Francis L. Cohen, "Lekah Dodi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), pp. 675 to 677, with the music on p. 677. https://www.jewishencyclopedia.com/articles/9737-lekah-dodi
 - [^jescan]: *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 677, "Lekah Dodi (Melody for 'Omer Weeks)", University of California Libraries copy, Internet Archive jewishencyclopedia07sing, image n712. https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
 - [^baer]: Abraham Baer, *Baal T'fillah oder "Der practische Vorbeter"*, 3rd edition (Frankfurt am Main: J. Kauffmann, undated, after 1883), title page, preface to the second edition dated May 1883 (p. XII), and pp. 90 to 91, Nos. 326, 333 and 340; Internet Archive item der-practische-vorbeter-baer, a 2024 upload that names no holding library, images n3 (title page), n134 and n135. https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
+- [^baer1877]: Abraham Baer, *Baal T'fillah oder "Der practische Vorbeter"*, 1st edition (published by the author, preface signed Gothenburg, September 1877), preface (pp. IX to X) and pp. 90 to 91, Nos. 333 and 340; scan by Statens musikverk, Stockholm, PDF image 59 for pp. 90 to 91. https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 - [^jealk]: H. G. Enelow, "Alḳabiẓ, Solomon ben Moses ha-Levi", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 401 to 402. https://www.jewishencyclopedia.com/articles/1242-alkabiz-solomon-ben-moses-ha-levi
 - [^jecohen]: Joseph Jacobs and Edgar Mels, "Cohen, Francis Lyon", *The Jewish Encyclopedia*, vol. 4 (Funk and Wagnalls, 1903), p. 148. https://www.jewishencyclopedia.com/articles/4473-cohen-francis-lyon
 - [^jehalevi]: Richard Gottheil, Max Schloessinger and Isaac Broydé, "Judah ha-Levi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 346. https://www.jewishencyclopedia.com/articles/9005-judah-ha-levi
