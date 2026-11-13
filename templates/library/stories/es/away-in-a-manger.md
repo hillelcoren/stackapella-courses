@@ -6,8 +6,8 @@ words: Anónima, estadounidense (estrofas 1 y 2 impresas ya en 1882; la estrofa 
 tune: CRADLE SONG, William J. Kirkpatrick (1895)
 tuneName: CRADLE SONG
 meter: 11.11.11.11
-earliestPrinting: Las dos estrofas, como "Luther's Cradle Song", 1882 (The Christian Cynosure, Chicago, 2 de marzo)
-earliestPrintingSource: cynosure1882
+earliestPrinting: Las dos estrofas, como "Luther's Cradle Song", 4 de enero de 1882 (The Congregationalist); ocho versos de la estrofa 1 en 1868 (Protestant Churchman)
+earliestPrintingSource: hymnarchive
 language: inglés
 origin: Estados Unidos
 occasion: Navidad
@@ -15,31 +15,31 @@ alsoKnownAs: Luther's Cradle Hymn; Luther's Cradle Song; Allá en el pesebre
 wikidata: Q791656
 quote: El siguiente himno, compuesto por Martín Lutero para sus hijos, todavía lo cantan muchas madres alemanas a sus pequeños.
 quoteSource: cynosure1882
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 4704a8b5b4b2
+translatedFrom: 8e7a901709db
 original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
-Away in a Manger es un villancico infantil sobre el niño Jesús dormido en el heno. Su letra es anónima y estadounidense. Hymnology Archive encuentra ocho de sus versos en un relato de periódico de 1868, y sus dos primeras estrofas ya estaban impresas en 1882 con el título "Luther's Cradle Song" (la canción de cuna de Lutero) [^hymnarchive][^cynosure1882]. Martín Lutero no tuvo nada que ver [^hill][^hymnarchive]. Tiene dos melodías principales: la de James R. Murray, de 1887, la versión más impresa que encontró Hill, y la de William J. Kirkpatrick, de 1895, que según el Canterbury Dictionary of Hymnology es la que siempre se canta en Gran Bretaña [^hill][^hymnarchive][^canterbury]. En 1945, el estudioso Richard S. Hill había contado cuarenta y una versiones musicales de estos pocos versos [^hill][^hymnarchive].
+Away in a Manger, que en español se canta como Allá en el pesebre, es un villancico infantil sobre el niño Jesús dormido en el heno. Su letra es anónima y estadounidense. Hymnology Archive encuentra ocho de sus versos en un relato de periódico de 1868, y sus dos primeras estrofas ya estaban impresas en 1882 con el título "Luther's Cradle Song" (la canción de cuna de Lutero) [^hymnarchive][^cynosure1882]. Martín Lutero no tuvo nada que ver [^hill][^hymnarchive]. Tiene dos melodías principales: la de James R. Murray, de 1887, la versión más impresa que encontró Hill, y la de William J. Kirkpatrick, de 1895, que según el Canterbury Dictionary of Hymnology es la que siempre se canta en Gran Bretaña [^hill][^hymnarchive][^canterbury]. En 1945, el estudioso Richard S. Hill había contado cuarenta y una versiones musicales de estos pocos versos [^hill][^hymnarchive].
 
 ## De dónde viene
 
-**La letra.** Los primeros versos conocidos podrían estar en un periódico. Hymnology Archive informa de que el 24 de diciembre de 1868 el Protestant Churchman imprimió "A Christmas Story. Founded on Fact" (un cuento de Navidad basado en hechos reales), firmado "S.H.M.", y su imagen del relato muestra ocho versos del villancico entre comillas, sin atribuirlos a nadie [^hymnarchive].
+**La letra.** Hymnology Archive informa de que el 24 de diciembre de 1868 el Protestant Churchman imprimió "A Christmas Story. Founded on Fact" (un cuento de Navidad basado en hechos reales), firmado "S.H.M.", y su imagen del relato muestra ocho versos del villancico entre comillas, sin atribuirlos a nadie [^hymnarchive].
 
-Hymnology Archive reproduce las dos estrofas de The Congregationalist del 4 de enero de 1882 [^hymnarchive]. El 2 de marzo de 1882, The Christian Cynosure, un semanario de Chicago, las imprimió en su rincón infantil como "Luther's Cradle Song", con una nota que decía que Lutero escribió el himno para sus hijos y que las madres alemanas aún lo cantaban [^cynosure1882]. En 1883, un cancionero de Nueva York, Little Pilgrim Songs, lo incluyó en un servicio de Navidad para escuelas dominicales, como recitado "por un niño muy pequeño" o como canción con la melodía de "Home, Sweet Home" [^pilgrim1883].
+Hymnology Archive reproduce las dos estrofas de The Congregationalist del 4 de enero de 1882 [^hymnarchive]. El 2 de marzo de 1882, The Christian Cynosure, un semanario de Chicago, las imprimió en su rincón infantil como "Luther's Cradle Song", con una nota que decía que Lutero escribió el himno para sus hijos y que las madres alemanas aún lo cantaban [^cynosure1882]. En 1883, un cancionero de Nueva York para la clase de los pequeños, Little Pilgrim Songs, lo incluyó en un servicio de Navidad como recitado "por un niño muy pequeño" o como canción con la melodía de "Home, Sweet Home", con la nota de que Lutero lo escribió "para sus propios hijos" [^pilgrim1883].
 
 ![[1]]
 
-La primera impresión conocida con música propia está en Little Children's Book for Schools and Families, un libro luterano evangélico publicado en Filadelfia en 1885 [^lcb1885][^hill]. Aparece entre los himnos para los más pequeños, con la melodía ST. KILDA de J. E. Clark, sin nombre de autor y sin mencionar a Lutero [^lcb1885][^hymnarchive].
+La primera impresión conocida con música está en Little Children's Book for Schools and Families, un libro luterano evangélico publicado en Filadelfia en 1885 [^lcb1885][^hill]. Aparece entre los himnos para los más pequeños, con la melodía ST. KILDA de J. E. Clark, sin nombre de autor y sin mencionar a Lutero [^lcb1885][^hymnarchive].
 
-La tercera estrofa, "Be near me, Lord Jesus", tiene su primera impresión conocida en Gabriel's Vineyard Songs, recopilado por Charles H. Gabriel y publicado en Louisville en 1892. Gabriel atribuyó el himno a Lutero y no dio a la nueva estrofa un autor propio [^gabriel1892][^hymnarchive][^canterbury]. En 1937, Our Hymnody de Robert G. McCutchan imprimió el relato del obispo William F. Anderson: Anderson contaba que entre 1904 y 1908 pidió a John T. McFarland una tercera estrofa para un programa del Día del Niño, y que McFarland la escribió [^hymnarchive][^hill]. Hill señaló que la estrofa ya estaba impresa en 1892, así que la historia no se sostiene tal como se cuenta [^hill][^hymnarchive]. No se sabe quién la escribió.
+La tercera estrofa, "Be near me, Lord Jesus", tiene su primera impresión conocida en Gabriel's Vineyard Songs, recopilado por Charles H. Gabriel y publicado en Louisville en 1892. Gabriel atribuyó el himno a Lutero y no dio a la nueva estrofa un autor propio [^gabriel1892][^hymnarchive][^canterbury]. En 1937, Our Hymnody de Robert G. McCutchan imprimió el relato del obispo William F. Anderson, según el cual entre 1904 y 1908 pidió a John T. McFarland una tercera estrofa para un programa del Día del Niño, y McFarland la escribió [^hymnarchive][^hill]. Hill señaló que la estrofa ya estaba impresa en 1892, así que la historia no se sostiene tal como se cuenta [^hill][^hymnarchive]. No se sabe quién la escribió.
 
 **Las melodías.** James R. Murray, nacido en Andover, Massachusetts, en 1841, trabajaba en Cincinnati para la editorial musical John Church Company [^hill][^phh-tunes]. En 1887 imprimió el villancico en su Dainty Songs for Little Lads and Lasses como "Luther's Cradle Hymn", con la misma nota sobre las madres alemanas, y firmó la música solo con "J. R. M." [^murray1887][^phh-tunes]. Libros posteriores atribuyeron la melodía a un "Carl Mueller" sin identificar, de ahí su nombre, MUELLER; Hill no encontró ninguna prueba de su existencia y se la atribuyó a Murray [^hill][^hymnarchive].
 
-William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, director musical de la Grace Methodist Episcopal Church y recopilador de cancioneros de góspel [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. En 1895, él y John R. Sweney escribieron la música de Around the World with Christmas, un ejercicio de Navidad para escuelas dominicales [^hill][^canterbury]. Allí, bajo "The German Fatherland" (la patria alemana), está "Luther's Cradle Hymn", para la clase de los pequeños o un alumno elegido, con música de Kirkpatrick y las tres estrofas [^kirk1895]. Lo volvió a imprimir en Joy and Praise, un libro para escuelas dominicales que editó con J. H. Fillmore en 1908, marcado "Solo or Duet" (solo o dúo): la página de la que parte nuestro arreglo [^jp1908].
+William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, director musical de la Grace Methodist Episcopal Church y recopilador de cancioneros de góspel [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. En 1895, él y John R. Sweney escribieron la música de Around the World with Christmas, un programa de Navidad, con recitados y canciones, para escuelas dominicales [^hill][^canterbury]. Allí, bajo "The German Fatherland" (la patria alemana), está "Luther's Cradle Hymn", con música de Kirkpatrick y las tres estrofas [^kirk1895]. Lo volvió a imprimir en Joy and Praise, un libro para escuelas dominicales que editó con J. H. Fillmore en 1908, marcado "Solo or Duet" (solo o dúo): la página de la que parte nuestro arreglo [^jp1908].
 
 ![[2]]
 
@@ -47,7 +47,7 @@ Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra
 
 ![[3]]
 
-**Mito y documentos.** Se suele contar que Lutero escribió este villancico para sus hijos, y que las madres alemanas aún lo cantan. Lo que muestran los documentos: la primera atribución conocida a Lutero está en periódicos estadounidenses de 1882. El villancico no está en ninguna de las colecciones de himnos de Lutero, y no se conoce ninguna forma alemana anterior a la inglesa [^hymnarchive][^hill]. Hill concluyó que Lutero no tuvo absolutamente nada que ver con la letra ni con ninguna de las melodías [^hill]. El himno que, según se dice, Lutero escribió para la Nochebuena de sus hijos es "Vom Himmel hoch, da komm ich her", en un relato que cita John Julian [^julian][^hill]. Un libro estadounidense de 1872, Luther at Home, decía que "el villancico de Navidad de Lutero, escrito para su propio hijo Hans, todavía se canta" en Dresde, sin nombrarlo [^stork1872]; el Canterbury Dictionary of Hymnology sugiere que Murray tomó ese villancico por este [^canterbury]. Hill supuso que el poema se imprimió por primera vez para el 400 aniversario del nacimiento de Lutero, en 1883, y Hymnology Archive relaciona la etiqueta de Lutero con ese año, pero las dos estrofas ya estaban impresas a principios de 1882 [^hill][^hymnarchive][^cynosure1882].
+**Mito y documentos.** Se suele contar que Lutero escribió este villancico para sus hijos, y que las madres alemanas aún lo cantan. Lo que muestran los documentos: la primera atribución conocida a Lutero está en periódicos estadounidenses de 1882 [^hymnarchive][^cynosure1882]. El villancico no está en ninguna de las colecciones de himnos de Lutero, y no se conoce ninguna forma alemana anterior a la inglesa [^hymnarchive][^hill]. El himno que, según se dice, Lutero escribió para la Nochebuena de sus hijos es "Vom Himmel hoch, da komm ich her", en un relato que cita John Julian [^julian][^hill]. Un libro estadounidense de 1872, Luther at Home, decía que "el villancico de Navidad de Lutero, escrito para su propio hijo Hans, todavía se canta" en Dresde, sin nombrarlo [^stork1872]; el Canterbury Dictionary of Hymnology sugiere que Murray tomó ese villancico por este [^canterbury]. Hill supuso que el poema se imprimió por primera vez para el 400 aniversario del nacimiento de Lutero, en 1883, y Hymnology Archive relaciona la etiqueta de Lutero con ese año, pero las dos estrofas ya estaban impresas a principios de 1882 [^hill][^hymnarchive][^cynosure1882].
 
 ### Cronología
 
@@ -63,7 +63,7 @@ Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra
 
 Cantamos la primera estrofa, tal como la imprimió Kirkpatrick en Joy and Praise [^jp1908].
 
-**Estrofa 1, la que cantamos.** Un "manger" es un pesebre, el comedero de los animales de la granja. El Evangelio de Lucas dice que María acostó a su hijo recién nacido en uno "because there was no room for them in the inn" (porque no había lugar para ellos en el mesón) [^kjv]. Un "crib" es la cuna de un bebé: no tenía una cuna de verdad, así que duerme sobre el heno. Las impresiones más antiguas dicen "no crib for His bed", "in the sky" y "asleep in the hay" [^cynosure1882][^lcb1885]. "For a bed" y "on the hay" están en el libro de Murray de 1887, y "the bright sky", en el de Kirkpatrick de 1895 [^murray1887][^kirk1895].
+**Estrofa 1, la que cantamos.** Un "manger" es un pesebre, el comedero de los animales de la granja. El Evangelio de Lucas dice que María acostó a su hijo recién nacido en uno "because there was no room for them in the inn" (porque no había lugar para ellos en el mesón) [^kjv]. Un "crib" es la cuna de un bebé: no tenía una cuna de verdad, así que duerme sobre el heno. Los ocho versos de 1868 ya terminan "asleep on the hay" [^hymnarchive]. Las impresiones de 1882 a 1885 dicen "no crib for His bed", "in the sky" y "asleep in the hay" [^cynosure1882][^lcb1885]. "For a bed" y "on the hay" están en el libro de Murray de 1887, y "the bright sky", en el de Kirkpatrick de 1895 [^murray1887][^kirk1895].
 
 **Estrofa 2.** "Lowing" es mugir. El bebé se despierta pero no llora. Luego quien canta habla a Jesús: "Thee" es la antigua forma familiar de "you", que se conserva en la oración, y "nigh" significa cerca. En 1882, quien canta le pide que se quede junto a "my crib", mi cuna, "watching my lullaby"; Murray pone "to watch lullaby"; Kirkpatrick escribió "till morning is nigh", hasta que se acerque la mañana [^cynosure1882][^murray1887][^kirk1895].
 
@@ -107,23 +107,23 @@ y llévanos al cielo para vivir allí contigo.
 
 Desde el principio fue un villancico para niños pequeños: un recitado en 1883, un himno para los más pequeños en 1885, una canción para la clase de los pequeños en 1895 [^pilgrim1883][^lcb1885][^kirk1895]. El Psalter Hymnal Handbook sugiere la Nochebuena [^hymnary-text]. Su métrica es 11.11.11.11 [^lcb1885][^bonner1905].
 
-La melodía de Kirkpatrick es CRADLE SONG y la de Murray es MUELLER, aunque los libros también llaman a cualquiera de las dos AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. Common Praise (1998), de la Iglesia Anglicana de Canadá, imprime la de Kirkpatrick, y The Irish Presbyterian Hymnbook (2004) también [^cp1998][^iph2004]. Los libros estadounidenses varían: The United Methodist Hymnal (1989) usa la de Murray, el Hymnal 1982 episcopaliano usa la de Kirkpatrick, y el Psalter Hymnal de la Christian Reformed Church imprime las dos [^umh1989][^eh1982][^phh-tunes].
+La melodía de Kirkpatrick es CRADLE SONG y la de Murray es MUELLER, aunque los libros también llaman a cualquiera de las dos AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. Common Praise (1998), de la Iglesia Anglicana de Canadá, y The Irish Presbyterian Hymnbook (2004) imprimen la de Kirkpatrick [^cp1998][^iph2004]. Los libros estadounidenses varían: The United Methodist Hymnal (1989) usa la de Murray, el Hymnal 1982 episcopaliano usa la de Kirkpatrick, y el Psalter Hymnal de la Christian Reformed Church imprime las dos [^umh1989][^eh1982][^phh-tunes].
 
 Nuestro arreglo parte de la página de Kirkpatrick en Joy and Praise, n.º 174, impresa en Fa y cantada aquí un tono más arriba, en Sol [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que se mueva por grados conjuntos. El bajo canta la nota más grave de su acompañamiento, con dos notas cambiadas, y la voz del tenor es nuestra, sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
 
 ## Versiones y otras letras
 
-Las primeras impresiones proponían "Home, Sweet Home" como melodía [^pilgrim1883][^hymnarchive]. Luego llegaron ST. KILDA en 1885, la de Murray en 1887, una en 6/8 en el libro de Gabriel de 1892 y la de Kirkpatrick en 1895 [^lcb1885][^murray1887][^gabriel1892][^kirk1895]. Una versión de J. E. Spilman, que Hill identificó con la melodía de "Flow Gently, Sweet Afton", también se imprimió mucho [^hill]; Charles L. Hutchins la incluyó en Carols Old and Carols New (Boston, 1916) [^hutchins1916].
+Las primeras impresiones proponían "Home, Sweet Home" como melodía [^pilgrim1883][^hymnarchive]. Luego llegaron ST. KILDA en 1885, la de Murray en 1887, la de J. B. Herbert en 1891, que a finales de los años treinta rivalizaba con la de Murray, una en 6/8 en el libro de Gabriel de 1892 y la de Kirkpatrick en 1895 [^lcb1885][^murray1887][^hill][^gabriel1892][^kirk1895]. La letra también se adaptó a menudo a una melodía anterior: "Flow Gently, Sweet Afton", de J. E. Spilman, publicada en 1838, que Hill encontró impresa con ella más que ninguna otra salvo la de Murray [^hill]; Charles L. Hutchins la incluyó en Carols Old and Carols New (Boston, 1916) [^hutchins1916].
 
 ## ¿Sabías que...?
 
 - El propio cancionero de Kirkpatrick de 1908 todavía atribuye la letra a Martín Lutero [^jp1908].
-- Las fuentes no coinciden sobre dónde nació Kirkpatrick. El relato de Ira D. Sankey, citado por Hymnology Archive, dice que en Irlanda; la biografía de Hymnary.org dice que en Duncannon, Pensilvania [^hymnarchive-kirkpatrick][^hymnary-kirkpatrick].
+- Las fuentes no coinciden sobre dónde nació Kirkpatrick. El relato de George C. Stebbins, de 1924, citado por Hymnology Archive, dice que en Irlanda; la biografía de Hymnary.org dice que en Duncannon, Pensilvania [^hymnarchive-kirkpatrick][^hymnary-kirkpatrick].
 
 ## Cómo cantarla
 
 - [Soprano](/songs/away-in-a-manger/soprano): llevas la melodía de Kirkpatrick, una canción de cuna suave a tres tiempos. El primer y el tercer verso tienen la misma melodía, y cada uno sube a tu Mi más agudo, en "a" de "no crib for a bed" y en "He" de "looked down where He lay".
-- [Contralto](/songs/away-in-a-manger/alto): cantas la segunda voz de Kirkpatrick, casi siempre una sexta o una tercera por debajo de la melodía, casi siempre en Si, Re y Do. Dos momentos piden cuidado: el Do sostenido de "down His sweet", que baja a Do en "head", y el Fa becuadro de "looked down where" antes del Sol de "He". Pon tu voz en solo en el reproductor para oírlos.
+- [Contralto](/songs/away-in-a-manger/alto): cantas la segunda voz de Kirkpatrick, casi siempre una sexta o una tercera por debajo de la melodía, casi siempre en Si, Re y Do. Dos momentos piden cuidado: el Do sostenido de "down His sweet", que baja a Do en "head", y el Fa becuadro de "down where" (en "looked down where") antes del Sol de "He". Pon tu voz en solo en el reproductor para oírlos.
 - [Tenor](/songs/away-in-a-manger/tenor): rellenas el centro del acorde, casi siempre en Sol. Todo el primer verso está en Sol hasta "bed", donde bajas a Fa sostenido. Tu nota más aguda, un Do, llega en "lay", al final del tercer verso, y se queda en "The little", que empieza el último.
 - [Bajo](/songs/away-in-a-manger/bass): cantas las notas más graves del acompañamiento de Kirkpatrick, casi siempre en Sol y Re. Tu nota más aguda, un Mi, está en "a" de "no crib for a bed", debajo del Mi agudo de la melodía. La más grave, un Fa sostenido grave, está en "Lord", en el último verso.
 
@@ -139,7 +139,7 @@ Las melodías más cantadas hoy las escribieron dos músicos que trabajaban en E
 
 ### ¿En qué versículo de la Biblia se basa Away in a Manger?
 
-En Lucas 2:7, donde María acuesta a su hijo primogénito en un pesebre "because there was no room for them in the inn" (porque no había lugar para ellos en el mesón) [^kjv]. El ángel dice a los pastores que encontrarán al niño "lying in a manger", acostado en un pesebre (Lucas 2:12) [^kjv]. El ganado que muge y el bebé que no llora son la imagen propia del villancico, no la del Evangelio.
+En Lucas 2:7, donde María acuesta a su hijo primogénito en un pesebre "because there was no room for them in the inn" (porque no había lugar para ellos en el mesón) [^kjv]. El ángel dice a los pastores que encontrarán al niño "lying in a manger" (echado en un pesebre) (Lucas 2:12) [^kjv]. El ganado que muge y el bebé que no llora son la imagen propia del villancico, no la del Evangelio.
 
 ### ¿Qué voz canta la melodía?
 
@@ -170,7 +170,7 @@ La soprano canta la melodía de Kirkpatrick, desde un Re grave hasta el Mi una n
 - [^hymnary-text]: Hymnary.org, *Away in a manger, no crib for a bed* (texto), con la nota del *Psalter Hymnal Handbook* (1998). https://hymnary.org/text/away_in_a_manger_no_crib_for_a_bed
 - [^phh-tunes]: Hymnary.org, *Psalter Hymnal* (Christian Reformed Church), n.os 348 y 349, con las notas del *Psalter Hymnal Handbook* sobre las melodías AWAY IN A MANGER (Murray) y CRADLE SONG (Kirkpatrick). https://hymnary.org/hymn/PsH/348
 - [^hymnary-kirkpatrick]: Hymnary.org, *William James Kirkpatrick* (biografía de Bert Polman). https://hymnary.org/person/Kirkpatrick_WJ
-- [^hymnarchive-kirkpatrick]: Hymnology Archive, *William J. Kirkpatrick* (con el relato de Ira D. Sankey). https://www.hymnologyarchive.com/william-kirkpatrick
+- [^hymnarchive-kirkpatrick]: Hymnology Archive, *William J. Kirkpatrick* (con el relato de George C. Stebbins, de *Reminiscences and Gospel Hymn Stories*, 1924). https://www.hymnologyarchive.com/william-kirkpatrick
 - [^cp1998]: Hymnary.org, *Common Praise* (Toronto: Anglican Book Centre, 1998), Iglesia Anglicana de Canadá, n.º 126, melodía CRADLE SONG. https://hymnary.org/hymn/CP1998/126
 - [^iph2004]: Hymnary.org, *The Irish Presbyterian Hymnbook* (2004), n.º 309a, melodía AWAY IN A MANGER de William James Kirkpatrick. https://hymnary.org/hymn/IPH2004/309a
 - [^umh1989]: Hymnary.org, *The United Methodist Hymnal* (1989), n.º 217, melodía AWAY IN A MANGER de James R. Murray. https://hymnary.org/hymn/UMH/217
