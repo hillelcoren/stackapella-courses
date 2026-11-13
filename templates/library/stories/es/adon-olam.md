@@ -1,6 +1,6 @@
 ---
 title: Adon Olam: historia, significado y la letra explicada
-description: Adon Olam abre las oraciones de cada mañana y cierra el oficio matinal del sabbat en muchas sinagogas. Nuestra melodía antigua está en Gerovitsch (1897).
+description: Adon Olam abre las oraciones de cada mañana y cierra el oficio matinal del sabbat en muchas sinagogas. Nuestra melodía antigua es de un libro de 1897.
 lead: Adon Olam, "Señor del mundo", es un himno hebreo medieval con el que muchas congregaciones cierran el oficio matinal del sabbat. Cantamos una melodía antigua armonizada a cuatro voces en la colección de Eliezer Gerovitsch, edición de 1897.
 words: Himno hebreo medieval, atribuido por tradición a Solomon ibn Gabirol (siglo XI)
 tune: Tradicional, marcada como "una melodía antigua" por Eliezer Gerovitsch (1844 a 1913 o 1914), que la armonizó
@@ -10,19 +10,19 @@ alsoKnownAs: Adon 'Olam, Adon Olom, Lord of the World
 wikidata: Q366059
 quote: Beyado afkid ruchi, b'et ishan veaira.
 quoteSource: sefaria
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: adon olam significado | adon olam traducción | quién escribió adon olam | adon olam historia | adon olam asher malach significado | adon olam melodía
-translatedFrom: c38d599189d7
-original: Gerovitsch, Schirej Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
+translatedFrom: fa9348b7b4b0
+original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
 Adon Olam, "Señor del mundo", es un himno hebreo sobre Hashem, que reinaba antes de que nada fuera creado y reinará solo cuando todo haya desaparecido.[^sefaria] Está en los dos extremos de las oraciones de la mañana. Se imprime al comienzo del oficio diario, y al cierre del oficio de la mañana del sabbat y de las fiestas muchas congregaciones lo cantan juntas.[^je][^ej][^posen] Sus últimos versos ponen el espíritu de quien canta en la mano de Hashem, "cuando duermo y cuando despierto", así que también es una oración de la noche: se dice antes de dormir y junto a quien se está muriendo.[^abrahams][^ej][^je]
 
 ## De dónde viene
 
-**La letra.** Nadie sabe quién escribió Adon Olam, ni cuándo. La Jewish Encyclopedia de 1901 dice solo que su fecha y su autor son desconocidos.[^je][^etzion] La tradición se lo atribuye a Solomon ibn Gabirol, el poeta judío español del siglo XI, y algunos estudiosos han sostenido que lo escribió él, pero ningún documento lo prueba.[^abrahams][^ej][^etzion][^jegab] Israel Abrahams, en su guía del libro de oraciones inglés, lo situó en la época de los Geonim, las principales autoridades judías de Oriente en la Edad Media, y señaló que se había atribuido a varios de ellos además de a Gabirol. La Encyclopaedia Judaica admite que puede ser mucho más antiguo que Gabirol y venir de Babilonia.[^abrahams][^ej]
+**La letra.** Nadie sabe quién escribió Adon Olam, ni cuándo. La Jewish Encyclopedia de 1901 dice solo que su fecha y su autor son desconocidos.[^je][^etzion] La tradición se lo atribuye a Solomon ibn Gabirol, el poeta judío español del siglo XI,[^jegab] y algunos estudiosos han sostenido que lo escribió él, pero ningún documento lo prueba.[^abrahams][^ej][^etzion] Israel Abrahams, en su guía del libro de oraciones inglés, lo situó en la época de los Geonim, las principales autoridades judías de Oriente en la Edad Media, y señaló que se había atribuido a varios de ellos además de a Gabirol. La Encyclopaedia Judaica admite que puede ser mucho más antiguo que Gabirol y venir de Babilonia.[^abrahams][^ej]
 
 Lo que es seguro es su forma. La Jewish Encyclopedia lo llama "uno de los pocos himnos estrictamente métricos de la liturgia judía", y sus sílabas siguen un patrón regular, una breve seguida de tres largas.[^je][^ej][^abrahams] Todos los versos terminan con el mismo sonido, -ra: nivra, nikra, nora, y así hasta la última palabra, ira.[^abrahams][^sefaria] Los libros de oraciones no coinciden en su extensión. Los libros asquenazíes imprimen diez versos, según la cuenta de la Jewish Encyclopedia, aunque la Encyclopaedia Judaica dice doce. Los sefardíes tienen más: dos o más versos de más según Abrahams, doce según la Jewish Encyclopedia y dieciséis según la Encyclopaedia Judaica.[^je][^abrahams][^ej][^etzion][^sefaria]
 
@@ -30,7 +30,7 @@ Lo que es seguro es su forma. La Jewish Encyclopedia lo llama "uno de los pocos 
 
 ![[1]]
 
-Su Schirej Tefilah, cantos para la sinagoga, se imprimió en Rostov, y la edición que leemos, que Zemereshet llama la segunda, está fechada en 1897.[^hujicat][^zemer] Su segunda parte, para el sabbat y las tres fiestas de peregrinación, trae Adon Olam como n.º 16, en las páginas 89 y 90. Empieza con una sección de ocho compases en Re menor para cuatro voces, soprano, contralto, tenor y bajo, y en el encabezamiento Gerovitsch escribió "A. W.", por alte Weise, "melodía antigua". Tras esa sección, la obra sigue con una música que parece suya, empezando por un recitativo para el tenor.[^zemer]
+Su Shirei Tefilah (Sinagogen-Gesänge), cantos para la sinagoga, se imprimió en Rostov, y la edición que leemos, que Zemereshet llama la segunda, está fechada en 1897.[^ubffm][^zemer] Su segunda parte, para el sabbat y las tres fiestas de peregrinación, trae Adon Olam como n.º 16, en las páginas 89 y 90.[^ubffm][^zemer] Empieza con una sección de ocho compases en Re menor para cuatro voces, soprano, contralto, tenor y bajo, y en el encabezamiento Gerovitsch escribió "A. W.", por alte Weise, "melodía antigua". Tras esa sección, la obra sigue con una música que parece suya, empezando por un recitativo solista en el pentagrama del tenor, marcado "K. Recit.", seguramente para el cantor.[^ubffm]
 
 ![[2]]
 
@@ -42,9 +42,9 @@ Su Schirej Tefilah, cantos para la sinagoga, se imprimió en Rostov, y la edici�
 - 1622 a 1623: Salamone Rossi imprime en Venecia una versión a ocho voces, en sus Cantos de Salomón. [^ej][^imslp][^musicweb]
 - 1844: nace Eliezer Gerovitsch en Ucrania. [^ejger][^huji]
 - 1887: Gerovitsch se hace cantor en Rostov del Don. [^ejger][^huji]
-- 1897: una edición de su Schirej Tefilah fechada ese año, impresa en Rostov, encabeza su Adon Olam con "A. W.", una melodía antigua. [^zemer][^hujicat]
+- 1897: una edición de su Shirei Tefilah fechada ese año, impresa en Rostov, encabeza su Adon Olam con "A. W.", una melodía antigua. [^ubffm][^zemer]
 - 1913 o 1914: muere Gerovitsch; las fuentes no coinciden en el año. [^ejger][^huji]
-- 1976: Uzi Hitman escribe una nueva melodía para el octavo Festival de la Canción Jasídica; Zemereshet la llama la melodía más extendida de la última generación. [^zemer][^ice]
+- 1976: Uzi Hitman escribe una nueva melodía para el octavo Festival de la Canción Jasídica; Zemereshet la llama la melodía más extendida de la última generación. [^zemer][^ice][^fau]
 
 ## Qué dice la letra
 
@@ -66,17 +66,17 @@ El himno va de Hashem, más allá del tiempo, a la confianza de quien canta: Abr
 
 **Verso 8 (no se canta).** Él es mi estandarte y mi refugio, mi porción el día en que lo llamo.
 
-**Verso 9 (cantado).** En Su mano entrego mi espíritu, cuando duermo y cuando despierto. Afkid es "encomiendo", ruchi, "mi espíritu". Recuerdan el Salmo 31, "En tu mano pongo mi espíritu".[^ps31]
+**Verso 9 (cantado).** En Su mano encomiendo mi espíritu, cuando duermo y cuando despierto. Afkid es "encomiendo", ruchi, "mi espíritu". Recuerdan el Salmo 31, "En tu mano encomiendo mi espíritu".[^ps31]
 
 **Verso 10 (cantado).** Y con mi espíritu, también mi cuerpo. Hashem está conmigo; no temeré. Geviyati es "mi cuerpo". Las últimas palabras recuerdan el Salmo 118:6, donde el salmista, con Hashem de su parte, dice que no temerá.[^ps118][^barth]
 
 En el verso 10 el hebreo tiene el nombre de cuatro letras, y cantamos "Adoshem li", el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando los dicen fuera de la oración, por reverencia y para no pronunciar el nombre en vano, y una canción para practicar está fuera de la oración.[^ohr][^outorah]
 
-Gerovitsch imprimió la letra con la pronunciación asquenazí, "Adon olom ascher molach".[^zemer] Nosotros la cantamos con la pronunciación israelí moderna, sobre las mismas notas.
+Gerovitsch imprimió la letra con la pronunciación asquenazí, "Adon olom ascher molach".[^ubffm] Nosotros la cantamos con la pronunciación israelí moderna, sobre las mismas notas.
 
 ### La letra completa
 
-Estos son los diez versos tal como los imprime el libro de oraciones asquenazí, en el hebreo del Metsudah Siddur en Sefaria, cada verso partido en su coma.[^sefaria] La transliteración usa los nombres sustitutos: Keli por Eli en el verso 7, y Adoshem en el verso 10.
+Estos son los diez versos tal como los imprime el libro de oraciones asquenazí, en el hebreo del Metsudah Siddur en Sefaria, cada verso partido en su coma.[^sefaria] El hebreo y la transliteración dan los nombres de Hashem en las formas sustitutas que se acostumbran al cantar fuera de la oración: Keli en el verso 7 y Adoshem en el verso 10.
 
 **Versos 1 y 2**
 > אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
@@ -137,7 +137,7 @@ mi porción el día en que lo llamo.
 **Versos 9 y 10**
 > בְּיָדוֹ אַפְקִיד רוּחִי,
 *Beyado afkid ruchi*
-En Su mano entrego mi espíritu
+En Su mano encomiendo mi espíritu
 > בְּעֵת אִישַׁן וְאָעִֽירָה:
 *b'et ishan veaira.*
 cuando duermo y cuando despierto.
@@ -150,13 +150,13 @@ Hashem está conmigo; no temeré.
 
 ## Cómo se canta
 
-Adon Olam tiene dos lugares en el oficio. Se imprime al comienzo de las oraciones diarias de la mañana, y es más conocido al final.[^je][^ej][^sefaria] En 1901, la Jewish Encyclopedia contaba que los judíos sefardíes, y las sinagogas británicas en general, lo cantaban todos juntos al cierre de los oficios de la mañana del sabbat y de las fiestas, mientras que los judíos asquenazíes lo cantaban a menudo al cierre del oficio de la tarde en lugar del himno Yigdal.[^je] Hoy, dice la Encyclopaedia Judaica, su lugar principal es al cierre del Musaf, el oficio adicional que termina la mañana del sabbat y de las fiestas.[^ej] La Jewish Encyclopedia lo encontraba cantado casi en todas partes la víspera de Yom Kipur, y la Encyclopaedia Judaica lo sitúa al cierre del oficio de Kol Nidre de esa noche.[^je][^ej][^abrahams]
+Adon Olam tiene dos lugares en el oficio. Se imprime al comienzo de las oraciones diarias de la mañana, y es más conocido al final.[^je][^ej][^sefaria] En 1901, la Jewish Encyclopedia contaba que los judíos sefardíes, y las sinagogas británicas en general, lo cantaban todos juntos al cierre de los oficios de la mañana del sabbat y de las fiestas, mientras que los judíos asquenazíes lo cantaban a menudo al cierre del oficio de la noche en lugar del himno Yigdal.[^je] Hoy, dice la Encyclopaedia Judaica, su lugar principal es al cierre del Musaf, el oficio adicional que termina la mañana del sabbat y de las fiestas.[^ej] La Jewish Encyclopedia lo encontraba cantado casi en todas partes la víspera de Yom Kipur, y la Encyclopaedia Judaica lo sitúa al cierre del oficio de Kol Nidre de esa noche.[^je][^ej][^abrahams]
 
 ![[3]]
 
 También pertenece a la noche. Como el verso 9 habla de dormir y despertar, el estudioso Seligman Baer pensaba que en un principio se decía antes de dormir, y Abrahams lo veía muy probable. La Jewish Encyclopedia no estaba tan segura: quizá, decía, la belleza y la grandeza del himno lo llevaron al oficio, a su comienzo o a su cierre.[^je][^abrahams] Está entre las oraciones que se dicen antes de dormir, y se dice junto al lecho de quien se está muriendo.[^ej][^barth][^abrahams]
 
-Nuestro arreglo se basa en la página de Gerovitsch, en Re menor como está impresa, en 4/4. Cantamos solo la sección antigua, no la música que la sigue en su libro. La sección lleva dos versos del poema, cada verso en dos frases de la melodía, y se canta cuatro veces: versos 1 y 2, 3 y 4, 5 y 6, y 9 y 10. Al final de cada vuelta se sostiene el Re grave de la melodía antes de respirar. Los compases 1 y 2 y 5 a 8 conservan sus acordes y su bajo, con pequeños cambios para principiantes; los compases 3 y 4, donde las notas rápidas de su tenor se leen mal en la fotografía de su página, son nuestra propia disposición de las voces sobre sus acordes. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor.
+Nuestro arreglo se basa en la página de Gerovitsch, en Re menor como está impresa, en 4/4. Cantamos solo la sección antigua, no la música que la sigue en su libro. La sección lleva dos versos del poema, cada verso en dos frases de la melodía, y se canta cuatro veces: versos 1 y 2, 3 y 4, 5 y 6, y 9 y 10. Al final de cada vuelta se sostiene el Re grave de la melodía antes de respirar. Los compases 1 y 2 y 5 a 8 conservan sus acordes y su bajo, con pequeños cambios para principiantes; los compases 3 y 4, donde las notas rápidas de su tenor se leían mal en la primera fotografía con la que trabajamos, son nuestra propia disposición de las voces sobre sus acordes. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor.
 
 ## Versiones y otras letras
 
@@ -169,9 +169,9 @@ Salamone Rossi incluyó una versión a ocho voces en su colección de cantos heb
 ## Cómo cantarla
 
 - [Soprano](/songs/adon-olam/soprano): la melodía antigua; sus notas más frecuentes son La y luego Re. Una vez en cada vuelta salta a su Mi agudo, en "b'terem", "levado", "lehamshilo" e "ishan", donde empieza la segunda frase, y baja paso a paso a su Re grave al final de la primera y la última frase de cada vuelta.
-- [Contralto](/songs/adon-olam/alto): casi siempre una tercera o una sexta bajo la melodía. Escucha el final de la primera y la última frase, en "malach," o "nikra.": la melodía baja Fa, Mi, Re mientras la contralto sube Re, Mi, Fa, así que las dos se cruzan y la contralto termina una tercera por encima. Escucha la contralto sola en el reproductor para oírlo.
+- [Contralto](/songs/adon-olam/alto): casi siempre una tercera o una sexta bajo la melodía. Escucha el final de la primera y la última frase, en "malach," o "nikra.": la melodía baja Fa, Mi, Re mientras la contralto sube Re, Mi, Fa, así que las dos se cruzan y la contralto termina una tercera por encima. Pon la contralto sola en el reproductor para oírlo.
 - [Tenor](/songs/adon-olam/tenor): el centro del acorde; sus notas más frecuentes son La y luego Do. Abre cada vuelta en su Re agudo, en "Adon olam", "Veacharei", "Vehu echad" y "Beyado", y baja a su Fa grave en la tercera frase, en "naasa" y "vecheftzo" la primera vez.
-- [Bajo](/songs/adon-olam/bass): la línea del bajo; sus notas más frecuentes son Re y luego La. Llega a su Fa agudo donde empieza la segunda frase, en "b'terem", "levado", "lehamshilo" y "b'et", y baja una octava hasta su Fa grave en la última frase, en "melech", "yihye", "haoz" y "li".
+- [Bajo](/songs/adon-olam/bass): la línea del bajo; sus notas más frecuentes son Re y luego La. Llega a su Fa agudo donde empieza la segunda frase, en "b'terem", "levado", "lehamshilo" y "b'et", y baja a su Fa grave, una octava por debajo, en la última frase, en "melech", "yihye", "haoz" y "li".
 
 ## Preguntas
 
@@ -189,7 +189,7 @@ La soprano canta la melodía antigua de principio a fin, cuatro veces, una por c
 
 ## Canta después
 
-- [Ein Keloheinu](/songs/ein-keloheinu): otro himno del cierre del oficio de la mañana del sabbat, cuya melodía también se imprimió para un coro de sinagoga en el siglo XIX.
+- [Ein Keloheinu](/songs/ein-keloheinu): otro himno del cierre del oficio de la mañana del sabbat, cuya melodía también se imprimió a cuatro voces en un himnario de sinagoga estadounidense de 1897.
 - [Lecha Dodi](/songs/lecha-dodi): el himno que recibe al sabbat el viernes por la noche, la víspera del oficio de la mañana que cierra Adon Olam.
 - [Tzur Mishelo](/songs/tzur-mishelo): una canción de mesa del sabbat en tonalidad menor, un buen siguiente paso en hebreo.
 
@@ -203,13 +203,14 @@ La soprano canta la melodía antigua de principio a fin, cuatro veces, una por c
 - [^posen]: "Adon Olam Prayer to a Tune from the Musical Hamilton", *The Posen Library of Jewish Culture and Civilization* (2016). https://www.posenlibrary.com/node/12052
 - [^ejger]: Joshua Leib Ne'eman, "Gerovich, Eliezer Mordecai ben Isaac", *Encyclopaedia Judaica*, 2.ª ed. (Macmillan Reference USA, 2007), en Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gerovich-eliezer-mordecai-ben-isaac
 - [^huji]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Eliezer Mordecai Ben Isaac Gerovich". https://jewish-music.huji.ac.il/en/content/eliezer-mordecai-ben-isaac-gerovich
-- [^hujicat]: Jewish Music Research Centre, Hebrew University of Jerusalem, ficha de catálogo "Synagogen Gesänge (Schire Tefilla)" (Rostov-on-Don, 1897). https://jewish-music.huji.ac.il/en/content/synagogen-ges%25C3%25A4nge%25E2%2580%258E-schire-tefilla
+- [^ubffm]: Eliezer Gerovitsch, *Sinagogen-Gesänge für Cantor und gemischten Chor (Shirei Tefilah)*, 2.ª edición (Rostov-on-Don: Adler, 1897), parte II, n.º 16, pp. 89 a 90, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main, colección Freimann, urn:nbn:de:hebis:30:1-131852, imagen 1355382. https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 - [^iemj]: European Institute of Jewish Music, "Gerovitch, Eliezer (1844-1914)". https://iemj.org/en/gerovitch-eliezer-1844-1914
-- [^zemer]: Zemereshet, "Adon olam (the tune Gerovitsch spread)" (en hebreo), con fotografías de Eliezer Gerovitsch, *Schirej Tefilah*, parte II, 2.ª edición (Rostov-on-Don, 1897), n.º 16, pp. 89 a 90. https://www.zemereshet.co.il/song.asp?id=14156
+- [^zemer]: Zemereshet, "Adon olam (the tune Gerovitsch spread)" (en hebreo), con fotografías de Eliezer Gerovitsch, *Shirei Tefilah*, parte II, 2.ª edición (Rostov-on-Don, 1897), n.º 16, pp. 89 a 90. https://www.zemereshet.co.il/song.asp?id=14156
 - [^ice]: redacción de ice, "Soundtrack of a Nation: 5 facts you didn't know about Uzi Hitman" (en hebreo), *ice* (10 de junio de 2026). https://www.ice.co.il/local-news/news/article/1116312
+- [^fau]: Florida Atlantic University Libraries, Recorded Sound Archives, "The Eighth Chassidic Song Festival 1976" (album record). https://rsa.fau.edu/album/41142
 - [^imslp]: IMSLP, "Hashirim asher leSholomo (Rossi, Salamone)", primera edición (Venice: Pietro and Lorenzo Bragadino, 1622 a 1623), escaneos de los libros de partes. https://imslp.org/wiki/Hashirim_asher_leSholomo_(Rossi,_Salamone)
 - [^musicweb]: Johan van Veen, reseña de una grabación de *Hashirim Asher Lishlomo* de Salamone Rossi, *MusicWeb International* (enero de 2013). https://musicweb-international.com/classrev/2013/Jan13/Rossi_Solomon_MC117.htm
-- [^ps31]: Salmo 31:6, *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt2631.htm
+- [^ps31]: Salmo 31:6, *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), en Mechon Mamre; las citas en español, de la Reina-Valera de 1909 (Salmos 31:5). https://mechon-mamre.org/p/pt/pt2631.htm
 - [^ps118]: Salmo 118:6, *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), en Mechon Mamre. https://mechon-mamre.org/p/pt/pt26b8.htm
 - [^barth]: Samuel Barth, "In God's Hand I Place My Soul (Part 1)", *Torah from JTS*, Jewish Theological Seminary (27 de febrero de 2013). https://www.jtsa.edu/?p=3798
 - [^etzion]: Benny Gesundheit, "Adon Olam" (en hebreo), *Alon Shevut Bogrim* 20, lección 7 (Yeshivat Har Etzion, 2016). https://www.etzion.org.il/he/halakha/orach-chaim/prayer-and-blessings/%D7%90%D7%93%D7%95%D7%9F-%D7%A2%D7%95%D7%9C%D7%9D

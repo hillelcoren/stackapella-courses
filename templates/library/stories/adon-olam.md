@@ -10,18 +10,18 @@ alsoKnownAs: Adon 'Olam, Adon Olom, Lord of the World
 wikidata: Q366059
 quote: Beyado afkid ruchi, b'et ishan veaira.
 quoteSource: sefaria
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: adon olam meaning | adon olam meaning in english | who wrote adon olam | adon olam history | adon olam asher malach meaning | adon olam melody | adon olam song
-original: Gerovitsch, Schirej Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
+original: Gerovitsch, Shirei Tefilah, p. 89, UB Frankfurt | https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 ---
 
 Adon Olam, "Lord of the world", is a Hebrew hymn about Hashem, who reigned before anything was made and will reign alone when everything is gone.[^sefaria] It stands at both ends of the morning prayers. It is printed at the start of the daily service, and at the close of the Sabbath and festival morning service many congregations sing it together.[^je][^ej][^posen] Its last lines put the singer's spirit into Hashem's hand, "when I sleep and when I wake", so it is a night prayer too: it is said at bedtime and beside the dying.[^abrahams][^ej][^je]
 
 ## Where it comes from
 
-**The words.** Nobody knows who wrote Adon Olam, or when. The Jewish Encyclopedia of 1901 says only that its date and author are unknown.[^je][^etzion] It is traditionally credited to Solomon ibn Gabirol, the Spanish Jewish poet of the eleventh century, and some scholars have held that he wrote it, but no record proves it.[^abrahams][^ej][^etzion][^jegab] Israel Abrahams, in his companion to the English prayer book, set it in the age of the Geonim, the leading Jewish authorities of the East in the Middle Ages, and noted that it had been credited to several of them as well as to Gabirol. The Encyclopaedia Judaica allows that it may be much older than Gabirol and come from Babylonia.[^abrahams][^ej]
+**The words.** Nobody knows who wrote Adon Olam, or when. The Jewish Encyclopedia of 1901 says only that its date and author are unknown.[^je][^etzion] It is traditionally credited to Solomon ibn Gabirol, the Spanish Jewish poet of the eleventh century,[^jegab] and some scholars have held that he wrote it, but no record proves it.[^abrahams][^ej][^etzion] Israel Abrahams, in his companion to the English prayer book, set it in the age of the Geonim, the leading Jewish authorities of the East in the Middle Ages, and noted that it had been credited to several of them as well as to Gabirol. The Encyclopaedia Judaica allows that it may be much older than Gabirol and come from Babylonia.[^abrahams][^ej]
 
 What is certain is its form. The Jewish Encyclopedia calls it "one of the few strictly metrical hymns in the Jewish liturgy", and its syllables fall in a steady pattern, one short followed by three long.[^je][^ej][^abrahams] Every line ends on the same sound, -ra: nivra, nikra, nora, and on to the last word, ira.[^abrahams][^sefaria] Prayer books do not agree on its length. Ashkenazi prayer books print ten lines, as the Jewish Encyclopedia counts them, though the Encyclopaedia Judaica says twelve. Sephardi books have more: two or more extra lines in Abrahams's count, twelve in the Jewish Encyclopedia's and sixteen in the Encyclopaedia Judaica's.[^je][^abrahams][^ej][^etzion][^sefaria]
 
@@ -29,7 +29,7 @@ What is certain is its form. The Jewish Encyclopedia calls it "one of the few st
 
 ![[1]]
 
-His Schirej Tefilah, songs for the synagogue, was printed in Rostov, and the edition we read from, which Zemereshet calls the second, is dated 1897.[^hujicat][^zemer] Its second part, for the Sabbath and the three pilgrim festivals, has Adon Olam as No. 16, on pages 89 and 90. It opens with an eight-bar strain in D minor for four voices, soprano, alto, tenor and bass, and in its heading Gerovitsch wrote "A. W.", for alte Weise, "old tune". After the strain the setting goes on in music that seems to be his own, beginning with a recitative for the tenor.[^zemer]
+His Shirei Tefilah (Sinagogen-Gesänge), songs for the synagogue, was printed in Rostov, and the edition we read from, which Zemereshet calls the second, is dated 1897.[^ubffm][^zemer] Its second part, for the Sabbath and the three pilgrim festivals, has Adon Olam as No. 16, on pages 89 and 90.[^ubffm][^zemer] It opens with an eight-bar strain in D minor for four voices, soprano, alto, tenor and bass, and in its heading Gerovitsch wrote "A. W.", for alte Weise, "old tune". After the strain the setting goes on in music that seems to be his own, beginning with a solo recitative on the tenor's staff, marked "K. Recit.", most likely for the cantor.[^ubffm]
 
 ![[2]]
 
@@ -41,9 +41,9 @@ His Schirej Tefilah, songs for the synagogue, was printed in Rostov, and the edi
 - 1622 to 1623: Salamone Rossi prints an eight-voice setting in Venice, in his Songs of Solomon. [^ej][^imslp][^musicweb]
 - 1844: Eliezer Gerovitsch is born in Ukraine. [^ejger][^huji]
 - 1887: Gerovitsch becomes cantor in Rostov-on-Don. [^ejger][^huji]
-- 1897: an edition of his Schirej Tefilah dated this year, printed in Rostov, heads its Adon Olam "A. W.", an old tune. [^zemer][^hujicat]
+- 1897: an edition of his Shirei Tefilah dated this year, printed in Rostov, heads its Adon Olam "A. W.", an old tune. [^ubffm][^zemer]
 - 1913 or 1914: Gerovitsch dies; the sources differ on the year. [^ejger][^huji]
-- 1976: Uzi Hitman writes a new tune for the eighth Hasidic Song Festival; Zemereshet calls it the most widespread tune of the last generation. [^zemer][^ice]
+- 1976: Uzi Hitman writes a new tune for the eighth Hasidic Song Festival; Zemereshet calls it the most widespread tune of the last generation. [^zemer][^ice][^fau]
 
 ## What the words mean
 
@@ -71,11 +71,11 @@ The hymn moves from Hashem beyond time to the singer's own trust: Abrahams saw i
 
 In line 10 the Hebrew has the four-letter name, and we sing "Adoshem li", the substituted name customary when singing outside prayer. Many Jews change Hashem's names when they say them outside prayer, out of reverence and to avoid taking the name in vain, and a practice song is outside prayer.[^ohr][^outorah]
 
-Gerovitsch printed the words in the Ashkenazi pronunciation, "Adon olom ascher molach".[^zemer] We sing them in modern Israeli pronunciation, on the same notes.
+Gerovitsch printed the words in the Ashkenazi pronunciation, "Adon olom ascher molach".[^ubffm] We sing them in modern Israeli pronunciation, on the same notes.
 
 ### The full words
 
-These are the ten lines as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria, each line split at its comma.[^sefaria] The transliteration uses the substituted names: Keli for Eli in line 7, and Adoshem in line 10.
+These are the ten lines as the Ashkenazi prayer book prints them, in the Hebrew of the Metsudah Siddur on Sefaria, each line split at its comma.[^sefaria] The Hebrew and the transliteration both give Hashem's names in the substitute forms customary when singing outside prayer: Keli in line 7 and Adoshem in line 10.
 
 **Lines 1 and 2**
 > אֲדוֹן עוֹלָם אֲשֶׁר מָלַךְ,
@@ -155,7 +155,7 @@ Adon Olam has two homes in the service. It is printed at the start of the daily 
 
 It also belongs to the night. Because line 9 speaks of sleeping and waking, the scholar Seligman Baer thought it was first meant to be said before going to sleep, and Abrahams thought that very likely. The Jewish Encyclopedia was not so sure: perhaps, it said, the hymn's beauty and grandeur brought it into the service, at its start or its close.[^je][^abrahams] It stands among the prayers said at bedtime, and it is said at the bedside of the dying.[^ej][^barth][^abrahams]
 
-Our arrangement is read from Gerovitsch's page, in D minor as printed, in 4/4. We sing only the old strain, not the music that follows it in his book. The strain carries two lines of the poem, each line two phrases of the tune, and it is sung four times: lines 1 and 2, 3 and 4, 5 and 6, and 9 and 10. At the end of each time through, the tune's low D is held before a breath. Bars 1 and 2 and 5 to 8 keep his chords and bass, with small changes for beginners; bars 3 and 4, where his tenor's quick notes are hard to read in the photograph of his page, are our own voicing over his chords. With two singers it is soprano and alto, with three the bass joins, and with four the tenor.
+Our arrangement is read from Gerovitsch's page, in D minor as printed, in 4/4. We sing only the old strain, not the music that follows it in his book. The strain carries two lines of the poem, each line two phrases of the tune, and it is sung four times: lines 1 and 2, 3 and 4, 5 and 6, and 9 and 10. At the end of each time through, the tune's low D is held before a breath. Bars 1 and 2 and 5 to 8 keep his chords and bass, with small changes for beginners; bars 3 and 4, where his tenor's quick notes were hard to read in the first photograph we worked from, are our own voicing over his chords. With two singers it is soprano and alto, with three the bass joins, and with four the tenor.
 
 ## Versions and other words
 
@@ -170,7 +170,7 @@ Salamone Rossi included a setting for eight voices in his collection of Hebrew s
 - [Soprano](/songs/adon-olam/soprano): the old tune, most often on A, then D. Once each time through it leaps up to its top E, on "b'terem", "levado", "lehamshilo" and "ishan", where the second phrase begins, and it walks down to its low D at the end of the first and last phrases each time through.
 - [Alto](/songs/adon-olam/alto): mostly a third or a sixth under the tune. Listen at the end of the first and last phrases, on "malach," or "nikra.": the tune falls F, E, D while the alto climbs D, E, F, so the two cross and the alto ends a third above it. Solo the alto in the player to hear it.
 - [Tenor](/songs/adon-olam/tenor): the middle of the chord, most often on A, then C. It opens each time through on its top D, on "Adon olam", "Veacharei", "Vehu echad" and "Beyado", and sinks to its low F in the third phrase, on "naasa" and "vecheftzo" the first time.
-- [Bass](/songs/adon-olam/bass): the bass line, most often on D, then A. It reaches its top F where the second phrase begins, on "b'terem", "levado", "lehamshilo" and "b'et", and drops an octave to its low F in the last phrase, on "melech", "yihye", "haoz" and "li".
+- [Bass](/songs/adon-olam/bass): the bass line, most often on D, then A. It reaches its top F where the second phrase begins, on "b'terem", "levado", "lehamshilo" and "b'et", and goes down to its low F, an octave under it, in the last phrase, on "melech", "yihye", "haoz" and "li".
 
 ## Questions
 
@@ -188,7 +188,7 @@ The soprano sings the old tune all the way through, four times, once for each pa
 
 ## Sing next
 
-- [Ein Keloheinu](/songs/ein-keloheinu): another hymn from the close of the Sabbath morning service, its tune also printed for a synagogue choir in the nineteenth century.
+- [Ein Keloheinu](/songs/ein-keloheinu): another hymn from the close of the Sabbath morning service, its tune also printed in four parts in an American synagogue hymnal of 1897.
 - [Lecha Dodi](/songs/lecha-dodi): the hymn that welcomes the Sabbath on Friday night, the evening before the morning service Adon Olam closes.
 - [Tzur Mishelo](/songs/tzur-mishelo): a Sabbath table song in a minor key, a good next step in Hebrew.
 
@@ -202,10 +202,11 @@ The soprano sings the old tune all the way through, four times, once for each pa
 - [^posen]: "Adon Olam Prayer to a Tune from the Musical Hamilton", *The Posen Library of Jewish Culture and Civilization* (2016). https://www.posenlibrary.com/node/12052
 - [^ejger]: Joshua Leib Ne'eman, "Gerovich, Eliezer Mordecai ben Isaac", *Encyclopaedia Judaica*, 2nd ed. (Macmillan Reference USA, 2007), via Encyclopedia.com. https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gerovich-eliezer-mordecai-ben-isaac
 - [^huji]: Jewish Music Research Centre, Hebrew University of Jerusalem, "Eliezer Mordecai Ben Isaac Gerovich". https://jewish-music.huji.ac.il/en/content/eliezer-mordecai-ben-isaac-gerovich
-- [^hujicat]: Jewish Music Research Centre, Hebrew University of Jerusalem, catalogue entry "Synagogen Gesänge (Schire Tefilla)" (Rostov-on-Don, 1897). https://jewish-music.huji.ac.il/en/content/synagogen-ges%25C3%25A4nge%25E2%2580%258E-schire-tefilla
+- [^ubffm]: Eliezer Gerovitsch, *Sinagogen-Gesänge für Cantor und gemischten Chor (Shirei Tefilah)*, 2nd edition (Rostov-on-Don: Adler, 1897), part II, No. 16, pp. 89 to 90, Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main, Freimann collection, urn:nbn:de:hebis:30:1-131852, image 1355382. https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/1355382
 - [^iemj]: European Institute of Jewish Music, "Gerovitch, Eliezer (1844-1914)". https://iemj.org/en/gerovitch-eliezer-1844-1914
-- [^zemer]: Zemereshet, "Adon olam (the tune Gerovitsch spread)" (in Hebrew), with photographs of Eliezer Gerovitsch, *Schirej Tefilah*, part II, 2nd edition (Rostov-on-Don, 1897), No. 16, pp. 89 to 90. https://www.zemereshet.co.il/song.asp?id=14156
+- [^zemer]: Zemereshet, "Adon olam (the tune Gerovitsch spread)" (in Hebrew), with photographs of Eliezer Gerovitsch, *Shirei Tefilah*, part II, 2nd edition (Rostov-on-Don, 1897), No. 16, pp. 89 to 90. https://www.zemereshet.co.il/song.asp?id=14156
 - [^ice]: ice editorial staff, "Soundtrack of a Nation: 5 facts you didn't know about Uzi Hitman" (in Hebrew), *ice* (10 June 2026). https://www.ice.co.il/local-news/news/article/1116312
+- [^fau]: Florida Atlantic University Libraries, Recorded Sound Archives, "The Eighth Chassidic Song Festival 1976" (album record). https://rsa.fau.edu/album/41142
 - [^imslp]: IMSLP, "Hashirim asher leSholomo (Rossi, Salamone)", first edition (Venice: Pietro and Lorenzo Bragadino, 1622 to 1623), part-book scans. https://imslp.org/wiki/Hashirim_asher_leSholomo_(Rossi,_Salamone)
 - [^musicweb]: Johan van Veen, review of a recording of Salamone Rossi's *Hashirim Asher Lishlomo*, *MusicWeb International* (January 2013). https://musicweb-international.com/classrev/2013/Jan13/Rossi_Solomon_MC117.htm
 - [^ps31]: Psalm 31:6, *The Holy Scriptures according to the Masoretic Text* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt2631.htm

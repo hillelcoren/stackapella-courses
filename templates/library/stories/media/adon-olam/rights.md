@@ -3,7 +3,7 @@
 Checked 2026-11-13. Originals in raw/; finals made with sips only (BMP round trip strips metadata; crops with
 sips -c and --cropOffset on the BMP, then -Z 1600 to JPEG at quality 82). Every final was opened and looked at.
 
-## 1.jpg and 2.jpg: Gerovitsch, Schirej Tefilah / Sinagogen-Gesänge, 2nd ed. (Rostov-on-Don, 1897)
+## 1.jpg and 2.jpg: Gerovitsch, Shirei Tefilah / Sinagogen-Gesänge, 2nd ed. (Rostov-on-Don, 1897)
 
 - Item: "Sinagogen-Gesänge : für Cantor und gemischten Chor; le-yamim noraʼim / componirt von Elieser ben Jizchok
   Gerovitsch", Titel-Übersetzung "Shire tefilah", Erschienen "Rostow am Don : Adlerʹ, 1897", Ausgabe "[Partitur], 2.
