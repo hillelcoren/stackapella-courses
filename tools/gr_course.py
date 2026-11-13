@@ -152,8 +152,8 @@ def gr_1_stairs():
         "steps": [
             learn("A run is a few notes on one syllable, each one clean, like stairs. The spirituals were made by enslaved Black Americans as sacred songs, and gospel grew from them in Black churches: here a run serves the word.",
                   [("One syllable", "Several clean notes"), ("One run a line", "On a held word; the tune comes first"), ("Light", SAFETY)]),
-            play("Hum the run slowly, la, so, mi, re, do.", {"tempo": TEMPO, "notes": hum, "turn": False, "chords": chords((0, -7, "maj"), (2, -12, "maj"))}, None, kind="try"),
-            play("Now \"A-men\": the run on \"A-\", landing on do as the chord comes home.", five_stairs(keep="gr.first-run", generous=True), CLEAN),
+            play("Hum the run slowly: five notes stepping down to do, the home note (la, so, mi, re, do). Each waits until you find it.", {"tempo": TEMPO, "notes": hum, "turn": False, "chords": chords((0, -7, "maj"), (2, -12, "maj"))}, None, kind="try"),
+            play("Now \"A-men\": the run on \"A-\", landing \"men\" on do. With headphones, you'll hear the chord come home under it.", five_stairs(keep="gr.first-run", generous=True), CLEAN),
         ],
     }
 

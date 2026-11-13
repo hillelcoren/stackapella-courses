@@ -203,11 +203,11 @@ def sc_1_trade():
         "id": "sc-1-trade", "title": EN("Trade with the band"), "strictness": "relaxed",
         "fact": fact("redman-scat-1924", "Louis Armstrong wasn't the first to scat in Fletcher Henderson's band: Don Redman scatted on its record of \"My Papa Doesn't Two-Time No Time\" in April 1924, before Armstrong joined.", "Discography of American Historical Recordings, UC Santa Barbara Library, Columbia 126-D (with audio)", "https://adp.library.ucsb.edu/index.php/objects/detail/193030/Columbia_126-D", ["lmcys-slow-start"]),
         "steps": [
-            learn("Scat is singing like a horn on syllables. The band plays a call; you answer it. No wrong notes here: where you choose, every lit note fits.",
-                  [("The call", "Two bars from the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any lit note: one that sounds at rest")]),
-            play("Echo one call, its syllables written out.", exercise(try_notes, try_names), None, kind="try"),
-            play(f"Four trades. End each on any lit note, a different one each time if you like. {SAFETY}",
-                 first_trades(keep="sc.first-trade", generous=True), LANDED, rhythm="swing"),
+            learn("Scat is singing like a horn on syllables. The guide sings a call over the band; you sing it back. No wrong notes here: where you choose, any of the stacked notes fits.",
+                  [("The call", "Two bars, sung over the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any of the stacked notes: each sounds at rest")]),
+            play("One call, a note at a time, on its syllables: doo, bah, doo, bah, doo, bah, doo. Each note waits until you're on it.", exercise(try_notes, try_names), None, kind="try"),
+            play(f"Four trades: hear each call, then sing it back. End each on any of the stacked notes, a different one each time if you like. {SAFETY}",
+                 first_trades(keep="sc.first-trade", generous=True), "Scored on your notes on pitch and in time with the swung beat, and on ending each trade on one of the stacked notes.", rhythm="swing"),
         ],
     }
 

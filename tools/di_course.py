@@ -111,13 +111,13 @@ def di_1_heard():
         "id": "di-1-heard", "title": EN("Be heard"), "strictness": "relaxed",
         "fact": fact("trent-words-understood", "In 1562 a draft canon at the Council of Trent asked that church singing be made \"not to give empty pleasure to the ear, but in such a way that the words be clearly understood by all\".", "University of Richmond, Palestrina: texts from Lockwood's Pope Marcellus Mass (1975)", "https://facultystaff.richmond.edu/~jriehl/local/Choral_Music_Creed/palestrina.html"),
         "steps": [
-            learn("Diction is being understood. The note lives on the vowel. Sing Amazing Grace's first line as you normally would.",
-                  [("Just sing it", "As you normally would"), ("Then again", "With one change"), ("Hear both", "Side by side")]),
-            play("\"Amazing grace, how sweet the sound\", as you'd normally sing it.", first_line(keep="di.first-line", generous=True), PITCH),
-            learn("Now the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click, no breathy h.",
+            learn("Diction is being understood. The note lives on the vowel, the sound you hold. First, sing Amazing Grace's first line as you normally would.",
+                  [("Just sing it", "As you normally would"), ("Then again", "With one change"), ("Hear both", "Side by side, at this unit's end")]),
+            play("\"Amazing grace, how sweet the sound\", as you'd normally sing it. Nothing plays under you: follow the notes, and your voice shows as a dot.", first_line(keep="di.first-line", generous=True), PITCH),
+            learn("Now sing it so the words carry: the stressed vowels full and pure, a-MA-zing, the small words light: \"the\" is just \"thuh\". Start \"Amazing\" easily: no click in your throat, no breathy h.",
                   [("Stressed vowels full", "a-MA-zing, SOUND"), ("Small words light", "\"the\" as \"thuh\""), ("An easy start", "No click, no h")]),
             play("The same line again, stressed vowels full, small words light.", first_line(), PITCH),
-            selfcheck("Once more, just \"Amazing\", then hear yours.", model, ["Did \"Amazing\" start cleanly, without a click?", "Was \"the\" light?"]),
+            selfcheck("Hear \"Amazing\" sung, sing it once, then play yours back.", model, ["Did \"Amazing\" start cleanly, without a click?", "Was \"MA\" full and pure?"]),
         ],
     }
 

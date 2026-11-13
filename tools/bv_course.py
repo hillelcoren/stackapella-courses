@@ -355,16 +355,16 @@ def first_two(line, to):
 
 UNIT1 = {"id": "bv-oohs-and-aahs", "title": EN("Oohs and aahs"), "colour": COLOUR, "lessons": [
     lesson("1-pad", "A pad", [
-        learn("A pad is one held \"oo\" under the tune. Yours: do, and ti when the chord moves to so.", [
+        learn("A pad is one held \"oo\" under the tune. Yours is do, the home note, then ti, the note just below it, when the chord changes.", [
             ("Softer than the tune", f"Easy volume; {SAFE}"),
             ("Hold still while the tune moves", "Your note stays put; the tune passes over it"),
             HEADPHONES,
         ], "harmony"),
         wait_for_me("Find each pad note: do, ti, do. Each waits until you're on it.", L("0:2 0, 2:2 -1, 4:2 0"), GRACE.tempo),
-        play("The first two lines over the chords alone: a soft \"oo\" on do, then ti as the chord moves. Breathe where the tune would; a quick breath mid-note is fine.",
+        play("The first two lines over the chords alone: a soft \"oo\" on do, then ti as the chord moves. Breathe in the short rests; a quick breath mid-note is fine.",
              first_two(FIRST_PAD, 24), GRACE.tempo, "Scored on your pad's notes on pitch. The ring shows how well each one locks to the chord.",
              chords=GRACE.chords_at(*G_TWO), tuning=True),
-        play("Now the whole verse, the tune coming in quietly over you. Rest where the tune breathes. Your first pad is kept for the course's last lesson.",
+        play("Now the whole verse, the tune coming in quietly over you. Rest where the tune breathes. Your first pad is kept on this device for the course's last lesson.",
              FIRST_PAD, GRACE.tempo, "Scored on your pad's notes on pitch, under the tune.",
              chords=GRACE.chords_at(*G_VERSE), lead=GRACE.lead(*G_VERSE, volume=QUIET), keep=KEEP),
     ]),

@@ -98,10 +98,10 @@ def acb_1_root():
         "steps": [
             learn("The bass sings the chord's root, the note it's named after, and the whole group stands on it. Listen: a chord with no floor, then with one.",
                   [("The root", "The note at the bottom of the chord"), ("Under the group", "Three voices above, you underneath"), ("Low and easy", SAFETY)], hear),
-            play("Sing the four chords' roots on \"doo\", with the guide bass singing along. Just try it.", line, None, kind="try"),
-            play(f"Now on your own: hear the line, then sing it under the group. {SHORT_SAFETY}",
+            play("Find the four chords' roots on \"doo\": each plays, then waits until you're on it. Just try it.", line, None, kind="try"),
+            play(f"Now hear the line with the group, then sing it back on your own. {SHORT_SAFETY}",
                  dict(line, turn=True, keep="acb.first-line", generous=True),
-                 "Scored on your notes on pitch. Listen back: does the chord sound solid now?"),
+                 "Scored on your notes on pitch. Listen back: are your low notes easy and steady?"),
         ],
     }
 

@@ -270,7 +270,7 @@ UNIT1 = {
             ], listen=hear([0, 1], others=True)),
             learn(T["hear"][0], T["hear"][1], listen=hear([0, 1]), by_part=T["hear_by"]),
             wait_for_me("Find the notes of line 1: each one waits until you're on it.", [0]),
-            sing("Sing lines 1 and 2 with the guide and the other parts around you.", [0, 1], others=True, generous=True, keep="choir-part.first",
+            sing("Sing lines 1 and 2. With headphones, the guide and the other parts sing around you.", [0, 1], others=True, generous=True, keep="choir-part.first",
                  measures="Scored on the notes. Listen back: could you hear your line inside the chords?"),
         ], strictness="relaxed"),
         lesson("1-first", "Your first note", [

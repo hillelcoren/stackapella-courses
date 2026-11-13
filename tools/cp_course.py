@@ -78,12 +78,12 @@ def cp_1_round():
     return {
         "id": "cp-1-round", "title": EN("Be a round"), "strictness": "relaxed",
         "steps": [
-            learn("A round is one tune that fits itself when it starts at different times. You start it.",
+            learn("A round is one tune that fits with itself when voices start it at different times. You start it, and keep your own line as the others come in.",
                   [("Sing Row, Row, Row", "Twice through, at an easy volume"),
                    ("Three voices join you", "Two bars apart. Listen to them: never sing louder to hear yourself"),
-                   ("Best with headphones", "And stop if anything tightens or hurts")], "round", listen),
-            {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace."), "exercise": tryit},
-            {"kind": "play", "text": EN("After a bar of the drone, sing it twice through. Keep your own line while the voices come in."),
+                   ("Best with headphones", "Through a speaker, they rest while you sing. Stop if anything tightens or hurts")], "round", listen),
+            {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace: each note waits until you find it."), "exercise": tryit},
+            {"kind": "play", "text": EN("After a bar of the drone, the low note that keeps sounding, sing it twice through. Keep your own line while the voices come in."),
              "exercise": play,
              "measures": EN("Scored on your notes on pitch. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's.")},
         ],
