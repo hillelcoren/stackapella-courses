@@ -12,11 +12,11 @@ alsoKnownAs: The Bonnie Banks o' Loch Lomond; By Yon Bonnie Banks; Bonnie Loch L
 wikidata: Q1399934
 quote: O ye'll tak' the high road and I'll tak' the low road, And I'll be in Scotland afore ye
 quoteSource: sotn
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: loch lomond song meaning | loch lomond high road low road meaning | who wrote loch lomond | when was bonnie banks of loch lomond written | loch lomond song history | loch lomond story behind the song | loch lomond lyrics meaning in english | loch lomond song original | how to pronounce loch lomond | what does the word loch mean
-original: Songs of the North, p. 10, Internet Archive | https://archive.org/details/31761034118778/page/n29/mode/1up
+original: Songs of Scotland, p. 228, Internet Archive | https://archive.org/details/songsofscotlands00unse/page/n249/mode/1up
 listen: National Jukebox, 1905 recording | https://www.loc.gov/item/jukebox-121041/
 ---
 
@@ -34,7 +34,7 @@ Loch Lomond, also called The Bonnie Banks o' Loch Lomond or known by its chorus,
 
 **The tune.** Moffat thought the air grew from an old Scottish tune, Kind Robin lo'es me, which William McGibbon printed in 1742 as Robin Cushie, a printing that John Glen, the historian of early Scottish tunes, also records [^moffat][^glen]. The Ballad Index, weighing a list of possible older tunes, finds noticeable differences in each and calls the question unsettled [^tbi].
 
-**Songs of the North.** The words and tune we sing come from Songs of the North, a book of Scottish songs edited by A. C. Macleod and Harold Boulton, with the piano parts by Malcolm Lawson [^sotn]. Our copy, a later Cramer reprint, carries no date. The book first came out in London from Field and Tuer in 1885: that July the Illustrated London News and Chambers's Journal both noticed it as a handsome new volume [^iln1885][^chambers1885]. The song's music page, headed "Loch Lomond", reads "Old Scottish Song" on one side and "Traditional Melody arranged by Malcolm Lawson" on the other. It is in F, marked "With much feeling and rather slow", and the refrain is marked "Brisker" [^sotn]. A page of its own then prints the whole poem, three verses each with the chorus, as The Bonnie Banks o' Loch Lomond [^sotn].
+**Songs of the North.** The earliest printing with this tune that we have seen is in Songs of the North, a book of Scottish songs edited by A. C. Macleod and Harold Boulton, with the piano parts by Malcolm Lawson [^sotn]. Our copy, a later Cramer reprint, carries no date. The book first came out in London from Field and Tuer in 1885: that July the Illustrated London News and Chambers's Journal both noticed it as a handsome new volume [^iln1885][^chambers1885]. The song's music page, headed "Loch Lomond", reads "Old Scottish Song" on one side and "Traditional Melody arranged by Malcolm Lawson" on the other. It is in F, marked "With much feeling and rather slow", and the refrain is marked "Brisker" [^sotn]. A page of its own then prints the whole poem, three verses each with the chorus, as The Bonnie Banks o' Loch Lomond [^sotn].
 
 ![[2]]
 
@@ -44,7 +44,7 @@ Loch Lomond, also called The Bonnie Banks o' Loch Lomond or known by its chorus,
 
 - 1742: William McGibbon prints Robin Cushie, the old air Moffat thought Loch Lomond grew from [^glen][^moffat]
 - About 1840: Paterson & Roy of Edinburgh publish Bonnie Loch Loman, seven verses "written by a lady", the earliest known printing [^browns][^tbi]
-- 1885: Songs of the North prints it as an "Old Scottish Song", the version we sing [^sotn][^iln1885][^chambers1885]
+- 1885: Songs of the North prints it as an "Old Scottish Song" [^sotn][^iln1885][^chambers1885]
 - 1890s: Scots Minstrelsie ties the song to the Jacobite retreat of 1745 [^greig]
 - 1904: Robert Ford prints the Carlisle story and the verses credited to Lady John Scott's street singer [^ford]
 - 1921: Ralph Vaughan Williams's setting for baritone and men's chorus is published in London [^imslp-vw]
@@ -109,7 +109,7 @@ On the bonnie, bonnie banks o' Loch Lomon'.
 
 It is a slow song of parting, sung with feeling, and Songs of the North asks for a little more movement in the chorus [^sotn]. In the 1890s Scots Minstrelsie called it a song "comparatively forgotten for many a long day" that had lately become very popular, and a few years later Ford wrote of its "vogue in the highest circles" [^greig][^ford]. Then it went to choirs and dance bands: Ralph Vaughan Williams set it for baritone and men's chorus, published in 1921, and a swing recording made in August 1937 was a big hit [^imslp-vw][^synco][^tbi].
 
-Our arrangement is read from Songs of the North, its melody checked against Helen Hopekirk's Seventy Scottish Songs of 1905, a tone higher, in G. We sing the first two verses, each with the chorus, for 2 to 4 singers, slow and tender, everyone on the words.
+Our arrangement is read from John Reid's Songs of Scotland (New York, 1908), moved from E up to G, and checked against Scots Minstrelsie, whose even rhythm on "By" and "bonnie" and whose "Lomon'" we sing [^reid1908][^minstrelsie3]. We sing the first two verses, each with the chorus, for 2 to 4 singers, slow and tender, everyone on the words.
 
 ## Versions and other words
 
@@ -154,6 +154,8 @@ The soprano sings the tune, from the D above middle C up to the E a ninth higher
 ## Sources
 
 - [^sotn]: A. C. Macleod and Harold Boulton, editors, the music arranged by Malcolm Lawson, *Songs of the North, Gathered Together from the Highlands and Lowlands of Scotland*, vol. I (London: J. B. Cramer & Co.; undated later printing, with the preface to the second edition; first published by Field and Tuer, 1885), Preface; "Loch Lomond", pp. 10 to 11 (images n29 and n30); "The Bonnie Banks o' Loch Lomond", p. 12 (image n31); University of Toronto, Faculty of Music Library, M1746 B78 S6 19--, barcode 31761034118778. https://archive.org/details/31761034118778/page/n29
+- [^reid1908]: John Reid, *Songs of Scotland: A Selection*, with an essay by John Foord (New York: Boosey & Co., copyright 1908), pp. 228 to 229, "The Bonnie Banks o' Loch Lomond", in E, "Andante grazioso", the refrain "più mosso", verses 2 and 3 printed as text; University of North Carolina at Chapel Hill, University Library copy, images n249 and n250. https://archive.org/details/songsofscotlands00unse/page/n249
+- [^minstrelsie3]: John Greig, editor and arranger, *Scots Minstrelsie: A National Monument of Scottish Song*, vol. III (Edinburgh: T. C. & E. C. Jack, undated), pp. 352 to 353, "The Bonnie Banks o' Loch Lomon'", "Words probably dating from about 1746", "Old Melody", in F, in staff notation and tonic sol-fa, verses 2 and 3 printed as text; Internet Archive copy, images n135 and n136. https://archive.org/details/scotsminstrelsie0003john/page/n135
 - [^browns]: "About Some 'Auld Sangs'", *Brown's Book-Stall*, No. 75 (Aberdeen: A. Brown & Co., December 1911), pp. 5 and 7, quoting Gavin Greig and reprinting "Bonnie Loch Loman" ("Published by Paterson & Roy, 27 George Street, Edinburgh"); University of Guelph Library, DA 890.A2 B7 v. 2, images n664 and n666. https://archive.org/details/brownsbookstalln02aber/page/n666
 - [^tbi]: Robert B. Waltz and David G. Engle, *The Traditional Ballad Index*, "Loch Lomond" (California State University, Fresno; version 4.3, archived 16 November 2018). https://web.archive.org/web/20181116044346/https://www.fresnostate.edu/folklore/ballads/FSWB257B.html
 - [^moffat]: Alfred Moffat, *The Minstrelsy of Scotland: 200 Scottish Songs Adapted to Their Traditional Airs*, fourth edition, its preface dated March 1894 (London: Augener, 1920), p. 34, "By yon bonnie banks", and its footnote; Glossary ("Benlomond", "Glen", "Gloamin'", "Greet", "Ken", "Waefu'"); Boston Public Library copy. https://archive.org/details/minstrelsyofscot00moff/page/n53

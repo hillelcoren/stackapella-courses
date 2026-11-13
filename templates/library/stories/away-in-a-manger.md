@@ -38,7 +38,7 @@ The third verse, "Be near me, Lord Jesus", has its earliest known printing in Ga
 
 **The tunes.** James R. Murray, born in Andover, Massachusetts, in 1841, worked in Cincinnati for the music publisher John Church Company [^hill][^phh-tunes]. In 1887 he printed the carol in his Dainty Songs for Little Lads and Lasses as "Luther's Cradle Hymn", with the same note about German mothers, and signed the music only "J. R. M." [^murray1887][^phh-tunes]. Later books credited the tune to an unidentified "Carl Mueller", hence its name MUELLER; Hill found no evidence for him and gave it to Murray [^hill][^hymnarchive].
 
-William J. Kirkpatrick (1838 to 1921) was a Philadelphia church musician, music director at Grace Methodist Episcopal Church, and a compiler of gospel songbooks [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. In 1895 he and John R. Sweney wrote the music for Around the World with Christmas, a Christmas exercise for Sunday schools [^hill][^canterbury]. There, under "The German Fatherland", is "Luther's Cradle Hymn", with Kirkpatrick's music and all three verses [^kirk1895]. He printed it again in Joy and Praise, a Sunday-school book he edited with J. H. Fillmore in 1908, marked "Solo or Duet": the page our arrangement reads [^jp1908].
+William J. Kirkpatrick (1838 to 1921) was a Philadelphia church musician, music director at Grace Methodist Episcopal Church, and a compiler of gospel songbooks [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. In 1895 he and John R. Sweney wrote the music for Around the World with Christmas, a Christmas exercise for Sunday schools [^hill][^canterbury]. There, under "The German Fatherland", is "Luther's Cradle Hymn", with Kirkpatrick's music and all three verses [^kirk1895]. He printed it again in Joy and Praise, a Sunday-school book he edited with J. H. Fillmore in 1908, marked "Solo or Duet": the page we check our arrangement against [^jp1908].
 
 ![[2]]
 
@@ -60,7 +60,7 @@ Hill found Kirkpatrick's setting the first to carry the words beyond the United 
 
 ## What the words mean
 
-We sing the first, as Kirkpatrick printed it in Joy and Praise [^jp1908].
+We sing the first, as The Church Hymnal Revised printed it in 1920, in the same words as Kirkpatrick's Joy and Praise [^hutchins1920][^jp1908].
 
 **Verse 1, the one we sing.** A manger is a trough that farm animals eat from. Luke's Gospel says Mary laid her newborn son in one "because there was no room for them in the inn" [^kjv]. A crib is a baby's bed: he had no proper cot, so he sleeps on the hay. The eight lines of 1868 already end "asleep on the hay" [^hymnarchive]. The printings of 1882 to 1885 have "no crib for His bed", "in the sky" and "asleep in the hay" [^cynosure1882][^lcb1885]. "For a bed" and "on the hay" are in Murray's book of 1887, and "the bright sky" in Kirkpatrick's of 1895 [^murray1887][^kirk1895].
 
@@ -70,7 +70,7 @@ We sing the first, as Kirkpatrick printed it in Joy and Praise [^jp1908].
 
 ### The full words
 
-These are the three verses as Kirkpatrick printed them in Joy and Praise in 1908, No. 174, the page our arrangement reads, the dash after "lay" written as a comma [^jp1908]. The first two were in print by 1882; the third was added later, with its earliest known printing in 1892, and nobody knows who wrote it [^cynosure1882][^gabriel1892][^hymnarchive].
+These are the three verses as Kirkpatrick printed them in Joy and Praise in 1908, No. 174, the dash after "lay" written as a comma [^jp1908]. The Church Hymnal Revised, which our arrangement reads, prints the same first verse, but "And stay close by my side Until morning is nigh" in the second and "And fit us for heaven" in the third [^hutchins1920]. The first two were in print by 1882; the third was added later, with its earliest known printing in 1892, and nobody knows who wrote it [^cynosure1882][^gabriel1892][^hymnarchive].
 
 **Verse 1**
 Away in a manger, no crib for a bed,
@@ -96,7 +96,7 @@ From the start it was a carol for small children: a recitation in 1883, a nurser
 
 Kirkpatrick's tune is CRADLE SONG and Murray's is MUELLER, though books also call either one AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. The Anglican Church of Canada's Common Praise (1998) and The Irish Presbyterian Hymnbook (2004) print Kirkpatrick's [^cp1998][^iph2004]. American books vary: The United Methodist Hymnal (1989) uses Murray's, the Episcopal Hymnal 1982 uses Kirkpatrick's, and the Christian Reformed Church's Psalter Hymnal prints both [^umh1989][^eh1982][^phh-tunes].
 
-Our arrangement reads Kirkpatrick's page in Joy and Praise, No. 174, printed in F and sung here a whole tone higher, in G [^jp1908]. The soprano sings his tune and the alto his second voice, with eleven notes changed so it moves by step. The bass sings the lowest note of his accompaniment, with two notes changed, and the tenor part is ours, on his harmony. We sing the first verse for 2 to 4 singers, slow and gentle.
+Our arrangement is read from The Church Hymnal Revised, edited by Charles L. Hutchins (Boston, 1920), No. 643, MANGER, among its hymns "For Younger Children", where Kirkpatrick's tune and second voice are printed in F; we sing them a whole tone higher, in G [^hutchins1920]. His two voices there match his own Joy and Praise, our check [^jp1908]. The soprano sings his tune and the alto his second voice, with eleven notes changed so it moves by step. The tenor and bass are ours, on his harmony. We sing the first verse for 2 to 4 singers, slow and gentle.
 
 ## Versions and other words
 
@@ -112,7 +112,7 @@ The earliest printings suggested "Home, Sweet Home" as a tune [^pilgrim1883][^hy
 - [Soprano](/songs/away-in-a-manger/soprano): you carry Kirkpatrick's tune, a gentle lullaby in three time. The first and third lines are the same tune, each climbing to your top E, on "a" in "no crib for a bed" and on "He" in "looked down where He lay".
 - [Alto](/songs/away-in-a-manger/alto): you sing Kirkpatrick's second voice, mostly a sixth or a third under the tune, mostly on B, D and C. Two moments need care: the C-sharp on "down His sweet" that falls to C on "head", and the F-natural on "down where" before G on "He". Solo them in the player.
 - [Tenor](/songs/away-in-a-manger/tenor): you fill in the middle of the chord, mostly on G. The whole first line sits on G until "bed", where you step down to F-sharp. Your top note, a C, comes on "lay" at the end of the third line and stays for "The little" that starts the last.
-- [Bass](/songs/away-in-a-manger/bass): you sing the lowest notes of Kirkpatrick's accompaniment, mostly on G and D. Your highest note, an E, is on "a" in "no crib for a bed", under the tune's top E. Your lowest, a low F-sharp, is on "Lord" in the last line.
+- [Bass](/songs/away-in-a-manger/bass): you sing our own line, on Kirkpatrick's harmony, mostly on G and D. Your highest note, an E, is on "a" in "no crib for a bed", under the tune's top E. Your lowest, a low F-sharp, is on "Lord" in the last line.
 
 ## Questions
 
@@ -150,6 +150,7 @@ The soprano sings Kirkpatrick's tune, from a low D up to the E a ninth above. Wi
 - [^gabriel1892]: Charles H. Gabriel, *Gabriel's Vineyard Songs* (Louisville: Guide Printing and Publishing Co., 1892), No. 102, p. 125, "Cradle Song", facsimile reproduced by Hymnology Archive (Fig. 4). https://www.hymnologyarchive.com/away-in-a-manger
 - [^kirk1895]: *Around the World with Christmas: A Christmas Exercise*, music by John R. Sweney and Wm. J. Kirkpatrick (1895), p. 11, "XIV. The German Fatherland: Luther's Cradle Hymn", facsimile reproduced by Hymnology Archive (Fig. 5). https://www.hymnologyarchive.com/away-in-a-manger
 - [^jp1908]: Wm. J. Kirkpatrick and J. H. Fillmore, *Joy and Praise: A Sunday-School Song Book* (Cincinnati: Fillmore Music House, 1908), No. 174, p. 181, "Luther's Cradle Hymn (Solo or Duet)"; Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/joypraisesundays00kirk/page/n184
+- [^hutchins1920]: Charles L. Hutchins, ed., *The Church Hymnal Revised* (Boston: The Parish Choir, 1920), No. 643, "Manger", pp. 592 to 593, under "For Younger Children", music W. J. Kirkpatrick, words "Ascribed to Martin Luther"; Princeton Theological Seminary Library copy, images n627 and n628. https://archive.org/details/churchhymnalrevi00hutc/page/n627
 - [^bonner1905]: Carey Bonner, ed., *The Sunday School Hymnary* (London: Sunday School Union, 1905), No. 15, p. 14, "Away in a manger"; Trinity College, University of Toronto copy, facsimile. https://archive.org/details/sundayschoolhymn00bonnuoft/page/n73
 - [^hutchins1916]: Charles L. Hutchins, *Carols Old and Carols New* (Boston: The Parish Choir, 1916), No. 495, "Away in a manger", music J. E. Spilman; Boston Public Library copy, facsimile. https://archive.org/details/carolsoldcarolsn00hutc
 - [^stork1872]: Theophilus Stork, *Luther at Home* (Philadelphia: Lutheran Board of Publication, 1872), p. 65; facsimile. https://archive.org/details/lutherathome00stor

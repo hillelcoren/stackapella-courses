@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: away in a manger historia | quién escribió away in a manger | escribió martín lutero away in a manger | away in a manger significado | allá en el pesebre himno historia | away in a manger melodías
-translatedFrom: 8e7a901709db
+translatedFrom: f6d7e7ab3b6f
 original: The Christian Cynosure, 2 de marzo de 1882, Internet Archive | https://archive.org/details/christiancynosurv14blan/page/n374
 ---
 
@@ -39,7 +39,7 @@ La tercera estrofa, "Be near me, Lord Jesus", tiene su primera impresión conoci
 
 **Las melodías.** James R. Murray, nacido en Andover, Massachusetts, en 1841, trabajaba en Cincinnati para la editorial musical John Church Company [^hill][^phh-tunes]. En 1887 imprimió el villancico en su Dainty Songs for Little Lads and Lasses como "Luther's Cradle Hymn", con la misma nota sobre las madres alemanas, y firmó la música solo con "J. R. M." [^murray1887][^phh-tunes]. Libros posteriores atribuyeron la melodía a un "Carl Mueller" sin identificar, de ahí su nombre, MUELLER; Hill no encontró ninguna prueba de su existencia y se la atribuyó a Murray [^hill][^hymnarchive].
 
-William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, director musical de la Grace Methodist Episcopal Church y recopilador de cancioneros de góspel [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. En 1895, él y John R. Sweney escribieron la música de Around the World with Christmas, un programa de Navidad, con recitados y canciones, para escuelas dominicales [^hill][^canterbury]. Allí, bajo "The German Fatherland" (la patria alemana), está "Luther's Cradle Hymn", con música de Kirkpatrick y las tres estrofas [^kirk1895]. Lo volvió a imprimir en Joy and Praise, un libro para escuelas dominicales que editó con J. H. Fillmore en 1908, marcado "Solo or Duet" (solo o dúo): la página de la que parte nuestro arreglo [^jp1908].
+William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, director musical de la Grace Methodist Episcopal Church y recopilador de cancioneros de góspel [^hymnary-kirkpatrick][^hymnarchive-kirkpatrick]. En 1895, él y John R. Sweney escribieron la música de Around the World with Christmas, un programa de Navidad, con recitados y canciones, para escuelas dominicales [^hill][^canterbury]. Allí, bajo "The German Fatherland" (la patria alemana), está "Luther's Cradle Hymn", con música de Kirkpatrick y las tres estrofas [^kirk1895]. Lo volvió a imprimir en Joy and Praise, un libro para escuelas dominicales que editó con J. H. Fillmore en 1908, marcado "Solo or Duet" (solo o dúo): la página con la que cotejamos nuestro arreglo [^jp1908].
 
 ![[2]]
 
@@ -61,7 +61,7 @@ Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra
 
 ## Qué dice la letra
 
-Cantamos la primera estrofa, tal como la imprimió Kirkpatrick en Joy and Praise [^jp1908].
+Cantamos la primera estrofa tal como la imprimió The Church Hymnal Revised en 1920, con las mismas palabras que Joy and Praise, de Kirkpatrick [^hutchins1920][^jp1908].
 
 **Estrofa 1, la que cantamos.** Un "manger" es un pesebre, el comedero de los animales de la granja. El Evangelio de Lucas dice que María acostó a su hijo recién nacido en uno "because there was no room for them in the inn" (porque no había lugar para ellos en el mesón) [^kjv]. Un "crib" es la cuna de un bebé: no tenía una cuna de verdad, así que duerme sobre el heno. Los ocho versos de 1868 ya terminan "asleep on the hay" [^hymnarchive]. Las impresiones de 1882 a 1885 dicen "no crib for His bed", "in the sky" y "asleep in the hay" [^cynosure1882][^lcb1885]. "For a bed" y "on the hay" están en el libro de Murray de 1887, y "the bright sky", en el de Kirkpatrick de 1895 [^murray1887][^kirk1895].
 
@@ -71,7 +71,7 @@ Cantamos la primera estrofa, tal como la imprimió Kirkpatrick en Joy and Praise
 
 ### La letra completa
 
-Estas son las tres estrofas tal como las imprimió Kirkpatrick en Joy and Praise en 1908, número 174, la página de la que sale nuestro arreglo, con la raya que sigue a "lay" escrita como coma [^jp1908]. Las dos primeras ya estaban impresas en 1882; la tercera se añadió después, su impresión más antigua conocida es de 1892, y nadie sabe quién la escribió [^cynosure1882][^gabriel1892][^hymnarchive].
+Estas son las tres estrofas tal como las imprimió Kirkpatrick en Joy and Praise en 1908, número 174, con la raya que sigue a "lay" escrita como coma [^jp1908]. The Church Hymnal Revised, del que está tomado nuestro arreglo, imprime la misma primera estrofa, pero con "And stay close by my side Until morning is nigh" (y quédate a mi lado hasta que se acerque la mañana) en la segunda y "And fit us for heaven" (y prepáranos para el cielo) en la tercera [^hutchins1920]. Las dos primeras ya estaban impresas en 1882; la tercera se añadió después, su impresión más antigua conocida es de 1892, y nadie sabe quién la escribió [^cynosure1882][^gabriel1892][^hymnarchive].
 
 **Estrofa 1**
 > Away in a manger, no crib for a bed,
@@ -109,7 +109,7 @@ Desde el principio fue un villancico para niños pequeños: un recitado en 1883,
 
 La melodía de Kirkpatrick es CRADLE SONG y la de Murray es MUELLER, aunque los libros también llaman a cualquiera de las dos AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. Common Praise (1998), de la Iglesia Anglicana de Canadá, y The Irish Presbyterian Hymnbook (2004) imprimen la de Kirkpatrick [^cp1998][^iph2004]. Los libros estadounidenses varían: The United Methodist Hymnal (1989) usa la de Murray, el Hymnal 1982 episcopaliano usa la de Kirkpatrick, y el Psalter Hymnal de la Christian Reformed Church imprime las dos [^umh1989][^eh1982][^phh-tunes].
 
-Nuestro arreglo parte de la página de Kirkpatrick en Joy and Praise, n.º 174, impresa en Fa y cantada aquí un tono más arriba, en Sol [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que se mueva por grados conjuntos. El bajo canta la nota más grave de su acompañamiento, con dos notas cambiadas, y la voz del tenor es nuestra, sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
+Nuestro arreglo está tomado de The Church Hymnal Revised, editado por Charles L. Hutchins (Boston, 1920), n.º 643, MANGER, entre sus himnos "For Younger Children" (para los más pequeños), donde la melodía de Kirkpatrick y su segunda voz están impresas en Fa; las cantamos un tono más arriba, en Sol [^hutchins1920]. Allí sus dos voces coinciden con las de su propio Joy and Praise, con el que lo cotejamos [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que se mueva por grados conjuntos. El tenor y el bajo son nuestros, sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
 
 ## Versiones y otras letras
 
@@ -125,7 +125,7 @@ Las primeras impresiones proponían "Home, Sweet Home" como melodía [^pilgrim18
 - [Soprano](/songs/away-in-a-manger/soprano): llevas la melodía de Kirkpatrick, una canción de cuna suave a tres tiempos. El primer y el tercer verso tienen la misma melodía, y cada uno sube a tu Mi más agudo, en "a" de "no crib for a bed" y en "He" de "looked down where He lay".
 - [Contralto](/songs/away-in-a-manger/alto): cantas la segunda voz de Kirkpatrick, casi siempre una sexta o una tercera por debajo de la melodía, casi siempre en Si, Re y Do. Dos momentos piden cuidado: el Do sostenido de "down His sweet", que baja a Do en "head", y el Fa becuadro de "down where" (en "looked down where") antes del Sol de "He". Pon tu voz en solo en el reproductor para oírlos.
 - [Tenor](/songs/away-in-a-manger/tenor): rellenas el centro del acorde, casi siempre en Sol. Todo el primer verso está en Sol hasta "bed", donde bajas a Fa sostenido. Tu nota más aguda, un Do, llega en "lay", al final del tercer verso, y se queda en "The little", que empieza el último.
-- [Bajo](/songs/away-in-a-manger/bass): cantas las notas más graves del acompañamiento de Kirkpatrick, casi siempre en Sol y Re. Tu nota más aguda, un Mi, está en "a" de "no crib for a bed", debajo del Mi agudo de la melodía. La más grave, un Fa sostenido grave, está en "Lord", en el último verso.
+- [Bajo](/songs/away-in-a-manger/bass): cantas una línea nuestra, sobre la armonía de Kirkpatrick, casi siempre en Sol y Re. Tu nota más aguda, un Mi, está en "a" de "no crib for a bed", debajo del Mi agudo de la melodía. La más grave, un Fa sostenido grave, está en "Lord", en el último verso.
 
 ## Preguntas
 
@@ -163,6 +163,7 @@ La soprano canta la melodía de Kirkpatrick, desde un Re grave hasta el Mi una n
 - [^gabriel1892]: Charles H. Gabriel, *Gabriel's Vineyard Songs* (Louisville: Guide Printing and Publishing Co., 1892), n.º 102, p. 125, "Cradle Song", facsímil reproducido por Hymnology Archive (fig. 4). https://www.hymnologyarchive.com/away-in-a-manger
 - [^kirk1895]: *Around the World with Christmas: A Christmas Exercise*, música de John R. Sweney y Wm. J. Kirkpatrick (1895), p. 11, "XIV. The German Fatherland: Luther's Cradle Hymn", facsímil reproducido por Hymnology Archive (fig. 5). https://www.hymnologyarchive.com/away-in-a-manger
 - [^jp1908]: Wm. J. Kirkpatrick y J. H. Fillmore, *Joy and Praise: A Sunday-School Song Book* (Cincinnati: Fillmore Music House, 1908), n.º 174, p. 181, "Luther's Cradle Hymn (Solo or Duet)"; ejemplar de la Princeton Theological Seminary Library, facsímil. https://archive.org/details/joypraisesundays00kirk/page/n184
+- [^hutchins1920]: Charles L. Hutchins, ed., *The Church Hymnal Revised* (Boston: The Parish Choir, 1920), n.º 643, "Manger", pp. 592 a 593, bajo "For Younger Children", música de W. J. Kirkpatrick, letra "Ascribed to Martin Luther"; ejemplar de la Princeton Theological Seminary Library, imágenes n627 y n628. https://archive.org/details/churchhymnalrevi00hutc/page/n627
 - [^bonner1905]: Carey Bonner, ed., *The Sunday School Hymnary* (Londres: Sunday School Union, 1905), n.º 15, p. 14, "Away in a manger"; ejemplar del Trinity College, University of Toronto, facsímil. https://archive.org/details/sundayschoolhymn00bonnuoft/page/n73
 - [^hutchins1916]: Charles L. Hutchins, *Carols Old and Carols New* (Boston: The Parish Choir, 1916), n.º 495, "Away in a manger", música de J. E. Spilman; ejemplar de la Boston Public Library, facsímil. https://archive.org/details/carolsoldcarolsn00hutc
 - [^stork1872]: Theophilus Stork, *Luther at Home* (Filadelfia: Lutheran Board of Publication, 1872), p. 65; facsímil. https://archive.org/details/lutherathome00stor

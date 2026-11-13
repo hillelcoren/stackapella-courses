@@ -12,12 +12,12 @@ alsoKnownAs: The Bonnie Banks o' Loch Lomond; By Yon Bonnie Banks; Bonnie Loch L
 wikidata: Q1399934
 quote: O ye'll tak' the high road and I'll tak' the low road, And I'll be in Scotland afore ye
 quoteSource: sotn
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: loch lomond significado | loch lomond historia | quién escribió loch lomond | loch lomond letra traducción | high road low road significado | cómo se pronuncia loch lomond
-translatedFrom: ea9d2ba25a57
-original: Songs of the North, p. 10, Internet Archive | https://archive.org/details/31761034118778/page/n29/mode/1up
+translatedFrom: 92a9f6af2e4f
+original: Songs of Scotland, p. 228, Internet Archive | https://archive.org/details/songsofscotlands00unse/page/n249/mode/1up
 listen: National Jukebox, grabación de 1905 | https://www.loc.gov/item/jukebox-121041/
 ---
 
@@ -35,7 +35,7 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 
 **La melodía.** Moffat pensaba que la melodía nació de un viejo aire escocés, Kind Robin lo'es me, que William McGibbon imprimió en 1742 como Robin Cushie, una impresión que registra también John Glen, el historiador de las primeras melodías escocesas [^moffat][^glen]. El Ballad Index, tras sopesar una lista de posibles melodías más antiguas, encuentra diferencias notables en cada una y da la cuestión por no resuelta [^tbi].
 
-**Songs of the North.** La letra y la melodía que cantamos vienen de Songs of the North, un libro de canciones escocesas editado por A. C. Macleod y Harold Boulton, con los acompañamientos de piano de Malcolm Lawson [^sotn]. Nuestro ejemplar, una reimpresión posterior de Cramer, no lleva fecha. El libro salió por primera vez en Londres, con Field and Tuer, en 1885: en julio de ese año, The Illustrated London News y Chambers's Journal lo reseñaron como un hermoso volumen nuevo [^iln1885][^chambers1885]. La página de música de la canción, con el encabezado "Loch Lomond", dice "Old Scottish Song" (vieja canción escocesa) a un lado y "Traditional Melody arranged by Malcolm Lawson" (melodía tradicional arreglada por Malcolm Lawson) al otro. Está en Fa, con la indicación "With much feeling and rather slow" (con mucho sentimiento y bastante lento), y el estribillo lleva "Brisker" (más animado) [^sotn]. Después, una página aparte imprime el poema entero, tres estrofas, cada una con el estribillo, como The Bonnie Banks o' Loch Lomond [^sotn].
+**Songs of the North.** La impresión más antigua con esta melodía que hemos visto es la de Songs of the North, un libro de canciones escocesas editado por A. C. Macleod y Harold Boulton, con los acompañamientos de piano de Malcolm Lawson [^sotn]. Nuestro ejemplar, una reimpresión posterior de Cramer, no lleva fecha. El libro salió por primera vez en Londres, con Field and Tuer, en 1885: en julio de ese año, The Illustrated London News y Chambers's Journal lo reseñaron como un hermoso volumen nuevo [^iln1885][^chambers1885]. La página de música de la canción, con el encabezado "Loch Lomond", dice "Old Scottish Song" (vieja canción escocesa) a un lado y "Traditional Melody arranged by Malcolm Lawson" (melodía tradicional arreglada por Malcolm Lawson) al otro. Está en Fa, con la indicación "With much feeling and rather slow" (con mucho sentimiento y bastante lento), y el estribillo lleva "Brisker" (más animado) [^sotn]. Después, una página aparte imprime el poema entero, tres estrofas, cada una con el estribillo, como The Bonnie Banks o' Loch Lomond [^sotn].
 
 ![[2]]
 
@@ -45,7 +45,7 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 
 - 1742: William McGibbon imprime Robin Cushie, el viejo aire del que Moffat pensaba que nació Loch Lomond [^glen][^moffat]
 - hacia 1840: Paterson & Roy, de Edimburgo, publican Bonnie Loch Loman, siete estrofas "escritas por una dama", la primera impresión conocida [^browns][^tbi]
-- 1885: Songs of the North la imprime como "Old Scottish Song", la versión que cantamos [^sotn][^iln1885][^chambers1885]
+- 1885: Songs of the North la imprime como "Old Scottish Song" [^sotn][^iln1885][^chambers1885]
 - década de 1890: Scots Minstrelsie vincula la canción a la retirada jacobita de 1745 [^greig]
 - 1904: Robert Ford imprime la historia de Carlisle y las estrofas atribuidas al cantor callejero de Lady John Scott [^ford]
 - 1921: Se publica en Londres el arreglo de Ralph Vaughan Williams para barítono y coro masculino [^imslp-vw]
@@ -134,7 +134,7 @@ en las hermosas, hermosas orillas del Loch Lomond.
 
 Es una canción lenta de despedida, que se canta con sentimiento, y Songs of the North pide un poco más de movimiento en el estribillo [^sotn]. En la década de 1890, Scots Minstrelsie la llamó una canción "relativamente olvidada durante mucho tiempo" que se había vuelto muy popular hacía poco, y unos años después Ford escribió sobre su "boga en los círculos más altos" [^greig][^ford]. Luego pasó a los coros y a las orquestas de baile: Ralph Vaughan Williams la arregló para barítono y coro masculino, en un arreglo publicado en 1921, y una grabación de swing hecha en agosto de 1937 fue un gran éxito [^imslp-vw][^synco][^tbi].
 
-Nuestro arreglo está tomado de Songs of the North, con la melodía cotejada con Seventy Scottish Songs, de Helen Hopekirk, de 1905, y va un tono más alto, en Sol. Cantamos las dos primeras estrofas, cada una con el estribillo, para 2 a 4 cantantes, despacio y con ternura, todas las voces con la letra.
+Nuestro arreglo está tomado de Songs of Scotland, de John Reid (Nueva York, 1908), subido de Mi a Sol, y cotejado con Scots Minstrelsie, del que cantamos el ritmo parejo de "By" y "bonnie" y la forma "Lomon'" [^reid1908][^minstrelsie3]. Cantamos las dos primeras estrofas, cada una con el estribillo, para 2 a 4 cantantes, despacio y con ternura, todas las voces con la letra.
 
 ## Versiones y otras letras
 
@@ -179,6 +179,8 @@ La soprano canta la melodía, desde el Re por encima del Do central hasta el Mi 
 ## Fuentes
 
 - [^sotn]: A. C. Macleod y Harold Boulton, editores, música arreglada por Malcolm Lawson, *Songs of the North, Gathered Together from the Highlands and Lowlands of Scotland*, vol. I (Londres: J. B. Cramer & Co.; impresión posterior sin fecha, con el prefacio de la segunda edición; publicado por primera vez por Field and Tuer, 1885), Preface; "Loch Lomond", pp. 10 a 11 (imágenes n29 y n30); "The Bonnie Banks o' Loch Lomond", p. 12 (imagen n31); University of Toronto, Faculty of Music Library, M1746 B78 S6 19--, código de barras 31761034118778. https://archive.org/details/31761034118778/page/n29
+- [^reid1908]: John Reid, *Songs of Scotland: A Selection*, con un ensayo de John Foord (Nueva York: Boosey & Co., copyright 1908), pp. 228 a 229, "The Bonnie Banks o' Loch Lomond", en Mi, "Andante grazioso", el estribillo "più mosso", las estrofas 2 y 3 impresas como texto; ejemplar de la University Library, University of North Carolina at Chapel Hill, imágenes n249 y n250. https://archive.org/details/songsofscotlands00unse/page/n249
+- [^minstrelsie3]: John Greig, editor y arreglista, *Scots Minstrelsie: A National Monument of Scottish Song*, vol. III (Edimburgo: T. C. & E. C. Jack, sin fecha), pp. 352 a 353, "The Bonnie Banks o' Loch Lomon'", "Words probably dating from about 1746", "Old Melody", en Fa, en notación de pentagrama y en tonic sol-fa, las estrofas 2 y 3 impresas como texto; ejemplar del Internet Archive, imágenes n135 y n136. https://archive.org/details/scotsminstrelsie0003john/page/n135
 - [^browns]: "About Some 'Auld Sangs'", *Brown's Book-Stall*, n.º 75 (Aberdeen: A. Brown & Co., diciembre de 1911), pp. 5 y 7, que cita a Gavin Greig y reimprime "Bonnie Loch Loman" ("Published by Paterson & Roy, 27 George Street, Edinburgh"); University of Guelph Library, DA 890.A2 B7 v. 2, imágenes n664 y n666. https://archive.org/details/brownsbookstalln02aber/page/n666
 - [^tbi]: Robert B. Waltz y David G. Engle, *The Traditional Ballad Index*, "Loch Lomond" (California State University, Fresno; versión 4.3, archivada el 16 de noviembre de 2018). https://web.archive.org/web/20181116044346/https://www.fresnostate.edu/folklore/ballads/FSWB257B.html
 - [^moffat]: Alfred Moffat, *The Minstrelsy of Scotland: 200 Scottish Songs Adapted to Their Traditional Airs*, cuarta edición, con el prefacio fechado en marzo de 1894 (Londres: Augener, 1920), p. 34, "By yon bonnie banks", y su nota al pie; Glossary ("Benlomond", "Glen", "Gloamin'", "Greet", "Ken", "Waefu'"); ejemplar de la Boston Public Library. https://archive.org/details/minstrelsyofscot00moff/page/n53
