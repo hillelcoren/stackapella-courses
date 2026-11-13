@@ -780,6 +780,9 @@ def page_slugs():
 
 
 def check_slugs():
+    # Laravel's Str::slug transliterates accents and drops punctuation; checked against it (2026-11-14) on these.
+    if slug("Pastores a Belén, Ñandú über Ödön: It\u2019s Ça va") != "pastores-a-belen-nandu-uber-odon-its-ca-va":
+        problem("course_check", "slug() no longer matches Laravel's Str::slug on accented titles")
     now = page_slugs()
     if "--write-slugs" in sys.argv:
         SLUGS.write_text(json.dumps(now, ensure_ascii=False, indent=1) + "\n")
