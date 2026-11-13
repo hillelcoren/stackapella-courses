@@ -10,39 +10,39 @@ alsoKnownAs: Tzur Mishelo Achalnu, Zur mi-Shello, Tsur mish-shelo Akhalnu
 wikidata: Q6903975
 quote: Tzur mishelo achalnu, barchu emunai.
 quoteSource: metsudah
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: tzur mishelo significado | tzur mishelo traducción | tzur mishelo letra | tzur mishelo origen | tzur mishelo achalnu | tzur mishelo canción
-translatedFrom: f76e75b5eb11
+translatedFrom: 9819fa5cec8e
+original: Jewish Encyclopedia, vol. 12, p. 658, Internet Archive | https://archive.org/details/cu31924091768295/page/n705/mode/1up
 ---
 
-Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es la melodía alemana que la Jewish Encyclopedia de 1906 señalaba como la que más se usaba para ella.[^je]
+Tzur Mishelo es uno de los zemirot, los cantos hebreos que los judíos cantan en casa alrededor de la mesa del sabbat, sobre todo antes o después de la bendición que sigue a las comidas principales.[^je][^ej] Su estribillo toma la antigua invitación a bendecir juntos después de comer, "A bendecir a Aquel de cuya comida hemos comido", y la convierte en un coro para toda la mesa.[^mishnah][^talmud][^abrahams][^loewe] Sus estrofas siguen después la bendición en orden: gracias por la comida, gracias por la tierra y una súplica de misericordia para Sion, que termina con el Templo reconstruido y una copa llena de vino.[^ej][^loewe][^metsudah] Nadie sabe quién la escribió. Nuestra melodía es una melodía alemana que la Jewish Encyclopedia de 1906 llamaba la más frecuente para los cantos de mesa, cantada con esta canción o con Yom Zeh le-Yisrael.[^je]
 
 ## De dónde viene
 
-La letra no lleva nombre de autor ni un acróstico que lo dé.[^loewe][^abrahams] Lo que sí tiene es un modelo: la bendición después de las comidas, Birkat Hamazon. El estribillo toma su primera mitad del zimmun, la invitación que dice quien dirige cuando han comido juntos tres o más. Cuando han comido cuatro o más, la Mishná pone en su boca: "A bendecir a Aquel de cuya comida hemos comido".[^mishnah][^abrahams] Su segunda mitad, "hemos comido hasta saciarnos y ha sobrado, como dijo Hashem", viene de la historia de Eliseo, que da de comer a cien personas con veinte panes.[^tanakh][^abrahams][^loewe] Las estrofas siguen la bendición en orden: la primera da gracias a Hashem por alimentar al mundo, como el primer párrafo de la bendición; la segunda, por la tierra, como el segundo; y la tercera pide, como el tercero, misericordia para Sion y para el heredero de David. La cuarta continúa la oración de la tercera por el Templo reconstruido, y termina sobre la copa llena de vino sobre la que se dice la bendición.[^ej][^loewe][^metsudah]
+La letra no lleva nombre de autor ni un acróstico que lo dé.[^loewe][^abrahams] Lo que sí tiene es un modelo: la bendición después de las comidas, Birkat Hamazon. El estribillo toma su primera mitad del zimmun, la invitación que dice quien dirige cuando han comido juntos tres o más. Cuando han comido cuatro o más, la Mishná hace que quien dirige llame "Barchu", "¡a bendecir!", y el Talmud da las palabras que siguen, she-achalnu mishelo, "a Aquel de cuya comida hemos comido".[^mishnah][^talmud][^abrahams] Su segunda mitad, "hemos comido hasta saciarnos y ha sobrado, como dijo Hashem", viene de la historia de Eliseo, que da de comer a cien personas con veinte panes.[^tanakh][^abrahams][^loewe] Las estrofas siguen en orden los párrafos de la bendición: la primera da gracias a Hashem por alimentar al mundo; la segunda, por la tierra; y la tercera pide misericordia para Sion y para el heredero de David. La cuarta continúa la oración de la tercera por el Templo reconstruido, y termina sobre la copa llena de vino sobre la que se dice la bendición.[^ej][^loewe][^metsudah]
 
-Qué edad tiene, nadie puede decirlo. En 1926, Herbert Loewe contaba que L. Hirschfeld, que había puesto en verso alemán las canciones de mesa del sabbat, creía que Tzur Mishelo era tan antigua como la Mishná.[^loewe][^abrahams] Su razón era la propia bendición. La canción sigue solo sus tres primeras bendiciones, que los rabinos sacaron de la Torá, y no tiene nada de la cuarta, que según el Talmud añadieron los sabios en Yavneh tras la caída de Betar.[^loewe][^talmud] Loewe lo dudaba: el estilo le parecía demasiado pulido para una fecha tan temprana, y no creía que la canción estuviera en los libros de oraciones más antiguos.[^loewe]
+Qué edad tiene, nadie puede decirlo. En 1926, Herbert Loewe contaba que L. Hirschfeld, que había puesto en verso alemán las canciones de mesa del sabbat, creía que Tzur Mishelo era tan antigua como la Mishná.[^loewe][^abrahams] Su razón era la propia bendición. La canción sigue solo sus tres primeras bendiciones, que los rabinos sacaron de la Torá, y no tiene nada de la cuarta, que según el Talmud añadieron los sabios en Yavneh tras la caída de Betar.[^loewe][^talmud] Loewe lo dudaba: el estilo le parecía demasiado pulido para una fecha tan temprana, y no creía que la canción estuviera en los libros de oraciones más antiguos. Aun así, admitía que sus propias pruebas eran en gran parte subjetivas, y que las razones de Hirschfeld eran difíciles de explicar de otro modo.[^loewe]
 
-A la letra le falta algo más: el sabbat. Israel Abrahams, en sus notas al libro de oraciones de Singer en 1914, señala, siguiendo a Seligman Baer, que la canción nunca lo menciona, y Loewe dice lo mismo en 1926.[^abrahams][^loewe] Aun así, pertenece a la mesa del sabbat, y la Encyclopaedia Judaica indica que no se canta entre semana.[^ej]
+A la letra le falta algo más: el sabbat. Israel Abrahams, en sus notas al libro de oraciones de Singer en 1914, señala, siguiendo a Seligman Baer, que la canción nunca lo menciona, y añade que, para Baer, sirve para cualquier ocasión; Loewe señala el mismo silencio en 1926.[^abrahams][^loewe] Aun así, pertenece a la mesa del sabbat. La Encyclopaedia Judaica dice que no se recita entre semana, aunque Jacob Emden pensaba que quien la cantara entre semana sería especialmente bendecido, y algunas familias la cantan también en las comidas de las fiestas.[^ej][^enkin]
 
-La melodía tiene su propia historia. En 1906, el artículo de la Jewish Encyclopedia sobre los zemirot, de Joseph Jacobs y Francis L. Cohen, explicaba que las melodías de las canciones de mesa eran más recientes que sus letras, y que a menudo eran canciones populares que un padre traía a casa y cantaba en su propia mesa. Donde una familia elegía unas pocas canciones para cantar, decía, la melodía más frecuente era una melodía alemana, que se usaba para Tzur Mishelo o para otra canción de mesa, "Yom Zeh le-Yisrael".[^je] Imprimía esa melodía con el título "Sabbath Rest", lenta, en 6/8 y en Sol menor.[^je] Las tres estrofas en inglés que imprime debajo no son Tzur Mishelo en absoluto. Siguen a Yom Zeh le-Yisrael: su estribillo, "A light and a joy to us is Sabbath rest" (una luz y una alegría es para nosotros el descanso del sabbat), es el "luz y alegría, un sabbat de descanso" de esa canción.[^je][^yomzeh] El hebreo de Tzur Mishelo lo hemos ajustado nosotros a la melodía.
+La melodía tiene su propia historia. En 1906, el artículo de la Jewish Encyclopedia sobre los zemirot, de Joseph Jacobs y Francis L. Cohen, explicaba que las melodías de las canciones de mesa eran más recientes que sus letras, y que a menudo eran canciones populares que un padre traía a casa y cantaba en su propia mesa. Donde solo se elegían algunas de las canciones, decía, la melodía más frecuente era una melodía alemana, que se usaba para Tzur Mishelo o para otra canción de mesa, "Yom Zeh le-Yisrael".[^je] Imprimía esa melodía con el título "Sabbath Rest", lenta, en 6/8 y en Sol menor.[^je] Las tres estrofas en inglés que imprime debajo no son Tzur Mishelo en absoluto. Siguen a Yom Zeh le-Yisrael: su estribillo, "A light and a joy to us is Sabbath rest" (una luz y una alegría es para nosotros el descanso del sabbat), es el "luz y alegría, un sabbat de descanso" de esa canción.[^je][^yomzeh] El hebreo de Tzur Mishelo lo hemos ajustado nosotros a la melodía.
 
 ### Cronología
 
 - 1906: la Jewish Encyclopedia, vol. 12, imprime la melodía alemana como "Sabbath Rest" y la señala como la melodía más frecuente para Tzur Mishelo o Yom Zeh le-Yisrael. [^je]
-- 1914: la edición anotada de Israel Abrahams del libro de oraciones de Singer la imprime entre sus himnos de mesa, en la versión inglesa de Nina Salaman, y señala, siguiendo a Baer, que nunca menciona el sabbat. [^abrahams][^salaman]
-- 1926: Mediaeval Hebrew Minstrelsy, de Herbert Loewe, la pone con dos melodías familiares, con un inglés hecho a su medida, y recoge la opinión de Hirschfeld de que es tan antigua como la Mishná. [^loewe]
-- 1981: las notas del siddur Metsudah recogen una opinión minoritaria según la cual cantarla al final de la comida podría contar como decir la bendición. [^metsudah][^enkin]
+- 1914: la edición anotada de Israel Abrahams del libro de oraciones de Singer la imprime entre sus himnos de mesa, en la versión inglesa de Nina Salaman. [^abrahams][^salaman]
+- 1926: Mediaeval Hebrew Minstrelsy, de Herbert Loewe, la pone con dos melodías familiares, con un inglés hecho a su medida. [^loewe]
 
 ## Qué dice la letra
 
-El título son las primeras palabras del estribillo. Tzur es "roca", un antiguo nombre de Hashem: el cántico de Ana dice "no hay roca como nuestro Dios".[^tanakh] Mishelo es "de lo Suyo", y achalnu, "hemos comido". Así que el estribillo empieza: la Roca, de cuya propia comida hemos comido.[^metsudah][^loewe]
+El título son las primeras palabras del estribillo. Tzur es "roca", un antiguo nombre de Hashem: el cántico de Ana, en el libro de Samuel, dice que no hay roca como Hashem.[^tanakh] Mishelo es "de lo Suyo", y achalnu, "hemos comido". Así que el estribillo empieza: la Roca, de cuya propia comida hemos comido.[^metsudah][^loewe]
 
 La canción tiene cuatro estrofas, con el estribillo antes, entre ellas y después. Cantamos las estrofas 1 y 4.
 
-**Estribillo (cantado).** Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos! Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Hashem. Barchu, "¡a bendecir!", es la llamada del zimmun, y kidvar, "según la palabra de", es la misma palabra de la historia de Eliseo, donde la gente comió y aún sobró "como Dios había dicho".[^mishnah][^tanakh]
+**Estribillo (cantado).** Aquel, la Roca, de cuya comida hemos comido: ¡a bendecirlo, mis fieles amigos! Hemos comido hasta saciarnos y ha sobrado comida, tal como dijo Hashem. Barchu, "¡a bendecir!", es la llamada del zimmun, y kidvar, "según la palabra de", es la misma palabra de la historia de Eliseo, donde la gente comió y aún sobró, tal como Hashem había dicho.[^mishnah][^tanakh]
 
 **Estrofa 1 (cantada).** Él alimenta a Su mundo, nuestro pastor, nuestro padre. Hemos comido Su pan y bebido Su vino. Por eso daremos gracias a Su nombre y lo alabaremos en voz alta, hemos dicho y respondido: nadie es santo como Hashem. El comienzo recuerda la primera bendición, que da gracias a Hashem por alimentar a todos.[^ej][^loewe][^metsudah] El último verso es del cántico de Ana en el libro de Samuel.[^tanakh][^loewe]
 
@@ -50,13 +50,13 @@ La canción tiene cuatro estrofas, con el estribillo antes, entre ellas y despu�
 
 **Estrofa 3.** Ten misericordia de Tu pueblo y de Sion, morada de Tu gloria, y que venga el heredero de David a redimirnos. Es la tercera bendición, la de Jerusalén.[^ej][^metsudah]
 
-**Estrofa 4 (cantada).** Que se reconstruya el Templo y se llene otra vez la ciudad de Sion, y allí cantaremos un cántico nuevo y subiremos con alegría. Que el Misericordioso, el Santo, sea bendito y ensalzado sobre una copa llena de vino, como Hashem nos ha bendecido. El "cántico nuevo" es el de Isaías.[^tanakh][^loewe] La copa es la copa de bendición sobre la que se dice la bendición después de comer, y el Talmud pide que esté llena.[^ej][^talmud]
+**Estrofa 4 (cantada).** Que se reconstruya el Templo y se llene otra vez la ciudad de Sion, y allí cantaremos un cántico nuevo y subiremos con alegría. Que el Misericordioso, el Santo, sea bendito y ensalzado sobre una copa llena de vino, como Hashem nos ha bendecido. El "cántico nuevo" recuerda la llamada de Isaías a cantarle a Hashem un cántico nuevo.[^tanakh][^loewe] La copa es la copa de bendición sobre la que se dice la bendición después de comer, y el Talmud pide que esté llena.[^ej][^talmud]
 
 Donde el hebreo tiene el nombre de cuatro letras, cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración: "kidvar Adoshem", "kevirkat Adoshem", y en la estrofa 1 "ein kadosh kadoshem", donde el nombre va unido a ka, "como". Muchos judíos cambian los nombres de Hashem al decirlos o cantarlos fuera de la oración, por reverencia, y una canción para practicar está fuera de la oración; el significado es el mismo.[^ohr][^enkinnames]
 
 ### La letra completa
 
-Estos son el estribillo y las cuatro estrofas tal como los imprime el Siddur Ashkenaz de Sefaria, del Metsudah Siddur (1981), con una licencia Creative Commons de Atribución; los significados son nuestros.[^metsudah] Damos el estribillo una sola vez, y el nombre de cuatro letras en la forma abreviada de muchos libros de oraciones.
+Estos son el estribillo y las cuatro estrofas tal como los imprime el Siddur Ashkenaz de Sefaria, del Metsudah Siddur (1981), con una licencia Creative Commons de Atribución; los significados son nuestros.[^metsudah] Damos el estribillo una sola vez, y cada nombre divino en la forma sustituta que cantamos; el nombre de cuatro letras va en la forma abreviada de muchos libros de oraciones.
 
 **Estribillo**
 > צוּר מִשֶּׁלּוֹ אָכַֽלְנוּ בָּרְכוּ אֱמוּנַי
@@ -153,11 +153,11 @@ Nuestro arreglo toma la melodía de la página 658 del volumen 12 de la Jewish E
 
 ### ¿Qué significa "Tzur Mishelo"?
 
-"La Roca, de lo Suyo": el comienzo del estribillo, "la Roca de cuya propia comida hemos comido". Tzur, "roca", es un nombre bíblico de Hashem, como en el cántico de Ana en el libro de Samuel: "no hay roca como nuestro Dios".[^tanakh][^metsudah][^loewe]
+"La Roca, de lo Suyo": el comienzo del estribillo, "la Roca de cuya propia comida hemos comido". Tzur, "roca", es un nombre bíblico de Hashem, como en el cántico de Ana en el libro de Samuel, que dice que no hay roca como Hashem.[^tanakh][^metsudah][^loewe]
 
 ### ¿Cuál es el origen de Tzur Mishelo?
 
-Nadie sabe quién la escribió ni cuándo. Está construida sobre la bendición después de las comidas: su estribillo toma la invitación a bendecir juntos, y sus estrofas siguen los tres primeros párrafos de la bendición. Un estudioso, L. Hirschfeld, la creía tan antigua como la Mishná; Herbert Loewe lo puso en duda en 1926. La melodía que cantamos es la melodía alemana que la Jewish Encyclopedia de 1906 llamaba la más usada para ella.[^ej][^abrahams][^loewe][^je]
+Nadie sabe quién la escribió ni cuándo. Está construida sobre la bendición después de las comidas: su estribillo toma la invitación a bendecir juntos, y sus estrofas siguen los tres primeros párrafos de la bendición. Un estudioso, L. Hirschfeld, la creía tan antigua como la Mishná; Herbert Loewe lo puso en duda en 1926. La melodía que cantamos es una melodía alemana que la Jewish Encyclopedia de 1906 llamaba la más frecuente para los cantos de mesa, usada con esta canción o con Yom Zeh le-Yisrael.[^ej][^abrahams][^loewe][^je]
 
 ### ¿Qué voz canta la melodía?
 
@@ -179,8 +179,8 @@ La soprano canta de principio a fin la melodía alemana que imprimió la Jewish 
 - [^metsudah]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Tzur Mishelo", texto hebreo y la versión inglesa y las notas del Metsudah Siddur (Avrohom Davis, 1981), en Sefaria, con la licencia [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Tzur_Mishelo
 - [^yomzeh]: *Siddur Ashkenaz*, Zemirot for Shabbat Evening, "Yom Zeh L'yisrael", texto hebreo (Metsudah Siddur, 1981), en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Shabbat%2C_Shabbat_Evening%2C_Zemirot_for_Shabbat_Evening%2C_Yom_zeh_L'yisrael
 - [^mishnah]: Mishnah Berakhot 7:3, edición William Davidson, en Sefaria. https://www.sefaria.org/Mishnah_Berakhot.7.3
-- [^talmud]: Talmud de Babilonia, Berakhot 48b y 51a, edición William Davidson, en Sefaria. https://www.sefaria.org/Berakhot.48b
-- [^tanakh]: 1 Samuel 2:2, 2 Reyes 4:42 a 44, Isaías 42:10, hebreo (Miqra according to the Masorah) y la traducción de la JPS, en Sefaria. https://www.sefaria.org/II_Kings.4.42-44
+- [^talmud]: Talmud de Babilonia, Berakhot 48b, 50a y 51a, edición William Davidson, en Sefaria. https://www.sefaria.org/Berakhot.48b
+- [^tanakh]: 1 Samuel 2:2, 2 Reyes 4:42 a 44, Isaías 42:10, hebreo (Miqra according to the Masorah), en Sefaria. https://www.sefaria.org/II_Kings.4.42-44
 - [^enkin]: Ari Enkin, "Tzur Mishelo", *Dalet Amot of Halacha*, OU Torah. https://outorah.org/p/136021
 - [^enkinnames]: Ari Enkin, "Zemirot: Repeating God's Name", *Dalet Amot of Halacha*, OU Torah. https://outorah.org/p/135253
 - [^ohr]: Yirmiyahu Ullman, "Elokim", *Ask!*, Ohr Somayach (2010). https://www.ohr.edu/4514
