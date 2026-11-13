@@ -14,8 +14,9 @@ occasion: Trinity Sunday
 wikidata: Q1185012
 quote: Perfect in power, in love, and purity!
 quoteSource: heber1827
-updated: 2026-11-12
-checked: 2026-11-12
+original: Heber, Hymns (1827), p. 84, Internet Archive | https://archive.org/details/writadap00hebe/page/84 || Hymns Ancient and Modern (1861), Hymn 135, Internet Archive | https://archive.org/details/hymnsancientmode00unse/page/n199
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote holy holy holy lord god almighty | who wrote the music for holy holy holy | holy holy holy hymn history | holy holy holy lord god almighty meaning | holy holy holy lord god almighty who was and is and is to come meaning
 ---
@@ -26,17 +27,17 @@ Holy, Holy, Holy is a hymn to God as Trinity: one God, Father, Son and Holy Spir
 
 **The words.** Heber was born at Malpas in Cheshire on 21 April 1783 and studied at Brasenose College, Oxford [^julian1892][^dnb-heber]. He was ordained in 1807 and spent the next sixteen years at Hodnet in Shropshire, his family's living [^julian1892][^dnb-heber]. He was its rector, as he called himself in print and in his letters [^bampton1816][^life1830v1]. There he planned a hymn for every Sunday and holy day of the year. When the first few appeared in a magazine, the Christian Observer, in 1811 and 1812, he explained that they were "designed to be sung between the Nicene Creed and the sermon", each tied in some degree to that day's Collect and Gospel [^life1830v1][^julian1892]. In June 1819 he wrote to a friend that he was busy "correcting, collecting, and arranging all my hymns", though he had begun to have "high Church scruples" about using them in public [^life1830v1].
 
-Holy, Holy, Holy was his hymn for Trinity Sunday, the Sunday after Whitsun [^heber1827][^hymnarchive]. On that day the Book of Common Prayer reads Revelation 4, the vision of God's throne, as the Epistle [^bcp][^hymnary-text]. Heber's hymn is that chapter put into verse [^julian1892][^canterbury]. All his hymns were written in the Hodnet years [^julian1892][^heber1827].
+Holy, Holy, Holy was his hymn for Trinity Sunday, the Sunday after Whitsun [^heber1827][^hymnarchive]. On that day the Book of Common Prayer reads Revelation 4, the vision of God's throne, as the Epistle [^bcp][^hymnary-text]. All his hymns were written in the Hodnet years [^julian1892][^heber1827].
 
-In 1823 Heber became Bishop of Calcutta [^julian1892][^hymnary-text], and spent much of the next three years on long journeys through his diocese [^julian1892][^dnb-heber]. On Sunday 2 April 1826 he preached and confirmed at Trichinopoly, in southern India. Early the next morning he confirmed again, at the fort [^chatterton][^dnb-heber]. Back at the house where he was staying, he wrote "Trichinopoly April 3, 1826" on the back of his confirmation address and went into a large cold bath, as he had the two mornings before. Half an hour later his servant found him dead [^life1830v2][^chatterton]. He was 42. His widow's Life records the doctors' view that an illness had been growing unseen for some time [^life1830v2]. He was buried on the north side of the altar of St John's Church, Trichinopoly [^life1830v2][^dnb-heber].
+In 1823 Heber became Bishop of Calcutta [^julian1892][^hymnary-text], and spent much of the next three years on long journeys through his diocese [^julian1892][^dnb-heber]. On Sunday 2 April 1826 he preached and confirmed at Trichinopoly, in southern India. Early the next morning he confirmed again, at the fort [^chatterton][^dnb-heber]. Back at the house where he was staying, he wrote "Trichinopoly April 3, 1826" on the back of his confirmation address and went into a large cold bath, as he had the two mornings before. Half an hour later his servant found him dead [^life1830v2][^chatterton]. He was 42. His widow's Life says an illness had been at work unsuspected for some time, and that the doctors thought he could not have lived very long in any case [^life1830v2]. He was buried on the north side of the altar of St John's Church, Trichinopoly [^life1830v2][^dnb-heber].
 
-Julian's dictionary reported in 1907 that the earliest printing known to its editors was in the third edition of A Selection of Psalms and Hymns for the Parish Church of Banbury, 1826 [^julian1907]. No copy is known today, and Hymnology Archive calls the book apparently lost [^hymnarchive]. Which came first in 1826, the book or Heber's death, is not known. In 1827 his widow, Amelia Heber, published his collection as Hymns, Written and Adapted to the Weekly Church Service of the Year, the earliest printing that survives. Holy, Holy, Holy is on page 84, headed "Trinity Sunday", in four verses, without music [^heber1827][^julian1892]. The 1892 edition of Julian's dictionary had named this book as the earliest printing; the Banbury report came in 1907 [^julian1892][^julian1907].
+Julian's dictionary reported in 1907 that the earliest printing known to its editors was in the third edition of A Selection of Psalms and Hymns for the Parish Church of Banbury, 1826 [^julian1907]. No copy is known today, and Hymnology Archive calls the book apparently lost [^hymnarchive]. In 1827 his widow, Amelia Heber, published his collection as Hymns, Written and Adapted to the Weekly Church Service of the Year, the earliest printing that survives. Holy, Holy, Holy is on page 84, headed "Trinity Sunday", in four verses, without music [^heber1827][^julian1892]. The 1892 edition of Julian's dictionary had named this book as the earliest printing; the Banbury report came in 1907 [^julian1892][^julian1907].
 
 **The tune.** John Bacchus Dykes was born in Hull on 10 March 1823 [^fowler][^dnb-dykes][^hymnary-nicaea]. A clergyman and musician, he became precentor of Durham Cathedral, in charge of its music, in 1849 [^dnb-dykes][^hymnary-nicaea]. In the autumn of 1860 friends urged him to offer tunes to a new Church of England hymn book, Hymns Ancient and Modern. On 12 October he wrote from Durham to its music editor, William Henry Monk, sending "a few MS. Tunes", sorry that he "knew nothing of the musical arrangement of the work till just now" [^fowler][^hymnarchive]. In the book of 1861, Heber's hymn is No. 135, under Trinity Sunday, with Dykes's tune and his own harmony [^ham1861][^hymnary-nicaea].
 
-The tune is named after Nicaea, where church leaders met in council in 325. The Nicene Creed, the statement of faith in God as Trinity, takes its name from that council [^hymnary-nicaea][^hymnarchive]. Writers have compared its opening, which climbs up the notes of the home chord, with the German chorale tune WACHET AUF [^hymnary-nicaea][^hymnarchive]. Dykes went on to be vicar of St Oswald's, Durham, from 1862, and died on 22 January 1876 [^dnb-dykes][^fowler].
+The tune is named after Nicaea, where church leaders met in council in 325. That council set out the Church's teaching on God as Trinity, the subject of Heber's hymn [^hymnary-nicaea][^hymnarchive]. Writers have compared its opening, which climbs up the notes of the home chord, with the German chorale tune WACHET AUF [^hymnary-nicaea][^hymnarchive]. Dykes went on to be vicar of St Oswald's, Durham, from 1862, and died on 22 January 1876 [^dnb-dykes][^fowler].
 
-**Myth and record.** Often told: Alfred Tennyson thought it the finest hymn ever written [^methodist]. What the record shows: his son's memoir notes a talk in April 1892, months before the poet died. Tennyson said that a good hymn is "the most difficult thing in the world to write". Later he said: "Of hymns I like Heber's 'Holy, Holy, Holy' better than most, it is in a fine metre too" [^tennyson1897]. It was sung at his funeral in Westminster Abbey on 12 October 1892 [^abbey][^iln1892][^tennyson1897]. The Pall Mall Gazette's report found Heber's "spirited" hymn "perhaps a little unsuitable" for the day [^iln1892].
+**Myth and record.** Often told: Alfred Tennyson thought it the finest hymn ever written [^methodist]. What the record shows: his son's memoir notes a talk in April 1892, months before the poet died. Tennyson said that a good hymn is "the most difficult thing in the world to write". In the same answer he said: "Of hymns I like Heber's 'Holy, Holy, Holy' better than most, it is in a fine metre too" [^tennyson1897]. It was sung at his funeral in Westminster Abbey on 12 October 1892 [^abbey][^iln1892][^tennyson1897]. The Pall Mall Gazette's report found Heber's "spirited" hymn "perhaps a little unsuitable" for the day [^iln1892].
 
 ### Timeline
 
@@ -56,8 +57,6 @@ The hymn draws on two visions of God's throne in the Bible [^hymnary-text][^hymn
 2. The saints of heaven worship, casting down their golden crowns around the "glassy sea", John's sea of glass. Cherubim and seraphim are orders of angels. "Which wert, and art, and evermore shalt be": who was, and is, and always will be. "Wert" is an old form of "were", used with "thou".
 3. Darkness hides God, and sinful human eyes cannot see his glory. Yet only God is holy, as the song in Revelation 15 says, and there is no other, "perfect in power, in love, and purity" [^kjv].
 4. Verse 1 comes back, but now all creation joins in, "in earth, and sky, and sea", like every creature in Revelation 5:13 [^kjv].
-
-We sing verse 1.
 
 ### The full words
 
@@ -89,25 +88,25 @@ God in Three Persons, Blessèd Trinity!
 
 ## How it is sung
 
-Heber appointed the hymn for Trinity Sunday, and Hymns Ancient and Modern placed it there in 1861 [^heber1827][^ham1861]. Many hymnals still list it for Trinity Sunday, and for morning worship [^hymnary-text]. Anglican, Methodist, Lutheran, Catholic and Baptist hymnals all print it with NICAEA [^hymnary-text][^hymnary-nicaea]. The meter is 11.12.12.10: four lines of eleven, twelve, twelve and ten syllables [^ham1861][^hymnary-nicaea].
+Heber appointed the hymn for Trinity Sunday, and Hymns Ancient and Modern placed it there in 1861 [^heber1827][^ham1861]. Many hymnals still list it for Trinity Sunday or for the beginning of worship, and Julian noted that some appointed it as a morning hymn [^hymnary-text][^julian1892]. Anglican, Methodist, Lutheran, Catholic and Baptist hymnals print it, nearly always with NICAEA [^hymnary-text][^hymnary-nicaea]. The meter is 11.12.12.10: four lines of eleven, twelve, twelve and ten syllables [^ham1861][^hymnary-nicaea].
 
-Our arrangement is on Dykes's harmony from the 1861 book, with his tune and bass as he wrote them, in E as printed, written in crotchets where the book has minims. We sing verse 1, steady and broad, with a breath at the end of each line and one more before "Blessèd" in the last. The alto and tenor are revoiced so that two and three singers hear whole chords, and the Amen is left out.
+Our arrangement is on Dykes's harmony from the 1861 book, with his tune as he wrote it, in E as printed, written in crotchets where the book has minims. The bass is Dykes's, changed in three spots for beginners: on "Lord" and on "mer-ci-" it stays on the upper A, where Dykes sings the low A and leaps the octave, and on "Ear-ly" it sings B, the chord's root, where he has D-sharp [^ham1861]. We sing verse 1, steady and broad, with a breath at the end of each line and one more before "Blessèd" in the last. The alto and tenor are revoiced so that two and three singers hear whole chords, and the Amen is left out.
 
 ## Versions and other words
 
-Because line 2 begins "Early in the morning", some hymnals rewrote it so the hymn could be sung at any hour of the day. Many keep Heber's words [^julian1892][^hymnarchive]. Hymns Ancient and Modern kept Heber's words in 1861, changing only small points of spelling and punctuation, such as "Three Persons" with capitals and "Blessèd" [^heber1827][^ham1861].
+Because line 2 begins "Early in the morning", some hymnals rewrote it so the hymn could be sung at any hour of the day. Many keep Heber's words [^julian1892][^hymnarchive].
 
 ## Did you know?
 
-- The preface to Heber's Hymns of 1827 says he had meant to publish them soon after he reached India, but the work of his diocese left him no time [^heber1827].
+- The preface to Heber's Hymns of 1827 says he had meant to publish them soon after he reached India, but the work of his diocese left him little time for anything else [^heber1827].
 - Hymns Ancient and Modern printed Revelation 4:8 above the hymn in 1861: "They rest not day and night, saying, Holy, Holy, Holy, Lord God Almighty, which was, and is, and is to come." [^ham1861]
 
 ## Singing it
 
-- [Soprano](/songs/holy-holy-holy/soprano): you carry Dykes's tune. It opens by climbing the home chord, E, G-sharp and B, on "Holy, holy, holy", two notes to each word. It reaches its top E on "morning" and on "God" in "God in Three Persons", and comes home to the low E on the last "Trinity".
+- [Soprano](/songs/holy-holy-holy/soprano): you carry Dykes's tune. It opens by climbing the home chord, E, G-sharp and B, on "Holy, holy, holy", two notes to each word. It reaches its top E on the first syllable of "morning" and on "God" in "God in Three Persons", and comes home to the low E on the last "Trinity".
 - [Alto](/songs/holy-holy-holy/alto): you begin above the tune, on G-sharp, for the first "Holy" of lines one and three, then cross beneath it, and you finish above it again on the end of "Trinity". Most of the time you sing a third or a sixth under the tune, mostly on G-sharp and D-sharp. The A-sharp on "rise" is your one note outside the key; solo it in the player to tune it.
 - [Tenor](/songs/holy-holy-holy/tenor): you fill the middle of the chord, most often on B, then C-sharp. In "God in Three Persons" you start on E, the top of your part, and step down through D natural on "Three", a note outside the key, to C-sharp and B.
-- [Bass](/songs/holy-holy-holy/bass): you sing Dykes's own bass, mostly on the roots, E, A and B. You rise to your top A on "Lord God Al-" and on "merciful and". Under "God in Three Persons" you drop from C-sharp to your lowest note, G-sharp, on "in Three".
+- [Bass](/songs/holy-holy-holy/bass): you sing Dykes's bass, made easier in three spots, mostly on the roots, E, A and B. You rise to your top A on "Lord God Al-" and on "merciful and". Under "God in Three Persons" you drop from C-sharp to your lowest note, G-sharp, on "in Three".
 
 ## Questions
 
@@ -132,7 +131,7 @@ The soprano sings the tune in our arrangement: Dykes's melody exactly as Hymns A
 ## Sources
 
 - [^heber1827]: Reginald Heber, *Hymns, Written and Adapted to the Weekly Church Service of the Year* (London: John Murray, 1827), dedication by Amelia Heber (5 July 1827), preface, and "Trinity Sunday", p. 84; Princeton Theological Seminary Library copy, facsimile. https://archive.org/details/writadap00hebe
-- [^julian1892]: John Julian, ed., *A Dictionary of Hymnology* (London: John Murray, 1892), "Heber, Reginald", pp. 503 to 504, and "Holy, holy, holy, Lord God Almighty", p. 530; facsimile. https://archive.org/details/bub_gb_I-0sAAAAYAAJ
+- [^julian1892]: John Julian, ed., *A Dictionary of Hymnology* (London: John Murray, 1892), "Heber, Reginald", pp. 502 to 504, and "Holy, holy, holy, Lord God Almighty", p. 530; facsimile. https://archive.org/details/bub_gb_I-0sAAAAYAAJ
 - [^julian1907]: John Julian, ed., *A Dictionary of Hymnology*, revised edition (London: John Murray, 1907), New Supplement, "Holy, holy, holy, Lord God Almighty", p. 1649; facsimile. https://archive.org/details/dictionaryofhymn02lond
 - [^canterbury]: *The Canterbury Dictionary of Hymnology*, "Holy, holy, holy! Lord God almighty" (Canterbury Press), opening section. https://hymnology.hymnsam.co.uk/h/holy,-holy,-holy!-lord-god-almighty
 - [^hymnarchive]: Chris Fenner, *Holy, holy, holy*, Hymnology Archive (citing J. T. Fowler, 1897; Carl P. Daw Jr., 2016; Robin A. Leaver, 1987). https://www.hymnologyarchive.com/holy-holy-holy
