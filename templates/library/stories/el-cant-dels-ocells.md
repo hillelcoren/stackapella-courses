@@ -13,8 +13,8 @@ alsoKnownAs: Song of the Birds; El cant dels aucells; Lo cant dels aucells; Cant
 wikidata: Q742621
 quote: Jesús es nat per tráurens de pecat
 quoteSource: millet1917
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: el cant dels ocells meaning | what does el cant dels ocells mean | el cant dels ocells lyrics | el cant dels ocells letra | el cant dels ocells letra español | el cant dels ocells lletra | el cant dels ocells tiene letra | el cant dels ocells compositor | who wrote el cant dels ocells | el cant dels ocells casals | el cant dels ocells pau casals | pablo casals song of the birds united nations
 original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
@@ -24,7 +24,7 @@ El cant dels ocells, "the song of the birds", is a Catalan Christmas carol. Olde
 
 ## Where it comes from
 
-**The words in print.** In 1874 the collector Francesc Pelay Briz opened the fourth volume of his *Cansons de la terra*, "songs of the land", with "Lo cant dels aucells", a "cansò de Nadal", a Christmas song [^briz1874]. Its fifteen six-line verses are Millet's of 1917, in the same order, with small differences of wording [^briz1874][^millet1917]. Briz's tune, though, is in 6/8 and is not the one we sing. He wrote that he could give many variants, "emperò la lletra no s'ho val", but the words were not worth it: what had real value was his tune, perhaps one of the most beautiful and original [^briz1874].
+**The words in print.** In 1874 the collector Francesc Pelay Briz opened the fourth volume of his *Cansons de la terra*, "songs of the land", with "Lo cant dels aucells", a "cansò de Nadal", a Christmas song [^briz1874]. Its fifteen six-line verses are Millet's of 1917, in the same order, with small differences of wording [^briz1874][^millet1917]. Briz's tune, though, is in 6/8 and is not the one we sing. He wrote that he could give many variants, "emperò la lletra no s'ho val", but the words were not worth it: what had real value was the tune, perhaps one of the most beautiful and original [^briz1874].
 
 ![[1]]
 
@@ -276,7 +276,7 @@ the brightness amazes me.
 
 ## How it is sung
 
-It is a song for Christmas night [^briz1874][^capmany1903]. Millet said carols like it were often sung in church at the Missa del Gall, the midnight mass, though they were the people's music, not church music [^millet1912]. The Gran Enciclopèdia Catalana calls its melody melancholy, in a minor key, with an unusual range [^enccat-ocells].
+It is a song for Christmas night [^briz1874][^capmany1903]. Millet said many carols like it were sung in church at the Missa del Gall, the midnight mass, though they were the people's music, not church music [^millet1912]. The Gran Enciclopèdia Catalana calls its melody melancholy, in a minor key, with an unusual range [^enccat-ocells].
 
 Our arrangement is Millet's harmony, printed in 1917, a tone lower, in F minor, at 60 beats a minute, the speed the *Materials* prints [^millet1917][^materials]. The alto, tenor and bass hum "oo" throughout and open alone for three bars; the soprano then sings verse 1 and verse 2, the eagle, each with its last three lines twice.
 
@@ -317,7 +317,7 @@ No one knows. The words were printed in 1874 and the tune by 1903, both with no 
 
 ### Why did Pau Casals play El cant dels ocells at the United Nations?
 
-He played it on 24 October 1971, at 94, the day he received the United Nations Peace Medal, as a song of hope and peace, the Fundació Pau Casals says, after speaking about Catalonia [^paucasals-un][^un-av]. In exile since 1939, he had played it at the start of his concerts, the Enciclopèdia Catalana says, and it had come to be seen as a national symbol for Catalans [^enccat-casals][^enccat-ocells][^paucasals-bio].
+He played it on 24 October 1971, at 94, the day he received the United Nations Peace Medal, as a song of hope and peace, the Fundació Pau Casals says, after speaking about Catalonia [^paucasals-un][^un-av][^enccat-casals]. In exile since 1939, he had played it at the start of his concerts, the Enciclopèdia Catalana says, and it had come to be seen as a national symbol for Catalans [^enccat-casals][^enccat-ocells][^paucasals-bio].
 
 ### Which part sings the tune?
 
@@ -346,7 +346,7 @@ The soprano, alone and with all the words, as the solo voice does in Millet's 19
 - [^loc-millet]: Library of Congress Name Authority File, "Millet, Lluís, 1867-1941", n83212921. https://id.loc.gov/authorities/names/n83212921.html
 - [^loc-casals]: Library of Congress Name Authority File, "Casals, Pablo, 1876-1973", n79015686. https://id.loc.gov/authorities/names/n79015686.html
 - [^paucasals-bio]: Fundació Pau Casals, "Biografia". https://paucasals.org/biografia
-- [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", section "The day the world sang for peace". https://paucasals.org/en/pablo-casals-and-the-united-nations
+- [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", section "Hymn to the United Nations". https://paucasals.org/en/pablo-casals-and-the-united-nations
 - [^un-av]: United Nations Audiovisual Library, "UN Day Concert 1971", 24 October 1971, General Assembly Hall, New York: programme listing the UN Peace Medal presentation and "Song of the Birds, Traditional, performed by Pablo Casals, cello". https://media.un.org/avlibrary/en/asset/d236/d2362972
 - [^stategov]: U.S. Department of State, *Dinner Is Served*, "Pablo Casals", with photographs from the John F. Kennedy Presidential Library. https://stories.state.gov/dinner-is-served/dance/pablo-casals
 - [^musicweb]: Jonathan Woolf, MusicWeb International, review of *Pablo Casals: A Concert at the White House* (Minuet 428408), September 2015. https://musicweb-international.com/classrev/2015/Sep/Casals_White_House_428408.htm

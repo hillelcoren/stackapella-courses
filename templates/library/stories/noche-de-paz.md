@@ -5,7 +5,7 @@ lead: Noche de paz sets Spanish words to Gruber's Silent Night tune. Their earli
 words: Spanish, unsigned (earliest known printing 1893), often credited to Federico Fliedner (1845 to 1901); German, Joseph Mohr (1816)
 tune: Franz Xaver Gruber (1818)
 tuneName: STILLE NACHT
-meter: 8.7.10.10.7.7
+meter: 8.7.10.10.7.7; irregular
 earliestPrinting: El Himnario evangélico, New York, 1893, No. 48
 earliestPrintingSource: h1893
 language: Spanish
@@ -15,37 +15,37 @@ alsoKnownAs: ¡Noche de paz, noche de amor!; Silent Night in Spanish; Stille Nac
 wikidata: Q172152
 quote: ¡Noche de paz, noche de amor!
 quoteSource: h1893
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: quién escribió noche de paz en español | noche de paz historia | noche de paz letra | que significa la cancion noche de paz | noche de paz autor y año | noche de paz pais de origen | noche de paz original aleman
 original: El Himnario evangélico, 1893, Internet Archive | https://archive.org/details/elhimevangl93amer/page/n43
 listen: Internet Archive, 1906 recording, in German | https://archive.org/details/loc-jukebox-122507-stille-nacht-heilige-nacht || Internet Archive, 1912 recording, in German | https://archive.org/details/loc-jukebox-131775-stille-nacht-heilige-nacht
 ---
 
-Noche de paz, "night of peace", is Silent Night in Spanish: Franz Xaver Gruber's Austrian tune of 1818 with Spanish words that begin "¡Noche de paz, noche de amor!", night of peace, night of love [^h1893][^hymnary-text]. Its earliest known printing is hymn No. 48 in El Himnario evangélico, a hymnal for Spanish-speaking Protestant churches published in New York in 1893 by the American Tract Society [^h1893][^hymnary-text]. That page names no one, neither the German writer, Joseph Mohr, nor the Spanish one [^h1893]. Who made the Spanish is still not known for certain. From these hymnals for Spanish-speaking Protestants it went into Lutheran, Adventist, Methodist and Baptist books and, from 1989, a Catholic one: Hymnary.org indexes it in 52 hymnals [^h1915-front][^hymnary-text].
+Noche de paz is Silent Night in Spanish: Franz Xaver Gruber's Austrian tune of 1818 with Spanish words that begin "¡Noche de paz, noche de amor!", night of peace, night of love [^h1893][^hymnary-text]. Its earliest known printing is hymn No. 48 in El Himnario evangélico, a hymnal for Spanish-speaking Protestant churches published in New York in 1893 by the American Tract Society [^h1893][^hymnary-text]. That page names no one, neither the German writer, Joseph Mohr, nor the Spanish one [^h1893]. Who made the Spanish is still not known for certain. From these hymnals it went into Lutheran, Adventist, Methodist and Baptist books and, from 1989, a Catholic one: Hymnary.org indexes it in 52 hymnals [^h1915-front][^hymnary-text].
 
 ![[1]]
 
 ## Where it comes from
 
-**The German song.** Joseph Mohr, an assistant priest, wrote the German poem Stille Nacht in 1816 in Mariapfarr, in the Lungau region of Salzburg. Franz Xaver Gruber, a schoolteacher and organist, set it on Christmas Eve 1818 in Oberndorf, and it was sung at that night's Mass [^sng-time][^hymnarchive]. Our [Silent Night](/songs/silent-night) story tells that history.
+**The German song.** Joseph Mohr, an assistant priest, wrote the German poem Stille Nacht in 1816 in Mariapfarr, in the Lungau region of Salzburg. Franz Xaver Gruber, a schoolteacher and organist, set it on Christmas Eve 1818 in Oberndorf, and it was sung that same night in the church of St Nicholas [^sng-time][^hymnarchive].
 
-**The 1893 page.** El Himnario evangélico, "for the use of all the churches", came from the Sociedad Americana de Tratados, the American Tract Society, in New York, copyright 1893. Its title page and preface name no editors [^h1893-preface][^h1893-text]. The preface says the editors searched every Spanish-speaking country for evangelical hymns and, in some, "nos hemos permitido cambiar en algo la fraseología": they allowed themselves to change the wording a little, for better rhythm and sound [^h1893-preface]. On page 38, under the heading "El Señor Jesu-Cristo: su encarnación", the Lord Jesus Christ, his incarnation, stands No. 48, "¡Noche de paz, noche de amor!" [^h1893]. The tune is headed in English, "HOLY NIGHT.", with no composer named. It is in C, in 6/8, four parts on two staves [^h1893]. The book signs some of its hymns, most often "J. B. Cabrera" or "T. M. Westrup", but leaves most unsigned, among them the two on either side of this one, "Oíd un son en alta esfera" and "Los heraldos celestiales" [^h1893][^h1893-text]. No. 48 has no name at all [^h1893].
+**The 1893 page.** El Himnario evangélico, "for the use of all the churches", came from the Sociedad Americana de Tratados, the American Tract Society, in New York, copyright 1893. Its title page and preface name no editors [^h1893-preface][^h1893-text]. The preface says the editors searched every Spanish-speaking country for evangelical hymns and, in some, "nos hemos permitido cambiar en algo la fraseología": they allowed themselves to change the wording a little, for better rhythm and sound [^h1893-preface]. On page 38, under the heading "El Señor Jesu-Cristo: su encarnación", the Lord Jesus Christ, his incarnation, stands No. 48, "¡Noche de paz, noche de amor!" [^h1893]. The tune is headed in English, "HOLY NIGHT.", with no composer named. It is in C, in 6/8, four parts on two staves [^h1893]. The book signs some of its hymns, most often "J. B. Cabrera" or "T. M. Westrup", but leaves most unsigned, among them the two on either side of this one, "Oíd un son en alta esfera" and "Los heraldos celestiales" [^h1893][^h1893-text].
 
 ![[2]]
 
-**The next printings.** In 1894 the same society printed the words alone in Himnos evangélicos, again as No. 48, "Holy Night", again unsigned, like the hymns on either side of it; No. 46, two places before it, is signed "J. B. Cabrera" [^h1894]. In 1907 James H. Van Buren, the Episcopal bishop of Puerto Rico, put it in his Himnario provisional for Spanish-speaking Episcopal congregations, as No. 18 under "Navidad", Christmas, with the tune renamed "Noche Buena", Christmas Eve [^h1907][^h1907-front]. His notice says most of his hymns were taken from the society's Himnos evangélicos [^h1907-text].
+**The next printings.** In 1894 the same society printed the words alone in Himnos evangélicos, again as No. 48, "Holy Night", again unsigned, like the hymns on either side of it; No. 46 is signed "J. B. Cabrera" [^h1894]. In 1907 James H. Van Buren, the Episcopal bishop of Puerto Rico, put it in his Himnario provisional for Spanish-speaking Episcopal congregations, as No. 18 under "Navidad", Christmas, with the tune renamed "Noche Buena", Christmas Eve [^h1907][^h1907-front]. His notice says most of his hymns were taken from the society's Himnos evangélicos [^h1907-text].
 
 ![[3]]
 
-**The 1915 revision.** In 1915 the society published El Nuevo himnario evangélico, "for the evangelical churches of Spanish speech in all the world" [^h1915-front]. Its preface says a committee drawn from all the denominations working in Mexico spent more than two years revising the 1893 hymnal, verse by verse, comparing more than ten collections from Spain, South America and Mexico and some three thousand hymns. The publisher's note lists the fifteen members, from the Baptist, Congregational, Methodist Episcopal and Presbyterian churches [^h1915-front]. Here, as No. 83 and still unsigned, the second verse's "En el campo al pastor" becomes "Oye humilde el fiel pastor" [^h1915][^h1893].
+**The 1915 revision.** In 1915 the society published El Nuevo himnario evangélico, "for the evangelical churches of Spanish speech in all the world" [^h1915-front]. Its preface says a committee drawn from all the denominations working in Mexico spent more than two years revising the 1893 hymnal, verse by verse. The publisher's note lists the fifteen members, from the Baptist, Congregational, Methodist Episcopal and Presbyterian churches [^h1915-front]. Here, as No. 83 and still unsigned, the second verse's "En el campo al pastor" becomes "Oye humilde el fiel pastor" [^h1915][^h1893].
 
 ![[4]]
 
-**Who wrote it.** No printing we have seen from 1893 to 1915 names the Spanish writer, and none mentions Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. In Hymnary.org's index the Spanish has no credit before the 1950s; after that the credits differ: J. B. Cabrera in 1952, F. J. Pagura in 1962, Federico Fliedner in 1964 (marked "adapt."), and "anónimo", anonymous, in others [^hymnary-text][^hymnary-cc1964]. In the hymnals Hymnary.org indexes from 1990 on, his is the most common credit, in 13 of 18, and Hymnary.org's own entry names him as translator [^hymnary-text]. Federico (Fritz) Fliedner was born at Kaiserswerth, on the Rhine, on 10 June 1845, the son of Theodor Fliedner [^ndb][^hymnary-fliedner]. He settled in Madrid in 1870 as a Protestant missionary, led a church there and built Protestant schools, and he died in Madrid on 25 April 1901 [^ndb][^dbclm][^hymnary-fliedner]. His biographers say German hymns were put into Spanish in his work, and that he wrote hymns for his Sunday school [^ndb][^dbclm]. So the credit is plausible.
+**Who wrote it.** No printing we have seen from 1893 to 1915 names the Spanish writer, and none mentions Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. In Hymnary.org's index the Spanish has no credit before the 1950s; after that the credits differ: J. B. Cabrera in 1952, F. J. Pagura in 1962, Federico Fliedner in 1964 (marked "adapt."), and "anónimo", anonymous, in others [^hymnary-text][^hymnary-cc1964]. In the hymnals Hymnary.org indexes from 1990 on, his is the most common credit, in 13 of 18, and Hymnary.org's own entry names him as translator [^hymnary-text]. Federico (Fritz) Fliedner was born at Kaiserswerth on 10 June 1845, the son of Theodor Fliedner [^ndb][^hymnary-fliedner]. He settled in Madrid in 1870 as a Protestant missionary, led a church there and built Protestant schools, and he died in Madrid on 25 April 1901 [^ndb][^dbclm][^hymnary-fliedner]. His biographers say German hymns were put into Spanish in his work, and that he wrote hymns for his Sunday school [^ndb][^dbclm]. So the credit is plausible.
 
-**Myth and record.** Often told: Federico Fliedner made the first Spanish version, recorded in 1871. The only place we found that date is one sentence in a Spanish newspaper in 2023, which gives no source [^eldebate]. What the record shows: the earliest known printing, in 1893, is unsigned, as most hymns in that book are, and no printing we have seen names Fliedner before Culto Cristiano in 1964 [^h1893][^h1893-text][^hymnary-cc1964]. The Cyber Hymnal, an online hymn collection, called the translator unknown when it was archived in 2009, and gave no date for the Spanish [^cyber2009]. Two biographies of Fliedner, one German and one Spanish, do not mention the song [^ndb][^dbclm]. The words may be his, but that is a credit, not a proof.
+**Myth and record.** Often told: Federico Fliedner made the first Spanish version, recorded in 1871. We found that date only in online retellings, all in the same words; a Spanish newspaper in 2023 gives it with no source, and the 2009 hymn page those retellings point to calls the translator unknown [^eldebate][^cyber2009]. What the record shows: no printing we have seen names Fliedner before Culto Cristiano in 1964 [^hymnary-cc1964]. That 2009 page, from the Cyber Hymnal, an online hymn collection, gave no date for the Spanish [^cyber2009]. Two biographies of Fliedner, one German and one Spanish, do not mention the song [^ndb][^dbclm]. The words may be his, but that is a credit, not a proof.
 
 ### Timeline
 
@@ -58,11 +58,11 @@ Noche de paz, "night of peace", is Silent Night in Spanish: Franz Xaver Gruber's
 
 ## What the words mean
 
-Mohr wrote six German verses; the Spanish has three [^sng-text][^h1893]. They are a free version, not a line-by-line translation, and they seem to draw on both the German and the English. The first verse's "Todo duerme", all is asleep, is Mohr's "Alles schläft", which John Freeman Young's English of 1859 leaves out [^mohr-ms][^young]. The third verse's light on the child's face is nearer Young's "thy holy face" than Mohr's "göttlichen Mund", divine mouth [^young][^mohr-ms]. Their order, Mohr's first, sixth and second verses, is the one German printings had used since about 1833 and Young's English kept [^young][^sng-text]. The light in the sky, in the first and third Spanish verses, is the Spanish writer's own: neither Mohr's first verse nor Young's has it [^mohr-ms][^young].
+Mohr wrote six German verses; the Spanish has three [^sng-text][^h1893]. They are a free version, not a line-by-line translation, and they seem to draw on both the German and the English. The first verse's "Todo duerme", all is asleep, is Mohr's "Alles schläft", which John Freeman Young's English of 1859 leaves out [^mohr-ms][^young]. The third verse's light on the child's face is nearer Young's "Thy Holy Face" than Mohr's "göttlichen Mund", divine mouth [^young][^mohr-ms]. Their order, Mohr's first, sixth and second verses, is that of the earliest known printing with music, in Dresden in about 1833, and of Young's English [^hymnarchive][^young][^sng-text]. The star of the first Spanish verse, and the "astro", the light in the sky, that ends the third, are the Spanish writer's own: none of Mohr's six verses and none of Young's three has a star [^mohr-ms][^young].
 
-**Verse 1.** Night of peace, night of love: all around, everything sleeps. "Derredor" means around. "Astros" are the lights of the sky, "esparcen" means they scatter, and "niñito" is a fond word for a little child. Among those lights, one, beautiful, shines out, the star of peace, telling of the baby Jesus.
+**Verse 1.** Night of peace, night of love: all around, everything sleeps. "Astros" are the lights of the sky, "esparcen" means they scatter, and "niñito" is a fond word for a little child. Among those lights, one, beautiful, shines out, the star of peace, telling of the baby Jesus.
 
-**Verse 2.** In the field, to the shepherd, choirs from heaven proclaim "salud", here in its old sense of salvation, with thanks and glory in their "plenitud", fullness, for "nuestro buen Redentor", our good Redeemer. It is the shepherds' night from Luke's Gospel, where an angel brings the news and a host from heaven sings glory to God [^luke2]. In 1915 the second line became "Oye humilde el fiel pastor", the humble, faithful shepherd hears, and "proclaman" and "en su plenitud" became "que anuncian" and "en gran plenitud" [^h1915][^h1893].
+**Verse 2.** In the field, to the shepherd, choirs from heaven proclaim "salud", here in its old sense of salvation, with thanks and glory in their "plenitud", fullness, for "nuestro buen Redentor", our good Redeemer. It is the shepherds' night from Luke's Gospel, where an angel brings the news and a host from heaven sings glory to God [^luke2]. By 1915 the second line had become "Oye humilde el fiel pastor", the humble, faithful shepherd hears, and "proclaman" and "en su plenitud" had become "que anuncian" and "en gran plenitud" [^h1915][^h1893].
 
 **Verse 3.** "Ved", behold, what lovely "resplandor", radiance, shines on the face of the child Jesus, in the "pesebre", the manger: the Light of the world, a name Jesus gives himself in John's Gospel [^john8], and a light in the sky of everlasting "fulgor", brilliance.
 
@@ -110,16 +110,16 @@ a heavenly light of everlasting brilliance.
 
 ## How it is sung
 
-Noche de paz is a Christmas hymn: the 1907 hymnal files it under "Navidad", Christmas, and names its tune "Noche Buena", Christmas Eve [^h1907]. Hymnary.org's index follows it into a Lutheran hymnal in 1931, an Adventist one in 1962, Methodist and Baptist ones in the 1970s, and from 1989 Flor y Canto, a Catholic hymnal from Oregon Catholic Press [^hymnary-text][^hymnary-fyc].
+Hymnary.org's index follows Noche de paz into a Lutheran hymnal in 1931, an Adventist one in 1962, Methodist and Baptist ones in the 1970s, and from 1989 Flor y Canto, a Catholic hymnal from Oregon Catholic Press [^hymnary-text][^hymnary-fyc].
 
-In hymnals its tune is STILLE NACHT [^hymnary-text]. The 1907 book gives the Spanish meter as 8.7.10.10.7.7; Hymnary.org lists it as irregular [^h1907][^hymnary-text].
+The 1907 book gives the Spanish meter as 8.7.10.10.7.7; Hymnary.org lists it as irregular [^h1907][^hymnary-text].
 
-Our arrangement sings all three 1893 verses for 2 to 4 singers, in C and in 6/8, with every pitch of the 1893 tune and its rhythm, except that each line ends a little early, leaving half a beat to breathe [^h1893]. The parts are our own: the alto and tenor sing the words with the tune, and the bass sings "oo". Each verse's last line is sung twice. In the second verse, "campo" and "al", "Gracias" and "y", and "glorias" and "en" each take their own note, so the words fill the line.
+Our arrangement sings all three 1893 verses for 2 to 4 singers, in C and in 6/8, with every pitch of the 1893 tune and its rhythm, except that each line ends a little early, leaving half a beat to breathe [^h1893]. The parts are our own: the alto and tenor sing the words with the tune, and the bass sings "oo". In the second verse, "campo" and "al", "Gracias" and "y", and "glorias" and "en" each take their own note, so the words fill the line.
 
 ## Versions and other words
 
 - **Other verses:** The Cyber Hymnal in 2009 printed four unsigned Spanish verses, three of them unlike the 1893 ones [^cyber2009], and Flor y Canto (2011) credits its first Spanish verse to Fliedner and stanzas 2 to 7 to "anónimo" [^hymnary-fyc]. We cannot date them, so we don't give them.
-- **A version credited to Federico José Pagura:** Cántico Nuevo (1962) and the Cyber Hymnal today credit Spanish words to him; we name that version only [^hymnary-text][^hymnary-pagura].
+- **A credit to Federico José Pagura:** Cántico Nuevo (1962) credits these Spanish words to "F. J. Pagura", and the Cyber Hymnal today credits its four verses to Federico José Pagura, born 1923; Hymnary.org files both under this same text [^hymnary-text][^hymnary-pagura]. The Cyber Hymnal's first verse is the one printed in 1893, and in 2009 the same site called its translator unknown [^h1893][^cyber2009]. A credit to him can only be for a revision, not for the words we sing.
 
 ## Singing it
 
@@ -132,7 +132,7 @@ Our arrangement sings all three 1893 verses for 2 to 4 singers, in C and in 6/8,
 
 ### Who wrote Noche de paz in Spanish?
 
-No one knows for certain. The earliest known printing, in a New York hymnal of 1893, names no writer, as with most hymns in that book [^h1893][^h1893-text]. Hymnary.org shows Federico Fliedner (1845 to 1901), a German Protestant pastor in Madrid, as the most common credit, in 13 of the 18 hymnals it indexes from 1990 on; others print "anonymous" [^hymnary-text][^ndb]. No printing we have seen before 1964 names him [^hymnary-text][^hymnary-cc1964].
+No one knows for certain. The earliest known printing, in a New York hymnal of 1893, names no writer, as with most hymns in that book [^h1893][^h1893-text]. Hymnary.org shows Federico Fliedner (1845 to 1901), a German Protestant pastor in Madrid, as the most common credit, in 13 of the 18 hymnals it indexes from 1990 on; of the other five, one prints "anónimo", anonymous, and four name no translator [^hymnary-text][^ndb]. No printing we have seen before 1964 names him [^hymnary-text][^hymnary-cc1964].
 
 ### What country is Noche de paz from?
 
