@@ -14,8 +14,8 @@ alsoKnownAs: And did those feet in ancient time
 wikidata: Q489607
 quote: Would to God that all the Lords people were Prophets.
 quoteSource: milton-ws
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: jerusalem hymn | who wrote the music to jerusalem hymn | jerusalem hymn meaning | dark satanic mills meaning | is jerusalem the english national anthem | jerusalem william blake full poem | jerusalem hymn lyrics church of england
 ---
@@ -28,13 +28,13 @@ Jerusalem is William Blake's poem "And did those feet in ancient time", sung to 
 
 The preface is mostly angry prose. Blake attacks the "Stolen and Perverted Writings" of the Greek and Roman classics and complains of "Hirelings in the Camp, the Court, & the University" who would "depress Mental & prolong Corporeal War" [^milton-ws][^milton-asu]. The four stanzas follow, with no title of their own [^milton-ws][^milton-asu].
 
-**The tune.** In 1916 the poet laureate, Robert Bridges, wanted a song for Fight for Right, a movement set up to keep up Britain's resolve in the First World War [^dibble][^aspects]. He had printed Blake's stanzas in his wartime anthology, The Spirit of Man [^spiritofman][^aspects]. He asked Hubert Parry for "suitable, simple music to Blake's stanzas" [^graves][^dibble]. Parry's diary for 10 March 1916, as Standpoint quotes it, says he "Wrote a tune for some words of Blake Bridges sent me" [^standpoint][^dibble]. He handed it to the organist Walford Davies, who had it printed [^dibble][^aspects]. London choirs sang it under Davies at the movement's meeting in the Queen's Hall on 28 March 1916 [^dibble][^aspects].
+**The tune.** In 1916 the poet laureate, Robert Bridges, wanted a song for Fight for Right, a movement set up to keep up Britain's resolve in the First World War [^dibble][^aspects]. He had printed Blake's stanzas in his wartime anthology, The Spirit of Man [^spiritofman][^aspects]. He asked Hubert Parry for "suitable, simple music to Blake's stanzas" [^graves][^dibble]. Parry's diary for 10 March 1916, as Standpoint quotes it, says he "Wrote a tune for some words of Blake Bridges sent me" [^standpoint][^dibble]. He handed it to the organist Walford Davies, who had it printed and published that year, copyrighted in Parry's name [^dibble][^aspects]. London choirs sang it under Davies at the movement's meeting in the Queen's Hall on 28 March 1916 [^dibble][^aspects].
 
-Parry grew uneasy with the movement's war propaganda, and by May 1917 he had asked it to stop using his tune [^standpoint][^aspects][^oliveira]. On 17 March 1917 he conducted it with the women of the Albert Hall choir. A Parry scholar describes the occasion as a call for women to take up National Service, one that drew Parry closer to the suffrage movement; a review of a later history calls it a suffrage meeting [^dibble][^aspects][^hensher].
+Parry grew uneasy with the movement's war propaganda, and in May 1917 he withdrew his support from it [^aspects][^oliveira]; by one account he also asked it not to use his tune any more [^standpoint]. On 17 March 1917 he conducted it with the women of the Albert Hall choir. A Parry scholar describes the occasion as a call for women to take up National Service, one that drew Parry closer to the suffrage movement; a review of a later history calls it a suffrage meeting [^dibble][^aspects][^hensher].
 
-The suffrage campaign took it up the next year. On 13 March 1918 Millicent Fawcett's National Union of Women's Suffrage Societies held a demonstration concert at the Albert Hall, marking the last stage of the campaign for the vote [^graves][^dibble]. He arranged the song for orchestra for it [^standpoint][^aspects]. Fawcett wrote to thank him on 15 March and said it ought to be the Women Voters' Hymn. On 18 March Parry answered: "I wish indeed it might become the Women Voters' hymn, as you suggest" [^graves][^dibble]. He gave the copyright to the suffrage union. It later went to the Women's Institutes; two accounts say the union passed it on, another that Parry's executors reassigned it when the union closed in 1928 [^aspects][^standpoint][^dibble]. Parry died in October 1918, a month before the war ended [^graves][^dibble].
+The suffrage campaign took it up the next year. On 13 March 1918 Millicent Fawcett's National Union of Women's Suffrage Societies held a demonstration concert at the Albert Hall, marking the last stage of the campaign for the vote [^graves][^dibble]. Parry arranged the song for orchestra for the concert [^standpoint][^aspects]. Fawcett wrote to thank him on 15 March and said it ought to be the Women Voters' Hymn. On 18 March Parry answered: "I wish indeed it might become the Women Voters' hymn, as you suggest" [^graves][^dibble]. He gave the copyright to the suffrage union. It later went to the Women's Institutes; two accounts say the union passed it on, another that Parry's executors reassigned it when the union closed in 1928 [^aspects][^standpoint][^dibble]. Parry died in October 1918, a month before the war ended [^graves][^dibble]. British law then gave fifty years after a composer's death, so the copyright ran out at the end of 1968, and Parry's setting has been in the public domain since [^dibble][^ukca1956].
 
-**What the printings show.** The Old Country, a pocket book about England edited by Ernest Rhys (J. M. Dent, October 1917), reproduces Curwen's plate of Parry's song on pages 18 and 19. Rhys's Editor's Note calls the book a "kit-book or hut-book" for "soldiers abroad and England-lovers everywhere". The plate reads "Set to Music by C. Hubert H. Parry" and "Published by J. S. Curwen & Sons, Ltd.", marked "Slow but with animation". Verse 1 is marked Solo, and verse 2 is for "ALL AVAILABLE VOICES" [^oldcountry]. In 1925 the hymnbook Songs of Praise printed it as No. 204, "Copyright, 1916, by C. Hubert H. Parry" [^sop1925]. By 1930 it was in Canada: the United Church's Hymnary printed it as No. 522, "By permission of the Executors of the late Sir Hubert Parry" [^ucc1930].
+**What the printings show.** The Old Country, a pocket book about England edited by Ernest Rhys (J. M. Dent, October 1917), reproduces Curwen's plate of Parry's song on pages 18 and 19. Rhys's Editor's Note calls the book a "kit-book or hut-book" for "soldiers abroad and England-lovers everywhere". The plate reads "Set to Music by C. Hubert H. Parry" and "Published by J. S. Curwen & Sons, Ltd.", marked "Slow but with animation". Verse 1 is marked Solo, and verse 2 is for "ALL AVAILABLE VOICES" [^oldcountry]. In 1925 the hymnbook Songs of Praise printed it as No. 204, "Copyright, 1916, by C. Hubert H. Parry" [^sop1925]. By 1930 it was in Canada: the United Church's Hymnary printed it as No. 522, "By permission of the Executors of the late Sir Hubert Parry and of the Publishers, J. Curwen & Sons", from Curwen Edition No. 40009 [^ucc1930].
 
 The Old Country (1917) and Songs of Praise (1925) print "Among those dark Satanic mills", where Blake etched "these"; the Canadian Hymnary of 1930 prints Blake's "these" [^oldcountry][^sop1925][^ucc1930][^milton-asu].
 
@@ -55,7 +55,7 @@ The Old Country (1917) and Songs of Praise (1925) print "Among those dark Satani
 
 ## What the words mean
 
-The poem is four questions, a call for arms and a vow. We sing the first two stanzas, the questions.
+The poem is four questions, a call for arms and a vow. We sing Parry's first verse, which is Blake's first two stanzas, the questions.
 
 1. Did those feet walk on England's mountains in ancient times? Was "the holy Lamb of God", Jesus, seen in its fields? The Lamb of God is John the Baptist's name for Jesus [^kjv].
 2. Did God's face, "the Countenance Divine", shine on its cloudy hills? Was Jerusalem built here among the "dark Satanic Mills"? "Builded" is an old form of "built". Jerusalem is the city of God's people, and the Bible ends with a new Jerusalem coming down from heaven [^kjv].
@@ -65,7 +65,7 @@ The poem is four questions, a call for arms and a vow. We sing the first two sta
 Nobody knows exactly what Blake meant by the mills.
 - Interesting Literature calls the factories of the Industrial Revolution the usual reading, and Princeton's library reads them as the mills that "already loomed in Blake's day" [^intlit][^princeton].
 - Vauxhall History, following a Lambeth local history, and London Radical Histories point to one mill: the Albion Mills by Blackfriars Bridge, a steam-powered flour mill of 1786 that burned down on 2 March 1791 [^pasttense][^vauxhall]. Blake lived across the river in Lambeth through the 1790s [^londonremembers][^pasttense]. The link is suggested, not proven [^pasttense][^vauxhall].
-- Interesting Literature and Historic UK both give a church reading; Interesting Literature notes that Blake uses mills elsewhere for the Church of England [^intlit][^historicuk].
+- Others give a church reading: Blake uses mills elsewhere for the Church of England [^intlit][^historicuk].
 - In Milton itself, the mills belong to Satan, "The Miller of Eternity" [^milton-asu][^intlit].
 
 ### The full words
@@ -96,11 +96,11 @@ In England's green and pleasant land.
 
 Parry wrote one tune for voices and organ, a solo verse and then one for all [^oldcountry][^standpoint]. Hymnbooks print his tune with his accompaniment as the harmony [^sop1925][^ucc1930]. It is sung by church choirs and Women's Institutes, at jubilees, and at English sporting events, rugby above all [^aspects][^robinson][^dibble][^oliveira]. Its tune name is JERUSALEM and its meter double long meter, 8.8.8.8 D [^sop1925][^ucc1930].
 
-Our arrangement is read from Songs of Praise, which prints Parry's own setting, and checked against Curwen's plate in The Old Country. It is in D, Parry's key, in 3/4. The soprano sings Parry's tune with no pitch changed, only the last note shortened to end on the bar line. The bass follows the lowest notes of his accompaniment, an octave up where they lie below a bass's range, with five notes moved where they still lay too low. The alto and tenor are ours, on his harmony. We sing the first verse, broad and steady, with a breath at every line.
+Our arrangement is read from Songs of Praise, which prints Parry's own setting, and checked against Curwen's plate in The Old Country. It is in D, Parry's key, in 3/4. The soprano sings Parry's tune with no pitch changed, only the last note shortened to end on the bar line. The bass follows the lowest notes of his accompaniment, an octave or two up where they lie below a bass's range, with five notes changed. The alto and tenor are ours, on his harmony. We sing the first verse, broad and steady, with a breath at every line.
 
 ## Did you know?
 
-- When Team England put its anthem to a public vote in 2010, Jerusalem took 52.5%, Land of Hope and Glory 32.5% and God Save the Queen 12% [^teamengland][^oliveira].
+- When Team England put its anthem to a public vote in 2010, Jerusalem took 52.5%, Land of Hope and Glory 32.5% and God Save the Queen 12% [^teamengland][^zoamorphosis].
 
 ## Singing it
 
@@ -158,4 +158,6 @@ The soprano sings Parry's tune, exactly as he wrote it, the last note shortened 
 - [^intlit]: Oliver Tearle, "'Dark Satanic Mills': Meaning and Origin", Interesting Literature (2023). https://interestingliterature.com/2023/08/dark-satanic-mills-meaning-origin/
 - [^historicuk]: Ellen Castelow, "William Blake's Jerusalem", Historic UK (1 September 2025). https://www.historic-uk.com/CultureUK/William-Blake-Jerusalem/
 - [^davila]: Jim Davila, "Jesus in England? I don't think so", PaleoJudaica (27 November 2009). https://paleojudaica.blogspot.com/2009/11/jesus-in-england-i-dont-think-so.html
+- [^zoamorphosis]: Jason Whittaker, "Jerusalem and the Commonwealth Games", The William Blake Blog (Zoamorphosis) (4 August 2022). https://zoamorphosis.com/jerusalem-and-the-commonwealth-games/
+- [^ukca1956]: Copyright Act 1956 (4 & 5 Eliz. 2 c. 74), section 2(3), as enacted, legislation.gov.uk. https://www.legislation.gov.uk/ukpga/Eliz2/4-5/74/section/2/enacted
 - [^kjv]: The Bible, King James Version: John 1:29; Revelation 21:2; 2 Kings 2:11. https://www.biblegateway.com/passage/?search=John%201%3A29%3B%20Revelation%2021%3A2%3B%202%20Kings%202%3A11&version=KJV
