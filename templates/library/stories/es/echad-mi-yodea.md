@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: echad mi yodea significado | echad mi yodea letra en español | echad mi yodea transliteración | echad mi yodea historia | quién escribió echad mi yodea | echad mi yodea pésaj
-translatedFrom: af88f1aba541
+translatedFrom: 2adbd257d5ac
 original: The Union Haggadah, 1923, p. 93, Internet Archive | https://archive.org/details/unionhaggadahhom00unse/page/93/mode/1up
 ---
 
@@ -31,7 +31,7 @@ La copia asquenazí más antigua que se conoce está escrita a mano: un texto he
 
 ![[1]]
 
-La canción tiene una gemela alemana. La colección de canciones populares alemanas de Karl Simrock, impresa en 1851, trae "Guter Freund, ich frage dich", "Buen amigo, te pregunto". Cuenta del mismo modo, y su primera respuesta termina como la hebrea: uno es Dios el Señor, "der da lebt und der da schwebt im Himmel und auf Erden", que vive y flota en el cielo y en la tierra.[^simrock][^ej] Su dos son las tablas de Moisés y su tres, los patriarcas, pero del cuatro en adelante sus respuestas son casi todas cristianas: los evangelistas, las llagas de Cristo, los sacramentos, los apóstoles. Se detiene en el doce.[^simrock][^je] Simrock la imprimió entre sus canciones de beber, y la Jewish Encyclopedia la tomó por una canción de beber de campesinos que habían rehecho unos monjes.[^simrock][^je]
+La canción tiene una gemela alemana. La colección de canciones populares alemanas de Karl Simrock, impresa en 1851, trae "Guter Freund, ich frage dich", "Buen amigo, te pregunto". Cuenta del mismo modo, y su primera respuesta termina como la hebrea, con el Uno del cielo, "der da lebt und der da schwebt im Himmel und auf Erden", que vive y flota en el cielo y en la tierra.[^simrock][^ej] Su dos son las tablas de Moisés y su tres, los patriarcas, pero del cuatro en adelante sus respuestas son casi todas cristianas: los evangelistas, las llagas de Cristo, los sacramentos, los apóstoles. Se detiene en el doce.[^simrock][^je] Simrock la imprimió entre sus canciones de beber, y la Jewish Encyclopedia la tomó por una canción de beber de campesinos que habían rehecho unos monjes.[^simrock][^je]
 
 No está resuelto cuál fue primero. Zunz pensaba que la hebrea se tomó de una canción popular alemana, y el estudioso Perles desarrolló la idea en detalle.[^je][^ej][^jrb] La Encyclopaedia Judaica todavía dice que a un original cristiano se le dio un contenido judío.[^ej] La Jewish Encyclopedia no estaba de acuerdo: una vez que Zunz encontró la canción en Aviñón, argumentaba, había que revisar la teoría de un original alemán.[^je] El Jewish Music Research Centre de la Universidad Hebrea señala que las canciones alemanas se publicaron por primera vez después de 1590, y que los investigadores se han preguntado si son versiones de la hebrea; un ensayo de 2025 no encuentra ninguna versión escrita no judía claramente más antigua que una judía, aunque admite que eso no resuelve la cuestión.[^jmrc][^jrb] También se la ha comparado con cantos de iglesia griegos e ingleses y con una canción infantil escocesa.[^je][^ej]
 
