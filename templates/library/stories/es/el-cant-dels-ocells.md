@@ -13,11 +13,11 @@ alsoKnownAs: Song of the Birds; El cant dels aucells; Lo cant dels aucells; Cant
 wikidata: Q742621
 quote: Jesús es nat per tráurens de pecat
 quoteSource: millet1917
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: false
 searches: el cant dels ocells significado | el cant dels ocells letra | el cant dels ocells letra en español | quién compuso el cant dels ocells | el cant dels ocells pau casals | el cant dels ocells historia
-translatedFrom: 4785eba88dc1
+translatedFrom: 7a6418b06d42
 original: Millet, Pel nostre ideal, 1917, Internet Archive | https://archive.org/details/pel-nostre-ideal-lluis-millet/page/n237
 ---
 
@@ -25,7 +25,7 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 
 ## De dónde viene
 
-**La letra impresa.** En 1874 el recopilador Francesc Pelay Briz abrió el cuarto volumen de sus *Cansons de la terra*, "canciones de la tierra", con "Lo cant dels aucells", una "cansò de Nadal", una canción de Navidad [^briz1874]. Sus quince estrofas de seis versos son las mismas que las de Millet en 1917, en el mismo orden, con pequeñas diferencias de redacción [^briz1874][^millet1917]. La melodía de Briz, en cambio, está en 6/8 y no es la que cantamos. Escribió que podría dar muchas variantes, "emperò la lletra no s'ho val", pero que la letra no valía la pena: lo que tenía verdadero valor era su melodía, quizá una de las más bellas y originales [^briz1874].
+**La letra impresa.** En 1874 el recopilador Francesc Pelay Briz abrió el cuarto volumen de sus *Cansons de la terra*, "canciones de la tierra", con "Lo cant dels aucells", una "cansò de Nadal", una canción de Navidad [^briz1874]. Sus quince estrofas de seis versos son las mismas que las de Millet en 1917, en el mismo orden, con pequeñas diferencias de redacción [^briz1874][^millet1917]. La melodía de Briz, en cambio, está en 6/8 y no es la que cantamos. Escribió que podría dar muchas variantes, "emperò la lletra no s'ho val", pero que la letra no valía la pena: lo que tenía verdadero valor era la melodía, quizá una de las más bellas y originales [^briz1874].
 
 ![[1]]
 
@@ -33,7 +33,7 @@ El cant dels ocells, "el canto de los pájaros", es un villancico catalán. Los 
 
 **¿Qué antigüedad tiene?** Capmany pensaba que "provablement és del sigle XVII", probablemente del siglo XVII, y no posterior, porque una parodia suya saludó al archiduque Carlos de Austria, aclamado en Barcelona como rey Carlos III, a principios del siglo XVIII. Imprimió la parodia como su hoja IV, tomada de una hoja de goigs: sus pájaros cantan cuando los barcos aparecen ante Barcelona, y la mitad de su estrofa del águila es la del villancico, con la misma rima defectuosa, "imperial" con "volant" [^capmany1903]. No conocemos ninguna impresión del villancico anterior a 1874.
 
-**La armonía de Millet.** Lluís Millet (1867 a 1941) fundó el Orfeó Català, una sociedad coral de Barcelona, con Amadeu Vives en 1891 [^enccat-millet][^palau-orfeo][^loc-millet]. En noviembre de 1912 dio una conferencia en el Palau de la Música Catalana sobre el canto religioso popular, en el tercer congreso nacional de música sagrada (el día 20, según la nota al pie de su libro; la lista de sus obras de la Enciclopèdia dice que el 23), con cantores del Orfeó que daban los ejemplos. Entre las canciones de Navidad sonó esta, las aves que proclaman la buena nueva, en la armonía para voces de hombre que había escrito unos años antes [^millet1912][^enccat-millet].
+**La armonía de Millet.** Lluís Millet (1867 a 1941) fundó el Orfeó Català, una sociedad coral de Barcelona, con Amadeu Vives en 1891 [^enccat-millet][^palau-orfeo][^loc-millet]. En noviembre de 1912 dio una conferencia en el Palau de la Música Catalana sobre el canto religioso popular, en el tercer congreso nacional de música sagrada (el día 20, según la nota al pie de su libro; la lista de sus obras de la Enciclopèdia da el 23), con cantores del Orfeó que daban los ejemplos. Entre las canciones de Navidad sonó esta, las aves que proclaman la buena nueva, en la armonía para voces de hombre que había escrito unos años antes [^millet1912][^enccat-millet].
 
 **La página.** Su música se imprimió en *Pel nostre ideal* de Millet, terminado en Barcelona el 26 de mayo de 1917 [^millet1917]. El Exemple XIV, "El cant dels aucells", "Harm. de'n Lluís Millet", lleva la indicación Moderat. Los cuatro pentagramas de hombres, Tenors I y II, Baritons y Baixos, llevan pp y "(Boca tancada)", boca cerrada: los hombres cantan con la boca cerrada, tres compases solos antes del primer "Al" del solo. Las quince estrofas siguen bajo la música, y una nota al pie dice que Iberia Musical había publicado la partitura y las particellas [^millet1917].
 
@@ -59,7 +59,7 @@ Después de la primera estrofa, en cada estrofa de seis versos cantan o hablan d
 
 **Estrofa 2.** El águila imperial vuela por los aires cantando que Jesús ha nacido para sacarnos del pecado y darnos alegría [^millet1917].
 
-**Las demás estrofas** llaman a las aves una por una, por sus viejos nombres populares [^millet1917][^dcvb-birds]. El "lluhé" es un lúgano (hoy lluer), el alegre "Tort" un tordo (tord), y la "estiverola", el carbonero común, tiene un nombre hecho de estiu, verano: aquí canta que no es invierno ni verano sino primavera, porque ha nacido una flor. Al final llegan los búhos, que ven salir el sol y se retiran, deslumbrados: "Mirar no puch", no puedo mirar [^millet1917][^dcvb-birds]. Otras palabras: "manyach" es una palabra cariñosa para un pequeño manso, "establía" es un establo, y "m'admiren" significa me asombran [^dcvb-words][^millet1917].
+**Las demás estrofas** llaman a las aves una por una, por sus viejos nombres populares [^millet1917][^dcvb-birds]. El "lluhé" es un lúgano (hoy lluer), el alegre "Tort" un tordo (tord), y la "estiverola", el carbonero común, tiene un nombre hecho de estiu, verano: aquí canta que no es invierno ni verano sino primavera, porque ha nacido una flor. Al final llegan los búhos, que ven salir el sol y se retiran, deslumbrados: "Mirar no puch", no puedo mirar [^millet1917][^dcvb-birds]. Otras palabras: "manyach" es una palabra cariñosa para un niño pequeño y dócil, "establía" es un establo, y "m'admiren" significa me asombran [^dcvb-words][^millet1917].
 
 ### La letra completa
 
@@ -131,7 +131,7 @@ brillante como una estrella.
 > La Cotxa i lo Bitxach
 El colirrojo y la tarabilla
 > festejen al manyach
-festejan al pequeño manso
+festejan al pequeñín
 > i a sa Mare donzella.
 y a su Madre doncella.
 
@@ -277,7 +277,7 @@ los resplandores me asombran.
 
 ## Cómo se canta
 
-Es una canción para la noche de Navidad [^briz1874][^capmany1903]. Millet dijo que villancicos como este se cantaban a menudo en la iglesia en la Missa del Gall, la misa de medianoche, aunque eran música del pueblo, no música de iglesia [^millet1912]. La Gran Enciclopèdia Catalana califica su melodía de melancólica, en tonalidad menor, con una extensión poco común [^enccat-ocells].
+Es una canción para la noche de Navidad [^briz1874][^capmany1903]. Millet dijo que muchos villancicos como este se cantaban en la iglesia en la Missa del Gall, la misa de medianoche, aunque eran música del pueblo, no música de iglesia [^millet1912]. La Gran Enciclopèdia Catalana califica su melodía de melancólica, en tonalidad menor, con una extensión poco común [^enccat-ocells].
 
 Nuestro arreglo es la armonía de Millet, impresa en 1917, un tono más grave, en Fa menor, a 60 pulsos por minuto, la velocidad que imprimen los *Materials* [^millet1917][^materials]. La contralto, el tenor y el bajo cantan "oo" (una u) a boca cerrada de principio a fin y empiezan solos durante tres compases; luego la soprano canta la estrofa 1 y la estrofa 2, la del águila, cada una con sus tres últimos versos dos veces.
 
@@ -318,7 +318,7 @@ Nadie lo sabe. La letra se imprimió en 1874 y la melodía ya en 1903, las dos s
 
 ### ¿Por qué tocó Pau Casals El cant dels ocells en las Naciones Unidas?
 
-Lo tocó el 24 de octubre de 1971, a los 94 años, el día en que recibió la Medalla de la Paz de las Naciones Unidas, como una canción de esperanza y de paz, según la Fundació Pau Casals, después de hablar de Cataluña [^paucasals-un][^un-av]. Exiliado desde 1939, lo había tocado al comienzo de sus conciertos, según la Enciclopèdia Catalana, y había llegado a verse como un símbolo nacional de los catalanes [^enccat-casals][^enccat-ocells][^paucasals-bio].
+Lo tocó el 24 de octubre de 1971, a los 94 años, el día en que recibió la Medalla de la Paz de las Naciones Unidas, como una canción de esperanza y de paz, según la Fundació Pau Casals, después de hablar de Cataluña [^paucasals-un][^un-av][^enccat-casals]. Exiliado desde 1939, lo había tocado al comienzo de sus conciertos, según la Enciclopèdia Catalana, y había llegado a verse como un símbolo nacional de los catalanes [^enccat-casals][^enccat-ocells][^paucasals-bio].
 
 ### ¿Qué voz canta la melodía?
 
@@ -347,9 +347,9 @@ La soprano, sola y con toda la letra, como la voz solista en el impreso de Mille
 - [^loc-millet]: Library of Congress Name Authority File, "Millet, Lluís, 1867-1941", n83212921. https://id.loc.gov/authorities/names/n83212921.html
 - [^loc-casals]: Library of Congress Name Authority File, "Casals, Pablo, 1876-1973", n79015686. https://id.loc.gov/authorities/names/n79015686.html
 - [^paucasals-bio]: Fundació Pau Casals, "Biografia". https://paucasals.org/biografia
-- [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", sección "The day the world sang for peace". https://paucasals.org/en/pablo-casals-and-the-united-nations
+- [^paucasals-un]: Fundació Pau Casals, "Pablo Casals and the United Nations", sección "Hymn to the United Nations". https://paucasals.org/en/pablo-casals-and-the-united-nations
 - [^un-av]: United Nations Audiovisual Library, "UN Day Concert 1971", 24 de octubre de 1971, General Assembly Hall, Nueva York: programa que recoge la entrega de la UN Peace Medal y "Song of the Birds, Traditional, performed by Pablo Casals, cello". https://media.un.org/avlibrary/en/asset/d236/d2362972
 - [^stategov]: U.S. Department of State, *Dinner Is Served*, "Pablo Casals", con fotografías de la John F. Kennedy Presidential Library. https://stories.state.gov/dinner-is-served/dance/pablo-casals
 - [^musicweb]: Jonathan Woolf, MusicWeb International, reseña de *Pablo Casals: A Concert at the White House* (Minuet 428408), septiembre de 2015. https://musicweb-international.com/classrev/2015/Sep/Casals_White_House_428408.htm
 - [^datebook]: Composers Datebook, "Casals and Copland at the White House" (YourClassical, American Public Media, 13 de noviembre de 2022). https://www.yourclassical.org/episode/2022/11/13/casals-and-copland-at-the-white-house
-- [^genesis]: La Biblia, Génesis 1:16, en la Vulgata latina y la King James Version; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV
+- [^genesis]: La Biblia, Génesis 1:16, en la Vulgata latina y la King James Version; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Genesis%201%3A16&version=VULGATE;KJV;RVA
