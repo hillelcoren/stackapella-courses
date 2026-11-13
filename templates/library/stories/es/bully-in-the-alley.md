@@ -14,7 +14,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: bully in the alley significado | qué significa bully in the alley | bully in the alley historia | bully in the alley origen | quién escribió bully in the alley | bully in the alley letra
-translatedFrom: 8392b08ef645
+translatedFrom: 0a527881239f
+original: Cecil J. Sharp, English Folk-Chanteys (1914), Internet Archive | https://archive.org/details/englishfolkchant00shar
 ---
 
 Bully in the Alley es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo [^sharp][^balladindex]. El solista (el shantyman) canta "So help my bob I'm bully in the alley", y la tripulación responde "Way ay bully in the alley" y tira dos veces, en "Way" y en "bully" [^sharp]. No se sabe quién la hizo [^balladindex]. Su primera impresión conocida es la versión que John Short, un viejo shantyman de Watchet, en Somerset, le cantó al recopilador Cecil Sharp, que la imprimió en 1914 y no conocía ninguna otra [^sharp][^balladindex][^csp]. Una segunda versión, que según se cuenta el marinero Stan Hugill aprendió en las Antillas, sitúa la canción en un Shinbone Alley, un nombre que ya aparecía en una canción impresa en 1833 para los escenarios de los minstrel shows con blackface [^balladindex][^mainlynorfolk][^locodyssey][^beaman].
@@ -22,6 +23,8 @@ Bully in the Alley es una canción marinera (shanty): un canto de trabajo que lo
 ## De dónde viene
 
 **La página que hemos leído.** Sharp imprimió la canción como n.º XXXV de *English Folk-Chanteys*, en las páginas 40 y 41, en Sol mayor y en 4/4, con su propio acompañamiento de piano y "Solo." y "Chorus." (coro) marcados sobre la voz [^sharp]. En la estrofa, el shantyman canta "Bully down in our alley", la tripulación retoma ahora también "So help my bob", y el "Bully in Tinpot alley" del shantyman da paso a la última respuesta. Sobre cada "Way" y el "bully" que lo sigue hay una pequeña punta de flecha, el signo de Sharp para las notas en las que los hombres tiraban [^sharp]. Bajo la música imprime dos versos más, numerados 2 y 3: "Have you seen our Sally?" y "She's the girl in the alley." Su nota completa, en la página 71, dice: "Cantada por el Sr. John Short, en Watchet. No tengo variantes de esta ni conozco ninguna versión impresa de ella." [^sharp]
+
+![[1]]
 
 **John Short, de Watchet.** Short, bautizado en Watchet en 1839, navegó en barcos de altura hasta Norteamérica y el Extremo Oriente [^csp][^halsway]. Sharp escribió que había pasado más de cincuenta años en barcos de vela, la mayor parte como chanteyman reconocido, el solista que dirigía el trabajo; a los 76 años era el pregonero de Watchet [^sharp][^csp]. Sharp empezó a anotar sus shanties en abril de 1914 e imprimió 46 de ellas entre las 60 de su libro [^csp][^halsway][^sharp].
 
@@ -47,6 +50,8 @@ La letra de Sharp es un retazo: una estrofa y dos versos más, lo cual era norma
 
 **"So help my bob."** El juramento callejero "s'help me Bob", un "so help me God" (que Dios me ayude) suavizado [^hotten][^farmer]. Hotten (1874) añade que en el habla de la calle se decía a menudo "so help my" por "so help me", tal como lo imprimió Sharp [^hotten][^sharp].
 
+![[2]]
+
 **"I'm bully in the alley."** (Estoy de primera en el callejón.) "Bully" significaba estupendo o de primera y, entre marineros, un compañero, como en la shanty "Blow my bully boys" [^farmer1912][^webster][^hotten][^terry]. Así que quien canta puede estar presumiendo de que le va bien.
 
 **"Bully in Tinpot alley."** (De primera en el callejón Tinpot.) "Tin-pot" era jerga para algo mísero, mezquino o sin valor [^hotten][^barrere]. Tinpot Alley suena a apodo de una calle pobre; Sharp no dice dónde estaba.
@@ -58,6 +63,8 @@ La letra de Sharp es un retazo: una estrofa y dos versos más, lo cual era norma
 ### La letra completa
 
 Esta es la letra del n.º XXXV de *English Folk-Chanteys* (1914), de Cecil Sharp, páginas 40 y 41, tal como la cantaba John Short, con la ortografía de Sharp. Sharp imprime el estribillo y la primera estrofa bajo la melodía, y luego solo los versos numerados 2 y 3. Aquí, tal como la cantamos, cada uno de esos versos ocupa el lugar del primer verso de solo de la estrofa, y el resto de la estrofa se canta como antes. La letra es tradicional, se imprimió en 1914 y Sharp murió en 1924, así que es de dominio público.
+
+![[3]]
 
 **Estribillo**
 > So help my bob I'm bully in the alley;

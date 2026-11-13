@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió be thou my vision | quién compuso la música de be thou my vision | be thou my vision letra original | be thou my vision himno irlandés historia | be thou my vision significado | be thou my vision versículo bíblico
-translatedFrom: 6339e4b29b35
+translatedFrom: d8b0fc211818
 ---
 
 Be Thou My Vision es una oración de la Irlanda medieval convertida en himno inglés en el siglo XX. Su poema irlandés, "Rop tú mo baile", pide a Dios que lo sea todo para quien reza: vista, pensamiento, sabiduría, padre, escudo y tesoro [^eriu1905][^celt]. Nadie sabe quién lo escribió [^celt][^hymnarchive]. Mary Byrne lo publicó con una sencilla traducción inglesa en 1905, y Eleanor Hull la convirtió en pareados rimados en 1912 [^eriu1905][^hull1912]. La primera unión conocida de la letra con su melodía, SLANE, una melodía popular irlandesa, está en el himnario de la Iglesia de Irlanda de 1919 [^hymnarchive][^methodist]. Las iglesias presbiterianas de Escocia, Irlanda, Inglaterra y Gales lo imprimieron en su himnario común de 1927 [^rch1927][^moffatt1927].
@@ -27,9 +27,15 @@ Be Thou My Vision es una oración de la Irlanda medieval convertida en himno ing
 
 **El poema.** El texto irlandés se conserva en tres manuscritos tardíos. La mejor copia está en la Real Academia Irlandesa (Royal Irish Academy), en Dublín: el manuscrito 23 N 10, páginas 95 y 96, escrito en el siglo XVI [^eriu1905][^isos][^hymnarchive]. Uno de sus copistas fechó su trabajo en 1575 [^isos]. Una segunda copia en la misma biblioteca, la 23 E 16, es, en palabras de Byrne, "solo una transcripción descuidada" de la primera [^eriu1905][^hymnarchive]. Una tercera, que perteneció al coleccionista Thomas Phillipps, está en la Biblioteca Nacional de Irlanda; Monica Nevin la editó en 1940 [^hymnarchive][^celt]. Los especialistas sitúan su lengua en el irlandés medio temprano y fechan el poema entre aproximadamente 900 y 1100 [^celt][^hymnarchive][^canterbury]. El texto de Byrne tiene dieciséis estrofas de dos versos, y diez empiezan con "Rob tu" o "Rob tusa", "sé tú" [^eriu1905][^isos].
 
+![[1]]
+
 **La traducción y el verso.** Mary Byrne (1880 a 1931) era una estudiosa dublinesa del irlandés antiguo [^canterbury-byrne][^hymnarchive]. En 1905 publicó el texto irlandés, con una traducción inglesa en prosa verso a verso, con el título "A Prayer" (una oración) en Ériu, la revista de la School of Irish Learning de Dublín [^eriu1905][^hymnarchive]. Su primer verso ya dice "Be thou my vision, O Lord of my heart" (sé tú mi visión, oh Señor de mi corazón). Eleanor Hull (1860 a 1935) nació en Inglaterra en una familia irlandesa y dedicó su vida a la literatura y la historia de Irlanda. Fue una de las fundadoras de la Irish Texts Society [^canterbury-hull][^dub-hull]. En 1912 puso la prosa de Byrne en doce pareados rimados para su antología The Poem-Book of the Gael. Está en la sección de poemas cristianos antiguos del libro (Early Christian Poems), y sus notas atribuyen a Byrne el texto irlandés y la traducción literal [^hull1912][^hymnarchive].
 
+![[2]]
+
 **La melodía.** No se conoce compositor. La primera impresión conocida es el n.º 323 de Old Irish Folk Music and Songs (1909), editado por P. W. Joyce para la Royal Society of Antiquaries of Ireland [^joyce1909][^hymnarchive]. Joyce la imprimió como "With my love on the road" (con mi amor por el camino): dos líneas de música en compás de 3/4, sin letra y sin nota sobre dónde la encontró, en la parte del libro sacada de su propia colección [^joyce1909]. Su prefacio cuenta que creció en Glenosheen, en los montes Ballyhoura del condado de Limerick, donde la música y las canciones "estaban en el aire del valle". Desde 1853 anotó todas las melodías que recordaba, y después anduvo entre la gente, sobre todo en el sur, anotando más [^joyce1909].
+
+![[3]]
 
 **Letra y melodía juntas.** La primera unión conocida está en el Church Hymnal de 1919 de la Iglesia de Irlanda, que puso la letra de Hull, con cambios, con la melodía de Joyce, y la llamó SLANE [^hymnarchive][^methodist]. En 1927 el Church Hymnary revisado lo imprimió como n.º 477, con el compositor galés David Evans como editor musical principal [^rch1927][^moffatt1927]. Las fuentes no coinciden sobre la primera unión: el Psalter Hymnal Handbook dice que SLANE se convirtió en melodía de himno gracias al arreglo de Evans en ese libro de 1927 [^hymnary-slane].
 

@@ -14,12 +14,13 @@ alsoKnownAs: Come, Thou Fount
 wikidata: Q5151284
 quote: Here I raise my Eben-ezer, hither by thine help I'm come
 quoteSource: madan1760
-original: Madan, A Collection of Psalms and Hymns (1760), himno LXXI, p. 73, Internet Archive | https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760/page/n84 || The Methodist Hymnal (1905), n.º 19, p. 14, Internet Archive | https://archive.org/details/methodisthymnalo00meth/page/n27
+original: Martin Madan, A Collection of Psalms and Hymns (1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: come thou fount of every blessing historia | come thou fount significado | qué significa ebenezer en come thou fount | quién escribió come thou fount of every blessing | quién compuso la música de come thou fount
-translatedFrom: 9dc1092149d4
+translatedFrom: bcd7924ff1d8
+listen: National Jukebox, grabación de 1922 | https://archive.org/details/loc-jukebox-61007-come-thou-fount-of-every-blessing
 ---
 
 Come, Thou Fount of Every Blessing es un himno de gratitud por la gracia, escrito en Inglaterra por Robert Robinson, un joven predicador que había llegado a la fe con George Whitefield [^julian-robinson][^dnb]. Una lista de sus escritos de su puño y letra, guardada en el libro de su iglesia de Cambridge, lo fecha en 1758, y la impresión más antigua que se conserva está en un himnario londinense de 1759 [^julian][^hymnarchive]. En Estados Unidos encontró su melodía, NETTLETON, impresa en Pensilvania en 1813 [^hymnary-nettleton][^hymnarchive]. Su segunda estrofa levanta un "Ebenezer", una piedra del libro de Samuel [^madan1760][^kjv].
@@ -28,11 +29,17 @@ Come, Thou Fount of Every Blessing es un himno de gratitud por la gracia, escrit
 
 **El autor.** Robert Robinson nació en Swaffham, Norfolk, el 27 de septiembre de 1735 [^julian-robinson][^dnb]. En 1749, con unos catorce años, entró de aprendiz con un peluquero de Londres [^dyer][^dnb]. El 24 de mayo de 1752 oyó predicar a George Whitefield sobre "la ira venidera", y desde ese día contó el comienzo de su vida religiosa [^julian-robinson][^hatfield][^dnb]. Predicó entre los metodistas calvinistas y después dirigió una iglesia independiente en Norwich [^julian-robinson][^hatfield]. En 1759 pasó a la iglesia bautista de Cambridge [^dnb][^hatfield][^julian-robinson].
 
+![[1]]
+
 **La letra.** Robinson guardaba una lista manuscrita de sus obras en el libro de su iglesia de Cambridge, que Samuel Duffield llamó un catálogo de sus escritos hasta 1781 [^duffield]. John Julian, que escribía en 1892, cuando el libro pertenecía al biógrafo de Robinson, William Robinson, citó una de sus entradas: "El señor Wheatley, de Norwich, publicó un himno que empieza 'Come, Thou Fount of every blessing' (1758)" [^julian][^hymnarchive]. No se conoce ningún ejemplar de aquella impresión de Norwich [^julian][^hymnarchive]. El texto más antiguo que se conserva está en A Collection of Hymns for the Use of the Church of Christ, Meeting in Angel-Alley, un libro londinense de 1759, donde tiene cuatro estrofas de ocho versos [^julian][^hymnarchive]. Su título completo nombra a la iglesia "meeting in Angel-Alley, Whitechappel" (reunida en Angel-Alley, Whitechapel) y a otras en comunión con ella; Julian situaba Angel-Alley en Bishopsgate [^canterbury][^julian]. Las memorias que publicó en 1796 su amigo George Dyer dicen que lo escribió "cuando estaba entre los metodistas" [^dyer][^julian], es decir, antes de 1759, con poco más de veinte años [^julian-robinson][^dnb]. En 1760 Martin Madan lo imprimió sin la cuarta estrofa en su Collection of Psalms and Hymns [^madan1760][^julian]. Julian no registra ningún otro cambio, pero las dos páginas, una junto a otra, muestran más: el "Hither by thy Grace I'm come" de Robinson pasó a "Hither by thine Help I'm Come", "So I hope" a "And I hope", "Shortly to arrive at Home" a "Safely", y en la tercera estrofa "that God I love" y "Take my Heart" pasaron a "the God" y "Here's mine Heart" [^julian][^hymnarchive][^madan1760]. Desde entonces, la mayoría de los libros siguen ese texto de tres estrofas [^julian][^hymnarchive]. John Rippon lo imprimió en su Selection of Hymns bautista en 1787, y una carta de Rippon entre los papeles de Robinson lo daba como suyo [^dyer][^julian][^hymnarchive].
+
+![[2]]
 
 **¿Quién lo escribió?** En 1858 y 1859 Daniel Sedgwick sostuvo que lo había escrito Selina, condesa de Huntingdon [^julian][^dnb], apoyándose, según Julian, en una copia manuscrita encabezada "Hymn by the Countess of Huntingdon" [^julian]. En 1892 Julian declaró que esa prueba no valía nada y zanjó la cuestión a favor de Robinson [^julian][^dnb][^canterbury].
 
 **La melodía.** La primera impresión conocida de NETTLETON está en Wyeth's Repository of Sacred Music, Part Second, impreso por John Wyeth en Harrisburg, Pensilvania, en 1813 [^hymnary-nettleton][^hymnarchive][^wyeth1813]. Allí se llama HALLELUJAH, a dos voces y con la letra de Robinson, sin nombre de compositor [^hymnary-nettleton][^hymnarchive][^psh]. En su página, la 112, está en Fa, la melodía sobre el bajo, y su letra aún termina "Mount of God's unchanging love" [^hymnarchive][^hymnary-nettleton]. Wyeth era impresor y librero, no músico; su Part Second servía a los cantores de los avivamientos y de las reuniones al aire libre, los camp meetings [^steel][^wyeth1813]. Más tarde la melodía tomó el nombre de Asahel Nettleton (1783 a 1844), un predicador de avivamientos; algunos libros se la atribuyen, pero sus Village Hymns imprimían solo letras [^hymnary-nettleton][^hymnarchive].
+
+![[3]]
 
 **Mito y documentos.** Se suele contar que, ya al final de su vida, Robinson viajaba en diligencia con una dama que le elogió este himno sin saber quién era. Al final él le dijo: "Señora, yo soy el pobre e infeliz hombre que compuso ese himno hace muchos años; y daría mil mundos, si los tuviera, por volver a sentir lo que sentía entonces" [^belcher][^duffield]. Lo que muestran los documentos: la versión impresa más antigua de la historia que hemos encontrado está en Historical Sketches of Hymns, de Joseph Belcher (Filadelfia, 1859) [^belcher]. Belcher dice que le llegó "hace unos veinte años" por un descendiente de uno de los dos viajeros [^belcher][^duffield]. En su versión, la dama había estado leyendo el himno; en la de Hezekiah Butterworth, de 1875, lo está cantando [^belcher][^butterworth]. Las memorias de Dyer, escritas a partir de los papeles de Robinson, no la recogen [^dyer]. Es una historia de familia, impresa casi setenta años después de su muerte.
 
@@ -140,6 +147,8 @@ a los reinos del día sin fin.
 Es un himno congregacional, presente en los himnarios de muchas iglesias [^hymnary-text][^hymnary-nettleton]. Su metro es 8.7.8.7 D: ocho versos de ocho y siete sílabas, alternos [^hymnary-nettleton][^temple1851]. NETTLETON va a tres tiempos, y su forma es AABA: la música de los dos primeros versos vuelve en los versos 3 y 4, una música nueva eleva los versos 5 y 6, y el comienzo vuelve para cerrar [^psh][^methodist1905].
 
 Nuestro arreglo lee el n.º 19 de The Methodist Hymnal (Nueva York, 1905), donde la melodía se atribuye a John Wyeth y la armonía va sin firma, en Mi bemol, como está impreso [^methodist1905]. Cantamos la estrofa 1 para 2 a 4 cantantes, alegre y cadenciosa, a tres tiempos, con cada verso en una sola respiración. Para principiantes cambiamos tres notas del bajo para evitar un salto amplio, cantamos en una sola nota una sílaba de dos notas del tenor, y cambiamos seis notas de la contralto para que dos cantantes se muevan en terceras y terminen dos versos en un acorde más lleno [^methodist1905].
+
+![[4]]
 
 ## Versiones y otras letras
 

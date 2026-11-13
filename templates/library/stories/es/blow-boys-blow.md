@@ -13,7 +13,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow boys blow significado | blow my bully boys blow significado | blow boys blow historia | quién escribió blow boys blow | blow boys blow letra | blow boys blow canción marinera
-translatedFrom: dfc8f599157a
+translatedFrom: cdb9401c51bf
+original: Richard Runciman Terry, The Shanty Book, Part I (1921), Internet Archive | https://archive.org/details/shantybooksailor00terr
 ---
 
 Blow, Boys, Blow, que también se imprimió como "Blow My Bully Boys", "Blow, Bullies, Blow" y "A Yankee Ship", es una canción marinera (shanty): un canto de trabajo que los marineros cantaban para tirar a la vez de un cabo [^terry][^smith][^masefield]. Es una shanty de driza, que se cantaba al izar las velas: el solista (el shantyman) canta un verso a solas, y la tripulación responde "Blow, boys, blow" y "Blow, my bully boys, blow" [^terryscan][^bullen][^masefield]. En la letra que cantamos, un barco yanqui baja por el río con los mástiles y las vergas relucientes como la plata, y a la tripulación le dan de comer bofes de buey y pan con gorgojos [^terryscan]. Nadie sabe quién la hizo. Richard Terry escribió en 1921 que todas las colecciones de shanties que conocía la incluían, y Cecil Sharp había escrito en 1914 que la incluían todas las colecciones principales [^terry][^sharp].
@@ -24,11 +25,15 @@ Blow, Boys, Blow, que también se imprimió como "Blow My Bully Boys", "Blow, Bu
 
 **Los paquebotes yanquis.** Colcord escribió que luego las tripulaciones de los paquebotes del Atlántico la hicieron suya y cantaron la vida brutal a bordo [^colcord]. Un paquebote era un barco que zarpaba en días fijos con correo, pasajeros y mercancías [^webster][^clark]. Los paquebotes eran conocidos por su dura disciplina: una historia de los clíperes dice que el "belaying pin soup" (sopa de cabilla) se sirvió por primera vez en los paquebotes de la Black Ball Line [^clark]. La nota de Terry sobre esta shanty coincide: las cubiertas impecables, y los mástiles y las vergas que relucían como la plata, eran la marca de un paquebote yanqui, y se mantenían así con una disciplina terrible "en la que la cabilla era un factor espeluznante" [^terry]. Una cabilla es la barra corta de madera o de hierro a la que se amarran los cabos [^smyth].
 
+![[1]]
+
 **Dandy Jim y el escenario del minstrel.** El nombre del capitán cambiaba de un cantante a otro [^whall][^colcord][^balladindex]. En la impresión más antigua que hemos visto, *The Music of the Waters* (1888), de Laura Alexandrine Smith, y otra vez en la de Terry, se llama "Dandy Jim", y Smith lo hace venir "from old Carolina" (de la vieja Carolina) [^smith][^terryscan]. Ese es el nombre, y casi el lugar de origen, del protagonista de "Dandy Jim of Caroline", una canción de minstrel con blackface impresa ya en 1844, cuyas partituras nombran a los Ethiopian Serenaders y a los Virginia Serenaders [^levy][^penn]. El minstrel con la cara pintada de negro (blackface) era un espectáculo teatral en el que intérpretes blancos se oscurecían la cara para burlarse de los afroamericanos. Terry escribió que las canciones de minstrel se usaban a menudo como shanties [^terry]. El libro de Frank Bullen y W. F. Arnold, de 1914, escribe el primer verso imitando con burla el habla de los afroamericanos [^bullen]. El canto de las shanties en su conjunto debía mucho a los cantantes afrodescendientes: Colcord llamó a los marineros afroamericanos los mejores cantantes que jamás dirigieron una shanty [^colcord][^winick].
 
 **Llega a los libros.** John Masefield imprimió una versión en *A Sailor's Garland* (nosotros leímos la edición de 1908) sobre una bricbarca de la Black Ball, su capitán, "bully Hains", y su oficial, que no daba tregua a la tripulación [^masefield]. Para entonces la época de las shanties ya había terminado: a finales de la década de 1870, escribió Terry, el vapor había expulsado de los mares al barco de vela, y los chigres de vapor hacían el trabajo al que antes cantaban las tripulaciones [^terry][^bullen].
 
 **La página que leímos.** Nuestra versión es el n.º 15 de *The Shanty Book, Part I* (1921), de Richard Runciman Terry, "Blow my bully boys", con el encabezamiento "Halliard shanty" (shanty de driza) [^terryscan]. Terry, director de música de la catedral de Westminster desde 1901, creció en Northumberland oyendo shanties a sus tíos marineros [^terry][^hymnary][^oxford]. La página está en Fa mayor y en 4/4, con una parte de piano. "SOLO." y "CHORUS." (coro) se alternan verso a verso, y unos acentos marcan el primer "Blow" y el último "blow" de la primera respuesta. Las estrofas 2 a 8 siguen impresas como texto, y la tercera lleva la indicación "(twice)" (dos veces) [^terryscan].
+
+![[2]]
 
 ### Cronología
 
@@ -38,6 +43,8 @@ Blow, Boys, Blow, que también se imprimió como "Blow My Bully Boys", "Blow, Bu
 - 1914: Cecil Sharp imprime la versión de John Short, y Bullen y Arnold imprimen la suya entre las chanties de driza [^sharp][^bullen]
 - 1921: Richard Terry imprime "Blow my bully boys", la versión que cantamos [^terryscan]
 - 1924: Joanna Colcord imprime una versión estadounidense en *Roll and Go* [^colcord]
+
+![[3]]
 
 ## Qué dice la letra
 
@@ -128,6 +135,8 @@ A soplar, mis buenos muchachos, a soplar.
 ## Cómo se canta
 
 Es una shanty de driza: Terry, Bullen y Arnold, y Masefield la clasifican entre las shanties de driza, y Sharp entre las chanteys para halar [^terryscan][^bullen][^masefield][^sharp]. Las drizas izan una vela en su verga, y el mismo folclorista de la Library of Congress llama a las shanties de driza probablemente la clase más numerosa de canciones para halar [^smyth][^winick]. Terry describe el tipo que se usaba para la izada larga: dos estribillos cortos con un doble tirón en cada uno, mientras los versos solistas dan a la tripulación tiempo para cambiar las manos de sitio [^terry]. Sharp marca los tirones con puntas de flecha, dos en cada respuesta, en su primer y su último "blow" [^sharp]. La versión de Smith conserva el trabajo en su letra: "up aloft that yard must go" (esa verga tiene que subir a lo alto), "one more pull and then belay" (un tirón más y luego, amarra), es decir, hacer firme el cabo [^smith][^smyth].
+
+![[4]]
 
 Nuestro arreglo canta seis estrofas para 2 a 4 cantantes, en Sol, un tono por encima del Fa de Terry. La soprano hace de solista (el shantyman) y canta nota por nota la voz de Terry: los dos versos solistas de cada estrofa a solas, y luego las respuestas con todos. La contralto, el tenor y el bajo cantan solo las respuestas, una nota por sílaba, sobre los acordes del acompañamiento de piano de Terry, así que la armonía es de Terry, no de los barcos [^terryscan].
 

@@ -14,6 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: bully in the alley meaning | bully in the alley origin | bully in the alley history | bully in the alley sea shanty meaning | bully in the alley lyrics meaning | help me bob im bully in the alley meaning | im bully in the alley meaning | who wrote bully in the alley | bully in the alley lyrics | bully in the alley shanty
+original: Cecil J. Sharp, English Folk-Chanteys (1914), Internet Archive | https://archive.org/details/englishfolkchant00shar
 ---
 
 Bully in the Alley is a sea shanty, a work song sailors sang to haul together on a rope [^sharp][^balladindex]. The shantyman sings "So help my bob I'm bully in the alley", and the crew answers "Way ay bully in the alley", pulling twice, on "Way" and on "bully" [^sharp]. No one knows who made it [^balladindex]. Its earliest known printing is the version John Short, an old shantyman of Watchet in Somerset, sang to the collector Cecil Sharp, who printed it in 1914 and knew no other [^sharp][^balladindex][^csp]. A second version, which the sailor Stan Hugill is reported to have picked up in the West Indies, sets the song in a Shinbone Alley, a name already in a song printed in 1833 for the blackface minstrel stage [^balladindex][^mainlynorfolk][^locodyssey][^beaman].
@@ -21,6 +22,8 @@ Bully in the Alley is a sea shanty, a work song sailors sang to haul together on
 ## Where it comes from
 
 **The page we read.** Sharp printed the song as No. XXXV of *English Folk-Chanteys*, on pages 40 and 41, in G major and 4/4, with his own piano part and "Solo." and "Chorus." marked over the voice [^sharp]. In the verse, the shantyman sings "Bully down in our alley", the crew now takes up "So help my bob" too, and the shantyman's "Bully in Tinpot alley" brings the last answer. Over each "Way" and the "bully" after it stands a small arrowhead, Sharp's sign for the notes the men pulled on [^sharp]. Under the music he prints two more lines, numbered 2 and 3: "Have you seen our Sally?" and "She's the girl in the alley." His whole note on page 71 reads: "Sung by Mr. John Short, at Watchet. I have no variants of this nor do I know of any printed version of it." [^sharp]
+
+![[1]]
 
 **John Short of Watchet.** Short, baptised in Watchet in 1839, sailed deep-water as far as North America and the Far East [^csp][^halsway]. Sharp wrote that he had spent more than fifty years in sailing ships, mostly as a recognised chanteyman, the solo singer who led the work; at 76 he was Watchet's town crier [^sharp][^csp]. Sharp began taking down his shanties in April 1914 and printed 46 of them among the 60 in his book [^csp][^halsway][^sharp].
 
@@ -46,6 +49,8 @@ Sharp's words are a scrap: one verse and two more lines, which was normal [^shar
 
 **"So help my bob."** The street oath "s'help me Bob", a softened "so help me God" [^hotten][^farmer]. Hotten (1874) adds that street speech often had "so help my" for "so help me", as Sharp printed it [^hotten][^sharp].
 
+![[2]]
+
 **"I'm bully in the alley."** "Bully" meant fine or first-rate, and among sailors a mate, as in the shanty "Blow my bully boys" [^farmer1912][^webster][^hotten][^terry]. So the singer may be boasting that he is doing fine.
 
 **"Bully in Tinpot alley."** "Tin-pot" was slang for shabby, mean or worthless [^hotten][^barrere]. Tinpot Alley sounds like a nickname for a poor street; Sharp does not say where it was.
@@ -57,6 +62,8 @@ Sharp's words are a scrap: one verse and two more lines, which was normal [^shar
 ### The full words
 
 These are the words of No. XXXV in Cecil Sharp's *English Folk-Chanteys* (1914), pages 40 and 41, as John Short sang them, with Sharp's spelling. Sharp prints the refrain and the first verse under the tune, then only the lines numbered 2 and 3. Here, as we sing it, each of those lines takes the place of the verse's first solo line, and the rest of the verse is sung as before. The words are traditional, printed in 1914, and Sharp died in 1924, so they are in the public domain.
+
+![[3]]
 
 **Refrain**
 So help my bob I'm bully in the alley;

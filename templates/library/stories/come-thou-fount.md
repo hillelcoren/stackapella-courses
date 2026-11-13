@@ -14,11 +14,12 @@ alsoKnownAs: Come, Thou Fount
 wikidata: Q5151284
 quote: Here I raise my Eben-ezer, hither by thine help I'm come
 quoteSource: madan1760
-original: Madan, A Collection of Psalms and Hymns (1760), Hymn LXXI, p. 73, Internet Archive | https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760/page/n84 || The Methodist Hymnal (1905), No. 19, p. 14, Internet Archive | https://archive.org/details/methodisthymnalo00meth/page/n27
+original: Martin Madan, A Collection of Psalms and Hymns (1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_a-collection-of-psalms-a_madan-martin_1760
 updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: come thou fount of every blessing history | history behind come thou fount of every blessing | come thou fount of every blessing meaning of ebenezer | come thou fount of every blessing meaning bible verse | who wrote come thou fount of every blessing | who wrote the music for come thou fount of every blessing
+listen: National Jukebox, 1922 recording | https://archive.org/details/loc-jukebox-61007-come-thou-fount-of-every-blessing
 ---
 
 Come, Thou Fount of Every Blessing is a hymn of thanks for grace, written in England by Robert Robinson, a young preacher who had come to faith under George Whitefield [^julian-robinson][^dnb]. A list of his writings in his own hand, kept in his Cambridge church book, dates it to 1758, and its earliest surviving printing is in a London hymnbook of 1759 [^julian][^hymnarchive]. In America it found its tune, NETTLETON, printed in Pennsylvania in 1813 [^hymnary-nettleton][^hymnarchive]. Its second verse raises an "Ebenezer", a stone from the Book of Samuel [^madan1760][^kjv].
@@ -27,11 +28,17 @@ Come, Thou Fount of Every Blessing is a hymn of thanks for grace, written in Eng
 
 **The writer.** Robert Robinson was born at Swaffham in Norfolk on 27 September 1735 [^julian-robinson][^dnb]. In 1749, at about fourteen, he was apprenticed to a London hairdresser [^dyer][^dnb]. On 24 May 1752 he heard George Whitefield preach on "the wrath to come", and he dated his religious life from that day [^julian-robinson][^hatfield][^dnb]. He preached among the Calvinistic Methodists, then led an independent church in Norwich [^julian-robinson][^hatfield]. In 1759 he went to the Baptist church in Cambridge [^dnb][^hatfield][^julian-robinson].
 
+![[1]]
+
 **The words.** Robinson kept a handwritten list of his works in his Cambridge church book, which Samuel Duffield called a catalogue of his writings up to 1781 [^duffield]. John Julian, writing in 1892, when the book belonged to Robinson's biographer William Robinson, quoted one entry: "Mr. Wheatley of Norwich published a hymn beginning 'Come, Thou Fount of every blessing' (1758)" [^julian][^hymnarchive]. No copy of that Norwich printing is known [^julian][^hymnarchive]. The earliest surviving text is in A Collection of Hymns for the Use of the Church of Christ, Meeting in Angel-Alley, a London book of 1759, where it has four eight-line stanzas [^julian][^hymnarchive]. Its full title names the church "meeting in Angel-Alley, Whitechappel" and others in fellowship with it; Julian placed Angel-Alley in Bishopsgate [^canterbury][^julian]. His friend George Dyer's memoir of 1796 says he wrote it "when among the methodists" [^dyer][^julian], that is, before 1759, in his early twenties [^julian-robinson][^dnb]. In 1760 Martin Madan printed it without the fourth stanza in his Collection of Psalms and Hymns [^madan1760][^julian]. Julian reports no other change, but the two pages side by side show more: Robinson's "Hither by thy Grace I'm come" became "Hither by thine Help I'm Come", "So I hope" became "And I hope", "Shortly to arrive at Home" became "Safely", and in the third stanza "that God I love" and "Take my Heart" became "the God" and "Here's mine Heart" [^julian][^hymnarchive][^madan1760]. Most books have followed that three-stanza text since [^julian][^hymnarchive]. John Rippon printed it in his Baptist Selection of Hymns in 1787, and a letter from Rippon among Robinson's papers named it as his [^dyer][^julian][^hymnarchive].
+
+![[2]]
 
 **Who wrote it?** In 1858 and 1859 Daniel Sedgwick argued that Selina, Countess of Huntingdon, wrote it [^julian][^dnb], relying, Julian says, on a handwritten copy headed "Hymn by the Countess of Huntingdon" [^julian]. In 1892 Julian called that evidence worthless and settled the question for Robinson [^julian][^dnb][^canterbury].
 
 **The tune.** NETTLETON's earliest known printing is in Wyeth's Repository of Sacred Music, Part Second, printed by John Wyeth at Harrisburg, Pennsylvania, in 1813 [^hymnary-nettleton][^hymnarchive][^wyeth1813]. There it is called HALLELUJAH, set in two parts to Robinson's words, with no composer named [^hymnary-nettleton][^hymnarchive][^psh]. On its page, 112, it stands in F, tune over bass, and its words still end "Mount of God's unchanging love" [^hymnarchive][^hymnary-nettleton]. Wyeth was a printer and bookseller, not a musician; his Part Second served revival and camp-meeting singers [^steel][^wyeth1813]. The tune was later named after Asahel Nettleton (1783 to 1844), a revival preacher; some books credit him, but his Village Hymns printed words only [^hymnary-nettleton][^hymnarchive].
+
+![[3]]
 
 **Myth and record.** Often told: late in life, Robinson rode in a stagecoach with a lady who praised this hymn to him, not knowing who he was. At last he said: "Madam, I am the poor, unhappy man who composed that hymn many years ago; and I would give a thousand worlds, if I had them, to enjoy the feelings I then had" [^belcher][^duffield]. What the record shows: the oldest printing of the story we have found is in Joseph Belcher's Historical Sketches of Hymns (Philadelphia, 1859) [^belcher]. Belcher says it came to him "some twenty years since" from a descendant of one of the two travellers [^belcher][^duffield]. In his telling the lady had been reading the hymn; in Hezekiah Butterworth's of 1875 she is singing it [^belcher][^butterworth]. Dyer's memoir, written from Robinson's papers, does not have it [^dyer]. It is a family story, printed almost seventy years after his death.
 
@@ -107,6 +114,8 @@ Me to Realms of endless Day.
 It is a congregational hymn, in the hymnals of many churches [^hymnary-text][^hymnary-nettleton]. Its meter is 8.7.8.7 D: eight lines of eight and seven syllables in turn [^hymnary-nettleton][^temple1851]. NETTLETON is in three, and its shape is AABA: the first two lines' tune comes back for lines 3 and 4, new music lifts lines 5 and 6, and the opening returns to close [^psh][^methodist1905].
 
 Our arrangement reads No. 19 of The Methodist Hymnal (New York, 1905), where the tune is credited to John Wyeth and the harmony is unsigned, in E-flat as printed [^methodist1905]. We sing verse 1 for 2 to 4 singers, bright and lilting in three, with every line one breath. For beginners we changed three bass notes to avoid a wide leap, sing one two-note tenor syllable on a single note, and changed six alto notes so that two singers move in thirds and end two lines on a fuller chord [^methodist1905].
+
+![[4]]
 
 ## Versions and other words
 

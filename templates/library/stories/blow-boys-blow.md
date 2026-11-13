@@ -13,6 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: blow boys blow meaning | blow my bully boys blow meaning | blow boys blow sea shanty | blow boys blow history | who wrote blow boys blow | blow boys blow lyrics | blow boys blow lyrics original | blow boys blow sea shanty lyrics | blow boys blow for california
+original: Richard Runciman Terry, The Shanty Book, Part I (1921), Internet Archive | https://archive.org/details/shantybooksailor00terr
 ---
 
 Blow, Boys, Blow, also printed as "Blow My Bully Boys", "Blow, Bullies, Blow" and "A Yankee Ship", is a sea shanty: a work song sailors sang to pull together on a rope [^terry][^smith][^masefield]. It is a halliard shanty, sung while hoisting the sails: the shantyman sings a line alone, and the crew answer "Blow, boys, blow" and "Blow, my bully boys, blow" [^terryscan][^bullen][^masefield]. In the words we sing, a Yankee ship comes down the river with her masts and yards shining like silver, and the crew are fed on bullock's lights and weevilled bread [^terryscan]. No one knows who made it. Richard Terry wrote in 1921 that every shanty collection he knew included it, and Cecil Sharp had written in 1914 that all the chief collections did [^terry][^sharp].
@@ -23,11 +24,15 @@ Blow, Boys, Blow, also printed as "Blow My Bully Boys", "Blow, Bullies, Blow" an
 
 **The Yankee packets.** Colcord wrote that the crews of the Atlantic packet ships then took it over and sang of the brutal life aboard [^colcord]. A packet was a ship that sailed on fixed days with mail, passengers and goods [^webster][^clark]. The packets were known for hard discipline: a history of the clipper ships says "belaying pin soup" was first served on the packets of the Black Ball Line [^clark]. Terry's note on this shanty agrees: spotless decks, and masts and yards that shone like silver, marked a Yankee packet, and they were kept that way by a terrible discipline "in which the belaying pin was a gruesome factor" [^terry]. A belaying pin is the short wooden or iron bar the ropes are made fast to [^smyth].
 
+![[1]]
+
 **Dandy Jim and the minstrel stage.** The skipper's name changed from singer to singer [^whall][^colcord][^balladindex]. In the earliest printing we have seen, Laura Alexandrine Smith's *The Music of the Waters* (1888), and again in Terry's, he is "Dandy Jim", and Smith has him "from old Carolina" [^smith][^terryscan]. That is the name, and nearly the home, of the title character of "Dandy Jim of Caroline", a blackface minstrel song in print by 1844, its sheet music naming the Ethiopian Serenaders and the Virginia Serenaders [^levy][^penn]. Blackface minstrelsy was a stage show in which white performers darkened their faces to mock Black people. Terry wrote that minstrel songs were often pressed into service as shanties [^terry]. Frank Bullen and W. F. Arnold's book of 1914 spells the first line in a mock Black dialect [^bullen]. Shanty singing as a whole owed much to Black singers: Colcord called Black American sailors the best singers who ever led a shanty [^colcord][^winick].
 
 **Into the books.** John Masefield printed a version in *A Sailor's Garland* (we read the 1908 edition) about a Black Ball barque, her captain "bully Hains" and her hard-driving mate [^masefield]. The age of the shanty was over by then: by the end of the 1870s, Terry wrote, steam had driven the sailing ship from the seas, and steam winches did the work the crews had sung to [^terry][^bullen].
 
 **The page we read.** Our version is No. 15 in Richard Runciman Terry's *The Shanty Book, Part I* (1921), "Blow my bully boys", headed "Halliard shanty" [^terryscan]. Terry, director of music at Westminster Cathedral from 1901, grew up in Northumberland hearing shanties from his sailor uncles [^terry][^hymnary][^oxford]. The page is in F major and 4/4, with a piano part. "SOLO." and "CHORUS." take turns line by line, and accents mark the first "Blow" and the last "blow" of the first answer. Verses 2 to 8 follow in type, the third marked "(twice)" [^terryscan].
+
+![[2]]
 
 ### Timeline
 
@@ -37,6 +42,8 @@ Blow, Boys, Blow, also printed as "Blow My Bully Boys", "Blow, Bullies, Blow" an
 - 1914: Cecil Sharp prints John Short's version, and Bullen and Arnold print theirs among the halliard chanties [^sharp][^bullen]
 - 1921: Richard Terry prints "Blow my bully boys", the version we sing [^terryscan]
 - 1924: Joanna Colcord prints an American version in *Roll and Go* [^colcord]
+
+![[3]]
 
 ## What the words mean
 
@@ -99,6 +106,8 @@ Blow my bully boys blow.
 ## How it is sung
 
 It is a halliard shanty: Terry, Bullen and Arnold, and Masefield file it with the halliard shanties, and Sharp with the pulling chanteys [^terryscan][^bullen][^masefield][^sharp]. Halliards hoist a sail on its yard, and the same Library of Congress folklorist calls the halyard shanties probably the largest class of hauling songs [^smyth][^winick]. Terry describes the type used for the long hoist: two short choruses with a double pull in each, the solo lines giving the crew time to shift their hands [^terry]. Sharp marks the pulls with arrowheads, two in each answer, on its first and last "blow" [^sharp]. Smith's version keeps the work in its words: "up aloft that yard must go", "one more pull and then belay", make the rope fast [^smith][^smyth].
+
+![[4]]
 
 Our arrangement sings six verses for 2 to 4 singers, in G, a whole tone above Terry's F. The soprano is the shantyman and sings Terry's voice part note for note, both solo lines of every verse alone, then the answers with everyone. The alto, tenor and bass sing only the answers, one note a syllable, on the chords of Terry's piano part, so the harmony is Terry's, not the ships' [^terryscan].
 

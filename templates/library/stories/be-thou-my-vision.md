@@ -26,9 +26,15 @@ Be Thou My Vision is a prayer from medieval Ireland, made into an English hymn i
 
 **The poem.** The Irish text survives in three late manuscripts. The best copy is in the Royal Irish Academy in Dublin, manuscript 23 N 10, pages 95 and 96, written in the 1500s [^eriu1905][^isos][^hymnarchive]. One of its scribes dated his work 1575 [^isos]. A second copy in the same library, 23 E 16, is in Byrne's words "only a careless transcript" of the first [^eriu1905][^hymnarchive]. A third, once owned by the collector Thomas Phillipps, is in the National Library of Ireland; Monica Nevin edited it in 1940 [^hymnarchive][^celt]. Scholars judge the language to be early Middle Irish, written somewhere between about 900 and 1100 [^celt][^hymnarchive][^canterbury]. Byrne's text runs to sixteen two-line stanzas, and ten of them open "Rob tu" or "Rob tusa", "be thou" [^eriu1905][^isos].
 
+![[1]]
+
 **The translation and the verse.** Mary Byrne (1880 to 1931) was a Dublin scholar of early Irish [^canterbury-byrne][^hymnarchive]. In 1905 she printed the Irish text, with a line-by-line English prose translation, under the title "A Prayer" in Ériu, the journal of the School of Irish Learning in Dublin [^eriu1905][^hymnarchive]. Her first line already reads "Be thou my vision, O Lord of my heart". Eleanor Hull (1860 to 1935) was born in England to an Irish family and spent her life on Irish literature and history. She was a founder of the Irish Texts Society [^canterbury-hull][^dub-hull]. In 1912 she put Byrne's prose into twelve rhyming couplets for her anthology The Poem-Book of the Gael. It sits among the book's early Christian poems, and her notes credit the Irish text and the literal translation to Byrne [^hull1912][^hymnarchive].
 
+![[2]]
+
 **The tune.** No composer is known. The earliest known printing is No. 323 in Old Irish Folk Music and Songs (1909), edited by P. W. Joyce for the Royal Society of Antiquaries of Ireland [^joyce1909][^hymnarchive]. Joyce printed it as "With my love on the road": two lines of music in 3/4 time, with no words and no note on where he found it, in the part of the book drawn from his own collection [^joyce1909]. His preface says he grew up in Glenosheen, in the Ballyhoura Mountains of County Limerick, where music and song "were in the air of the valley". From 1853 he wrote down every air he could remember, then went among the people noting more [^joyce1909].
+
+![[3]]
 
 **Words and tune together.** The earliest known pairing is in the Church of Ireland's Church Hymnal of 1919, which set Hull's words, with changes, to Joyce's tune and called it SLANE [^hymnarchive][^methodist]. In 1927 the revised Church Hymnary printed it as No. 477, its chief music editor the Welsh composer David Evans [^rch1927][^moffatt1927]. Sources disagree on the first pairing: the Psalter Hymnal Handbook says SLANE became a hymn tune through Evans's arrangement in that 1927 book [^hymnary-slane].
 
