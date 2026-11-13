@@ -19,10 +19,13 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing historia | quién escribió lift every voice and sing | lift every voice and sing significado | lift every voice and sing himno nacional negro | lift every voice and sing letra en español | lift every voice and sing escultura
-translatedFrom: 561aa7a3c3b3
+translatedFrom: 4efba81d5499
+original: "Lift Every Voice and Sing." National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Biblioteca del Congreso | https://www.loc.gov/item/2021561009/
 ---
 
 Lift Every Voice and Sing (o Lift Ev'ry Voice and Sing) es una canción de fe y de libertad de dos hermanos de Jacksonville, Florida. James Weldon Johnson escribió la letra, y su hermano menor, J. Rosamond Johnson, la música [^fenner][^loc-blog]. James la escribió para el cumpleaños de Abraham Lincoln en 1900, cuando dirigía la Stanton School, y la cantó un coro de 500 escolares [^fenner][^naacp][^canterbury][^jaxson]. Su partitura de ese año ya la llamaba "National Hymn for the Colored People of America" (himno nacional para la gente de color de América) [^stern1900][^fenner]. Más tarde la NAACP la adoptó como su canción [^loc-blog][^pitt], y hoy se la conoce como el himno nacional negro ("Black national anthem") [^naacp][^yale-career]. Sus tres estrofas pasan de la alabanza al camino duro y a la oración.
+
+![[1]]
 
 ## De dónde viene
 
@@ -32,7 +35,11 @@ Lift Every Voice and Sing (o Lift Ev'ry Voice and Sing) es una canción de fe y 
 
 **La partitura de 1900.** Ese mismo año la publicó Jos. W. Stern & Co., de Nueva York [^stern1900][^fenner]. Su portada dice: "National Hymn for the Colored People of America", luego "Lift Every Voice and Sing", "Words by J. W. Johnson. Music by Rosamond Johnson" [^stern1900]. Sobre la música hay una dedicatoria a Booker T. Washington, con la errata "Booker J. Washington" [^stern1900][^fenner]. La música está en La bemol y en 6/8, "Allo. mod.e maestoso" (moderadamente rápido y majestuoso) [^stern1900]. Dos pentagramas de partes vocales, para cuatro voces, llevan la indicación "Simple way" (forma sencilla), sobre una parte más completa para "Piano or Organ" (piano u órgano), con la nota "If accompaniment is too difficult play voice parts" (si el acompañamiento es demasiado difícil, toca las partes vocales) [^stern1900]. En "Sing a song full of the faith" la música pasa a "Grandioso", todas las voces cantan la melodía en octavas, y la parte de órgano empieza muy suave ("pp", con el registro de bordón del teclado expresivo) y estalla muy fuerte en "taught us" ("ff", "Gt. with Trumpets", gran órgano con trompetas) [^stern1900]. Lleva la marca "Copyright 1900 by Jos. W. Stern & Co.", plancha 3071-3, y el ejemplar que hoy está en la British Library recibió el sello del British Museum el 3 de noviembre de 1900: es su primera impresión conocida [^stern1900][^fenner].
 
+![[2]]
+
 **Mito y documentos.** Se suele contar que la música no llegó hasta 1905, que no se publicó hasta 1921, y que Booker T. Washington oyó a los niños cantarla por primera vez. Lo que muestran los documentos: la hoja de Stern, con la música de Rosamond Johnson, lleva la marca "Copyright 1900", y la Biblioteca del Congreso la tiene registrada ese año [^stern1900][^loc-blog][^fenner]. Está dedicada a Washington, pero el propio relato de Johnson sobre aquel día nunca dice que él estuviera allí [^fenner][^loc-blog].
+
+![[3]]
 
 **Cómo se extendió.** En 1901 los hermanos se fueron a Nueva York a escribir canciones y espectáculos con Bob Cole, aunque James volvió un tiempo a Jacksonville: según Yale, dirigió la Stanton School hasta 1902 [^loc-blog][^peretti][^pitt][^yale-origin]. Cuando ya se habían marchado para siempre, según escribió Johnson, casi se olvidaron del himno [^fenner]. Los niños de Jacksonville siguieron cantándolo, y en unos veinte años se cantaba en escuelas e iglesias de todo el Sur y más allá, a menudo con copias pegadas en los himnarios [^fenner][^loc-blog]. En 1918 abrió un concierto benéfico en el Aeolian Hall de Nueva York para la Music School Settlement for Colored People, que dirigía Rosamond Johnson. *The New York Times* y el *Musical Courier* lo llamaron los dos un himno nacional para los estadounidenses negros [^nyt1918][^mc1918]. James entró en la plantilla de la NAACP en 1916 y desde 1920 la dirigió como secretario ejecutivo durante diez años [^yale-career][^poets][^pitt]. La NAACP hizo de Lift Every Voice and Sing su canción oficial, pero los relatos no coinciden en cuándo. Un blog de la Biblioteca del Congreso da 1919 [^loc-blog]. Un ensayo de la Biblioteca del Congreso dice que los colegas de Johnson en la NAACP la proclamaron "the Negro national anthem" (el himno nacional negro) en 1920 [^peretti]. *Mother Jones* da 1921 [^motherjones], y una guía de la Universidad de Pittsburgh dice solo que en los años veinte [^pitt]. Hymnology Archive dice solo que se adoptó más tarde, sin año [^fenner]. James murió en 1938, y Rosamond en 1954 [^poets][^loc-blog][^pitt].
 
@@ -135,6 +142,8 @@ fieles a nuestro Dios, fieles a nuestra tierra natal.
 Se canta a menudo para abrir o cerrar una reunión, primero en las celebraciones del cumpleaños de Lincoln y después en actos cívicos, escolares y de iglesia [^yale-impact][^nyt1918]. En cartas que hoy están en Yale, Johnson respondía a quienes le preguntaban cómo cantarla, hasta con qué fuerza cantar cada parte [^yale-impact]. Ediciones posteriores la arreglaron para cuarteto mixto y para coro a tres voces [^yale-origin], y hoy está en los himnarios de muchas iglesias, con una métrica irregular [^hymnary].
 
 Nuestro arreglo se lee de las cuatro partes vocales del propio Rosamond Johnson en la partitura de Stern de 1900 [^stern1900], comprobadas con una edición posterior para "Mixed Quartette" (cuarteto mixto) que está en Yale, firmada por Rosamond Johnson [^yale-quartet]. Cantamos la primera estrofa medio tono más baja, en Sol, en 6/8, amplia y solemne, con una respiración antes de cada verso del poema, salvo "Of our new day begun", que sigue sin pausa a "Facing the rising sun". Su calderón en "us" está escrito como una nota larga y un compás de más antes de "Facing the rising sun". La melodía es la suya, cantada con una nota por sílaba (se quitan dos de sus notas ligadas). Se conservan su contralto, su tenor y su bajo, con algunas notas cambiadas para principiantes, la mayoría en las anacrusas rápidas. Donde todas sus voces cantan la melodía en octavas, en "Sing a song full of the faith" y "full of the hope", nuestra contralto, nuestro tenor y nuestro bajo sostienen bajo la melodía los acordes de su parte de órgano. Con dos cantantes se cantan la soprano y la contralto, con tres se suma el bajo, y el tenor completa los cuatro.
+
+![[4]]
 
 ## ¿Sabías que...?
 

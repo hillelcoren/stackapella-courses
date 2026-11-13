@@ -14,7 +14,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: i am filled with heavenly treasures | heavenly treasures canción shaker | qué son las canciones shaker | canciones de don shakers | haceos tesoros en el cielo significado
-translatedFrom: 06aa3a4be1fa
+translatedFrom: 3192010535b4
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (comenzado en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 I Am Fill'd with Heavenly Treasures, que también se escribe I Am Filled with Heavenly Treasures, es una breve canción shaker de alegría. Tiene un solo verso de letra y luego "Praise, praise, praise, praise" (alabanza), cada uno escrito dos veces, y cada línea termina en una serie de notas sin letra [^hazzard]. Mary Hazzard la copió en su cancionero manuscrito con la nota de que fue "Sung by Jack thro Abram P. on the holy Mount" (cantada por Jack a través de Abram P. en el monte santo) el 30 de agosto; la canción que tiene encima en la página da el año, 1847 [^hazzard]. Para los shakers, eso significaba que un espíritu llamado Jack la había cantado a través de un médium, Abraham Perkins, de Enfield, Nuevo Hampshire [^andrews][^enfield]. Sus "heavenly treasures", tesoros celestiales, recuerdan las palabras de Jesús sobre hacerse "treasures in heaven", tesoros en el cielo [^kjv-bg][^kjv-pg].
@@ -31,9 +32,13 @@ Dos páginas antes, en la página 21, otra canción, "Come Mother's love and fil
 
 **Abraham Perkins.** Perkins nació en Sanbornton, Nuevo Hampshire, en 1807, y se unió a los shakers de Enfield, Nuevo Hampshire, en 1827 [^runnels][^enfield]. Una historia del pueblo de 1881 dice que llegó a ser predicador y consejero tanto en Enfield como en Canterbury [^runnels]. El Enfield Shaker Museum incluye la de médium entre sus funciones y dice que él contaba el don del canto entre sus mayores bendiciones [^enfield]. El libro de Hazzard tiene una canción suya, firmada "Brother Abraham Perkins song Canterbury" [^hazzardbook].
 
+![[1]]
+
 **Jack.** Jack aparece más de una vez en el libro de Hazzard: una canción "Sung by Jack March 1st 1847 Holy Ground" y una "Indian Song" de Holy Ground del 6 de octubre de 1847 [^hazzardbook][^andrews]. Andrews lee Holy Ground como Canterbury, Nuevo Hampshire [^andrews]. Andrews imprimió también una canción "Sung by Br. Jack" en Enfield en 1848 [^andrews]. Andrews imprimió el "Coulard spirit" de Hazzard como "a colored spirit", un espíritu de color, y su canción de 1848 también llama a Jack "a colored spirit" [^andrews]: para los shakers, Jack era el espíritu de un hombre negro [^andrews][^nwr]. Sus canciones las cantaban médiums shakers como Perkins, así que las notas recogen cómo lo oían y lo imaginaban esos shakers, y no se sabe nada más de él [^hazzardbook][^andrews]. Andrews, que escribía en 1940, llamó a esas actuaciones "imitaciones raciales" ("racial impersonations"): en ellas los cantores shakers imitaban a otros pueblos tal como se los imaginaban, a veces en un dialecto inventado [^andrews]. La letra de esta canción es una alabanza en inglés llano.
 
 **El monte santo.** En ese mismo avivamiento, las aldeas shakers tomaron nombres espirituales, y el de New Lebanon era Holy Mount (Monte Santo) [^andrews][^devinne]. Desde 1842, cada aldea tuvo además un campo de fiesta en una cima despejada, para el culto al aire libre [^andrews][^devinne]. Andrews dice que el campo de fiesta de New Lebanon también se llamaba Holy Mount; Christine De Vinne lo llama Mount of Olives (Monte de los Olivos) [^andrews][^devinne]. El campo de Enfield era Mount Assurance [^andrews][^devinne]. Perkins era un shaker de Enfield, y Andrews situó la canción compañera en Enfield, pero la página no dice de qué monte se trata [^hazzard][^andrews].
+
+![[2]]
 
 ### Cronología
 
@@ -50,6 +55,8 @@ Dos páginas antes, en la página 21, otra canción, "Come Mother's love and fil
 **"I am fill'd with heavenly treasures."** "Fill'd" es "filled" (lleno), y el apóstrofo indica que la "e" no se pronuncia. En la Biblia King James, Jesús dice a quienes lo escuchan: "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (haceos tesoros en el cielo, donde ni polilla ni orín corrompe), en Mateo 6:20 [^kjv-bg][^kjv-pg]. Quien canta esta canción no los espera: los tesoros ya están aquí, y lo llenan ahora.
 
 En el avivamiento, en el culto se repartían regalos invisibles. La víspera de cada día de fiesta, los ancianos y las ancianas sacaban de un cofre imaginario túnicas espirituales que nadie podía ver y se las daban a los miembros [^andrews]. La canción que viene justo después en el libro de Hazzard, "Baskets of Treasures" (cestas de tesoros), de Canterbury, ofrece "jewels and diamonds and many pretty rings" (joyas y diamantes y muchos anillos bonitos) traídos en alas de plata [^hazzardbook][^andrews]. Andrews señaló con qué frecuencia las canciones de don prometían esos tesoros como recompensa de los fieles [^andrews].
+
+![[3]]
 
 **"Praise, praise, praise, praise."** La segunda sección es alabanza y nada más, cantada cuatro veces seguidas.
 

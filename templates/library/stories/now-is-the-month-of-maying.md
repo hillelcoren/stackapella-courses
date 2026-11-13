@@ -17,6 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: now is the month of maying | thomas morley now is the month of maying | now is the month of maying meaning | now is the month of maying lyrics meaning | now is the month of maying history | who wrote now is the month of maying | now is the month of maying text | now is the month of maying thomas morley lyrics | now is the month of maying satb | now is the month of maying alto part
+original: Thomas Morley, The First Booke of Balletts to Five Voyces (London: Thomas Este, 1595), Early English Books microfilm, Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_the-first-booke-of-balle_morley-thomas-este_1595
 ---
 
 Now Is the Month of Maying, spelled "Now is the moneth of Maying" in the book's table of contents, is an English part-song for May by Thomas Morley [^morley1595]. It is a ballett, a light dancing song in which every half ends in "fa la" [^morley1597][^fellowes1920]. Morley printed it in London in 1595 as No. 3 of The First Booke of Balletts to Five Voyces [^morley1595][^imslp-balletts]. The same year his printer issued the book with Italian words, and there the song begins "So ben mi c'ha bon tempo", the first line of an Italian song by Orazio Vecchi printed in Venice in 1590 [^morley1595it][^imslp-vecchi][^chilesotti]. On May Morning in Oxford, the choir of Magdalen College sings it from the top of the college's tower [^magdalen2024][^oxmag].
@@ -27,13 +28,21 @@ Now Is the Month of Maying, spelled "Now is the moneth of Maying" in the book's 
 
 **The book of 1595.** The title page of the top voice's book reads "Cantus. Of Thomas Morley the first booke of Balletts to five voyces. In London by Thomas Este", with the year in Roman numerals [^morley1595]. There is no score: each of the five singers had a separate book, Cantus, Altus, Tenor, Bassus or Quintus, holding only that voice's notes [^morley1595]. Morley dedicated the set to Sir Robert Cecil, one of the queen's Privy Council, and signed the dedication in London on 12 October 1595 [^morley1595][^fellowes1921]. He likens his "simple Compositions" to the "Milke" that people of the old world offered their gods when they had no incense [^morley1595]. A short poem headed "M. M. D. to the Author" follows: Morley lacks the charm of Orpheus, who drew stones and beasts, but need not envy him; let him "Draw thou the Shepherds still and Bonny-lasses" [^morley1595].
 
+![[1]]
+
 Now is the month of Maying is No. III, on one page of each book [^morley1595]. In the Cantus book the page opens with a large capital N. The first stanza runs under the notes, which are diamond-headed, as music was printed then, and each half of the song is written out twice. The other two stanzas are printed below as verse [^morley1595].
 
+![[2]]
+
 **The Italian twin.** In the same year Thomas Este printed the whole book again with Italian words, as Il primo libro delle ballette a cinque voci, dedicated in Italian to Cecil [^morley1595it][^imslp-balletts]. Its No. III carries the same music, but the words begin "So ben mi c'ha bon tempo" [^morley1595it][^imslp-balletts]. That is the opening of an aria for four voices with lute by Orazio Vecchi, printed in Venice by Angelo Gardano in 1590 in Vecchi's Selva di varia ricreatione, a book of madrigals, arias, dances, dialogues and more [^chilesotti][^imslp-vecchi]. Morley's ballett is not Vecchi's music with new words. Set beside Chilesotti's transcription, Vecchi's aria is for four voices and lute and Morley's for five, and their tunes run differently: Vecchi's top voice climbs D, E, F, G, A in quick notes, while Morley's repeats its G and steps up to B [^chilesotti][^morley1595]. The music theorist Megan Kaes Long describes Morley's balletts as new pieces loosely modeled on Italian ones, where earlier English editors had put English words to unchanged Italian pieces [^long2015]. In 1597 Morley named Vecchi among the composers a student of madrigals should take as guides [^morley1597].
+
+![[3]]
 
 **The English words** are not a translation. The Italian words keep a teasing secret, while the English is an invitation to go out and dance in May. No poet is named in the book [^morley1595]. Fellowes noted that the poet Michael Drayton had been suggested as the compiler of the set's poems, without naming any evidence, and IMSLP lists him as their attributed author [^fellowes1920][^imslp-balletts]. Fellowes listed ten of the set's balletts as translated from Gastoldi; Now is the month of Maying is not among them [^fellowes1920].
 
 **What a ballett was.** Two years later, in A Plaine and Easie Introduction to Practicall Musicke, Morley described "an other kind of Ballets, commonlie called fa las" [^morley1597][^olemiss]. He called it "a slight kind of musick" and wrote that "as I take it" it was "deuised to be daunced to voices" [^morley1597][^olemiss]. Fellowes later explained the fa la as a purely musical interlude, the kind instruments might play, which unaccompanied voices had to sing on some syllables [^fellowes1920].
+
+![[4]]
 
 **What happened next.** The set was printed again in English in 1600 [^dnb][^fellowes1921]. In 1921 Fellowes wrote that it had become better known than any other English madrigal book, and named Now is the month of Maying first among its favourites [^fellowes1921].
 

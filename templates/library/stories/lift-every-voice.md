@@ -19,9 +19,12 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lift every voice and sing history | who wrote lift every voice and sing | lift every voice and sing meaning | lift every voice and sing lyrics meaning line by line | who wrote the music for lift every voice and sing | lift every voice and sing black national anthem | lift every voice and sing sculpture | lift every voice and sing original
+original: "Lift Every Voice and Sing." National Hymn for the Colored People of America (Jos. W. Stern & Co., 1900), Library of Congress | https://www.loc.gov/item/2021561009/
 ---
 
 Lift Every Voice and Sing (often printed Lift Ev'ry Voice and Sing) is a song of faith and freedom made by two brothers from Jacksonville, Florida. James Weldon Johnson wrote the words, and his younger brother, J. Rosamond Johnson, wrote the music [^fenner][^loc-blog]. James wrote it for a celebration of Abraham Lincoln's birthday in 1900, when he was principal of the Stanton School, and a chorus of 500 schoolchildren sang it [^fenner][^naacp][^canterbury][^jaxson]. Its sheet music of that year already called it a "National Hymn for the Colored People of America" [^stern1900][^fenner]. The NAACP later took it up as its own song [^loc-blog][^pitt], and it is still widely known as the Black national anthem [^naacp][^yale-career]. Its three verses move from praise, to the memory of a hard road, to a prayer.
+
+![[1]]
 
 ## Where it comes from
 
@@ -31,7 +34,11 @@ Lift Every Voice and Sing (often printed Lift Ev'ry Voice and Sing) is a song of
 
 **The 1900 sheet music.** That same year Jos. W. Stern & Co., of New York, published it [^stern1900][^fenner]. Its title page reads: "National Hymn for the Colored People of America", then "Lift Every Voice and Sing", "Words by J. W. Johnson. Music by Rosamond Johnson" [^stern1900]. Over the music is a dedication to Booker T. Washington, misprinted "Booker J. Washington" [^stern1900][^fenner]. The music is in A-flat and 6/8, "Allo. mod.e maestoso" (moderately quick and majestic) [^stern1900]. Two staves of voice parts, for four voices, are marked "Simple way", above a fuller part for "Piano or Organ", with the note "If accompaniment is too difficult play voice parts" [^stern1900]. At "Sing a song full of the faith" the music turns "Grandioso", every voice sings the tune in octaves, and the organ part starts very soft ("pp", on the Swell's Bourdon stop) and breaks out very loud on "taught us" ("ff", "Gt. with Trumpets") [^stern1900]. It is marked "Copyright 1900 by Jos. W. Stern & Co.", plate 3071-3, and the copy now in the British Library was stamped by the British Museum on 3 November 1900: its earliest known printing [^stern1900][^fenner].
 
+![[2]]
+
 **Myth and record.** Often told: the music came only in 1905, it was not published until 1921, and Booker T. Washington heard the children first sing it. What the record shows: the Stern sheet, with Rosamond Johnson's music, is marked "Copyright 1900", and the Library of Congress has it registered that year [^stern1900][^loc-blog][^fenner]. It is dedicated to Washington, but Johnson's own account of the day never says he was there [^fenner][^loc-blog].
+
+![[3]]
 
 **How it spread.** In 1901 the brothers went to New York to write songs and shows with Bob Cole, though James went back to Jacksonville for a time: Yale has him principal of Stanton until 1902 [^loc-blog][^peretti][^pitt][^yale-origin]. Once they had moved away for good, Johnson wrote, they all but forgot the hymn [^fenner]. Jacksonville's children kept singing it, and within about twenty years it was sung in schools and churches across the South and beyond, often from copies pasted into hymnals [^fenner][^loc-blog]. In 1918 it opened a benefit concert at Aeolian Hall, New York, for the Music School Settlement for Colored People, which Rosamond Johnson directed. *The New York Times* and the *Musical Courier* both called it a national anthem for Black Americans [^nyt1918][^mc1918]. James joined the NAACP's staff in 1916 and from 1920 led it as executive secretary for ten years [^yale-career][^poets][^pitt]. The NAACP made Lift Every Voice and Sing its official song, but accounts differ on when. A Library of Congress blog gives 1919 [^loc-blog]. A Library of Congress essay says Johnson's NAACP colleagues proclaimed it "the Negro national anthem" in 1920 [^peretti]. *Mother Jones* gives 1921 [^motherjones], and a University of Pittsburgh guide says only the 1920s [^pitt]. The Hymnology Archive says only that it was later adopted, with no year [^fenner]. James died in 1938, and Rosamond in 1954 [^poets][^loc-blog][^pitt].
 
@@ -98,6 +105,8 @@ True to our God, true to our Native land.
 It is often sung to open or close a meeting, first at Lincoln's birthday celebrations, then at civic, school and church gatherings [^yale-impact][^nyt1918]. In letters now at Yale, Johnson answered people who asked how to sing it, down to how loudly to sing each part [^yale-impact]. Later printings set it for mixed quartet and for three-part chorus [^yale-origin], and today it is in the hymnals of many churches, in an irregular meter [^hymnary].
 
 Our arrangement is read from Rosamond Johnson's own four voice parts in the 1900 Stern sheet [^stern1900], checked against a later "Mixed Quartette" printing at Yale, signed by Rosamond Johnson [^yale-quartet]. We sing the first stanza a semitone lower, in G, in 6/8, broad and stately, with a breath before every line of the poem but "Of our new day begun", which runs straight on from "Facing the rising sun". His pause on "us" is written out as a held note and an extra bar before "Facing the rising sun". The tune is his, sung one note to a syllable (two of his slurred notes are left out). His alto, tenor and bass are kept, with some notes changed for beginners, most of them in the quick pickups. Where his voices all sing the tune in octaves, at "Sing a song full of the faith" and "full of the hope", our alto, tenor and bass hold his organ part's chords under the tune instead. Two singers sing the soprano and alto, three add the bass, and the tenor makes four.
+
+![[4]]
 
 ## Did you know?
 

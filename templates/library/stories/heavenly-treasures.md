@@ -14,6 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i am filled with heavenly treasures | heavenly treasures shaker song | what are shaker songs | shaker gift songs | lay up treasures in heaven meaning
+original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (begun 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
 I Am Fill'd with Heavenly Treasures, also written I Am Filled with Heavenly Treasures, is a short Shaker song of joy. It has one line of words and then "Praise, praise, praise, praise", each written twice, and each line ends in a run of notes with no words [^hazzard]. Mary Hazzard copied it into her handwritten songbook with a note that it was "Sung by Jack thro Abram P. on the holy Mount" on 30 August; the song above it on the page gives the year, 1847 [^hazzard]. To the Shakers that meant a spirit called Jack had sung it through a medium, Abraham Perkins of Enfield, New Hampshire [^andrews][^enfield]. Its "heavenly treasures" recall Jesus's words about laying up "treasures in heaven" [^kjv-bg][^kjv-pg].
@@ -30,9 +31,13 @@ Two pages earlier, on page 21, a different song, "Come Mother's love and fill my
 
 **Abraham Perkins.** Perkins was born at Sanbornton, New Hampshire, in 1807, and went to the Shakers at Enfield, New Hampshire, in 1827 [^runnels][^enfield]. A town history of 1881 says he became a preacher and adviser at both Enfield and Canterbury [^runnels]. The Enfield Shaker Museum lists medium among his roles and says he counted the gift of song among his greatest blessings [^enfield]. Hazzard's book has a song of his own, signed "Brother Abraham Perkins song Canterbury" [^hazzardbook].
 
+![[1]]
+
 **Jack.** Jack appears more than once in Hazzard's book: a song "Sung by Jack March 1st 1847 Holy Ground", and an "Indian Song" from Holy Ground of 6 October 1847 [^hazzardbook][^andrews]. Andrews reads Holy Ground as Canterbury, New Hampshire [^andrews]. Andrews also printed a song "Sung by Br. Jack" at Enfield in 1848 [^andrews]. Andrews printed Hazzard's "Coulard spirit" as "a colored spirit", and his 1848 song calls Jack "a colored spirit" too [^andrews]: to the Shakers, Jack was the spirit of a Black man [^andrews][^nwr]. His songs were sung by Shaker mediums such as Perkins, so the notes record how those Shakers heard and imagined him, and nothing more is known of him [^hazzardbook][^andrews]. Andrews, writing in 1940, called such performances "racial impersonations": in them the Shaker singers imitated other peoples as they pictured them, at times in a made-up dialect [^andrews]. The words of this song are plain English praise.
 
 **The holy Mount.** In the same revival the Shaker villages took spiritual names, and New Lebanon's was Holy Mount [^andrews][^devinne]. From 1842 each village also had a cleared hilltop feast ground for outdoor worship [^andrews][^devinne]. Andrews says New Lebanon's feast ground was called Holy Mount too; Christine De Vinne names it the Mount of Olives [^andrews][^devinne]. Enfield's own ground was Mount Assurance [^andrews][^devinne]. Perkins was an Enfield Shaker, and Andrews placed the companion song at Enfield, but the page does not say which mount is meant [^hazzard][^andrews].
+
+![[2]]
 
 ### Timeline
 
@@ -49,6 +54,8 @@ Two pages earlier, on page 21, a different song, "Come Mother's love and fill my
 **"I am fill'd with heavenly treasures."** "Fill'd" is "filled", the apostrophe showing the "e" is not sounded. In the King James Bible, Jesus tells his hearers to "lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt" (Matthew 6:20) [^kjv-bg][^kjv-pg]. This singer does not wait for them: the treasures are already here, and they fill the singer now.
 
 In the revival, unseen gifts were handed out in worship. On the evening before a feast day, elders and eldresses took spiritual robes that no one could see from an imaginary chest and gave them to the members [^andrews]. The very next song in Hazzard's book, "Baskets of Treasures" from Canterbury, offers "jewels and diamonds and many pretty rings" brought on silver wings [^hazzardbook][^andrews]. Andrews noted how often gift songs promised such treasure as the reward of the faithful [^andrews].
+
+![[3]]
 
 **"Praise, praise, praise, praise."** The second strain is praise and nothing else, sung four times over.
 
