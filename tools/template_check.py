@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SATB = {"soprano", "alto", "tenor", "bass"}
 BARBERSHOP = {"tenor", "lead", "baritone", "bass"}
 NEEDS = ["id", "version", "title", "tempo", "key", "timeSignature", "parts"]
+PER_BAR = {"4/4": 4, "3/4": 3, "2/4": 2, "6/8": 2}
 problems = []
 
 
@@ -87,7 +88,34 @@ def check(path):
             problems.append(f"{where}: voicing {count} names a part that doesn't exist")
         if melodies and melodies[0] not in voicing:
             problems.append(f"{where}: voicing {count} leaves out the melody ({melodies[0]})")
+    check_meters(song, where)
     check_rights(song, where)
+
+
+def check_meters(song, where):
+    """The optional metre changes (frontend's rules, 2026-11-13): after the pickup, strictly increasing, each a known
+    metre different from the one before, each on a bar line of the metre before it (bars of 4, 3, 2 and, for 6/8, 2 beats)."""
+    meters = song.get("meters")
+    if meters is None:
+        return
+    if not isinstance(meters, list) or not meters:
+        problems.append(f"{where}: meters must be a non-empty list of {{beat, timeSignature}}")
+        return
+    start, current = song.get("pickupBeats", 0) or 0, song.get("timeSignature")
+    for i, m in enumerate(meters):
+        beat, sig = (m or {}).get("beat"), (m or {}).get("timeSignature")
+        if not isinstance(beat, (int, float)) or sig not in PER_BAR:
+            problems.append(f"{where}: meters[{i}] needs a numeric beat and one of {', '.join(PER_BAR)}")
+            return
+        if beat <= start:
+            problems.append(f"{where}: meters[{i}] at beat {beat} must come after the pickup and after the change before it")
+            return
+        if sig == current:
+            problems.append(f"{where}: meters[{i}] repeats the metre before it ({sig})")
+        bars = (beat - start) / PER_BAR.get(current, 4)
+        if abs(bars - round(bars)) > 1e-6:
+            problems.append(f"{where}: meters[{i}] at beat {beat} is not on a bar line of {current}")
+        start, current = beat, sig
 
 
 ROLES = {"music", "words", "translation", "arrangement", "edition"}
@@ -130,7 +158,6 @@ songs = sorted(p for p in (ROOT / "templates").glob("*/*.json") if p.name != "in
 for song in songs:
     check(song)
 
-PER_BAR = {"4/4": 4, "3/4": 3, "2/4": 2, "6/8": 2}
 
 
 def check_take(path):
@@ -175,7 +202,7 @@ if index.exists():
 def music(song):
     """What the sync hashes, with JSON's own types (2 and 2.0 differ there, as in PHP)."""
     parts = [{k: p.get(k) for k in ("key", "range", "melody", "guide")} if isinstance(p, dict) else {} for p in song.get("parts") or []]
-    keep = {k: song.get(k) for k in ("tempo", "key", "timeSignature", "pickupBeats", "sections")}
+    keep = {k: song.get(k) for k in ("tempo", "key", "timeSignature", "meters", "pickupBeats", "sections")}
     return json.dumps({**keep, "parts": parts}, sort_keys=True)
 
 
