@@ -65,7 +65,7 @@ The song never says who is singing, or what the pipes are calling Danny to. It c
 
 ### The full words
 
-These are the words we sing: Weatherly's first verse, as our arrangement sets it from his song of 1913.[^conncoll] His second verse, explained above, is in the same printing, and is given here though it is not sung. The printing's own page of words ends the first verse "Oh, Danny Boy, I love you, love you so!"; here the line is as it stands under the notes, as it is sung.
+These are the words we sing: Weatherly's first verse, written in 1910, as our arrangement sets it from the song Boosey published in 1913.[^conncoll] His second verse, explained above, is in the same printing, and is given here though it is not sung. The printing's own page of words ends the first verse "Oh, Danny Boy, I love you, love you so!"; here the line is as it stands under the notes, as it is sung.
 
 **Verse 1**
 Oh, Danny Boy, the pipes, the pipes are calling

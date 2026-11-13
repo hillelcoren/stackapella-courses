@@ -1,7 +1,7 @@
 ---
 title: Amazing Grace: history, meaning and the words explained
-description: John Newton, once a slave-ship captain, wrote it at Olney for New Year's Day 1773. Its American tune, NEW BRITAIN, joined the words in 1835.
-lead: John Newton's hymn, written for his Olney parish for New Year's Day 1773 and printed in Olney Hymns in 1779, sung to NEW BRITAIN, an American tune printed in 1829. We sing verse 1.
+description: John Newton, once a slave-ship captain, wrote it at Olney for New Year's Day 1773. Its American tune, called New Britain, joined the words in 1835.
+lead: John Newton's hymn, written for his Olney parish for New Year's Day 1773 and printed in Olney Hymns in 1779, sung to the tune called New Britain, American, printed in 1829. We sing verse 1.
 words: John Newton (1725 to 1807)
 tune: Composer unknown; earliest known printing 1829
 tuneName: NEW BRITAIN
@@ -76,7 +76,7 @@ Often told, as the museum at Olney reports: it is an old Scottish tune, or an Am
 
 ### The full words
 
-Newton's six stanzas as printed in Olney Hymns (London, 1779), Book I, Hymn 41, the long s set as s [^olney1779]. Many hymnals print fewer: Excell's of 1900 has stanzas 1 to 4, and his arrangement of 1909 and 1910 stanzas 1 to 3 and the later stanza [^excell1900][^wrh1909][^coronation1910]. The last stanza is not Newton's; it is printed as in A Collection of Sacred Ballads (Virginia, 1790) [^broaddus1790].
+Newton's six stanzas as printed in Olney Hymns (London, 1779), Book I, Hymn 41 [^olney1779]. Many hymnals print fewer: Excell's of 1900 has stanzas 1 to 4, and his arrangement of 1909 and 1910 stanzas 1 to 3 and the later stanza [^excell1900][^wrh1909][^coronation1910]. The last stanza is not Newton's; it is printed as in A Collection of Sacred Ballads (Virginia, 1790) [^broaddus1790].
 
 **Verse 1**
 Amazing grace! (how sweet the sound)

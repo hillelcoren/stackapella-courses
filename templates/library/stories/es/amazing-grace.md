@@ -1,7 +1,7 @@
 ---
 title: Amazing Grace: historia, significado y la letra explicada
-description: John Newton, antiguo capitán de barcos negreros, lo escribió en Olney para el Año Nuevo de 1773. Su melodía estadounidense, NEW BRITAIN, se le unió en 1835.
-lead: El himno de John Newton para su parroquia de Olney, del Año Nuevo de 1773, impreso en Olney Hymns en 1779, con NEW BRITAIN, melodía estadounidense impresa en 1829. Cantamos la estrofa 1.
+description: John Newton, antiguo capitán de barcos negreros, lo escribió en Olney para el Año Nuevo de 1773. Su melodía estadounidense, llamada New Britain, se le unió en 1835.
+lead: El himno de John Newton para su parroquia de Olney, del Año Nuevo de 1773, impreso en Olney Hymns en 1779, con la melodía llamada New Britain, estadounidense, impresa en 1829. Cantamos la estrofa 1.
 words: John Newton (1725 a 1807)
 tune: Compositor desconocido; primera impresión conocida en 1829
 tuneName: NEW BRITAIN
@@ -18,7 +18,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: false
 searches: sublime gracia historia | amazing grace historia | amazing grace significado | quién escribió amazing grace | amazing grace capitán de barco negrero | amazing grace todas las estrofas
-translatedFrom: 3b41d6ffd3eb
+translatedFrom: 20971904b167
 listen: Library of Congress, grabación de 1922 | https://www.loc.gov/item/ihas.200049050/
 original: Olney Hymns (1779), Internet Archive | https://archive.org/details/bim_eighteenth-century_olney-hymns-in-three-bo_newton-john_1779/page/n78
 ---
@@ -77,7 +77,7 @@ Se suele contar, según recoge el museo de Olney, que es una vieja melodía esco
 
 ### La letra completa
 
-Las seis estrofas de Newton tal como se imprimieron en Olney Hymns (Londres, 1779), libro I, himno 41, con la s larga escrita como s [^olney1779]. Muchos himnarios imprimen menos: el de Excell de 1900 trae las estrofas 1 a 4, y su arreglo de 1909 y 1910, las estrofas 1 a 3 y la estrofa posterior [^excell1900][^wrh1909][^coronation1910]. La última estrofa no es de Newton; se imprime como en A Collection of Sacred Ballads (Virginia, 1790) [^broaddus1790].
+Las seis estrofas de Newton tal como se imprimieron en Olney Hymns (Londres, 1779), libro I, himno 41 [^olney1779]. Muchos himnarios imprimen menos: el de Excell de 1900 trae las estrofas 1 a 4, y su arreglo de 1909 y 1910, las estrofas 1 a 3 y la estrofa posterior [^excell1900][^wrh1909][^coronation1910]. La última estrofa no es de Newton; se imprime como en A Collection of Sacred Ballads (Virginia, 1790) [^broaddus1790].
 
 **Estrofa 1**
 > Amazing grace! (how sweet the sound)

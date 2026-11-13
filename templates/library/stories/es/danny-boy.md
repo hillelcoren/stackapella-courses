@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 115f407c9419
+translatedFrom: 22e98e2ba814
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
 original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up || Danny Boy, Boosey & Co. (copyright de 1913; ejemplar impreso en 1920 o después), Connecticut College | https://digitalcommons.conncoll.edu/sheetmusic/45
 ---
@@ -66,7 +66,7 @@ La canción nunca dice quién canta, ni a qué llaman las gaitas a Danny. Puede 
 
 ### La letra completa
 
-Esta es la letra que cantamos: la primera estrofa de Weatherly, tal como la fija nuestro arreglo a partir de su canción de 1913.[^conncoll] Su segunda estrofa, explicada arriba, está en la misma impresión y se da aquí aunque no se canta. La página de la letra de esa impresión termina la primera estrofa con "Oh, Danny Boy, I love you, love you so!"; aquí el verso va como figura bajo las notas, que es como se canta.
+Esta es la letra que cantamos: la primera estrofa de Weatherly, escrita en 1910, tal como la fija nuestro arreglo a partir de la canción que Boosey publicó en 1913.[^conncoll] Su segunda estrofa, explicada arriba, está en la misma impresión y se da aquí aunque no se canta. La página de la letra de esa impresión termina la primera estrofa con "Oh, Danny Boy, I love you, love you so!"; aquí el verso va como figura bajo las notas, que es como se canta.
 
 **Estrofa 1**
 > Oh, Danny Boy, the pipes, the pipes are calling
