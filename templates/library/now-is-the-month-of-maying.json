@@ -1,6 +1,6 @@
 {
  "id": "now-is-the-month-of-maying",
- "version": 4,
+ "version": 5,
  "reviewed": true,
  "title": "Now Is the Month of Maying",
  "description": "Thomas Morley's 1595 ballett, for 4 singers (Morley gives the chords' thirds to the tenors, so it needs all four): verse 1 and its \"fa la\" refrains, each half sung twice, as Morley's own parts with his two tenors joined into one. Light and dancing, every voice with a tune of its own.",
@@ -23,10 +23,10 @@
  "licence": {
   "words": "public domain: published 1595",
   "tune": "public domain: Morley died in 1602",
-  "arrangement": "Morley's own parts, public domain; joining the two tenors is original, written for Stackapella. Accepted exceptions (singable.py): Morley's own Altus, Bassus and joined tenors in a five-voice ballett: his Altus above his Cantus in the \"Fa la\" refrains (\"la\" at beats 23 and 85 to 86.5, and their repeats), its fall of a fourth across the breath to D on \"Each\", turning back up a third to F on \"with\", and its leap up a fourth to G on \"la\" and straight back down to D on \"Fa\", across his imitative entries; his Bassus's octaves (low G to G on \"When mer-\", A to A from \"grass\" to \"Fa\", G to low G on \"la\") and its fourths and fifths in \"When mer-ry lads\", \"Each with his bon-ny lass\", \"up-on the green-y grass\" and the \"Fa la\"s; and the joined tenor's turns in the first \"Fa la\" (D down to A, then up a third to C; E down to A, then up a fourth to D on \"Fa\"). Changed in the quality audit (2026-11-13): on \"are play-ing\" the joined tenor holds A, where it leapt down a fifth to G and back, which left the A7 chord without its root.",
+  "arrangement": "Morley's own parts, public domain; joining the two tenors is original, written for Stackapella: the joined tenor follows the Quintus, taking the Tenor's notes on \"Each with\", \"green-y\" and one \"la\" of the last \"Fa la\", and A on \"play-ing\", and sings D on \"up-\", where the Quintus has F and the Tenor A (F would leap a sixth from \"lass\", A would move in fifths with the bass). Breaths written in for beginners: \"play-ing\" is sung as two quarters with a quarter-beat breath after it where Morley holds \"play-\" for a half note; the tenor's and bass's \"la\" before the last \"Fa la\" of each half gives up a beat, their \"Fa\" coming in half a beat late; each line's last note is shortened. The final chord is held three beats for Morley's longs. Accepted exceptions (singable.py): Morley's own Altus, Bassus and joined tenors in a five-voice ballett: his Altus above his Cantus in the \"Fa la\" refrains (\"la\" at beats 23 and 85 to 86.5, and their repeats), its fall of a fourth across the breath to D on \"Each\", turning back up a third to F on \"with\", and its leap up a fourth to G on \"la\" and straight back down to D on \"Fa\", across his imitative entries; his Bassus's octaves (low G to G on \"When mer-\", A to A from \"grass\" to \"Fa\", G to low G on \"la\") and its fourths and fifths in \"When mer-ry lads\", \"Each with his bon-ny lass\", \"up-on the green-y grass\" and the \"Fa la\"s; and the joined tenor's turns in the first \"Fa la\" (D down to A, then up a third to C; E down to A, then up a fourth to D on \"Fa\"). Changed in the quality audit (2026-11-13): on \"are play-ing\" the joined tenor holds A, where it leapt down a fifth to G and back, which left the A7 chord without its root.",
   "recordings": "synthesized guides",
   "checked": null,
-  "source": "all five voices from E. H. Fellowes, The English Madrigal School, vol. IV (Stainer & Bell, 1913; Fellowes died 1951), No. 3, pp. 8 to 10, its accidentals checked against the 1595 part-books; read from the scans at imslp.org (The English Madrigal School, first edition) and archive.org"
+  "source": "all five voices from Morley's own part-books, Of Thomas Morley the First Booke of Balletts to Five Voyces (London: Thomas Este, 1595), No. III, Cantus, Altus, Quintus, Tenor and Bassus, read from the microfilm at archive.org/details/bim_early-english-books-1475-1640_the-first-booke-of-balle_morley-thomas-este_1595 (title n0; Cantus n7, Quintus n39, Altus n71, Tenor n103, Bassus n135), every book writing both halves out in full; the soprano is the Cantus, the alto the Altus, the bass the Bassus, every pitch and accidental as printed; spelling modernised (\"lasse\", \"vpon\", \"grasse\"). Checked against E. H. Fellowes, The English Madrigal School, vol. IV (Stainer & Bell, 1913), No. 3, consulted only"
  },
  "makers": [
   {
@@ -39,12 +39,6 @@
    "name": "Thomas Morley",
    "role": "arrangement",
    "died": 1602,
-   "nationality": "GB"
-  },
-  {
-   "name": "E. H. Fellowes",
-   "role": "edition",
-   "died": 1951,
    "nationality": "GB"
   }
  ],
@@ -1888,13 +1882,13 @@
      {
       "beat": 76,
       "length": 1,
-      "pitch": 68,
+      "pitch": 64,
       "lyric": "y"
      },
      {
       "beat": 77,
       "length": 0.75,
-      "pitch": 69,
+      "pitch": 64,
       "lyric": "grass"
      },
      {
@@ -2066,13 +2060,13 @@
      {
       "beat": 108,
       "length": 1,
-      "pitch": 68,
+      "pitch": 64,
       "lyric": "y"
      },
      {
       "beat": 109,
       "length": 0.75,
-      "pitch": 69,
+      "pitch": 64,
       "lyric": "grass"
      },
      {
@@ -2639,7 +2633,7 @@
      {
       "beat": 82.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 57,
       "lyric": "Fa",
       "br": true
      },
@@ -2822,7 +2816,7 @@
      {
       "beat": 114.5,
       "length": 0.5,
-      "pitch": 59,
+      "pitch": 57,
       "lyric": "Fa",
       "br": true
      },
