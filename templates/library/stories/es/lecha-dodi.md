@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: 714f3466ddb0
+translatedFrom: 5140ee22262b
 original: Baer, Baal T'fillah, 3.ª edición, pp. 90 a 91, Internet Archive | https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 ---
 
@@ -241,6 +241,10 @@ Solomon ha-Levi Alkabetz, poeta y cabalista de Safed, en el siglo XVI. Lo firmó
 ### ¿Quién es el "amado" de Lecha Dodi?
 
 Las lecturas no coinciden. Dodi es "amado mío", la palabra del Cantar de los Cantares en "Ven, oh amado mío, salgamos al campo". En la lectura de los cabalistas, los místicos de la Safed de Alkabetz, el amado es Hashem, llamado a salir al encuentro de la novia: el sabbat como la Shejiná, Su presencia. La versión inglesa de Francis L. Cohen, de 1904, lo canta de forma más sencilla: "Then come, my friend, to meet the Bride" (ven, pues, amigo mío, al encuentro de la novia).[^songofsongs][^jealk][^schechter][^schwartz][^miller][^je]
+
+### ¿Por qué Lecha Dodi se canta con tantas melodías?
+
+Porque nunca se fijó una melodía para ella. Ninguna fuente de la época de Alkabetz dice con qué se cantó al principio, y en Europa del Este la Encyclopaedia Judaica no encuentra ninguna forma establecida de cantarla.[^ej] Los cantores la convirtieron en su pieza de lucimiento: sus manuales del siglo XVIII ya reúnen cientos de melodías, muchas en los estilos de su entorno, minuetos y polonesas, y algunos daban a cada estrofa su propia melodía.[^ej] Las comunidades guardaban melodías especiales para ciertas épocas del año, como la nuestra para las semanas del Ómer.[^je][^ej] En 1929 Idelsohn contaba unas dos mil versiones musicales.[^idel29]
 
 ### ¿Qué voz canta la melodía?
 

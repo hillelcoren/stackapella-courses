@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: loch lomond significado | loch lomond historia | quién escribió loch lomond | loch lomond letra traducción | high road low road significado | cómo se pronuncia loch lomond
-translatedFrom: 92a9f6af2e4f
+translatedFrom: 8bac0be2b26a
 original: Songs of Scotland, p. 228, Internet Archive | https://archive.org/details/songsofscotlands00unse/page/n249/mode/1up
 listen: National Jukebox, grabación de 1905 | https://www.loc.gov/item/jukebox-121041/
 ---
@@ -162,9 +162,17 @@ La letra no lo dice. Leída al pie de la letra, dos personas vuelven a Escocia p
 
 Nadie lo sabe. Su primera impresión conocida es una hoja titulada Bonnie Loch Loman, publicada en Edimburgo por Paterson & Roy hacia 1840, y la canción puede ser más antigua [^browns][^tbi][^moffat]. Se atribuyó a menudo a Lady John Scott, la compositora de Annie Laurie, pero ella dijo que su marido y ella aprendieron la letra y la melodía de un niño que cantaba por las calles de Edimburgo [^moffat][^browns]. La idea de que se escribió en 1746 llegó más tarde, aunque el texto más antiguo ya llora Culloden [^greig][^browns].
 
+### ¿Quién cantó primero Loch Lomond, y cuál es la versión original?
+
+Nadie sabe quién la cantó primero: es una canción tradicional, y la original es la antigua canción escocesa, cuya primera impresión conocida es una hoja de Edimburgo de hacia 1840 [^browns][^tbi]. Lady John Scott dijo que la aprendió de un niño que cantaba por las calles de Edimburgo [^moffat]. La grabación más antigua que conocemos es la de Henry Burr, hecha para Victor el 4 de enero de 1905, y un disco de swing de agosto de 1937 fue un gran éxito [^jukebox1905][^synco]. Una banda de rock escocesa la volvió a hacer popular en la década de 1980, también en Alemania; la suya es un arreglo nuevo de la vieja canción [^express2024].
+
 ### ¿Cómo se pronuncia "Loch Lomond", y qué es un loch?
 
-Un loch es un lago, la palabra que se usa para los lagos naturales en toda Escocia [^dsl-loch]. El Dictionary of the Scots Language da para loch la pronunciación [lɔx]: la ch es el sonido aspirado que se forma en el fondo de la boca, como en el alemán Bach, no una k [^dsl-loch]. En la canción, el nombre se canta "Lomon'", sin la d final, como lo escribe Songs of the North [^sotn].
+Un loch es un lago, la palabra que se usa para los lagos naturales en toda Escocia [^dsl-loch]. Se dice "loj": el Dictionary of the Scots Language da la ch como el sonido aspirado que se forma en el fondo de la boca, como en el alemán Bach, no una k [^dsl-loch]. En la canción, el nombre se canta "Lomon'", sin la d final, como lo escribe Songs of the North [^sotn].
+
+### ¿Por qué los aficionados del FC Köln cantan Loch Lomond?
+
+Porque el himno de su club se canta con su melodía. "Mer stonn zo dir, FC Kölle", "estamos contigo, FC Köln" en el dialecto de Colonia, tiene su origen en Loch Lomond, según la ciudad de Colonia [^koeln2024]. Una banda de Colonia oyó la canción cuando la versión de una banda escocesa era popular en Alemania en la década de 1980, y usó la melodía para su propio homenaje al club [^express2024]. Suena antes de cada partido en casa desde 1998 [^onefootball].
 
 ### ¿Qué voz canta la melodía?
 
@@ -195,6 +203,10 @@ La soprano canta la melodía, desde el Re por encima del Do central hasta el Mi 
 - [^iln1885]: *The Illustrated London News*, vol. 87, n.º 2412 (Londres, 11 de julio de 1885), p. 49, reseña de Songs of the North (Field and Tuer). https://archive.org/details/sim_illustrated-london-news_1885-07-11_87_2412
 - [^chambers1885]: *Chambers's Journal of Popular Literature, Science and Arts*, vol. 2, n.º 82 (Edimburgo, 25 de julio de 1885), "The Month: Science and Arts", p. 476. https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1885-07-25_2_82
 - [^synco]: "Maxine Sullivan", *The Syncopated Times*: "On August 6, her second session included two Scottish folk songs"; "'Loch Lomond' was such a big hit that it made Sullivan famous". https://syncopatedtimes.com/maxine-sullivan/
+- [^jukebox1905]: Library of Congress, National Jukebox, "Loch Lomond", Henry Burr, Victor, matriz B-2108/1, grabado el 4 de enero de 1905, dominio público; copia en Internet Archive, ítem loc-jukebox-121041-loch-lomond. https://archive.org/details/loc-jukebox-121041-loch-lomond
+- [^koeln2024]: Stadt Köln, nota de prensa "Kölsch-schottische Völkerverständigung vor dem schottischen EM-Spiel in Köln" (3 de junio de 2024): "Die wohl bekannteste Hymne der Stadt, 'Mer stonn zo dir, FC Kölle', hat ihren Ursprung im schottischen Nationalsong 'Loch Lomond'". https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/26772/index.html
+- [^express2024]: Douglas Dickie, sobre el himno del 1. FC Köln, *Scottish Daily Express* (12 de agosto de 2024): cantado "to the tune of 'The Bonnie Banks o' Loch Lomond'"; la "popularity in Germany in the 1980s" de la banda escocesa "meant the song was heard by" una banda de Colonia. https://scottishdailyexpress.co.uk/sport/fans-german-football-team-singing-33446396
+- [^onefootball]: fussball.news, "Karneval schlägt Grönemeyer: Die beliebtesten Hymnen der Bundesliga", *OneFootball* (3 de mayo de 2023): el himno suena "seit 1998 vor jedem Heimspiel". https://onefootball.com/de/news/karneval-schlaegt-groenemeyer-die-beliebtesten-hymnen-der-bundesliga-37379270
 - [^hh4]: W. E. Henley y T. F. Henderson, eds., *The Poetry of Robert Burns*, vol. 4 (Edimburgo: T. C. and E. C. Jack, 1897), Glossary: "Afore, before", "Bonie, bonnie, pretty, beautiful", "Brae, a small hill, the slope of a hill", "Gae, to go", "Gloamin, gloaming, twilight, dusk", "Greet, to weep", "Ken, to know", "Wae, woe; woful, sorrowful", "Yon, yonder"; ejemplar de la Cornell University Library. https://archive.org/details/cu31924013446442
 - [^gebbie6]: *The Complete Works of Robert Burns (Self-Interpreting)*, vol. 6 (Nueva York: National Library Company, [1909], de la edición con copyright de Gebbie and Co., 1886), Glossary: "Afore, before", "Bonie, bonnie, bonny, handsome, beautiful", "Brae, the slope of a hill", "Gloamin, the twilight", "Greet, to shed tears, to weep", "Hie, high", "Ken, to know", "Wae, woe; waefu', sorrowful". https://archive.org/details/completeworksofr06burnuoft
 - [^dsl-loch]: *Dictionaries of the Scots Language*, Scottish National Dictionary, "Loch", n., con la pronunciación [lɔx]: "A lake, a sheet of natural water, an arm of the sea". https://dsl.ac.uk/entry/snd/loch

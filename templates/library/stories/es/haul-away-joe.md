@@ -12,11 +12,11 @@ alsoKnownAs: Haul Away, Joe; Haul Away Jo; Way, Haul Away
 wikidata: Q122260596
 quote: Way, haul away, haul away, Joe.
 quoteSource: sharpscan
-updated: 2026-11-12
+updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul away joe significado | haul away joe historia | quién escribió haul away joe | haul away joe letra significado | haul away joe canción marinera | haul away joe letra en español
-translatedFrom: 4c2a33cda8fc
+translatedFrom: 3af4f115a4fc
 original: Sharp, English Folk-Chanteys (1914), n.º XXVII, p. 32, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n51/mode/1up
 ---
 
@@ -189,6 +189,10 @@ Es una canción de trabajo para tirar de un cabo: "haul away" significa tira, y 
 ### ¿Quién escribió Haul Away, Joe?
 
 Nadie lo sabe: es tradicional, y ninguna fuente antigua nombra a un autor. La impresión más antigua que hemos encontrado está en Harper's New Monthly Magazine, en julio de 1882, donde William L. Alden dio su verso del solista y su estribillo con una melodía, y la llamó muy antigua [^alden]. Las estrofas y la melodía dórica que cantamos son las de John Short, tal como las imprimió Cecil Sharp en 1914 [^sharpscan].
+
+### ¿De dónde viene Haul Away, Joe?
+
+Viene de los barcos de vela, donde la cantaban tripulaciones británicas y estadounidenses, y ningún documento dice dónde ni cuándo nació. La impresión más antigua que hemos encontrado es la de William L. Alden, en Harper's New Monthly Magazine, Nueva York, julio de 1882; la llamó "sin duda muy antigua" y de origen puramente marinero [^alden]. Cecil Sharp la recogió de dos viejos marineros ingleses, Charles Robbins en Londres en 1908 y John Short de Watchet, cuya versión imprimió en 1914 [^fssj][^sharpscan]. En 1914 Bullen y Arnold atribuyeron la mayoría de las melodías de shanty a cantores afrodescendientes; Sharp oyó esta como libre de esa influencia [^bullen][^sharp].
 
 ### ¿Qué género es Haul Away, Joe?
 

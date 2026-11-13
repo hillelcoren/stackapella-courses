@@ -12,11 +12,11 @@ alsoKnownAs: La paloma, canción americana; The Dove; Fly, Dove, o'er the Billow
 wikidata: Q1700350
 quote: Si a tu ventana llega una paloma
 quoteSource: century1906
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: quién escribió la paloma | la paloma significado | la paloma historia | la paloma de iradier | la paloma letra completa | la paloma habanera cuba
-translatedFrom: a0ae5dff77c0
+translatedFrom: eedd9e78d6da
 original: La Paloma (Nueva York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
 listen: National Jukebox, grabación de 1902 | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, grabación de 1903 | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---
@@ -158,6 +158,10 @@ Ninguna de las dos, en sentido estricto: es la canción de un compositor españo
 
 No. Son canciones distintas, con su propia letra y su propia melodía. La Paloma de Iradier es la que empieza "Cuando salí de la Habana" y tiene el estribillo "Si a tu ventana llega una paloma" [^century1906]. El poema "La paloma" de Rafael Alberti, de su libro Entre el clavel y la espada, es otra obra distinta, a la que más tarde pusieron música Carlos Guastavino y otros [^uned-alberti][^liedernet-alberti].
 
+### ¿Quién cantó primero La Paloma, y hay una versión en inglés?
+
+Ningún documento dice quién la cantó primero: Iradier la publicó en Madrid ya en 1859 para voz y piano, y el registro no nombra a ningún cantante [^boletin1861]. La grabación más antigua que conocemos es un disco Berliner de hacia 1896, de un tenor, F. Giannini, y Victor la grabó en español en 1902 [^bnf-1896][^jukebox1902]. Las letras en inglés llegaron pronto: "Fly, Dove, o'er the Billow" de L. C. Elson (1878) y la de M. H. R. (1906) [^ava1887][^century1906]. En la película Blue Hawaii, de 1961, Elvis Presley cantó "No More", con letra nueva de Don Robertson y Hal Blair sobre la melodía de Iradier [^afi1961][^cce1961][^poparchives][^originals].
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía de Iradier. La contralto y el tenor cantan la misma letra con ella, la contralto sobre todo una tercera o una sexta por debajo, y el bajo canta el ritmo de habanera en "dm" por debajo de todos. Con dos cantantes tienes la melodía y la contralto; añade el bajo para tres, y así estará el ritmo.
@@ -189,5 +193,9 @@ La soprano canta la melodía de Iradier. La contralto y el tenor cantan la misma
 - [^menestrel1887]: *Le Ménestrel*, año 53, n.º 5 (París: Heugel, domingo 2 de enero de 1887), p. 35, "Semaine théâtrale"; ejemplar de Boston Public Library, facsímil, hoja 43. https://archive.org/details/lemnestrel53pari/page/35
 - [^bnf-1896]: Bibliothèque nationale de France, registro "La paloma / [Yradier], comp.; Sig. F. Giannini, T", E. Berliner's Gramophone 913, [1896], disco de 17 cm, FRBNF38372244. https://catalogue.bnf.fr/ark:/12148/cb383722443
 - [^jukebox1902]: Library of Congress, National Jukebox, "La paloma", Victor, grabado el 11 de febrero de 1902, voz, español; copia de Internet Archive. https://www.loc.gov/item/jukebox-422018/
+- [^afi1961]: AFI Catalog of Feature Films, *Blue Hawaii* (1961), créditos de las canciones ("No More," words and music by Don Robertson and Hal Blair) y fecha de estreno, 22 de noviembre de 1961. https://catalog.afi.com/Catalog/moviedetails/19729
+- [^cce1961]: Library of Congress, Copyright Office, *Catalog of Copyright Entries*, Third Series, vol. 15, parte 5, n.º 2, Music, julio a diciembre de 1961, entrada "No More; w & m Don Robertson & Hal Blair. © Gladys Music, Inc.; 15Sep61; EU687815"; Internet Archive, ítem catalogofcopyrig3155libr, escaneo. https://archive.org/details/catalogofcopyrig3155libr
+- [^poparchives]: Lyn Nuttall, *Pop Archives*, "To Love", con las notas sobre "No More" de Elvis Presley (RCA Victor, álbum de la banda sonora de Blue Hawaii, octubre de 1961): "The melody is Yradier's La paloma." https://poparchives.com.au/johnny-okeefe/to-love
+- [^originals]: Arnold Rypens, *The Originals*, "Paloma, La", lista de versiones: "1961: Elvis Presley [as No More]". https://www.originals.be/en/originals/4771
 - [^uned-alberti]: Poemas musicalizados (UNED), "Rafael Alberti, VI: Entre el clavel y la espada (1939 a 1940): poemas musicalizados y discografía", base de datos actualizada en diciembre de 2021, n.º 8 y sus musicalizaciones. https://poemas.uned.es/wp-content/uploads/2023/12/VI.-ALBERTI.-ENTRE-EL-CLAVEL-Y-LA-ESPADA-pdf.pdf
 - [^liedernet-alberti]: The LiederNet Archive, Rafael Alberti, *Entre el clavel y la espada*, "La paloma", con música de Carlos Guastavino. https://www.lieder.net/lieder/show_poems_in_group.html?CID=3039

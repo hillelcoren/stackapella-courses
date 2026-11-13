@@ -196,6 +196,10 @@ No one knows who made it; its earliest known printing is from 1815. Scholars hea
 
 Yes and no. Rock of Ages is the English Hanukkah hymn sung to the Maoz Tzur tune, and Reform and Conservative synagogues sing it beside the Hebrew or in its place. It is not a line-by-line translation but an adaptation, credited to Marcus Jastrow and Gustav Gottheil, of a German version by Leopold Stein, and it departs a little from the Hebrew.[^uh1932][^hymnary][^ej][^uh1897]
 
+### How do you pronounce Maoz Tzur?
+
+In modern Israeli Hebrew, as we sing it, say "mah-OZ TSOOR": Maoz has two syllables, the stress on the second, and tz is the "ts" in "cats".[^id1912] In the Ashkenazi accent the first vowel, written with a kamatz, is sounded "o", and the stress moves back to the first syllable, so it comes out nearer "MOH-oz TSOOR", the sound behind the spelling Mooz Tsur.[^jepron][^ejpron]
+
 ### Which part sings the tune?
 
 The soprano sings the tune throughout, as Idelsohn printed it. The alto sings with it, mostly a third or sixth below. With two singers it is soprano and alto, with three the bass joins, and with four the tenor fills the middle of each chord.[^id1912]
@@ -219,4 +223,6 @@ The soprano sings the tune throughout, as Idelsohn printed it. The alto sings wi
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), No. 387, "Dear Christians, One and All, Rejoice", via Hymnary.org. https://hymnary.org/hymn/LH1941/387
 - [^isaiah]: Isaiah 17:10, in *The Holy Scriptures* (Jewish Publication Society, 1917), via Mechon Mamre. https://mechon-mamre.org/p/pt/pt1017.htm
 - [^talmud]: Babylonian Talmud, Shabbat 21b, via Sefaria. https://www.sefaria.org/Shabbat.21b
+- [^jepron]: Crawford Howell Toy and Caspar Levias, "Pronunciation, Modern, of Hebrew", *The Jewish Encyclopedia*, vol. 10 (Funk and Wagnalls, 1905), pp. 210 to 212: among the Ashkenazim of Germany the kamez "is pronounced ō in an open syllable"; Ashkenazic words are "accented on the penult"; צ is "ts". https://www.jewishencyclopedia.com/articles/12384-pronunciation-modern-of-hebrew
+- [^ejpron]: Shelomo Morag, "Pronunciations of Hebrew", *Encyclopaedia Judaica*, via Encyclopedia.com: "In the Ashkenazi communities the qameẓ is realized as [o] or [u]". https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/pronunciations-hebrew
 - [^siddur]: *Siddur Ashkenaz*, Festivals, Chanukah, Service for Lighting Chanukah Candles, Maoz Tzur, Hebrew text of the Daat siddur, via Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Chanukah%2C_Service_for_Lighting_Chanukah_Candles%2C_Maoz_Tzur

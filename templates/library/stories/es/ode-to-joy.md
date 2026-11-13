@@ -15,11 +15,11 @@ alsoKnownAs: Joyful, Joyful, We Adore Thee; Hymn of Joy; Hymn to Joy; An die Fre
 wikidata: Q119586188
 quote: Joyful music lifts us sunward In the triumph song of life.
 quoteSource: poems1911
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: himno a la alegría historia | himno a la alegría significado | quién escribió el himno a la alegría | himno a la alegría himno europeo | joyful joyful we adore thee significado | joyful joyful we adore thee historia
-translatedFrom: 04aad3b372c6
+translatedFrom: c83b9f6a6127
 original: The Poems of Henry van Dyke (Scribner's, 1911), Internet Archive | https://archive.org/details/cu31924021507672
 ---
 
@@ -198,6 +198,10 @@ Nuestra melodía y nuestra letra vienen del Hymnal for American Youth de H. Augu
 
 ## Preguntas
 
+### ¿Qué significa en español la letra del Himno a la alegría?
+
+El poema de Schiller saluda a la alegría como "hermosa chispa de los dioses", cuya magia vuelve a unir lo que la costumbre separó, de modo que "todos los seres humanos se vuelven hermanos" [^gedichte1803]. Las estrofas que puso en música Beethoven siguen: quien ha ganado un amigo verdadero o una esposa amada, o puede llamar suya aunque sea una sola alma, que se una al júbilo, y todas las criaturas, buenas y malas, beben alegría de la naturaleza [^wsbeethoven]. Los estribillos abrazan a los millones con un beso para el mundo entero, los animan a recorrer su camino tan alegres como los soles, y a buscar al Creador por encima de las estrellas, donde ha de vivir un Padre amoroso [^wsbeethoven][^gedichte1803].
+
 ### ¿Quién escribió el Himno a la alegría, Beethoven o Schiller?
 
 Los dos: Friedrich Schiller escribió el poema, An die Freude, en 1785, y Beethoven le puso música en el final de su Novena Sinfonía, tocada por primera vez en 1824 [^gedichte1803][^thalia][^thayer3][^elbphil]. El himno inglés Joyful, Joyful, We Adore Thee es de Henry van Dyke, que lo escribió para la melodía de Beethoven a más tardar en 1907 [^h1911][^hymnarchive].
@@ -210,9 +214,9 @@ Sí. Beethoven ya estaba sordo cuando la Novena Sinfonía se tocó por primera v
 
 Sí. El Consejo de Europa eligió el tema del Himno a la alegría de Beethoven como su himno en 1972 [^coearch][^coe][^eu]. La Comunidad Europea adoptó la misma música como propia: en 1985 según la Unión Europea, y en 1986 según el Consejo de Europa [^eu][^coearch]. El himno no tiene letra, solo música, y no pretende sustituir a los himnos nacionales [^eu].
 
-### ¿Es el Himno a la alegría una canción cristiana?
+### ¿Es el Himno a la alegría una canción cristiana, o de Navidad?
 
-El poema de Schiller no es un himno religioso: celebra la alegría y la amistad, aunque sus estribillos hablan de un Padre amoroso por encima de las estrellas [^gedichte1803]. La letra inglesa que más se canta con la melodía sí es un himno cristiano: Joyful, Joyful, We Adore Thee, del pastor presbiteriano Henry van Dyke, en los himnarios desde 1911 [^h1911][^hymnarchive][^tvd].
+El poema de Schiller no es un himno religioso: celebra la alegría y la amistad, aunque sus estribillos hablan de un Padre amoroso por encima de las estrellas [^gedichte1803]. La letra inglesa que más se canta con la melodía sí es un himno cristiano: Joyful, Joyful, We Adore Thee, del pastor presbiteriano Henry van Dyke, en los himnarios desde 1911 [^h1911][^hymnarchive][^tvd]. No es una canción de Navidad: ni el poema de Schiller ni el himno de van Dyke mencionan la Navidad, y los himnarios ponen el himno entre los de alabanza, "His Fatherhood and Love" (su paternidad y su amor) en 1911 y "God in His World" (Dios en su mundo) en 1919 [^gedichte1803][^poems1911][^h1911][^hay1919].
 
 ### ¿Qué voz canta la melodía?
 

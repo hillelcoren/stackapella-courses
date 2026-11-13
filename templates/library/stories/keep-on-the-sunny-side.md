@@ -115,6 +115,10 @@ Our arrangement sings verse 1 and the chorus, in A-flat as Entwisle printed it, 
 
 ## Questions
 
+### What does Keep on the Sunny Side mean?
+
+It is a song of hope: life has a dark, troubled side and a bright, sunny one, so keep looking to the bright side every day. Storms and clouds pass, the verses say, and the singer trusts the Saviour who keeps everyone in His care [^hs1900]. Charles H. Gabriel wrote in 1916 that Ada Blenkhorn got the idea from an invalid nephew who always wanted to be wheeled "on the sunny side of the street" [^gabriel1916].
+
 ### Who was the original artist of Keep on the Sunny Side?
 
 No single artist: it began as a gospel song printed for Sunday schools. Ada Blenkhorn wrote the words and J. Howard Entwisle the music, and Bright Melodies printed it in Philadelphia in 1899 [^bm1899][^hymnary-text]. The record that made it famous is the Carter Family's, made for Victor in Camden, New Jersey, in May 1928 [^ev-ap][^fw32431]. Some later labels credit A. P. Carter, but the 1899 page names Blenkhorn and Entwisle [^bluebird][^bm1899].
@@ -125,7 +129,7 @@ It is a gospel song, the verse-and-chorus kind of hymn made for Sunday schools a
 
 ### Is Keep on the Sunny Side in O Brother, Where Art Thou?
 
-Yes. It is track 8 on the soundtrack album of the 2000 film, issued by Mercury Nashville [^umusic][^stinfo]. By then the song was a century old: Ada Blenkhorn and J. Howard Entwisle's gospel song of 1899, which the Carter Family's record of 1928 had carried into country music [^bm1899][^ev-ap][^cmhof].
+Yes. It is track 8 on the soundtrack album of the 2000 film, issued by Mercury Nashville [^umusic][^stinfo]. It is not the Carter Family's record: the track lists credit a country family group, a father and his daughters, members of the Grand Ole Opry since 1984 [^umusic][^stinfo][^opry]. By then the song was a century old: Ada Blenkhorn and J. Howard Entwisle's gospel song of 1899, which the Carter Family's record of 1928 had carried into country music [^bm1899][^ev-ap][^cmhof].
 
 ### Is Keep on the Sunny Side public domain?
 
@@ -162,6 +166,7 @@ The soprano, as in Entwisle's printing, where the tune is the top line of the tr
 - [^bluebird]: The Carter Family, "Keep On the Sunny Side", RCA Victor Bluebird Series B-5006-B (made in Canada), label scan, Internet Archive. https://archive.org/details/keep-on-the-sunny-side
 - [^umusic]: Universal Music Italia, *O Brother, Where Art Thou?* (Mercury Nashville, 2000), track list. https://www.universalmusic.it/popular-music/album/o-brother-where-art-thou-_20012106610/
 - [^stinfo]: The SoundtrackINFO Project, *O Brother, Where Art Thou?* (Mercury, 2000), track list. https://www.soundtrackinfo.com/tracks/obrotherwhereartthou
+- [^opry]: Grand Ole Opry, *The Whites*, artist page (member since 2 March 1984). https://www.opry.com/artists/the-whites
 - [^fmr2023]: Film Music Reporter, "The Hunger Games: The Ballad of Songbirds and Snakes Soundtrack Album Details" (3 November 2023). https://filmmusicreporter.com/2023/11/03/the-hunger-games-the-ballad-of-songbirds-and-snakes-soundtrack-album-details/
 - [^holler2023]: Holler, soundtrack announcement and track list for *The Hunger Games: The Ballad of Songbirds and Snakes* (November 2023). https://holler.country/news/breaking/charles-wesley-godwin-sierra-ferrell-and-more-to-appear-on-the-hunger-games-the-ballad-of-songbirds-and-snakes-soundtrack
 - [^jukebox1906a]: Library of Congress, National Jukebox, "Keep on the sunny side" (Theodore F. Morse and Jack Drislane), Victor, matrix C-3096, recorded 9 February 1906, mirrored at the Internet Archive. https://archive.org/details/loc-jukebox-122513-keep-on-the-sunny-side

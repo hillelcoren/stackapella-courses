@@ -137,9 +137,17 @@ The words do not say. Read plainly, two people go home to Scotland by different 
 
 Nobody knows. Its earliest known printing is a sheet titled Bonnie Loch Loman, published in Edinburgh by Paterson & Roy in about 1840, and the song may be older [^browns][^tbi][^moffat]. It was often credited to Lady John Scott, the composer of Annie Laurie, but she said she and her husband learned the words and tune from a boy singing in the streets of Edinburgh [^moffat][^browns]. The idea that it was written in 1746 came later, though the earliest text already mourns Culloden [^greig][^browns].
 
+### Who first sang Loch Lomond, and which version is the original?
+
+No one knows who first sang it: it is a traditional song, and the original is the old Scottish one, its earliest known printing an Edinburgh sheet of about 1840 [^browns][^tbi]. Lady John Scott said she learned it from a boy singing in Edinburgh's streets [^moffat]. The oldest recording we know is Henry Burr's, made for Victor on 4 January 1905, and a swing record of August 1937 was a big hit [^jukebox1905][^synco]. A Scottish rock band made it popular again in the 1980s, in Germany too; theirs is a new arrangement of the old song [^express2024].
+
 ### How do you pronounce "Loch Lomond", and what is a loch?
 
-A loch is a lake, the word used for natural lakes all over Scotland [^dsl-loch]. The Dictionary of the Scots Language gives loch as [lɔx]: the ch is the breathy sound made at the back of the mouth, as in German Bach, not a k [^dsl-loch]. In the song the name is sung "Lomon'", the last d dropped, as Songs of the North spells it [^sotn].
+A loch is a lake, the word used for natural lakes all over Scotland [^dsl-loch]. Say it "lokh": the Dictionary of the Scots Language gives the ch as the breathy sound made at the back of the mouth, as in German Bach, not a k [^dsl-loch]. In the song the name is sung "Lomon'", the last d dropped, as Songs of the North spells it [^sotn].
+
+### Why do FC Köln fans sing Loch Lomond?
+
+Because their club's anthem is sung to its tune. "Mer stonn zo dir, FC Kölle", "we stand by you, FC Köln" in the Cologne dialect, has its origin in Loch Lomond, the city of Cologne says [^koeln2024]. A Cologne band heard the song when a Scottish band's version was popular in Germany in the 1980s, and used the tune for its own tribute to the club [^express2024]. It has been played before every home game since 1998 [^onefootball].
 
 ### Which part sings the tune?
 
@@ -170,6 +178,10 @@ The soprano sings the tune, from the D above middle C up to the E a ninth higher
 - [^iln1885]: *The Illustrated London News*, vol. 87, no. 2412 (London, 11 July 1885), p. 49, notice of Songs of the North (Field and Tuer). https://archive.org/details/sim_illustrated-london-news_1885-07-11_87_2412
 - [^chambers1885]: *Chambers's Journal of Popular Literature, Science and Arts*, vol. 2, no. 82 (Edinburgh, 25 July 1885), "The Month: Science and Arts", p. 476. https://archive.org/details/sim_chambers-journal-of-popular-literature-science-and-arts_1885-07-25_2_82
 - [^synco]: "Maxine Sullivan", *The Syncopated Times*: "On August 6, her second session included two Scottish folk songs"; "'Loch Lomond' was such a big hit that it made Sullivan famous". https://syncopatedtimes.com/maxine-sullivan/
+- [^jukebox1905]: Library of Congress, National Jukebox, "Loch Lomond", Henry Burr, Victor, matrix B-2108/1, recorded 4 January 1905, public domain; mirrored at the Internet Archive, item loc-jukebox-121041-loch-lomond. https://archive.org/details/loc-jukebox-121041-loch-lomond
+- [^koeln2024]: Stadt Köln, press release "Kölsch-schottische Völkerverständigung vor dem schottischen EM-Spiel in Köln" (3 June 2024): "Die wohl bekannteste Hymne der Stadt, 'Mer stonn zo dir, FC Kölle', hat ihren Ursprung im schottischen Nationalsong 'Loch Lomond'". https://www.stadt-koeln.de/politik-und-verwaltung/presse/mitteilungen/26772/index.html
+- [^express2024]: Douglas Dickie, on 1. FC Köln's anthem, *Scottish Daily Express* (12 August 2024): sung "to the tune of 'The Bonnie Banks o' Loch Lomond'"; the Scottish band's "popularity in Germany in the 1980s meant the song was heard by" a Cologne band. https://scottishdailyexpress.co.uk/sport/fans-german-football-team-singing-33446396
+- [^onefootball]: fussball.news, "Karneval schlägt Grönemeyer: Die beliebtesten Hymnen der Bundesliga", *OneFootball* (3 May 2023): the anthem played "seit 1998 vor jedem Heimspiel". https://onefootball.com/de/news/karneval-schlaegt-groenemeyer-die-beliebtesten-hymnen-der-bundesliga-37379270
 - [^hh4]: W. E. Henley and T. F. Henderson, editors, *The Poetry of Robert Burns*, vol. 4 (Edinburgh: T. C. and E. C. Jack, 1897), Glossary: "Afore, before", "Bonie, bonnie, pretty, beautiful", "Brae, a small hill, the slope of a hill", "Gae, to go", "Gloamin, gloaming, twilight, dusk", "Greet, to weep", "Ken, to know", "Wae, woe; woful, sorrowful", "Yon, yonder"; Cornell University Library copy. https://archive.org/details/cu31924013446442
 - [^gebbie6]: *The Complete Works of Robert Burns (Self-Interpreting)*, vol. 6 (New York: National Library Company, [1909], from the edition copyright Gebbie and Co., 1886), Glossary: "Afore, before", "Bonie, bonnie, bonny, handsome, beautiful", "Brae, the slope of a hill", "Gloamin, the twilight", "Greet, to shed tears, to weep", "Hie, high", "Ken, to know", "Wae, woe; waefu', sorrowful". https://archive.org/details/completeworksofr06burnuoft
 - [^dsl-loch]: *Dictionaries of the Scots Language*, Scottish National Dictionary, "Loch", n., pronounced [lɔx]: "A lake, a sheet of natural water, an arm of the sea". https://dsl.ac.uk/entry/snd/loch

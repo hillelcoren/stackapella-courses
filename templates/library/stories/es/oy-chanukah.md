@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: oy chanukah letra en español | oy chanukah canción en ídish | oy chanukah significado | oy chanukah historia | canción de janucá en ídish | oh chanukah letra
-translatedFrom: e3a9e572307c
+translatedFrom: 21bee172af00
 original: Lider-zamelbukh, n.º 24, p. 32, Internet Archive | https://archive.org/details/nybc202667/page/n142/mode/1up
 ---
 
@@ -150,7 +150,7 @@ Nuestro arreglo está tomado de la cuarta edición del cancionero, publicada en 
 
 ### ¿Quién escribió Oy Chanukah?
 
-Mordkhe Rivesman escribió la letra. El libro encabeza el n.º 24 con "Werter fun M. Riwesman", letra de M. Rivesman, y marca la melodía solo como "Chsidisch", jasídica, sin nombrar a su autor; Pesach Lvov la arregló.[^k4]
+Mordkhe Rivesman escribió la letra. El libro encabeza el n.º 24 con "Werter fun M. Riwesman", letra de M. Rivesman, y marca la melodía solo como "Chsidisch", jasídica, sin nombrar a su autor; Pesach Lvov la arregló.[^k4] Las atribuciones posteriores varían: My Jewish Learning la presenta como una canción tradicional sin nombrar autor, y la canción hebrea con la misma melodía se atribuye a Avraham Avronin, con la música como popular.[^mjl][^chagim] La primera impresión conocida nombra a Rivesman.[^k4]
 
 ### ¿"Chanukah, Oh Chanukah" es la misma canción que Oy Chanukah?
 

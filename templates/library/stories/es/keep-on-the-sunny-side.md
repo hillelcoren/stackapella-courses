@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: keep on the sunny side significado | keep on the sunny side historia | quién escribió keep on the sunny side | keep on the sunny side carter family | keep on the sunny side o brother | keep on the sunny side letra en español
-translatedFrom: 71d6bc61797a
+translatedFrom: 2769a7b78964
 original: Bright Melodies (1899), Internet Archive | https://archive.org/details/brightmelodiesfo00swen
 ---
 
@@ -134,6 +134,10 @@ Nuestro arreglo canta la estrofa 1 y el estribillo, en La bemol, como la imprimi
 
 ## Preguntas
 
+### ¿Qué significa Keep on the Sunny Side?
+
+Es una canción de esperanza: la vida tiene un lado oscuro y lleno de problemas y otro luminoso y soleado, así que hay que mirar cada día al lado luminoso. Las tormentas y las nubes pasan, dicen las estrofas, y quien canta confía en el Salvador, que guarda a todos a su cuidado [^hs1900]. Charles H. Gabriel escribió en 1916 que a Ada Blenkhorn se le ocurrió la idea por un sobrino inválido que siempre quería que lo llevaran "on the sunny side of the street" (por el lado soleado de la calle) [^gabriel1916].
+
 ### ¿Quién fue el intérprete original de Keep on the Sunny Side?
 
 Ningún intérprete en concreto: nació como canción evangélica impresa para escuelas dominicales. Ada Blenkhorn escribió la letra y J. Howard Entwisle la música, y Bright Melodies la imprimió en Filadelfia en 1899 [^bm1899][^hymnary-text]. El disco que la hizo famosa es el de la Carter Family, grabado para Victor en Camden, Nueva Jersey, en mayo de 1928 [^ev-ap][^fw32431]. Algunas etiquetas posteriores atribuyen la canción a A. P. Carter, pero la página de 1899 nombra a Blenkhorn y Entwisle [^bluebird][^bm1899].
@@ -144,7 +148,7 @@ Es una canción evangélica, la clase de himno con estrofa y estribillo hecha pa
 
 ### ¿Aparece Keep on the Sunny Side en O Brother!?
 
-Sí. Es la pista 8 del álbum de la banda sonora de la película de 2000, editado por Mercury Nashville [^umusic][^stinfo]. Para entonces la canción tenía un siglo: era la canción evangélica de 1899 de Ada Blenkhorn y J. Howard Entwisle, que el disco de la Carter Family de 1928 había llevado a la música country [^bm1899][^ev-ap][^cmhof].
+Sí. Es la pista 8 del álbum de la banda sonora de la película de 2000, editado por Mercury Nashville [^umusic][^stinfo]. No es el disco de la Carter Family: las listas de pistas acreditan a un grupo familiar de country, un padre y sus hijas, miembros del Grand Ole Opry desde 1984 [^umusic][^stinfo][^opry]. Para entonces la canción tenía un siglo: era la canción evangélica de 1899 de Ada Blenkhorn y J. Howard Entwisle, que el disco de la Carter Family de 1928 había llevado a la música country [^bm1899][^ev-ap][^cmhof].
 
 ### ¿Keep on the Sunny Side es de dominio público?
 
@@ -181,6 +185,7 @@ La soprano, como en la impresión de Entwisle, donde la melodía es la línea m�
 - [^bluebird]: The Carter Family, "Keep On the Sunny Side", RCA Victor Bluebird Series B-5006-B (fabricado en Canadá), escaneo de la etiqueta, Internet Archive. https://archive.org/details/keep-on-the-sunny-side
 - [^umusic]: Universal Music Italia, *O Brother, Where Art Thou?* (Mercury Nashville, 2000), lista de pistas. https://www.universalmusic.it/popular-music/album/o-brother-where-art-thou-_20012106610/
 - [^stinfo]: The SoundtrackINFO Project, *O Brother, Where Art Thou?* (Mercury, 2000), lista de pistas. https://www.soundtrackinfo.com/tracks/obrotherwhereartthou
+- [^opry]: Grand Ole Opry, *The Whites*, página del artista (miembros desde el 2 de marzo de 1984). https://www.opry.com/artists/the-whites
 - [^fmr2023]: Film Music Reporter, "The Hunger Games: The Ballad of Songbirds and Snakes Soundtrack Album Details" (3 de noviembre de 2023). https://filmmusicreporter.com/2023/11/03/the-hunger-games-the-ballad-of-songbirds-and-snakes-soundtrack-album-details/
 - [^holler2023]: Holler, anuncio de la banda sonora y lista de pistas de *The Hunger Games: The Ballad of Songbirds and Snakes* (noviembre de 2023). https://holler.country/news/breaking/charles-wesley-godwin-sierra-ferrell-and-more-to-appear-on-the-hunger-games-the-ballad-of-songbirds-and-snakes-soundtrack
 - [^jukebox1906a]: Library of Congress, National Jukebox, "Keep on the sunny side" (Theodore F. Morse y Jack Drislane), Victor, matriz C-3096, grabado el 9 de febrero de 1906, con copia en Internet Archive. https://archive.org/details/loc-jukebox-122513-keep-on-the-sunny-side

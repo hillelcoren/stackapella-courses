@@ -12,7 +12,7 @@ alsoKnownAs: Haul Away, Joe; Haul Away Jo; Way, Haul Away
 wikidata: Q122260596
 quote: Way, haul away, haul away, Joe.
 quoteSource: sharpscan
-updated: 2026-11-12
+updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: haul away joe meaning | haul away joe song meaning | haul away joe lyrics meaning | haul away joe history | who wrote haul away joe | when was haul away joe written | haul away joe original | what genre is haul away joe | haul away joe sea shanty lyrics
@@ -156,6 +156,10 @@ It is a work song for pulling a rope: "haul away" means pull, and the crew pulle
 ### Who wrote Haul Away, Joe?
 
 No one knows: it is traditional, and no early source names a maker. The earliest printing we found is in Harper's New Monthly Magazine in July 1882, where William L. Alden gave its solo line and chorus with a tune and called it very old [^alden]. The verses and dorian tune we sing are John Short's, as Cecil Sharp printed them in 1914 [^sharpscan].
+
+### Where does Haul Away, Joe come from?
+
+It comes from the sailing ships, sung by British and American crews, and no record says where or when it began. The earliest printing we found is William L. Alden's, in Harper's New Monthly Magazine, New York, July 1882; he called it "undoubtedly very old" and purely nautical [^alden]. Cecil Sharp noted it from two old English sailors, Charles Robbins in London in 1908 and John Short of Watchet, whose version he printed in 1914 [^fssj][^sharpscan]. In 1914 Bullen and Arnold traced most shanty tunes to Black singers; Sharp heard this one as free of that influence [^bullen][^sharp].
 
 ### What genre is Haul Away, Joe?
 

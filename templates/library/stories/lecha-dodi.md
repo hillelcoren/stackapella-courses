@@ -241,6 +241,10 @@ Solomon ha-Levi Alkabetz, a poet and kabbalist of Safed, in the sixteenth centur
 
 Readings differ. Dodi is "my beloved", the word the Song of Songs uses in "Come, my beloved, let us go forth into the field". In the reading of the kabbalists, the mystics of Alkabetz's Safed, the beloved is Hashem, called to go out and meet the bride: the Sabbath as the Shekhinah, His presence. Francis L. Cohen's English of 1904 sings it more simply: "Then come, my friend, to meet the Bride".[^songofsongs][^jealk][^schechter][^schwartz][^miller][^je]
 
+### Why is Lecha Dodi sung to so many tunes?
+
+Because no tune was ever fixed for it. No source from Alkabetz's time says what it was first sung to, and in Eastern Europe the Encyclopaedia Judaica finds no standard way of singing it at all.[^ej] Cantors made it their showpiece: their manuals of the 18th century already hold hundreds of melodies, many in the styles around them, minuets and polonaises, and some gave each verse its own tune.[^ej] Congregations kept special tunes for certain seasons, like ours for the Omer weeks.[^je][^ej] By 1929 Idelsohn counted about two thousand settings.[^idel29]
+
 ### Which part sings the tune?
 
 The soprano, throughout: the Omer-weeks melody as Abraham Baer printed it from 1877 on, the tune Francis L. Cohen also printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^baer][^baer1877][^je]

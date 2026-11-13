@@ -15,8 +15,8 @@ alsoKnownAs: Joyful, Joyful, We Adore Thee; Hymn of Joy; Hymn to Joy; An die Fre
 wikidata: Q119586188
 quote: Joyful music lifts us sunward In the triumph song of life.
 quoteSource: poems1911
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote ode to joy | who wrote ode to joy beethoven or schiller | ode to joy meaning | ode to joy meaning in english | ode to joy lyrics meaning line by line | ode to joy history | is ode to joy part of beethoven's ninth symphony | is ode to joy the eu anthem | is ode to joy a christian song | was beethoven deaf when he wrote ode to joy | is ode to joy sung in german | joyful joyful we adore thee history | joyful joyful we adore thee meaning | joyful joyful we adore thee original
 original: The Poems of Henry van Dyke (Scribner's, 1911), Internet Archive | https://archive.org/details/cu31924021507672
@@ -165,6 +165,10 @@ Our melody and words come from H. Augustine Smith's Hymnal for American Youth of
 
 ## Questions
 
+### What do the words of Ode to Joy mean in English?
+
+Schiller's poem hails joy as a "beautiful spark of the gods", whose magic joins again what custom divided, so that "all people become brothers" [^gedichte1803]. The verses Beethoven set go on: whoever has won a true friend or a loving wife, or can call even one soul his own, should join the rejoicing, and all creatures, good and bad alike, drink joy from nature [^wsbeethoven]. The choruses embrace "you millions" with a kiss for the whole world, bid them run their course as gladly as the suns, and seek the Creator above the stars, where a loving Father must dwell [^wsbeethoven][^gedichte1803].
+
 ### Who wrote Ode to Joy, Beethoven or Schiller?
 
 Both: Friedrich Schiller wrote the poem, An die Freude, in 1785, and Beethoven set it in the finale of his Ninth Symphony, first played in 1824 [^gedichte1803][^thalia][^thayer3][^elbphil]. The English hymn Joyful, Joyful, We Adore Thee is Henry van Dyke's, written for Beethoven's tune by 1907 [^h1911][^hymnarchive].
@@ -177,9 +181,9 @@ Yes. Beethoven was deaf by the time the Ninth Symphony was first played in Vienn
 
 Yes. The Council of Europe chose Beethoven's Ode to Joy theme as its anthem in 1972 [^coearch][^coe][^eu]. The European Community took the same music as its own: in 1985 by the European Union's account, and in 1986 by the Council of Europe's [^eu][^coearch]. The anthem has no words, only music, and it is not meant to replace national anthems [^eu].
 
-### Is Ode to Joy a Christian song?
+### Is Ode to Joy a Christian song, or a Christmas song?
 
-Schiller's poem is not a hymn: it praises joy and friendship, though its choruses speak of a loving Father above the stars [^gedichte1803]. The English words most often sung to the tune are a Christian hymn: Joyful, Joyful, We Adore Thee, by the Presbyterian minister Henry van Dyke, in hymnals since 1911 [^h1911][^hymnarchive][^tvd].
+Schiller's poem is not a hymn: it praises joy and friendship, though its choruses speak of a loving Father above the stars [^gedichte1803]. The English words most often sung to the tune are a Christian hymn: Joyful, Joyful, We Adore Thee, by the Presbyterian minister Henry van Dyke, in hymnals since 1911 [^h1911][^hymnarchive][^tvd]. It is not a Christmas song: neither Schiller's poem nor van Dyke's hymn mentions Christmas, and the hymnals file the hymn under praise, "His Fatherhood and Love" in 1911 and "God in His World" in 1919 [^gedichte1803][^poems1911][^h1911][^hay1919].
 
 ### Which part sings the tune?
 

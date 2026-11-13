@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: maoz tzur significado | maoz tzur letra en español | maoz tzur traducción | quién escribió maoz tzur | maoz tzur historia | maoz tzur canción de janucá
-translatedFrom: 24fcc51e9f89
+translatedFrom: ae6638a6b2ae
 original: Idelsohn, Sefer ha-Shirim, p. 77, Internet Archive | https://archive.org/details/32882013391126-seferhashirimko/page/n88/mode/1up
 ---
 
@@ -197,6 +197,10 @@ Nadie sabe quién la hizo; su primera impresión conocida es de 1815. Los estudi
 
 Sí y no. Rock of Ages es el himno inglés de Janucá que se canta con la melodía de Maoz Tzur, y las sinagogas reformistas y conservadoras lo cantan junto al hebreo o en su lugar. No es una traducción verso a verso, sino una adaptación, atribuida a Marcus Jastrow y Gustav Gottheil, de una versión alemana de Leopold Stein, y se aparta un poco del hebreo.[^uh1932][^hymnary][^ej][^uh1897]
 
+### ¿Cómo se pronuncia Maoz Tzur?
+
+En el hebreo israelí moderno, como lo cantamos, se dice "ma-ÓZ TSUR": Maoz tiene dos sílabas, con el acento en la segunda, y la tz suena como la "ts" de "tsunami".[^id1912] En el acento asquenazí, la primera vocal, escrita con kamatz, suena "o", y el acento pasa a la primera sílaba, así que se dice más bien "MÓ-oz TSUR", el sonido que hay detrás de la grafía Mooz Tsur.[^jepron][^ejpron]
+
 ### ¿Qué voz canta la melodía?
 
 La soprano canta la melodía todo el tiempo, como la imprimió Idelsohn. La contralto canta con ella, casi siempre una tercera o una sexta por debajo. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor rellena el centro de cada acorde.[^id1912]
@@ -220,4 +224,6 @@ La soprano canta la melodía todo el tiempo, como la imprimió Idelsohn. La cont
 - [^lh1941]: *The Lutheran Hymnal* (Concordia, 1941), n.º 387, "Dear Christians, One and All, Rejoice", en Hymnary.org. https://hymnary.org/hymn/LH1941/387
 - [^isaiah]: Isaías 17:10, en *The Holy Scriptures* (Jewish Publication Society, 1917), en Mechon Mamre; las citas en español, de la Reina-Valera de 1909. https://mechon-mamre.org/p/pt/pt1017.htm
 - [^talmud]: Talmud de Babilonia, Shabbat 21b, en Sefaria. https://www.sefaria.org/Shabbat.21b
+- [^jepron]: Crawford Howell Toy y Caspar Levias, "Pronunciation, Modern, of Hebrew", *The Jewish Encyclopedia*, vol. 10 (Funk and Wagnalls, 1905), pp. 210 a 212: entre los asquenazíes de Alemania el kamez "is pronounced ō in an open syllable"; las palabras asquenazíes van "accented on the penult"; צ es "ts". https://www.jewishencyclopedia.com/articles/12384-pronunciation-modern-of-hebrew
+- [^ejpron]: Shelomo Morag, "Pronunciations of Hebrew", *Encyclopaedia Judaica*, en Encyclopedia.com: "In the Ashkenazi communities the qameẓ is realized as [o] or [u]". https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/pronunciations-hebrew
 - [^siddur]: *Siddur Ashkenaz*, Festivals, Chanukah, Service for Lighting Chanukah Candles, Maoz Tzur, texto hebreo del siddur Daat, en Sefaria. https://www.sefaria.org/Siddur_Ashkenaz%2C_Festivals%2C_Chanukah%2C_Service_for_Lighting_Chanukah_Candles%2C_Maoz_Tzur

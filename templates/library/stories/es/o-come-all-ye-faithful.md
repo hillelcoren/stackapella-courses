@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia | venid fieles todos letra | adeste fideles en español
-translatedFrom: 108bda6d40be
+translatedFrom: 271d5b0dc467
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, grabación de 1915 | https://www.loc.gov/item/jukebox-12842/
 original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
@@ -224,6 +224,10 @@ El original está en latín, Adeste Fideles, en cuatro estrofas conocidas primer
 ### ¿Hay una versión católica de O Come, All Ye Faithful?
 
 El himno es católico desde el principio: un himno latino copiado por un laico católico y cantado en la bendición con el Santísimo en Navidad [^hymnarchive][^julian]. La versión inglesa vino de Oakeley, entonces sacerdote anglicano, y en 1907 Julian encontraba su primer texto, "Ye faithful, approach ye", en varias colecciones católicas [^julian]. Los himnarios católicos y protestantes imprimen el inglés de Oakeley; los más completos añaden estrofas posteriores sobre los pastores y los magos [^julian][^eh1906][^hymnarchive].
+
+### ¿O Come, All Ye Faithful es un villancico de Navidad o un himno de Adviento?
+
+Es un himno de Navidad. El Evening Office de 1760 lo destina a la bendición con el Santísimo en Navidad, y los himnarios lo ponen con la Navidad: The English Hymnal de 1906 lo imprime con el n.º 28 en una página encabezada "Christmas", y el libro de 1909 del que sale nuestro arreglo lo pone bajo "Nativity" [^hymnarchive][^eh1906][^hws1909]. Ninguno de los libros que hemos leído lo sitúa en Adviento, las semanas anteriores, y algunos reservan su última estrofa para el mismo día de Navidad [^neh]. Por su forma es un himno, un himno latino para un oficio de la Iglesia; muchos lo llaman también villancico ("carol"), la palabra corriente para una canción de Navidad.
 
 ### ¿Qué voz canta la melodía?
 

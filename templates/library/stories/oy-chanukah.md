@@ -149,7 +149,7 @@ Our arrangement is read from the songbook's fourth edition, published in Berlin 
 
 ### Who wrote Oy Chanukah?
 
-Mordkhe Rivesman wrote the words. The book heads No. 24 "Werter fun M. Riwesman", words by M. Rivesman, and marks the tune only "Chsidisch", Hasidic, naming no maker; Pesach Lvov arranged it.[^k4]
+Mordkhe Rivesman wrote the words. The book heads No. 24 "Werter fun M. Riwesman", words by M. Rivesman, and marks the tune only "Chsidisch", Hasidic, naming no maker; Pesach Lvov arranged it.[^k4] Later credits vary: My Jewish Learning gives it as a traditional song with no author named, and the Hebrew song to the same tune is credited to Avraham Avronin, its music to folk tradition.[^mjl][^chagim] The earliest known printing names Rivesman.[^k4]
 
 ### Is "Chanukah, Oh Chanukah" the same song as Oy Chanukah?
 

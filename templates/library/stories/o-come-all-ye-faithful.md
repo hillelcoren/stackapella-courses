@@ -201,6 +201,10 @@ The original is Latin, Adeste Fideles, in four verses known first from John Fran
 
 The hymn is Catholic to begin with: a Latin hymn copied by a Catholic layman and sung at Benediction at Christmas [^hymnarchive][^julian]. The English came from Oakeley, then an Anglican priest, and by 1907 Julian found his first text, "Ye faithful, approach ye", in several Roman Catholic collections [^julian]. Catholic and Protestant hymnals both print Oakeley's English; fuller ones add later verses about the shepherds and the Magi [^julian][^eh1906][^hymnarchive].
 
+### Is O Come, All Ye Faithful a Christmas carol or an Advent hymn?
+
+A Christmas hymn. The Evening Office of 1760 sets it for Benediction at Christmas, and hymnals file it with Christmas: The English Hymnal of 1906 prints it as No. 28 on a page headed "Christmas", and the 1909 book our arrangement comes from puts it under "Nativity" [^hymnarchive][^eh1906][^hws1909]. None of the books we read places it in Advent, the weeks before, and some keep its last verse for Christmas Day itself [^neh]. By form it is a hymn, a Latin hymn for a church service; many also call it a carol, the everyday English word for a Christmas song.
+
 ### Which part sings the tune?
 
 The soprano sings the tune in our arrangement. With two singers you have the tune and the alto, mostly a third below it; with three, add the bass. The tune runs from low D to high D, an octave.

@@ -22,7 +22,7 @@ original: Crüger, Praxis pietatis melica (1653), Bayerische Staatsbibliothek | 
 listen: National Jukebox, 1919 recording | https://archive.org/details/loc-jukebox-32824-now-thank-we-all-our-god || National Jukebox, 1921 recording, in German | https://archive.org/details/loc-jukebox-43058-nun-danket-alle-gott
 ---
 
-Now Thank We All Our God is a German hymn of thanks, "Nun danket alle Gott", written by Martin Rinkart, a Lutheran pastor in the Saxon town of Eilenburg, around 1630 [^adb-rinckart][^ndb-rinckart]. He called it a little prayer at table, a grace [^julian1907][^adb-rinckart]. He lived through the Thirty Years' War, and in the plague of 1637 he buried thousands of his townspeople; his own wife died in it [^julian1907][^ndb-rinckart]. Johann Crüger, a Berlin church musician, gave it its tune [^ndb-cruger][^adb-cruger]. Catherine Winkworth's English followed in 1858 [^lg1858][^hymnarchive-nun]. Julian's Dictionary of Hymnology called it "the German Te Deum" and found it in every German hymn book [^julian1907]. Bach built a whole cantata on its three verses [^bachipedia][^imslp192].
+Now Thank We All Our God is a German hymn of thanks, "Nun danket alle Gott", written by Martin Rinkart, a Lutheran pastor in the Saxon town of Eilenburg, around 1630 [^adb-rinckart][^ndb-rinckart]. What he first wrote it for is uncertain, but the oldest copy of his book the reference books know, from 1663, prints it among graces said after meals [^fischer-tuempel][^julian1907]. He lived through the Thirty Years' War, and in the plague of 1637 he buried thousands of his townspeople; his own wife died in it [^julian1907][^ndb-rinckart]. Johann Crüger, a Berlin church musician, gave it its tune [^ndb-cruger][^adb-cruger]. Catherine Winkworth's English followed in 1858 [^lg1858][^hymnarchive-nun]. Julian's Dictionary of Hymnology called it "the German Te Deum" and found it in every German hymn book [^julian1907]. Bach built a whole cantata on its three verses [^bachipedia][^imslp192].
 
 ## Where it comes from
 
@@ -195,7 +195,7 @@ Around 1630, by Martin Rinkart, pastor at Eilenburg in Saxony [^adb-rinckart][^n
 
 ### What does "Nun danket alle Gott" mean in English?
 
-It means "Now everyone, thank God", or "Now let all thank God". "Nun" is now, "danket" is the plural command "thank", "alle" is all, and "Gott" is God. The line goes on: with heart, mouth and hands [^eg321]. In Catherine Winkworth's English of 1858 it became "Now thank we all our God", sung to the same tune [^hymnarchive-nun][^lg1858][^julian1907].
+It means "Now everyone, thank God", or "Now let all thank God". "Nun" is now, "danket" is the plural command "thank", "alle" is all, and "Gott" is God. The line goes on: with heart, mouth and hands [^eg321]. Say it "noon DAHN-ket AH-leh GOT": the u long, as in "moon", the stress on the first syllable of danket and alle, the last e a short "uh", and Gott with a short o [^duden]. In Catherine Winkworth's English of 1858 it became "Now thank we all our God", sung to the same tune [^hymnarchive-nun][^lg1858][^julian1907].
 
 ### Did Bach set Now Thank We All Our God?
 
@@ -227,6 +227,7 @@ It was not written as one: Rinkart wrote it, by most accounts, as a grace at tab
 - [^hymnary-text]: Hymnary.org, *Now thank we all our God* (text), with its notes and list of hymnals. https://hymnary.org/text/now_thank_we_all_our_god
 - [^hymnary-tune]: Hymnary.org, *NUN DANKET* (tune), with the *Psalter Hymnal Handbook* (1988) notes. https://hymnary.org/tune/nun_danket_cruger_555665
 - [^eg321]: *Evangelisches Gesangbuch* (Bayern, Mitteldeutschland, Thüringen), no. 321, "Nun danket alle Gott", at Hymnary.org, with page scans. https://hymnary.org/hymn/EGAF2014/321
+- [^duden]: Duden online, "danken" and "Gott", pronunciation with the stressed short vowel marked (dạnken, Gọtt). https://www.duden.de/rechtschreibung/danken ; https://www.duden.de/rechtschreibung/Gott
 - [^ppm1653]: Bayerische Staatsbibliothek, bsb00065813, Johann Crüger, *Praxis pietatis melica. Das ist: Ubung der Gottseligkeit in christlichen und trostreichen Gesängen* (Berlin: Christoph Runge, 1653), No. 239, pp. 461 to 462 (images 240 to 241), index at image 491; facsimile. https://www.digitale-sammlungen.de/en/view/bsb00065813?page=240
 - [^lg1858]: Catherine Winkworth, *Lyra Germanica, Second Series: The Christian Life* (London: Longman, Brown, Green, Longmans, and Roberts, 1858), "Praise and Thanksgiving", no. I, pp. 145 to 146; University of California Libraries copy, facsimile. https://archive.org/details/lyragermanicasec00bunsrich/page/n164
 - [^dnb-winkworth]: Elizabeth Lee, "Winkworth, Catherine", *Dictionary of National Biography*, vol. 62 (London: Smith, Elder, 1900). https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Winkworth,_Catherine

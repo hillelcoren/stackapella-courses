@@ -136,13 +136,17 @@ Our arrangement sings verses 1 to 3 for 2 to 4 singers, at a steady working pace
 
 It means "quit the ship". "Her" is the ship, and the song was sung as the voyage ended, with the crew about to go ashore and leave her for good [^sharp][^colcord]. Each verse is a complaint, about the pay, the food or the leaking hull, and the chorus answers that it is time to go [^sharp].
 
+### Where does "Leave Her, Johnny" come from?
+
+It is a traditional shanty of the merchant sailing ships, sung at the end of a voyage, and no record says exactly where or when it began [^balladindex][^sharp]. W. B. Whall and Joanna Colcord both traced it to an older shanty of the Atlantic packet ships, "Across the Western Ocean": Whall guessed that one's date at about 1850, and Colcord's account of the packet trade points to the 1840s [^whall][^colcord]. The earliest printing we have seen is Whall's. Sharp knew a version in Tozer's Sailors' Songs, a book he dates to 1887, but we have not found a scan [^whall][^sharp].
+
 ### Is "Leave Her, Johnny" Irish?
 
 Not that anyone can show; the Irish thread is Whall's alone. Whall believed it grew out of "Across the Western Ocean", which he tied to the packet ships carrying Irish emigrants across the Atlantic about 1850 [^whall]. Colcord also named "Across the Western Ocean" as its parent, but said nothing of the Irish [^colcord]. The version we sing came from an English sailor, John Short of Watchet in Somerset [^sharp][^csp].
 
 ### Who wrote "Leave Her, Johnny"?
 
-No one knows; it is a traditional shanty, made and remade by the sailors who sang it [^balladindex][^whall][^colcord]. Our words and tune are John Short's, as Cecil Sharp printed them in 1914 [^sharp].
+No one knows; it is a traditional shanty, made and remade by the sailors who sang it [^balladindex][^whall][^colcord]. No one knows when, either. Its parent song goes back to about 1850 by Whall's guess, and earlier by Colcord's account; the song itself is in print in the 1913 edition of Whall's book we read, and perhaps earlier [^whall][^colcord][^sharp]. Our words and tune are John Short's, as Cecil Sharp printed them in 1914 [^sharp].
 
 ## Sing next
 

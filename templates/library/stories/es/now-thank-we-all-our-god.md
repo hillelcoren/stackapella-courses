@@ -18,12 +18,12 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: false
 searches: quién escribió now thank we all our god | now thank we all our god historia | now thank we all our god significado | cuándo se escribió now thank we all our god | nun danket alle gott traducción | nun danket alle gott bach | es now thank we all our god un himno fúnebre
-translatedFrom: b0b561f4f985
+translatedFrom: ecb154d25b45
 original: Crüger, Praxis pietatis melica (1653), Biblioteca Estatal de Baviera | https://www.digitale-sammlungen.de/en/view/bsb00065813
 listen: National Jukebox, grabación de 1919 | https://archive.org/details/loc-jukebox-32824-now-thank-we-all-our-god || National Jukebox, grabación de 1921, en alemán | https://archive.org/details/loc-jukebox-43058-nun-danket-alle-gott
 ---
 
-Now Thank We All Our God es un himno alemán de acción de gracias, "Nun danket alle Gott", escrito hacia 1630 por Martin Rinkart, pastor luterano de la ciudad sajona de Eilenburg [^adb-rinckart][^ndb-rinckart]. Él lo llamó una pequeña oración de mesa, una bendición de la mesa [^julian1907][^adb-rinckart]. Vivió la guerra de los Treinta Años, y en la peste de 1637 enterró a miles de sus vecinos; su propia esposa murió en ella [^julian1907][^ndb-rinckart]. Johann Crüger, músico de iglesia de Berlín, le dio su melodía [^ndb-cruger][^adb-cruger]. El inglés de Catherine Winkworth llegó en 1858 [^lg1858][^hymnarchive-nun]. El Dictionary of Hymnology de Julian lo llamó "el Te Deum alemán" y lo encontró en todos los himnarios alemanes [^julian1907]. Bach construyó una cantata entera sobre sus tres estrofas [^bachipedia][^imslp192].
+Now Thank We All Our God es un himno alemán de acción de gracias, "Nun danket alle Gott", escrito hacia 1630 por Martin Rinkart, pastor luterano de la ciudad sajona de Eilenburg [^adb-rinckart][^ndb-rinckart]. No se sabe con certeza para qué lo escribió, pero el ejemplar más antiguo de su libro que conocen las obras de referencia, de 1663, lo imprime entre las bendiciones que se decían después de comer [^fischer-tuempel][^julian1907]. Vivió la guerra de los Treinta Años, y en la peste de 1637 enterró a miles de sus vecinos; su propia esposa murió en ella [^julian1907][^ndb-rinckart]. Johann Crüger, músico de iglesia de Berlín, le dio su melodía [^ndb-cruger][^adb-cruger]. El inglés de Catherine Winkworth llegó en 1858 [^lg1858][^hymnarchive-nun]. El Dictionary of Hymnology de Julian lo llamó "el Te Deum alemán" y lo encontró en todos los himnarios alemanes [^julian1907]. Bach construyó una cantata entera sobre sus tres estrofas [^bachipedia][^imslp192].
 
 ## De dónde viene
 
@@ -220,7 +220,7 @@ Hacia 1630, y lo escribió Martin Rinkart, pastor en Eilenburg, en Sajonia [^adb
 
 ### ¿Qué significa "Nun danket alle Gott"?
 
-Significa "ahora, que todos den gracias a Dios", o "demos ahora todos gracias a Dios". "Nun" es ahora, "danket" es el imperativo plural de dar gracias, "alle" es todos y "Gott" es Dios. El verso sigue: con el corazón, la boca y las manos [^eg321]. En el inglés de Catherine Winkworth de 1858 pasó a ser "Now thank we all our God", cantado con la misma melodía [^hymnarchive-nun][^lg1858][^julian1907].
+Significa "ahora, que todos den gracias a Dios", o "demos ahora todos gracias a Dios". "Nun" es ahora, "danket" es el imperativo plural de dar gracias, "alle" es todos y "Gott" es Dios. El verso sigue: con el corazón, la boca y las manos [^eg321]. Se dice "nun DÁN-ket Á-le GOT": la u larga, el acento en la primera sílaba de danket y de alle, la e final breve y apagada, y Gott con una o breve [^duden]. En el inglés de Catherine Winkworth de 1858 pasó a ser "Now thank we all our God", cantado con la misma melodía [^hymnarchive-nun][^lg1858][^julian1907].
 
 ### ¿Puso Bach música a Now Thank We All Our God?
 
@@ -252,6 +252,7 @@ No se escribió como tal: Rinkart lo escribió, según la mayoría de las fuente
 - [^hymnary-text]: Hymnary.org, *Now thank we all our God* (texto), con sus notas y su lista de himnarios. https://hymnary.org/text/now_thank_we_all_our_god
 - [^hymnary-tune]: Hymnary.org, *NUN DANKET* (melodía), con las notas del *Psalter Hymnal Handbook* (1988). https://hymnary.org/tune/nun_danket_cruger_555665
 - [^eg321]: *Evangelisches Gesangbuch* (Bayern, Mitteldeutschland, Thüringen), n.º 321, "Nun danket alle Gott", en Hymnary.org, con escaneos de las páginas. https://hymnary.org/hymn/EGAF2014/321
+- [^duden]: Duden online, "danken" y "Gott", pronunciación con la vocal breve acentuada marcada (dạnken, Gọtt). https://www.duden.de/rechtschreibung/danken ; https://www.duden.de/rechtschreibung/Gott
 - [^ppm1653]: Bayerische Staatsbibliothek, bsb00065813, Johann Crüger, *Praxis pietatis melica. Das ist: Ubung der Gottseligkeit in christlichen und trostreichen Gesängen* (Berlín: Christoph Runge, 1653), n.º 239, pp. 461 a 462 (imágenes 240 a 241), índice en la imagen 491; facsímil. https://www.digitale-sammlungen.de/en/view/bsb00065813?page=240
 - [^lg1858]: Catherine Winkworth, *Lyra Germanica, Second Series: The Christian Life* (Londres: Longman, Brown, Green, Longmans, and Roberts, 1858), "Praise and Thanksgiving", n.º I, pp. 145 a 146; ejemplar de las University of California Libraries, facsímil. https://archive.org/details/lyragermanicasec00bunsrich/page/n164
 - [^dnb-winkworth]: Elizabeth Lee, "Winkworth, Catherine", *Dictionary of National Biography*, vol. 62 (Londres: Smith, Elder, 1900). https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Winkworth,_Catherine

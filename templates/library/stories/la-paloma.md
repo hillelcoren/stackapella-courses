@@ -12,8 +12,8 @@ alsoKnownAs: La paloma, canción americana; The Dove; Fly, Dove, o'er the Billow
 wikidata: Q1700350
 quote: Si a tu ventana llega una paloma
 quoteSource: century1906
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: who wrote la paloma | la paloma meaning in english | la paloma song meaning line by line | la paloma song history | la paloma lyrics in spanish and english | la paloma cuba | la paloma canción mexicana | quién escribió la paloma | la paloma significado | la paloma historia
 original: La Paloma (New York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
@@ -205,6 +205,10 @@ Neither, strictly: it is a Spanish composer's song in the Cuban habanera style. 
 
 No. Those are different songs, with their own words and tunes. Iradier's La Paloma is the one that begins "Cuando salí de la Habana" and has the refrain "Si a tu ventana llega una paloma" [^century1906]. Rafael Alberti's poem "La paloma", from his book Entre el clavel y la espada, is another work again, later set to music by Carlos Guastavino and others [^uned-alberti][^liedernet-alberti].
 
+### Who first sang La Paloma, and is there an English version?
+
+No record says who first sang it: Iradier published it in Madrid by 1859 for voice and piano, and the register names no singer [^boletin1861]. The earliest recording we know is a tenor's Berliner disc of about 1896, by F. Giannini, and Victor recorded it in Spanish in 1902 [^bnf-1896][^jukebox1902]. English words came early: L. C. Elson's "Fly, Dove, o'er the Billow" (1878) and M. H. R.'s (1906) [^ava1887][^century1906]. In the 1961 film Blue Hawaii, Elvis Presley sang "No More", new words by Don Robertson and Hal Blair to Iradier's tune [^afi1961][^cce1961][^poparchives][^originals].
+
 ### Which part sings the tune?
 
 The soprano sings Iradier's tune. The alto and tenor sing the same words with it, the alto mostly a third or a sixth below, and the bass sings the habanera rhythm on "dm" underneath. With two singers you have the tune and the alto; add the bass for three, so the rhythm is there.
@@ -236,5 +240,9 @@ The soprano sings Iradier's tune. The alto and tenor sing the same words with it
 - [^menestrel1887]: *Le Ménestrel*, 53rd year, no. 5 (Paris: Heugel, Sunday 2 January 1887), p. 35, "Semaine théâtrale"; Boston Public Library copy, facsimile, leaf 43. https://archive.org/details/lemnestrel53pari/page/35
 - [^bnf-1896]: Bibliothèque nationale de France, record "La paloma / [Yradier], comp.; Sig. F. Giannini, T", E. Berliner's Gramophone 913, [1896], 17 cm disc, FRBNF38372244. https://catalogue.bnf.fr/ark:/12148/cb383722443
 - [^jukebox1902]: Library of Congress, National Jukebox, "La paloma", Victor, recorded 11 February 1902, vocal, Spanish; Internet Archive copy. https://www.loc.gov/item/jukebox-422018/
+- [^afi1961]: AFI Catalog of Feature Films, *Blue Hawaii* (1961), song credits ("No More," words and music by Don Robertson and Hal Blair) and release date, 22 November 1961. https://catalog.afi.com/Catalog/moviedetails/19729
+- [^cce1961]: Library of Congress, Copyright Office, *Catalog of Copyright Entries*, Third Series, vol. 15, part 5, no. 2, Music, July to December 1961, entry "No More; w & m Don Robertson & Hal Blair. © Gladys Music, Inc.; 15Sep61; EU687815"; Internet Archive item catalogofcopyrig3155libr, scan. https://archive.org/details/catalogofcopyrig3155libr
+- [^poparchives]: Lyn Nuttall, *Pop Archives*, "To Love", with the notes on Elvis Presley's "No More" (RCA Victor, Blue Hawaii soundtrack album, October 1961): "The melody is Yradier's La paloma." https://poparchives.com.au/johnny-okeefe/to-love
+- [^originals]: Arnold Rypens, *The Originals*, "Paloma, La", list of versions: "1961: Elvis Presley [as No More]". https://www.originals.be/en/originals/4771
 - [^uned-alberti]: Poemas musicalizados (UNED), "Rafael Alberti, VI: Entre el clavel y la espada (1939 to 1940): poemas musicalizados y discografía", database updated December 2021, No. 8 and its settings. https://poemas.uned.es/wp-content/uploads/2023/12/VI.-ALBERTI.-ENTRE-EL-CLAVEL-Y-LA-ESPADA-pdf.pdf
 - [^liedernet-alberti]: The LiederNet Archive, Rafael Alberti, *Entre el clavel y la espada*, "La paloma", set by Carlos Guastavino. https://www.lieder.net/lieder/show_poems_in_group.html?CID=3039

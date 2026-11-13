@@ -13,7 +13,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: leave her johnny significado | qué significa leave her johnny | leave her johnny historia | leave her johnny origen | quién escribió leave her johnny | leave her johnny letra
-translatedFrom: af28cff136df
+translatedFrom: 3af257415360
 original: Sharp, English Folk-Chanteys (1914), n.º II, p. 3, Internet Archive | https://archive.org/details/englishfolkchant00shar/page/n22/mode/1up
 ---
 
@@ -165,13 +165,17 @@ Nuestro arreglo canta las estrofas 1 a 3 para 2 a 4 cantantes, a un ritmo de tra
 
 Significa "deja el barco". "Her" (ella) es el barco, y la canción se cantaba cuando el viaje terminaba, con la tripulación a punto de bajar a tierra y dejarlo para siempre [^sharp][^colcord]. Cada estrofa es una queja, por la paga, la comida o el casco que hace agua, y el estribillo responde que es hora de irse [^sharp].
 
+### ¿De dónde viene "Leave Her, Johnny"?
+
+Es una shanty tradicional de los veleros mercantes, cantada al final de un viaje, y ningún documento dice exactamente dónde ni cuándo nació [^balladindex][^sharp]. W. B. Whall y Joanna Colcord la remontaron a una shanty más antigua de los paquebotes del Atlántico, "Across the Western Ocean": Whall calculó para esa canción una fecha hacia 1850, y lo que Colcord cuenta del comercio de los paquebotes apunta a la década de 1840 [^whall][^colcord]. La impresión más antigua que hemos visto es la de Whall. Sharp conocía una versión en Sailors' Songs de Tozer, un libro que él fecha en 1887, pero no hemos encontrado un escaneo [^whall][^sharp].
+
 ### ¿"Leave Her, Johnny" es irlandesa?
 
 No que nadie pueda demostrar; el hilo irlandés es solo de Whall. Whall creía que nació de "Across the Western Ocean", que él vinculaba a los paquebotes que llevaban a emigrantes irlandeses a través del Atlántico hacia 1850 [^whall]. Colcord también señaló "Across the Western Ocean" como su madre, pero no dijo nada de los irlandeses [^colcord]. La versión que cantamos viene de un marinero inglés, John Short, de Watchet, en Somerset [^sharp][^csp].
 
 ### ¿Quién escribió "Leave Her, Johnny"?
 
-Nadie lo sabe; es una shanty tradicional, hecha y rehecha por los marineros que la cantaban [^balladindex][^whall][^colcord]. Nuestra letra y nuestra melodía son las de John Short, tal como las imprimió Cecil Sharp en 1914 [^sharp].
+Nadie lo sabe; es una shanty tradicional, hecha y rehecha por los marineros que la cantaban [^balladindex][^whall][^colcord]. Tampoco se sabe cuándo. Su canción madre se remonta a hacia 1850 según el cálculo de Whall, y a antes según lo que cuenta Colcord; la canción misma está impresa en la edición de 1913 del libro de Whall que leímos, y quizá antes [^whall][^colcord][^sharp]. Nuestra letra y nuestra melodía son las de John Short, tal como las imprimió Cecil Sharp en 1914 [^sharp].
 
 ## Canta después
 
