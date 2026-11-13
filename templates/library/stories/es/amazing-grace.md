@@ -1,6 +1,6 @@
 ---
 title: Amazing Grace: historia, significado y la letra explicada
-description: John Newton, antiguo capitán de barcos negreros, lo escribió en Olney para el Año Nuevo de 1773. Su melodía estadounidense, llamada New Britain, se le unió en 1835.
+description: John Newton, antiguo capitán de barcos negreros, lo escribió en Olney para el Año Nuevo de 1773. Su melodía estadounidense, New Britain, se le unió en 1835.
 lead: El himno de John Newton para su parroquia de Olney, del Año Nuevo de 1773, impreso en Olney Hymns en 1779, con la melodía llamada New Britain, estadounidense, impresa en 1829. Cantamos la estrofa 1.
 words: John Newton (1725 a 1807)
 tune: Compositor desconocido; primera impresión conocida en 1829
