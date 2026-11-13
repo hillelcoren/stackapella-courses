@@ -16,7 +16,6 @@ updated: 2026-11-12
 reviewed: true
 checked: 2026-11-13
 searches: ezekiel saw the wheel meaning | ezekiel saw the wheel lyrics | ezekiel saw the wheel lyrics meaning | ezekiel saw the wheel spiritual meaning | ezekiel saw the wheel song meaning | what was the wheel that ezekiel saw | ezekiel wheel within a wheel meaning | ezekiel saw the wheel bible verse | ezekiel saw the wheel way up in the middle of the air | what is the song ezekiel saw the wheel about | ezekiel saw the wheel story | who wrote ezekiel saw the wheel | when was ezekiel saw the wheel written | ezekiel saw the wheel origin | ezekiel saw the wheel song history
-listen: UC Santa Barbara Library, Discography of American Historical Recordings, Columbia A3370, Fisk University Jubilee Singers, recorded 22 December 1920 | https://adp.library.ucsb.edu/index.php/matrix/detail/2000027372/79597-Ezekiel_saw_de_wheel
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), pp. 60 to 61, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n91
 ---
 

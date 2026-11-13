@@ -3,7 +3,7 @@ title: Lecha Dodi: historia, significado y la letra explicada
 description: Lecha Dodi recibe al sabbat como a una novia el viernes por la noche. Solomon Alkabetz lo escribió en Safed (siglo XVI); Idelsohn calculó unas 2000 versiones.
 lead: Lecha Dodi, "Ven, amado mío", es el himno que recibe al sabbat como a una novia el viernes al anochecer. Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI y firmó ocho de sus nueve estrofas.
 words: Solomon ha-Levi Alkabetz (hacia 1505 a 1580 o 1584; las fuentes no coinciden)
-tune: Melodía asquenazí tradicional para las semanas del Ómer, tal como la imprimió Francis L. Cohen (1904)
+tune: Melodía asquenazí tradicional para las semanas del Ómer, tal como la imprimió Abraham Baer (1834 a 1894)
 earliestPrinting: 1583/4, la letra, en un libro de oraciones sefardí
 earliestPrintingSource: ej
 language: hebreo
@@ -17,8 +17,8 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lecha dodi significado | lecha dodi traducción | quién escribió lecha dodi | lecha dodi historia | lecha dodi letra en español | lecha dodi significado en hebreo
-translatedFrom: 7b84d522f43a
-original: Jewish Encyclopedia, vol. 7, p. 677, Internet Archive | https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
+translatedFrom: 4322933da16c
+original: Baer, Baal T'fillah, 3.ª edición, pp. 90 a 91, Internet Archive | https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 ---
 
 Lecha Dodi (Lekha Dodi, L'cha Dodi), "Ven, amado mío", es el himno hebreo que recibe al sabbat el viernes por la noche. Forma parte de Kabbalat Shabbat, "recibir el sabbat", el breve oficio que se canta cuando entra el sabbat, y cuando empieza su última estrofa muchos en la congregación se dan la vuelta y hacen una reverencia.[^ej][^abrahams] Solomon ha-Levi Alkabetz lo escribió en Safed en el siglo XVI, y fue uno de los últimos poemas hebreos en entrar de forma fija en el libro de oraciones.[^je][^ej] Desde entonces se canta en comunidades judías de todo el mundo.[^schechter][^ejalk] En 1929, A. Z. Idelsohn escribió que había recibido unas dos mil versiones musicales.[^idel29][^ej] La nuestra es una antigua melodía asquenazí que se reservaba para las semanas entre Pésaj y Shavuot.[^je][^idel29]
@@ -46,7 +46,8 @@ El poema tiene un estribillo y nueve estrofas. Las primeras letras de las ocho p
 - hacia 1505: nace Solomon ha-Levi Alkabetz. [^ejalk][^idel29]
 - siglo XVI: Alkabetz escribe Lecha Dodi en Safed; la Jewish Encyclopedia lo sitúa hacia mediados de siglo. [^je][^abrahams][^posen]
 - 1583/4: la primera impresión conocida, en un libro de oraciones sefardí impreso en Venecia. [^ej][^posen]
-- 1904: Francis L. Cohen imprime esta melodía, "Melody for 'Omer Weeks", en la Jewish Encyclopedia. [^jescan][^je]
+- después de 1883: la tercera edición del Baal T'fillah de Abraham Baer, impresa en Frankfurt am Main, señala esta melodía para el sabbat en las semanas de la sefira; nuestro arreglo se basa en sus páginas. [^baer]
+- 1904: Francis L. Cohen imprime la misma melodía, con el ritmo igualado, como "Melody for 'Omer Weeks", en la Jewish Encyclopedia. [^jescan][^je]
 - 1929: Idelsohn escribe que el poema ha recibido unas dos mil versiones musicales. [^idel29]
 
 ## Qué dice la letra
@@ -205,7 +206,7 @@ En el rito asquenazí del viernes por la noche se dicen primero seis salmos, del
 
 En las sinagogas asquenazíes de 1904, escribía la Jewish Encyclopedia, el cantor cantaba las estrofas por extenso y la congregación respondía a cada una con el estribillo. En las congregaciones sefardíes todos lo cantaban juntos con una antigua melodía morisca, y usaban el estribillo solo como introducción.[^je]
 
-Nuestro arreglo se basa en la impresión de Cohen de 1904, "Lekah Dodi (Melody for 'Omer Weeks)": una melodía sola, en Sol mayor y en 3/4, tal como la cantamos. Lleva letra en inglés, una versión de la segunda estrofa del himno ("How lovely is the Day of Rest", qué hermoso es el día de descanso) y un estribillo ("Then come, my friend, to meet the Bride", ven, pues, amigo mío, al encuentro de la novia).[^jescan][^je] El hebreo lo hemos ajustado nosotros a la melodía, y las cuatro voces son nuestras. Cantamos el estribillo, como empieza el himno, luego la estrofa 1, el estribillo, la estrofa 9 y el estribillo para cerrar.
+Nuestro arreglo se basa en el Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", el libro de melodías de sinagoga para el cantor de Abraham Baer, cantor principal de la comunidad judía de Gotemburgo. Nuestro ejemplar es la tercera edición, sin fecha, impresa en Frankfurt am Main después de 1883. En las páginas 90 y 91, entre los números que Baer señala para el sabbat en las semanas de la sefira, están el n.º 340, la estrofa del cantor, en la página encabezada "Shamor vezachor", y el n.º 333, el estribillo, escrito para el coro, que responde con él a la estrofa. Los dos están en Sol mayor y en 3/4, tal como los cantamos; nuestra soprano canta la estrofa y la voz más aguda del coro.[^baer] La impresión de Cohen de 1904, "Lekah Dodi (Melody for 'Omer Weeks)", es la misma melodía en la misma tonalidad con el ritmo igualado, y hemos comprobado la nuestra con ella. Lleva letra en inglés, una versión de la segunda estrofa del himno ("How lovely is the Day of Rest", qué hermoso es el día de descanso) y un estribillo ("Then come, my friend, to meet the Bride", ven, pues, amigo mío, al encuentro de la novia).[^jescan][^je] Como Cohen, cantamos con valores iguales los ritmos con puntillo de Baer, para que resulte más fácil a quien empieza. El hebreo lo hemos ajustado nosotros a la melodía, y las cuatro voces son nuestras. Cantamos el estribillo, como empieza el himno, luego la estrofa 1, el estribillo, la estrofa 9 y el estribillo para cerrar.
 
 ![[3]]
 
@@ -242,7 +243,7 @@ Las lecturas no coinciden. Dodi es "amado mío", la palabra del Cantar de los Ca
 
 ### ¿Qué voz canta la melodía?
 
-La soprano, de principio a fin: la melodía de las semanas del Ómer que Francis L. Cohen imprimió en 1904. Con dos cantantes son soprano y contralto, la contralto casi siempre una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^je]
+La soprano, de principio a fin: la melodía de las semanas del Ómer tal como la imprimió Abraham Baer, la misma que Francis L. Cohen imprimió también en 1904. Con dos cantantes son soprano y contralto, la contralto casi siempre una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer][^je]
 
 ## Canta después
 
@@ -254,6 +255,7 @@ La soprano, de principio a fin: la melodía de las semanas del Ómer que Francis
 
 - [^je]: Cyrus Adler y Francis L. Cohen, "Lekah Dodi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), pp. 675 a 677, con la música en la p. 677. https://www.jewishencyclopedia.com/articles/9737-lekah-dodi
 - [^jescan]: *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 677, "Lekah Dodi (Melody for 'Omer Weeks)", copia de la Universidad de California, Internet Archive jewishencyclopedia07sing, imagen n712. https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
+- [^baer]: Abraham Baer, *Baal T'fillah oder "Der practische Vorbeter"*, 3.ª edición (Frankfurt am Main: J. Kauffmann, sin fecha, después de 1883), portada, prefacio a la segunda edición fechado en mayo de 1883 (p. XII), y pp. 90 a 91, n.os 326, 333 y 340; Internet Archive, ejemplar der-practische-vorbeter-baer, subido en 2024 sin nombrar la biblioteca que lo guarda, imágenes n3 (portada), n134 y n135. https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 - [^jealk]: H. G. Enelow, "Alḳabiẓ, Solomon ben Moses ha-Levi", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 401 a 402. https://www.jewishencyclopedia.com/articles/1242-alkabiz-solomon-ben-moses-ha-levi
 - [^jecohen]: Joseph Jacobs y Edgar Mels, "Cohen, Francis Lyon", *The Jewish Encyclopedia*, vol. 4 (Funk and Wagnalls, 1903), p. 148. https://www.jewishencyclopedia.com/articles/4473-cohen-francis-lyon
 - [^jehalevi]: Richard Gottheil, Max Schloessinger e Isaac Broydé, "Judah ha-Levi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 346. https://www.jewishencyclopedia.com/articles/9005-judah-ha-levi

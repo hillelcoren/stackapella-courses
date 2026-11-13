@@ -16,8 +16,7 @@ updated: 2026-11-12
 reviewed: true
 checked: 2026-11-13
 searches: ezekiel saw the wheel significado | ezekiel saw the wheel historia | ezekiel saw the wheel letra en español | quién escribió ezekiel saw the wheel | la rueda de ezequiel espiritual | ezequiel vio la rueda canción
-translatedFrom: 2ebf5a2a713b
-listen: UC Santa Barbara Library, Discography of American Historical Recordings, Columbia A3370, Fisk University Jubilee Singers, grabado el 22 de diciembre de 1920 | https://adp.library.ucsb.edu/index.php/matrix/detail/2000027372/79597-Ezekiel_saw_de_wheel
+translatedFrom: 0b8e015ed672
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), pp. 60 a 61, Princeton Theological Seminary Library | https://archive.org/details/religiousfolkson00dett/page/n91
 ---
 

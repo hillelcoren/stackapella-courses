@@ -3,7 +3,7 @@ title: Lecha Dodi: history, meaning and the words explained
 description: Lecha Dodi greets the Sabbath as a bride on Friday evening. Solomon Alkabetz wrote it in 16th-century Safed; Idelsohn put its settings at about 2,000.
 lead: Lecha Dodi, "Come, my beloved", is the Hebrew hymn that greets the Sabbath as a bride on Friday evening. Solomon ha-Levi Alkabetz wrote it in sixteenth-century Safed and signed eight of its nine verses with his name.
 words: Solomon ha-Levi Alkabetz (about 1505 to 1580 or 1584; the sources differ)
-tune: Traditional Ashkenazi tune for the weeks of the Omer, as Francis L. Cohen printed it (1904)
+tune: Traditional Ashkenazi tune for the weeks of the Omer, as printed by Abraham Baer (1834 to 1894)
 earliestPrinting: 1583/4, the words, in a Sephardi prayer book
 earliestPrintingSource: ej
 language: Hebrew
@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: lecha dodi meaning | lecha dodi meaning in english | who wrote lecha dodi | lecha dodi history | lecha dodi lyrics meaning | lecha dodi hebrew meaning | lekha dodi | lecha dodi transliteration | lecha dodi english translation
-original: Jewish Encyclopedia, vol. 7, p. 677, Internet Archive | https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
+original: Baer, Baal T'fillah, 3rd edition, pp. 90 to 91, Internet Archive | https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 ---
 
 Lecha Dodi (also spelled Lekha Dodi or L'cha Dodi), "Come, my beloved", is the Hebrew hymn that welcomes the Sabbath on Friday evening. It belongs to Kabbalat Shabbat, "receiving the Sabbath", the short service sung as the Sabbath comes in, and as its last verse begins many in the congregation turn around and bow.[^ej][^abrahams] Solomon ha-Levi Alkabetz wrote it in Safed in the sixteenth century, and it was one of the last Hebrew poems to become a fixed part of the prayer book.[^je][^ej] Since then it has been sung in Jewish communities all over the world.[^schechter][^ejalk] In 1929 A. Z. Idelsohn wrote that it had received about two thousand musical settings.[^idel29][^ej] Ours is an old Ashkenazi one that was kept for the weeks between Passover and Shavuot.[^je][^idel29]
@@ -45,7 +45,8 @@ The poem has a refrain and nine verses. The first letters of the first eight spe
 - About 1505: Solomon ha-Levi Alkabetz is born. [^ejalk][^idel29]
 - 16th century: Alkabetz writes Lecha Dodi in Safed; the Jewish Encyclopedia dates it about the middle of the century. [^je][^abrahams][^posen]
 - 1583/4: the earliest known printing, in a Sephardi prayer book printed in Venice. [^ej][^posen]
-- 1904: Francis L. Cohen prints this tune, "Melody for 'Omer Weeks", in the Jewish Encyclopedia. [^jescan][^je]
+- After 1883: the third edition of Abraham Baer's Baal T'fillah, printed in Frankfurt am Main, marks this tune for the Sabbaths of the sefira; our arrangement is read from its pages. [^baer]
+- 1904: Francis L. Cohen prints the same tune, its rhythms evened, as "Melody for 'Omer Weeks", in the Jewish Encyclopedia. [^jescan][^je]
 - 1929: Idelsohn writes that the poem has received about two thousand musical settings. [^idel29]
 
 ## What the words mean
@@ -204,7 +205,7 @@ In the Ashkenazi rite of Friday evening, six psalms come first, 95 to 99 and 29;
 
 In Ashkenazi synagogues of 1904, the Jewish Encyclopedia wrote, the cantor sang the verses at length and the congregation answered each with the refrain. Sephardi congregations all sang it together to an old Moorish melody, using the refrain only as an introduction.[^je]
 
-Our arrangement is read from Cohen's 1904 printing, "Lekah Dodi (Melody for 'Omer Weeks)": a melody alone, in G major and 3/4 time, as we sing it. It carries English words, a rendering of the hymn's second stanza ("How lovely is the Day of Rest") and a refrain ("Then come, my friend, to meet the Bride").[^jescan][^je] The Hebrew is fitted to the tune by us, and the four parts are our own. We sing the refrain, as the hymn begins, then verse 1, the refrain, verse 9 and the refrain to close.
+Our arrangement is read from Baal T'fillah, or Der practische Vorbeter, "the practical prayer leader", the book of synagogue tunes for the cantor by Abraham Baer, chief cantor of the Jewish community of Gothenburg. Our copy is the undated third edition, printed in Frankfurt am Main after 1883. On pages 90 and 91, among the numbers Baer marks for the Sabbaths of the sefira, are No. 340, the cantor's verse, on the page headed "Shamor vezachor", and No. 333, the refrain, set for the choir, which answers the verse with it. Both are in G major and 3/4 time, as we sing them; our soprano sings the verse and the choir's top line.[^baer] Cohen's 1904 printing, "Lekah Dodi (Melody for 'Omer Weeks)", is the same tune in the same key with its rhythms evened, and we checked ours against it. It carries English words, a rendering of the hymn's second stanza ("How lovely is the Day of Rest") and a refrain ("Then come, my friend, to meet the Bride").[^jescan][^je] Like Cohen, we sing Baer's dotted rhythms evenly, to make it easier for beginners. The Hebrew is fitted to the tune by us, and the four parts are our own. We sing the refrain, as the hymn begins, then verse 1, the refrain, verse 9 and the refrain to close.
 
 ![[3]]
 
@@ -241,7 +242,7 @@ Readings differ. Dodi is "my beloved", the word the Song of Songs uses in "Come,
 
 ### Which part sings the tune?
 
-The soprano, throughout: the Omer-weeks melody Francis L. Cohen printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^je]
+The soprano, throughout: the Omer-weeks melody as Abraham Baer printed it, the tune Francis L. Cohen also printed in 1904. With two singers it is soprano and alto, the alto mostly a third or sixth below; with three the bass joins, and with four the tenor fills the middle of each chord.[^baer][^je]
 
 ## Sing next
 
@@ -253,6 +254,7 @@ The soprano, throughout: the Omer-weeks melody Francis L. Cohen printed in 1904.
 
 - [^je]: Cyrus Adler and Francis L. Cohen, "Lekah Dodi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), pp. 675 to 677, with the music on p. 677. https://www.jewishencyclopedia.com/articles/9737-lekah-dodi
 - [^jescan]: *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 677, "Lekah Dodi (Melody for 'Omer Weeks)", University of California Libraries copy, Internet Archive jewishencyclopedia07sing, image n712. https://archive.org/details/jewishencyclopedia07sing/page/n712/mode/1up
+- [^baer]: Abraham Baer, *Baal T'fillah oder "Der practische Vorbeter"*, 3rd edition (Frankfurt am Main: J. Kauffmann, undated, after 1883), title page, preface to the second edition dated May 1883 (p. XII), and pp. 90 to 91, Nos. 326, 333 and 340; Internet Archive item der-practische-vorbeter-baer, a 2024 upload that names no holding library, images n3 (title page), n134 and n135. https://archive.org/details/der-practische-vorbeter-baer/page/n134/mode/1up
 - [^jealk]: H. G. Enelow, "Alḳabiẓ, Solomon ben Moses ha-Levi", *The Jewish Encyclopedia*, vol. 1 (Funk and Wagnalls, 1901), pp. 401 to 402. https://www.jewishencyclopedia.com/articles/1242-alkabiz-solomon-ben-moses-ha-levi
 - [^jecohen]: Joseph Jacobs and Edgar Mels, "Cohen, Francis Lyon", *The Jewish Encyclopedia*, vol. 4 (Funk and Wagnalls, 1903), p. 148. https://www.jewishencyclopedia.com/articles/4473-cohen-francis-lyon
 - [^jehalevi]: Richard Gottheil, Max Schloessinger and Isaac Broydé, "Judah ha-Levi", *The Jewish Encyclopedia*, vol. 7 (Funk and Wagnalls, 1904), p. 346. https://www.jewishencyclopedia.com/articles/9005-judah-ha-levi
