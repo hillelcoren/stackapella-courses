@@ -1,0 +1,1910 @@
+{
+    "id": "song-we-three-kings",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "We Three Kings of Orient Are", "es": "We Three Kings of Orient Are"},
+    "units": [
+        {
+            "id": "song-we-three-kings-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-we-three-kings-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "We Three Kings of Orient Are: hear the whole song first, then the tune on its own.", "es": "We Three Kings of Orient Are: escucha primero la canción entera y luego la melodía sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "wtk-g-clef", "text": {"en": "Hopkins's own printing gives each king his own staff, headed Gaspard, Melchior and Balthazar. A note at its foot says: \"Men's voices are best for the parts of the Three Kings, but the music is set in the G clef for the accommodation of children\".", "es": "La impresión del propio Hopkins da a cada rey su propio pentagrama, con los encabezados Gaspard, Melchior y Balthazar. Una nota al pie dice: \"Para las partes de los Tres Reyes, lo mejor son voces de hombre, pero la música está escrita en clave de sol para comodidad de los niños\"."}, "source": {"en": "John H. Hopkins, Jr., Carols, Hymns, and Songs (New York: Church Book Depository, undated, catalogued as [1863?]), \"Three Kings of Orient\", pp. 12 and 13; Princeton Theological Seminary Library, Benson Collection, read from the scan", "es": "John H. Hopkins, Jr., Carols, Hymns, and Songs (Nueva York: Church Book Depository, sin fecha, catalogado como [1863?]), \"Three Kings of Orient\", pp. 12 y 13; Princeton Theological Seminary Library, Benson Collection, leído en el escaneo"}, "url": "https://archive.org/details/carolshym00hopk/page/n19/mode/1up"}
+                },
+                {
+                    "id": "song-we-three-kings-soprano-2",
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 2 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined, with the guide.", "es": "Ahora las frases 1 a 3 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-3",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined, with the guide.", "es": "Ahora las frases 4 y 5 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-4",
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 9 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 9 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 to 9 joined, with the guide.", "es": "Ahora las frases 6 a 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-5",
+                    "title": {"en": "Lines 10 to 12", "es": "Frases 10 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 4 again. Sing it with the guide.", "es": "La frase 11 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide.", "es": "La frase 12 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 to 12 joined, with the guide.", "es": "Ahora las frases 10 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-6",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide.", "es": "La frase 13 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 5 start to end, with the guide.", "es": "La estrofa 5 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-soprano-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of We Three Kings of Orient Are in Sing, with the other parts playing.", "es": "Graba la melodía de We Three Kings of Orient Are en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "we-three-kings", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "wtk-hallelujah", "text": {"en": "The \"Hallelujah\" you sing in the last verse is the word of Hopkins's earliest printing we have seen. His own second edition, of 1872, changed it to \"Alleluia\", and his third, of 1882, kept the change.", "es": "El \"Hallelujah\" que cantas en la última estrofa es la palabra de la impresión más antigua de Hopkins que hemos visto. Su propia segunda edición, de 1872, lo cambió por \"Alleluia\", y la tercera, de 1882, mantuvo el cambio."}, "source": {"en": "John H. Hopkins, Jr., Carols, Hymns, and Songs (New York: Church Book Depository, [1863?]), pp. 12 and 13; second edition, enlarged (New York: Church Book Depository and E. P. Dutton and Co., preface dated November 1872), pp. 12 and 13; third edition (New York: E. and J. B. Young and Co., 1882), pp. 18 and 19; Princeton Theological Seminary Library, Benson Collection, read from the scans", "es": "John H. Hopkins, Jr., Carols, Hymns, and Songs (Nueva York: Church Book Depository, [1863?]), pp. 12 y 13; segunda edición, ampliada (Nueva York: Church Book Depository y E. P. Dutton and Co., prefacio fechado en noviembre de 1872), pp. 12 y 13; tercera edición (Nueva York: E. and J. B. Young and Co., 1882), pp. 18 y 19; Princeton Theological Seminary Library, Benson Collection, leído en los escaneos"}, "url": "https://archive.org/details/hyolsongs00hopk/page/n19/mode/1up"}
+                }
+            ]
+        },
+        {
+            "id": "song-we-three-kings-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-we-three-kings-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "We Three Kings of Orient Are: hear the whole song first, then the alto part on its own.", "es": "We Three Kings of Orient Are: escucha primero la canción entera y luego la voz de contralto sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-2",
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 2 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined, with the guide.", "es": "Ahora las frases 1 a 3 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-3",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined, with the guide.", "es": "Ahora las frases 4 y 5 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-4",
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 to 9 joined, with the guide.", "es": "Ahora las frases 6 a 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-5",
+                    "title": {"en": "Lines 10 to 12", "es": "Frases 10 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 4 again. Sing it with the guide.", "es": "La frase 11 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide.", "es": "La frase 12 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 to 12 joined, with the guide.", "es": "Ahora las frases 10 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-6",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide.", "es": "La frase 13 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 5 start to end, with the guide.", "es": "La estrofa 5 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-alto-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of We Three Kings of Orient Are in Sing, with the other parts playing.", "es": "Graba la voz de contralto de We Three Kings of Orient Are en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "we-three-kings", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-we-three-kings-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-we-three-kings-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "We Three Kings of Orient Are: hear the whole song first, then the bass part on its own.", "es": "We Three Kings of Orient Are: escucha primero la canción entera y luego la voz de bajo sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-2",
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 2 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined, with the guide.", "es": "Ahora las frases 1 a 3 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-3",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined, with the guide.", "es": "Ahora las frases 4 y 5 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-4",
+                    "title": {"en": "Lines 6 to 9", "es": "Frases 6 a 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 7 is the tune of line 5 again, with new words. Sing it with the guide.", "es": "La frase 7 repite la melodía de la frase 5, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 to 9 joined, with the guide.", "es": "Ahora las frases 6 a 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-5",
+                    "title": {"en": "Lines 10 to 12", "es": "Frases 10 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 4 again. Sing it with the guide.", "es": "La frase 11 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide.", "es": "La frase 12 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 to 12 joined, with the guide.", "es": "Ahora las frases 10 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-6",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide.", "es": "La frase 13 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 5 start to end, with the guide.", "es": "La estrofa 5 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-bass-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of We Three Kings of Orient Are in Sing, with the other parts playing.", "es": "Graba la voz de bajo de We Three Kings of Orient Are en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "we-three-kings", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-we-three-kings-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-we-three-kings-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "We Three Kings of Orient Are: hear the whole song first, then the tenor part on its own.", "es": "We Three Kings of Orient Are: escucha primero la canción entera y luego la voz de tenor sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-2",
+                    "title": {"en": "Lines 1 to 3", "es": "Frases 1 a 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 2 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 2 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 to 3 joined, with the guide.", "es": "Ahora las frases 1 a 3 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-3",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined, with the guide.", "es": "Ahora las frases 4 y 5 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-4",
+                    "title": {"en": "Lines 6 to 8", "es": "Frases 6 a 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 8 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 8 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 to 8 joined, with the guide.", "es": "Ahora las frases 6 a 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [5, 6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-5",
+                    "title": {"en": "Lines 9 to 12", "es": "Frases 9 a 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 10 is the tune of line 3 again, with new words. Sing it with the guide.", "es": "La frase 10 repite la melodía de la frase 3, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 11 is line 4 again. Sing it with the guide.", "es": "La frase 11 repite la frase 4. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 12 is line 5 again. Sing it with the guide.", "es": "La frase 12 repite la frase 5. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 to 12 joined, with the guide.", "es": "Ahora las frases 9 a 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [8, 9, 10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-6",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 13 is line 6 again. Sing it with the guide.", "es": "La frase 13 repite la frase 6. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined: hear them, then sing them back.", "es": "Ahora las frases 13 y 14 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-7",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 1 start to end, with the guide.", "es": "La estrofa 1 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [3, 4, 5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verse 5 start to end, with the guide.", "es": "La estrofa 5 de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [7, 8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Chorus start to end, with the guide.", "es": "El estribillo de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-8",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-9",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "we-three-kings",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-we-three-kings-tenor-10",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of We Three Kings of Orient Are in Sing, with the other parts playing.", "es": "Graba la voz de tenor de We Three Kings of Orient Are en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "we-three-kings", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}

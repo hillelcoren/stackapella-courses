@@ -144,6 +144,10 @@ SONGS = {
     "o-little-town-of-bethlehem": "with the song",
     "angels-we-have-heard-on-high": "with the song",
     "good-king-wenceslas": "with the song",
+    "the-holly-and-the-ivy": "with the song",
+    "we-three-kings": "with the song",
+    "it-came-upon-the-midnight-clear": "with the song",
+    "in-the-bleak-midwinter": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
