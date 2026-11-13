@@ -12,8 +12,8 @@ alsoKnownAs: The Banks o' Doon; Ye Banks and Braes; Ye Banks and Braes o' Bonie 
 wikidata: Q16238954
 quote: Thou minds me o' departed joys, Departed never to return.
 quoteSource: smm1792
-updated: 2026-11-12
-checked: 2026-11-12
+updated: 2026-11-13
+checked: 2026-11-13
 reviewed: true
 searches: ye banks and braes meaning | ye banks and braes meaning in english | ye banks and braes lyrics meaning | who wrote ye banks and braes | who wrote ye banks and braes o bonnie doon | ye banks and braes history | ye banks and braes lyrics in english
 ---
@@ -26,7 +26,7 @@ Ye Banks and Braes o' Bonnie Doon, The Banks o' Doon in its earliest known print
 
 **The page of 1792.** James Johnson's Scots Musical Museum gathered Scottish songs with their tunes, and Burns gathered and wrote songs for it [^dick][^spl]. In the fourth volume, whose preface is dated 13 August 1792, the song is No. 374 on page 387, headed "The Banks o' Doon" [^smm1792]. It is engraved on two staves, the tune with the first verse under it and an unsigned bass, in G and in 6/8. The second verse is printed as a poem under the music, with the letter "B" at the foot of the page [^smm1792]. The index explains: songs marked "B. R. X. &c." are new, by "Scots gentlemen" [^smm1792]. The index entry itself reads "Ye Banks and braes o' bonie Don", with "Don" for Doon, "Burns, the Music by Mr James Millar Writer in Edinr." [^smm1792]. A writer, in Scots, is a lawyer [^dsl-writer]. In Blackwood's reissue of 1839 the same page carries a new line under the title: "Written for this Work by Robert Burns." [^smm1839][^smm1792]
 
-**The tune.** It first appeared in print as "The Caledonian Hunt's Delight", in Niel Gow's Second Collection of Strathspey Reels [^dick][^glen]. Dick and the collector John Glen date that book 1788; one library catalogue gives about 1789 [^dick][^glen][^newhailes]. Gow dedicated the book to the Caledonian Hunt, a gentlemen's club to which Burns had dedicated his Edinburgh edition of 1787 [^imslp-gow][^newhailes][^burns1787][^dumfries-museum]. In November 1794 Burns recommended the air to George Thomson, the Edinburgh editor of another song collection. "Do you know the history of the air? It is curious enough," he wrote. Years before, James Miller, "writer in your good town", told the organist Stephen Clarke he longed to compose a Scots air. Clarke, "partly by way of joke", told him to keep to the black keys of the harpsichord and keep some kind of rhythm. In a few days Miller had "the rudiments of an air", which Clarke, "with some touches and corrections, fashioned into the tune". Burns had the story, he said, from Clarke himself [^stenhouse][^glen][^graham][^dick]. William Stenhouse, who wrote notes on the Museum's songs, said he knew all the parties [^stenhouse].
+**The tune.** It first appeared in print as "The Caledonian Hunt's Delight", in Niel Gow's Second Collection of Strathspey Reels [^dick][^glen]. Dick and the collector John Glen date that book 1788; one library catalogue gives about 1789 [^dick][^glen][^newhailes]. Gow dedicated the book to "the Noblemen & Gentlemen of the Caledonian Hunt", to whom Burns had dedicated his Edinburgh edition of 1787 [^imslp-gow][^newhailes][^burns1787][^dumfries-museum]. In November 1794 Burns recommended the air to George Thomson, the Edinburgh editor of another song collection. "Do you know the history of the air? It is curious enough," he wrote. Years before, James Miller, "writer in your good town", told the organist Stephen Clarke he longed to compose a Scots air. Clarke, "partly by way of joke", told him to keep to the black keys of the harpsichord and keep some kind of rhythm. In a few days Miller had "the rudiments of an air", which Clarke, "with some touches and corrections, fashioned into the tune". Burns had the story, he said, from Clarke himself [^stenhouse][^glen][^graham][^dick]. William Stenhouse, who wrote notes on the Museum's songs, said he knew all the parties [^stenhouse].
 
 **The manuscript.** Stenhouse had Burns's manuscript of the song in front of him: a slip of Excise paper with red ink lines on the back [^stenhouse]. Burns then worked for the Excise, the tax service [^spl][^dick].
 
@@ -43,7 +43,7 @@ Often told, too: Burns wrote the song for Peggy Kennedy, a young woman who, in A
 - 1794: In November Burns tells George Thomson the story of the black keys [^stenhouse][^glen][^dick]
 - 1796: Burns dies at Dumfries on 21 July [^spl][^rpo-burns]
 - 1808: Cromek prints the second version, "Ye flowery banks" [^dick][^rpo-flowery]
-- 1849: The second volume of G. F. Graham's Songs of Scotland prints the tune with a piano part by J. T. Surenne [^graham]
+- 1848: The second volume of G. F. Graham's Songs of Scotland (some copies dated 1849) prints the tune with a piano part by J. T. Surenne [^graham]
 
 ## What the words mean
 
@@ -80,7 +80,7 @@ But, ah! he left the thorn wi' me.
 
 ## How it is sung
 
-It is a slow Scottish song for one voice and keyboard. Johnson marked it "Slow & tender" [^smm1792]; the second volume of G. F. Graham's Songs of Scotland (Edinburgh, 1849) marks it "Andante cantabile", with a piano part by J. T. Surenne, a pause on "thorn", and small changes to the words: "Ye'll break my heart, ye warbling birds", "love", "lover stole" [^graham]. Johnson's tune is full of Scotch snaps, a short note on the beat and a longer one after it; Graham's has fewer [^smm1792][^graham].
+It is a slow Scottish song for one voice and keyboard. Johnson marked it "Slow & tender" [^smm1792]; the second volume of G. F. Graham's Songs of Scotland (Edinburgh, 1848; some copies dated 1849) marks it "Andante cantabile", with a piano part by J. T. Surenne, a pause on "thorn", and small changes to the words, among them "Ye'll break my heart, ye warbling birds", "Ye mind me", "love" and "But my fause lover stole my rose" [^graham]. Johnson's tune is full of Scotch snaps, a short note on the beat and a longer one after it; Graham's has fewer [^smm1792][^graham].
 
 Our arrangement sings Burns's words as Johnson printed them in 1792, both verses, keeping "bonie", "luve" and "fause luver staw". The tune is Johnson's notes in Graham's smoother rhythm, keeping the snaps on "bloom", "weary" and "never" and leaving out Graham's grace note, his pause on "thorn" and his changed words. It is in G and in 6/8, as both books print it, for 2 to 4 singers. The soprano sings the tune; the alto, tenor and bass are new parts, one note a syllable, and breaths are written in before each line.
 
@@ -109,7 +109,7 @@ It is a lament by a woman whose lover has deserted her. By the river Doon she as
 
 ### Which part sings the tune?
 
-The soprano sings the tune, Johnson's notes of 1792 in G. F. Graham's rhythm of 1849 [^smm1792][^graham]. Two singers sing the tune and the alto close beneath it; the bass makes three, and the tenor, filling in the chord, makes four.
+The soprano sings the tune, Johnson's notes of 1792 in the rhythm of G. F. Graham's book of 1848 (some copies dated 1849) [^smm1792][^graham]. With two singers, the soprano sings the tune and the alto sings close beneath it; the bass makes three, and the tenor, filling in the chord, makes four.
 
 ## Sing next
 
@@ -121,7 +121,7 @@ The soprano sings the tune, Johnson's notes of 1792 in G. F. Graham's rhythm of 
 
 - [^smm1792]: James Johnson (publisher), *The Scots Musical Museum*, vol. 4 (Edinburgh: printed and sold by Johnson & Co., 1792), preface p. III dated "Edinr. August 13. 1792" (image n8), index note p. IV (image n9), index p. VI (image n11), and p. 387, No. 374, "The Banks o' Doon" (image n88). National Library of Scotland, 4453751, on the Internet Archive (link only). https://archive.org/details/scotsmusicalmuse04rugg/page/n88
 - [^smm1839]: James Johnson, *The Scotish Musical Museum*, vol. 4 (Edinburgh: William Blackwood and Sons, 1839), reissue, p. 387, No. 374 (image n90). University of Western Ontario, MZ2083. https://archive.org/details/scotishmusicalmu04john/page/n90
-- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edinburgh: Wood and Co., 1849), pp. 4 and 5, "Ye Banks and Braes o' Bonnie Doon", arranged by J. T. Surenne, with Graham's note (images n189 and n190). University of Toronto, Faculty of Music Library, M1746 .G47 S6, undated on the copy read; 1849 on the National Library of Scotland copy's title page. https://archive.org/details/songsofscotlanda00grah/page/n190
+- [^graham]: G. F. Graham, ed., *The Songs of Scotland, adapted to their appropriate melodies*, vol. 2 (Edinburgh: Wood and Co., 1848; some copies dated 1849), pp. 4 and 5, "Ye Banks and Braes o' Bonnie Doon", arranged by J. T. Surenne, with Graham's note. National Library of Scotland, Glen Collection, Glen 214.a, title page dated MDCCCXLVIII (image n4), the song at images n11 and n12; the same plates are in the NLS Inglis copy (Ing.128), dated MDCCCXLIX, and in a later undated issue at the University of Toronto, Faculty of Music Library, M1746 .G47 S6 (images n189 and n190), the copy our tune was read from. https://archive.org/details/songsofscotland01grah/page/n11
 - [^stenhouse]: William Stenhouse, *Illustrations of the Lyric Poetry and Music of Scotland* (Edinburgh and London: William Blackwood and Sons, 1853), pp. 346 to 348, No. 374, "The Banks o' Doon" (images n593 to n595). National Library of Scotland, 3180588, on the Internet Archive (link only). https://archive.org/details/illustrationsofl00sten/page/n593
 - [^dick]: James C. Dick, *The Songs of Robert Burns, now first printed with the melodies for which they were written* (London: Henry Frowde, 1903), Historical Notes, pp. 391 to 393, Nos. 121 to 123 (images n446 to n448). University of Toronto copy. https://archive.org/details/songsofrobertbur00burnuoft/page/n447
 - [^dick-gloss]: James C. Dick, *The Songs of Robert Burns* (1903), Glossary, p. 506 ("fause"), p. 507 ("bonie", "brae") and p. 514 ("min'"). https://archive.org/details/songsofrobertbur00burnuoft/page/n562
