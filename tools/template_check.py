@@ -89,6 +89,8 @@ def check(path):
         if melodies and melodies[0] not in voicing:
             problems.append(f"{where}: voicing {count} leaves out the melody ({melodies[0]})")
     check_meters(song, where)
+    if "hidden" in song and not isinstance(song["hidden"], bool):
+        problems.append(f"{where}: \"hidden\" is true or false")
     check_rights(song, where)
 
 
@@ -269,6 +271,8 @@ def check_staged():
             continue
         if song.get("reviewed"):
             problems.append(f"{where}: a staged next version must not be reviewed (the sync refuses it)")
+        if "hidden" in song:
+            problems.append(f"{where}: \"hidden\" belongs on the live file, not a staged next version (the sync refuses it)")
         current = live.get(song["id"])
         if current is None:
             problems.append(f"{where}: no live song {song['id']} to stage a next version of")
