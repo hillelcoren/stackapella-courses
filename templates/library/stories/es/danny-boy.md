@@ -15,11 +15,11 @@ alsoKnownAs: Eily Dear, Londonderry Air (la melodía), Air from County Derry (la
 wikidata: Q1164523
 quote: El nombre de la melodía, por desgracia, no lo averiguó la señorita Ross.
 quoteSource: petrie
-updated: 2026-11-12
+updated: 2026-11-13
 checked: 2026-11-12
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 455ce13f60c4
+translatedFrom: 4a1389c3b3f7
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
 original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up
 ---
@@ -65,7 +65,7 @@ La canción nunca dice quién canta, ni a qué llaman las gaitas a Danny. Puede 
 
 ### La letra completa
 
-Esta es la letra que cantamos: la primera estrofa de Weatherly, tal como la fija nuestro arreglo a partir de su canción de 1913.[^conncoll] Su segunda estrofa, explicada más arriba, está en la misma edición; aquí no se canta.
+Esta es la letra que cantamos: la primera estrofa de Weatherly, tal como la fija nuestro arreglo a partir de su canción de 1913.[^conncoll] Su segunda estrofa, explicada arriba, está en la misma impresión y se da aquí aunque no se canta.
 
 **Estrofa 1**
 > Oh, Danny Boy, the pipes, the pipes are calling
@@ -84,6 +84,24 @@ o cuando el valle esté callado y blanco de nieve:
 aquí estaré, con sol o con sombra.
 > Oh, Danny boy, oh, Danny boy, I love you so!
 Oh, Danny, oh, Danny, te quiero tanto.
+
+**Estrofa 2**
+> But when ye come, and all the flowers are dying,
+Pero cuando vuelvas, y todas las flores se estén muriendo,
+> If I am dead, as dead I well may be,
+si yo estoy muerto, como bien puede ser,
+> Ye'll come and find the place where I am lying,
+vendrás y encontrarás el lugar donde descanso,
+> And kneel and say an Ave there for me;
+y te arrodillarás a rezar un avemaría por mí;
+> And I shall hear, though soft you tread above me,
+y yo te oiré, aunque pises suave sobre mí,
+> And all my grave will warmer, sweeter be
+y toda mi tumba será más cálida y más dulce,
+> For you will bend and tell me that you love me,
+porque te inclinarás y me dirás que me quieres,
+> And I shall sleep in peace until you come to me!
+y yo dormiré en paz hasta que vengas a mí.
 
 ## Cómo se canta
 

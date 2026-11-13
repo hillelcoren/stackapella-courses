@@ -15,7 +15,7 @@ alsoKnownAs: Eily Dear, Londonderry Air (the tune), Air from County Derry (the t
 wikidata: Q1164523
 quote: The name of the tune unfortunately was not ascertained by Miss Ross.
 quoteSource: petrie
-updated: 2026-11-12
+updated: 2026-11-13
 checked: 2026-11-12
 reviewed: true
 searches: danny boy meaning | danny boy history | who wrote danny boy | who wrote danny boy originally | danny boy lyrics meaning | is danny boy a funeral song | is danny boy irish or scottish | is danny boy catholic or protestant | is danny boy in the public domain
@@ -64,7 +64,7 @@ The song never says who is singing, or what the pipes are calling Danny to. It c
 
 ### The full words
 
-These are the words we sing: Weatherly's first verse, as our arrangement sets it from his song of 1913.[^conncoll] His second verse, explained above, is in the same printing; it is not sung here.
+These are the words we sing: Weatherly's first verse, as our arrangement sets it from his song of 1913.[^conncoll] His second verse, explained above, is in the same printing, and is given here though it is not sung.
 
 **Verse 1**
 Oh, Danny Boy, the pipes, the pipes are calling
@@ -75,6 +75,16 @@ But come ye back when summer's in the meadow,
 Or when the valley's hushed and white with snow,
 It's I'll be here in sunshine or in shadow,
 Oh, Danny boy, oh, Danny boy, I love you so!
+
+**Verse 2**
+But when ye come, and all the flowers are dying,
+If I am dead, as dead I well may be,
+Ye'll come and find the place where I am lying,
+And kneel and say an Ave there for me;
+And I shall hear, though soft you tread above me,
+And all my grave will warmer, sweeter be
+For you will bend and tell me that you love me,
+And I shall sleep in peace until you come to me!
 
 ## How it is sung
 
