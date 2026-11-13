@@ -6,7 +6,8 @@ two courses; and it counts the lessons an app can't play yet (Flutter's "open th
 lesson on the web"). A song course's exercise (course/songs, `song`) must name a song that's here, one
 of its parts and phrases it has, and never carry notes of its own. A song's fallback where it's withheld
 (`altSong`, steps.json) must name another song that's here, keep its object's kind and languages, and pass that
-object's own checks; a lesson's or boss's partial one only where something inside it falls back. Prints one line;
+object's own checks; a lesson's or boss's partial one only where something inside it falls back. A public lesson page's address
+(slugged from an English title) must still be in course/page-slugs.json, so a retitle never moves a page silently. Prints one line;
 `--apps` lists those lessons. Python's standard library only.
 """
 import json
@@ -727,6 +728,88 @@ def warmups():
             problem(where, f"its notes run from {low:+d} to {high:+d} at the full climb, outside its bounds")
 
 
+# The public lesson pages' addresses (the site's Lessons.php): /courses/<course>/<page>, the page slugged from an English
+# title, so a retitle moves a page that search engines and the guides link to. The free course ("harmony") and the
+# choir-part course have a page a unit, from the unit's title; every other live course a page a lesson, a challenge folded into the lesson
+# before it, from the lesson's title. course/page-slugs.json is the list the site has now; `--write-slugs` rewrites it.
+SLUGS = ROOT / "course" / "page-slugs.json"
+PER_UNIT = {"choir-part"}  # catalogue ids (Lessons::PER_UNIT), besides the free course
+
+
+def slug(title):
+    """Laravel's Str::slug of a title with its apostrophes dropped, as Lessons::slug does."""
+    import unicodedata
+    plain = unicodedata.normalize("NFKD", title.replace("'", "").replace("\u2019", "")).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "-", plain.lower()).strip("-")
+
+
+def page_slugs():
+    """Each public course's pages, in order: {course slug: [{"slug", "title"}]}."""
+    courses = [("harmony", ROOT / "course" / "course.json", True)]
+    catalogue = ROOT / "course" / "plus" / "courses.json"
+    for c in json.loads(catalogue.read_text())["courses"] if catalogue.exists() else []:
+        if c.get("status") == "live" and c.get("slug") and c.get("file"):
+            courses.append((c["slug"], ROOT / "course" / "plus" / c["file"], c.get("id") in PER_UNIT))
+    pages = {}
+    for course_slug, path, per_unit in courses:
+        if not path.exists():
+            continue
+        units = [u for u in json.loads(path.read_text()).get("units", []) if isinstance(u, dict)]
+        taken, out = set(), []
+        for u, unit in enumerate(units):
+            lessons = [l for l in unit.get("lessons", []) if isinstance(l, dict)]
+            if per_unit:
+                groups = [lessons] if lessons else []
+            else:
+                groups = []
+                for lesson in lessons:
+                    if lesson.get("challenge") and groups:
+                        groups[-1].append(lesson)
+                    else:
+                        groups.append([lesson])
+            for group in groups:
+                title = ((unit if per_unit else group[0]).get("title") or {})
+                title = (title.get("en", "") if isinstance(title, dict) else str(title)).strip()
+                s = slug(title)
+                if s == "" or s in taken:
+                    s = f"{s}-{u + 1}".strip("-")
+                taken.add(s)
+                out.append({"slug": s, "title": title})
+        pages[course_slug] = out
+    return pages
+
+
+def check_slugs():
+    now = page_slugs()
+    if "--write-slugs" in sys.argv:
+        SLUGS.write_text(json.dumps(now, ensure_ascii=False, indent=1) + "\n")
+        return
+    if not SLUGS.exists():
+        problem("page-slugs.json", "missing: run python3 -I tools/course_check.py --write-slugs once")
+        return
+    was = json.loads(SLUGS.read_text())
+    for course_slug, pages in was.items():
+        current = now.get(course_slug)
+        if current is None:
+            continue  # a course no longer live: its pages go with its course page, not here
+        by_slug = {p["slug"]: p for p in current}
+        for i, page in enumerate(pages):
+            if page["slug"] in by_slug:
+                continue
+            moved = current[i] if i < len(current) else None
+            now_called = f' (it is now titled "{moved["title"]}", at /courses/{course_slug}/{moved["slug"]})' if moved else ""
+            problem(f"page /courses/{course_slug}/{page['slug']}",
+                    f'is gone: the title "{page["title"]}" changed{now_called}. Keep the English title, or add a redirect '
+                    f"from the old address and run --write-slugs")
+        listed = {p["slug"] for p in pages}
+        for page in current:
+            if page["slug"] not in listed:
+                problem(f"page /courses/{course_slug}/{page['slug']}", f'is new ("{page["title"]}"): if that is meant, run --write-slugs')
+    for course_slug in now:
+        if course_slug not in was:
+            problem(f"course {course_slug}", "is live but its pages aren't in page-slugs.json: run --write-slugs")
+
+
 def main():
     seen, unplayable, facts = set(), {}, {}
     clips_path = ROOT / "course" / "plus" / "clips.json"
@@ -751,6 +834,7 @@ def main():
             if fa.get("course") != fb.get("course") and len(shared) >= 2 and b not in fa["distinct"] and a not in fb["distinct"]:
                 problem(fb["where"], f"fact '{b}' looks like '{a}' ({fa['where']}), sharing {', '.join(sorted(shared))}: tell it in one course, or list it in distinct")
     warmups()
+    check_slugs()
     # The courses in other languages (tools/i18n.py): every translation in a course file is the one in i18n/<lang>/,
     # so a regenerated course that lost its translations, or a translation edited in place, fails here.
     sys.path.insert(0, str(ROOT / "tools"))
