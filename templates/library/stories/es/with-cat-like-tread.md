@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: with cat like tread significado | with cat like tread letra | with cat like tread los piratas de penzance | come friends who plough the sea letra | hail hail the gang's all here origen | with cat like tread partitura
-translatedFrom: 6dc4ac115c3d
+translatedFrom: 480e63bc4422
 original: The Pirates of Penzance, partitura vocal de Chappell (Londres, hacia 1920), Internet Archive | https://archive.org/details/vocalscoreofpira00sull
 listen: National Jukebox, grabación de 1910, un popurrí que incluye With Cat-like Tread | https://archive.org/details/loc-jukebox-129632-gems-from-pirates-of-penzance
 ---
@@ -127,7 +127,7 @@ avanzamos a tientas, con cuidado.
 
 En escena lo canta el coro masculino de piratas, con el solo de Samuel en medio y los policías respondiendo desde su escondite; en la página anterior, el "Tarantara" de los policías está marcado "repeat this, and dim till next Chorus" (repetir, disminuyendo hasta el siguiente coro) mientras desaparecen de la vista [^chappell-score][^gs-libretto]. Enlaza directamente con el número siguiente, en el que, como escribió un crítico neoyorquino en 1880, los dos coros piden silencio "a pleno pulmón" mientras el general entra deambulando con una vela [^tribune1880].
 
-Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" de la página 151 hasta el final de las voces en la página 152, que Sullivan escribió en Re para los dos coros masculinos [^chappell-score]. Lo cantamos en La: la soprano y la contralto son los piratas; el tenor y el bajo, los policías. Los piratas de Sullivan cantan "Come, friends" al unísono y sus policías cantan "ra" en cada pulso [^chappell-score]; nuestra contralto bajo "Come, friends" es nueva, nuestros policías cantan un pulso sí y otro no, y desde la letra E las voces se redistribuyen para que, con dos o tres cantantes, cada acorde conserve su tercera. Con dos cantantes se cantan los piratas; con tres se añade el bajo, y con cuatro, el tenor. Canta la dinámica (los matices) de Sullivan: suave en "Come, friends", creciendo a lo largo de "Let's vary piracee", y a plena voz desde "With cat-like tread" [^chappell-score].
+Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" de la página 151 hasta el final de las voces en la página 152, que Sullivan escribió en Re para los dos coros masculinos [^chappell-score]. Lo cantamos en La: la soprano y la contralto son los piratas; el tenor y el bajo, los policías. Los piratas de Sullivan cantan "Come, friends" al unísono y sus policías cantan "ra" en cada pulso [^chappell-score]; nuestra contralto bajo "Come, friends" es nueva, nuestros policías cantan un pulso sí y otro no, y desde la letra E las voces se redistribuyen para que, con dos o tres cantantes, cada acorde conserve su tercera, salvo el Mi7 de "we", donde la contralto mantiene la séptima del acorde, Re, que baja a Do sostenido en "feel". Con dos cantantes se cantan los piratas; con tres se añade el bajo, y con cuatro, el tenor. Canta la dinámica (los matices) de Sullivan: suave en "Come, friends", creciendo a lo largo de "Let's vary piracee", y a plena voz desde "With cat-like tread" [^chappell-score].
 
 ## Versiones y otras letras
 
