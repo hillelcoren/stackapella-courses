@@ -23,15 +23,15 @@ translatedFrom: 1a35a87cdfb3
 original: The Hymnal Noted, Part II (Londres, 1856; una impresión posterior), página 131, la melodía con el inglés revisado de Neale | https://archive.org/details/bub_gb_2E3Dya5ON5oC/page/n143/mode/1up
 ---
 
-O Come, O Come, Emmanuel es un himno de Adviento, que se canta en las semanas de espera antes de Navidad. Su original latino, Veni, veni, Emmanuel, convierte en verso rimado cinco de las antífonas de la O, breves oraciones que se cantan al atardecer del 17 al 23 de diciembre; su impresión fechada más antigua está en un cancionero de Colonia de 1710 [^psalteriolum1710][^pocknee][^julian]. John Mason Neale lo pasó al inglés en 1851 como "Draw nigh, draw nigh, Emmanuel", y los compiladores de Hymns Ancient and Modern le dieron el comienzo que se canta hoy [^neale1851][^julian][^ham1861]. Emmanuel significa "Con nosotros Dios" [^kjv][^hn1856]. La melodía, VENI EMMANUEL, impresa con la letra de Neale en 1856, se atribuyó a un misal de Lisboa que nunca se ha encontrado; en 1966 una estudiosa siguió el rastro de su melodía hasta un manuscrito francés de París [^hn1856][^mch1901][^pocknee].
+O Come, O Come, Emmanuel es un himno de Adviento que se canta en las semanas de espera antes de Navidad. Su original latino, Veni, veni, Emmanuel, convierte en verso rimado cinco de las antífonas de la O, breves oraciones que se cantan al atardecer del 17 al 23 de diciembre; su impresión fechada más antigua aparece en un cancionero de Colonia de 1710 [^psalteriolum1710][^pocknee][^julian]. John Mason Neale lo tradujo al inglés en 1851 como "Draw nigh, draw nigh, Emmanuel", y los compiladores de Hymns Ancient and Modern le dieron el comienzo que se canta hoy [^neale1851][^julian][^ham1861]. Emmanuel significa "Con nosotros Dios" [^kjv][^hn1856]. La melodía, VENI EMMANUEL, impresa con la letra de Neale en 1856, se atribuyó a un misal de Lisboa que nunca se ha encontrado; en 1966 una estudiosa siguió el rastro de su melodía hasta un manuscrito francés de París [^hn1856][^mch1901][^pocknee].
 
 ## De dónde viene
 
-**Las antífonas.** En Vísperas, el oficio de la tarde, la Iglesia de Occidente canta un verso breve llamado antífona antes y después del Magníficat, el canto de María [^julian][^ce-oant][^kjv]. En las siete tardes del 17 al 23 de diciembre son las antífonas de la O, y cada una llama al Mesías que ha de venir con un título del Antiguo Testamento: Sabiduría, Adonai (Señor), Raíz de Jesé, Llave de David, Oriens (la aurora), Rey de las naciones y Emmanuel [^julian][^ce-oant][^canterbury-ocoe]. Las antífonas ya se cantaban en el siglo IX [^pocknee][^ha].
+**Las antífonas.** En Vísperas, el oficio de la tarde, la Iglesia de Occidente canta un verso breve llamado antífona antes y después del Magníficat, el canto de María [^julian][^ce-oant][^kjv]. En las siete tardes del 17 al 23 de diciembre se cantan las antífonas de la O, y cada una llama al Mesías que ha de venir con un título del Antiguo Testamento: Sabiduría, Adonai (Señor), Raíz de Jesé, Llave de David, Oriens (la aurora), Rey de las naciones y Emmanuel [^julian][^ce-oant][^canterbury-ocoe]. Las antífonas ya se cantaban en el siglo IX [^pocknee][^ha].
 
-**El himno latino.** Nadie sabe quién hizo el himno. Su poeta tomó cinco de las antífonas, empezó por Emmanuel, puso cada una en cuatro versos rimados y añadió un estribillo que las antífonas no tienen: Gaude, gaude, alégrate, alégrate [^julian][^ha][^pocknee]. La impresión más antigua que se puede fechar con seguridad es la séptima edición del Psalteriolum Cantionum Catholicarum, un cancionero católico impreso en Colonia en 1710 [^julian][^pocknee]. Un estudio moderno sitúa una copia anterior en un libro escolar de Westfalia de 1693, pero su página no muestra ninguna fecha y no hemos encontrado un segundo testimonio [^ha]. Aparece en la página 269, entre los cantos de Adviento, como "Veni, veni Emanuel" [^psalteriolum1710][^pocknee]. Neale lo tradujo del texto que trae el Thesaurus Hymnologicus de Daniel, una gran colección de himnos latinos [^julian][^ce-oant].
+**El himno latino.** Nadie sabe quién escribió el himno. Su poeta tomó cinco de las antífonas, empezó por Emmanuel, puso cada una en cuatro versos rimados y añadió un estribillo que las antífonas no tienen: Gaude, gaude, alégrate, alégrate [^julian][^ha][^pocknee]. La impresión más antigua que se puede fechar con seguridad es la séptima edición del Psalteriolum Cantionum Catholicarum, un cancionero católico impreso en Colonia en 1710 [^julian][^pocknee]. Un estudio moderno sitúa una copia anterior en un libro escolar de Westfalia de 1693, pero su página no muestra ninguna fecha y no hemos encontrado un segundo testimonio [^ha]. Aparece en la página 269, entre los cantos de Adviento, como "Veni, veni Emanuel" [^psalteriolum1710][^pocknee]. Neale lo tradujo del texto que trae el Thesaurus Hymnologicus de Daniel, una gran colección de himnos latinos [^julian][^ce-oant].
 
-**Mito y documentos.** Se suele contar que el himno es medieval, del siglo XII. Lo que muestran los documentos: esa fue la suposición de Neale; el índice de su libro de 1851 lo pone bajo "Aparentemente del siglo XII" [^neale1851][^julian]. El English Hymnal de 1906 lo da como del "siglo XVIII", y en 1911 la Catholic Encyclopedia no podía rastrearlo más atrás de la primera década del siglo XVIII [^eh1906][^ce-oant]. Las antífonas son antiguas; el himno rimado, por lo que nadie ha podido mostrar, no lo es.
+**Mito y documentos.** Se suele decir que el himno es medieval, del siglo XII. Lo que muestran los documentos: esa fue la suposición de Neale; el índice de su libro de 1851 lo incluye bajo "Aparentemente del siglo XII" [^neale1851][^julian]. El English Hymnal de 1906 lo fecha en el "siglo XVIII", y en 1911 la Catholic Encyclopedia no podía rastrearlo más atrás de la primera década del siglo XVIII [^eh1906][^ce-oant]. Las antífonas son antiguas; el himno rimado, por lo que se ha podido demostrar hasta hoy, no lo es.
 
 **El inglés de Neale.** John Mason Neale (1818 a 1866), sacerdote, estudioso y traductor, era el director del Sackville College, un asilo de East Grinstead, en Sussex [^julian][^canterbury-neale][^neale1851]. Su libro Mediaeval Hymns and Sequences (Londres, 1851) trae el himno en la página 119, con una nota que lo llama "poco más que una versificación" de las antífonas de la O [^neale1851][^julian]. Empieza "Draw nigh, draw nigh, Emmanuel, And loose Thy captive Israel" (acércate, acércate, Emmanuel, y suelta a Tu Israel cautivo), y su estribillo dice que Emmanuel "Is born for thee, O Israel!" (ha nacido para ti, oh Israel) [^neale1851].
 
@@ -39,7 +39,7 @@ O Come, O Come, Emmanuel es un himno de Adviento, que se canta en las semanas de
 
 ![[2]]
 
-**La melodía.** The Hymnal Noted, himnos latinos en inglés impresos con canto llano con la aprobación de la Ecclesiological Society, tuvo como editor musical a Thomas Helmore (1811 a 1890), sacerdote y maestro de coro [^julian][^hn1856][^canterbury-helmore]. Su Part II, fechada en 1856 en la portada, imprime el himno en la página 131 con el encabezado "Veni, veni Emmanuel. Adviento. De un misal francés de la Biblioteca Nacional de Lisboa" [^hn1856][^mch1901]. La melodía está en notas cuadradas de canto llano, en una sola línea sin compases, bajo la letra revisada de Neale, que ahora dice "And ransom captive Israel" (y rescata al Israel cautivo), con el estribillo "Shall be born for thee" (nacerá para ti) [^hn1856]. El ejemplar del propio Helmore muestra la misma página [^pocknee]. Algunas obras de referencia fechan la Part II en 1854, y Julian fecha el texto revisado de Neale en 1852 [^pocknee][^hymnary-tune][^julian].
+**La melodía.** The Hymnal Noted, una colección de himnos latinos traducidos al inglés e impresos con su canto llano, con la aprobación de la Ecclesiological Society, tuvo como editor musical a Thomas Helmore (1811 a 1890), sacerdote y maestro de coro [^julian][^hn1856][^canterbury-helmore]. Su Part II, fechada en 1856 en la portada, imprime el himno en la página 131 con el encabezado "Veni, veni Emmanuel. Adviento. De un misal francés de la Biblioteca Nacional de Lisboa" [^hn1856][^mch1901]. La melodía está en notas cuadradas de canto llano, en una sola línea sin compases, bajo la letra revisada de Neale, que ahora dice "And ransom captive Israel" (y rescata al Israel cautivo), con el estribillo "Shall be born for thee" (nacerá para ti) [^hn1856]. El ejemplar del propio Helmore muestra la misma página [^pocknee]. Algunas obras de referencia fechan la Part II en 1854, y Julian fecha el texto revisado de Neale en 1852 [^pocknee][^hymnary-tune][^julian].
 
 ![[3]]
 
@@ -47,7 +47,7 @@ O Come, O Come, Emmanuel es un himno de Adviento, que se canta en las semanas de
 
 ![[4]]
 
-**Mito y documentos.** Se suele contar que la melodía es un canto medieval de un misal de Lisboa. Lo que muestran los documentos: en 1901 un manual de himnos contó que se habían revisado los misales franceses de la Biblioteca Nacional de Lisboa y que la melodía no estaba allí [^mch1901][^pocknee]. En 1966 Mary Berry (1917 a 2008), estudiosa del canto llano en Cambridge, conocida entonces como la madre Thomas More, dio a conocer una melodía que había encontrado en París, en la Bibliothèque nationale, manuscrito latino 10581 [^rankin][^pocknee][^ha][^gdc]. Es un procesional que perteneció a monjas franciscanas francesas, fechado en el siglo XV o hacia 1500, y la melodía lleva "Bone Jesu dulcis cunctis", un canto que pide misericordia por los difuntos [^pocknee][^ha-bone][^hymnary-tune]. Su melodía se parece mucho a la de las estrofas del himno; la parte que hoy se canta con "Rejoice! Rejoice!" cambió mucho, en una adaptación que se suele atribuir a Helmore [^pocknee][^eh1906].
+**Mito y documentos.** Se suele decir que la melodía es un canto medieval de un misal de Lisboa. Lo que muestran los documentos: en 1901 un manual de himnos señaló que se habían revisado los misales franceses de la Biblioteca Nacional de Lisboa y que la melodía no estaba allí [^mch1901][^pocknee]. En 1966 Mary Berry (1917 a 2008), estudiosa del canto llano en Cambridge, conocida entonces como la madre Thomas More, dio a conocer una melodía que había encontrado en París, en la Bibliothèque nationale, manuscrito latino 10581 [^rankin][^pocknee][^ha][^gdc]. Es un procesional que perteneció a monjas franciscanas francesas, fechado en el siglo XV o hacia 1500, y allí la melodía acompaña al texto "Bone Jesu dulcis cunctis", un canto que pide misericordia por los difuntos [^pocknee][^ha-bone][^hymnary-tune]. Su melodía se parece mucho a la de las estrofas del himno; la parte que hoy se canta con "Rejoice! Rejoice!" se transformó mucho en una adaptación que se suele atribuir a Helmore [^pocknee][^eh1906].
 
 ### Cronología
 
@@ -61,11 +61,11 @@ O Come, O Come, Emmanuel es un himno de Adviento, que se canta en las semanas de
 
 ## Qué dice la letra
 
-Cantamos la letra de la edición revisada, la reforma que los compiladores hicieron del texto de Neale [^hamrev][^julian]. El latín de 1710, Neale y Hymns Ancient and Modern tienen cinco estrofas; cantamos las tres primeras [^psalteriolum1710][^neale1851][^hamrev]. El estribillo ha cambiado de tiempo verbal: el latín de 1710 y el inglés de Neale de 1851 dicen que Emmanuel ha nacido, el Hymnal Noted "Shall be born" (nacerá) y Hymns Ancient and Modern "Shall come" (vendrá) [^psalteriolum1710][^neale1851][^hn1856][^ham1861].
+Cantamos la letra de la edición revisada, es decir, el texto de Neale tal como lo reformaron los compiladores [^hamrev][^julian]. El latín de 1710, Neale y Hymns Ancient and Modern tienen cinco estrofas; cantamos las tres primeras [^psalteriolum1710][^neale1851][^hamrev]. El estribillo ha cambiado de tiempo verbal: el latín de 1710 y el inglés de Neale de 1851 dicen que Emmanuel ha nacido, el Hymnal Noted "Shall be born" (nacerá) y Hymns Ancient and Modern "Shall come" (vendrá) [^psalteriolum1710][^neale1851][^hn1856][^ham1861].
 
 **Estrofa 1.** Emmanuel es el nombre que Isaías da al niño prometido, "Con nosotros Dios" en el Evangelio de Mateo [^kjv]. Israel es un pueblo cautivo que llora en el destierro hasta que venga el Hijo de Dios. "Ransom" (rescatar) a un cautivo es pagar el precio que lo deja libre [^webster-ransom].
 
-**Estrofa 2.** La Vara de Jesé viene de Isaías, que habla de "una vara del tronco de Isaí" (Isaí es Jesé) [^kjv]. Una "rod" (vara) es aquí un retoño o una rama joven, y Jesé fue el padre del rey David, así que el verso pide al hijo prometido de la familia de David [^webster-rod][^kjv]. Se le pide que libre a su propio pueblo del poder del diablo y le dé la victoria sobre la muerte.
+**Estrofa 2.** La Vara de Jesé viene de Isaías, que habla de "una vara del tronco de Isaí" (Isaí es Jesé) [^kjv]. Una "rod" (vara) es aquí un retoño o una rama joven, y Jesé fue el padre del rey David, así que el verso pide la llegada del hijo prometido del linaje de David [^webster-rod][^kjv]. Se le pide que libre a su propio pueblo del poder del diablo y le dé la victoria sobre la muerte.
 
 **Estrofa 3.** El "Dayspring" (Sol naciente) es la aurora, la primera luz del día, como en el Evangelio de Lucas, donde la versión King James dice "the dayspring from on high hath visited us" y la Reina-Valera, "nos visitó de lo alto el Oriente" [^webster-dayspring][^kjv]. Corresponde al Oriens de la antífona. Se pide a la aurora que alegre a quienes cantan con su llegada, su Adviento, y que aleje la noche y las sombras de la muerte [^hamrev][^psalteriolum1710].
 
@@ -77,7 +77,7 @@ Cantamos la letra de la edición revisada, la reforma que los compiladores hicie
 
 ### El latín de 1710
 
-Estas son las cinco estrofas de "Veni, veni Emanuel" tal como las imprime el Psalteriolum Cantionum Catholicarum (Colonia, 1710) en las páginas 269 y 270, vistas en las imágenes de las páginas que reproduce Hymnology Archive [^psalteriolum1710]. El libro escribe cada estrofa seguida, como prosa; nosotros cortamos los versos en las rimas, quitamos los acentos y la s larga, escribimos "ae" y "oe" en lugar de las letras unidas, y "et" en lugar de "&". El estribillo completo solo aparece después de la primera estrofa. Debajo de cada verso latino va nuestro propio sentido en español.
+Estas son las cinco estrofas de "Veni, veni Emanuel" tal como las imprime el Psalteriolum Cantionum Catholicarum (Colonia, 1710) en las páginas 269 y 270, según las imágenes de las páginas que reproduce Hymnology Archive [^psalteriolum1710]. El libro imprime cada estrofa de corrido, como prosa; nosotros cortamos los versos en las rimas, quitamos los acentos y la s larga, escribimos "ae" y "oe" en lugar de las letras unidas, y "et" en lugar de "&". El estribillo completo solo aparece después de la primera estrofa. Debajo de cada verso latino va su sentido en español, en nuestras palabras.
 
 **Estrofa 1**
 > Veni, veni Emanuel,
@@ -137,7 +137,7 @@ en la majestad de la gloria.
 
 ### La letra completa
 
-Estas son las cinco estrofas del himno 49, "O come, O come, Emmanuel", tal como las imprime la edición revisada de Hymns Ancient and Modern en la página 35, en la impresión posterior que hemos leído [^hamrev]. La primera edición, de 1861, tiene la misma letra con algunos signos de puntuación distintos, "Day-Spring" en lugar de "Day-spring", y "thee" en todos los estribillos [^ham1861]. Cantamos las estrofas 1 a 3.
+Estas son las cinco estrofas del himno 49, "O come, O come, Emmanuel", tal como las imprime la edición revisada de Hymns Ancient and Modern en la página 35, en la impresión posterior que hemos leído [^hamrev]. La primera edición, de 1861, trae la misma letra, con algunos signos de puntuación distintos, "Day-Spring" en lugar de "Day-spring", y "thee" en todos los estribillos [^ham1861]. Cantamos las estrofas 1 a 3.
 
 **Estrofa 1**
 > O come, O come, Emmanuel,
@@ -185,7 +185,7 @@ vendrá a ti, oh Israel.
 > O come, Thou Key of David, come,
 Ven, Tú, Llave de David, ven,
 > And open wide our heavenly home;
-y abre de par en par nuestro hogar del cielo;
+y abre de par en par nuestro hogar celestial;
 > Make safe the way that leads on high,
 haz seguro el camino que lleva a lo alto
 > And close the path to misery.
@@ -213,22 +213,22 @@ vendrá a ti, oh Israel.
 
 Es un himno de Adviento, el tiempo de preparación antes de Navidad, y sobre todo de sus últimos días, del 17 al 23 de diciembre, cuando se cantan las antífonas de la O [^ce-advent][^julian]. Tanto el Hymnal Noted como Hymns Ancient and Modern lo imprimen en la sección de Adviento [^hn1856][^ham1861].
 
-En los himnarios, la melodía se llama VENI EMMANUEL y su métrica es 8.8.8.8.8.8: cuatro versos de ocho sílabas y un estribillo de dos versos [^eh1906][^hymnary-tune][^luyh]. Hymns Ancient and Modern dio a la línea de canto llano una armonía a cuatro voces en 1861, aunque su prefacio dice que "las melodías antiguas deben cantarse, en general, al unísono"; su edición revisada imprimió "Para cantarse al unísono" sobre el himno, con mf al empezar cada estrofa, p en "That mourns in lonely exile here" y ff en cada estribillo [^ham1861][^hamrev]. El prefacio de 1861 dice también que la redonda con puntillo que cierra una frase, como cierra aquí cada verso, "no debe sostenerse tanto que estorbe la fluidez de la melodía" [^ham1861].
+En los himnarios, la melodía se llama VENI EMMANUEL y su métrica es 8.8.8.8.8.8: cuatro versos de ocho sílabas y un estribillo de dos versos [^eh1906][^hymnary-tune][^luyh]. En 1861, Hymns Ancient and Modern armonizó a cuatro voces la línea de canto llano, aunque su prefacio dice que "las melodías antiguas deben cantarse, en general, al unísono"; su edición revisada puso sobre el himno la indicación "Para cantarse al unísono", con mf al empezar cada estrofa, p en "That mourns in lonely exile here" y ff en cada estribillo [^ham1861][^hamrev]. El prefacio de 1861 dice también que la redonda con puntillo que cierra una frase, como cierra aquí cada verso, "no debe sostenerse tanto que estorbe la fluidez de la melodía" [^ham1861].
 
-Nuestro arreglo toma la melodía y la letra de la edición revisada de 1875, n.º 49, en una impresión posterior, en Mi menor, como está impresa allí. La armonía son las cuatro voces de W. H. Monk en el libro de 1861, n.º 36, con las demás voces adaptadas para principiantes, para 2 a 4 cantantes. Cada una de nuestras tres estrofas termina con el estribillo, a un tempo constante y sin prisa. La soprano lleva la melodía; con dos cantantes se cantan la soprano y la contralto, con tres se añade el bajo, y con cuatro el tenor. Monk termina en un luminoso acorde de Mi mayor, donde la edición revisada termina en Mi menor, y nosotros conservamos su final.
+Nuestro arreglo toma la melodía y la letra de la edición revisada de 1875, n.º 49, en una impresión posterior, en Mi menor, como está impresa allí. La armonía es la de las cuatro voces de W. H. Monk en el libro de 1861, n.º 36, con las demás voces adaptadas para principiantes, para 2 a 4 cantantes. Cada una de nuestras tres estrofas termina con el estribillo, a un tempo constante y sin prisa. La soprano lleva la melodía; dos cantantes son soprano y contralto; con el bajo son tres, y con el tenor, cuatro. Monk termina en un luminoso acorde de Mi mayor, mientras que la edición revisada termina en Mi menor; nosotros conservamos su final.
 
 ## Cómo cantarla
 
 - [Soprano](/songs/o-come-o-come-emmanuel/soprano): la melodía, con más frecuencia en el Si, luego en el Sol y el La, con tres notas en el "man-" de "Emmanuel" y en el "Is-" de "Israel". Su Re agudo llega solo en el primer "Rejoice!" de cada estribillo; su Re grave cae en el "ra-" de cada "Israel", en el "an-" de "tyranny", en el "vent" de "Advent" y en los "here,", "save," y "night," sostenidos.
-- [Contralto](/songs/o-come-o-come-emmanuel/alto): por debajo de la melodía, casi siempre una sexta más abajo, y con más frecuencia en el Do, luego en el Re. Al final del tercer verso de cada estrofa sube a su Fa sostenido agudo en "here,", "save," y "night,", una tercera por encima del Re grave de la melodía, el único lugar donde canta por encima de la melodía.
+- [Contralto](/songs/o-come-o-come-emmanuel/alto): casi siempre una sexta por debajo de la melodía, y con más frecuencia en el Do, luego en el Re. Al final del tercer verso de cada estrofa sube a su Fa sostenido agudo en "here,", "save," y "night,", una tercera por encima del Re grave de la melodía, el único lugar donde canta por encima de la melodía.
 - [Tenor](/songs/o-come-o-come-emmanuel/tenor): el centro del acorde, sobre todo en el Sol. Baja a su Mi grave en muchas notas, entre ellas el "Is-" y el "el" de cada "Israel", y llega a su Do sostenido agudo una vez por estrofa, en "ile", "ple" y "of", justo antes de los "here,", "save," y "night," sostenidos.
-- [Bajo](/songs/o-come-o-come-emmanuel/bass): la línea del bajo, con más frecuencia en el Sol, luego en el Re. Su Sol agudo llega solo en la última nota del primer y el último verso de cada estrofa, y su única nota sostenida, Re sostenido, en el "ly" de "lonely", en "Thy" y en el "my" de "gloomy", y sube a Mi en la nota siguiente.
+- [Bajo](/songs/o-come-o-come-emmanuel/bass): la línea del bajo, con más frecuencia en el Sol, luego en el Re. Su Sol agudo llega solo en la última nota del primer verso y del último de cada estrofa, y su única alteración, Re sostenido, en el "ly" de "lonely", en "Thy" y en el "my" de "gloomy", y sube a Mi en la nota siguiente.
 
 ## Preguntas
 
 ### ¿Quién escribió la música de O Come, O Come, Emmanuel?
 
-No se conoce un compositor. La melodía, VENI EMMANUEL, se imprimió con la letra de Neale en The Hymnal Noted, Part II (Londres, 1856), y a su editor musical, Thomas Helmore, se le suele atribuir la adaptación [^hn1856][^eh1906][^pocknee]. Ese libro decía que venía de un misal francés de Lisboa, que nunca se ha encontrado [^hn1856][^mch1901]. En 1966 Mary Berry dio a conocer la melodía en un manuscrito francés de finales de la Edad Media, en París [^pocknee][^ha].
+No se conoce compositor. La melodía, VENI EMMANUEL, se imprimió con la letra de Neale en The Hymnal Noted, Part II (Londres, 1856), y a su editor musical, Thomas Helmore, se le suele atribuir la adaptación [^hn1856][^eh1906][^pocknee]. Ese libro decía que venía de un misal francés de Lisboa, que nunca se ha encontrado [^hn1856][^mch1901]. En 1966 Mary Berry dio a conocer la melodía en un manuscrito francés de finales de la Edad Media, en París [^pocknee][^ha].
 
 ### ¿Es O Come, O Come, Emmanuel una canción de Navidad?
 
@@ -240,7 +240,7 @@ Porque su letra viene de las antífonas de la O, que llaman al Mesías que ha de
 
 ### ¿Qué significa "ransom captive Israel"? ¿Es una canción judía?
 
-"Ransom" un cautivo es pagar el precio que lo deja libre, rescatarlo [^webster-ransom]. La estrofa presenta a Israel en el destierro, esperando al Emmanuel prometido, "Dios con nosotros", a quien el Evangelio de Mateo identifica con Jesús [^kjv]. Es un himno cristiano, no judío: su latín pone en verso las antífonas de la O de la Iglesia y se imprimió en un cancionero católico de Colonia en 1710 [^ce-oant][^psalteriolum1710][^pocknee]. Los cristianos cantan la espera de Israel como propia; en palabras de Hymnology Archive, "just as Israel waited for its Messiah, we also wait for his return", así como Israel esperó a su Mesías, también nosotros esperamos su regreso [^ha].
+"Ransom" a un cautivo es pagar el precio que lo deja libre, rescatarlo [^webster-ransom]. La estrofa presenta a Israel en el destierro, esperando al Emmanuel prometido, "Dios con nosotros", a quien el Evangelio de Mateo identifica con Jesús [^kjv]. Es un himno cristiano, no judío: su latín pone en verso las antífonas de la O de la Iglesia y se imprimió en un cancionero católico de Colonia en 1710 [^ce-oant][^psalteriolum1710][^pocknee]. Los cristianos cantan la espera de Israel como propia; en palabras de Hymnology Archive, "just as Israel waited for its Messiah, we also wait for his return", así como Israel esperó a su Mesías, también nosotros esperamos su regreso [^ha].
 
 ### ¿Por qué O Come, O Come, Emmanuel está en tono menor?
 
@@ -248,12 +248,12 @@ Porque su melodía es un canto llano, de un manuscrito francés del siglo XV o d
 
 ### ¿Es O Come, O Come, Emmanuel de dominio público?
 
-Sí. El himno latino es anónimo, impreso ya en 1710 [^psalteriolum1710][^julian]. John Mason Neale, que lo tradujo, murió en 1866; Thomas Helmore, que adaptó la melodía, en 1890; y W. H. Monk, cuya armonía leemos, en 1889 [^canterbury-neale][^canterbury-helmore][^canterbury-monk][^julian]. Nuestro arreglo es nuestro, adaptado de las cuatro voces de Monk; las traducciones y arreglos modernos de otros pueden tener sus propios derechos.
+Sí. El himno latino es anónimo, impreso ya en 1710 [^psalteriolum1710][^julian]. John Mason Neale, que lo tradujo, murió en 1866; Thomas Helmore, que adaptó la melodía, en 1890; y W. H. Monk, cuya armonía seguimos, en 1889 [^canterbury-neale][^canterbury-helmore][^canterbury-monk][^julian]. El arreglo es nuestro, adaptado de las cuatro voces de Monk; las traducciones y arreglos modernos de otros pueden tener sus propios derechos.
 
 ## Canta después
 
-- [Good King Wenceslas](/songs/good-king-wenceslas): letra de Neale con la melodía tal como la arregló Helmore, los dos hombres detrás de la impresión de este himno en 1856.
-- [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): otro himno latino del siglo XVIII en un inglés victoriano, para la Navidad misma.
+- [Good King Wenceslas](/songs/good-king-wenceslas): letra de Neale con la melodía tal como la arregló Helmore, los dos responsables de la impresión de este himno en 1856.
+- [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): otro himno latino del siglo XVIII en una traducción inglesa victoriana, para la Navidad misma.
 - [Angels We Have Heard on High](/songs/angels-we-have-heard-on-high): un villancico de Navidad que conserva un estribillo en latín, Gloria in excelsis Deo.
 
 ## Fuentes

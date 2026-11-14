@@ -24,25 +24,25 @@ listen: Internet Archive, grabación de 1917 | https://archive.org/details/ediso
 original: Four Choice Carols for Christmas Holidays (hacia 1700), English Broadside Ballad Archive | https://ebba.english.ucsb.edu/ballad/31130/citation || Three New Christmas Carols (hacia 1760), Internet Archive | https://archive.org/details/bim_eighteenth-century_three-new-christmas-caro_1760
 ---
 
-God Rest Ye Merry, Gentlemen es un villancico inglés. Nadie sabe quién hizo su letra ni su melodía: las primeras impresiones conocidas son hojas sueltas baratas del siglo XVIII, y no nombran a ningún autor [^ebba][^ecco1760][^canterbury]. Su primer verso es un saludo, "God keep you merry", que Dios los guarde alegres, dirigido a los señores que escuchan [^ned-rest][^rolfe]. Fue una canción de la calle antes que una pieza de coro: en 1833 un coleccionista todavía podía oír en Londres a un cantante solitario "graznando" este villancico [^sandys1833]. Un editor victoriano escribió que "quizá no haya ningún villancico tan universalmente conocido" [^husk].
+God Rest Ye Merry, Gentlemen es un villancico inglés. Nadie sabe quién escribió su letra ni quién compuso su melodía: las primeras impresiones conocidas son hojas sueltas baratas del siglo XVIII, y no nombran a ningún autor [^ebba][^ecco1760][^canterbury]. Su primer verso es un saludo a los señores que escuchan: "God keep you merry", que Dios los guarde alegres [^ned-rest][^rolfe]. Fue una canción de la calle antes que una pieza de coro: en 1833 un coleccionista todavía podía oír en Londres a un cantante solitario "graznando" este villancico [^sandys1833]. Un editor victoriano escribió que "quizá no haya ningún villancico tan universalmente conocido" [^husk].
 
 ## De dónde viene
 
-**Las primeras impresiones.** Sus primeras impresiones conocidas son "broadsides", canciones impresas en una sola cara de una hoja suelta. En la colección Roxburghe de la British Library, una hoja titulada Four Choice Carols for Christmas Holidays empieza con él [^chappell]; el English Broadside Ballad Archive fecha la hoja en 1700, con un signo de interrogación [^ebba]. Otra hoja, Three New Christmas Carols, vendida en la imprenta de Bow Church Yard, en Londres, está catalogada hacia 1760. Grabados de seis santos enmarcan el texto. Su letra difiere de la de hoy: el estribillo es "Which brings tidings of comfort and joy", una estrofa bendice "the ruler of this house", al dueño de la casa, y la última empieza "God rest you merry, Gentlemen, / Who are within this place" [^ecco1760].
+**Las primeras impresiones.** Sus primeras impresiones conocidas son "broadsides", canciones impresas en una sola cara de una hoja suelta. En la colección Roxburghe de la British Library, una hoja titulada Four Choice Carols for Christmas Holidays lo trae en primer lugar [^chappell]; el English Broadside Ballad Archive fecha la hoja en 1700, con un signo de interrogación [^ebba]. Otra hoja, Three New Christmas Carols, vendida en la imprenta de Bow Church Yard, en Londres, está catalogada hacia 1760. Grabados de seis santos enmarcan el texto. Su letra difiere de la de hoy: el estribillo es "Which brings tidings of comfort and joy", una estrofa bendice al dueño de la casa ("the ruler of this house") y la última empieza "God rest you merry, Gentlemen, / Who are within this place" [^ecco1760].
 
-**En las calles de Londres.** En 1823 el escritor William Hone, que esperaba que los villancicos impresos de entonces cayeran en desuso, hizo la lista de los 89 de su propia colección. El número 28 es "God rest you, merry gentlemen" [^hone1823]. Lo recordaba de mucho antes: "Los grabados en madera que rodeaban las hojas de cada año, y la melodía de 'God rest you merry Gentlemen', hicieron las delicias de mi infancia" [^hone1823].
+**En las calles de Londres.** En 1823 el escritor William Hone, convencido de que los villancicos impresos de entonces caerían en desuso, hizo una lista de los 89 villancicos de su colección. El número 28 es "God rest you, merry gentlemen" [^hone1823]. Lo conocía desde mucho antes: "Los grabados en madera que rodeaban las hojas de cada año, y la melodía de 'God rest you merry Gentlemen', hicieron las delicias de mi infancia" [^hone1823].
 
-Diez años después, el anticuario William Sandys escribió que los villancicos "todavía se imprimen en Londres para los buhoneros, o vendedores de literatura barata", sobre todo por Pitts, Catnach y Batchelar. En las calles, escribió, "de vez en cuando se puede oír a algún ambulante solitario", graznando este villancico u otro "con una melodía antigua y sencilla" [^sandys1833]. Su libro de 1833, Christmas Carols, Ancient and Modern, imprimió el villancico en su segunda parte, "villancicos que todavía se usan en el oeste de Inglaterra", con una melodía propia [^sandys1833].
+Diez años después, el anticuario William Sandys escribió que los villancicos "todavía se imprimen en Londres para los buhoneros, o vendedores de literatura barata", y que los imprimían sobre todo Pitts, Catnach y Batchelar. En las calles, escribió, "de vez en cuando se puede oír a algún ambulante solitario", graznando este villancico u otro "con una melodía antigua y sencilla" [^sandys1833]. Su libro de 1833, Christmas Carols, Ancient and Modern, incluyó el villancico en su segunda parte, la de los "villancicos que todavía se usan en el oeste de Inglaterra", con una melodía propia [^sandys1833].
 
 ![[1]]
 
 **Dickens.** En el primer capítulo de Cuento de Navidad (A Christmas Carol), en 1843, un joven cantor de villancicos se agacha ante el ojo de la cerradura de Scrooge para cantar "God bless you merry gentleman! May nothing you dismay!", y Scrooge agarra la regla "con tal energía que el cantor huyó aterrado" [^dickens-mcgill].
 
-**La melodía.** La melodía que cantamos es la menor. El coleccionista William Chappell, que la imprimió en la década de 1850, anotó que el villancico "a veces se canta en tono mayor, y a veces en menor", y que la copia más antigua de la melodía que había visto estaba "de puño y letra del Dr. Nares, el compositor de catedral", donde se llamaba "The old Christmas Carol", el viejo villancico de Navidad [^chappell]. James Nares (1715 a 1783) fue organista de la catedral de York (York Minster) y después organista y compositor de la Chapel Royal [^grove-nares][^dnb-nares]. A Little Book of Christmas Carols, de Edward Rimbault, sin fecha y situado por los editores de himnarios hacia 1846 a 1850, imprimió el villancico dos veces, como se cantaba "in the streets of London", en las calles de Londres, y como se cantaba "in Cornwall", en Cornualles [^rimbault-imslp][^hymnary-tune][^hcc-notes].
+**La melodía.** La melodía que cantamos es la versión en tono menor. El coleccionista William Chappell, que la imprimió en la década de 1850, anotó que el villancico "a veces se canta en tono mayor, y a veces en menor", y que la copia más antigua de la melodía que había visto estaba "de puño y letra del Dr. Nares, el compositor de catedral", donde se llamaba "The old Christmas Carol", el viejo villancico de Navidad [^chappell]. James Nares (1715 a 1783) fue organista de la catedral de York (York Minster) y después organista y compositor de la Chapel Royal [^grove-nares][^dnb-nares]. A Little Book of Christmas Carols, de Edward Rimbault, sin fecha y que los editores de himnarios sitúan hacia 1846 a 1850, imprimió el villancico dos veces, como se cantaba "in the streets of London", en las calles de Londres, y como se cantaba "in Cornwall", en Cornualles [^rimbault-imslp][^hymnary-tune][^hcc-notes].
 
 ![[2]]
 
-**Bramley y Stainer.** En Christmas Carols New and Old, la letra la editó Henry Ramsden Bramley, fellow del Magdalen College de Oxford, y la música John Stainer, organista del mismo colegio [^bramley]. God rest you merry abre el libro como n.º 1, a cuatro voces, en Mi menor y con siete estrofas [^bramley]. La primera serie salió en noviembre de 1867: el Musical Times del 1 de diciembre de 1867 la incluye entre los libros de Novello del último mes, y la historia de la editorial de Joseph Bennett, de 1887, da el mismo mes. El Musical Times lo reseñó en diciembre de 1868, y por eso algunas listas lo fechan en 1868 [^mt1867][^hcc-bs][^mt1868][^hymnarchive-stainer]. En 1870 llegó una segunda serie, reseñada ese diciembre. La historia de Bennett le da 1871, el año de una edición ilustrada de las dos primeras series juntas [^hymnarchive-stainer][^cam-blog][^hcc-bs].
+**Bramley y Stainer.** En Christmas Carols New and Old, la letra la editó Henry Ramsden Bramley, fellow del Magdalen College de Oxford, y la música John Stainer, organista del mismo colegio [^bramley]. God rest you merry abre el libro con el n.º 1, a cuatro voces, en Mi menor y con siete estrofas [^bramley]. La primera serie salió en noviembre de 1867: el Musical Times del 1 de diciembre de 1867 la incluye entre los libros de Novello del último mes, y la historia de la editorial de Joseph Bennett, de 1887, indica el mismo mes. El Musical Times lo reseñó en diciembre de 1868, y por eso algunas listas lo fechan en 1868 [^mt1867][^hcc-bs][^mt1868][^hymnarchive-stainer]. En 1870 llegó una segunda serie, reseñada ese diciembre. La historia de Bennett la fecha en 1871, el año de una edición ilustrada de las dos primeras series juntas [^hymnarchive-stainer][^cam-blog][^hcc-bs].
 
 ![[3]]
 
@@ -51,7 +51,7 @@ Diez años después, el anticuario William Sandys escribió que los villancicos 
 ### Cronología
 
 - hacia 1650: Un manuscrito de la Biblioteca Bodleiana, MS Eng. poet. b. 5, contiene "Sit You, Merry Gentlemen", según Hymns and Carols of Christmas. [^hcc-notes]
-- hacia 1700: La hoja suelta Four Choice Carols for Christmas Holidays empieza con él; la fecha es una estimación del catalogador. [^ebba]
+- hacia 1700: La hoja suelta Four Choice Carols for Christmas Holidays lo trae en primer lugar; la fecha es una estimación del catalogador. [^ebba]
 - hacia 1760: Three New Christmas Carols, vendida en Bow Church Yard, Londres, lo imprime. [^ecco1760]
 - 1823: William Hone lo incluye como n.º 28 de los 89 villancicos de su colección. [^hone1823]
 - 1833: William Sandys lo imprime entre los villancicos que todavía se usan en el oeste de Inglaterra. [^sandys1833]
@@ -61,25 +61,25 @@ Diez años después, el anticuario William Sandys escribió que los villancicos 
 
 ## Qué dice la letra
 
-**El primer verso.** "Rest" es aquí un uso antiguo del verbo. El gran diccionario de Oxford, en su primera edición, clasifica el saludo breve "rest you merry" en la acepción "quedarse, seguir", y el completo "God rest you merry" en la de "dar descanso o reposo" a alguien, y remite cada uno al otro. Cita un diccionario latino de 1548: "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" (alégrate, o regocíjate, como dice la gente común: "Reste you mery") [^ned-rest]. Así que "God rest you merry" significa "God keep you merry", que Dios los guarde alegres, como lo explicó un editor de Shakespeare en 1878 [^rolfe]. Era un saludo dirigido a los "gentlemen", los señores, así que la coma va después de "merry".
+**El primer verso.** Aquí "rest" tiene un sentido antiguo. El gran diccionario de Oxford, en su primera edición, clasifica el saludo breve "rest you merry" en la acepción "quedarse, seguir", y el completo "God rest you merry" en la de "dar descanso o reposo" a alguien, y remite de uno a otro. Cita un diccionario latino de 1548: "bee thou gladde: or ioyfull, as the vulgare people saie Reste you mery" (alégrate, o regocíjate, como dice la gente común: "Reste you mery") [^ned-rest]. Así que "God rest you merry" significa "God keep you merry", que Dios los guarde alegres, como lo explicó un editor de Shakespeare en 1878 [^rolfe]. Era un saludo dirigido a los "gentlemen", los señores, así que la coma va después de "merry".
 
 Nuestra letra sigue a Bramley y Stainer, que ponen la coma después de "you", como la lista de Hone; Sandys la puso después de "merry" [^bramley][^hone1823][^sandys1833]. Canta "God rest you merry" como una sola frase y el sentido se entiende. Los tres imprimieron "you": nuestro título conserva el "ye" que mucha gente conoce, pero cantamos "you".
 
-**Estrofa 1, la que cantamos.** Que nada les quite el ánimo ("dismay") [^webster], porque Cristo nació el día de Navidad "to save us all from Satan's power", para salvarnos a todos del poder de Satanás, como un eco de "la potestad de Satanás" de los Hechos de los Apóstoles, "when we were gone astray", cuando andábamos descarriados, como las ovejas de Isaías [^kjv]. El estribillo lo llama "tidings", noticias, de consuelo y de alegría [^webster], como el ángel que, en Lucas, anuncia a los pastores "nuevas de gran gozo" [^kjv].
+**Estrofa 1, la que cantamos.** Que nada les quite el ánimo ("dismay") [^webster], porque Cristo nació el día de Navidad "to save us all from Satan's power", para salvarnos a todos del poder de Satanás, eco de "la potestad de Satanás" de los Hechos de los Apóstoles, "when we were gone astray", cuando andábamos descarriados, como las ovejas de Isaías [^kjv]. El estribillo lo llama "tidings", noticias, de consuelo y de alegría [^webster], como el ángel que, en Lucas, anuncia a los pastores "nuevas de gran gozo" [^kjv].
 
-**Estrofa 2.** El niño nace en Belén "in Jewry": "Jewry" es Judea [^webster]. María "did nothing take in scorn": no despreció el pobre lugar del nacimiento.
+**Estrofa 2.** El niño nace en Belén "in Jewry": "Jewry" es Judea [^webster]. María "did nothing take in scorn": no despreció la pobreza del lugar donde nació el niño.
 
 **Estrofas 3 a 5.** Un ángel lleva la noticia a los pastores, les dice "Fear not", que no tengan miedo, y que ha nacido un Salvador, como en Lucas [^kjv], "of a pure Virgin bright", de una virgen pura y luminosa. Los pastores dejan sus rebaños "in tempest, storm, and wind", entre tempestad, tormenta y viento, y van a Belén.
 
-**Estrofa 6.** Encuentran al niño en un pesebre, como en Lucas [^kjv]. Los bueyes que comen heno ("where oxen feed on hay") y María de rodillas, rezando, son del villancico.
+**Estrofa 6.** Encuentran al niño en un pesebre, como en Lucas [^kjv]. Los bueyes que comen heno ("where oxen feed on hay") y María de rodillas, rezando, son detalles propios del villancico.
 
-**Estrofa 7.** Se pide a todos los que están en la sala que canten alabanzas y que se abracen "with true love and brotherhood", con amor sincero y fraternidad. Esta santa estación "all other doth deface": "deface" significaba antes eclipsar, así que la Navidad eclipsa cualquier otra época del año [^ned-deface].
+**Estrofa 7.** El villancico pide a todos los que están en la sala que canten alabanzas y se abracen "with true love and brotherhood", con amor sincero y fraternidad. Esta santa estación "all other doth deface": "deface" significaba antes eclipsar, así que la Navidad eclipsa cualquier otra época del año [^ned-deface].
 
-La primera estrofa de Sandys dice "For Jesus Christ our Saviour / Was born upon this day", donde Bramley y Stainer ponen "Remember Christ our Saviour / Was born on Christmas Day"; su estribillo sigue con "For Jesus Christ our Saviour was born on Christmas day", y escribe Jewry como "Jury" [^sandys1833][^bramley].
+La primera estrofa de Sandys dice "For Jesus Christ our Saviour / Was born upon this day", donde Bramley y Stainer ponen "Remember Christ our Saviour / Was born on Christmas Day"; su estribillo continúa con "For Jesus Christ our Saviour was born on Christmas day", y Sandys escribe Jewry como "Jury" [^sandys1833][^bramley].
 
 ### La letra completa
 
-Estas son las siete estrofas tal como las imprimen Bramley y Stainer en el número 1, la primera bajo la música y las demás en la página siguiente, cada una terminada en "O tidings, &c." en lugar del estribillo; la s larga se escribe aquí como una s moderna [^bramley]. El texto de Sandys de 1833 tiene las mismas siete estrofas con otras palabras en algunos puntos, entre ellas una segunda mitad distinta en la cuarta [^sandys1833].
+Estas son las siete estrofas tal como las imprimen Bramley y Stainer en el número 1, la primera bajo la música y las demás en la página siguiente, cada una terminada en "O tidings, &c." en lugar del estribillo; la s larga aparece aquí como una s moderna [^bramley]. El texto de Sandys de 1833 tiene las mismas siete estrofas con otras palabras en algunos puntos, entre ellas una segunda mitad distinta en la cuarta [^sandys1833].
 
 **Estrofa 1**
 > God rest you, merry gentlemen,
@@ -127,7 +127,7 @@ les llevó la noticia:
 > How that in Bethlehem was born
 que en Belén había nacido
 > The Son of God by Name.
-el Hijo de Dios, así llamado.
+el que se llama Hijo de Dios.
 
 **Estrofa 4**
 > Fear not then said the Angel,
@@ -187,13 +187,13 @@ eclipsa a todas las demás.
 
 ## Cómo se canta
 
-The New Oxford Book of Carols lo llama una "luck-visit song", una canción que cantan quienes visitan una casa para desearle suerte [^canterbury]. Su melodía es GOD REST YOU MERRY. Hymnary.org da su métrica como 8.6.8.6.8.6 con estribillo; The Hymnal 1982, n.º 105, da 7.6.7.6.8.6 con estribillo [^hymnary-tune][^h82].
+The New Oxford Book of Carols lo llama una "luck-visit song", una canción que cantan quienes visitan una casa para desearle suerte [^canterbury]. Su melodía se llama GOD REST YOU MERRY. Hymnary.org le asigna la métrica 8.6.8.6.8.6 con estribillo; The Hymnal 1982, n.º 105, la de 7.6.7.6.8.6 con estribillo [^hymnary-tune][^h82].
 
-Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresión de la década de 1870, en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo. Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Hay nueve notas cambiadas, para tener más terceras entre la soprano y la contralto y ningún salto amplio en el bajo ni en las voces interiores. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" vuelve a casa, a Mi menor.
+Nuestro arreglo toma las cuatro voces que Stainer escribió para el n.º 1, en una impresión de la década de 1870, y lo deja en Mi menor, como está impreso [^bramley]. Cantamos la primera estrofa y su estribillo. Donde Stainer liga dos notas en una sílaba en las voces graves, cantamos una sola nota larga, en 17 lugares. Cambiamos nueve notas para tener más terceras entre la soprano y la contralto y ningún salto amplio en el bajo ni en las voces interiores. Las respiraciones están marcadas. En "O tidings of comfort and joy" la armonía gira hacia Sol mayor, y el último "joy" regresa a Mi menor.
 
 ## Versiones y otras letras
 
-- **La melodía del oeste de Inglaterra.** La melodía de Sandys de 1833 es otra melodía, en tono mayor, que Hymnary.org registra como villancico anónimo de Cornualles [^sandys1833][^hymnary-cornish]. La versión de Cornualles de Rimbault está junto a la de Londres [^rimbault-imslp][^hcc-notes].
+- **La melodía del oeste de Inglaterra.** La melodía de Sandys de 1833 es otra melodía, en tono mayor, que Hymnary.org registra como villancico anónimo de Cornualles [^sandys1833][^hymnary-cornish]. Rimbault imprime su versión de Cornualles junto a la de Londres [^rimbault-imslp][^hcc-notes].
 
 ## ¿Sabías que...?
 
@@ -201,10 +201,10 @@ Nuestro arreglo toma las cuatro voces de Stainer para el n.º 1 en una impresió
 
 ## Cómo cantarla
 
-- [Soprano](/songs/god-rest-ye/soprano): la melodía. Empieza con dos Mi y salta a Si en "you"; aterriza en ese Si con limpieza. Llega a su Re grave en "Let" y "Was" y a su Mi agudo en el "tan's" de "Satan's" y en "of" del último "O tidings of comfort and joy". El rápido "comfort" en medio del estribillo son dos notas cortas, Sol y Fa sostenido.
-- [Contralto](/songs/god-rest-ye/alto): empieza y termina en el Mi de la melodía. En el primer verso canta Re sostenido en el "ry" de "merry" y luego Re becuadro en el "tle" de "gentlemen", dos tiempos después: son dos Re distintos, así que ponla en solo en el reproductor. El Re sostenido, la nota que lleva la tonalidad menor de vuelta a casa, a Mi, vuelve una y otra vez, entre otras en el "may" de "dismay" y en el "Day" de "Christmas Day". En el rápido "comfort" del estribillo baja a su nota más grave, Si, que también canta en "Let" y "Was".
-- [Tenor](/songs/god-rest-ye/tenor): rellena el centro del acorde, sobre todo en Sol y Si. "To", al comienzo del tercer verso, es un Sol sostenido, donde los dos primeros versos cantaban Sol becuadro. Sube a Re en "astray" y en "O tidings" y el "com-" de "comfort" del último verso.
-- [Bajo](/songs/god-rest-ye/bass): la línea del bajo, sobre todo Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a casa, a Mi. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
+- [Soprano](/songs/god-rest-ye/soprano): la melodía. Empieza con dos Mi y salta a Si en "you"; aterriza en ese Si con limpieza. Llega a su Re grave en "Let" y "Was" y a su Mi agudo en el "tan's" de "Satan's" y en el "of" del último "O tidings of comfort and joy". El rápido "comfort" en medio del estribillo son dos notas cortas, Sol y Fa sostenido.
+- [Contralto](/songs/god-rest-ye/alto): empieza y termina en el Mi de la melodía. En el primer verso canta Re sostenido en el "ry" de "merry" y luego Re becuadro en el "tle" de "gentlemen", dos tiempos después: son dos Re distintos, así que ponla en solo en el reproductor. El Re sostenido, la nota que devuelve la tonalidad menor a su tónica, Mi, aparece una y otra vez, entre otras en el "may" de "dismay" y en el "Day" de "Christmas Day". En el rápido "comfort" del estribillo baja a su nota más grave, Si, que también canta en "Let" y "Was".
+- [Tenor](/songs/god-rest-ye/tenor): rellena el centro del acorde, sobre todo en Sol y Si. "To", al comienzo del tercer verso, es un Sol sostenido, donde los dos primeros versos cantaban Sol becuadro. Sube a Re en "astray", en "O tidings" y en el "com-" de "comfort" del último verso.
+- [Bajo](/songs/god-rest-ye/bass): la línea del bajo, sobre todo Mi y Si. El Re sostenido de "mer-" y "Christ" baja a Si y luego vuelve a Mi, la tónica. El Sol grave llega por primera vez en "Let", y el La agudo en "save".
 
 ## Preguntas
 
@@ -214,29 +214,29 @@ Después de "merry": "God rest you merry, gentlemen." La expresión es "rest you
 
 ### ¿Es "God rest ye" o "God rest you", o "God bless ye"?
 
-Las impresiones antiguas dicen "you": la hoja de hacia 1760, la lista de Hone de 1823, Sandys en 1833 y Bramley y Stainer en 1867 traen todas "God rest you merry" [^ecco1760][^hone1823][^sandys1833][^bramley]. "Ye" es la forma de sonido más antiguo que muchos cantan hoy, con el mismo significado; nuestro título la conserva, y cantamos "you". "God bless you" es otro saludo: así lo canta el joven cantor ante la cerradura de Scrooge en Cuento de Navidad (A Christmas Carol), de Dickens, en 1843 [^dickens-mcgill]. "God rest you merry" quiere decir "God keep you merry", que Dios los guarde alegres [^ned-rest][^rolfe].
+Las impresiones antiguas dicen "you": la hoja de hacia 1760, la lista de Hone de 1823, Sandys en 1833 y Bramley y Stainer en 1867 traen todas "God rest you merry" [^ecco1760][^hone1823][^sandys1833][^bramley]. "Ye" es una forma de sonido más antiguo que hoy cantan muchos, con el mismo significado; nuestro título la conserva, y cantamos "you". "God bless you" es otro saludo: así lo canta el joven cantor ante la cerradura de Scrooge en Cuento de Navidad (A Christmas Carol), de Dickens, en 1843 [^dickens-mcgill]. "God rest you merry" quiere decir "God keep you merry", que Dios los guarde alegres [^ned-rest][^rolfe].
 
 ### ¿Quién escribió originalmente God Rest Ye Merry Gentlemen?
 
-Nadie lo sabe. Hymns and Carols of Christmas da noticia de un texto llamado "Sit You, Merry Gentlemen" en un manuscrito de la Bodleiana de hacia 1650 [^hcc-notes]; las primeras impresiones conocidas, hojas sueltas del siglo XVIII, no nombran a ningún autor, y un diccionario moderno de himnos lo considera anónimo y británico [^ebba][^ecco1760][^canterbury]. La melodía también es tradicional: la copia más antigua que había visto William Chappell estaba escrita de mano del compositor James Nares, que murió en 1783 [^chappell][^grove-nares][^dnb-nares]. El libro de Bramley y Stainer de 1867 fijó la versión que conoce casi todo el mundo [^bramley][^cam-blog][^hcc-notes].
+Nadie lo sabe. Hymns and Carols of Christmas da noticia de un texto llamado "Sit You, Merry Gentlemen" en un manuscrito de la Bodleiana de hacia 1650 [^hcc-notes]; las primeras impresiones conocidas, hojas sueltas del siglo XVIII, no nombran a ningún autor, y un diccionario moderno de himnos lo considera anónimo y británico [^ebba][^ecco1760][^canterbury]. La melodía también es tradicional: la copia más antigua que había visto William Chappell estaba escrita de puño y letra del compositor James Nares, que murió en 1783 [^chappell][^grove-nares][^dnb-nares]. El libro de Bramley y Stainer de 1867 fijó la versión que conoce casi todo el mundo [^bramley][^cam-blog][^hcc-notes].
 
 ### ¿Es God Rest Ye Merry, Gentlemen un villancico cristiano, un himno o una canción pagana?
 
-Es un villancico cristiano de Navidad: sus estrofas cuentan el nacimiento de Jesús como el Evangelio de Lucas, con el ángel, los pastores y el pesebre [^kjv]. Sus primeras copias conocidas, hojas sueltas del siglo XVIII, ya son cristianas [^ebba][^ecco1760]. Nació como canción de la calle y como "luck-visit song", la que cantaban quienes visitaban una casa, más que como himno de iglesia, aunque hoy lo imprimen los himnarios, The Hymnal 1982 como n.º 105 [^sandys1833][^canterbury][^h82]. Ningún documento muestra una versión pagana.
+Es un villancico cristiano de Navidad: sus estrofas cuentan el nacimiento de Jesús como el Evangelio de Lucas, con el ángel, los pastores y el pesebre [^kjv]. Sus primeras copias conocidas, hojas sueltas del siglo XVIII, ya son cristianas [^ebba][^ecco1760]. Nació como canción de la calle y como "luck-visit song", la que cantaban quienes visitaban una casa, más que como himno de iglesia, aunque hoy figura en los himnarios: The Hymnal 1982 lo incluye como n.º 105 [^sandys1833][^canterbury][^h82]. Ningún documento muestra una versión pagana.
 
 ### ¿Es God Rest Ye Merry, Gentlemen de dominio público?
 
-Sí. Su letra y su melodía son tradicionales y anónimas, impresas en hojas sueltas en el siglo XVIII [^ebba][^ecco1760]. La versión que leemos es la de Bramley y Stainer de 1867: Henry Ramsden Bramley murió en 1917, y John Stainer en 1901 [^bramley][^canterbury-bramley][^hymnary-bramley][^hymnarchive-stainer][^dnb-stainer]. Nuestro arreglo es nuestro, adaptado de las cuatro voces de Stainer; los arreglos modernos de otros pueden tener sus propios derechos.
+Sí. Su letra y su melodía son tradicionales y anónimas, impresas en hojas sueltas en el siglo XVIII [^ebba][^ecco1760]. La versión de la que partimos es la de Bramley y Stainer de 1867: Henry Ramsden Bramley murió en 1917, y John Stainer en 1901 [^bramley][^canterbury-bramley][^hymnary-bramley][^hymnarchive-stainer][^dnb-stainer]. Nuestro arreglo es nuestro, adaptado de las cuatro voces de Stainer; los arreglos modernos de otros pueden tener sus propios derechos.
 
 ### ¿Qué voz canta la melodía?
 
-En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo; con cuatro, el tenor llena el centro del acorde. La melodía va del Re grave de "Let" al Mi agudo del "tan's" de "Satan's", mientras la contralto se mueve dentro de una sexta, de Si a Sol.
+En nuestro arreglo, la soprano canta la melodía. Dos cantantes son la melodía y la contralto; con el bajo son tres, y con el tenor, que llena el centro del acorde, cuatro. La melodía va del Re grave de "Let" al Mi agudo del "tan's" de "Satan's", mientras la contralto se mueve dentro de una sexta, de Si a Sol.
 
 ## Canta después
 
 - [Hark! The Herald Angels Sing](/songs/hark-the-herald): otro clásico inglés de Navidad a cuatro voces, de un libro victoriano.
 - [Greensleeves](/songs/greensleeves): otra antigua melodía inglesa en tono menor, de Popular Music of the Olden Time de William Chappell, que también imprime la melodía menor de este villancico.
-- [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): un villancico luminoso para principiantes, para la misma época del año.
+- [O Come, All Ye Faithful](/songs/o-come-all-ye-faithful): un villancico luminoso, fácil para empezar, de la misma época del año.
 
 ## Fuentes
 

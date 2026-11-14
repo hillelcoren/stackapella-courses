@@ -21,23 +21,23 @@ translatedFrom: 82d2f5e6801f
 original: The Gem (Filadelfia, 1911), Internet Archive | https://archive.org/details/acredse00phil
 ---
 
-Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleeping, Brother John?, es un canon: una melodía corta que los cantantes empiezan uno tras otro, de modo que suena contra sí misma [^grove-round][^gem1911]. En la letra francesa, a un fraile llamado hermano Jacques le preguntan si está dormido y le dicen que toque la campana de maitines, las oraciones de la noche [^widor1883][^academie-matines]. Su primera impresión conocida, en París en 1811, da la melodía sin ninguna letra [^cle1811][^ballad]. En 1817 un libro sobre música lo llamó el canon que todo el mundo conoce [^stendhal1817]. Un cancionero escolar de Filadelfia lo imprimió en inglés como Brother James en 1911, y la letra de Brother John ya estaba impresa en 1916 [^gem1911][^normal1916]. Gustav Mahler lo convirtió en una marcha fúnebre en tonalidad menor en su Primera Sinfonía [^sfs][^bso].
+Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleeping, Brother John?, es un canon: una melodía corta que los cantantes empiezan uno tras otro, de modo que se superpone a sí misma [^grove-round][^gem1911]. En la letra francesa, a un fraile llamado hermano Jacques le preguntan si está dormido y le dicen que toque la campana de maitines, las oraciones de la noche [^widor1883][^academie-matines]. Su primera impresión conocida, en París en 1811, recoge la melodía sin letra [^cle1811][^ballad]. En 1817 un libro sobre música lo presentó como el canon que todo el mundo conoce [^stendhal1817]. Un cancionero escolar de Filadelfia lo imprimió en inglés como Brother James en 1911, y la letra de Brother John ya estaba impresa en 1916 [^gem1911][^normal1916]. Gustav Mahler lo convirtió en una marcha fúnebre en tonalidad menor en su Primera Sinfonía [^sfs][^bso].
 
 ## De dónde viene
 
-**Antes de la imprenta.** Nadie sabe quién hizo la melodía. El historiador de las partituras James Fuld informó de una copia manuscrita de la melodía de hacia 1780, con otro título; no la hemos visto [^ballad]. En 2014, una especialista francesa, en su biografía de Jean-Philippe Rameau (1683 a 1764), sostuvo que el canon es suyo [^aleteia][^slippedisc][^loc-rameau][^imslp-rameaudates]. Según lo que contó la prensa, un manuscrito de 86 cánones de la Bibliothèque nationale de France, reunido por el coleccionista Jacques Joseph Marie Decroix, nombra a Rameau como compositor del canon, y unas páginas manuscritas encuadernadas con el Diapason général de Louis-Joseph Francoeur, un tratado de 1772, mencionan cuatro cánones de Rameau, entre ellos este [^aleteia][^slippedisc][^imslp-rameau]. IMSLP fecha esas páginas solo hacia 1772, el año del tratado, y cataloga el canon como atribuido a Rameau, no como suyo con certeza [^imslp-rameau]. La atribución es una tesis, no un hecho establecido.
+**Antes de la imprenta.** Nadie sabe quién compuso la melodía. El historiador de las partituras James Fuld informó de una copia manuscrita de la melodía de hacia 1780, con otro título; no la hemos visto [^ballad]. En 2014, una especialista francesa, en su biografía de Jean-Philippe Rameau (1683 a 1764), sostuvo que el canon es suyo [^aleteia][^slippedisc][^loc-rameau][^imslp-rameaudates]. Según la prensa, un manuscrito de 86 cánones de la Bibliothèque nationale de France, reunido por el coleccionista Jacques Joseph Marie Decroix, nombra a Rameau como compositor del canon, y unas páginas manuscritas encuadernadas con el Diapason général de Louis-Joseph Francoeur, un tratado de 1772, mencionan cuatro cánones de Rameau, entre ellos este [^aleteia][^slippedisc][^imslp-rameau]. IMSLP fecha esas páginas solo hacia 1772, el año del tratado, y cataloga el canon como atribuido a Rameau, no como suyo con certeza [^imslp-rameau]. La atribución es una tesis, no un hecho establecido.
 
-**La primera impresión conocida.** En 1811, Pierre Capelle, que firmó la portada solo como "C***, du Caveau moderne", publicó en París La Clé du Caveau: un libro con cientos de melodías numeradas, para que los aficionados a la canción que vivían lejos de París pudieran encontrar la melodía con la que se cantaba cada canción [^cle1811][^ballad]. El número 726, en la página 309, es nuestra melodía: una línea de notas en Sol, marcada con un 2, dos tiempos por compás, sin letra, que empieza a mitad de compás [^cle1811]. La tabla de melodías la llama "Air des Matines du frère Jacques, ou frère Jacques, dormez-vous?", el aire de los maitines del hermano Jacques, o "Hermano Jacques, ¿duermes?" [^cle1811]. Su prefacio explica que ese "timbre" nombra una melodía por el primer verso de su canción, así que la letra francesa ya se conocía en 1811, aunque la página no imprime ninguna [^cle1811].
+**La primera impresión conocida.** En 1811, Pierre Capelle, que firmó la portada solo como "C***, du Caveau moderne", publicó en París La Clé du Caveau: un libro con cientos de melodías numeradas, para que los aficionados a la canción que vivían lejos de París pudieran encontrar la melodía con la que se cantaba cada canción [^cle1811][^ballad]. El número 726, en la página 309, es nuestra melodía: una línea de notas en Sol, marcada con un 2 (dos tiempos por compás), sin letra, que empieza a mitad de compás [^cle1811]. La tabla de melodías la llama "Air des Matines du frère Jacques, ou frère Jacques, dormez-vous?", el aire de los maitines del hermano Jacques, o "Hermano Jacques, ¿duermes?" [^cle1811]. Su prefacio explica que ese "timbre" designa una melodía por el primer verso de su canción, así que la letra francesa ya se conocía en 1811, aunque la página no imprime ninguna [^cle1811].
 
 ![[1]]
 
-**"Todo el mundo lo conoce".** En 1817, un libro de vidas de Haydn, Mozart y Metastasio, salido en 1814 con el seudónimo de Bombet y después impreso con el nombre de Stendhal, explicaba la fuga en una nota al pie: todo el mundo conoce el canon de "Frère Jacques, dormez-vous? Sonnez les matines" (hermano Jacques, ¿duermes? Toca la campana de maitines), y eso es una especie de fuga [^stendhal1817][^stendhal-levy]. François-Joseph Fétis, director del Conservatorio de Bruselas, dijo lo mismo en su guía de la música, impresa en Bruselas en 1839 y en París en 1847: todo el mundo conoce el canon que empieza "Frère Jacques, dormez-vous?" [^fetis1839][^fetis1847].
+**"Todo el mundo lo conoce".** En 1817, un libro de vidas de Haydn, Mozart y Metastasio, publicado en 1814 con el seudónimo de Bombet y después impreso con el nombre de Stendhal, explicaba la fuga en una nota al pie: todo el mundo conoce el canon de "Frère Jacques, dormez-vous? Sonnez les matines" (hermano Jacques, ¿duermes? Toca la campana de maitines), y eso es una especie de fuga [^stendhal1817][^stendhal-levy]. François-Joseph Fétis, director del Conservatorio de Bruselas, dijo lo mismo en su guía de la música, impresa en Bruselas en 1839 y en París en 1847: todo el mundo conoce el canon que empieza "Frère Jacques, dormez-vous?" [^fetis1839][^fetis1847].
 
-**Letra y melodía juntas.** James Fuld, según lo recoge el Ballad Index, fechó en 1860 la impresión más antigua de la letra y la música juntas; no hemos visto esa impresión [^ballad]. La página más antigua con la letra francesa y la melodía juntas que hemos leído está en Vieilles chansons pour les petits enfants, viejas canciones para niños pequeños, publicado en París en 1883 con partes de piano de Charles-Marie Widor [^widor1883][^met1883]. En las páginas 18 y 19 es un canon para tres voces en Sol, cada una entrando dos compases después de la anterior, sobre un bajo de piano sencillo, y lo enmarca un dibujo de cinco campanas en un campanario, con frailes tirando de las cuerdas [^widor1883].
+**Letra y melodía juntas.** James Fuld, según recoge el Ballad Index, fechó en 1860 la impresión más antigua de la letra y la música juntas; no hemos visto esa impresión [^ballad]. La página más antigua con la letra francesa y la melodía juntas que hemos visto está en Vieilles chansons pour les petits enfants (viejas canciones para niños pequeños), publicado en París en 1883 con partes de piano de Charles-Marie Widor [^widor1883][^met1883]. En las páginas 18 y 19 aparece como canon a tres voces en Sol, en el que cada una entra dos compases después de la anterior, sobre un bajo de piano sencillo, y lo enmarca un dibujo de cinco campanas en un campanario, con frailes tirando de las cuerdas [^widor1883].
 
 ![[2]]
 
-**La letra inglesa.** "Jacques" es la forma francesa de James (en español, Jacobo, Santiago o Jaime), no de John (Juan) [^yonge]. No se sabe quién lo pasó al inglés. La impresión más antigua en inglés que hemos encontrado está en The Gem, un cancionero para escuelas publicado en Filadelfia por la Hall-Mack Company en 1911, que no nombra a ningún editor [^gem1911]. Su n.º 30, "Brother James" (hermano James), es un canon "Arranged from the Swiss" (arreglado de lo suizo) para cuatro voces: "Are you sleeping, are you sleeping, Brother James, Brother James?", con las campanas como "Ding Dong Ding" [^gem1911]. La impresión más antigua de la letra de "Brother John" que hemos encontrado está en una revista para maestros, Normal Instructor and Primary Plans, de febrero de 1916. El educador musical Peter W. Dykema la imprimió entre cinco cánones para una National Week of Song (semana nacional de la canción) en torno al cumpleaños de Washington [^normal1916]. En 1919, la State Normal School (escuela de maestros) de Emporia, en Kansas, imprimió la misma letra en su Book of Songs, la página de la que la cantamos [^emporia1919].
+**La letra inglesa.** "Jacques" es la forma francesa de James (en español, Jacobo, Santiago o Jaime), no de John (Juan) [^yonge]. No se sabe quién lo tradujo al inglés. La impresión más antigua en inglés que hemos encontrado está en The Gem, un cancionero para escuelas publicado en Filadelfia por la Hall-Mack Company en 1911, que no nombra a ningún editor [^gem1911]. Su n.º 30, "Brother James" (hermano James), es un canon "Arranged from the Swiss" (arreglo sobre un original suizo) para cuatro voces: "Are you sleeping, are you sleeping, Brother James, Brother James?", con las campanas como "Ding Dong Ding" [^gem1911]. La impresión más antigua de la letra de "Brother John" que hemos encontrado está en una revista para maestros, Normal Instructor and Primary Plans, de febrero de 1916. El educador musical Peter W. Dykema la imprimió entre cinco cánones para una National Week of Song (semana nacional de la canción) en torno al cumpleaños de Washington [^normal1916]. En 1919, la State Normal School (escuela de maestros) de Emporia, en Kansas, imprimió la misma letra en su Book of Songs, la página de la que tomamos nuestra letra [^emporia1919].
 
 ![[3]]
 
@@ -48,7 +48,7 @@ Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleepin
 - hacia 1780: James Fuld informa de una copia manuscrita de la melodía, con otro título [^ballad]
 - 1811: La Clé du Caveau, en París, imprime la melodía como aire n.º 726, la primera impresión conocida [^cle1811][^ballad]
 - 1817: un libro sobre Haydn y Mozart lo llama el canon que todo el mundo conoce [^stendhal1817]
-- 1883: Vieilles chansons pour les petits enfants, de Widor, pone la letra en canon para tres voces [^widor1883][^met1883]
+- 1883: Vieilles chansons pour les petits enfants, de Widor, presenta la letra en canon a tres voces [^widor1883][^met1883]
 - 1889: la Primera Sinfonía de Mahler, con el canon como marcha fúnebre en menor, se estrena en Budapest [^sfs][^bso]
 - 1911: The Gem, un cancionero escolar de Filadelfia, imprime el canon en inglés como Brother James [^gem1911]
 - 1916: la letra de Brother John se imprime para la National Week of Song de Estados Unidos [^normal1916]
@@ -56,19 +56,19 @@ Frère Jacques, que en inglés se canta como Are You Sleeping? o Are You Sleepin
 
 ## Qué dice la letra
 
-**El hermano Jacques.** "Frère" significa hermano. En francés era también el nombre habitual de cualquier religioso que no fuera sacerdote, como en "Frère Antoine" [^academie-frere]. La palabra inglesa "friar" (fraile) viene de ahí [^webster-friar]. Así que Frère Jacques es un fraile o un hermano lego llamado Jacques.
+**El hermano Jacques.** "Frère" significa hermano. En francés era también el tratamiento habitual de cualquier religioso que no fuera sacerdote, como en "Frère Antoine" [^academie-frere]. La palabra inglesa "friar" (fraile) viene de ahí [^webster-friar]. Así que Frère Jacques es un fraile o un hermano lego llamado Jacques.
 
 **"Dormez-vous?"** ¿Duermes? Los cantantes lo están despertando.
 
-**"Sonnez les matines."** Toca la campana de maitines. Maitines era la primera parte del ciclo diario de oración en una iglesia o un monasterio: salmos y lecturas que se rezaban de noche [^academie-matines][^catholic-matins]. El diccionario de la Académie française de 1835 da como ejemplo, precisamente, "Sonner les matines" [^academie-matines]. Tocarla es tarea del hermano, y se ha quedado dormido.
+**"Sonnez les matines."** Toca la campana de maitines. Los maitines eran la primera hora del ciclo diario de oración en una iglesia o un monasterio: salmos y lecturas que se rezaban de noche [^academie-matines][^catholic-matins]. El diccionario de la Académie française de 1835 pone como ejemplo, precisamente, "Sonner les matines" [^academie-matines]. Tocarla es tarea del hermano, y se ha quedado dormido.
 
 **"Din, din, don."** La campana misma [^widor1883].
 
-**Lo que cambió el inglés.** En inglés, "Morning bells are ringing" (las campanas de la mañana están sonando): las campanas ya suenan, y el dormido llega tarde [^gem1911][^normal1916]. "Jacques" pasó a ser John, aunque el nombre corresponde a James, como lo tenía The Gem en 1911 [^yonge][^gem1911]. Nuestra página de 1919 imprime "ding, ding, dong", y The Gem, "Ding Dong Ding"; nosotros cantamos "ding, dang, dong" [^emporia1919][^gem1911].
+**Lo que cambió el inglés.** En inglés, "Morning bells are ringing" (las campanas de la mañana están sonando): las campanas ya suenan, y el dormido llega tarde [^gem1911][^normal1916]. "Jacques" pasó a ser John, aunque el nombre corresponde a James, como figuraba en The Gem en 1911 [^yonge][^gem1911]. Nuestra página de 1919 imprime "ding, ding, dong", y The Gem, "Ding Dong Ding"; nosotros cantamos "ding, dang, dong" [^emporia1919][^gem1911].
 
 ### La letra francesa
 
-Esta es la letra tal como se imprimió en las páginas 18 y 19 de Vieilles chansons pour les petits enfants (París, 1883), con nuestra traducción sencilla al español bajo cada verso [^widor1883]. Dicho de forma aproximada, el francés suena "frer YAK, dor-mé VU? so-NÉ le ma-TÍN", con la j de Jacques como la ll rioplatense: Jacques tiene una sola sílaba, y no se pronuncian las terminaciones "-ues" de Jacques, "-s" de vous ni "-es" de matines [^littre].
+Esta es la letra tal como se imprimió en las páginas 18 y 19 de Vieilles chansons pour les petits enfants (París, 1883), con nuestra traducción sencilla al español bajo cada verso [^widor1883]. Pronunciado de forma aproximada, el francés suena "frer YAK, dor-mé VU? so-NÉ le ma-TÍN", con la j de Jacques como la ll rioplatense: Jacques tiene una sola sílaba, y no se pronuncian las terminaciones "-ues" de Jacques, "-s" de vous ni "-es" de matines [^littre].
 
 > Frère Jacques, Frère Jacques,
 Hermano Jacques, hermano Jacques,
@@ -81,7 +81,7 @@ toca la campana de maitines, toca la campana de maitines,
 
 ### La letra completa
 
-Esta es la letra tal como se imprimió en el Book of Songs de la State Normal School de Emporia, Kansas (Topeka, 1919), n.º 16, "Are You Sleeping? (4-part.)", la página de la que se lee nuestra letra. Es tradicional, y el libro no nombra a ningún autor ni editor; impresa en Estados Unidos en 1919, antes de 1931, es de dominio público.
+Esta es la letra tal como se imprimió en el Book of Songs de la State Normal School de Emporia, Kansas (Topeka, 1919), n.º 16, "Are You Sleeping? (4-part.)", la página de la que tomamos nuestra letra. Es tradicional, y el libro no nombra autor ni editor; como se imprimió en Estados Unidos en 1919, antes de 1931, es de dominio público.
 
 > Are you sleeping, are you sleeping?
 ¿Estás durmiendo, estás durmiendo?
@@ -94,28 +94,28 @@ din, din, don, din, din, don.
 
 ## Cómo se canta
 
-**En canon.** En un canon, cada cantante empieza la misma melodía a una distancia fija del anterior [^grove-round]. La página de Widor de 1883 hace entrar tres voces, a dos compases de distancia [^widor1883]. The Gem, en 1911, numera cuatro, a dos compases de distancia, y propone cantarlo cuatro veces, con cada voz que termina repitiendo "Ding Dong Ding" hasta que la última se une a un acorde final suave [^gem1911]. En 1916 se propuso para escuelas y reuniones de canto comunitario, y más tarde lo conservaron los cancioneros de los Scouts y de los clubes 4-H [^normal1916][^ballad][^scouts1931].
+**En canon.** En un canon, cada cantante empieza la misma melodía a una distancia fija del anterior [^grove-round]. La página de Widor de 1883 hace entrar tres voces, a dos compases de distancia [^widor1883]. The Gem, en 1911, numera cuatro, a dos compases de distancia, y propone cantarlo cuatro veces; cada voz, al terminar, repite "Ding Dong Ding" hasta que la última se une a un acorde final suave [^gem1911]. En 1916 se recomendó para escuelas y reuniones de canto comunitario, y más tarde lo recogieron los cancioneros de los Scouts y de los clubes 4-H [^normal1916][^ballad][^scouts1931].
 
-**Lo que canta nuestro arreglo.** Nuestra melodía sigue la página de The Gem nota por nota, un tono más grave, en Mi bemol en lugar de su Fa, en el mismo 4/4 y con las mismas entradas [^gem1911]; nuestra letra es la de la página de Emporia de 1919 [^emporia1919]. La soprano empieza sola; la contralto entra dos compases después a la misma altura; luego el tenor y después el bajo, cada uno dos compases después del anterior y una octava más grave. Todos cantan la melodía dos veces de principio a fin, donde The Gem propone cuatro, y las voces terminan una a una, así que el bajo acaba solo. Acortamos "John" y los tres primeros "dong" a un solo tiempo, con una respiración donde The Gem sostiene una blanca, y cantamos "ding, dang, dong" en lugar de "ding, ding, dong".
+**Lo que canta nuestro arreglo.** Nuestra melodía sigue la página de The Gem nota por nota, transportada un tono más abajo, a Mi bemol en lugar de su Fa, en el mismo 4/4 y con las mismas entradas [^gem1911]; nuestra letra es la de la página de Emporia de 1919 [^emporia1919]. La soprano empieza sola; la contralto entra dos compases después, en las mismas notas; luego el tenor y después el bajo, cada uno dos compases después del anterior y una octava más grave. Todos cantan la melodía dos veces de principio a fin, donde The Gem propone cuatro, y las voces terminan una a una, así que el bajo acaba solo. Acortamos "John" y los tres primeros "dong" a un solo tiempo, con una respiración donde The Gem sostiene una blanca, y cantamos "ding, dang, dong" en lugar de "ding, ding, dong".
 
 ![[4]]
 
 ## Versiones y otras letras
 
-- **La marcha fúnebre de Mahler.** El tercer movimiento de la Primera Sinfonía de Gustav Mahler, estrenada en Budapest el 20 de noviembre de 1889, toma el canon y lo pasa a una sombría tonalidad menor, como marcha fúnebre "a la manera de Callot" [^sfs][^bso]. Mahler lo mantiene como canon: la melodía pasa de un contrabajo solo al fagot y a la tuba [^bso][^gustavmahler].
-- **Nuevas letras para el mismo canon.** Bajo el canon, Rodeheaver's Sociability Songs (Chicago, 1928) ofrece cuatro letras más "to the above round" (para el canon de arriba): Cheer Up, Black-eyed Susan!, Rheumatism y Perfect Posture [^rodeheaver1928].
+- **La marcha fúnebre de Mahler.** El tercer movimiento de la Primera Sinfonía de Gustav Mahler, estrenada en Budapest el 20 de noviembre de 1889, toma el canon y lo lleva a una sombría tonalidad menor, como marcha fúnebre "a la manera de Callot" [^sfs][^bso]. Mahler lo mantiene como canon: la melodía pasa de un contrabajo solo al fagot y a la tuba [^bso][^gustavmahler].
+- **Nuevas letras para el mismo canon.** Debajo del canon, Rodeheaver's Sociability Songs (Chicago, 1928) ofrece cuatro letras más "to the above round" (para el canon de arriba): Cheer Up, Black-eyed Susan!, Rheumatism y Perfect Posture [^rodeheaver1928].
 
 ## ¿Sabías que...?
 
 - El cancionero de Rodeheaver de 1928 imprime Three Blind Mice y Are You Sleeping uno encima del otro, los dos en Mi bemol, con una nota que dice que los dos cánones pueden cantarse a la vez [^rodeheaver1928].
-- Fétis puso Frère Jacques entre los cánones que antes se cantaban en la mesa, la mayoría de los cuales, decía, tenían letras cómicas o subidas de tono [^fetis1839][^fetis1847].
+- Fétis incluyó Frère Jacques entre los cánones que antes se cantaban en la sobremesa, que en su mayoría, decía, tenían letras cómicas o subidas de tono [^fetis1839][^fetis1847].
 
 ## Cómo cantarla
 
 - [Soprano](/songs/are-you-sleeping/soprano): empiezas el canon en solitario y llevas la melodía dos veces de principio a fin, así que los demás la oyen primero. Tu nota más aguda es el Do en el "-ing" de "Morning", y la más grave, el Si bemol de cada "dang". "Morning bells are" es la parte rápida, dos notas por tiempo.
-- [Contralto](/songs/are-you-sleeping/alto): la misma melodía a la misma altura, dos compases después de la soprano: nada nuevo que aprender. Lo difícil es no perder tu sitio: cuando empiezas "Are you sleeping", la soprano ya está en "Brother John".
+- [Contralto](/songs/are-you-sleeping/alto): la misma melodía en las mismas notas, dos compases después de la soprano: nada nuevo que aprender. Lo difícil es no perder tu sitio: cuando empiezas "Are you sleeping", la soprano ya está en "Brother John".
 - [Tenor](/songs/are-you-sleeping/tenor): la misma melodía una octava más grave, dos compases después de la contralto, desde el Si bemol grave de "dang" hasta el Do central en el "-ing" de "Morning".
-- [Bajo](/songs/are-you-sleeping/bass): la melodía grave del tenor, entrando en último lugar, dos compases después de él; desde tu entrada, las cuatro líneas suenan a la vez. Terminas en solitario con el verso de las campanas, "ding, dang, dong" dos veces.
+- [Bajo](/songs/are-you-sleeping/bass): la misma melodía grave del tenor; entras en último lugar, dos compases después de él; desde tu entrada, las cuatro líneas suenan a la vez. Terminas en solitario con el verso de las campanas, "ding, dang, dong" dos veces.
 
 ## Preguntas
 
@@ -125,15 +125,15 @@ Nadie lo sabe con certeza. James Fuld informó de una copia manuscrita de hacia 
 
 ### ¿Qué significa Frère Jacques en español?
 
-"Frère Jacques" significa hermano Jacques, un fraile. La letra le pregunta "¿Duermes?" y le dice "Toca la campana de maitines", las oraciones de la noche para las que debería estar despertando a la comunidad [^academie-frere][^academie-matines][^widor1883]. El último verso es la campana: "din, din, don". La versión inglesa lo llama Brother John y tiene las campanas de la mañana ya sonando [^normal1916].
+"Frère Jacques" significa hermano Jacques, un fraile. La letra le pregunta "¿Duermes?" y le dice "Toca la campana de maitines", las oraciones nocturnas a las que debería estar llamando a la comunidad [^academie-frere][^academie-matines][^widor1883]. El último verso es la campana: "din, din, don". La versión inglesa lo llama Brother John, y en ella las campanas de la mañana ya están sonando [^normal1916].
 
 ### ¿Tiene Frère Jacques un significado oscuro?
 
-No, por lo que muestran los documentos. Una historia la relaciona con Frère Jacques, un cirujano de cálculos del siglo XVII que se vestía de monje [^mentalfloss][^ganem1999]. Existió, pero los urólogos que estudiaron su carrera en 1999 no encontraron ningún vínculo directo con la canción [^ganem1999][^douglas1726]. La letra misma, ya impresa en 1817, habla de un fraile que se queda dormido y de una campana [^stendhal1817][^widor1883].
+No, por lo que muestran los documentos. Una historia la relaciona con Frère Jacques, un cirujano del siglo XVII especialista en cálculos que se vestía de monje [^mentalfloss][^ganem1999]. Existió, pero los urólogos que estudiaron su carrera en 1999 no encontraron ningún vínculo directo con la canción [^ganem1999][^douglas1726]. La letra misma, ya impresa en 1817, habla de un fraile que se queda dormido y de una campana [^stendhal1817][^widor1883].
 
 ### ¿Es Frère Jacques un canon?
 
-Sí. Lo que en inglés se llama "round" es un canon al unísono: cada cantante canta la misma melodía, empezando a distancias fijas [^grove-round]. Hubo autores que llamaron canon a Frère Jacques en 1817 y en 1839 [^stendhal1817][^fetis1839], y la página de Widor de 1883 lo pone para tres voces que entran a dos compases de distancia [^widor1883].
+Sí. Lo que en inglés se llama "round" es un canon al unísono: cada cantante canta la misma melodía, empezando a distancias fijas [^grove-round]. Hubo autores que llamaron canon a Frère Jacques en 1817 y en 1839 [^stendhal1817][^fetis1839], y la página de Widor de 1883 lo presenta a tres voces que entran a dos compases de distancia [^widor1883].
 
 ### ¿Qué voz canta la melodía?
 

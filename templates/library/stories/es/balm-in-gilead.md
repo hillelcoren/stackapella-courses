@@ -23,13 +23,13 @@ listen: Internet Archive, grabación de 1909 de un cuarteto masculino de la Fisk
 original: Religious Folk-Songs of the Negro as Sung at Hampton Institute (1927), biblioteca del Princeton Theological Seminary | https://archive.org/details/religiousfolkson00dett
 ---
 
-There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaad), es un espiritual afroamericano (en inglés, spiritual) de consuelo [^canterbury][^dett1927]. En la Biblia, el profeta Jeremías pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico?". El estribillo del espiritual responde que sí lo hay: un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^kjv][^canterbury][^dett1927]. Entre estribillos, una sola voz canta una estrofa sobre el desánimo y sobre volver a levantarse [^work1907][^dett1927]. No se conoce el nombre de quien lo hizo [^canterbury][^hymnary-text]. Su primera impresión conocida está en un cancionero de 1907 de Nashville, hecho por dos hermanos de la Universidad Fisk, y hoy lo imprimen los himnarios de muchas iglesias [^work1907][^hymnarchive][^hymnary-text].
+There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaad), es un espiritual afroamericano de consuelo (en inglés, spiritual) [^canterbury][^dett1927]. En la Biblia, el profeta Jeremías pregunta: "¿No hay bálsamo en Galaad? ¿no hay allí médico?". El estribillo del espiritual responde que sí lo hay: un bálsamo "To make the wounded whole" (que sana al herido) y "To heal the sin-sick soul" (que cura el alma enferma de pecado) [^kjv][^canterbury][^dett1927]. Entre estribillo y estribillo, una sola voz canta una estrofa sobre el desánimo y sobre volver a levantarse [^work1907][^dett1927]. No se sabe quién lo compuso [^canterbury][^hymnary-text]. Su primera impresión conocida aparece en un cancionero publicado en Nashville en 1907 por dos hermanos de la Universidad Fisk, y hoy lo imprimen los himnarios de muchas iglesias [^work1907][^hymnarchive][^hymnary-text].
 
 ## De dónde viene
 
-**Las rimas de Newton, 1779.** Las rimas del estribillo son más antiguas que el espiritual. En Olney Hymns (1779), "The good Physician" (el buen Médico), de John Newton, n.º 62 del libro I, dice que "There is but one Physician / Can cure a sin-sick soul" (solo hay un Médico que pueda curar un alma enferma de pecado) [^olney1779][^cdh-newton]. Más adelante en el libro I, el n.º 113, un himno sobre el estanque sanador de Betesda, tiene corrientes que fluyen "To heal a sin-sick soul" (para curar un alma enferma de pecado) y "make the wounded whole" (y sanar al herido) [^olney1779]. El estudio de un himnólogo señala estos dos himnos como las raíces de la letra del espiritual [^hymnarchive].
+**Las rimas de Newton, 1779.** Las rimas del estribillo son más antiguas que el espiritual. En Olney Hymns (1779), "The good Physician" (el buen Médico), de John Newton, n.º 62 del libro I, dice que "There is but one Physician / Can cure a sin-sick soul" (solo hay un Médico que pueda curar un alma enferma de pecado) [^olney1779][^cdh-newton]. Más adelante en el libro I, el n.º 113, un himno sobre el estanque sanador de Betesda, habla de corrientes que fluyen "To heal a sin-sick soul" (para curar un alma enferma de pecado) y "make the wounded whole" (y sanar al herido) [^olney1779]. El estudio de un himnólogo señala estos dos himnos como las raíces de la letra del espiritual [^hymnarchive].
 
-**Un coro en los libros de avivamiento.** Para 1859, esos versos ya se habían convertido en un coro. Sacred Melodies for Social Worship (Nueva York, 1859), de Hiram Mattison, imprime "The good Physician" de Newton como n.º 82, con el encabezado "Balm in Gilead" y un coro: "There's a balm in Gilead To make the wounded whole; There's power enough in Jesus, To cure a sin-sick soul" (hay un bálsamo en Galaad que sana al herido; hay poder de sobra en Jesús para curar un alma enferma de pecado) [^mattison1859][^hymnarchive]. The Revivalist (Troy, Nueva York, 1868), de Joseph Hillman, imprime el mismo himno y el mismo coro como n.º 15 [^hillman1868][^hymnarchive]. El estudio encuentra la melodía de Hillman mucho más cercana a la del espiritual [^hymnarchive].
+**Un coro en los libros de avivamiento.** En 1859, esos versos ya se habían convertido en un coro. Sacred Melodies for Social Worship (Nueva York, 1859), de Hiram Mattison, imprime "The good Physician" de Newton como n.º 82, con el encabezado "Balm in Gilead" y un coro: "There's a balm in Gilead To make the wounded whole; There's power enough in Jesus, To cure a sin-sick soul" (hay un bálsamo en Galaad que sana al herido; hay poder de sobra en Jesús para curar un alma enferma de pecado) [^mattison1859][^hymnarchive]. The Revivalist (Troy, Nueva York, 1868), de Joseph Hillman, imprime el mismo himno y el mismo coro como n.º 15 [^hillman1868][^hymnarchive]. El estudio encuentra la melodía de Hillman mucho más cercana a la del espiritual [^hymnarchive].
 
 ![[1]]
 
@@ -37,9 +37,9 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 
 **Del himnario al espiritual.** No consta cómo se unieron estos versos en las iglesias afroamericanas. El estudio del himnólogo sugiere que pasaron de oído entre cantantes afroamericanos a finales del siglo XIX, y el Canterbury Dictionary fecha el espiritual en el siglo XIX [^hymnarchive][^canterbury]. Ninguna fuente de las que hemos leído muestra que se cantara en tiempos de la esclavitud, ni dice quién lo cantó primero.
 
-**El libro de los hermanos Work, 1907.** Su primera impresión conocida en la forma que se canta hoy está en Folk Songs of the American Negro, Number One, editado por Frederick J. Work y publicado en Nashville por Work Bros. & Hart Co., con una introducción de su hermano John W. Work fechada en la Universidad Fisk el 15 de mayo de 1907 [^work1907][^cdh-fjwork][^folklorists]. Los agradecimientos del libro dan las gracias a John, durante años director de los Jubilee Singers de Fisk, por haber recogido las canciones [^work1907][^folklorists]. En la página 31 está "Balm in Gilead", en Mi mayor y en 2/4, a cuatro voces en dos pentagramas: el estribillo con su repetición, luego tres estrofas para una sola voz mientras el pentagrama inferior calla, y otra vez el estribillo [^work1907][^work1915].
+**El libro de los hermanos Work, 1907.** La primera impresión conocida en la forma en que se canta hoy aparece en Folk Songs of the American Negro, Number One, editado por Frederick J. Work y publicado en Nashville por Work Bros. & Hart Co., con una introducción de su hermano John W. Work fechada en la Universidad Fisk el 15 de mayo de 1907 [^work1907][^cdh-fjwork][^folklorists]. En los agradecimientos, el libro da las gracias a John, durante años director de los Jubilee Singers de Fisk, por haber recogido las canciones [^work1907][^folklorists]. En la página 31 está "Balm in Gilead", en Mi mayor y en 2/4, a cuatro voces en dos pentagramas: el estribillo con su repetición, luego tres estrofas para una sola voz mientras el pentagrama inferior calla, y otra vez el estribillo [^work1907][^work1915].
 
-**En disco, 1909.** El 9 de diciembre de 1909, un cuarteto masculino de Fisk, con John Wesley Work entre sus miembros, lo grabó para Victor, y salió como Victor 16487 [^jukebox1909][^victor1912][^hymnarchive]. En su propio libro de 1915, Folk Song of the American Negro, John W. Work lo cuenta entre las canciones "basadas directamente en pasajes de las Escrituras", junto a Jeremías 8:22, y vuelve a imprimir la armonización de 1907 [^work1915].
+**En disco, 1909.** El 9 de diciembre de 1909, un cuarteto masculino de Fisk, con John Wesley Work entre sus miembros, lo grabó para Victor, y el disco salió como Victor 16487 [^jukebox1909][^victor1912][^hymnarchive]. En su propio libro de 1915, Folk Song of the American Negro, John W. Work lo cuenta entre las canciones "basadas directamente en pasajes de las Escrituras", junto a Jeremías 8:22, y vuelve a imprimir la armonización de 1907 [^work1915].
 
 ![[2]]
 
@@ -50,7 +50,7 @@ There Is a Balm in Gilead, a menudo llamado Balm in Gilead (el bálsamo de Galaa
 ### Cronología
 
 - 1779: Olney Hymns, de Newton, rima "whole" con "sin-sick soul" en dos himnos [^olney1779][^cdh-newton]
-- 1859: Sacred Melodies, de Mattison, da al himno de Newton el coro "There's a balm in Gilead" [^mattison1859][^hymnarchive]
+- 1859: Sacred Melodies, de Mattison, añade al himno de Newton el coro "There's a balm in Gilead" [^mattison1859][^hymnarchive]
 - 1868: The Revivalist, de Hillman, imprime el himno y el coro como n.º 15 [^hillman1868][^hymnarchive]
 - 1869: Songs of Gladness, de Gould, imprime "Your Mission", de Daniel March [^gould1869][^hymnarchive]
 - 1907: Folk Songs of the American Negro, de Frederick J. Work, imprime el espiritual, p. 31 [^work1907][^hymnary-fsan][^hymnarchive]
@@ -122,21 +122,21 @@ puedes decir: "Él murió por todos".
 
 Es un canto de iglesia de consuelo y de sanación, sin una época fija del año. Dett lo puso entre sus "Hymns of Consolation" (himnos de consuelo), y The United Methodist Hymnal lo clasifica en temas como la sanación ("Healing") y la seguridad de la fe ("Assurance") [^dett1927][^hymnary-umh]. Lo imprimen himnarios metodistas, episcopales, luteranos, presbiterianos, bautistas y afroamericanos, con su melodía llamada BALM IN GILEAD y su métrica irregular [^hymnary-text][^hymnary-umh].
 
-Un espiritual folclórico se canta de oído y cambia de un lugar a otro; un espiritual de concierto se escribe y se arregla para cantantes formados. Las páginas de 1907 y de 1927 están entre los dos: escritas a cuatro voces para cuartetos y coros, pero tomadas de la manera en que cantaban los estudiantes. Dett dudaba en fiarse de los arreglos más nuevos, incluso de los de estudiantes afroamericanos de su tiempo, y esperaba que su libro conservara las melodías "en su marco natural y sin empañar" [^dett1927].
+Un espiritual folclórico se canta de oído y cambia de un lugar a otro; un espiritual de concierto se escribe y se arregla para cantantes formados. Las páginas de 1907 y de 1927 están a medio camino entre los dos: escritas a cuatro voces para cuartetos y coros, pero tomadas de la manera en que cantaban los estudiantes. Dett desconfiaba de los arreglos más nuevos, incluso de los de estudiantes afroamericanos de su tiempo, y esperaba que su libro conservara las melodías "en su marco natural y sin empañar" [^dett1927].
 
-Nuestro arreglo, para 2 a 4 cantantes, mantiene las cuatro voces del propio Dett un tono más abajo, en La, a sus 60 pulsos por minuto. Todos cantan el estribillo, dos veces seguidas cada vez. Entre estribillos, la soprano canta sola la estrofa 1 y luego la estrofa 3; la estrofa 2 se omite para no alargar la canción. Las notas sostenidas de Dett en "whole,", en el primer "soul." y en el "gain." de la estrofa quedan escritas con su duración, se añaden algunas respiraciones para principiantes, y el bajo canta una octava más arriba la única nota muy grave de Dett, en "sick".
+Nuestro arreglo, para 2 a 4 cantantes, mantiene las cuatro voces del propio Dett un tono más abajo, en La, a sus 60 pulsos por minuto. Todos cantan el estribillo, dos veces seguidas cada vez. Entre estribillo y estribillo, la soprano canta sola la estrofa 1 y luego la estrofa 3; la estrofa 2 se omite para no alargar la canción. Las notas que Dett alarga en "whole,", en el primer "soul." y en el "gain." de la estrofa quedan escritas con su duración, se añaden algunas respiraciones para principiantes, y el bajo canta una octava más arriba la única nota muy grave de Dett, en "sick".
 
 ## ¿Sabías que...?
 
-- La página de Mattison de 1859 pide a los cantantes que canten el coro dos veces después de cada estrofa; la página de Dett de 1927 también hace sonar el estribillo dos veces, con un signo de repetición [^mattison1859][^dett1927].
+- La página de Mattison de 1859 pide a los cantantes que canten el coro dos veces después de cada estrofa; la página de Dett de 1927 también hace repetir el estribillo con un signo de repetición [^mattison1859][^dett1927].
 - John Wesley Work, que cantó en la grabación del cuarteto de Fisk de 1909, era hermano de Frederick J. Work, cuyo libro había impreso la canción dos años antes [^jukebox1909][^victor1912][^work1907][^cdh-fjwork].
 
 ## Cómo cantarla
 
 - [Soprano](/songs/balm-in-gilead/soprano): llevas la melodía, sobre todo en el La y el Do sostenido, y cantas en solitario las dos estrofas. Solo allí llegas a tu Mi agudo: en el "-aged" de "discouraged,", en "work's" y en el "-it" de "Spirit" en la primera estrofa, y en el "-ter" de "Peter,", en "pray" y en el "-sus" de "Jesus," en la segunda. En el estribillo bajas a tu Mi grave en cada "To" de "To heal the sin-sick soul".
 - [Contralto](/songs/balm-in-gilead/alto): callas durante las dos estrofas y cantas la voz de contralto de Dett en el estribillo, sobre todo en el Do sostenido y el Mi. Tu nota más aguda, Fa sostenido, llega en el "wound-" de cada "wounded", y como segunda nota de cada "whole," y del primer "soul." de cada estribillo.
-- [Tenor](/songs/balm-in-gilead/tenor): callas durante las dos estrofas y cantas el estribillo en solo tres notas, sobre todo en el La. Bajas a Mi en cada "in Gilead," salvo en su "-ad,", en "Balm" antes de cada "To make the wounded whole" y en el último "soul." de cada estribillo, y a Sol sostenido en cada "whole,", en el "There is a" que le sigue y en "sick" de cada "sin-sick".
-- [Bajo](/songs/balm-in-gilead/bass): cantas las fundamentales de los acordes de Dett en solo dos notas, un La grave cerca de tres cuartas partes del tiempo y el Mi por encima de él en cada "whole,", en el "There is a" que le sigue y en cada "sin-sick". Callas durante las dos estrofas.
+- [Tenor](/songs/balm-in-gilead/tenor): callas durante las dos estrofas y cantas el estribillo con solo tres notas, sobre todo en el La. Bajas a Mi en cada "in Gilead," salvo en su "-ad,", en "Balm" antes de cada "To make the wounded whole" y en el último "soul." de cada estribillo, y a Sol sostenido en cada "whole,", en el "There is a" que le sigue y en "sick" de cada "sin-sick".
+- [Bajo](/songs/balm-in-gilead/bass): cantas las fundamentales de los acordes de Dett con solo dos notas, un La grave cerca de tres cuartas partes del tiempo y el Mi por encima de él en cada "whole,", en el "There is a" que le sigue y en cada "sin-sick". Callas durante las dos estrofas.
 
 ## Preguntas
 
@@ -154,7 +154,7 @@ Nadie lo sabe. Es un espiritual afroamericano tradicional, cuya primera impresi�
 
 ### ¿Qué significa "balm in Gilead" en The Raven ("El cuervo")?
 
-En "The Raven" ("El cuervo"), de Edgar Allan Poe, impreso en febrero de 1845 y firmado "Quarles", el narrador, lleno de dolor, le suplica al pájaro que le diga si hay "balm in Gilead" (bálsamo en Galaad): si hay algún remedio para su pena. Toma prestada la pregunta de Jeremías, y el cuervo responde: "Nevermore" (nunca más) [^eapoe][^poe1845][^americanreview1845][^kjv].
+En "The Raven" ("El cuervo"), de Edgar Allan Poe, publicado en febrero de 1845 con la firma "Quarles", el narrador, lleno de dolor, le suplica al pájaro que le diga si hay "balm in Gilead" (bálsamo en Galaad): si hay algún remedio para su pena. Toma prestada la pregunta de Jeremías, y el cuervo responde: "Nevermore" (nunca más) [^eapoe][^poe1845][^americanreview1845][^kjv].
 
 ### ¿Qué voz canta la melodía?
 
@@ -162,8 +162,8 @@ La soprano. En nuestro arreglo lleva la melodía en cada estribillo sobre la arm
 
 ## Canta después
 
-- [Were You There](/songs/were-you-there): otro espiritual del libro de Hampton de Dett, lento y suave, con la soprano cantando sola.
-- [Deep River](/songs/deep-river): un espiritual lento a los mismos 60 pulsos por minuto, en una rica armonía a cuatro voces.
+- [Were You There](/songs/were-you-there): otro espiritual del libro de Hampton de Dett, lento y suave, en el que la soprano canta sola.
+- [Deep River](/songs/deep-river): un espiritual lento a los mismos 60 pulsos por minuto, con una rica armonía a cuatro voces.
 - [Amazing Grace](/songs/amazing-grace): la letra de John Newton, del mismo libro de 1779 cuyas rimas resuenan en el estribillo.
 
 ## Fuentes

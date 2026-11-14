@@ -23,35 +23,35 @@ searches: quién escribió praise to the lord the almighty | praise to the lord 
 translatedFrom: 10ae3b57959c
 ---
 
-Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lobe den Herren, den mächtigen König der Ehren, un himno alemán de gratitud de Joachim Neander, predicador y maestro reformado de Bremen, que en español se canta como "Alma, bendice al Señor" [^julian][^ndb][^hymnary-es]. Se imprimió en Bremen en 1680, el año en que murió Neander, con unos 30 años [^neander1680][^adb][^suub]. Su melodía, LOBE DEN HERREN, es más antigua: su primera impresión conocida está en un himnario de Stralsund de 1665 [^zahn][^dli]. Bach hizo de él una cantata en 1725 [^bachvereniging][^durr]. En inglés se canta la traducción de Catherine Winkworth, de 1863 [^cbe1863][^julian]. Y el valle cerca de Düsseldorf por el que paseaba Neander, que más tarde llevó su nombre, dio nombre a los neandertales [^kuladig][^si].
+Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lobe den Herren, den mächtigen König der Ehren, un himno alemán de gratitud de Joachim Neander, predicador y maestro reformado de Bremen, que en español se conoce como "Alma, bendice al Señor" [^julian][^ndb][^hymnary-es]. Se imprimió en Bremen en 1680, el año en que murió Neander, con unos 30 años [^neander1680][^adb][^suub]. Su melodía, LOBE DEN HERREN, es más antigua: su primera impresión conocida está en un himnario de Stralsund de 1665 [^zahn][^dli]. Bach compuso sobre él una cantata en 1725 [^bachvereniging][^durr]. En inglés se canta la traducción de Catherine Winkworth, de 1863 [^cbe1863][^julian]. Y el valle cercano a Düsseldorf por el que paseaba Neander, que más tarde recibió su nombre, se lo dio a los neandertales [^kuladig][^si].
 
 ## De dónde viene
 
-**El poeta.** Neander nació en Bremen en 1650 y desde 1666 estudió en su Gymnasium illustre, donde la predicación del pietista Theodor Undereyck lo llevó hacia una fe más personal [^julian-neander][^ndb]. Estudió en Heidelberg como preceptor, y se unió al círculo pietista de Spener en Fráncfort [^julian-neander][^ndb]. En 1674 pasó a ser rector de la escuela latina reformada de Düsseldorf, cargo que también lo hacía predicador allí [^julian-neander][^adb][^suub]. Sus reuniones privadas de oración, y que no acudiera al culto público, le valieron una breve suspensión y una declaración de sumisión firmada en febrero de 1677; la NDB fecha la suspensión en 1676 [^julian-neander][^adb][^ndb]. En 1679 volvió a Bremen como predicador auxiliar de la iglesia de San Martín [^julian-neander][^adb][^suub]. Antes de un año cayó enfermo (de qué, dice la ADB, no se sabe) y murió allí el 31 de mayo de 1680, lunes de Pentecostés [^adb][^ndb][^suub]. La ADB le da 30 años; la biblioteca de Bremen, 29 [^adb][^suub].
+**El poeta.** Neander nació en Bremen en 1650 y desde 1666 estudió en su Gymnasium illustre, donde la predicación del pietista Theodor Undereyck lo llevó hacia una fe más personal [^julian-neander][^ndb]. Estudió en Heidelberg como preceptor, y se unió al círculo pietista de Spener en Fráncfort [^julian-neander][^ndb]. En 1674 pasó a ser rector de la escuela latina reformada de Düsseldorf, cargo que también lo convertía en predicador [^julian-neander][^adb][^suub]. Sus reuniones privadas de oración y su ausencia del culto público le valieron una breve suspensión y una declaración de sumisión firmada en febrero de 1677; la NDB fecha la suspensión en 1676 [^julian-neander][^adb][^ndb]. En 1679 volvió a Bremen como predicador auxiliar de la iglesia de San Martín [^julian-neander][^adb][^suub]. Antes de un año enfermó (de qué, según la ADB, no se sabe) y murió allí el 31 de mayo de 1680, lunes de Pentecostés [^adb][^ndb][^suub]. La ADB le da 30 años; la biblioteca de Bremen, 29 [^adb][^suub].
 
-**La letra.** La primera impresión conocida del himno está en el libro de 57 himnos de Neander, A & Ω. Joachimi Neandri Glaub- und Liebes-übung, impreso en Bremen por Herman Brauer en 1680 [^julian-neander][^ndb][^neander1680]. Su título los llama cantos de la alianza y "Danck-Psalmen", salmos de gratitud, y da su uso, tal como lo cita la biblioteca de Bremen: "zu lesen und zu singen auff Reisen / zu Hause oder bey Christen-Ergetzungen im Grünen", para leer y cantar de viaje, en casa o en las salidas cristianas al campo [^suub][^neander1680]. Algunos libros posteriores fechan el himno en 1679, pero la ADB no conoce ninguna edición anterior a 1680 [^adb][^cbe1863].
+**La letra.** La primera impresión conocida del himno está en el libro de 57 himnos de Neander, A & Ω. Joachimi Neandri Glaub- und Liebes-übung, impreso en Bremen por Herman Brauer en 1680 [^julian-neander][^ndb][^neander1680]. Su título los llama cantos de la alianza y "Danck-Psalmen", salmos de gratitud, y dice para qué sirven, según la cita de la biblioteca de Bremen: "zu lesen und zu singen auff Reisen / zu Hause oder bey Christen-Ergetzungen im Grünen", para leer y cantar de viaje, en casa o en las salidas cristianas al campo [^suub][^neander1680]. Algunos libros posteriores fechan el himno en 1679, pero la ADB no conoce ninguna edición anterior a 1680 [^adb][^cbe1863].
 
-**Lo que muestra la página de 1680.** El himno ocupa las páginas 46 a 49 [^neander1680]. La página 46, con el encabezamiento "Der Lobende", el que alaba, imprime la melodía en compás ternario con un bajo cifrado debajo [^neander1680]. Enfrente, la página 47 da el versículo del que nace el himno, "Ps. CIII. 1.", en alemán [^neander1680][^kjv]. Luego viene "Mel. Hastu dann JEsu dein Angesicht &c.", es decir, que se cante con la melodía de "Hast du denn, Jesu, dein Angesicht", y las estrofas 1 y 2 [^neander1680][^hymnarchive]. La página 48 vuelve a imprimir la música bajo el primer versículo del Salmo 103 en hebreo, y la página 49 trae las estrofas 3 a 5 [^neander1680].
+**Lo que muestra la página de 1680.** El himno ocupa las páginas 46 a 49 [^neander1680]. La página 46, con el encabezamiento "Der Lobende", el que alaba, imprime la melodía en compás ternario con un bajo cifrado debajo [^neander1680]. En la página de enfrente, la 47, aparece el versículo del que nace el himno, "Ps. CIII. 1.", en alemán [^neander1680][^kjv]. Luego viene "Mel. Hastu dann JEsu dein Angesicht &c.", es decir, que se cante con la melodía de "Hast du denn, Jesu, dein Angesicht", y las estrofas 1 y 2 [^neander1680][^hymnarchive]. La página 48 vuelve a imprimir la música bajo el primer versículo del Salmo 103 en hebreo, y la 49, las estrofas 3 a 5 [^neander1680].
 
 ![[1]]
 
-**La melodía.** La primera impresión conocida de la melodía está en la segunda parte de un himnario de Stralsund de 1665, con un himno que, según Zahn, empieza "Hast du denn, Liebster, dein Angesicht gänzlich verborgen": ¿has escondido del todo tu rostro, amado? [^zahn][^dli][^hymnarchive]. Neander la adaptó a su letra [^julian][^hymnary-text]. La NDB dice que Neander mismo le puso música al himno, y él sí compuso algunas melodías del libro, más o menos la mitad según la cuenta de la ADB; pero esta, como muestran los himnólogos, venía de Stralsund [^ndb][^adb][^zahn]. No se conoce a su compositor [^zahn][^hymnarchive].
+**La melodía.** La primera impresión conocida de la melodía está en la segunda parte de un himnario de Stralsund de 1665, con un himno que, según Zahn, empieza "Hast du denn, Liebster, dein Angesicht gänzlich verborgen": ¿has escondido del todo tu rostro, amado? [^zahn][^dli][^hymnarchive]. Neander la adaptó a su letra [^julian][^hymnary-text]. La NDB dice que el propio Neander puso música al himno, y es cierto que compuso algunas melodías del libro, más o menos la mitad según la ADB; pero esta, como muestran los himnólogos, venía de Stralsund [^ndb][^adb][^zahn]. No se conoce a su compositor [^zahn][^hymnarchive].
 
 ![[2]]
 
-**Bach.** En Leipzig, Johann Sebastian Bach hizo del himno una cantata, la BWV 137, para el duodécimo domingo después de la Trinidad, el 19 de agosto de 1725, con música para las cinco estrofas sin cambios, una en cada movimiento [^bachvereniging][^durr].
+**Bach.** En Leipzig, Johann Sebastian Bach compuso sobre el himno una cantata, la BWV 137, para el duodécimo domingo después de la Trinidad, el 19 de agosto de 1725: pone música a las cinco estrofas sin cambios, una en cada movimiento [^bachvereniging][^durr].
 
-**Al inglés.** La versión que cantamos es la de Catherine Winkworth, el n.º 9 de su Chorale Book for England (Londres, 1863), en la sección "Praise and Thanksgiving" (alabanza y acción de gracias) [^cbe1863][^julian][^hc-winkworth]. El libro dio a cada himno su melodía alemana, editada por William Sterndale Bennett y Otto Goldschmidt [^hymnarchive][^hc-winkworth].
+**Al inglés.** La versión que cantamos es la de Catherine Winkworth, el n.º 9 de su Chorale Book for England (Londres, 1863), en la sección "Praise and Thanksgiving" (alabanza y acción de gracias) [^cbe1863][^julian][^hc-winkworth]. El libro asignó a cada himno su melodía alemana, editada por William Sterndale Bennett y Otto Goldschmidt [^hymnarchive][^hc-winkworth].
 
 ![[3]]
 
-**En Estados Unidos.** En 1744, Christoph Saur imprimió el himno alemán en Germantown, Pensilvania, como n.º 286 de Das Kleine Davidische Psalterspiel der Kinder Zions [^psalter1744][^upenn]. Más tarde, los himnarios luteranos y reformados estadounidenses imprimieron varias versiones inglesas, entre ellas la de J. H. Good (una versión completa, según Julian) en el himnario luterano de Ohio de 1880 [^julian][^hymnarchive]. Fue un himno de gratitud desde el principio: Julian lo clasifica en "Thanksgiving", y la NDB lo llama "Danklied", un canto de gratitud [^julian][^ndb]. El himnario luterano Augustana de 1926, de Rock Island, Illinois, lo pone en su índice para "A Day of Thanksgiving or a Harvest Festival" (un día de acción de gracias o una fiesta de la cosecha), y Lutheran Worship (1982), para el Día de Acción de Gracias [^hoos1926][^lw1982]. Las fuentes que hemos leído no dicen cuándo pasó a ser un himno de la fiesta estadounidense.
+**En Estados Unidos.** En 1744, Christoph Saur imprimió el himno alemán en Germantown, Pensilvania, como n.º 286 de Das Kleine Davidische Psalterspiel der Kinder Zions [^psalter1744][^upenn]. Más tarde, los himnarios luteranos y reformados estadounidenses imprimieron varias versiones inglesas, entre ellas la de J. H. Good (una versión completa, según Julian) en el himnario luterano de Ohio de 1880 [^julian][^hymnarchive]. Fue un himno de gratitud desde el principio: Julian lo clasifica en "Thanksgiving", y la NDB lo llama "Danklied", un canto de gratitud [^julian][^ndb]. El himnario luterano Augustana de 1926, de Rock Island, Illinois, lo incluye en su índice bajo "A Day of Thanksgiving or a Harvest Festival" (un día de acción de gracias o una fiesta de la cosecha), y Lutheran Worship (1982), bajo el Día de Acción de Gracias [^hoos1926][^lw1982]. Las fuentes que hemos leído no dicen cuándo se convirtió en himno de la fiesta estadounidense.
 
 ![[4]]
 
-**Mito y documentos.** Se suele contar que Neander vivió meses en una cueva de un valle cerca de Düsseldorf y que allí escribió sus himnos. Lo que muestran los documentos: Julian cree que algunos pudieron escribirse en una cueva de allí, pero dice que lo de vivir meses en ella no tiene fundamento [^julian-neander]. La ADB llama leyenda a ese verano sin techo; los paseos por el valle pueden haber inspirado algunos himnos [^adb].
+**Mito y documentos.** Se suele contar que Neander vivió meses en una cueva de un valle cerca de Düsseldorf y que allí escribió sus himnos. Lo que muestran los documentos: Julian cree que algunos pudieron escribirse en una cueva de allí, pero dice que lo de vivir meses en ella no tiene fundamento [^julian-neander]. La ADB llama leyenda a ese verano sin techo; los paseos por el valle sí pueden haber inspirado algunos himnos [^adb].
 
-**El valle y el fósil.** Ese valle del Düssel recibió más tarde el nombre de Neanderthal en su honor [^ndb][^kuladig]. En agosto de 1856, unos canteros encontraron en su Kleine Feldhofer Grotte los huesos a los que se llamó Homo neanderthalensis, los neandertales, por el valle [^kuladig][^si].
+**El valle y el fósil.** Ese valle del Düssel recibió más tarde el nombre de Neanderthal en su honor [^ndb][^kuladig]. En agosto de 1856, unos canteros encontraron en su Kleine Feldhofer Grotte los huesos que, por el valle, recibieron el nombre de Homo neanderthalensis: los neandertales [^kuladig][^si].
 
 ### Cronología
 
@@ -66,9 +66,9 @@ Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lo
 
 ## Qué dice la letra
 
-**Dos salmos.** Neander construyó el himno sobre el Salmo 103 y el Salmo 150 [^julian][^neander1680]. El Salmo 103 empieza: "Bless the Lord, O my soul: and all that is within me, bless his holy name" (Bendice, alma mía á Jehová; Y bendigan todas mis entrañas su santo nombre), y sigue "forget not all his benefits" (no olvides ninguno de sus beneficios) [^kjv]. El Salmo 150, el último de todos, pide alabanza con todos los instrumentos y termina "Let every thing that hath breath praise the Lord" (Todo lo que respira alabe á JAH) [^kjv]. La última estrofa de Neander toma de los dos casi palabra por palabra [^neander1680][^kjv].
+**Dos salmos.** Neander construyó el himno sobre el Salmo 103 y el Salmo 150 [^julian][^neander1680]. El Salmo 103 empieza: "Bless the Lord, O my soul: and all that is within me, bless his holy name" (Bendice, alma mía á Jehová; Y bendigan todas mis entrañas su santo nombre), y sigue "forget not all his benefits" (no olvides ninguno de sus beneficios) [^kjv]. El Salmo 150, el último de todos, pide alabanza con todos los instrumentos y termina "Let every thing that hath breath praise the Lord" (Todo lo que respira alabe á JAH) [^kjv]. La última estrofa de Neander toma palabras de los dos casi al pie de la letra [^neander1680][^kjv].
 
-**El inglés que cantamos.** Winkworth hizo cuatro estrofas de las cinco de Neander. Hymnology Archive y el Psalter Hymnal Handbook dicen que dejó fuera la tercera, sobre el regalo de la salud que Dios da y su cuidado en la angustia; Julian dice que la cuarta [^hymnarchive][^hymnary-text][^julian]. Puestos lado a lado, los textos dan la razón a la tercera: el "Ponder anew What the Almighty can do" de la tercera estrofa de ella es el "Dencke daran, Was der Allmächtige kan" de la cuarta de él, y de la tercera de él quizá solo resuenen las alas extendidas sobre ti, en el "Shelters thee under His wings" de la segunda estrofa de ella [^cbe1863][^neander1680].
+**El inglés que cantamos.** Winkworth convirtió en cuatro las cinco estrofas de Neander. Hymnology Archive y el Psalter Hymnal Handbook dicen que dejó fuera la tercera, sobre la salud que Dios regala y su cuidado en la angustia; Julian, que la cuarta [^hymnarchive][^hymnary-text][^julian]. Si se comparan los textos, tienen razón quienes dicen la tercera: el "Ponder anew What the Almighty can do" de la tercera estrofa de ella es el "Dencke daran, Was der Allmächtige kan" de la cuarta de él, y de la tercera de él quizá solo resuenen las alas extendidas sobre ti, en el "Shelters thee under His wings" de la segunda estrofa de ella [^cbe1863][^neander1680].
 
 **Estrofa 1.** "Praise to the Lord! the Almighty, the King of creation!" El König der Ehren de Neander es el Rey de la gloria [^neander1680]. "O my soul, praise Him, for He is thy health and salvation" (alma mía, alábalo, porque él es tu salud y tu salvación) habla al alma de quien canta, como hace el Salmo 103 [^cbe1863][^kjv]. "All ye who hear, Now to His temple draw near" llama a todos a acercarse a la casa de Dios. Neander, en cambio, despierta el "Psalter und Harffe", salterio y arpa, como en el Salmo 108 [^neander1680][^kjv]. El salterio es un instrumento de cuerda pulsada [^dli].
 
@@ -76,11 +76,11 @@ Praise to the Lord, the Almighty, the King of Creation es la forma inglesa de Lo
 
 **Estrofa 3 (la cuarta de Neander).** Dios "doth prosper thy work and defend thee", hace prosperar tu trabajo y te defiende, y su bondad y su misericordia te acompañan cada día, palabras del Salmo 23 [^cbe1863][^hymnary-text]. "Ponder anew": piensa otra vez en lo que puede hacer el Todopoderoso [^cbe1863].
 
-**Estrofa 4.** "All that hath life and breath, come now with praises before Him" (todo lo que tiene vida y aliento, venga ahora ante él con alabanzas) es el último versículo del Salmo 150 [^cbe1863][^kjv]. Neander añade "mit Abrahams Samen", con los hijos de Abraham, el pueblo de Dios; Winkworth deja fuera a Abraham [^neander1680][^hymnarchive]. Su "Let the Amen" termina donde termina el de él: "Lobende, schliesse mit Amen", tú que alabas, termina con un amén, como respuesta al encabezamiento de la página, Der Lobende [^cbe1863][^neander1680].
+**Estrofa 4.** "All that hath life and breath, come now with praises before Him" (todo lo que tiene vida y aliento, venga ahora ante él con alabanzas) es el último versículo del Salmo 150 [^cbe1863][^kjv]. Neander añade "mit Abrahams Samen", con los hijos de Abraham, el pueblo de Dios; Winkworth deja fuera a Abraham [^neander1680][^hymnarchive]. El "Let the Amen" de ella termina donde el de él: "Lobende, schliesse mit Amen", tú que alabas, termina con un amén, como respuesta al encabezamiento de la página, Der Lobende [^cbe1863][^neander1680].
 
 ### El alemán de Neander
 
-Este es el alemán de Neander tal como se imprimió en Bremen en 1680, en las páginas 47 y 49 de la Glaub- und Liebes-Übung, con nuestra propia traducción al español, verso a verso [^neander1680]. La ortografía es la de su impresor: HErren y GOtt marcan con mayúsculas el nombre de Dios, y las barras son comas.
+Este es el alemán de Neander tal como se imprimió en Bremen en 1680, en las páginas 47 y 49 de la Glaub- und Liebes-Übung, con nuestra propia traducción al español, verso a verso [^neander1680]. La ortografía es la de su impresor: HErren y GOtt marcan con mayúsculas el nombre de Dios, y las barras hacen de comas.
 
 **Estrofa 1**
 > Lobe den HErren / den mächtigen König der Ehren/
@@ -88,11 +88,11 @@ Alaba al Señor, el poderoso Rey de la gloria,
 > Meine geliebete Seele / das ist mein Begehren/
 alma mía tan amada: eso es lo que anhelo.
 > Kommet zu Hauff/
-Que todos acudan juntos;
+Vengan todos juntos;
 > Psalter und Harffe wach't auff/
-que despierten el salterio y el arpa;
+despierten, salterio y arpa;
 > Lasset die Musicam hören.
-que se oiga la música.
+hagan oír la música.
 
 **Estrofa 2**
 > Lobe den HErren / der alles so herrlich regieret/
@@ -120,7 +120,7 @@ sus alas sobre ti?
 
 **Estrofa 4**
 > Lobe den HErren / der deinen Stand sichtbahr gesegnet/
-Alaba al Señor, que ha bendecido a la vista tu lugar en la vida,
+Alaba al Señor, que ha bendecido de forma visible tu lugar en la vida,
 > Der aus dem Himmel mit Strömen der Liebe geregnet/
 que ha llovido del cielo en torrentes de amor.
 > Dencke daran/
@@ -152,11 +152,11 @@ Estas son las cuatro estrofas de Winkworth tal como las imprimió en The Chorale
 > O my soul, praise Him, for He is thy health and salvation!
 Alma mía, alábalo, porque él es tu salud y tu salvación.
 > All ye who hear,
-Que todo el que oiga
+Todos los que oyen,
 > Now to His temple draw near,
-se acerque ahora a su templo
+acérquense ahora a su templo
 > Join me in glad adoration!
-y se una a mí en alegre adoración.
+y únanse a mí en alegre adoración.
 
 **Estrofa 2**
 > Praise to the Lord! who o'er all things so wondrously reigneth,
@@ -196,13 +196,13 @@ con alegría lo adoramos para siempre.
 
 ## Cómo se canta
 
-Se extendió por los himnarios reformados, pietistas y luteranos en los siglos XVIII y XIX, y por fin a los católicos [^suub][^julian]. Hoy es el n.º 316 del himnario protestante alemán, el Evangelisches Gesangbuch, y el n.º 392 del Gotteslob católico [^eg][^dli]. Las iglesias de habla inglesa cantan la letra de Winkworth, a menudo con una estrofa más reciente añadida [^hymnarchive][^hymnary-text]. Los himnarios llaman a la melodía LOBE DEN HERREN; The English Hymnal de 1906 le dio el nombre de la canción más antigua, HAST DU DENN, JESU [^hymnary-text][^eh1906]. Su metro es 14.14.4.7.8: dos versos largos, dos cortos y un verso de cierre [^zahn][^cbe1863].
+Se extendió por los himnarios reformados, pietistas y luteranos en los siglos XVIII y XIX, y, por último, a los católicos [^suub][^julian]. Hoy es el n.º 316 del himnario protestante alemán, el Evangelisches Gesangbuch, y el n.º 392 del Gotteslob católico [^eg][^dli]. Las iglesias de habla inglesa cantan la letra de Winkworth, a menudo con una estrofa más reciente añadida [^hymnarchive][^hymnary-text]. Los himnarios llaman a la melodía LOBE DEN HERREN; The English Hymnal de 1906 le dio el nombre de la canción más antigua, HAST DU DENN, JESU [^hymnary-text][^eh1906]. Su métrica es 14.14.4.7.8: dos versos largos, dos cortos y un verso de cierre [^zahn][^cbe1863].
 
-Cantamos las estrofas 1 y 2 del inglés de Winkworth, a cuatro voces adaptadas de la armonía impresa con ellas en The Chorale Book for England en 1863 [^cbe1863][^hymnarchive]. Mantenemos la tonalidad del libro, Sol, pero escribimos su amplio 3/2 en 3/4. El libro imprime solo la primera estrofa bajo la música, con sus dos primeros versos bajo una repetición, y el resto debajo; escribimos la repetición entera y ajustamos nosotros la estrofa 2 a las notas [^cbe1863]. La soprano canta la melodía tal como está impresa y el bajo sigue casi siempre lo impreso; la contralto y el tenor están rehechos para que dos cantantes, soprano y contralto, canten en terceras y sextas, y el bajo se les une para hacer tres. Donde las voces graves de la página se mueven bajo una nota tenida de la melodía, mantenemos una sola nota, y las respiraciones van escritas al final de los versos.
+Cantamos las estrofas 1 y 2 del inglés de Winkworth, a cuatro voces adaptadas de la armonía impresa con ellas en The Chorale Book for England en 1863 [^cbe1863][^hymnarchive]. Mantenemos la tonalidad del libro, Sol, pero escribimos su amplio 3/2 en 3/4. El libro solo imprime la primera estrofa bajo la música (sus dos primeros versos, bajo un signo de repetición) y el resto, más abajo; escribimos la repetición completa y ajustamos nosotros mismos la estrofa 2 a las notas [^cbe1863]. La soprano canta la melodía tal como está impresa y el bajo sigue casi siempre lo impreso; la contralto y el tenor están rehechos para que dos cantantes, soprano y contralto, vayan en terceras y sextas; con el bajo son tres, y con el tenor, cuatro. Donde las voces graves de la página se mueven bajo una nota tenida de la melodía, mantenemos una sola nota, y las respiraciones van escritas al final de los versos.
 
 ## Versiones y otras letras
 
-- **El texto de Pensilvania de 1744:** el libro de Saur en Germantown dice "Seele und Hertze wach auf, lasset das Lob und Danck hören", que despierten el alma y el corazón, que se oigan la alabanza y la gratitud, donde Neander tenía salterio y arpa y música, y da como melodía la de "Christe, mein Leben, mein Hoffen" [^psalter1744][^neander1680].
+- **El texto de Pensilvania de 1744:** el libro de Saur en Germantown dice "Seele und Hertze wach auf, lasset das Lob und Danck hören", alma y corazón, despierten; que se oigan la alabanza y la gratitud, donde Neander tenía salterio, arpa y música, e indica como melodía la de "Christe, mein Leben, mein Hoffen" [^psalter1744][^neander1680].
 - **The English Hymnal (1906):** n.º 536, atribuido a Winkworth "and others" (y otros), con estrofas añadidas a las suyas [^eh1906][^hymnarchive].
 - **En español:** se canta como "Alma, bendice al Señor", en la traducción de Fritz Fliedner (1845 a 1901), impresa por ejemplo en Cántico Nuevo (1962), n.º 5 [^hymnary-es].
 
@@ -213,9 +213,9 @@ Cantamos las estrofas 1 y 2 del inglés de Winkworth, a cuatro voces adaptadas d
 ## Cómo cantarla
 
 - [Soprano](/songs/praise-to-the-lord/soprano): cantas la melodía. Los dos largos versos iniciales empiezan en Sol, saltan a Re en "the" de "Praise to the Lord!" y en "soul,", y bajan por la escala hasta un Re grave en el "the" de antes de "King" y en el "thy" de antes de "health"; luego vuelven a subir hasta un La tenido en la "a-" de "creation" y en la "va-" de "salvation". Tu nota más aguda es el Mi de "hear" (y de "seen" en la estrofa 2), después de tres Re en "All ye who". "Join me in glad adoration" sube por grados conjuntos desde el Re grave.
-- [Contralto](/songs/praise-to-the-lord/alto): cantas sobre todo una tercera por debajo de la melodía, la sigues escala abajo hasta un Si grave en el "the" de antes de "King" y vuelves a subir a un Fa sostenido tenido en la "a-" de "creation", para bajar a Si en "-tion!". Subes a tu Si agudo en "All" y "who", y en "tem-" de "temple". Tres de los cinco versos de cada estrofa empiezan y terminan en ese Si grave.
+- [Contralto](/songs/praise-to-the-lord/alto): cantas sobre todo una tercera por debajo de la melodía, la sigues escala abajo hasta un Si grave en el "the" de antes de "King" y vuelves a subir a un Fa sostenido tenido en la "a-" de "creation", y bajas a Si en "-tion!". Subes a tu Si agudo en "All" y "who", y en "tem-" de "temple". Tres de los cinco versos de cada estrofa empiezan y terminan en ese Si grave.
 - [Tenor](/songs/praise-to-the-lord/tenor): cantas sobre todo Si y Re, con Sol en medio de cada verso largo, y sostienes un Do en la "a-" de "creation" y en la "va-" de "salvation". Tu nota más aguda es el Mi de "to" y "ple" en "Now to His temple", y de "thy" en la estrofa 2. Lo difícil es el final: bajas a un Re grave en "dain-" y lo sostienes hasta el último "eth", seis tiempos; ponlo en solo en el reproductor para mantenerlo afinado.
-- [Bajo](/songs/praise-to-the-lord/bass): cantas la línea grave y te mueves en casi cada palabra. Los dos largos versos iniciales empiezan y terminan en el Sol agudo, tocan el Sol grave en el "the" de antes de "King" y en el "thy" de antes de "health", y sostienen Re en la "a-" de "creation" y en la "va-" de "salvation". "All ye who hear" baja de Sol a Do en "hear", y la estrofa 1 termina en el Sol grave, tenido, bajo "tion!", como termina toda la canción bajo "eth?".
+- [Bajo](/songs/praise-to-the-lord/bass): cantas la línea grave y cambias de nota en casi cada palabra. Los dos largos versos iniciales empiezan y terminan en el Sol agudo, tocan el Sol grave en el "the" de antes de "King" y en el "thy" de antes de "health", y sostienen Re en la "a-" de "creation" y en la "va-" de "salvation". "All ye who hear" baja de Sol a Do en "hear", y la estrofa 1 termina en el Sol grave, tenido, bajo "tion!", como termina toda la canción bajo "eth?".
 
 ## Preguntas
 
@@ -229,17 +229,17 @@ Sobre todo en el Salmo 103, con el Salmo 150 al final. Neander imprimió el prim
 
 ### ¿Es "Praise to the Lord, the Almighty" un himno católico?
 
-Nació como himno protestante y hoy lo cantan unos y otros. Neander era un predicador reformado, es decir, calvinista, tocado por el pietismo, y los himnarios católicos fueron los últimos en adoptarlo [^ndb][^julian-neander][^suub]. Hoy es el n.º 392 del Gotteslob, el himnario católico de Alemania y Austria, y el n.º 316 del himnario protestante alemán [^dli][^eg].
+Nació como himno protestante y hoy lo cantan protestantes y católicos. Neander era un predicador reformado, es decir, calvinista, influido por el pietismo, y los himnarios católicos fueron los últimos en adoptarlo [^ndb][^julian-neander][^suub]. Hoy es el n.º 392 del Gotteslob, el himnario católico de Alemania y Austria, y el n.º 316 del himnario protestante alemán [^dli][^eg].
 
 ### ¿Es "Praise to the Lord, the Almighty" de dominio público?
 
-Su letra y su melodía antiguas, sí. El alemán de Neander se imprimió en 1680, la melodía en 1665 y el inglés de Winkworth en 1863; ella murió en 1878 [^neander1680][^zahn][^dli][^cbe1863][^hc-winkworth]. Aun así, comprueba la versión que cantas: los himnarios suelen añadir una estrofa más reciente en lugar de la que ella dejó fuera, y las armonías, los arreglos y las traducciones modernas pueden tener derechos de autor [^hymnarchive][^hymnary-text].
+La letra y la melodía antiguas, sí. El alemán de Neander se imprimió en 1680, la melodía en 1665 y el inglés de Winkworth en 1863; ella murió en 1878 [^neander1680][^zahn][^dli][^cbe1863][^hc-winkworth]. Aun así, comprueba la versión que cantas: los himnarios suelen añadir una estrofa más reciente en lugar de la que ella dejó fuera, y las armonías, los arreglos y las traducciones modernas pueden tener derechos de autor [^hymnarchive][^hymnary-text].
 
 ## Canta después
 
 - [Holy, Holy, Holy](/songs/holy-holy-holy): otro himno de alabanza al "Lord God Almighty", a cuatro voces tomadas de su propio himnario victoriano.
 - [Come, Thou Fount of Every Blessing](/songs/come-thou-fount): un himno de gratitud por las bendiciones, a cuatro voces.
-- [Ode to Joy](/songs/ode-to-joy): un himno de alabanza y alegría con una melodía alemana, un buen paso siguiente con el mismo espíritu.
+- [Ode to Joy](/songs/ode-to-joy): un himno de alabanza y alegría con una melodía alemana, un buen siguiente paso, con el mismo espíritu.
 
 ## Fuentes
 

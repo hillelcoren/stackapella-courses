@@ -1,7 +1,7 @@
 ---
 title: Shoshanat Yaakov: historia, significado y la letra explicada
 description: Shoshanat Yaakov, para Purim tras leer el libro de Ester: el final de un antiguo poema hebreo; la impresión más antigua de su melodía es de Gotemburgo, 1877.
-lead: Shoshanat Yaakov, "la rosa de Jacob", es la canción de Purim que se canta una vez leído el libro de Ester. Cierra un antiguo poema hebreo con alegría y esperanza, y añade una buena palabra para Harbona.
+lead: Shoshanat Yaakov, "la rosa de Jacob", es la canción de Purim que se canta una vez leído el libro de Ester. Cierra un antiguo poema hebreo con alegría y esperanza, y termina con un buen recuerdo para Harbona.
 words: Anónima; los versos finales del poema de Purim Asher heni, y luego un verso de una costumbre que recoge el Talmud
 tune: Melodía de sinagoga, de autor desconocido, tal como la imprimió Abraham Baer (1834 a 1894); la impresión más antigua conocida es de 1877
 language: hebreo
@@ -17,31 +17,31 @@ translatedFrom: 368b928c7962
 original: Baal T'fillah (Gotemburgo, 1877), Statens musikverk | https://urn.kb.se/resolve?urn=urn:nbn:se:statensmusikverk-217
 ---
 
-Shoshanat Yaakov es una breve canción hebrea para Purim. Cuando se ha leído el libro de Ester en su rollo y se ha dicho la bendición que lo sigue, vienen estos versos.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, y su libro de 1877 es la impresión más antigua conocida de ella.[^baer1877][^baer][^hammarlund]
+Shoshanat Yaakov es una breve canción hebrea para Purim. Se canta una vez leído el libro de Ester en su rollo y dicha la bendición que sigue a la lectura.[^baer][^kitzur] Son los últimos versos de un antiguo poema, Asher heni, con un verso más que viene de una antigua costumbre, y reúnen toda la historia en unas pocas palabras: los judíos se alegraron al ver a Mardoqueo vestido de azul real, Hashem fue entonces su salvación y es su esperanza en cada generación, y Harbona, el servidor del rey que señaló la horca de Amán, es recordado para bien.[^vitry][^yer][^je-harbona] Nuestra melodía es la que imprimió Abraham Baer, cantor de la sinagoga de Gotemburgo, en Suecia, y su libro de 1877 trae la impresión más antigua conocida de ella.[^baer1877][^baer][^hammarlund]
 
 ## De dónde viene
 
-**La historia que hay detrás.** El libro de Ester cuenta la historia de los judíos del Imperio persa bajo el rey Asuero. Amán, el primer ministro del rey, se enfureció porque Mardoqueo el judío no se inclinaba ante él, y tramó destruir a todos los judíos del reino en un día elegido a suertes, pur.[^esther][^je-purim] Ester, la prima a la que Mardoqueo había criado como a una hija, había llegado a reina sin dar a conocer su pueblo. Se presentó ante el rey sin ser llamada, arriesgando la vida, y en un banquete señaló a Amán como el enemigo que había vendido a su pueblo para destruirlo.[^esther] Harbona, uno de los eunucos al servicio del rey, le habló entonces de la horca que Amán había levantado para Mardoqueo, y Amán fue colgado en ella.[^esther][^je-harbona] Un nuevo decreto permitió a los judíos defender su vida, y Mardoqueo salió de la presencia del rey con vestiduras reales azules y blancas mientras la ciudad de Susa gritaba de júbilo y se alegraba.[^esther] Purim, llamado así por las suertes, se celebra el catorce de Adar, y en Susa y en las antiguas ciudades amuralladas el quince, con la lectura del libro, banquetes y regalos a los amigos y a los pobres.[^esther][^je-purim][^meg][^ej-purim]
+**La historia que hay detrás.** El libro de Ester cuenta la historia de los judíos del Imperio persa bajo el rey Asuero. Amán, el primer ministro del rey, se enfureció porque Mardoqueo el judío no se inclinaba ante él, y tramó destruir a todos los judíos del reino en un día elegido a suertes, pur.[^esther][^je-purim] Ester, la prima a la que Mardoqueo había criado como a una hija, había llegado a reina sin revelar a qué pueblo pertenecía. Se presentó ante el rey sin ser llamada, arriesgando la vida, y en un banquete señaló a Amán como el enemigo que había vendido a su pueblo para destruirlo.[^esther] Harbona, uno de los eunucos al servicio del rey, le habló entonces de la horca que Amán había levantado para Mardoqueo, y en ella colgaron a Amán.[^esther][^je-harbona] Un nuevo decreto permitió a los judíos defender su vida, y Mardoqueo salió de la presencia del rey con vestiduras reales azules y blancas mientras la ciudad de Susa gritaba de júbilo y se alegraba.[^esther] Purim, llamado así por las suertes, se celebra el catorce de Adar, y en Susa y en las antiguas ciudades amuralladas el quince, con la lectura del libro, banquetes y regalos a los amigos y a los pobres.[^esther][^je-purim][^meg][^ej-purim]
 
 ![[1]]
 
-**La letra.** El último verso de la canción no forma parte del poema: es una costumbre que recoge el Talmud. El Talmud de Jerusalén y el tratado menor Soferim dicen que Rav exigía las palabras "Maldito sea Amán, malditos sean sus hijos", y que el rabino Pinchas exigía "Harbona, recordado para bien"; Soferim las sitúa después de la bendición que sigue a la lectura.[^yer][^soferim] Soferim bendice además a Mardoqueo, a Ester y a todo Israel.[^soferim]
+**La letra.** El último verso de la canción no forma parte del poema: es una costumbre que recoge el Talmud. El Talmud de Jerusalén y el tratado menor Soferim dicen que Rav pedía que se dijera "Maldito sea Amán, malditos sean sus hijos", y el rabino Pinchas, "Harbona, recordado para bien"; Soferim las sitúa después de la bendición que sigue a la lectura.[^yer][^soferim] Soferim añade bendiciones para Mardoqueo, Ester y todo Israel.[^soferim]
 
-El poema en sí, Asher heni, es un poema de alabanza que se dice después de la bendición que sigue a la lectura.[^sa][^baer] Sus versos recorren el alfabeto hebreo: "Shoshanat" está en la shin y "Teshuatam" en la tav, las dos últimas letras.[^vitry] Está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado en el norte de Francia por Simhah de Vitry, que había muerto ya en 1105. El Mahzor Vitry impreso sigue un manuscrito posterior y ampliado, así que no puede decirnos si el poema estaba en el libro del propio Simhah.[^ej-vitry][^je-simhah]
+El poema en sí, Asher heni, es un poema de alabanza que se dice después de la bendición que sigue a la lectura.[^sa][^baer] Sus versos recorren el alfabeto hebreo: "Shoshanat" corresponde a la shin y "Teshuatam" a la tav, las dos últimas letras.[^vitry] Está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado en el norte de Francia por Simhah de Vitry, que había muerto ya en 1105. El Mahzor Vitry impreso sigue un manuscrito posterior y ampliado, así que no puede decirnos si el poema estaba en el libro del propio Simhah.[^ej-vitry][^je-simhah]
 
 **Un encabezamiento antiguo.** El Mahzor Vitry encabeza el poema como "un poema de la fundación de los Hombres de la Gran Asamblea", los sabios que la tradición sitúa al comienzo del periodo del Segundo Templo y a quienes el Talmud atribuye la fijación de los días de Purim.[^vitry][^je-great][^meg] Es una atribución tradicional, no un documento: el libro no nombra a ningún poeta.[^vitry]
 
-**La melodía.** Abraham Baer nació en 1834 y en 1857 se hizo cantor de la sinagoga de Gotemburgo, en Suecia, donde sirvió hasta su muerte en 1894.[^je-baer][^hammarlund] Su Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", reúne unas 1500 melodías para el cantor, alemanas, polacas y sefardíes.[^je-baer][^hammarlund] Baer la entregó al público en 1877, según sus prefacios y Hammarlund (la Jewish Encyclopedia da 1871), y en 1883 siguió una segunda edición ampliada.[^baer][^hammarlund][^je-baer] Esa primera edición, con el prefacio firmado en Gotemburgo en septiembre de 1877, ya imprime nuestra canción como el n.º 197 de la página 59: es la impresión más antigua conocida de la melodía.[^baer1877] La tercera edición, impresa en Frankfurt am Main después de 1883, la trae también como el n.º 197 de la página 59, con las mismas notas, y nuestro arreglo se basa en esa página.[^baer][^baer1877]
+**La melodía.** Abraham Baer nació en 1834 y en 1857 se hizo cantor de la sinagoga de Gotemburgo, en Suecia, donde sirvió hasta su muerte en 1894.[^je-baer][^hammarlund] Su Baal T'fillah, o Der practische Vorbeter, "el oficiante práctico", reúne unas 1500 melodías para el cantor, alemanas, polacas y sefardíes.[^je-baer][^hammarlund] Baer lo publicó en 1877, según sus prefacios y Hammarlund (la Jewish Encyclopedia da 1871), y en 1883 siguió una segunda edición ampliada.[^baer][^hammarlund][^je-baer] Esa primera edición, con el prefacio firmado en Gotemburgo en septiembre de 1877, ya imprime nuestra canción como el n.º 197 de la página 59: es la impresión más antigua conocida de la melodía.[^baer1877] La tercera edición, impresa en Frankfurt am Main después de 1883, la trae también como el n.º 197 de la página 59, con las mismas notas, y nuestro arreglo se basa en esa página.[^baer][^baer1877]
 
 ![[2]]
 
-Baer no nombra a ningún autor para ella. Su prefacio de 1877 explica sus marcas: "N. W.", melodía nueva; "A. W.", melodía antigua, obra de un cantor concreto de otra época que solo se conoce en un lugar; y ninguna marca para las melodías muy antiguas, que se reconocen por su carácter y por lo mucho que se han extendido.[^baer] Los versículos de Ester y la bendición que hay encima en la página 59 llevan "A. W."; esta canción no lleva ninguna, ni en 1877 ni en la tercera edición, así que, según su propia clave, es una melodía muy antigua y muy cantada.[^baer1877][^baer] Su segundo prefacio, de 1883, dice que todas las melodías polacas y parte de las asquenazíes marcadas "A. W.", y todas las piezas marcadas "N. W.", son composiciones suyas, así que ni siquiera "A. W." es siempre la marca de un cantor antiguo. El n.º 197 no está en su lista de piezas propias al estilo antiguo, aunque la lista termina con "y otros pasajes similares".[^baer] Las marcas son el juicio de un cantor, no un documento: no se sabe quién hizo la melodía ni cuándo.
+Baer no le atribuye ningún autor. Su prefacio de 1877 explica sus marcas: "N. W.", melodía nueva; "A. W.", melodía antigua, obra de un cantor concreto de otra época que solo se conoce en un lugar; y ninguna marca para las melodías muy antiguas, que se reconocen por su carácter y por lo mucho que se han extendido.[^baer] Los versículos de Ester y la bendición que hay encima en la página 59 llevan "A. W."; esta canción no lleva ninguna, ni en 1877 ni en la tercera edición, así que, según su propia clave, es una melodía muy antigua y muy cantada.[^baer1877][^baer] Su segundo prefacio, de 1883, dice que todas las melodías polacas y parte de las asquenazíes marcadas "A. W.", y todas las piezas marcadas "N. W.", son composiciones suyas, así que ni siquiera "A. W." es siempre la marca de un cantor antiguo. El n.º 197 no está en su lista de piezas propias al estilo antiguo, aunque la lista termina con "y otros pasajes similares".[^baer] Las marcas son el juicio de un cantor, no un documento: no se sabe quién compuso la melodía ni cuándo.
 
 ### Cronología
 
-- 1105: Simhah de Vitry, recopilador del Mahzor Vitry, ha muerto ya este año; el Mahzor Vitry impreso, que contiene el poema, sigue un manuscrito posterior y ampliado. [^je-simhah][^ej-vitry]
+- 1105: Simhah de Vitry, recopilador del Mahzor Vitry, ya ha muerto en esta fecha; el Mahzor Vitry impreso, que contiene el poema, sigue un manuscrito posterior y ampliado. [^je-simhah][^ej-vitry]
 - 1857: Abraham Baer se hace cantor de la sinagoga de Gotemburgo. [^je-baer][^hammarlund]
-- 1877: Baer entrega al público Baal T'fillah, según él mismo y según Hammarlund (la Jewish Encyclopedia da 1871); imprime esta melodía como n.º 197, la impresión más antigua conocida de ella. [^baer1877][^baer][^hammarlund][^je-baer]
+- 1877: Baer publica Baal T'fillah, según él mismo y según Hammarlund (la Jewish Encyclopedia da 1871); imprime esta melodía como n.º 197, la impresión más antigua conocida de ella. [^baer1877][^baer][^hammarlund][^je-baer]
 - 1883: aparece la segunda edición ampliada. [^je-baer][^hammarlund]
 - después de 1883: la tercera edición, de Frankfurt am Main, vuelve a imprimir la canción como n.º 197, con las mismas notas; nuestro arreglo se basa en esta página. [^baer][^baer1877]
 - 1894: muere Baer en Gotemburgo. [^je-baer][^hammarlund]
@@ -60,11 +60,11 @@ Cantamos los versos finales de Asher heni y luego el verso sobre Harbona.[^vitry
 
 **"Vegam Charvona zachur latov."** Y también Harbona es recordado para bien. Zachur latov es la frase que pedía el rabino Pinchas.[^yer][^soferim]
 
-Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran al cantar fuera de la oración: solo le hablan a Hashem como "Tú", en "kovecha" y "bach".
+Estos versos no necesitan ninguno de los nombres sustitutos que se acostumbran cuando se canta fuera de la oración: solo se dirigen a Hashem como "Tú", en "kovecha" y "bach".
 
 ### La letra completa
 
-Estos son los últimos versos del poema y los versos que los siguen, tal como los imprime el Siddur Sefard de Sefaria, en el hebreo de dominio público de Torat Emet; los significados son nuestros.[^sefard] La versión inglesa de Singer no tiene el verso sobre todos los malvados y todos los justos.[^singer]
+Estos son los últimos versos del poema y los versos que los siguen, tal como los imprime el Siddur Sefard de Sefaria, en el hebreo de dominio público de Torat Emet; el sentido en español es nuestro.[^sefard] La versión inglesa de Singer no incluye el verso sobre todos los malvados y todos los justos.[^singer]
 
 > שׁוֹשַׁנַּת יַעֲקֹב צָהֲלָה וְשָׂמֵחָה
 *Shoshanat Yaakov tzahala vesamecha*
@@ -109,7 +109,7 @@ Y también Harbona es recordado para bien.
 
 ## Cómo se canta
 
-El Talmud manda leer el rollo de Ester de noche y otra vez de día, y da la bendición que se dice después, donde es costumbre.[^meg][^je-purim][^kitzur] En el rito asquenazí, el Asher heni completo sigue a esa bendición solo por la noche: la glosa de Moses Isserles al Shulchan Aruch señala la costumbre, y el libro de oraciones de Singer omite el párrafo de día.[^sa][^singer] Después de la lectura de la mañana, el Kitzur Shulchan Aruch de Shlomo Ganzfried indica solo Shoshanat Yaakov.[^kitzur]
+El Talmud manda leer el rollo de Ester de noche y otra vez de día, y recoge la bendición que se dice después, allí donde es costumbre.[^meg][^je-purim][^kitzur] En el rito asquenazí, el Asher heni completo sigue a esa bendición solo por la noche: la glosa de Moses Isserles al Shulchan Aruch señala la costumbre, y el libro de oraciones de Singer omite el párrafo de día.[^sa][^singer] Después de la lectura de la mañana, el Kitzur Shulchan Aruch de Shlomo Ganzfried indica solo Shoshanat Yaakov.[^kitzur]
 
 ![[3]]
 
@@ -117,13 +117,13 @@ La página de Baer, igual en 1877 y en la tercera edición, describe la escena: 
 
 ![[4]]
 
-Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como está impresa, para 2 a 4 cantantes, con la letra en pronunciación israelí moderna. La soprano canta la melodía de Baer, y la contralto, el bajo y el tenor son nuestros. La canción entera se canta dos veces, y luego una vez el último verso suave.[^baer]
+Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como está impresa, para 2 a 4 cantantes, con la letra en pronunciación israelí moderna. La soprano canta la melodía de Baer; las voces de contralto, bajo y tenor son nuestras. La canción entera se canta dos veces, y luego una vez el último verso suave.[^baer]
 
 ## Versiones y otras letras
 
 **El poema completo.** Asher heni vuelve a contar la historia siguiendo el alfabeto: el orgullo y la conspiración de Amán, el duelo de Mardoqueo, la súplica de Ester y la caída de Amán, antes de llegar a la rosa de Jacob.[^vitry][^singer]
 
-**Las maldiciones y las bendiciones.** El Shulchan Aruch da la forma más completa: maldito sea Amán y bendito sea Mardoqueo, maldita sea Zeres, la mujer de Amán, y bendita sea Ester, y Harbona recordado para bien.[^sa][^soferim] El Mahzor Vitry alarga el patrón hasta hacer un alfabeto entero que termina, como nuestra canción, con Harbona recordado para bien, y dice que se basa en el tratado Soferim.[^vitry]
+**Las maldiciones y las bendiciones.** El Shulchan Aruch recoge la forma más completa: maldito sea Amán y bendito sea Mardoqueo, maldita sea Zeres, la mujer de Amán, y bendita sea Ester, y Harbona recordado para bien.[^sa][^soferim] El Mahzor Vitry amplía el esquema hasta formar un alfabeto entero que termina, como nuestra canción, con Harbona recordado para bien, y dice que se basa en el tratado Soferim.[^vitry]
 
 ## ¿Sabías que...?
 
@@ -132,8 +132,8 @@ Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como e
 
 ## Cómo cantarla
 
-- [Soprano](/songs/shoshanat-yaakov/soprano): la melodía; sus notas más frecuentes son Fa y luego Sol. El verso que empieza con "l'hodia" abre con su salto más grande, una sexta de Fa a Re, y sube hasta el Mi bemol agudo en "lo" y el "vo-" de "yevoshu". También baja por debajo de la extensión habitual de soprano, hasta el Si bemol grave en el "a-" de "Yaakov" y de "Teshuatam", tal como lo imprimió Baer.
-- [Contralto](/songs/shoshanat-yaakov/alto): casi siempre una tercera o una sexta bajo la melodía; sus notas más frecuentes son Re y luego Mi bemol, y solo sube a su Si bemol agudo en el "lo" de "velo". En el último verso suave se queda en Re, una nota por sílaba, durante "Vegam Charvona" mientras la melodía se mueve por encima, y se encuentra con ella en "char-".
+- [Soprano](/songs/shoshanat-yaakov/soprano): la melodía; sus notas más frecuentes son Fa y luego Sol. El verso que empieza con "l'hodia" abre con su salto más grande, una sexta de Fa a Re, y sube hasta el Mi bemol agudo en "lo" y el "vo-" de "yevoshu". También desciende por debajo de la extensión habitual de soprano, hasta el Si bemol grave en el "a-" de "Yaakov" y de "Teshuatam", tal como lo imprimió Baer.
+- [Contralto](/songs/shoshanat-yaakov/alto): casi siempre una tercera o una sexta bajo la melodía; sus notas más frecuentes son Re y luego Mi bemol, y solo sube a su Si bemol agudo en el "lo" de "velo". En el último verso suave se queda en Re, una nota por sílaba, durante "Vegam Charvona" mientras la melodía se mueve por encima, y coincide con ella en "char-".
 - [Tenor](/songs/shoshanat-yaakov/tenor): el centro del acorde; sus notas más frecuentes son Si bemol y luego Sol, y sube a su Mi bemol agudo en el "shu," de "yevoshu,", el "ve-" de "velo" y el "yi-" de "yikalmu". La primera vez se queda en su Re grave desde "Shoshanat" hasta el comienzo de "vesamecha"; la segunda vez empieza en Fa y se mueve. Escúchalo solo en el reproductor para oír el cambio.
 - [Bajo](/songs/shoshanat-yaakov/bass): la fundamental de los acordes casi todo el tiempo; sus notas más frecuentes son Si bemol y luego Do. Solo llega a su Si bemol agudo en el "lo" de "velo" y baja a su Fa grave en el "be-" de "bechol", el "va-" de "vador" y el "sim" de "hachosim". En el último verso oscila entre Fa y Si bemol en "zachur latov".
 
@@ -145,11 +145,11 @@ Nuestro arreglo se basa en la página de la tercera edición, en Si bemol como e
 
 ### ¿Se dice Shoshanat Yaakov o Shoshanas Yaakov?
 
-Las dos cosas: son las mismas palabras hebreas dichas de dos maneras. En el hebreo asquenazí, la última letra, tav, se pronuncia "s", así que es Shoshanas Yaakov, y Baer lo imprimió como "Schoschannas jaakow". El hebreo israelí moderno dice "t", así que es Shoshanat Yaakov. Nosotros cantamos la forma israelí moderna, sílaba por sílaba, tal como las notas de Baer llevan la letra.[^baer]
+Las dos formas valen: son las mismas palabras hebreas pronunciadas de dos maneras. En el hebreo asquenazí, la última letra, tav, se pronuncia "s", así que es Shoshanas Yaakov, y Baer lo imprimió como "Schoschannas jaakow". El hebreo israelí moderno dice "t", así que es Shoshanat Yaakov. Nosotros cantamos la forma israelí moderna, ajustada sílaba por sílaba a cómo reparten la letra las notas de Baer.[^baer]
 
 ### ¿Quién escribió Shoshanat Yaakov?
 
-Nadie lo sabe. Sus versos cierran Asher heni, un poema alfabético que está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado por Simhah de Vitry, que había muerto ya en 1105, aunque sus manuscritos llevan también añadidos posteriores. El libro lo encabeza como "un poema de la fundación de los Hombres de la Gran Asamblea", una atribución tradicional, y no nombra a ningún poeta. El último verso, el de Harbona, viene de una costumbre que recoge el Talmud, y tampoco se sabe quién hizo la melodía de Baer.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
+Nadie lo sabe. Sus versos cierran Asher heni, un poema alfabético que está en el Mahzor Vitry, el libro de oraciones de la escuela de Rashi recopilado por Simhah de Vitry, que había muerto ya en 1105, aunque sus manuscritos llevan también añadidos posteriores. El libro lo encabeza como "un poema de la fundación de los Hombres de la Gran Asamblea", una atribución tradicional, y no nombra a ningún poeta. El último verso, el de Harbona, viene de una costumbre que recoge el Talmud, y tampoco se sabe quién compuso la melodía de Baer.[^vitry][^ej-vitry][^je-simhah][^je-great][^yer][^soferim][^baer]
 
 ### ¿Con qué melodías se canta Shoshanat Yaakov?
 
@@ -157,7 +157,7 @@ Con muchas. Se hizo costumbre, dice el Jewish Music Research Centre de Jerusalé
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin, tal como la imprimió Baer para el cantor; donde su impresión se divide un momento en dos voces, toma la más grave. Con dos cantantes son soprano y contralto, con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.[^baer]
+La soprano canta la melodía de principio a fin, tal como la imprimió Baer para el cantor; donde su impresión se divide un momento en dos voces, toma la más grave. Dos cantantes son soprano y contralto; con el bajo son tres, y con el tenor, que llena el centro de cada acorde, cuatro.[^baer]
 
 ## Canta después
 

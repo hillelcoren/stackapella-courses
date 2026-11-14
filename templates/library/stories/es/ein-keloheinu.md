@@ -21,25 +21,25 @@ translatedFrom: 1a1c04bbd486
 original: Union Hymnal (Nueva York, 1897), Internet Archive | https://archive.org/details/unionhymnal0000unse_l7i5
 ---
 
-Ein Keloheinu, también escrito En Kelohenu, es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Amo, nuestro Rey, nuestro Salvador. En el rito asquenazí llega al cierre del oficio adicional de los sabbats y las fiestas, aunque los libros de oraciones asquenazíes para Israel lo traen también entre semana; los judíos sefardíes lo dicen también entre semana.[^ej][^huji][^sefaria] Nadie sabe quién lo escribió ni cuándo, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquier melodía, así que los compositores siguen poniéndole música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro músicas distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
+Ein Keloheinu, también escrito En Kelohenu, es un himno hebreo de cinco estrofas cortas que alaban a Hashem con cuatro títulos: Hashem, nuestro Amo, nuestro Rey, nuestro Salvador. En el rito asquenazí se dice al cierre del oficio adicional de los sabbats y las fiestas, aunque los libros de oraciones asquenazíes para Israel lo incluyen también entre semana; los judíos sefardíes también lo dicen entre semana.[^ej][^huji][^sefaria] Nadie sabe quién lo escribió ni cuándo, pero ya está en el libro de oraciones de Amram Gaon, del siglo IX.[^ej][^milken] Su letra es más antigua que cualquiera de sus melodías, y los compositores no han dejado de ponerle música: el Union Hymnal, un himnario reformista estadounidense de 1897, imprimió cuatro músicas distintas, una tras otra.[^je][^uh1897][^uh1932] La melodía que cantamos es la que Julius Freudenthal escribió para la sinagoga de Braunschweig, impresa allí en 1843.[^idel29][^austerklein]
 
 ## De dónde viene
 
-**La letra.** Nadie sabe qué antigüedad tiene el himno. El Jewish Music Research Centre y la Posen Library lo sitúan en la Alta Edad Media, la época de los Geonim.[^huji][^posen] El libro de oraciones más antiguo que se sabe que lo incluye es el de Amram Gaon, del siglo IX: el documento más antiguo de la letra, aunque no prueba cuándo se hizo.[^ej][^milken] Allí sus estrofas van en otro orden: la Jewish Encyclopedia de 1903 lo leía como si empezara con la pregunta, "¿Quién es como Hashem?", y solo después respondiera: "No hay nadie como Hashem", y la traducción del texto de Amram en la Posen Library empieza igual.[^je][^posen] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
+**La letra.** Nadie sabe qué antigüedad tiene el himno. El Jewish Music Research Centre y la Posen Library lo sitúan en la Alta Edad Media, la época de los Geonim.[^huji][^posen] El libro de oraciones más antiguo que se sabe que lo incluye es el de Amram Gaon, del siglo IX: es el testimonio más antiguo de la letra, aunque no prueba cuándo se escribió.[^ej][^milken] Allí sus estrofas van en otro orden: según la lectura de la Jewish Encyclopedia de 1903, empezaba con la pregunta, "¿Quién es como Hashem?", y solo después respondía: "No hay nadie como Hashem"; la traducción del texto de Amram en la Posen Library empieza igual.[^je][^posen] Las dos enciclopedias no coinciden en cuándo se fijó el orden actual. La Jewish Encyclopedia dice que el himno ya tenía su forma actual en tiempos de Rashi, que comentó su acróstico; la Encyclopaedia Judaica dice que el libro de oraciones de Rashi aún tenía las estrofas en otro orden.[^je][^ej]
 
-Ese acróstico esconde una palabra en las letras iniciales del himno. Las primeras letras de las tres primeras estrofas, Ein, Mi y Node, forman Amén. Las dos últimas estrofas empiezan con Baruch y Ata, "Bendito eres Tú", las palabras con que empieza toda bendición judía.[^je][^ej][^miller]
+En ese acróstico, las letras iniciales del himno esconden una palabra. Las primeras letras de las tres primeras estrofas, Ein, Mi y Node, forman Amén. Las dos últimas estrofas empiezan con Baruch y Ata, "Bendito eres Tú", las palabras con que empieza toda bendición judía.[^je][^ej][^miller]
 
-**La melodía.** Julius Freudenthal nació en Braunschweig en 1805 y murió allí en 1874. Fue uno de los violinistas principales de la orquesta de la corte del duque de Brunswick y llegó a director musical de la corte.[^adb][^idel29][^nds] En 1842 la comunidad judía de la ciudad contrató a un nuevo cantor, Hirsch Goldberg, y los dos modernizaron juntos el canto de la sinagoga.[^idel29][^nds] Goldberg publicó el resultado en 1843: un libro de cantos para el cantor y un pequeño coro, algunos de ellos, dice su prólogo, a dos voces. A. Z. Idelsohn, el historiador de la música judía, escribió en 1929 que Freudenthal aportó varias melodías, "sobre todo su famosa melodía para En Kelohenu", que Idelsohn fechaba en 1841.[^idel29][^austerklein]
+**La melodía.** Julius Freudenthal nació en Braunschweig en 1805 y murió allí en 1874. Fue uno de los violinistas principales de la orquesta de la corte del duque de Brunswick y llegó a director musical de la corte.[^adb][^idel29][^nds] En 1842 la comunidad judía de la ciudad contrató a un nuevo cantor, Hirsch Goldberg, y los dos modernizaron juntos el canto de la sinagoga.[^idel29][^nds] Goldberg publicó el resultado en 1843: un libro de cantos para el cantor y un pequeño coro, algunos a dos voces, según su prólogo. A. Z. Idelsohn, el historiador de la música judía, escribió en 1929 que Freudenthal aportó varias melodías, "sobre todo su famosa melodía para En Kelohenu", que Idelsohn fechaba en 1841.[^idel29][^austerklein]
 
 ![[1]]
 
-La primera edición se agotó en apenas un año, escribió Goldberg en la segunda, de 1845, que lleva un prólogo de Freudenthal.[^bs1845] Allí la melodía es la n.º 2 de dos músicas para el himno, firmada solo "J. F.", en las páginas de la mañana del sabbat, justo después del oficio adicional. El coro canta las estrofas 1, 3 y 5 a dos voces, y el cantor responde solo con las estrofas 2 y 4, con una segunda sección de la melodía.[^bs1845]
+Según escribió Goldberg en la segunda edición, de 1845, que lleva un prólogo de Freudenthal, la primera se agotó en apenas un año.[^bs1845] Allí la melodía es la n.º 2 de las dos músicas del himno, firmada solo "J. F.", en las páginas de la mañana del sabbat, justo después del oficio adicional. El coro canta las estrofas 1, 3 y 5 a dos voces, y el cantor responde a solas con las estrofas 2 y 4, sobre una segunda sección de la melodía.[^bs1845]
 
 ![[2]]
 
-De Alemania, la melodía pasó a América. El Union Hymnal de la Central Conference of American Rabbis, hecho para las congregaciones reformistas, la imprimió a cuatro voces en 1897 como la primera de sus cuatro músicas para el himno, sin compositor en la página y solo con "German" en el índice.[^uh1897][^uh1932][^idel29] Su tercera edición, de 1932, la incluye en la música del oficio de la mañana del sabbat y nombra a Julius Freudenthal.[^uh1932]
+De Alemania, la melodía pasó a Estados Unidos. El Union Hymnal de la Central Conference of American Rabbis, hecho para las congregaciones reformistas, la imprimió a cuatro voces en 1897 como la primera de sus cuatro músicas para el himno, sin nombre de compositor en la página y con solo "German" en el índice.[^uh1897][^uh1932][^idel29] Su tercera edición, de 1932, la incluye en la música del oficio de la mañana del sabbat y nombra a Julius Freudenthal.[^uh1932]
 
-**Mito y documentos.** Se suele contar que esta melodía, como otras melodías alemanas de sinagoga, empezó siendo una vieja canción alemana de taberna.[^austerklein] Lo que muestran los documentos: la escribió un músico de la corte con nombre y apellido para la sinagoga de Braunschweig, y el propio cancionero de la sinagoga la imprimió; el índice del himnario de 1897, que no nombra a ningún compositor, dice solo "German".[^idel29][^bs1845][^uh1897] Idelsohn oía en su primera parte un parecido con una melodía de iglesia alemana de 1774, y las imprimió juntas en una tabla. Un artículo de 2026 sobre la melodía cuenta que una tesis de máster sobre la música de la sinagoga de Braunschweig rechaza ese préstamo.[^idel29][^austerklein]
+**Mito y documentos.** Se suele contar que esta melodía, como otras melodías alemanas de sinagoga, empezó siendo una vieja canción alemana de taberna.[^austerklein] Lo que muestran los documentos: la escribió un músico de la corte con nombre y apellido para la sinagoga de Braunschweig, y el propio cancionero de la sinagoga la imprimió; el índice del himnario de 1897, que no nombra a ningún compositor, dice solo "German".[^idel29][^bs1845][^uh1897] Idelsohn oía en su primera parte un parecido con una melodía de iglesia alemana de 1774, y las imprimió una junto a otra en una tabla. Un artículo de 2026 sobre la melodía cuenta que una tesis de maestría sobre la música de la sinagoga de Braunschweig rechaza ese préstamo.[^idel29][^austerklein]
 
 ### Cronología
 
@@ -53,19 +53,19 @@ De Alemania, la melodía pasó a América. El Union Hymnal de la Central Confere
 
 ## Qué dice la letra
 
-El himno está hecho de cuatro títulos. Cada estrofa recorre los mismos cuatro títulos, Elokeinu, Hashem; Adoneinu, nuestro Amo; Malkeinu, nuestro Rey; Moshienu, nuestro Salvador, y solo cambia la palabra de delante.[^je][^mjl]
+El himno se construye con cuatro títulos. Cada estrofa recorre los mismos cuatro (Elokeinu, Hashem; Adoneinu, nuestro Amo; Malkeinu, nuestro Rey; Moshienu, nuestro Salvador), y solo cambia la palabra que va delante.[^je][^mjl]
 
 **Estrofa 1.** No hay nadie como Hashem, nadie como nuestro Amo, nadie como nuestro Rey, nadie como nuestro Salvador. Ke- significa "como".
 
-**Estrofa 2.** ¿Quién es como Hashem, nuestro Amo, nuestro Rey, nuestro Salvador? La pregunta llega después de su respuesta; en tiempos de Amram, según lo lee la Jewish Encyclopedia, la pregunta iba primero.[^je]
+**Estrofa 2.** ¿Quién es como Hashem, nuestro Amo, nuestro Rey, nuestro Salvador? La pregunta llega después de su respuesta; en tiempos de Amram, según la lectura de la Jewish Encyclopedia, la pregunta iba primero.[^je]
 
 **Estrofa 3.** Damos gracias a Hashem, nuestro Amo, nuestro Rey, nuestro Salvador. Node significa "damos gracias".
 
 **Estrofa 4.** Bendito sea Hashem, nuestro Amo, nuestro Rey, nuestro Salvador.
 
-**Estrofa 5.** Tú eres Hashem, nuestro Amo, nuestro Rey, nuestro Salvador. El himno termina hablándole a Hashem directamente. En el libro de oraciones asquenazí sigue un verso más, que recuerda el incienso que ofrecían los antepasados y lleva al pasaje sobre el incienso del Templo que se lee a continuación.[^je][^posen]
+**Estrofa 5.** Tú eres Hashem, nuestro Amo, nuestro Rey, nuestro Salvador. El himno termina dirigiéndose directamente a Hashem. En el libro de oraciones asquenazí sigue un verso más, que recuerda el incienso que ofrecían los antepasados y lleva al pasaje sobre el incienso del Templo que se lee a continuación.[^je][^posen]
 
-La página muestra nuestra letra con la pronunciación israelí moderna. El himnario de 1897 la escribía a la manera asquenazí, "En Kelohenu", "Boruch", "Atto hu", con las mismas sílabas bajo las mismas notas.[^uh1897] Lo cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kelokeinu y Elokeinu: es costumbre no pronunciar el nombre de Hashem completo fuera de la oración, y una canción para practicar está fuera de la oración. El título conserva la grafía con la que se conoce la oración.
+En la página, nuestra letra va con la pronunciación israelí moderna. El himnario de 1897 la escribía a la manera asquenazí, "En Kelohenu", "Boruch", "Atto hu", con las mismas sílabas bajo las mismas notas.[^uh1897] Lo cantamos con los nombres sustitutos que se acostumbran al cantar fuera de la oración, Kelokeinu y Elokeinu: es costumbre no pronunciar el nombre completo de Hashem fuera de la oración, y practicar una canción no es rezar. El título conserva la grafía con la que se conoce la oración.
 
 ### La letra completa
 
@@ -151,7 +151,7 @@ el incienso de especias.
 
 ## Cómo se canta
 
-En el rito asquenazí, Ein Keloheinu sigue al oficio adicional, el Musaf, los sabbats y las fiestas; en el rito sefardí cierra también el oficio de la mañana entre semana, y los libros de oraciones asquenazíes para Israel lo traen también en el oficio de la mañana entre semana.[^ej][^huji][^sefaria] También se cantaba en casa, en la mesa del sabbat.[^je][^huji] El comentarista medieval Rashi dejó constancia de la costumbre asquenazí de reservarlo para los sabbats y las fiestas. La Encyclopaedia Judaica da su razón: la Amidah del sabbat, la oración central, tiene siete bendiciones en lugar de las diecinueve de entre semana, y las alabanzas del himno compensan parte de la diferencia.[^ej][^posen][^mjl]
+En el rito asquenazí, Ein Keloheinu sigue al oficio adicional, el Musaf, los sabbats y las fiestas; en el rito sefardí cierra también el oficio de la mañana entre semana, y los libros de oraciones asquenazíes para Israel lo incluyen también en el oficio de la mañana entre semana.[^ej][^huji][^sefaria] También se cantaba en casa, en la mesa del sabbat.[^je][^huji] El comentarista medieval Rashi dejó constancia de la costumbre asquenazí de reservarlo para los sabbats y las fiestas. La Encyclopaedia Judaica explica el motivo: la Amidah del sabbat, la oración central, tiene siete bendiciones en lugar de las diecinueve de entre semana, y las alabanzas del himno compensan parte de la diferencia.[^ej][^posen][^mjl]
 
 La melodía de Freudenthal avanza en frases cortas y regulares, y en Braunschweig era un diálogo entre el coro y el cantor.[^bs1845] El Union Hymnal la convirtió en un himno sencillo a cuatro voces para todo el coro, con las cinco estrofas.[^uh1897]
 
@@ -163,19 +163,19 @@ Nuestro arreglo se basa en el Union Hymnal de 1897, n.º 17. El libro lo imprime
 
 ## Versiones y otras letras
 
-**Otras melodías.** El Union Hymnal de 1897 sigue la melodía de Freudenthal con otras tres músicas para la misma letra, de Louis Lewandowski, I. M. Japhet y Alois Kaiser.[^uh1897] El libro de Braunschweig de 1845 imprime otra música justo antes de la suya.[^bs1845] Las congregaciones sefardíes lo cantan con melodías tradicionales propias.[^je][^milken]
+**Otras melodías.** El Union Hymnal de 1897 imprime después de la melodía de Freudenthal otras tres músicas para la misma letra, de Louis Lewandowski, I. M. Japhet y Alois Kaiser.[^uh1897] El libro de Braunschweig de 1845 imprime otra música justo antes de la suya.[^bs1845] Las congregaciones sefardíes lo cantan con melodías tradicionales propias.[^je][^milken]
 
 ## ¿Sabías que...?
 
-- El Union Hymnal de 1897 imprime cuatro músicas para Ein Keloheinu seguidas, los n.os 17 a 20; ningún otro himno de su sección hebrea tiene más de dos. [^uh1897]
+- El Union Hymnal de 1897 imprime seguidas cuatro músicas para Ein Keloheinu, los n.os 17 a 20; ningún otro himno de su sección hebrea tiene más de dos. [^uh1897]
 - En su prefacio de 1843, Goldberg escribió que su libro transcribe el hebreo a medio camino entre la pronunciación alemana y la portuguesa: quería adoptar del todo la portuguesa, pero sin dejar atrás a los cantantes que no podían seguir un cambio tan rápido. [^bs1845]
 
 ## Cómo cantarla
 
 - [Soprano](/songs/ein-keloheinu/soprano): la melodía de Freudenthal, con más frecuencia en Sol, luego en Si. Sube a su Mi agudo en el segundo "ke-" de "kemalkenu," en la estrofa 1 y en el "ke-" de "lemalkenu," en la estrofa 3 y de "malkenu," en la estrofa 5, y solo baja a su Do sostenido grave cerca del final de las estrofas 2 y 4, en el "shi-" de "ch'moshienu." y de "moshienu.".
-- [Contralto](/songs/ein-keloheinu/alto): por debajo de la melodía, sobre todo una tercera o una sexta más abajo; su nota más frecuente es Re. Toca su Si grave en el "Ein" inicial, en "Node" y en el "ta hu" de "Ata hu", y en el último "moshienu." termina en su Si agudo, una tercera por encima de la melodía.
+- [Contralto](/songs/ein-keloheinu/alto): por debajo de la melodía, sobre todo una tercera o una sexta más abajo; su nota más frecuente es Re. Llega a su Si grave en el "Ein" inicial, en "Node" y en el "ta hu" de "Ata hu", y en el último "moshienu." termina en su Si agudo, una tercera por encima de la melodía.
 - [Tenor](/songs/ein-keloheinu/tenor): el centro del acorde; su nota más frecuente es La. Se queda en La durante unas tres cuartas partes de las estrofas 2 y 4, y sube a su Mi agudo en la última sílaba de "kemalkenu," en la estrofa 1 y de "lemalkenu," en la estrofa 3, justo después del punto más alto de la melodía, y en el "a-" del último "ata" de la estrofa 5.
-- [Bajo](/songs/ein-keloheinu/bass): la línea del bajo, sobre todo en la fundamental de los acordes y sobre todo en Sol y Re. Solo baja a su La grave en las estrofas 2 y 4, en el "mi chado-" de "mi chadoneinu,", el "ch'moshie-" de "ch'moshienu.", el "baruch ado-" de "baruch adoneinu," y el "moshie-" de "moshienu.".
+- [Bajo](/songs/ein-keloheinu/bass): la línea del bajo, casi siempre en la fundamental de los acordes, sobre todo en Sol y Re. Solo baja a su La grave en las estrofas 2 y 4, en el "mi chado-" de "mi chadoneinu,", el "ch'moshie-" de "ch'moshienu.", el "baruch ado-" de "baruch adoneinu," y el "moshie-" de "moshienu.".
 
 ## Preguntas
 
@@ -189,7 +189,7 @@ Nadie sabe quién escribió la letra, ni cuándo. El libro de oraciones más ant
 
 ### ¿Cuándo se dice Ein Keloheinu?
 
-Al final del oficio del sabbat y de las fiestas en la mayoría de las sinagogas asquenazíes, justo después del Musaf. Los judíos sefardíes lo dicen también entre semana, al cierre del oficio de la mañana, y los libros de oraciones asquenazíes para Israel lo traen ahí también. También se ha cantado en casa, en la mesa del sabbat.[^ej][^huji][^sefaria][^je]
+Al final del oficio del sabbat y de las fiestas en la mayoría de las sinagogas asquenazíes, justo después del Musaf. Los judíos sefardíes lo dicen también entre semana, al cierre del oficio de la mañana, y los libros de oraciones asquenazíes para Israel también lo incluyen en ese lugar. También se ha cantado en casa, en la mesa del sabbat.[^ej][^huji][^sefaria][^je]
 
 ### ¿Se canta Ein Keloheinu en ladino?
 
@@ -197,7 +197,7 @@ Sí. Existe una versión en ladino, o judeoespañol, de las comunidades sefardí
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agudo en el segundo "ke-" de "kemalkenu," en la estrofa 1. Con dos cantantes son soprano y contralto, la contralto sobre todo una tercera o una sexta por debajo; con tres se suma el bajo, y con cuatro el tenor llena el centro de cada acorde.
+La soprano canta la melodía de Freudenthal de principio a fin, hasta su Mi agudo en el segundo "ke-" de "kemalkenu," en la estrofa 1. Dos cantantes son soprano y contralto, con la contralto casi siempre una tercera o una sexta por debajo; con el bajo son tres, y con el tenor, que llena el centro de cada acorde, cuatro.
 
 ## Canta después
 

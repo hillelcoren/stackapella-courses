@@ -22,21 +22,21 @@ translatedFrom: 2a2b5b0bd25f
 original: The Union Haggadah (Estados Unidos, 1923), Internet Archive | https://archive.org/details/unionhaggadahhom00unse
 ---
 
-Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí llega una vez terminada la parte formal del séder, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem como poderoso, elegido, grande, santo y más, y cada una termina con la misma súplica: construye Tu casa, el Templo, pronto.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, tiene una sola melodía casi en todas partes, y las sinagogas la tomaron prestada para marcar la fiesta en sus propias oraciones.[^je][^ej]
+Adir Hu es un himno hebreo que se canta en el séder de Pésaj, el rito en casa y la cena festiva de las primeras noches de la fiesta.[^je][^idel29] En el rito asquenazí se canta una vez terminada la parte formal del séder, entre los cantos que cierran la velada.[^ej][^sefaria] Sus estrofas recorren el alfabeto hebreo y alaban a Hashem con nombres como poderoso, elegido, grande y santo, y cada una termina con la misma súplica: construye pronto Tu casa, el Templo.[^je][^ej][^sefaria] A diferencia de la mayoría de los cantos del séder, se canta casi en todas partes con la misma melodía, y las sinagogas la tomaron para dar sello de fiesta a sus propias oraciones.[^je][^ej]
 
 ## De dónde viene
 
-Nadie sabe quién escribió la letra. La mayoría de las fuentes dicen que Adir Hu llegó tarde a la Hagadá, el libro del séder. La Jewish Encyclopedia dice que no se encuentra en ella mucho antes de finales del siglo XV, y la Union Haggadah de 1923 dice que en el siglo XV "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] La Encyclopaedia Judaica lo cuenta entre los himnos añadidos en la Edad Media e impresos desde el siglo XVI.[^ej] A. Z. Idelsohn, el historiador de la música judía, lo sitúa de forma más amplia entre los cantos populares del séder compuestos "a partir del siglo X".[^idel29]
+Nadie sabe quién escribió la letra. La mayoría de las fuentes dicen que Adir Hu llegó tarde a la Hagadá, el libro del séder. La Jewish Encyclopedia dice que no se encuentra en ella mucho antes de finales del siglo XV, y la Union Haggadah de 1923 dice que en el siglo XV "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] La Encyclopaedia Judaica lo cuenta entre los himnos añadidos en la Edad Media e impresos desde el siglo XVI.[^ej] A. Z. Idelsohn, el historiador de la música judía, lo sitúa, con un margen más amplio, entre los cantos populares del séder compuestos "a partir del siglo X".[^idel29]
 
 ![[1]]
 
-Adir Hu tiene un gemelo. Ki Lo Na'eh, que se canta justo antes, recorre el alfabeto de la misma manera.[^je][^sefaria] Las notas de la Union Haggadah dicen que los dos se añadieron en el siglo XV.[^uh1923] La Jewish Encyclopedia dice que Adir Hu empezó como himno para todas las fiestas y luego se adoptó como compañero de Ki Lo Na'eh: al principio Ki Lo Na'eh se cantaba la primera noche de Pésaj y Adir Hu la segunda, y solo unos dos siglos antes de 1901 se empezó a cantar los dos cada noche.[^je] La Jewish Encyclopedia veía la diferencia en sus propósitos: Ki Lo Na'eh alaba el poder que puede redimir a Israel, mientras que Adir Hu le ruega a ese poder que se dé prisa y reconstruya.[^je]
+Adir Hu tiene un gemelo. Ki Lo Na'eh, que se canta justo antes, recorre el alfabeto de la misma manera.[^je][^sefaria] Las notas de la Union Haggadah dicen que los dos se añadieron en el siglo XV.[^uh1923] La Jewish Encyclopedia dice que Adir Hu empezó como himno para todas las fiestas y luego se adoptó como compañero de Ki Lo Na'eh: al principio Ki Lo Na'eh se cantaba la primera noche de Pésaj y Adir Hu la segunda, y solo unos dos siglos antes de 1901 se empezaron a cantar los dos cada noche.[^je] La Jewish Encyclopedia veía la diferencia en sus propósitos: Ki Lo Na'eh alaba el poder que puede redimir a Israel, mientras que Adir Hu le ruega a ese poder que se dé prisa y reconstruya.[^je]
 
-Una versión judeoalemana, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Hashem todopoderoso, construye ahora pronto Tu Templo", se cantó mucho en otro tiempo, y la Jewish Encyclopedia la encontraba aún en uso en 1901.[^je][^idel29] Como en el hebreo, sus estrofas cambiaban la palabra de alabanza cada vez: Hashem todopoderoso, Hashem misericordioso, y así.[^je] La Encyclopaedia Judaica da como su primera impresión conocida la Hagadá de Gershom ben Solomon ha-Kohen, en Praga.[^ej] Allí está debajo del himno hebreo, en letras hebreas, con sus palabras de alabanza también en el orden del alfabeto hebreo: Barmherziger (misericordioso), Gerechter (justo), y así. El colofón de esa página fecha la obra en el mes de tevet del año 5287, el invierno de 1526 a 1527; el libro se fecha en 1526, y en 1527 en la Encyclopaedia Judaica.[^prague][^ej] La Jewish Encyclopedia encontró la versión alemana incluso en una Hagadá del rito español impresa en Ámsterdam en 1612.[^je] Idelsohn escribe que se la llamaba el Baugesang, el canto de la reconstrucción del Templo, y la Encyclopaedia Judaica dice que por su estribillo los judíos del sur y el oeste de Alemania llamaban a la noche del séder la Baunacht.[^idel29][^ej]
+Una versión judeoalemana, "Allmächtiger Gott, nun bau dein' Tempel schiere", "Hashem todopoderoso, construye ahora pronto Tu Templo", se cantó mucho en otros tiempos, y en 1901 la Jewish Encyclopedia todavía la registraba en uso.[^je][^idel29] Como en el hebreo, sus estrofas cambiaban la palabra de alabanza cada vez: Hashem todopoderoso, Hashem misericordioso, y así sucesivamente.[^je] La Encyclopaedia Judaica señala como su primera impresión conocida la Hagadá de Gershom ben Solomon ha-Kohen, en Praga.[^ej] Allí aparece debajo del himno hebreo, en caracteres hebreos, con sus palabras de alabanza también en el orden del alfabeto hebreo: Barmherziger (misericordioso), Gerechter (justo), y así sucesivamente. El colofón de esa página fecha la obra en el mes de tevet del año 5287, el invierno de 1526 a 1527; el libro se fecha en 1526 (en 1527, según la Encyclopaedia Judaica).[^prague][^ej] La Jewish Encyclopedia encontró la versión alemana incluso en una Hagadá del rito español impresa en Ámsterdam en 1612.[^je] Idelsohn escribe que se la llamaba el Baugesang, el canto de la reconstrucción del Templo, y la Encyclopaedia Judaica dice que por su estribillo los judíos del sur y el oeste de Alemania llamaban a la noche del séder la Baunacht.[^idel29][^ej]
 
 ![[2]]
 
-La primera impresión conocida de la melodía está en una Hagadá con traducciones al latín y al alemán, publicada en Königsberg en 1644 por J. S. Rittangel, un hebraísta cristiano que enseñaba allí lenguas orientales.[^je][^idel29][^brown][^braginsky][^chalmers] Su libro da las melodías de los cantos que se cantaban al cerrar el séder, y la Jewish Encyclopedia dice que imprimió la de Adir Hu con una parte de bajo.[^je][^braginsky][^niv] La forma de 1644 es más sencilla que la nuestra. La enciclopedia dijo que tenía "el carácter de una salmodia monótona más que de una melodía fija", y pensaba que los bajos de la mesa, haciendo la segunda voz por debajo, pronto llegaron a frases más cercanas a la melodía que se cantaba en 1901.[^je] Idelsohn siguió ese cambio a través de otras dos impresiones, ambas en Leipzig, en 1677 y 1769. La Jewish Encyclopedia encontró la forma de 1769 "casi exactamente" igual a la melodía que se cantaba en el norte de Alemania en 1901.[^idel29][^je]
+La primera impresión conocida de la melodía está en una Hagadá con traducciones al latín y al alemán, publicada en Königsberg en 1644 por J. S. Rittangel, un hebraísta cristiano que enseñaba allí lenguas orientales.[^je][^idel29][^brown][^braginsky][^chalmers] Su libro recoge las melodías de los cantos que se cantaban al cerrar el séder, y la Jewish Encyclopedia dice que imprimió la de Adir Hu con una parte de bajo.[^je][^braginsky][^niv] La forma de 1644 es más sencilla que la nuestra. La enciclopedia dijo que tenía "el carácter de una salmodia monótona más que de una melodía fija", y pensaba que los bajos sentados a la mesa, al hacer la segunda voz por debajo, pronto dieron con frases más cercanas a la melodía que se cantaba en 1901.[^je] Idelsohn siguió ese cambio en otras dos impresiones, ambas en Leipzig, en 1677 y 1769. La Jewish Encyclopedia consideró la forma de 1769 "casi exactamente" igual a la melodía que se cantaba en el norte de Alemania en 1901.[^idel29][^je]
 
 ![[3]]
 
@@ -46,26 +46,26 @@ No está claro de dónde viene la melodía. La Jewish Encyclopedia la tenía por
 
 - siglo XV: Adir Hu entra en la Hagadá, según la datación de la Jewish Encyclopedia y de la Union Haggadah. [^je][^uh1923]
 - 1526: La Hagadá de Praga imprime el himno hebreo con la versión judeoalemana debajo. [^prague][^ej]
-- 1612: Una Hagadá del rito español impresa en Ámsterdam trae la versión alemana. [^je]
-- 1644: La Hagadá de J. S. Rittangel, en Königsberg, trae la primera impresión conocida de la melodía. [^je][^idel29]
+- 1612: Una Hagadá del rito español impresa en Ámsterdam incluye la versión alemana. [^je]
+- 1644: La Hagadá de J. S. Rittangel, en Königsberg, contiene la primera impresión conocida de la melodía. [^je][^idel29]
 - 1677: Friedrich Albrecht Christiani, que había sido cantor en Bruchsal, imprime en Leipzig una segunda forma de la melodía. [^idel29][^jechristiani]
 - 1769: Der Jude, de Gottfried Selig, en Leipzig, imprime la melodía con letra alemana, casi como se cantaba en el norte de Alemania en 1901. [^je][^idel29]
-- 1897: El Union Hymnal pone el himno inglés de Gustav Gottheil "God of Might, God of Right" con esta melodía. [^uh1897][^hymnary]
+- 1897: El Union Hymnal une el himno inglés de Gustav Gottheil "God of Might, God of Right" a esta melodía. [^uh1897][^hymnary]
 - 1923: La Union Haggadah revisada imprime "Addir Hu" en hebreo, para voz y piano; nuestro arreglo está tomado de esa página. [^uh1923]
 
 ## Qué dice la letra
 
-El título son las primeras palabras: adir es poderoso, hu es él. "Él es poderoso".[^sefaria] El himno completo tiene ocho estrofas. La primera tiene una palabra, para la letra álef, y las otras siete tienen tres palabras cada una, así que los nombres avanzan desde bet hasta la última letra, tav.[^je][^sefaria] La Union Haggadah, que es la que cantamos, imprime tres estrofas que toman nombres de todo el himno, y cada estrofa mantiene el orden del alfabeto.[^uh1923][^sefaria]
+El título es el comienzo del himno: adir es "poderoso" y hu, "él": "Él es poderoso".[^sefaria] El himno completo tiene ocho estrofas. La primera tiene una sola palabra, para la letra álef, y las otras siete, tres cada una, de modo que los nombres avanzan desde bet hasta tav, la última letra.[^je][^sefaria] La Union Haggadah, cuya versión cantamos, imprime tres estrofas con nombres tomados de todo el himno, y cada una respeta el orden del alfabeto.[^uh1923][^sefaria]
 
 **El estribillo, en cada estrofa.** Yivne veito bekarov: que construya pronto Su casa. Bimhera, bimhera, beyameinu bekarov: deprisa, deprisa, en nuestros días, pronto. Kel bene, Kel bene, b'ne veitcha bekarov: Hashem, construye; Hashem, construye; construye pronto Tu casa.[^sefaria] Su casa es el Templo de Jerusalén.[^ej][^je][^idel29]
 
-**Estrofa 1.** Adir hu: Él es poderoso. El libro lo imprime dos veces, y nuestra melodía lo canta una tercera vez para llenar los compases que las otras estrofas llenan con tres nombres.[^uh1923]
+**Estrofa 1.** Adir hu: Él es poderoso. El libro lo imprime dos veces, y nuestra melodía lo canta una tercera vez para llenar los compases que en las otras estrofas ocupan tres nombres.[^uh1923]
 
 **Estrofa 2.** Bachur hu, gadol hu, yachid hu: Él es elegido, Él es grande, Él es uno. Los dos primeros abren la segunda estrofa del himno; yachid, "uno" o "único", viene de la cuarta.[^sefaria][^uh1923]
 
 **Estrofa 3.** Tzadik hu, kadosh hu, rachum hu: Él es justo, Él es santo, Él es compasivo. Estos vienen de las dos últimas estrofas del himno.[^sefaria][^uh1923]
 
-En lugar de dos de los nombres de Hashem cantamos Kel y Shakai, las formas sustitutas que se acostumbran al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando no están rezando ni leyendo un versículo entero, por deferencia y para no tomar el nombre en vano.[^ohr][^lewis]
+En lugar de dos de los nombres de Hashem cantamos Kel y Shakai, las formas sustitutas que se acostumbran cuando se canta fuera de la oración. Muchos judíos cambian los nombres de Hashem cuando no están rezando ni leyendo un versículo entero, por deferencia y para no tomar el nombre en vano.[^ohr][^lewis]
 
 ### La letra completa
 
@@ -177,51 +177,51 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
 ## Cómo se canta
 
-Adir Hu es sobre todo un canto del séder asquenazí. En el orden tradicional llega después de los salmos del Hallel y de las palabras que cierran el rito: primero Ki Lo Na'eh, luego Adir Hu, y más tarde la canción de contar Echad Mi Yodea y Chad Gadya.[^sefaria][^ej] La Union Haggadah del movimiento reformista mantiene los cantos después de la cuarta copa de vino, pero pone Adir Hu antes de Ki Lo Na'eh.[^uh1923] La Jewish Encyclopedia pensaba que la melodía cambió poco una vez que tomó esta forma, porque una familia en la mesa, con los niños, podía cantarla sin los giros difíciles del canto de sinagoga.[^je]
+Adir Hu es sobre todo un canto del séder asquenazí. En el orden tradicional va después de los salmos del Hallel y de las palabras que cierran el rito: primero Ki Lo Na'eh, luego Adir Hu, y más tarde Echad Mi Yodea, la canción de contar, y Chad Gadya.[^sefaria][^ej] La Union Haggadah del movimiento reformista mantiene los cantos después de la cuarta copa de vino, pero pone Adir Hu antes de Ki Lo Na'eh.[^uh1923] La Jewish Encyclopedia pensaba que la melodía cambió poco una vez que tomó esta forma, porque una familia sentada a la mesa, niños incluidos, podía cantarla sin los giros difíciles del canto de sinagoga.[^je]
 
-Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí está encabezado "Chorus" (coro), marcado Maestoso y "Traditional" (tradicional), en Do mayor y en 4/4, para voz y piano.[^uh1923] Lo cantamos a un tempo majestuoso, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "yivneh veso b'korov"; nosotros lo reescribimos en pronunciación israelí moderna, así que "b'korov" se vuelve "bekarov".[^uh1923] Cantamos sus tres estrofas para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Hay dos respiraciones breves marcadas para principiantes.
+Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí lleva el encabezado "Chorus" (coro), la indicación Maestoso y la nota "Traditional" (tradicional), en Do mayor y en 4/4, para voz y piano.[^uh1923] Lo cantamos a un tempo majestuoso, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "yivneh veso b'korov"; nosotros lo pasamos a la pronunciación israelí moderna, así que "b'korov" pasa a ser "bekarov".[^uh1923] Cantamos sus tres estrofas para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Hemos marcado dos respiraciones breves para principiantes.
 
 ![[4]]
 
 ## ¿Sabías que...?
 
-- La Jewish Encyclopedia llamó costumbre antigua a cantar las respuestas del Salmo 118 con la melodía de Adir Hu, aunque no tan antigua como 1644, cuando Rittangel escribió que esos versículos tenían una melodía propia. La Union Haggadah todavía pone los primeros versículos del salmo con una variación de la melodía, y la Encyclopaedia Judaica añade el kadish sobre el rollo de la Torá y la bendición sacerdotal a las oraciones que se cantan con ella.[^je][^uh1923][^ej]
-- Las tres primeras impresiones de la melodía que recoge Idelsohn las hicieron cristianos: Rittangel, un hebraísta cristiano del que no se sabe con certeza en qué religión nació, y dos hombres a los que Idelsohn llama conversos, Christiani, que había sido cantor en Bruchsal y que, según la Jewish Encyclopedia, volvió más tarde al judaísmo, y Gottfried Selig, cuyo semanario Der Jude explicaba las costumbres judías a los lectores alemanes.[^idel29][^brown][^niv][^jechristiani][^kestenbaum]
+- Según la Jewish Encyclopedia, cantar las respuestas del Salmo 118 con la melodía de Adir Hu es una costumbre antigua, aunque no tanto como 1644: ese año Rittangel escribió que esos versículos tenían una melodía propia. La Union Haggadah todavía canta los primeros versículos del salmo con una variante de la melodía, y la Encyclopaedia Judaica añade el kadish sobre el rollo de la Torá y la bendición sacerdotal a las oraciones que se cantan con ella.[^je][^uh1923][^ej]
+- Las tres primeras impresiones de la melodía que recoge Idelsohn las hicieron cristianos: Rittangel, un hebraísta cristiano del que no se sabe con certeza en qué religión nació, y dos hombres a los que Idelsohn llama conversos: Christiani, que había sido cantor en Bruchsal y que, según la Jewish Encyclopedia, volvió más tarde al judaísmo, y Gottfried Selig, cuyo semanario Der Jude explicaba las costumbres judías a los lectores alemanes.[^idel29][^brown][^niv][^jechristiani][^kestenbaum]
 
 ## Cómo cantarla
 
-- [Soprano](/songs/adir-hu/soprano): la melodía, sobre todo en Sol y luego en Do. Cada estrofa empieza grave, en Mi, con los nombres, y luego sube: el Mi agudo llega en el "he-" del segundo "bimhera," y en el "cha" de "veitcha" del último verso, que vuelve a asentarse en Do.
+- [Soprano](/songs/adir-hu/soprano): la melodía, sobre todo en Sol, y después en Do. Cada estrofa empieza grave, en Mi, con los nombres, y luego sube: el Mi agudo llega en el "he-" del segundo "bimhera," y en el "cha" de "veitcha" del último verso, que luego se asienta de nuevo en Do.
 - [Contralto](/songs/adir-hu/alto): una tercera o una sexta por debajo de la melodía casi todo el tiempo, sobre todo en Mi. Su La agudo llega solo en el "ra," del segundo "bimhera," y su Si grave solo en el "ka-" del "bekarov." que sigue a "beyameinu", en cada estrofa.
 - [Tenor](/songs/adir-hu/tenor): el centro del acorde con solo cinco notas, sobre todo en Sol. Sube a Do en el "dir hu," del tercer "adir hu,", en el "chid hu," de "yachid hu," y el "chum hu," de "rachum hu,", en cada segundo "bimhera," y en el "be-" de cada "beyameinu", y baja a Fa en el "ka-" del primer "bekarov," y en el "be-" y el "ka-" del que sigue a "beyameinu".
-- [Bajo](/songs/adir-hu/bass): casi siempre las fundamentales de los acordes, sobre un Do grave la mayor parte del tiempo, en el que se queda, una nota por sílaba, bajo los nombres que abren cada estrofa. Llega a su Sol agudo solo en el "vei-" de "veito" y baja a su Fa grave en el "be-" del último "bekarov." de cada estrofa.
+- [Bajo](/songs/adir-hu/bass): casi siempre las fundamentales de los acordes, la mayor parte del tiempo en un Do grave, en el que se queda, una nota por sílaba, bajo los nombres que abren cada estrofa. Llega a su Sol agudo solo en el "vei-" de "veito" y baja a su Fa grave en el "be-" del último "bekarov." de cada estrofa.
 
 ## Preguntas
 
 ### ¿Qué significa Adir Hu?
 
-"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Hashem de la misma manera, elegido, grande, santo y más, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, deprisa, en nuestros días.[^sefaria][^je][^ej]
+"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Hashem de la misma manera, con nombres como elegido, grande y santo, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, deprisa, en nuestros días.[^sefaria][^je][^ej]
 
 ### ¿Hay una versión en inglés de Adir Hu?
 
-Hay un himno inglés con su melodía, aunque no es una traducción. "God of Might, God of Right", del rabino Gustav Gottheil, se imprimió en el Union Hymnal de 1897 y en la Union Haggadah, en la página anterior a Adir Hu. Alaba a Hashem por la historia de libertad de Pésaj en lugar de pedir el Templo.[^uh1897][^uh1923][^hymnary]
+Hay un himno inglés con su melodía, aunque no es una traducción. "God of Might, God of Right", del rabino Gustav Gottheil, se imprimió en el Union Hymnal de 1897 y en la Union Haggadah, en la página anterior a Adir Hu. En lugar de pedir el Templo, alaba a Hashem por la historia de libertad de Pésaj.[^uh1897][^uh1923][^hymnary]
 
 ### ¿Cuándo se canta Adir Hu en el séder de Pésaj?
 
-Cerca del final, después de la cena, de los salmos del Hallel y de las palabras que cierran el rito formal. En el orden asquenazí tradicional va después de Ki Lo Na'eh y antes de Echad Mi Yodea y Chad Gadya; la Union Haggadah lo canta después de la cuarta copa de vino.[^sefaria][^ej][^uh1923]
+Cerca del final, después de la cena, de los salmos del Hallel y de las palabras que cierran el rito formal. En el orden asquenazí tradicional va después de Ki Lo Na'eh y antes de Echad Mi Yodea y Chad Gadya; la Union Haggadah lo pone después de la cuarta copa de vino.[^sefaria][^ej][^uh1923]
 
 ### ¿Por qué esta versión canta "Kel"?
 
-Kel es la forma cantada de uno de los nombres breves de Hashem, y Shakai, en la letra completa, la forma cantada de otro de Sus nombres. Muchos judíos cambian los nombres de Hashem cuando no están rezando ni leyendo un versículo entero, por deferencia y para no tomar el nombre en vano, igual que Elokim se dice con k. Nuestras canciones judías, que se cantan fuera de la oración, usan las formas cambiadas; el significado es el mismo.[^ohr][^lewis]
+Kel es la forma cantada de uno de los nombres breves de Hashem, y Shakai, en la letra completa, la forma cantada de otro de Sus nombres. Muchos judíos cambian los nombres de Hashem cuando no están rezando ni leyendo un versículo entero, por deferencia y para no tomar el nombre en vano, igual que Elokim se dice con k. Nuestras canciones judías, que se cantan fuera de la oración, usan las formas sustitutas; el significado es el mismo.[^ohr][^lewis]
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía todo el tiempo, tal como la imprime la Union Haggadah. La contralto se mueve con ella, casi siempre una tercera o una sexta por debajo. Con dos cantantes son soprano y contralto; con tres se suma el bajo en las fundamentales de los acordes; con cuatro el tenor rellena el centro.[^uh1923]
+La soprano canta la melodía todo el tiempo, tal como la imprime la Union Haggadah. La contralto se mueve con ella, casi siempre una tercera o una sexta por debajo. Dos cantantes son soprano y contralto; con el bajo, en las fundamentales de los acordes, son tres, y con el tenor, que rellena el centro, cuatro.[^uh1923]
 
 ## Canta después
 
 - [Ki Lo Na'eh](/songs/ki-lo-naeh): el gemelo de Adir Hu, el himno alfabético que se canta justo antes en el orden tradicional, tomado de la misma Union Haggadah.
 - [Echad Mi Yodea](/songs/echad-mi-yodea): la canción de contar que lo sigue en el séder, también tomada de la Union Haggadah.
-- [Maoz Tzur](/songs/maoz-tzur): otro himno asquenazí que pide que el Templo vuelva a alzarse, cantado después de las luces de Janucá.
+- [Maoz Tzur](/songs/maoz-tzur): otro himno asquenazí que pide que el Templo vuelva a alzarse y que se canta después de encender las luces de Janucá.
 
 ## Fuentes
 

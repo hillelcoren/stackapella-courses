@@ -18,31 +18,31 @@ original: The Union Haggadah (1923), p. 84, University of Florida scan, Internet
 translatedFrom: 58890895c8da
 ---
 
-Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Llega cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] La mesa lo lleva cantando más de siete siglos. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
+Ki Lo Na'eh es un himno hebreo que se canta en el séder de Pésaj, el oficio en casa y la cena festiva de las primeras noches de la fiesta.[^je][^ej] Aparece cerca del final, cuando ya ha terminado la parte formal de la Hagadá, entre las canciones que cierran la noche, y se canta sobre todo en hogares asquenazíes.[^ej][^sefaria][^bogomilsky] Sus estrofas recorren el alfabeto hebreo. Cada una llama a Hashem poderoso, elegido, santo o fuerte en Su reinado, y luego nombra a un grupo de Sus servidores que responden: Tuyo, y Tuyo, Hashem, es el reino.[^ej][^sefaria] Hace más de siete siglos que se canta en la mesa del séder. Un erudito de Londres lo copió en su libro de ley judía en 1287, y la Hagadá del movimiento reformista aún lo imprimía con música en 1908 y 1923.[^kaufmann][^jejacob][^uh1908][^uh1923]
 
 ## De dónde viene
 
-Nadie sabe quién lo escribió, ni cuándo. La Jewish Encyclopedia de 1904 lo fechaba en el siglo XV, y la Union Haggadah de 1923 dice que en ese siglo "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] Los documentos son más antiguos. La Encyclopaedia Judaica dice que aparece por primera vez en manuscritos alemanes de principios del siglo XIII, y que probablemente se escribió en Alemania por entonces.[^ej] En 1892, el erudito David Kaufmann publicó el oficio del séder a partir del manuscrito de Etz Hayyim, un libro de ley judía de Jacob ben Judah de Londres, fechado en 1287. La Encyclopaedia Judaica lo sitúa hacia 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann señala que, de los poemas libres que adornaban el séder en los hogares ingleses, como en los franceses y los italianos, el libro de Jacob conserva solo este. Zunz, añade, lo había fechado en el siglo XV; y sin embargo ahí estaba, en sus palabras, ya como "una parte firmemente establecida del rito inglés" antes de que los judíos fueran expulsados de Inglaterra en 1290.[^kaufmann][^jeengland]
+Nadie sabe quién lo escribió, ni cuándo. La Jewish Encyclopedia de 1904 lo fechaba en el siglo XV, y la Union Haggadah de 1923 dice que en ese siglo "se añadieron las dos cancioncillas anónimas 'Addir Hu' y 'Ki Lo Noeh'".[^je][^uh1923] Pero los documentos son más antiguos. La Encyclopaedia Judaica dice que aparece por primera vez en manuscritos alemanes de principios del siglo XIII, y que probablemente se escribió en Alemania por entonces.[^ej] En 1892, el erudito David Kaufmann publicó el oficio del séder a partir del manuscrito de Etz Hayyim, un libro de ley judía de Jacob ben Judah de Londres, fechado en 1287. La Encyclopaedia Judaica lo sitúa hacia 1286.[^kaufmann][^jejacob][^ejroth] Kaufmann señala que, de los poemas de libre elección que adornaban el séder en los hogares ingleses, igual que en los franceses e italianos, el libro de Jacob solo conserva este. Zunz, añade, lo había fechado en el siglo XV; y sin embargo ahí estaba, en sus palabras, ya como "una parte firmemente establecida del rito inglés" antes de que los judíos fueran expulsados de Inglaterra en 1290.[^kaufmann][^jeengland]
 
 ![[1]]
 
-Su copia tiene además unos versos de más cuyas primeras letras forman el nombre de Jacob.[^kaufmann][^ej][^davidson] Kaufmann los leyó como un añadido de Jacob a un poema que ya existía, y creyó que el texto de Jacob era la forma original, cambiada después tanto en el rito alemán como en el romano. La Encyclopaedia Judaica admite que Jacob pudo escribir el poema entero, y el rabino Jonathan Sacks lo llamó quizá la única aportación de Gran Bretaña a la Hagadá.[^kaufmann][^davidson][^ej][^sacks]
+Su copia incluye además unos versos añadidos cuyas primeras letras forman el nombre de Jacob.[^kaufmann][^ej][^davidson] Kaufmann vio en ellos un añadido de Jacob a un poema que ya existía, y creyó que el texto de Jacob conservaba la forma original, que después cambió tanto en el rito alemán como en el romano. La Encyclopaedia Judaica admite que Jacob pudo escribir el poema entero, y el rabino Jonathan Sacks dijo que quizá era la única aportación de Gran Bretaña a la Hagadá.[^kaufmann][^davidson][^ej][^sacks]
 
 ![[2]]
 
-El himno iba antes emparejado con Adir Hu, que lo sigue en la Hagadá y recorre el alfabeto del mismo modo. La Jewish Encyclopedia dice que Ki Lo Na'eh estaba pensado al principio para la primera noche de Pésaj, y Adir Hu para la segunda, y que desde hacía más de dos siglos los dos se cantaban cada noche.[^je][^jeaddir][^niv]
+Antiguamente el himno iba emparejado con Adir Hu, que lo sigue en la Hagadá y recorre el alfabeto del mismo modo. La Jewish Encyclopedia dice que Ki Lo Na'eh estaba pensado al principio para la primera noche de Pésaj, y Adir Hu para la segunda, y que desde hacía más de dos siglos los dos se cantaban cada noche.[^je][^jeaddir][^niv]
 
-Johann Stephan Rittangel (1606 a 1652), un hebraísta cristiano de Königsberg, publicó allí en 1644 una Hagadá con traducciones al latín y al alemán, la primera Hagadá impresa con notación musical.[^brown][^idel29] Dio melodías para dos canciones, Ki Lo Na'eh y Adir Hu.[^niv][^je][^jeaddir] La Jewish Encyclopedia reimprimió en 1904 su melodía de Ki Lo Na'eh como, en sus palabras, "la más atractiva" (the most alluring) de las varias con que se había cantado el himno. Es una melodía en 3/4, muy distinta de la nuestra.[^je] La nuestra es la que imprimió la Union Haggadah, marcada "Traditional" sin indicar ninguna fuente.[^uh1923][^uh1908]
+Johann Stephan Rittangel (1606 a 1652), un hebraísta cristiano de Königsberg, publicó allí en 1644 una Hagadá con traducciones al latín y al alemán, la primera Hagadá impresa con notación musical.[^brown][^idel29] Incluyó melodías para dos canciones, Ki Lo Na'eh y Adir Hu.[^niv][^je][^jeaddir] La Jewish Encyclopedia reimprimió en 1904 su melodía de Ki Lo Na'eh como, en sus palabras, "la más atractiva" (the most alluring) de las varias con que se había cantado el himno. Es una melodía en 3/4, muy distinta de la nuestra.[^je] La nuestra es la que imprimió la Union Haggadah, con la indicación "Traditional" y sin ninguna fuente.[^uh1923][^uh1908]
 
 ![[3]]
 
 ### Cronología
 
 - 1287: Jacob ben Judah de Londres copia el himno en su Etz Hayyim (hacia 1286, según la Encyclopaedia Judaica). [^kaufmann][^jejacob][^ejroth]
-- 1644: la Hagadá de Rittangel, impresa en Königsberg, le da una melodía, en la primera Hagadá impresa con música. [^brown][^niv]
+- 1644: la Hagadá de Rittangel, impresa en Königsberg, lo imprime con melodía: es la primera Hagadá impresa con música. [^brown][^niv]
 - 1904: la Jewish Encyclopedia reimprime la melodía de Rittangel con una paráfrasis en inglés. [^je]
 - 1908: la Union Haggadah, de la Central Conference of American Rabbis, imprime nuestra melodía con su primera estrofa. [^uh1908][^uh1923]
-- 1923: la Union Haggadah revisada lo imprime como estrofas solistas y coro, con tres estrofas; nuestro arreglo se basa en ella. [^uh1923]
+- 1923: la Union Haggadah revisada lo imprime con estrofas solistas y coro, con tres estrofas; nuestro arreglo se basa en ella. [^uh1923]
 
 ## Qué dice la letra
 
@@ -58,13 +58,13 @@ El himno completo tiene ocho estrofas, todas iguales salvo tres palabras cuyas p
 
 **La respuesta, después de cada estrofa.** Lecha ulecha: Tuyo y Tuyo. Lecha ki lecha: Tuyo, porque es Tuyo. Lecha af lecha: Tuyo, sí, Tuyo. Lecha Adoshem hamamlacha: Tuyo, Hashem, es el reino. Y luego otra vez el verso del título.[^sefaria] La respuesta está hecha de frases de la Biblia: "Tuyo, oh Hashem, es el reino" es de 1 Crónicas 29:11, y "Tuyos los cielos, tuya también la tierra", del Salmo 89 (89:11 en la Reina-Valera; 89:12 en hebreo), da el modelo de "lecha af lecha".[^tanakh][^baruch][^sacks] Fíjate en el giro: el himno habla sobre Hashem, "a Él", pero las huestes le hablan a Hashem, "Tuyo".[^sefaria]
 
-¿Quiénes hablan? La Encyclopaedia Judaica los lee a todos como clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los divide: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También lee los nombres a través del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros leen bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de Sus manos.[^lissa][^ejlissa][^bogomilsky][^marbeh][^rashi][^megillah]
+¿Quiénes hablan? La Encyclopaedia Judaica entiende que todos son distintas clases de ángeles.[^ej] Jacob de Lissa, en su comentario a la Hagadá, Maaseh Nissim, los distingue: las tropas y los ángeles son ángeles, pero los justos y los íntegros son Israel. También interpreta los nombres a la luz del midrash. El midrash dice que Hashem se apareció en el mar Rojo como un guerrero y en el Sinaí como un anciano lleno de compasión, y él y otros maestros entienden bachur, que también puede significar "joven", como ese joven guerrero. Rachum recuerda la historia del Talmud según la cual Hashem hizo callar a los ángeles que cantaban mientras los egipcios se ahogaban, porque también ellos eran obra de Sus manos.[^lissa][^ejlissa][^bogomilsky][^marbeh][^rashi][^megillah]
 
-Donde el hebreo tiene el nombre de cuatro letras, que la Union Haggadah translitera tal como se lee en la oración, cantamos Adoshem, el nombre sustituto que se acostumbra al cantar fuera de la oración. Muchos judíos cambian los nombres de Hashem al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma cambiada, y el significado es el mismo.[^ohr][^outorah]
+Donde el hebreo tiene el nombre de cuatro letras, que la Union Haggadah translitera tal como se lee en la oración, cantamos Adoshem, el nombre sustituto que se acostumbra cuando se canta fuera de la oración. Muchos judíos cambian los nombres de Hashem al decirlos fuera de la oración, por reverencia y para no pronunciar el nombre en vano; nuestras canciones, que se cantan fuera de la oración, usan la forma sustituta, y el significado es el mismo.[^ohr][^outorah]
 
 ### La letra completa
 
-Estos son el verso del título, que abre el himno, y las ocho estrofas, que cierran con él, tal como los imprime la Hagadá de Sefaria, tomados del sitio Da'at, con las vocales impresas.[^sefaria] Los versos de más de Jacob de Londres que forman su nombre no están en la Hagadá.[^kaufmann] La transliteración es israelí moderna, con Adoshem en lugar del nombre de cuatro letras; la traducción es nuestra.
+Estos son el verso del título, que abre el himno, y las ocho estrofas, que cierran con él, tal como los imprime la Hagadá de Sefaria, que toma el texto del sitio Da'at, con sus vocales.[^sefaria] Los versos añadidos de Jacob de Londres, que forman su nombre, no están en la Hagadá.[^kaufmann] La transliteración es israelí moderna, con Adoshem en lugar del nombre de cuatro letras; la traducción es nuestra.
 
 > כִּי לוֹ נָאֶה, כִּי לוֹ יָאֶה.
 *Ki lo nae, ki lo yae.*
@@ -176,41 +176,41 @@ porque a Él le corresponde, porque a Él le es debido.
 
 ## Cómo se canta
 
-En un séder asquenazí tradicional, después del deseo final "El año que viene en Jerusalén" y de dos poemas más largos, vienen Ki Lo Na'eh, Adir Hu, la cuenta del Ómer, Echad Mi Yodea y Chad Gadya.[^sefaria][^ej] La Union Haggadah lo pone después de la cuarta copa de vino y después de Adir Hu, al revés que el orden tradicional.[^uh1923][^sefaria]
+En un séder asquenazí tradicional, después del deseo final "El año que viene en Jerusalén" y de dos poemas más largos, vienen Ki Lo Na'eh, Adir Hu, la cuenta del Ómer, Echad Mi Yodea y Chad Gadya.[^sefaria][^ej] La Union Haggadah lo pone después de la cuarta copa de vino y después de Adir Hu, al revés que en el orden tradicional.[^uh1923][^sefaria]
 
-Nuestro arreglo se basa en las páginas 84 y 85 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí es "Ki Lo Noeh", "Traditional", Andante con moto, en Do mayor y en 4/4, para voz y piano, con la música en la edición de la Society of American Cantors.[^uh1923][^uh1908] Empieza con el coro "Ki lo noeh, ki lo yoeh", y luego da cada estrofa como "SOLO" y la respuesta como "CHORUS" (coro). La primera edición, de 1908, lo encabezaba solo con "Chorus", con una estrofa, y lo ponía en la Miscellany, la parte reservada para el lado más ligero y alegre de la noche.[^uh1908]
+Nuestro arreglo se basa en las páginas 84 y 85 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí se titula "Ki Lo Noeh" y lleva las indicaciones "Traditional" y Andante con moto, en Do mayor y en 4/4, para voz y piano, con la música en la edición de la Society of American Cantors.[^uh1923][^uh1908] Empieza con el coro "Ki lo noeh, ki lo yoeh", y luego marca cada estrofa como "SOLO" y la respuesta como "CHORUS" (coro). La primera edición, de 1908, lo encabezaba solo con "Chorus", con una sola estrofa, y lo incluía en la Miscellany, la sección reservada al lado más ligero y alegre de la noche.[^uh1908]
 
 ![[4]]
 
-Lo cantamos un tono más alto, en Re, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "noeh", "bim'lucho", "l'cho". Nosotros lo reescribimos con la pronunciación israelí moderna, sílaba por sílaba, tal como lo llevan las notas.[^uh1923] Cantamos el coro y luego las tres estrofas impresas: la soprano canta sola cada estrofa, como el solo del libro, y todos cantan la respuesta y "Ki lo nae, ki lo yae." El último "yae" se sostiene, como pide el calderón del libro. Es para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor.
+Lo transportamos un tono más arriba, a Re, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "noeh", "bim'lucho", "l'cho". Nosotros lo pasamos a la pronunciación israelí moderna, sílaba por sílaba, tal como va bajo las notas.[^uh1923] Cantamos el coro y luego las tres estrofas impresas: la soprano canta sola cada estrofa, como el solo del libro, y todos cantan la respuesta y "Ki lo nae, ki lo yae." El último "yae" se sostiene, como pide el calderón del libro. Es para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor.
 
 ## Versiones y otras letras
 
 La Union Haggadah de 1923 imprime, dos páginas antes del hebreo, un himno en inglés con la misma melodía, "Our Souls We Raise In Fervent Praise", sin autor. Como el hebreo, tiene estrofas solistas y un coro, "To Thee, O to Thee" (a Ti, oh, a Ti), que recuerda el "lecha ulecha".[^uh1923]
 
-Hay otras melodías. La Jewish Encyclopedia menciona varias, y en 1929 el historiador de la música A. Z. Idelsohn imprimió una cuyos sostenidos y bemoles cambiantes comparaba con la canción popular ucraniana y rumana.[^je][^idel29]
+Hay otras melodías. La Jewish Encyclopedia menciona varias, y en 1929 el historiador de la música A. Z. Idelsohn imprimió una cuyos sostenidos y bemoles cambiantes comparaba con las canciones populares ucranianas y rumanas.[^je][^idel29]
 
 ## ¿Sabías que...?
 
-- La respuesta dice "lecha", Tuyo, siete veces. Los comentaristas han visto significados en el número, entre ellos los siete cielos, los siete días de la semana y los siete mil años del mundo.[^sacks][^marbeh]
-- La frase "a Ti te corresponde" tiene un eco antiguo. Un midrash del Génesis Rabbah lee el Salmo 74:16, "Tuyo es el día, tuya también es la noche", así: a Ti te corresponde que cantemos de día y de noche.[^berrab][^tanakh][^sacks]
+- La respuesta dice "lecha", Tuyo, siete veces. Los comentaristas han visto en el número distintos significados, entre ellos los siete cielos, los siete días de la semana y los siete mil años del mundo.[^sacks][^marbeh]
+- La frase "a Ti te corresponde" tiene un eco antiguo. Un midrash del Génesis Rabbah interpreta así el Salmo 74:16, "Tuyo es el día, tuya también es la noche": a Ti te corresponde que cantemos de día y de noche.[^berrab][^tanakh][^sacks]
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ki-lo-naeh/soprano): la melodía, y cada estrofa sola, con más frecuencia en La, luego en Fa sostenido. En cada estrofa, el Re grave de la primera sílaba de "gedudav", "shinanav" o "temimav" salta directamente una sexta hasta Si, y el Sol sostenido del "ru" de "yomru" se inclina hacia arriba hasta "lo:". El Re agudo resuena en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha" y del "lecha" que va antes de "af".
-- [Contralto](/songs/ki-lo-naeh/alto): descansa durante las estrofas solistas y entra en "Ki lo nae, ki lo yae." y en cada respuesta, sobre todo una tercera o una sexta por debajo de la melodía. Su Fa sostenido agudo llega en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha", en el "ki" y el "le-" de "ki lecha," y en el "-cha af le-" de "lecha af lecha,"; su La grave, solo en el "Ki lo" que abre cada "Ki lo nae,".
+- [Soprano](/songs/ki-lo-naeh/soprano): la melodía, y cada estrofa a solas, con más frecuencia en La, y después en Fa sostenido. En cada estrofa, el Re grave de la primera sílaba de "gedudav", "shinanav" o "temimav" salta directamente una sexta hasta Si, y el Sol sostenido del "ru" de "yomru" tiende hacia arriba, hacia "lo:". El Re agudo resuena en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha" y del "lecha" que va antes de "af".
+- [Contralto](/songs/ki-lo-naeh/alto): descansa durante las estrofas solistas y entra en "Ki lo nae, ki lo yae." y en cada respuesta, casi siempre una tercera o una sexta por debajo de la melodía. Su Fa sostenido agudo llega en el "e." de cada "yae." y, en cada respuesta, en el "cha" del primer "lecha", en el "ki" y el "le-" de "ki lecha," y en el "-cha af le-" de "lecha af lecha,"; su La grave, solo en el "Ki lo" que abre cada "Ki lo nae,".
 - [Tenor](/songs/ki-lo-naeh/tenor): descansa en las estrofas y luego mantiene el centro del acorde en Fa sostenido, Sol y La casi todo el tiempo. Su Do sostenido agudo llega en el "le-" del primer "lecha" de cada respuesta, y baja a su Re grave en el "na-" de cada "nae,".
-- [Bajo](/songs/ki-lo-naeh/bass): descansa en las estrofas y luego canta la línea del bajo, con más frecuencia en Re, luego en Si. Baja a su Fa sostenido grave en el "e," de cada "nae," y el "ki" que le sigue, y en "af", el "le-" del "lecha," que le sigue y el "ha-" de "hamamlacha," en cada respuesta, y sube a su Fa sostenido agudo en el "le-" del "lecha" que va antes de "Adoshem".
+- [Bajo](/songs/ki-lo-naeh/bass): descansa en las estrofas y luego canta la línea del bajo, con más frecuencia en Re, y después en Si. Baja a su Fa sostenido grave en el "e," de cada "nae," y el "ki" que le sigue, y en "af", el "le-" del "lecha," que le sigue y el "ha-" de "hamamlacha," en cada respuesta, y sube a su Fa sostenido agudo en el "le-" del "lecha" que va antes de "Adoshem".
 
 ## Preguntas
 
 ### ¿Qué significa Ki Lo Na'eh en español?
 
-"Porque a Él le corresponde". Ki es "porque", lo es "a Él", y naeh es "apropiado"; el verso sigue "ki lo yaeh", porque a Él le es debido. Cierra cada estrofa, después de que Sus huestes responden: Tuyo, Hashem, es el reino.[^sefaria][^baruch]
+"Porque a Él le corresponde". Ki es "porque", lo es "a Él", y naeh es "apropiado"; el verso continúa "ki lo yaeh", porque a Él le es debido. Cierra cada estrofa, después de que Sus huestes respondan: Tuyo, Hashem, es el reino.[^sefaria][^baruch]
 
 ### ¿Cuándo se canta Ki Lo Na'eh en Pésaj?
 
-Cerca del final del séder, después de la cena, de los salmos del Hallel y del deseo final "El año que viene en Jerusalén", entre las canciones que cierran la noche. La Jewish Encyclopedia dice que antes estaba pensado solo para la primera noche, con Adir Hu para la segunda, pero que desde hace mucho las dos noches cantan los dos.[^sefaria][^ej][^je]
+Cerca del final del séder, después de la cena, de los salmos del Hallel y del deseo final "El año que viene en Jerusalén", entre las canciones que cierran la noche. La Jewish Encyclopedia dice que antes estaba pensado solo para la primera noche, con Adir Hu para la segunda, pero que desde hace mucho se cantan los dos ambas noches.[^sefaria][^ej][^je]
 
 ### ¿Cómo se pronuncia Ki Lo Na'eh?
 
@@ -218,7 +218,7 @@ Ki, lo, y luego na'eh en dos sílabas, na y e. El apóstrofo indica que las dos 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano, de principio a fin, y canta sola cada estrofa, como el solo de la Union Haggadah. Las demás voces entran en "Ki lo nae, ki lo yae" y en cada respuesta. Con dos cantantes son soprano y contralto; un tercero añade el bajo, y un cuarto, el tenor.[^uh1923]
+La soprano, de principio a fin, y canta sola cada estrofa, como el solo de la Union Haggadah. Las demás voces entran en "Ki lo nae, ki lo yae" y en cada respuesta. Con dos cantantes son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.[^uh1923]
 
 ### ¿Quién escribió Ki Lo Na'eh?
 
@@ -227,7 +227,7 @@ No se sabe; es anónimo. La Encyclopaedia Judaica dice que los manuscritos más 
 ## Canta después
 
 - [Adir Hu](/songs/adir-hu): su gemelo, el himno alfabético que lo sigue en un séder tradicional, de la misma Union Haggadah.
-- [Echad Mi Yodea](/songs/echad-mi-yodea): la canción para contar que viene después en el séder, también tomada de la Union Haggadah.
+- [Echad Mi Yodea](/songs/echad-mi-yodea): la canción de contar que viene después en el séder, también tomada de la Union Haggadah.
 - [Ein Keloheinu](/songs/ein-keloheinu): otro himno hebreo de alabanza con una respuesta que se repite, del Union Hymnal de la misma conferencia de rabinos.
 
 ## Fuentes
