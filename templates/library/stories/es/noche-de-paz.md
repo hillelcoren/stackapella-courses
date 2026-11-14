@@ -36,17 +36,17 @@ Noche de paz es Silent Night en español: la melodía austriaca de Franz Xaver G
 
 ![[2]]
 
-**Las impresiones siguientes.** En 1894 la misma sociedad imprimió solo la letra en Himnos evangélicos, otra vez como n.º 48, "Holy Night", otra vez sin firma, como los himnos que lo rodean; el n.º 46 va firmado "J. B. Cabrera" [^h1894]. En 1907 James H. Van Buren, obispo episcopal de Puerto Rico, lo incluyó en su Himnario provisional para congregaciones episcopales de habla hispana, como n.º 18 bajo "Navidad", con la melodía rebautizada "Noche Buena" [^h1907][^h1907-front]. Su aviso dice que la mayoría de sus himnos se tomaron de los Himnos evangélicos de la sociedad [^h1907-text].
+**Las impresiones siguientes.** En 1894 la misma sociedad imprimió solo la letra en Himnos evangélicos, de nuevo como n.º 48, "Holy Night", y otra vez sin firma, como los himnos vecinos; el n.º 46 va firmado "J. B. Cabrera" [^h1894]. En 1907 James H. Van Buren, obispo episcopal de Puerto Rico, lo incluyó en su Himnario provisional para congregaciones episcopales de habla hispana, como n.º 18 bajo "Navidad", con la melodía rebautizada "Noche Buena" [^h1907][^h1907-front]. Su aviso dice que la mayoría de sus himnos se tomaron de los Himnos evangélicos de la sociedad [^h1907-text].
 
 ![[3]]
 
-**La revisión de 1915.** En 1915 la sociedad publicó El Nuevo himnario evangélico, "para el uso de las iglesias evangélicas de habla española en todo el mundo" [^h1915-front]. Su prefacio dice que un comité formado por miembros de todas las denominaciones que trabajaban en México pasó más de dos años revisando el himnario de 1893, estrofa por estrofa. La nota del editor da los nombres de sus quince miembros, de las iglesias bautista, congregacional, metodista episcopal y presbiteriana [^h1915-front]. Aquí, como n.º 83 y todavía sin firma, el "En el campo al pastor" de la segunda estrofa pasa a ser "Oye humilde el fiel pastor" [^h1915][^h1893].
+**La revisión de 1915.** En 1915 la sociedad publicó El Nuevo himnario evangélico, "para el uso de las iglesias evangélicas de habla española en todo el mundo" [^h1915-front]. Su prefacio dice que un comité formado por miembros de todas las denominaciones que trabajaban en México pasó más de dos años revisando el himnario de 1893, estrofa por estrofa. La nota del editor nombra a sus quince miembros, de las iglesias bautista, congregacional, metodista episcopal y presbiteriana [^h1915-front]. Aquí, como n.º 83 y todavía sin firma, el "En el campo al pastor" de la segunda estrofa pasa a ser "Oye humilde el fiel pastor" [^h1915][^h1893].
 
 ![[4]]
 
-**Quién la escribió.** Ninguna impresión que hemos visto entre 1893 y 1915 nombra al autor de la letra española, y ninguna menciona a Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. En el índice de Hymnary.org, la letra española no lleva atribución antes de los años cincuenta; después, las atribuciones varían: J. B. Cabrera en 1952, F. J. Pagura en 1962, Federico Fliedner en 1964 (marcada "adapt.") y "anónimo" en otros [^hymnary-text][^hymnary-cc1964]. En los himnarios que Hymnary.org registra desde 1990, la suya es la atribución más frecuente, en 13 de 18, y la propia ficha de Hymnary.org lo nombra traductor [^hymnary-text]. Federico (Fritz) Fliedner nació en Kaiserswerth el 10 de junio de 1845, hijo de Theodor Fliedner [^ndb][^hymnary-fliedner]. Se estableció en Madrid en 1870 como misionero protestante, dirigió allí una iglesia y fundó escuelas protestantes, y murió en Madrid el 25 de abril de 1901 [^ndb][^dbclm][^hymnary-fliedner]. Sus biógrafos dicen que en su obra se tradujeron himnos alemanes al español y que escribió himnos para su escuela dominical [^ndb][^dbclm]. Así que la atribución es verosímil.
+**Quién la escribió.** Ninguna de las impresiones que hemos visto entre 1893 y 1915 nombra al autor de la letra española, y ninguna menciona a Fliedner [^h1893-text][^h1894][^h1907-text][^h1915]. En el índice de Hymnary.org, la letra española no lleva atribución antes de los años cincuenta; después, las atribuciones varían: J. B. Cabrera en 1952, F. J. Pagura en 1962, Federico Fliedner en 1964 (marcada "adapt.") y "anónimo" en otros [^hymnary-text][^hymnary-cc1964]. En los himnarios que Hymnary.org registra desde 1990, la de Fliedner es la atribución más frecuente, en 13 de 18, y la propia ficha de Hymnary.org lo nombra traductor [^hymnary-text]. Federico (Fritz) Fliedner nació en Kaiserswerth el 10 de junio de 1845, hijo de Theodor Fliedner [^ndb][^hymnary-fliedner]. Se estableció en Madrid en 1870 como misionero protestante, dirigió allí una iglesia y fundó escuelas protestantes, y murió en Madrid el 25 de abril de 1901 [^ndb][^dbclm][^hymnary-fliedner]. Según sus biógrafos, en su obra se tradujeron himnos alemanes al español, y él escribió himnos para su escuela dominical [^ndb][^dbclm]. La atribución, por tanto, es verosímil.
 
-**Mito y documentos.** Se suele contar que Federico Fliedner hizo la primera versión española, registrada en 1871. Solo hemos encontrado esa fecha en relatos en internet, todos con las mismas palabras; un periódico español de 2023 la da sin fuente, y la página de himnos de 2009 a la que remiten esos relatos da al traductor por desconocido [^eldebate][^cyber2009]. Lo que muestran los documentos: ninguna impresión que hemos visto nombra a Fliedner antes de Culto Cristiano, en 1964 [^hymnary-cc1964]. Esa página de 2009, de The Cyber Hymnal, una colección de himnos en internet, no fechaba la letra española [^cyber2009]. Dos biografías de Fliedner, una alemana y otra española, no mencionan la canción [^ndb][^dbclm]. La letra puede ser suya, pero eso es una atribución, no una prueba.
+**Mito y documentos.** Se suele contar que Federico Fliedner hizo la primera versión española, registrada en 1871. Solo hemos encontrado esa fecha en textos de internet que repiten las mismas palabras; un periódico español de 2023 la da sin fuente, y la página de himnos de 2009 a la que remiten esos relatos da al traductor por desconocido [^eldebate][^cyber2009]. Lo que muestran los documentos: ninguna impresión que hayamos visto nombra a Fliedner antes de Culto Cristiano, en 1964 [^hymnary-cc1964]. Esa página de 2009, de The Cyber Hymnal, una colección de himnos en internet, no fechaba la letra española [^cyber2009]. Dos biografías de Fliedner, una alemana y otra española, no mencionan la canción [^ndb][^dbclm]. La letra puede ser suya, pero eso es una atribución, no una prueba.
 
 ### Cronología
 
@@ -55,7 +55,7 @@ Noche de paz es Silent Night en español: la melodía austriaca de Franz Xaver G
 - 1893: La primera impresión conocida de la letra española, sin firma, n.º 48 de El Himnario evangélico, Nueva York. [^h1893][^hymnary-text]
 - 1907: El himnario episcopal del obispo de Puerto Rico la imprime con la melodía llamada "Noche Buena". [^h1907][^h1907-front]
 - 1915: El Nuevo himnario evangélico, revisado por un comité en México, imprime "Oye humilde el fiel pastor". [^h1915][^h1915-front]
-- 1964: Culto Cristiano atribuye la letra a Federico Fliedner, la primera atribución así en el índice de Hymnary.org. [^hymnary-cc1964][^hymnary-text]
+- 1964: Culto Cristiano atribuye la letra a Federico Fliedner, la primera que se la atribuye en el índice de Hymnary.org. [^hymnary-cc1964][^hymnary-text]
 
 ## Qué dice la letra
 
@@ -63,13 +63,13 @@ Mohr escribió seis estrofas en alemán; la letra española tiene tres [^sng-tex
 
 **Estrofa 1.** Noche de paz, noche de amor: alrededor, todo duerme. Los "astros" son las luces del cielo, que "esparcen su luz", la derraman, y "niñito" es una forma cariñosa de llamar a un niño pequeño. Entre esas luces brilla una, bella, la estrella de la paz, que anuncia al niño Jesús.
 
-**Estrofa 2.** En el campo, al pastor, coros del cielo le proclaman "salud", aquí en su sentido antiguo de salvación, con gracias y gloria en su "plenitud", en toda su abundancia, por "nuestro buen Redentor". Es la noche de los pastores del Evangelio de Lucas, donde un ángel trae la noticia y una multitud del cielo canta gloria a Dios [^luke2]. Para 1915 el segundo verso ya era "Oye humilde el fiel pastor", y "proclaman" y "en su plenitud" ya eran "que anuncian" y "en gran plenitud" [^h1915][^h1893].
+**Estrofa 2.** En el campo, al pastor, coros del cielo le proclaman "salud", aquí en su sentido antiguo de salvación, con gracias y gloria en su "plenitud", en toda su abundancia, por "nuestro buen Redentor". Es la noche de los pastores del Evangelio de Lucas, donde un ángel trae la noticia y una multitud del cielo canta gloria a Dios [^luke2]. En 1915 el segundo verso ya era "Oye humilde el fiel pastor", y "proclaman" y "en su plenitud" ya eran "que anuncian" y "en gran plenitud" [^h1915][^h1893].
 
-**Estrofa 3.** "Ved", mirad, qué bello "resplandor" luce en el rostro del niño Jesús, en el "pesebre": la Luz del mundo, un nombre que Jesús se da a sí mismo en el Evangelio de Juan [^john8], y un astro del cielo de eterno "fulgor", de eterno brillo.
+**Estrofa 3.** "Ved" invita a mirar qué bello "resplandor" luce en el rostro del niño Jesús, en el "pesebre": la Luz del mundo, un nombre que Jesús se da a sí mismo en el Evangelio de Juan [^john8], y un astro del cielo de eterno "fulgor", de eterno brillo.
 
 ### La letra completa
 
-Estas son las tres estrofas tal como las imprime El Himnario evangélico (Nueva York, 1893), n.º 48, con su ortografía y su puntuación. La página imprime dos veces el último verso de la primera estrofa, como se canta; las otras dos estrofas lo imprimen una sola vez, y nosotros lo cantamos dos veces en todas las estrofas, como lo marca el Himnario provisional de 1907.
+Estas son las tres estrofas tal como las imprime El Himnario evangélico (Nueva York, 1893), n.º 48, con su ortografía y su puntuación. La página imprime dos veces el último verso de la primera estrofa, como se canta; en las otras dos estrofas aparece una sola vez, y nosotros lo cantamos dos veces en todas las estrofas, como lo marca el Himnario provisional de 1907.
 
 **Estrofa 1**
 ¡Noche de paz, noche de amor!
@@ -95,33 +95,33 @@ Astro de eterno fulgor.
 
 ## Cómo se canta
 
-El índice de Hymnary.org sigue Noche de paz hasta un himnario luterano en 1931, uno adventista en 1962, otros metodistas y bautistas en los años setenta y, desde 1989, Flor y Canto, un himnario católico de Oregon Catholic Press [^hymnary-text][^hymnary-fyc].
+Según el índice de Hymnary.org, Noche de paz llegó a un himnario luterano en 1931, a uno adventista en 1962, a otros metodistas y bautistas en los años setenta y, desde 1989, a Flor y Canto, un himnario católico de Oregon Catholic Press [^hymnary-text][^hymnary-fyc].
 
-El libro de 1907 da a la letra española la métrica 8.7.10.10.7.7; Hymnary.org la da como irregular [^h1907][^hymnary-text].
+El libro de 1907 da a la letra española la métrica 8.7.10.10.7.7; Hymnary.org la considera irregular [^h1907][^hymnary-text].
 
-Nuestro arreglo canta las tres estrofas de 1893 para 2 a 4 cantantes, en Do y en 6/8, con cada altura de la melodía de 1893 y su ritmo, salvo que cada verso termina un poco antes, para dejar medio tiempo para respirar [^h1893]. Las voces son nuestras: la contralto y el tenor cantan la letra con la melodía, y el bajo canta "oo" (una u). En la segunda estrofa, "campo" y "al", "Gracias" e "y", y "glorias" y "en" tienen cada uno su propia nota, para que la letra llene el verso.
+Nuestro arreglo canta las tres estrofas de 1893 para 2 a 4 cantantes, en Do y en 6/8, con todas las notas y el ritmo de la melodía de 1893, salvo que cada verso termina un poco antes, para dejar medio tiempo para respirar [^h1893]. Las voces son nuestras: la contralto y el tenor cantan la letra con la melodía, y el bajo canta "oo" (una u). En la segunda estrofa, "campo" y "al", "Gracias" e "y", y "glorias" y "en" tienen cada uno su propia nota, para que la letra llene el verso.
 
 ## Versiones y otras letras
 
-- **Otras estrofas:** The Cyber Hymnal imprimía en 2009 cuatro estrofas españolas sin firma, tres de ellas distintas de las de 1893 [^cyber2009], y Flor y Canto (2011) atribuye su primera estrofa española a Fliedner y las estrofas 2 a 7 a "anónimo" [^hymnary-fyc]. No podemos fecharlas, así que no las damos.
-- **Una atribución a Federico José Pagura:** Cántico Nuevo (1962) atribuye esta letra a "F. J. Pagura", y The Cyber Hymnal de hoy atribuye sus cuatro estrofas a Federico José Pagura, nacido en 1923; Hymnary.org registra las dos bajo este mismo texto [^hymnary-text][^hymnary-pagura]. La primera estrofa de The Cyber Hymnal es la impresa en 1893, y en 2009 la misma página daba al traductor por desconocido [^h1893][^cyber2009]. Una atribución a él solo puede ser de una revisión, no de la letra que cantamos.
+- **Otras estrofas:** The Cyber Hymnal imprimía en 2009 cuatro estrofas españolas sin firma, tres de ellas distintas de las de 1893 [^cyber2009], y Flor y Canto (2011) atribuye su primera estrofa española a Fliedner y las estrofas 2 a 7 a "anónimo" [^hymnary-fyc]. No podemos fecharlas, así que no las incluimos.
+- **Una atribución a Federico José Pagura:** Cántico Nuevo (1962) atribuye esta letra a "F. J. Pagura", y The Cyber Hymnal de hoy atribuye sus cuatro estrofas a Federico José Pagura, nacido en 1923; Hymnary.org registra las dos bajo este mismo texto [^hymnary-text][^hymnary-pagura]. La primera estrofa de The Cyber Hymnal es la impresa en 1893, y en 2009 la misma página daba al traductor por desconocido [^h1893][^cyber2009]. Si algo es suyo, solo puede ser una revisión, no la letra que cantamos.
 
 ## Cómo cantarla
 
 - [Soprano](/songs/noche-de-paz/soprano): la melodía, del Do grave al Fa. El Fa agudo llega en "tre" del primer "estrella" ("buen" en la estrofa 2, "ter" de "eterno" en la estrofa 3); luego "paz" sostiene un Do y sube ligado a Mi. Dos sílabas llevan ligaduras rápidas de dos notas, "do" en "Todo" y "rre" en "derredor": cántalas con ligereza. El último verso baja desde el Do hasta el Do grave, Do, Sol, Mi, luego sube a Sol y baja Fa, Re, Do.
 - [Contralto](/songs/noche-de-paz/alto): casi siempre una tercera por debajo de la melodía en el primer, el tercer y el cuarto verso. En el quinto verso sostienes un mismo Si durante cinco sílabas mientras la melodía sube a su Fa. En el último verso cruzas por encima de la melodía en "de" y terminas en Mi, por encima de su Do grave; escucha tu voz sola en el reproductor para sentirlo.
 - [Tenor](/songs/noche-de-paz/tenor): grave y firme, entre Mi y el Do central. El segundo verso baja Sol, Fa, Mi bajo "Todo duerme en derredor"; el tercero y el cuarto se quedan en La, luego en Do. Durante todo el último verso te quedas en Sol mientras las demás voces se mueven.
-- [Bajo](/songs/noche-de-paz/bass): "oo" en notas largas, casi siempre Do. Bajas al Sol grave bajo "Todo duerme" y el primer "Brilla la estrella", subes a Fa bajo "Entre los astros" y "Bella anunciando", y tocas un Mi al final del tercer verso. Al final de cada estrofa caminas Sol, Si, Do hasta el último acorde.
+- [Bajo](/songs/noche-de-paz/bass): "oo" en notas largas, casi siempre Do. Bajas al Sol grave bajo "Todo duerme" y el primer "Brilla la estrella", subes a Fa bajo "Entre los astros" y "Bella anunciando", y pasas por un Mi al final del tercer verso. Al final de cada estrofa subes por Sol, Si, Do hasta el último acorde.
 
 ## Preguntas
 
 ### ¿Quién escribió la letra española de Noche de paz?
 
-Nadie lo sabe con certeza. La primera impresión conocida, en un himnario de Nueva York de 1893, no nombra autor, como pasa con la mayoría de los himnos de ese libro [^h1893][^h1893-text]. Hymnary.org muestra a Federico Fliedner (1845 a 1901), pastor protestante alemán en Madrid, como la atribución más frecuente, en 13 de los 18 himnarios que registra desde 1990; de los otros cinco, uno imprime "anónimo" y cuatro no nombran traductor [^hymnary-text][^ndb]. Ninguna edición anterior a 1964 que hemos visto lo nombra [^hymnary-text][^hymnary-cc1964].
+Nadie lo sabe con certeza. La primera impresión conocida, en un himnario de Nueva York de 1893, no nombra autor, como pasa con la mayoría de los himnos de ese libro [^h1893][^h1893-text]. Hymnary.org muestra a Federico Fliedner (1845 a 1901), pastor protestante alemán en Madrid, como la atribución más frecuente, en 13 de los 18 himnarios que registra desde 1990; de los otros cinco, uno imprime "anónimo" y cuatro no nombran traductor [^hymnary-text][^ndb]. Ninguna edición anterior a 1964 que hayamos visto lo nombra [^hymnary-text][^hymnary-cc1964].
 
 ### ¿De qué país es Noche de paz?
 
-La canción es austriaca. Joseph Mohr escribió la letra alemana en 1816, y Franz Xaver Gruber la melodía en 1818, en Oberndorf, cerca de Salzburgo [^sng-time][^hymnarchive]. La letra española se conoce por primera vez por un himnario impreso en Nueva York en 1893 por la Sociedad Americana de Tratados para iglesias de habla hispana [^h1893][^h1893-preface].
+La canción es austriaca. Joseph Mohr escribió la letra alemana en 1816, y Franz Xaver Gruber la melodía en 1818, en Oberndorf, cerca de Salzburgo [^sng-time][^hymnarchive]. La letra española aparece por primera vez en un himnario impreso en Nueva York en 1893 por la Sociedad Americana de Tratados para iglesias de habla hispana [^h1893][^h1893-preface].
 
 ### ¿Qué significa Noche de paz?
 
@@ -137,11 +137,11 @@ Sí: la letra y la melodía que cantamos son de dominio público. Joseph Mohr, a
 
 ### ¿Se escribió porque se rompió el órgano?
 
-Ningún documento lo dice. El relato del propio Gruber, escrito en 1854, no da ningún motivo para la guitarra, y los ratones que habrían roído el fuelle del órgano son un adorno posterior [^hymnarchive]. La página de [Silent Night](/songs/silent-night) cuenta la historia completa.
+Ningún documento lo dice. El relato del propio Gruber, escrito en 1854, no explica por qué se usó la guitarra, y los ratones que habrían roído el fuelle del órgano son un adorno posterior [^hymnarchive]. La página de [Silent Night](/songs/silent-night) cuenta la historia completa.
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Gruber tal como la imprime el himnario español de 1893. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en "oo"; el tenor completa las cuatro voces. La melodía va del Do grave al Fa agudo, así que canta los extremos con suavidad o cambia la tonalidad.
+La soprano canta la melodía de Gruber tal como la imprime el himnario español de 1893. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo en "oo"; el tenor completa las cuatro voces. La melodía va del Do grave al Fa agudo, así que canta los extremos con suavidad o cambia de tonalidad.
 
 ## Canta después
 

@@ -21,7 +21,7 @@ translatedFrom: 45f90d441d00
 original: British Harmony de John Parry (1781), National Library of Wales | https://viewer.library.wales/4675640
 ---
 
-Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es galesa: una pieza de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron el arpista John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784]. Su letra inglesa, "Deck the hall with boughs of holly" (adorna la sala con ramas de acebo), es de Thomas Oliphant y se imprimió en Londres en 1862 junto a una letra galesa del poeta Talhaiarn [^thomas1862][^hullah1866]. La primera estrofa de Oliphant pedía llenar la copa de hidromiel y vaciar el barril. En 1877 una revista escolar estadounidense ya imprimía en su lugar "Don we now our gay apparel", y esa es la versión que llevaron los cancioneros posteriores [^psj1877][^mccaskey1881][^golden1923].
+Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es galesa: una pieza de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron el arpista John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784]. Su letra inglesa, "Deck the hall with boughs of holly" (adorna la sala con ramas de acebo), es de Thomas Oliphant y se imprimió en Londres en 1862 junto a una letra galesa del poeta Talhaiarn [^thomas1862][^hullah1866]. La primera estrofa de Oliphant pedía llenar la copa de hidromiel y vaciar el barril. En 1877 una revista escolar estadounidense ya imprimía en su lugar "Don we now our gay apparel", y esa es la versión que recogieron los cancioneros posteriores [^psj1877][^mccaskey1881][^golden1923].
 
 ## De dónde viene
 
@@ -29,26 +29,26 @@ Deck the Halls es el villancico con más "fa la la" que palabras. Su melodía es
 
 ![[1]]
 
-Jones la imprime en Fa, marcada Allegro, con variaciones y una estrofa galesa bajo la melodía [^jones1784]. La estrofa es un verso de amor, que empieza diciendo lo cálido que es el pecho de una muchacha esbelta, y los breves compases de respuesta tras cada verso están marcados "Chorus" (coro), con "fal lal &c" debajo [^jones1784]. Jones explica que esas estrofas, los penillion, eran la poesía propia del pueblo, guardada de memoria, y que quien cantaba podía ajustar una a muchas melodías, manteniendo la melodía mientras el arpa tocaba variaciones [^jones1784]. Su edición de 1794 añade una letra inglesa sobre la galesa, un verso de amor que empieza "Oh! how soft my Fair one's bosom!" (¡qué suave es el pecho de mi amada!) y sigue "Oh! how sweet the grove in blossom!" (¡qué dulce la arboleda en flor!), con "dadlea" en el estribillo [^jones1794].
+Jones la imprime en Fa, marcada Allegro, con variaciones y una estrofa galesa bajo la melodía [^jones1784]. La estrofa es una copla de amor, que empieza diciendo lo cálido que es el pecho de una muchacha esbelta, y los breves compases de respuesta tras cada verso están marcados "Chorus" (coro), con "fal lal &c" debajo [^jones1784]. Jones explica que esas estrofas, los penillion, eran la poesía propia del pueblo, guardada de memoria, y que quien cantaba podía adaptar una misma estrofa a muchas melodías, manteniendo la melodía mientras el arpa tocaba variaciones [^jones1784]. Su edición de 1794 añade una letra inglesa sobre la galesa, una copla de amor que empieza "Oh! how soft my Fair one's bosom!" (¡qué suave es el pecho de mi amada!) y sigue "Oh! how sweet the grove in blossom!" (¡qué dulce la arboleda en flor!), con "dadlea" en el estribillo [^jones1794].
 
 ![[2]]
 
-**La letra.** En 1862 el arpista John Thomas, conocido como Pencerdd Gwalia, publicó un libro de Welsh Melodies with Welsh and English Poetry, arregladas para voz con arpa o piano [^thomas1862][^imslp-thomas][^handyfinch3]. Nos Galan es el n.º 15 de su segundo volumen, con letra galesa de Talhaiarn, el poeta John Jones (1810 a 1869), y letra inglesa de Thomas Oliphant [^thomas1862][^hullah1866][^dwb-talhaiarn][^imslp-thomas]. Oliphant, nacido en Perthshire en 1799, murió en Londres en 1873. Fue durante muchos años secretario de la Madrigal Society, y había pasado años ajustando letras inglesas a madrigales italianos [^dnb-oliphant][^grove-oliphant][^bmb1897]. Su Nos Galan empieza "Deck the hall with boughs of holly", y a cada verso le responde un "Fa la la" [^thomas1862].
+**La letra.** En 1862 el arpista John Thomas, conocido como Pencerdd Gwalia, publicó un libro de Welsh Melodies with Welsh and English Poetry, arregladas para voz con arpa o piano [^thomas1862][^imslp-thomas][^handyfinch3]. Nos Galan es el n.º 15 de su segundo volumen, con letra galesa de Talhaiarn, el poeta John Jones (1810 a 1869), y letra inglesa de Thomas Oliphant [^thomas1862][^hullah1866][^dwb-talhaiarn][^imslp-thomas]. Oliphant, nacido en Perthshire en 1799, murió en Londres en 1873. Fue durante muchos años secretario de la Madrigal Society, y había pasado años adaptando letras inglesas a madrigales italianos [^dnb-oliphant][^grove-oliphant][^bmb1897]. Su Nos Galan empieza "Deck the hall with boughs of holly", y a cada verso le responde un "Fa la la" [^thomas1862].
 
 En 1866 John Hullah reimprimió la letra de Oliphant en The Song Book, con el título "Deck the Hall with Boughs of Holly", melodía "New Year's Eve", tomada de las Welsh Melodies de Thomas [^hullah1866]. En su prefacio escribió que nunca antes se había intentado nada como la obra de Thomas, melodías galesas "adornadas con el añadido de letras inglesas" [^hullah1866].
 
 ![[3]]
 
-**La revisión estadounidense.** En diciembre de 1877 el Pennsylvania School Journal imprimió el villancico a cuatro voces como "Welsh Air" (aire galés), sin los versos de bebida de Oliphant y sin nombrar a quien los cambió [^psj1877]. Es la impresión más antigua que se conoce de la nueva letra. No se sabe quién la hizo ni a qué lado del Atlántico; un himnólogo que escribía en The Hymn en 1974 sospechaba de J. P. McCaskey, que reimprimió la página en su propio cancionero en 1881 [^handyfinch3][^mccaskey1881]. La misma letra, otra vez con pequeños cambios, está en cancioneros escolares posteriores como The Golden Book of Favorite Songs, de 1923 [^golden1923].
+**La revisión estadounidense.** En diciembre de 1877 el Pennsylvania School Journal imprimió el villancico a cuatro voces como "Welsh Air" (aire galés), sin los versos de Oliphant sobre la bebida y sin nombrar a quien los cambió [^psj1877]. Es la impresión más antigua que se conoce de la nueva letra. No se sabe quién la hizo ni en qué lado del Atlántico; un himnólogo que escribía en The Hymn en 1974 sospechaba de J. P. McCaskey, que reimprimió la página en su propio cancionero en 1881 [^handyfinch3][^mccaskey1881]. La misma letra, otra vez con pequeños cambios, está en cancioneros escolares posteriores como The Golden Book of Favorite Songs, de 1923 [^golden1923].
 
 ![[4]]
 
-**Mito y documentos.** Se suele contar que Mozart usó la melodía en una pieza para violín y piano. Lo que muestran los documentos: la historia rara vez nombra una obra, y el único investigador del que se sabe que lo comprobó, el autor de la historia de Handy Finch, no oyó la melodía en ninguna de las sonatas de Mozart para violín y piano [^handyfinch1]. Se suele contar también que la melodía es siglos más antigua que cualquier libro. La portada de Jones dice que sus melodías se conservaban "desde la más remota antigüedad", y la de Parry llama a sus piezas los restos de las que cantaban los bardos [^jones1784][^parry1781]. Lo que muestran los documentos: todas las copias escritas halladas hasta ahora son del siglo XVIII, y la más antigua es un cuaderno de melodías de un violinista de hacia 1752 [^handyfinch1][^parry1781][^jones1784]. La melodía puede ser más antigua, pero ninguna copia lo muestra. Y se suele contar que Oliphant tradujo el galés. El libro de Hullah dice "traducido de Talhaiarn" [^hullah1866], pero la propia página de Thomas de 1862 dice solo "The English Poetry by T. Oliphant Esq." (la poesía inglesa, de T. Oliphant) [^thomas1862]. Los primeros versos de Talhaiarn alaban la noche de Año Nuevo junto al fuego con una familia alegre, mientras que los de Oliphant hablan del acebo y de la Navidad, y la historia de Handy Finch, al comparar los dos textos, concluye que el inglés no es una traducción [^thomas1862][^handyfinch3].
+**Mito y documentos.** Se suele contar que Mozart usó la melodía en una pieza para violín y piano. Lo que muestran los documentos: la historia rara vez nombra una obra, y el único investigador del que se sabe que lo comprobó, el autor de la historia de Handy Finch, no oyó la melodía en ninguna de las sonatas de Mozart para violín y piano [^handyfinch1]. Se suele contar también que la melodía es siglos más antigua que cualquier libro. La portada de Jones dice que sus melodías se conservaban "desde la más remota antigüedad", y la de Parry llama a sus piezas los restos de las que cantaban los bardos [^jones1784][^parry1781]. Lo que muestran los documentos: todas las copias escritas halladas hasta ahora son del siglo XVIII, y la más antigua es un cuaderno de melodías de un violinista de hacia 1752 [^handyfinch1][^parry1781][^jones1784]. La melodía puede ser más antigua, pero ninguna copia lo muestra. Y se suele contar que Oliphant tradujo el galés. El libro de Hullah dice "traducido de Talhaiarn" [^hullah1866], pero la propia página de Thomas de 1862 dice solo "The English Poetry by T. Oliphant Esq." (la poesía inglesa, de T. Oliphant) [^thomas1862]. Los primeros versos de Talhaiarn alaban la noche de Año Nuevo junto al fuego con una familia alegre, mientras que los de Oliphant hablan del acebo y de la Navidad, y la historia de Handy Finch, al comparar los dos textos, concluye que el texto inglés no es una traducción [^thomas1862][^handyfinch3].
 
 ### Cronología
 
 - 1781: John Parry imprime la melodía como "Nôs Calan" en British Harmony [^parry1781]
-- 1784: Edward Jones imprime "Nôs Galan" con un verso de amor en galés y un estribillo de "fal lal" [^jones1784]
+- 1784: Edward Jones imprime "Nôs Galan" con una copla de amor en galés y un estribillo de "fal lal" [^jones1784]
 - 1794: La segunda edición de Jones añade el título "New year's Night" y una letra inglesa [^jones1794]
 - 1862: Las Welsh Melodies de John Thomas imprimen la letra galesa de Talhaiarn y "Deck the hall", de Oliphant [^thomas1862][^imslp-thomas]
 - 1866: John Hullah reimprime la letra de Oliphant en The Song Book [^hullah1866]
@@ -59,9 +59,9 @@ En 1866 John Hullah reimprimió la letra de Oliphant en The Song Book, con el t�
 
 Oliphant escribió tres estrofas: una para adornar y beber, otra para el cuenco y el arpa, otra para el año que cambia [^thomas1862][^hullah1866]. Cantamos la primera, con la letra del Golden Book de 1923 [^golden1923]. Ese libro aún titula la canción "Deck The Hall", en el singular de Oliphant, pero su primer verso ya dice "Deck the halls" [^golden1923][^hullah1866].
 
-**Estrofa 1, la que cantamos.** "Deck the halls" es adornar los salones, y "boughs of holly" son ramas cortadas de acebo. "'Tis the season to be jolly" quiere decir que es la época del año de estar alegres. "Don we now our gay apparel" quiere decir pongámonos ahora nuestra ropa vistosa y de fiesta: "gay" tiene aquí su sentido antiguo, alegre o vistoso y llamativo [^dictionary]. Es el verso de la edición estadounidense de 1877; Oliphant escribió "Fill the mead-cup, drain the barrel" (llena la copa de hidromiel, vacía el barril), y el hidromiel es una bebida hecha con miel [^thomas1862][^psj1877][^dictionary]. El verbo "troll", con una canción, es cantarla a plena voz, con un sonido redondo, o cantarla por turnos, como en un canon [^dictionary]. Oliphant lo escribió "Troul" [^hullah1866]. Su "ancient Christmas carol" (antiguo villancico de Navidad) se volvió "ancient Yule-tide carol" en nuestro libro; Yuletide es la temporada de Navidad [^hullah1866][^golden1923][^dictionary].
+**Estrofa 1, la que cantamos.** "Deck the halls" es adornar los salones, y "boughs of holly" son ramas cortadas de acebo. "'Tis the season to be jolly" quiere decir que es la época del año para estar alegres. "Don we now our gay apparel" quiere decir pongámonos ahora nuestra ropa vistosa y de fiesta: "gay" tiene aquí su sentido antiguo, alegre o vistoso y llamativo [^dictionary]. Es el verso de la edición estadounidense de 1877; Oliphant escribió "Fill the mead-cup, drain the barrel" (llena la copa de hidromiel, vacía el barril), y el hidromiel es una bebida hecha con miel [^thomas1862][^psj1877][^dictionary]. El verbo "troll", con una canción, es cantarla a plena voz, con un sonido redondo, o cantarla por turnos, como en un canon [^dictionary]. Oliphant lo escribió "Troul" [^hullah1866]. Su "ancient Christmas carol" (antiguo villancico de Navidad) se volvió "ancient Yule-tide carol" en nuestro libro; Yuletide es la temporada de Navidad [^hullah1866][^golden1923][^dictionary].
 
-**Estrofa 2.** Oliphant tenía "See the flowing bowl before us" (mira el cuenco rebosante ante nosotros); los libros estadounidenses pusieron en su lugar "the blazing Yule", el tronco de Navidad ardiendo [^hullah1866][^psj1877][^handyfinch3]. Quien canta en la letra de Oliphant promete cantar "of beauty's treasure" (del tesoro de la belleza); los libros estadounidenses lo hicieron tesoro de Navidad, y el Golden Book, tesoro de Yuletide [^hullah1866][^psj1877][^golden1923].
+**Estrofa 2.** Oliphant tenía "See the flowing bowl before us" (mira el cuenco rebosante ante nosotros); los libros estadounidenses pusieron en su lugar "the blazing Yule", el tronco de Navidad ardiendo [^hullah1866][^psj1877][^handyfinch3]. Quien canta en la letra de Oliphant promete cantar "of beauty's treasure" (del tesoro de la belleza); los libros estadounidenses lo convirtieron en el tesoro de la Navidad, y el Golden Book, tesoro de Yuletide [^hullah1866][^psj1877][^golden1923].
 
 **Estrofa 3.** Aquí la canción pasa a la víspera de Año Nuevo: el año viejo se va, y los mozos y las mozas saludan al nuevo [^hullah1866]. La compañía de Oliphant va "laughing, quaffing", riendo y bebiendo a grandes tragos; los libros estadounidenses, en cambio, la ponen a cantar con alegría, todos juntos, sin hacer caso del viento ni del tiempo [^hullah1866][^psj1877].
 
@@ -77,7 +77,7 @@ Adorna los salones con ramas de acebo,
 > Fa la la la la, la la la la.
 fa la la la la, la la la la.
 > 'Tis the season to be jolly,
-es la época de estar alegres,
+es la época para estar alegres,
 > Fa la la la la, la la la la.
 fa la la la la, la la la la.
 > Don we now our gay apparel,
@@ -131,7 +131,7 @@ Adorna el salón con ramas de acebo,
 > Fa, la, la, la, la, la, la, la, la!
 ¡fa, la, la, la, la, la, la, la, la!
 > 'Tis the season to be jolly:
-es la época de estar alegres:
+es la época para estar alegres:
 > Fa, la, la, la, la, la, la, la, la!
 ¡fa, la, la, la, la, la, la, la, la!
 > Fill the mead-cup, drain the barrel,
@@ -181,13 +181,13 @@ sin hacer caso del viento ni del tiempo.
 
 ## Cómo se canta
 
-Se canta en Navidad, y su última estrofa es de la víspera de Año Nuevo, la noche que significa su nombre galés [^hullah1866][^jones1794]. La página de Hullah de 1866 dice "Repeat in Chorus" (repetir en coro) [^hullah1866].
+Se canta en Navidad, y su última estrofa es de la víspera de Año Nuevo, la noche a la que se refiere su nombre galés [^hullah1866][^jones1794]. La página de Hullah de 1866 dice "Repeat in Chorus" (repetir en coro) [^hullah1866].
 
-Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, todas las voces con la letra. Hemos cambiado once notas para que el dúo tenga sus terceras en la mayoría de los tiempos, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
+Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, y todas las voces cantan la letra. Hemos cambiado once notas para que el dúo tenga sus terceras en la mayoría de los tiempos, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
 
 ## ¿Sabías que...?
 
-- La página de Jones de 1794 tiene una nota al pie sobre el título: los druidas, dice, empezaban sus fiestas la noche anterior, y cita a César; y el banquete y la alegría aún son universales en Gales la víspera de Año Nuevo [^jones1794].
+- La página de Jones de 1794 tiene una nota al pie sobre el título: dice que los druidas empezaban sus fiestas la noche anterior, cita a César y añade que el banquete y la alegría aún son costumbre en todo Gales la víspera de Año Nuevo [^jones1794].
 - Jones dedicó su libro de 1784 al príncipe de Gales, y escribió que muchas de sus melodías habían "resonado, en los días de fiesta, por los salones" de los antepasados del príncipe [^jones1784].
 
 ## Cómo cantarla
@@ -201,11 +201,11 @@ Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 6
 
 ### ¿Quién escribió Deck the Halls?
 
-Nadie sabe quién hizo la melodía. Es una pieza galesa de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784]. La letra inglesa es de Thomas Oliphant, impresa en 1862 en las Welsh Melodies de John Thomas [^thomas1862][^hullah1866]. La letra que casi todos cantan, con "Don we now our gay apparel", es una revisión de la suya que se conoce por primera vez en una revista escolar estadounidense de 1877; no se sabe quién la revisó [^psj1877][^handyfinch3].
+Nadie sabe quién hizo la melodía. Es una pieza galesa de arpa llamada Nos Galan, víspera de Año Nuevo, que imprimieron John Parry en 1781 y Edward Jones en 1784 [^parry1781][^jones1784]. La letra inglesa es de Thomas Oliphant, impresa en 1862 en las Welsh Melodies de John Thomas [^thomas1862][^hullah1866]. La letra que casi todos cantan, con "Don we now our gay apparel", es una revisión de la suya que aparece por primera vez en una revista escolar estadounidense de 1877; no se sabe quién la revisó [^psj1877][^handyfinch3].
 
 ### ¿Cuál es la letra original de Deck the Halls?
 
-La letra de Oliphant de 1862 era una canción de bebida para las fiestas. Su primera estrofa dice "Fill the mead-cup, drain the barrel", la segunda "See the flowing bowl before us", y en la tercera la compañía va "laughing, quaffing" mientras se va el año viejo [^thomas1862][^hullah1866]. Antes de Oliphant, la melodía galesa llevaba versos de amor: Jones imprimió uno en galés en 1784 y otro en inglés en 1794 [^jones1784][^jones1794].
+La letra de Oliphant de 1862 era una canción de bebida para las fiestas. Su primera estrofa dice "Fill the mead-cup, drain the barrel", la segunda "See the flowing bowl before us", y en la tercera la compañía va "laughing, quaffing" mientras se va el año viejo [^thomas1862][^hullah1866]. Antes de Oliphant, la melodía galesa llevaba coplas de amor: Jones imprimió una en galés en 1784 y otra en inglés en 1794 [^jones1784][^jones1794].
 
 ### ¿Qué significa "Don we now our gay apparel"?
 
@@ -213,7 +213,7 @@ Quiere decir "pongámonos ahora nuestra ropa de fiesta". "Don" es ponerse, "appa
 
 ### ¿Por qué se escribió Deck the Halls, y es un villancico?
 
-Thomas Oliphant escribió su letra inglesa en 1862 para dar letra en inglés a una melodía galesa de arpa para la Nochevieja, Nos Galan, en los Welsh Melodies de John Thomas, que la imprimieron junto a una letra galesa de Talhaiarn; la suya no es una traducción [^thomas1862][^hullah1866][^handyfinch3]. Se canta como villancico de Navidad, pero no es religioso: habla del acebo, del canto y del año que cambia, y nunca menciona el nacimiento de Jesús [^thomas1862]. Las estrofas de Oliphant eran también para beber; la letra estadounidense de 1877 quitó la bebida [^psj1877][^hullah1866].
+Thomas Oliphant escribió en 1862 una letra inglesa para una melodía galesa de arpa para la víspera de Año Nuevo, Nos Galan, en las Welsh Melodies de John Thomas, que la imprimieron junto a una letra galesa de Talhaiarn; la suya no es una traducción [^thomas1862][^hullah1866][^handyfinch3]. Se canta como villancico de Navidad, pero no es religioso: habla del acebo, del canto y del año que cambia, y nunca menciona el nacimiento de Jesús [^thomas1862]. Las estrofas de Oliphant eran también para beber; la letra estadounidense de 1877 quitó la bebida [^psj1877][^hullah1866].
 
 ### ¿Qué voz canta la melodía?
 
@@ -223,7 +223,7 @@ En nuestro arreglo la soprano canta la melodía. Con dos cantantes tienes la mel
 
 - [All Through the Night](/songs/all-through-the-night): otra pieza galesa del libro de Edward Jones de 1784, cantada con la letra inglesa de Harold Boulton, de 1892.
 - [Now Is the Month of Maying](/songs/now-is-the-month-of-maying): la canción de "fa la" de Thomas Morley, de 1595, para más estribillos donde la armonía hace el trabajo.
-- [Auld Lang Syne](/songs/auld-lang-syne): la otra canción de la víspera de Año Nuevo, y un primer intento breve de sostener tu propia voz.
+- [Auld Lang Syne](/songs/auld-lang-syne): la otra canción de la víspera de Año Nuevo, y un primer intento breve de sostener tu parte.
 
 ## Fuentes
 

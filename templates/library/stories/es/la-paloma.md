@@ -21,7 +21,7 @@ original: La Paloma (Nueva York: Century Music, 1906), Internet Archive | https:
 listen: National Jukebox, grabación de 1902 | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, grabación de 1903 | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---
 
-La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese nombre, del compositor vasco Sebastián Iradier, cuyo apellido también se imprimió Yradier [^century1906][^henriquezurena1947][^bnf-iradier]. Un hombre sale de La Habana, y el estribillo le pide a su amada: si a tu ventana llega una paloma, trátala con cariño, que soy yo [^century1906]. Iradier la llamó "canción americana", y ya la había publicado él mismo en Madrid en 1859 [^boletin1861][^bnf-work]. Viajó deprisa. En 1878 ya se imprimía en Boston con letra en inglés; en la edición de 1889 de una novela portuguesa, una joven la canta al piano, y hacia 1896 ya estaba en un disco de gramófono [^ava1887][^eca1889][^bnf-1896].
+La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese nombre, del compositor vasco Sebastián Iradier, cuyo apellido también se imprimió Yradier [^century1906][^henriquezurena1947][^bnf-iradier]. Un hombre sale de La Habana, y el estribillo le pide a su amada: si a tu ventana llega una paloma, trátala con cariño, que soy yo [^century1906]. Iradier la llamó "canción americana", y ya la había publicado él mismo en Madrid en 1859 [^boletin1861][^bnf-work]. Se difundió muy pronto. En 1878 ya se imprimía en Boston con letra en inglés; en la edición de 1889 de una novela portuguesa, una joven la canta al piano, y hacia 1896 ya estaba en un disco de gramófono [^ava1887][^eca1889][^bnf-1896].
 
 ## De dónde viene
 
@@ -31,15 +31,15 @@ La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese n
 
 ![[1]]
 
-**Registrada en Madrid.** El registro más antiguo de la canción que hemos encontrado es una lista madrileña de obras inscritas como propiedad literaria, impresa en 1861 en el Boletín bibliográfico español. La entrada 917 dice: "LA PALOMA, cancion americana con acompañamiento de piano, música de D. Sebastian Iradier, editor. Madrid, 1859. En folio." Figura en la lista de diciembre de 1860, el mes en que la edición se presentó en el Ministerio de Fomento. La lista nombra al propio Iradier como "editor", como hace con cada una de sus canciones allí, y la canción era para voz y piano, en una edición fechada en 1859 [^boletin1861]. Cuatro entradas antes, su "Juanita ó la perla de Aragon, cancion española" lleva la fecha de 1857 [^boletin1861]. La Bibliothèque nationale de France, citando el diccionario Grove, recoge el mismo orden: publicada primero en español en Madrid en 1859, y después en francés en París en 1864 [^bnf-work]. Ese septiembre, el semanario parisino Le Ménestrel la ofreció a sus suscriptores como "La Paloma (Colombe)", el n.º 14 de 25 canciones de Iradier con letra en francés [^menestrel1864]. Una enciclopedia danesa fecha la canción hacia 1863, después de Cuba [^lexdk]; la lista de Madrid muestra que ya estaba impresa antes.
+**Registrada en Madrid.** El registro más antiguo de la canción que hemos encontrado es una lista madrileña de obras inscritas como propiedad literaria, impresa en 1861 en el Boletín bibliográfico español. La entrada 917 dice: "LA PALOMA, cancion americana con acompañamiento de piano, música de D. Sebastian Iradier, editor. Madrid, 1859. En folio." Figura en la lista de diciembre de 1860, el mes en que la edición se presentó en el Ministerio de Fomento. La lista nombra al propio Iradier como "editor", como hace con cada una de sus canciones allí, y la canción era para voz y piano, en una edición fechada en 1859 [^boletin1861]. Cuatro entradas antes, su "Juanita ó la perla de Aragon, cancion española" lleva la fecha de 1857 [^boletin1861]. La Bibliothèque nationale de France, citando el diccionario Grove, recoge el mismo orden: publicada primero en español en Madrid en 1859, y después en francés en París en 1864 [^bnf-work]. En septiembre de ese año, el semanario parisino Le Ménestrel la ofreció a sus suscriptores como "La Paloma (Colombe)", el n.º 14 de 25 canciones de Iradier con letra en francés [^menestrel1864]. Una enciclopedia danesa fecha la canción hacia 1863, después de su estancia en Cuba [^lexdk]; la lista de Madrid muestra que ya estaba impresa antes.
 
 ![[2]]
 
-**Las páginas que leímos.** Nuestro arreglo sale de una edición de Nueva York, con copyright de 1906, de la serie "Vocal Blossoms" de Century Music, n.º 84, "La Paloma, Low, C, Yradier" [^century1906]. La página 2 lleva el encabezado "LA PALOMA. CANCIÓN AMERICANA.", con una letra en inglés de "M. H. R." sobre la española. Bajo la letra española, un dueño anterior escribió a lápiz una glosa en inglés palabra por palabra, que empieza en la página 2 con "When I came up from the havana protect me God" [^century1906]. La cotejamos con el Artists' Vocal Album de 1887 (Boston, White, Smith & Co.), donde la canción es "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", con su página marcada "Copyright, 1878" [^ava1887]. Los dos impresos tienen la misma primera estrofa y la misma coda rápida, casi hablada.
+**Las páginas que leímos.** Nuestro arreglo sale de una edición de Nueva York, con copyright de 1906, de la serie "Vocal Blossoms" de Century Music, n.º 84, "La Paloma, Low, C, Yradier" [^century1906]. La página 2 lleva el encabezado "LA PALOMA. CANCIÓN AMERICANA.", con una letra en inglés de "M. H. R." sobre la española. Bajo la letra española, un antiguo dueño escribió a lápiz una traducción literal al inglés, que empieza en la página 2 con "When I came up from the havana protect me God" [^century1906]. La cotejamos con el Artists' Vocal Album de 1887 (Boston, White, Smith & Co.), donde la canción es "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", con su página marcada "Copyright, 1878" [^ava1887]. Los dos impresos tienen la misma primera estrofa y la misma coda rápida, casi hablada.
 
 ![[3]]
 
-**Mito y documentos.** Se suele contar que La Paloma era una de las canciones favoritas en la corte mexicana del emperador Maximiliano y la emperatriz Carlota. Una enciclopedia danesa dice que se difundió en México bajo Maximiliano, tanto en la corte como entre sus adversarios, que le cantaban letras burlescas [^lexdk], y una historia de la música española de 1972 dice que la canción sobrevivió a los dos imperios a los que sirvió, el de Eugenia en Francia y el de Carlota en México [^livermore1972]. Lo que muestran los documentos: no hemos encontrado ningún documento de la propia corte que nombre la canción. Lo que sí está impreso es que los liberales mexicanos cantaban parodias de ella [^siller][^lexdk]. Un estudio de las canciones de la Intervención Francesa cuenta "La nueva Paloma" entre las canciones populares contra el invasor; sigue la estrofa de Iradier verso a verso, desde "Cuando salí del Congreso", y reescribe su coda sobre los austriacos [^siller].
+**Mito y documentos.** Se suele contar que La Paloma era una de las canciones favoritas en la corte mexicana del emperador Maximiliano y la emperatriz Carlota. Una enciclopedia danesa dice que se difundió en México bajo Maximiliano, tanto en la corte como entre sus adversarios, que le cantaban letras burlescas [^lexdk], y una historia de la música española de 1972 dice que la canción sobrevivió a los dos imperios a los que sirvió, el de Eugenia en Francia y el de Carlota en México [^livermore1972]. Lo que muestran los documentos: no hemos encontrado ningún documento de la propia corte que nombre la canción. Lo que sí está impreso es que los liberales mexicanos cantaban parodias de ella [^siller][^lexdk]. Un estudio de las canciones de la Intervención Francesa cuenta "La nueva Paloma" entre las canciones populares contra el invasor; sigue la estrofa de Iradier verso a verso, desde "Cuando salí del Congreso", y reescribe su coda en torno a los austriacos [^siller].
 
 ### Cronología
 
@@ -50,20 +50,20 @@ La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese n
 - 1865: Iradier muere en Vitoria [^bnf-iradier][^loc-yradier]
 - 1878: Se imprime en Boston con letra en inglés de L. C. Elson [^ava1887]
 - 1896: Hacia este año, la graba un tenor en un disco de gramófono Berliner [^bnf-1896]
-- 1906: La edición de Nueva York de la que leemos nuestro arreglo [^century1906]
+- 1906: La edición de Nueva York de la que sale nuestro arreglo [^century1906]
 
 ## Qué dice la letra
 
 Ningún impreso que hayamos leído nombra a nadie más que a Iradier como autor de la letra, aunque el registro de 1861 le atribuye solo la "música", mientras que para otra de sus canciones dice "letra y música" [^boletin1861][^century1906][^ava1887]. La canción tiene cuatro estrofas, cada una seguida del estribillo, y una coda rápida, casi hablada [^century1906].
 
-1. **La salida de La Habana.** Cuando salí de La Habana, con un "¡Válgame Dios!", una exclamación de todos los días, nadie me vio salir más que yo. Y una linda "guachinanga" se vino detrás de mí. Un diccionario cubano de 1862 dice que "guachinango, ga" era el nombre que se daba a la gente de México [^pichardo1862], así que es una muchacha mexicana. "Allá voy yo" y "que sí, señor" son muletillas alegres.
-2. **El estribillo.** Si a tu ventana llega una paloma, trátala con cariño, porque es mi propia persona. Cuéntale tus amores, "bien de mi vida" (amor de mi vida), y corónala de flores, porque es cosa mía. Luego suplica: ay, "chinita", querida, di que sí, dame tu amor, ven conmigo adonde vivo yo.
+1. **La salida de La Habana.** Cuando salí de La Habana, con un "¡Válgame Dios!", una exclamación corriente, nadie me vio salir más que yo. Y una linda "guachinanga" se vino detrás de mí. Un diccionario cubano de 1862 dice que "guachinango, ga" era el nombre que se daba a la gente de México [^pichardo1862], así que es una muchacha mexicana. "Allá voy yo" y "que sí, señor" son muletillas alegres.
+2. **El estribillo.** Si a tu ventana llega una paloma, trátala con cariño, porque es mi persona: soy yo. Cuéntale tus amores, "bien de mi vida" (amor de mi vida), y corónala de flores, porque es cosa mía. Luego suplica: ay, "chinita", querida, di que sí, dame tu amor, ven conmigo adonde vivo yo.
 3. **Las estrofas de la boda.** Las estrofas 2 a 4 bromean sobre la boda: el día que nos casemos, nos iremos desde la iglesia derechos a dormir, juntitos; el "curita" nos bendecirá en la catedral, te daré la mano y el cura nos echará dos rociadas de agua bendita ("hisopazos"); y con el tiempo tendremos al menos siete, o quince, "guachinanguitos" [^century1906].
 4. **La coda.** Un parloteo cómico en notas cortas. Sus finales en "-au" son un "-ado" recortado: "enseñau" por "enseñado". ¿No te he enseñado el tan alabado "cuadrilátero" que los austriacos le han regalado a mi amor, muy bien dibujado, y el "papelitico" certificado de que la guerra ha terminado, pegado con tres "obleas", las de cerrar cartas? [^century1906][^ava1887] Suena a broma sobre las noticias del momento; no hemos encontrado ninguna fuente que la explique.
 
 ### La letra completa
 
-La estrofa 1 y el estribillo van como los cantamos, leídos de la edición de Nueva York de Century Music de 1906, páginas 2 a 4. La coda es de las páginas 4 y 5, con sus sílabas unidas en palabras, y las estrofas 2 a 4 van tal como se imprimen en la página 5, con las tildes del impreso. En el impreso, cada estrofa posterior sigue con el estribillo.
+La estrofa 1 y el estribillo van como los cantamos, tomados de la edición de Nueva York de Century Music de 1906, páginas 2 a 4. La coda es de las páginas 4 y 5, con sus sílabas unidas en palabras, y las estrofas 2 a 4 van tal como se imprimen en la página 5, con las tildes del impreso. En el impreso, tras cada una de las estrofas siguientes vuelve el estribillo.
 
 **Estrofa 1**
 Cuando salí de la Habana
@@ -127,9 +127,9 @@ Allá voy yó.
 
 ## Cómo se canta
 
-Es una canción para voz sola y piano, en 2/4, marcada Allegretto [^century1906][^ava1887]. Bajo la voz, el piano mantiene de principio a fin el ritmo mecido de la habanera, incluida la coda [^century1906]. El impreso sigue con la estrofa 1, el estribillo y la coda, y luego vuelve al principio ("D.C.") para las demás estrofas [^century1906].
+Es una canción para voz sola y piano, en 2/4, marcada Allegretto [^century1906][^ava1887]. Bajo la voz, el piano mantiene de principio a fin el ritmo mecido de la habanera, incluida la coda [^century1906]. El impreso trae primero la estrofa 1, el estribillo y la coda, y luego vuelve al principio ("D.C.") para las demás estrofas [^century1906].
 
-Nuestro arreglo es la estrofa 1 y el estribillo en español, en Do, como en la partitura, para 2 a 4 cantantes, sin la coda. La soprano lleva la melodía de Iradier; la contralto y el tenor cantan la letra con ella, sobre sus acordes; y el bajo toma el ritmo del piano en "dm", para que la habanera no se detenga nunca.
+Nuestro arreglo canta la estrofa 1 y el estribillo en español, en Do, como en la partitura, para 2 a 4 cantantes, sin la coda. La soprano lleva la melodía de Iradier; la contralto y el tenor cantan la letra con ella, sobre sus acordes; y el bajo toma el ritmo del piano en "dm", para que la habanera no se detenga nunca.
 
 ## ¿Sabías que...?
 
@@ -139,7 +139,7 @@ Nuestro arreglo es la estrofa 1 y el estribillo en español, en Do, como en la p
 
 ## Cómo cantarla
 
-- [Soprano](/songs/la-paloma/soprano): cantas la melodía. El primer verso sube, en parte en tresillos rápidos, Mi, Fa, Sol, La, Si, Do, en "sa-lí de la Ha-ba-na", y "Na-die" salta directamente hasta Re. En el último "¡ay!" del estribillo tocas tu Fa agudo, y luego "vi-vo yo" baja hasta el Do grave del final.
+- [Soprano](/songs/la-paloma/soprano): cantas la melodía. El primer verso sube, en parte en tresillos rápidos, Mi, Fa, Sol, La, Si, Do, en "sa-lí de la Ha-ba-na", y "Na-die" salta directamente hasta Re. En el último "¡ay!" del estribillo alcanzas tu Fa agudo, y luego "vi-vo yo" baja hasta el Do grave del final.
 - [Contralto](/songs/la-paloma/alto): cantas la letra sobre todo una tercera o una sexta por debajo de la melodía, entre el Si grave y Sol. Mantente firme en Fa durante "que ven-te con mi-go" la primera vez, y en Sol la segunda.
 - [Tenor](/songs/la-paloma/tenor): cantas sobre todo Do y Sol. Todo el primer verso, hasta "Vál-ga-me", va en un solo Do, así que mantenlo brillante y afinado. En el estribillo subes a Re en "mor, ¡Ay! que ven-te con mi-go, Chi-", tu nota más aguda.
 - [Bajo](/songs/la-paloma/bass): tú eres la habanera. En "dm" cantas su patrón, una nota larga, una corta y luego dos iguales, en Do, Sol y Re, del Sol grave al Sol de arriba, con una respiración antes de cada verso. Mantenlo ligero y exacto; todos los demás se apoyan en él.
@@ -164,13 +164,13 @@ Ningún documento dice quién la cantó primero: Iradier la publicó en Madrid y
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Iradier. La contralto y el tenor cantan la misma letra con ella, la contralto sobre todo una tercera o una sexta por debajo, y el bajo canta el ritmo de habanera en "dm" por debajo de todos. Con dos cantantes tienes la melodía y la contralto; añade el bajo para tres, y así estará el ritmo.
+La soprano canta la melodía de Iradier. La contralto y el tenor cantan la misma letra con ella, la contralto sobre todo una tercera o una sexta por debajo, y el bajo canta el ritmo de habanera en "dm" por debajo de todos. Con dos cantantes tienes la melodía y la contralto; con el bajo son tres, y ya tienes el ritmo.
 
 ## Canta después
 
 - [Las Mañanitas](/songs/las-mananitas): otra canción en español, la serenata mexicana del amanecer, un buen primer paso si el ritmo de La Paloma te parece rápido.
 - [Riu, riu, chiu](/songs/riu-riu-chiu): un villancico español impreso en 1556, también en 2/4.
-- [Caro mio ben](/songs/caro-mio-ben): otra canción de amor cantada en su propio idioma, el italiano, en el mismo paso intermedio.
+- [Caro mio ben](/songs/caro-mio-ben): otra canción de amor cantada en su propio idioma, el italiano, del mismo nivel intermedio.
 
 ## Fuentes
 

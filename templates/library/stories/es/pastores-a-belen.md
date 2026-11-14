@@ -19,7 +19,7 @@ translatedFrom: 29ac517c23f7
 original: Cánticos espirituales, 1916, Internet Archive | https://archive.org/details/b19151652/page/n19
 ---
 
-Pastores a Belén, impreso en 1916 como Pastores á Belén y conocido por su primer verso, "Pastores a Belén, vamos con alegría", es un villancico en español, una canción de Navidad con estrofa y estribillo [^canticos1916][^rae1869][^rae1914]. Los pastores se llaman unos a otros para ir a Belén a ver al hijo de María, y quedan en llevarle turrones y miel [^canticos1916][^rae1914]. La impresión más antigua que hemos visto es el n.º 23 de *Cánticos espirituales con música*, un cancionero católico publicado en Las Vegas, Nuevo México, en 1916 por la Revista Católica, entre dieciséis cantos para la Nochebuena [^canticos1916][^canticos1916-index]. No se nombra a ningún poeta ni compositor [^canticos1916][^canticos1916-index]. Sus editores escribieron que dejaron estos cantos tan intactos como pudieron, porque la gente de su región los conocía y los cantaba así [^canticos1916-note].
+Pastores a Belén, impreso en 1916 como Pastores á Belén y conocido por su primer verso, "Pastores a Belén, vamos con alegría", es un villancico en español, una canción de Navidad con estrofa y estribillo [^canticos1916][^rae1869][^rae1914]. Los pastores se llaman unos a otros para ir a Belén a ver al hijo de María, y quedan en llevarle turrones y miel [^canticos1916][^rae1914]. La impresión más antigua que hemos visto es el n.º 23 de *Cánticos espirituales con música*, un cancionero católico publicado en Las Vegas, Nuevo México, en 1916 por la Revista Católica, entre dieciséis cantos para la Nochebuena [^canticos1916][^canticos1916-index]. No se nombra a ningún poeta ni compositor [^canticos1916][^canticos1916-index]. Sus editores escribieron que dejaron estos cantos lo más intactos posible, porque la gente de su región los conocía y los cantaba así [^canticos1916-note].
 
 ![[1]]
 
@@ -33,24 +33,24 @@ Pastores a Belén, impreso en 1916 como Pastores á Belén y conocido por su pri
 
 ![[3]]
 
-**El recopilador.** "P. Ralliere" es el padre J. B. Ralliere, como firmaba sus cartas en español: Juan Bautista en español, John Baptist en inglés [^ellis1955b][^ellisbaca1957c][^salpointe1898][^unm2025]. Florence Hawley Ellis y Edwin Baca, que publicaron sus apuntes en 1957, escribieron que usaba estas formas, y no la francesa de su bautismo, para ser uno más con sus feligreses [^ellisbaca1957]. J. B. Salpointe, que había sido arzobispo de Santa Fe, lo nombra en 1898 como uno de los seis nuevos misioneros que el padre Machebeuf trajo de Francia para la diócesis de Santa Fe en 1856 [^salpointe1898][^ellisbaca1957]. La antropóloga Florence Hawley Ellis, que escribió su historia en 1955 a partir de sus apuntes y de los recuerdos de sus feligreses, dice que llegó de Francia siendo diácono [^ellis1955a][^ellis1955b]. Ellis cuenta que llegó a Tomé, Nuevo México, como su sacerdote el 13 de junio de 1858, y Salpointe lo da como párroco de Tomé en 1859 [^ellis1955a][^salpointe1898]. Ellis dice que él mismo daba la mayoría de las clases de música en su escuela y que preparó los dos coros de la iglesia de Tomé, uno de hombres y otro de mujeres; le atribuye algunos de los cantos que las iglesias de la zona aún cantaban en su tiempo, y el arreglo de otros [^ellis1955b]. La página de una conferencia de 2025 en la Universidad de Nuevo México considera sus *Cánticos espirituales* el himnario en español más influyente del suroeste de los Estados Unidos en el siglo XIX, cuenta al menos catorce ediciones entre 1884 y 1956, y dice que sus más de 300 cantos tomaron melodías de fuentes francesas, italianas, españolas, mexicanas y nuevomexicanas, muchas veces poniendo letra nueva a una melodía ajena [^unm2025].
+**El recopilador.** "P. Ralliere" es el padre J. B. Ralliere, como él mismo firmaba: Juan Bautista en español, John Baptist en inglés [^ellis1955b][^ellisbaca1957c][^salpointe1898][^unm2025]. Florence Hawley Ellis y Edwin Baca, que publicaron sus apuntes en 1957, escribieron que usaba estas formas, y no la francesa de su bautismo, para ser uno más entre sus feligreses [^ellisbaca1957]. J. B. Salpointe, que había sido arzobispo de Santa Fe, lo nombra en 1898 como uno de los seis nuevos misioneros que el padre Machebeuf trajo de Francia para la diócesis de Santa Fe en 1856 [^salpointe1898][^ellisbaca1957]. La antropóloga Florence Hawley Ellis, que escribió su historia en 1955 a partir de sus apuntes y de los recuerdos de sus feligreses, dice que llegó de Francia siendo diácono [^ellis1955a][^ellis1955b]. Ellis cuenta que llegó a Tomé, Nuevo México, como sacerdote del pueblo el 13 de junio de 1858, y Salpointe lo sitúa como párroco de Tomé en 1859 [^ellis1955a][^salpointe1898]. Ellis dice que él mismo daba la mayoría de las clases de música en su escuela y que preparó los dos coros de la iglesia de Tomé, uno de hombres y otro de mujeres; le atribuye algunos de los cantos que las iglesias de la zona aún cantaban en su tiempo, y el arreglo de otros [^ellis1955b]. La página de una conferencia de 2025 en la Universidad de Nuevo México considera sus *Cánticos espirituales* el himnario en español más influyente del suroeste de los Estados Unidos en el siglo XIX, cuenta al menos catorce ediciones entre 1884 y 1956, y dice que sus más de 300 cantos tomaron melodías de fuentes francesas, italianas, españolas, mexicanas y nuevomexicanas, muchas veces poniendo letra nueva a una melodía ajena [^unm2025].
 
 ![[4]]
 
-**Lo que la página no dice.** Ralliere recopiló los cantos, pero la página no dice quién escribió este, aunque el mismo libro sí firma algunas melodías, como el segundo Trisagio de su primera página, marcado "Lambillotte" [^canticos1916-note][^canticos1916]. Tampoco relaciona el libro la canción con Las Posadas ni con ninguna pastorela: simplemente la coloca para la Nochebuena [^canticos1916-index]. No hemos visto las ediciones sin música de 1908 y 1913, ni las anteriores que la página de la UNM cuenta desde 1884, así que no podemos decir cuándo entró la canción en la colección ni de dónde vinieron su letra y su melodía [^unm2025].
+**Lo que la página no dice.** Ralliere recopiló los cantos, pero la página no dice quién escribió este, aunque el mismo libro sí firma algunas melodías, como el segundo Trisagio de su primera página, marcado "Lambillotte" [^canticos1916-note][^canticos1916]. Tampoco relaciona el libro la canción con Las Posadas ni con ninguna pastorela: simplemente la incluye entre los cantos para la Nochebuena [^canticos1916-index]. No hemos visto las ediciones sin música de 1908 y 1913, ni las anteriores que la página de la UNM cuenta desde 1884, así que no podemos decir cuándo entró la canción en la colección ni de dónde vinieron su letra y su melodía [^unm2025].
 
 ### Cronología
 
-- 1856: Seis seminaristas en Francia, entre ellos Ralliere, son reclutados para la diócesis de Santa Fe [^salpointe1898][^ellisbaca1957]
-- 1858: Ralliere llega a Tomé, Nuevo México, como su sacerdote, el 13 de junio según Ellis; Salpointe lo da allí en 1859 [^ellis1955a][^salpointe1898]
-- 1908: Una *Colección de cánticos espirituales* sin música, "Edición de 1908", que más tarde vendía la imprenta de Las Vegas, según la nombra el libro de 1916 [^canticos1916-note][^canticos1916-appendix]
+- 1856: La diócesis de Santa Fe recluta en Francia a seis seminaristas, entre ellos Ralliere, [^salpointe1898][^ellisbaca1957]
+- 1858: Ralliere llega a Tomé, Nuevo México, como sacerdote del pueblo, el 13 de junio según Ellis; Salpointe lo sitúa allí en 1859 [^ellis1955a][^salpointe1898]
+- 1908: Una *Colección de cánticos espirituales* sin música, "Edición de 1908", que más tarde vendía la imprenta de Las Vegas, según el libro de 1916 [^canticos1916-note][^canticos1916-appendix]
 - 1916: *Cánticos espirituales con música* imprime "Pastores á Belén" como n.º 23, entre los cantos para la Nochebuena [^canticos1916][^canticos1916-index]
 
 ## Qué dice la letra
 
 La letra está en español, tal como la imprime el libro de 1916: una estrofa y el estribillo bajo la música [^canticos1916]. La escena es del Evangelio de Lucas, donde los pastores se dicen unos a otros: "Pasemos pues hasta Bethlehem", y hallan "á María, y á José, y al niño acostado en el pesebre" [^kjv].
 
-La página escribe "a" con tilde, "á", la ortografía antigua, que se canta igual: el diccionario de la Real Academia Española aún imprimía "á" en 1869, pero "a" en 1914, y el propio índice del libro de 1916 ya da la canción como "Pastores a Belén" [^rae1869][^rae1914][^canticos1916-index][^canticos1916].
+La página escribe "a" con tilde, "á", la ortografía antigua, que se canta igual: el diccionario de la Real Academia Española aún imprimía "á" en 1869, pero "a" en 1914, y el propio índice del libro de 1916 ya escribe "Pastores a Belén" [^rae1869][^rae1914][^canticos1916-index][^canticos1916].
 
 **La estrofa.** ¡Pastores, a Belén! Vamos con alegría a ver a "nuestro bien": el diccionario de la Academia de 1869 define "bien" como "el que tiene en sí la suma perfección y bondad: y en este sentido sólo Dios es el sumo bien" [^rae1869]. Él es el hijo de María. Allí, allí, allí nos espera Jesús; allí su luz "nos convida", la palabra con que se invita a alguien a comer [^rae1869].
 
@@ -58,7 +58,7 @@ La página escribe "a" con tilde, "á", la ortografía antigua, que se canta igu
 
 ### La letra completa
 
-Estos son la estrofa y el estribillo tal como los imprime *Cánticos espirituales con música* (Las Vegas, Nuevo México, 1916), n.º 23, páginas 20 y 21, con la ortografía, las tildes y las mayúsculas del impreso. El libro pone la letra bajo las notas; los cortes de verso son nuestros, en sus mayúsculas. El estribillo está impreso dos veces seguidas, y luego "al Niño Manuel" dos veces más para cerrar.
+Estos son la estrofa y el estribillo tal como los imprime *Cánticos espirituales con música* (Las Vegas, Nuevo México, 1916), n.º 23, páginas 20 y 21, con la ortografía, las tildes y las mayúsculas del impreso. El libro pone la letra bajo las notas; los cortes de verso son nuestros y caen en sus mayúsculas. El estribillo está impreso dos veces seguidas, y luego "al Niño Manuel" dos veces más para cerrar.
 
 **Estrofa**
 Pastores á Belén
@@ -84,7 +84,7 @@ Es un canto católico de Navidad, y el libro de 1916 lo coloca entre los cantos 
 
 La página está escrita para teclado en Fa mayor y en 6/8. En la estrofa, la melodía es la nota más aguda de la mano derecha, y un crescendo lleva a "Al Hijo de María". El estribillo lleva el encabezado "CORO" y tiene un pentagrama propio a dos voces sobre el teclado: suave al principio, más fuerte en "Para ofrecer", suave otra vez en el segundo "Llevemos", más fuerte otra vez, y fuerte en el "al Niño Manuel" final [^canticos1916].
 
-Nuestro arreglo canta la estrofa y el estribillo para 2 a 4 cantantes, en Sol, un tono por encima del impreso, con las alturas y los ritmos de la melodía impresa, salvo unas pocas notas acortadas o retrasadas para respirar y una última nota más corta. Las cuatro voces son nuestras; la parte de teclado del libro, sin firma, solo se usó para comprobar los acordes.
+Nuestro arreglo canta la estrofa y el estribillo para 2 a 4 cantantes, en Sol, un tono por encima del impreso, con las notas y los ritmos de la melodía impresa, salvo unas pocas notas acortadas o retrasadas para respirar y una última nota más corta. Las cuatro voces son nuestras; la parte de teclado del libro, sin firma, solo se usó para comprobar los acordes.
 
 ## Versiones y otras letras
 
@@ -92,24 +92,24 @@ Desde 1986, varios himnarios imprimen un villancico que empieza con el mismo ver
 
 ## ¿Sabías que...?
 
-- El ejemplar escaneado del libro de 1916 lleva un sello de copyright fechado el 11 de enero de 1916, con el número de registro "©Cl.A418409", en la página frente a su índice, así que el libro ya estaba impreso para entonces [^canticos1916-index].
+- El ejemplar escaneado del libro de 1916 lleva un sello de copyright fechado el 11 de enero de 1916, con el número de registro "©Cl.A418409", en la página frente a su índice, así que para entonces el libro ya estaba impreso [^canticos1916-index].
 
 ## Cómo cantarla
 
 - [Soprano](/songs/pastores-a-belen/soprano): llevas la melodía. Los dos primeros versos empiezan en un Re grave, saltan una sexta hasta el Si y se quedan en él: "-tores á Belén", "-mos con ale-". "Alegría" es el primer adorno, cuatro notas que bajan desde el Re. Tu Mi agudo llega en "María", donde un "allí" se une al siguiente, antes de "Nos espera Jesús" y otra vez antes de "Nos convida su luz", y en "Niño" la segunda vez del estribillo. El último "Niño" tiene un pequeño giro, de Do a Re, antes de "Manuel".
-- [Contralto](/songs/pastores-a-belen/alto): después de un Si grave en "Pas-" y "Va-", sostienes un Re bajo los primeros versos de la melodía, y luego te quedas casi siempre en Fa sostenido y Sol. En "allí, allí" te mueves en contra de la melodía, bajando de Si a Sol mientras ella sube y volviendo a subir mientras baja. La primera vez del estribillo sostienes Fa sostenido durante "Para ofrecer al Niño Ma-" y subes a Sol en "nuel".
+- [Contralto](/songs/pastores-a-belen/alto): después de un Si grave en "Pas-" y "Va-", sostienes un Re bajo los primeros versos de la melodía, y luego te quedas casi siempre en Fa sostenido y Sol. En "allí, allí" te mueves en sentido contrario a la melodía, bajando de Si a Sol mientras ella sube y volviendo a subir mientras baja. La primera vez del estribillo sostienes Fa sostenido durante "Para ofrecer al Niño Ma-" y subes a Sol en "nuel".
 - [Tenor](/songs/pastores-a-belen/tenor): entras cuando cantan las cuatro voces. El primer verso y "Vamos con ale-" van todos en Sol, y "Al Hijo de María" sube a Re. En el estribillo, tu nota más aguda, Mi, está en "turrones"; luego bajas a La en "miel" y te quedas ahí hasta que "Manuel" termina en Sol. El "al Niño Manuel, al Niño Manuel" final va todo en Re, sostenido bajo la melodía y la contralto.
-- [Bajo](/songs/pastores-a-belen/bass): cantas casi siempre las fundamentales de los acordes, del Sol grave al Sol una octava más arriba. "Jesús" y "luz" saltan una cuarta hasta el Sol agudo, y "Llevemos" baja de golpe una octava. "-rrones y miel" sube Sol, Si, Re, y el final va Sol, La, Re y de vuelta a Sol.
+- [Bajo](/songs/pastores-a-belen/bass): cantas casi siempre las fundamentales de los acordes, del Sol grave al Sol una octava más arriba. "Jesús" y "luz" saltan una cuarta hasta el Sol agudo, y "Llevemos" baja de golpe una octava. "-rrones y miel" sube Sol, Si, Re, y el final va Sol, La, Re y vuelve a Sol.
 
 ## Preguntas
 
 ### ¿Quién escribió Pastores a Belén?
 
-No se nombra a nadie. La impresión más antigua que hemos visto, en un cancionero católico de Nuevo México de 1916, la imprime sin firma, en una colección recopilada por el padre J. B. Ralliere, sacerdote nacido en Francia, párroco de Tomé [^canticos1916][^canticos1916-note]. Florence Hawley Ellis escribió en 1955 que Ralliere compuso algunos cantos de las iglesias de la zona y arregló otros, pero nada relaciona este con él [^ellis1955b][^canticos1916]. La colección solía poner letra nueva a melodías ajenas, según una página de la UNM de 2025 [^unm2025].
+No se nombra a nadie. La impresión más antigua que hemos visto, en un cancionero católico de Nuevo México de 1916, la imprime sin firma, en una colección recopilada por el padre J. B. Ralliere, sacerdote nacido en Francia, párroco de Tomé [^canticos1916][^canticos1916-note]. Florence Hawley Ellis escribió en 1955 que Ralliere compuso algunos cantos de las iglesias de la zona y arregló otros, pero nada vincula este canto con él [^ellis1955b][^canticos1916]. La colección solía poner letra nueva a melodías ajenas, según una página de la UNM de 2025 [^unm2025].
 
 ### ¿Pastores a Belén es de Puerto Rico?
 
-No, según los documentos. Desde 1986, varios himnarios imprimen un villancico puertorriqueño que empieza con el mismo verso, pero su estribillo y su melodía son distintos, y su letra en español lleva un copyright de 1949 [^hymnary-text][^hymnary-tune][^nch1995]. La canción que cantamos es la impresa en Las Vegas, Nuevo México, en 1916, que no nombra ningún lugar de origen, solo que la gente de su región la cantaba [^canticos1916][^canticos1916-note]. No se sabe dónde empezó ninguna de las dos.
+No, según los documentos. Desde 1986, varios himnarios imprimen un villancico puertorriqueño que empieza con el mismo verso, pero su estribillo y su melodía son distintos, y su letra en español lleva un copyright de 1949 [^hymnary-text][^hymnary-tune][^nch1995]. La canción que cantamos es la impresa en Las Vegas, Nuevo México, en 1916, que no nombra ningún lugar de origen y solo dice que la gente de su región la cantaba [^canticos1916][^canticos1916-note]. No se sabe dónde empezó ninguna de las dos.
 
 ### ¿Cuál de los "Pastores a Belén" es este?
 
@@ -117,7 +117,7 @@ El nuestro es el villancico que empieza "Pastores á Belén, vamos con alegría"
 
 ### ¿Dónde está la letra completa de Pastores a Belén?
 
-El libro de 1916 imprime con la música solo una estrofa y el estribillo, y están completos más arriba, con su sentido explicado [^canticos1916]. Para más estrofas, el libro remite a sus ediciones sin música de 1908 y 1913, que no hemos visto [^canticos1916-note].
+El libro de 1916 imprime con la música solo una estrofa y el estribillo, y aparecen completos más arriba, con su sentido explicado [^canticos1916]. Para más estrofas, el libro remite a sus ediciones sin música de 1908 y 1913, que no hemos visto [^canticos1916-note].
 
 ### ¿Qué voz canta la melodía?
 
