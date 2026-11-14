@@ -846,6 +846,38 @@ def lesson_ids(files):
     return out
 
 
+
+def check_languages(files):
+    """A course file translated into a language keeps it on every translated string: a word with "en" and another
+    language but not one the course's own title has fails (a reworded English that lost its German, 2026-11-14)."""
+    for f in files:
+        if not f.exists():
+            continue
+        data = json.loads(f.read_text())
+        title = data.get("title")
+        need = {k for k in title if k != "en"} if isinstance(title, dict) else set()
+        if not need:
+            continue
+        lost = []
+
+        def walk(o, at):
+            if isinstance(o, dict):
+                if isinstance(o.get("en"), str) and all(len(k) == 2 for k in o):
+                    have = {k for k in o if k != "en"}
+                    if have and need - have:
+                        lost.append((at, sorted(need - have), o["en"]))
+                    return
+                for k, v in o.items():
+                    walk(v, f"{at}.{k}")
+            elif isinstance(o, list):
+                for i, v in enumerate(o):
+                    walk(v, f"{at}[{i}]")
+        walk(data, "")
+        for at, langs, en in lost[:20]:
+            problem(f"{f.relative_to(ROOT / 'course')}{at}", f"has {', '.join(sorted(need - set(langs)) or ['en'])} but not {', '.join(langs)}, which the course carries: \"{en[:60]}\" (add it to i18n/<lang>/, then i18n.py apply)")
+        if len(lost) > 20:
+            problem(str(f.relative_to(ROOT / "course")), f"and {len(lost) - 20} more words missing a language the course carries")
+
 def check_lesson_ids(files):
     now = lesson_ids(files)
     if "--write-lesson-ids" in sys.argv:
@@ -907,6 +939,7 @@ def main():
     warmups()
     check_slugs()
     check_lesson_ids(files)
+    check_languages(files)
     # The courses in other languages (tools/i18n.py): every translation in a course file is the one in i18n/<lang>/,
     # so a regenerated course that lost its translations, or a translation edited in place, fails here.
     sys.path.insert(0, str(ROOT / "tools"))
