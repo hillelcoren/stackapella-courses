@@ -164,11 +164,11 @@ La letra varía entre impresiones, y lo que hemos leído no resuelve cuál es la
 
 Significa "¿No volverás?". En escocés, "will ye no" equivale a "will you not", "¿no vas a...?", y la canción se lo pregunta al príncipe Carlos Eduardo Estuardo tras su huida a Francia en 1746, con la voz de los montañeses que lo escondieron [^gems1894][^chambers][^blaikie]. El estribillo dice por qué: no se te podría querer más [^gems1894]. Todas las ediciones que hemos leído dicen "no" [^rogers1855][^gems1883][^gems1894]. "Nae" es otra grafía escocesa del mismo "not", su forma átona, así que "Will ye nae come back again?" significa lo mismo [^dsl-no][^dsl-na].
 
-### ¿Quién escribió Will Ye No Come Back Again, y cuándo?
+### ¿Quién escribió Will Ye No Come Back Again y cuándo?
 
-Carolina Oliphant, Lady Nairne (1766 a 1845), escribió la letra, pero no se sabe cuándo: desde 1821 enviaba sus canciones con un nombre falso, y el suyo solo se dio a conocer después de su muerte [^rogers1869][^dnb]. Quizá apareció por primera vez en Lays from Strathearn, que el Dictionary of National Biography fecha en 1846 y Rogers da sin fecha, y que no hemos leído; la impresión más antigua que hemos leído es la de Rogers, de 1855 [^dnb][^rogers1855]. No se sabe quién hizo la melodía; Ditson la imprime con el nombre de Finlay Dun [^fitzgerald][^gems1883].
+Carolina Oliphant, Lady Nairne (1766 a 1845), escribió la letra, pero no se sabe cuándo: desde 1821 enviaba sus canciones con un nombre falso, y el suyo solo se dio a conocer después de su muerte [^rogers1869][^dnb]. Quizá apareció por primera vez en Lays from Strathearn, que el Dictionary of National Biography fecha en 1846 y Rogers cita sin fecha, y que no hemos leído; la impresión más antigua que hemos leído es la de Rogers, de 1855 [^dnb][^rogers1855]. No se sabe quién hizo la melodía; Ditson la imprime con el nombre de Finlay Dun [^fitzgerald][^gems1883].
 
-### ¿Es la canción de Bonnie Prince Charlie?
+### ¿Will Ye No Come Back Again habla de Bonnie Prince Charlie?
 
 Es una de varias canciones sobre él. Esta es la despedida: le pide a Carlos que vuelva después de que zarpara hacia Francia en septiembre de 1746 [^chambers][^blaikie]. The Skye Boat Song cuenta un momento anterior, su travesía a Skye con Flora MacDonald en junio de 1746 [^blaikie], con letra de Harold Boulton impresa en la década de 1880 [^sotn][^smith1888]. Ninguna de las dos es de 1746: Lady Nairne nació veinte años después [^dnb].
 

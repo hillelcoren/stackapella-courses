@@ -101,7 +101,7 @@ echa agua, echa agua.
 
 No, a juzgar por los documentos. A menudo se dice que sí [^londonmuseum], pero la versión más antigua que se conoce, en un rollo de cánones fechado en 1580, canta "Scotland, it burneth" (Escocia arde), 86 años antes del incendio de 1666 [^lindahl][^londonmuseum]. Las impresiones de 1780, 1816 y 1837 todavía tienen Escocia, y la letra con Londres que encontramos ya aparece impresa en 1909 [^supp1780][^vinton1816][^parley1837][^pentregwyn1909]. Ninguna fuente muestra que se hiciera sobre ese incendio.
 
-### ¿Quién escribió London's Burning, y cuándo?
+### ¿Quién escribió London's Burning y cuándo?
 
 Nadie lo sabe. El Ballad Index lo registra como de autor desconocido [^ballad]. La versión más antigua que se conoce está en el rollo Lant, fechado en 1580, y habla de Escocia [^lindahl]. La primera impresión conocida con música es de 1816, en Massachusetts [^vinton1816]. Nuestra fuente, el libro de John Goss de 1927, la primera impresión conocida del verso "Fetch the engines", no atribuye el canon ni el verso a nadie, aunque sí atribuye a Matthew White el canon siguiente de su página [^goss1927].
 

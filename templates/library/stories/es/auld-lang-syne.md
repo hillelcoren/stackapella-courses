@@ -165,7 +165,7 @@ En el mismo volumen de 1799, Thomson puso "Now Spring has clad the grove in gree
 
 Porque en Escocia es la canción de Hogmanay, que se canta a medianoche en un círculo de manos unidas, y su letra, viejos amigos que brindan por los viejos tiempos, encaja con el final de un año [^edinburgh][^scotorg]. La orquesta de baile canadiense de Guy Lombardo la tocaba al dar la medianoche en sus emisiones anuales de fin de año, que se oían en toda Norteamérica [^tce][^natgeo]. Por qué exactamente se convirtió en una canción de todo el mundo sigue siendo, según una estudiosa de Burns de Glasgow, en cierto modo un misterio [^mccue].
 
-### ¿Quién escribió Auld Lang Syne, y quién compuso la música?
+### ¿Quién escribió Auld Lang Syne y quién compuso la música?
 
 Robert Burns escribió la letra que cantamos, a partir de canciones más antiguas con el mismo primer verso, que imprimieron James Watson en 1711 y Allan Ramsay en 1720 [^watson][^glen][^dick]. En 1793 dijo que la había anotado "from an old man's singing" (del canto de un anciano), pero esa canción nunca se ha encontrado, y no se sabe cuánto de ella es suyo [^gebbie5][^dick][^hh3]. La música no es suya: la melodía de hoy es una danza escocesa impresa en 1759, que George Thomson unió a la letra en 1799. No es de William Shield [^glen][^dick][^thomson].
 

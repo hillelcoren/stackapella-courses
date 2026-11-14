@@ -187,9 +187,9 @@ No hay un único texto original. La primera impresión conocida, de 1841, a part
 
 Ninguna fuente antigua de las que hemos leído lo dice. El documento más antiguo de su estribillo es de un barco ballenero estadounidense de Connecticut, en 1840 [^olmsted]. Los recopiladores que la imprimieron la oyeron en el mar o en puertos ingleses: Whall en los East Indiamen desde 1861, Sharp a James Tucker en Bristol, y Terry a Sir Walter Runciman, entre otros [^whall][^sharp][^terry]. A veces se sugiere un vínculo con una melodía irlandesa, pero no encontramos ninguna impresión anterior a 1921 que lo establezca.
 
-### ¿Qué significa la hija del capitán ("the captain's daughter") en Drunken Sailor?
+### ¿Qué significa "the captain's daughter" (la hija del capitán) en Drunken Sailor?
 
-No encontramos ninguna impresión anterior a 1921 con esa estrofa: no está en ninguna de las versiones impresas de 1841 a 1921 que hemos leído [^olmsted][^masefield][^whall][^sharp][^terryscan]. Hay quien dice que significa una tanda de azotes, pero no encontramos ninguna impresión anterior a 1921 que la interprete así. Los marineros sí tenían un nombre de esa forma: The Sailor's Word-Book de 1867 dice que "the gunner's daughter" (la hija del artillero) era el cañón al que se "casaba" a los grumetes, es decir, se los amarraba, para castigarlos [^smyth].
+No se sabe con certeza. No encontramos ninguna impresión anterior a 1921 con esa estrofa: no está en ninguna de las versiones impresas de 1841 a 1921 que hemos leído [^olmsted][^masefield][^whall][^sharp][^terryscan]. Hay quien dice que significa una tanda de azotes, pero no encontramos ninguna impresión anterior a 1921 que la interprete así. Los marineros sí tenían un nombre de esa forma: The Sailor's Word-Book de 1867 dice que "the gunner's daughter" (la hija del artillero) era el cañón al que se "casaba" a los grumetes, es decir, se los amarraba, para castigarlos [^smyth].
 
 ### ¿Qué voz canta la melodía?
 

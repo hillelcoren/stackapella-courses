@@ -176,7 +176,7 @@ El Dictionary of Hymnology de Julian y el Psalter Hymnal Handbook, ambos citados
 
 ## Preguntas
 
-### ¿Qué significa "harvest home" en el himno?
+### ¿Qué significa "harvest home" en Come, Ye Thankful People, Come?
 
 Harvest-home era el antiguo nombre inglés del tiempo de la cosecha, de la fiesta que se hacía al recoger el grano y de la canción que cantaban en ella los segadores. "Raise the song of Harvest-home" es cantar esa gratitud en la iglesia [^webster1828][^yop1867]. En las estrofas 3 y 4 la palabra pasa a designar la cosecha del fin del mundo, cuando Dios "shall take His Harvest home", recogerá su cosecha [^yop1867][^kjv].
 
@@ -184,7 +184,7 @@ Harvest-home era el antiguo nombre inglés del tiempo de la cosecha, de la fiest
 
 La primera estrofa y la última de Alford de 1867, "Even so, Lord, quickly come", sobre las cuatro voces del propio Elvey en el primer Hymns Ancient and Modern, de 1861, simplificadas para principiantes [^yop1867][^ham1861]. Las estrofas 2 y 3, sobre el trigo y la cizaña, están completas más arriba.
 
-### ¿Cuál es la letra original?
+### ¿Cuál es la letra original de Come, Ye Thankful People, Come?
 
 La original es el texto de Alford de 1844: cuatro estrofas, con el encabezamiento "After Harvest" [^ph1844]. Su primera estrofa es la que se sigue cantando. La segunda empezaba "We ourselves are God's own field", la tercera decía "From his field shall purge away / All that doth offend that day", y la cuarta llamaba a la "Church triumphant" (la Iglesia triunfante) y a "ten thousand angels" (diez mil ángeles) a la fiesta de la cosecha; la letra de 1844 está en Versiones y otras letras [^ph1844]. Lo revisó en 1865 y en 1867, y rechazó la reescritura que Hymns Ancient and Modern imprimió en 1861 [^pw1865][^yop1867][^ham1861].
 

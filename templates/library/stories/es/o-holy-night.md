@@ -217,7 +217,7 @@ Significa que el mundo estuvo mucho tiempo en el pecado y el error, consumiéndo
 
 No exactamente. Placide Cappeau, autor de la letra francesa, tenía fama de socialista y librepensador, y mostraba poco interés por la religión [^canterbury-fr][^nemausensis]. Más tarde reescribió la primera estrofa, y anotó, según lo cita Havard de la Montagne, que no creía en el pecado original pero sí aceptaba a Jesús como redentor, de la desigualdad, la injusticia y la esclavitud [^musimem][^nemausensis]. Una nota de 1895 de Nîmes dice en cambio que la duda pasó pronto [^nemausensis]. El compositor, Adolphe Adam, escribió misas y otra música religiosa [^musimem][^delage].
 
-### ¿Fue O Holy Night la primera canción en la radio?
+### ¿Fue O Holy Night la primera canción que sonó en la radio?
 
 Quizá, pero no hay ningún documento de la época, y ni siquiera la pieza es segura. La historia se apoya en una carta que el inventor Reginald Fessenden escribió en enero de 1932: la Nochebuena de 1906, desde Brant Rock, Massachusetts, puso un disco del Largo de Händel, luego tocó al violín "una composición de Gounod llamada 'O, Holy Night'", que terminaba con las palabras "Adore and be still", que no están en el villancico de Adam, y cantó una estrofa [^hfessenden][^oneal][^dann]. Ningún periódico, registro de radio ni agenda suya de 1906 lo menciona [^oneal][^halper].
 

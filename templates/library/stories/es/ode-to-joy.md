@@ -214,7 +214,7 @@ Sí. Beethoven ya estaba sordo cuando se estrenó la Novena Sinfonía, en Viena,
 
 Sí. El Consejo de Europa eligió el tema del Himno a la alegría de Beethoven como su himno en 1972 [^coearch][^coe][^eu]. La Comunidad Europea adoptó la misma música como propia: en 1985 según la Unión Europea, y en 1986 según el Consejo de Europa [^eu][^coearch]. El himno no tiene letra, solo música, y no pretende sustituir a los himnos nacionales [^eu].
 
-### ¿Es el Himno a la alegría una canción cristiana, o de Navidad?
+### ¿Es el Himno a la alegría una canción cristiana o de Navidad?
 
 El poema de Schiller no es un himno religioso: celebra la alegría y la amistad, aunque sus estribillos hablan de un Padre amoroso por encima de las estrellas [^gedichte1803]. La letra inglesa que más se canta con la melodía sí es un himno cristiano: Joyful, Joyful, We Adore Thee, del pastor presbiteriano Henry van Dyke, en los himnarios desde 1911 [^h1911][^hymnarchive][^tvd]. No es una canción de Navidad: ni el poema de Schiller ni el himno de van Dyke mencionan la Navidad, y los himnarios ponen el himno entre los de alabanza, "His Fatherhood and Love" (su paternidad y su amor) en 1911 y "God in His World" (Dios en su mundo) en 1919 [^gedichte1803][^poems1911][^h1911][^hay1919].
 

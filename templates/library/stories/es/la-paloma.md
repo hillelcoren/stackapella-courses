@@ -154,11 +154,11 @@ En la canción, un hombre que sale de La Habana le pide a la mujer que ama que r
 
 Ninguna de las dos, en sentido estricto: es la canción de un compositor español en el estilo de la habanera cubana. Sebastián Iradier, vasco, ya la había publicado en Madrid en 1859 como "canción americana" [^boletin1861][^bnf-iradier]. Su letra empieza en La Habana [^century1906], y los historiadores dicen que pasó años en Cuba [^henriquezurena1947][^livermore1972]. México la hizo suya: los liberales que luchaban contra la Intervención Francesa cantaban parodias de ella [^siller][^lexdk]. Se cuenta que era una de las favoritas de la corte de Maximiliano y Carlota [^lexdk][^livermore1972], pero no hemos encontrado ningún documento de la corte que la nombre.
 
-### ¿Es la misma canción que Paloma negra o Cucurrucucú paloma?
+### ¿La Paloma es la misma canción que Paloma negra o Cucurrucucú paloma?
 
 No. Son canciones distintas, con su propia letra y su propia melodía. La Paloma de Iradier es la que empieza "Cuando salí de la Habana" y tiene el estribillo "Si a tu ventana llega una paloma" [^century1906]. El poema "La paloma" de Rafael Alberti, de su libro Entre el clavel y la espada, es otra obra distinta, a la que más tarde pusieron música Carlos Guastavino y otros [^uned-alberti][^liedernet-alberti].
 
-### ¿Quién cantó primero La Paloma, y hay una versión en inglés?
+### ¿Quién cantó primero La Paloma? ¿Hay una versión en inglés?
 
 Ningún documento dice quién la cantó primero: Iradier la publicó en Madrid ya en 1859 para voz y piano, y el registro no nombra a ningún cantante [^boletin1861]. La grabación más antigua que conocemos es un disco Berliner de hacia 1896, de un tenor, F. Giannini, y Victor la grabó en español en 1902 [^bnf-1896][^jukebox1902]. Las letras en inglés llegaron pronto: "Fly, Dove, o'er the Billow" de L. C. Elson (1878) y la de M. H. R. (1906) [^ava1887][^century1906]. En la película Blue Hawaii, de 1961, Elvis Presley cantó "No More", con letra nueva de Don Robertson y Hal Blair sobre la melodía de Iradier [^afi1961][^cce1961][^poparchives][^originals].
 

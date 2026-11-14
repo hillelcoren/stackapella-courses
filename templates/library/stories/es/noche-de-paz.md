@@ -135,7 +135,7 @@ En Navidad, y sobre todo en Nochebuena: la canción se cantó por primera vez en
 
 Sí: la letra y la melodía que cantamos son de dominio público. Joseph Mohr, autor de la letra alemana, murió en 1848, y Franz Xaver Gruber, autor de la melodía, en 1863 [^sng-time][^hymnarchive]. Nuestra letra española se imprimió sin firma en Nueva York en 1893 y se revisó en 1915; Federico Fliedner, a quien se suele atribuir, murió en 1901 [^h1893][^h1915][^ndb]. Las estrofas posteriores, como las de Flor y Canto (2011), y los arreglos modernos pueden tener sus propios derechos [^hymnary-fyc]. Nuestro arreglo es nuestro.
 
-### ¿Se escribió porque se rompió el órgano?
+### ¿Se escribió Noche de paz porque se rompió el órgano?
 
 Ningún documento lo dice. El relato del propio Gruber, escrito en 1854, no explica por qué se usó la guitarra, y los ratones que habrían roído el fuelle del órgano son un adorno posterior [^hymnarchive]. La página de [Silent Night](/songs/silent-night) cuenta la historia completa.
 

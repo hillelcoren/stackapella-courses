@@ -207,7 +207,7 @@ Nuestro arreglo toma la melodía y la letra de Songs of the Four Nations, y las 
 
 ## Preguntas
 
-### ¿Qué significa "Ar Hyd y Nos", y cómo se pronuncia?
+### ¿Qué significa "Ar Hyd y Nos" y cómo se pronuncia?
 
 Significa "toda la noche"; palabra por palabra, "a lo largo de la noche": ar hyd es "a lo largo de" y nos es "noche" [^morrisjones][^richards1861]. Hyd lleva la y larga del galés, un sonido "i" apagado que se forma más atrás en la boca, y que en el sur de Gales suena como "i" o casi; la palabrita y, el artículo ("el", "la"), es el sonido breve "uh" (una a breve y relajada), como la o de la palabra inglesa "ivory"; y nos tiene una o larga [^morrisjones]. Los libros antiguos lo escriben nôs [^richards1861][^sf4n].
 

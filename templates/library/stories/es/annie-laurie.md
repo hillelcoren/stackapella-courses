@@ -157,13 +157,13 @@ En dos etapas. Robert Chambers suponía que las estrofas antiguas eran de hacia 
 
 Significa "las laderas de Maxwelton son hermosas". En escocés, una brae es la cuesta de una colina [^dsl-brae], y "bonnie" significa hermosa o bonita [^dsl-bonny]. Maxwelton, la casa de la familia Laurie junto al Cairn Water, en Dumfriesshire, era el hogar de la verdadera Annie Laurie [^chambers1862][^hes][^ross1910].
 
-### ¿Es Annie Laurie una canción popular escocesa, y quién la cantó?
+### ¿Es Annie Laurie una canción popular escocesa? ¿Quién la cantó?
 
 Es escocesa, pero es una canción de autor más que una canción popular: las dos estrofas antiguas impresas en 1823 se atribuyen a Douglas de Fingland, y la canción tal como se canta, con la letra rehecha, la tercera estrofa y la melodía, es de Lady John Scott, de 1834 o 1835 [^sharpe][^warrender1911][^ross1910]. En la década de 1850 las partituras estadounidenses llevaban el retrato de Jenny Lind o "As sung by Catherine Hayes" (tal como la cantaba Catherine Hayes) [^hall][^peters]. Las dos grabaciones antiguas enlazadas aquí son de la contralto Elsie Baker (Victor, 1912) y del Columbia Stellar Quartette (1914) [^dahr1912][^dahr1914].
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Lady John Scott, tal como la da la impresión de Hall [^hall]. La contralto empieza con ella en el Do central y luego canta sobre todo una tercera o una sexta por debajo. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
+La soprano canta la melodía de Lady John Scott, tal como la trae la impresión de Hall [^hall]. La contralto empieza con ella en el Do central y luego canta sobre todo una tercera o una sexta por debajo. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
 
 ## Canta después
 

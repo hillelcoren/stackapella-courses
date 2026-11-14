@@ -274,13 +274,13 @@ No se sabe. La primera impresión conocida del villancico francés está en un l
 
 No se sabe. La primera impresión conocida de la melodía, en París en 1842, dice solo "Musique de W. M.", y nadie ha demostrado quién era [^lamb1842][^sommervogel][^ha]. Las armonías a cuatro voces posteriores son de Charles L. Hutchins, en su semanario de Boston The Parish Choir (1891), y de Edward Shippen Barnes, que amplió la armonía de Hutchins para The New Church Hymnal (1937) [^parishchoir1891][^ha][^psh].
 
-### ¿Qué significa Gloria in excelsis Deo, y de qué pasaje de la Biblia viene?
+### ¿Qué significa Gloria in excelsis Deo y de qué pasaje de la Biblia viene?
 
 Es latín y significa "gloria a Dios en las alturas", el canto de los ángeles a los pastores la noche del nacimiento de Jesús, en Lucas 2:14, que siguen diciendo: y en la tierra paz a las personas de buena voluntad [^vulgate-org][^vulgate-drbo]. El villancico vuelve a contar Lucas 2:8 a 15, la noticia del ángel y el niño en el pesebre, con ese canto como estribillo [^psh][^vulgate-org]. Las mismas palabras abren el Gloria, el antiguo himno que se canta en la misa, al que la tradición católica llama el himno angélico [^gloria-ce][^loomis].
 
 ### ¿Es Angels We Have Heard on High de dominio público?
 
-El villancico en sí es antiguo. Su letra francesa y su melodía son anónimas, impresas ya en 1805 y 1842 [^roche1805][^lamb1842]. James Chadwick, que escribió la versión inglesa en 1860, murió en 1882, y Charles L. Hutchins, de cuya página de 1916 está tomado nuestro arreglo, murió en 1920 [^hfh1860][^julian-chadwick][^ha][^hutchins]. La armonía de Edward Shippen Barnes de 1937, impresa en muchos himnarios, es una obra posterior e independiente, y no es la que cantamos [^ha][^canterbury-barnes]. El arreglo es nuestro: la soprano canta la melodía de 1916, y la contralto, el tenor y el bajo son voces nuestras.
+El villancico en sí es antiguo. Su letra francesa y su melodía son anónimas, impresas ya en 1805 y 1842 [^roche1805][^lamb1842]. James Chadwick, que escribió la versión inglesa en 1860, murió en 1882, y Charles L. Hutchins, de cuya página de 1916 parte nuestro arreglo, murió en 1920 [^hfh1860][^julian-chadwick][^ha][^hutchins]. La armonía de Edward Shippen Barnes de 1937, impresa en muchos himnarios, es una obra posterior e independiente, y no es la que cantamos [^ha][^canterbury-barnes]. El arreglo es nuestro: la soprano canta la melodía de 1916, y la contralto, el tenor y el bajo son voces nuestras.
 
 ### ¿Qué voz canta la melodía?
 

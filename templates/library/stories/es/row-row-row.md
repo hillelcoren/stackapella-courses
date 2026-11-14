@@ -112,7 +112,7 @@ Todos cantan la misma melodía, pero empiezan en momentos distintos. La impresi�
 
 Hoy se canta como tal, y Classic FM la llama así, pero su origen es otro [^classicfm]. Sus primeros versos fueron el estribillo de una canción de 1852 que se cantaba en los espectáculos de minstrel, y la primera impresión conocida del canon está en un cancionero escolar de 1874, no en un libro de canciones infantiles [^sinclair1852][^rice][^hall1874]. El Ballad Index la clasifica como canción de campamento y como canon [^ballad].
 
-### ¿Cuál es la letra y la melodía original de Row, Row, Row Your Boat?
+### ¿Cuáles son la letra y la melodía originales de Row, Row, Row Your Boat?
 
 La primera letra fue el estribillo de una canción de 1852, The Old Log Hut: "Row, row, row your boat, Gently down the stream, All that's past is gone you know, The future's but a dream" (rema, rema, rema tu bote, suave río abajo; todo lo pasado se fue, ya lo sabes; el futuro no es más que un sueño), con una melodía de R. Sinclair en 4/4 que no es la de hoy [^sinclair1852]. La letra y la melodía de hoy, en 6/8 con "Merrily, merrily" y "Life is but a dream", tienen su primera impresión conocida en 1874 [^hall1874]. Las impresiones de 1874, 1881 y 1893 ponen el "-ly" de "Gently" una nota más alto de lo que se suele cantar hoy [^hall1874][^mccaskey1881][^lyte1893].
 

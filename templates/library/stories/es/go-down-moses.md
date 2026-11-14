@@ -353,7 +353,7 @@ En los documentos que hemos leído no aparece ninguna orden ni ley que la prohib
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía, y canta sola cada llamada; el libro de 1872 da las llamadas de las estrofas a una sola voz y pone a todo el grupo a cantar en octavas el "Go down, Moses" del estribillo. Todos se unen en la respuesta, "Let my people go", en armonía: la contralto y el tenor con dos notas cada uno, y el bajo en Re y un Sol grave. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
+La soprano canta la melodía, y canta sola cada llamada; el libro de 1872 asigna las llamadas de las estrofas a una sola voz y pone a todo el grupo a cantar en octavas el "Go down, Moses" del estribillo. Todos se unen en la respuesta, "Let my people go", en armonía: la contralto y el tenor con dos notas cada uno, y el bajo en Re y un Sol grave. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
 
 ### ¿Cantaba Harriet Tubman Go Down Moses?
 

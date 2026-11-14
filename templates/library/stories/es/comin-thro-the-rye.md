@@ -158,7 +158,7 @@ Nadie sabe quién escribió la primera versión. Robert Burns rehízo una canci�
 
 ### ¿Qué significa "comin thro the rye"?
 
-Significa ir por un sendero que cruza un campo de centeno, según la lectura que dan la mayoría de los autores. Quien canta pregunta si dos personas que se encuentran allí y se besan tienen que contárselo a alguien. Otra lectura hace del Rye un arroyo con piedras para cruzarlo y un peaje de besos, pero las fuentes más antiguas que hemos encontrado para ella, de 1876 y 1889, no dan pruebas.[^nq1876][^johnson1889][^graham]
+Significa ir por un sendero que cruza un campo de centeno, según la mayoría de los autores. Quien canta pregunta si dos personas que se encuentran allí y se besan tienen que contárselo a alguien. Otra lectura hace del Rye un arroyo con piedras para cruzarlo y un peaje de besos, pero las fuentes más antiguas que hemos encontrado para ella, de 1876 y 1889, no dan pruebas.[^nq1876][^johnson1889][^graham]
 
 ### ¿Tiene Comin' Thro' the Rye la misma melodía que Auld Lang Syne?
 

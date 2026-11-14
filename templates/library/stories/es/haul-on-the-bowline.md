@@ -129,7 +129,7 @@ Significa tirar de la bolina, un cabo que mantenía tenso el borde de proa de un
 
 No hay una sola letra original: el estribillo era fijo y el solista inventaba sus propios versos [^onceaweek][^sharp]. La letra más antigua que hemos encontrado, impresa en Londres en 1868, es "Haul the bowline, the fore and main-top bowline, Haul the bowline, the bowline haul", con un segundo verso sobre Kitty [^onceaweek]. La letra que cantamos es la de John Short, tal como la imprimió Cecil Sharp en 1914 [^sharpscan].
 
-### ¿Es la misma canción que "Haul Away the Bowline"?
+### ¿Haul on the Bowline es la misma canción que "Haul Away the Bowline"?
 
 Sí. The Traditional Ballad Index registra "Haul Away the Bowline" como otro título de esta canción marinera, y recoge el texto de la colección Greig-Duncan, de Aberdeenshire, como "Haul Away Your Bowline" [^balladindex]. Otras ediciones la llaman "Haul the Bowline" o "We'll Haul the Bowline" [^onceaweek][^alden][^terry]. No es Haul Away, Joe, otra canción para halar que Alden imprimió junto a esta en 1882 [^alden].
 

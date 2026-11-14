@@ -135,7 +135,7 @@ Nuestro arreglo toma la melodía y la letra de la página de 1872, en su tonalid
 
 "To steal away" es escabullirse, irse en silencio. La canción pide a quien canta que se escabulla "to Jesus" (hacia Jesús) y "home" (a casa), porque "I hain't got long to stay here": la vida es corta, y el hogar está con Jesús [^seward1872][^kjv]. Las estrofas añaden el trueno, una trompeta y lápidas que se rompen: la llamada del día del juicio [^seward1872][^hymnary].
 
-### ¿Era Steal Away una canción en clave para huir, o la señal de Nat Turner?
+### ¿Era Steal Away una canción en clave para huir o la señal de Nat Turner?
 
 No hay pruebas de que lo fuera. La confesión de Turner de 1831 no menciona ninguna canción, y un historiador del Ferrocarril Subterráneo no encuentra pruebas de que Steal Away ni ninguna otra canción anunciara huidas [^turner1831][^bordewich]. El relato más antiguo sobre su origen la une a Wallace Willis, en la Nación Choctaw, lejos de la Virginia de Turner [^flickinger1914][^okhist].
 

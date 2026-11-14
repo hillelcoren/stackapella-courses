@@ -88,7 +88,7 @@ cuando las campanas suenan dulcemente, suenan dulcemente:
 
 **Un canon a tres.** Todas las voces cantan la misma melodía, entrando con un verso de distancia. La página de 1896 apila sus tres versos y los marca I, II y III; la página de Sefton de 1869 los numera 1, 2, 3 a la izquierda y 2, 3, 1 a la derecha, para mostrar adónde pasa luego cada cantante [^emc1896][^sefton1869]. Apilados, los versos también muestran la armonía: el segundo va una tercera por encima del primero, y el tercero se queda en la tónica, así que, cuando suenan los tres, forman un acorde [^emc1896].
 
-**Lo que canta nuestro arreglo.** Nuestro canon está tomado de la página de 1896, en 3/4, un tono más abajo, en Mi bemol en lugar de Fa, para 2 a 4 cantantes. La soprano empieza en solitario y canta la melodía entera tres veces. La contralto, el tenor y el bajo entran con seis compases de distancia, el tenor y el bajo una octava más abajo, y el bajo termina en solitario en el último "Ding, dong".
+**Lo que canta nuestro arreglo.** Nuestro canon parte de la página de 1896, en 3/4, un tono más abajo, en Mi bemol en lugar de Fa, para 2 a 4 cantantes. La soprano empieza en solitario y canta la melodía entera tres veces. La contralto, el tenor y el bajo entran con seis compases de distancia, el tenor y el bajo una octava más abajo, y el bajo termina en solitario en el último "Ding, dong".
 
 ## ¿Sabías que...?
 

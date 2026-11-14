@@ -318,7 +318,7 @@ Nadie lo sabe. La letra se imprimió en 1874 y la melodía ya en 1903, las dos s
 
 ### ¿Por qué tocó Pau Casals El cant dels ocells en las Naciones Unidas y en la Casa Blanca?
 
-Exiliado desde 1939, abría sus conciertos con él, según la Enciclopèdia Catalana, y llegó a representar a Cataluña [^enccat-casals][^enccat-ocells]. Desde 1946 se negó a tocar en los países que toleraban el régimen de Franco, entre ellos Estados Unidos [^paucasals-bio][^nara2013], pero el 13 de noviembre de 1961 tocó en la cena que los Kennedy ofrecieron en la Casa Blanca al gobernador de Puerto Rico, y terminó con esta canción [^stategov][^nara2013][^musicweb]. El 24 de octubre de 1971 lo tocó en las Naciones Unidas al recibir su Medalla de la Paz, como una canción de esperanza y de paz, según su fundación [^paucasals-un][^un-av].
+Porque, exiliado desde 1939, abría sus conciertos con él, según la Enciclopèdia Catalana, y la canción llegó a representar a Cataluña [^enccat-casals][^enccat-ocells]. Desde 1946 se negó a tocar en los países que toleraban el régimen de Franco, entre ellos Estados Unidos [^paucasals-bio][^nara2013], pero el 13 de noviembre de 1961 tocó en la cena que los Kennedy ofrecieron en la Casa Blanca al gobernador de Puerto Rico, y terminó con esta canción [^stategov][^nara2013][^musicweb]. El 24 de octubre de 1971 lo tocó en las Naciones Unidas al recibir su Medalla de la Paz, como una canción de esperanza y de paz, según su fundación [^paucasals-un][^un-av].
 
 ### ¿Qué voz canta la melodía?
 

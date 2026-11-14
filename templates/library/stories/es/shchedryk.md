@@ -139,7 +139,7 @@ Nuestro arreglo es nuevo, escrito para Stackapella. Toma la melodía y la letra 
 
 ### ¿Qué significa Shchedryk?
 
-Shchedryk no tiene un equivalente exacto en español. Viene de "shchedryi", generoso, y un diccionario ucraniano lo da como otro nombre de Shchedryi vechir, la Noche Generosa, la víspera de Año Nuevo según el calendario antiguo [^sum-shchedryk][^eu-malanka]. Su letra cuenta que una golondrina le promete al dueño de la casa corderos, dinero y un buen año [^america][^kyivind].
+Shchedryk no tiene un equivalente exacto en español. Viene de "shchedryi", generoso, y un diccionario ucraniano lo recoge como otro nombre de Shchedryi vechir, la Noche Generosa, la víspera de Año Nuevo según el calendario antiguo [^sum-shchedryk][^eu-malanka]. Su letra cuenta que una golondrina le promete al dueño de la casa corderos, dinero y un buen año [^america][^kyivind].
 
 ### ¿Quién escribió Shchedryk?
 

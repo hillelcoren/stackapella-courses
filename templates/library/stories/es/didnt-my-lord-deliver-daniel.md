@@ -143,9 +143,9 @@ Significa: si Dios libró a Daniel de los leones, a Jonás del gran pez y a los 
 
 Nadie lo sabe. Su primera impresión conocida está en Jubilee Songs (Nueva York, 1872), transcrita a partir del canto de los Fisk Jubilee Singers, que dijeron haber aprendido de niños la mayoría de sus canciones. No consta cuándo ni dónde se creó [^seward1872].
 
-### ¿Es este el arreglo de Moses Hogan, o el de otro coro?
+### ¿Es este el arreglo de Moses Hogan u otro arreglo coral?
 
-No. El conocido arreglo de Moses Hogan es para coro a cappella a ocho voces [^halleonard][^musicanet]. Otros arreglistas venden sus propios arreglos a cuatro voces, entre ellos uno para voces mixtas, masculinas o femeninas [^satbstore]. El nuestro no es ninguno de ellos; vuelve a la página de 1872: la melodía al unísono y la letra de los propios cantantes de Fisk, un tono más arriba, con cuatro voces sencillas nuestras debajo, y las estrofas cantadas por la soprano sola [^seward1872c].
+Ni uno ni otro: es nuestro. El conocido arreglo de Moses Hogan es para coro a cappella a ocho voces [^halleonard][^musicanet]. Otros arreglistas venden sus propios arreglos a cuatro voces, entre ellos uno para voces mixtas, masculinas o femeninas [^satbstore]. El nuestro no es ninguno de ellos; vuelve a la página de 1872: la melodía al unísono y la letra de los propios cantantes de Fisk, un tono más arriba, con cuatro voces sencillas nuestras debajo, y las estrofas cantadas por la soprano sola [^seward1872c].
 
 ### ¿Qué voz canta la melodía?
 

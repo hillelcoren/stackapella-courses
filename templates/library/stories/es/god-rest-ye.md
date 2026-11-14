@@ -212,7 +212,7 @@ Nuestro arreglo toma las cuatro voces que Stainer escribió para el n.º 1, en u
 
 Después de "merry": "God rest you merry, gentlemen." La expresión es "rest you merry", seguir alegres, y los "gentlemen" son las personas a las que se habla [^ned-rest][^rolfe]. Los impresores antiguos no estaban de acuerdo: la hoja de Bow Church Yard de hacia 1760 y William Sandys en 1833 la pusieron después de "merry", mientras que la lista de William Hone de 1823 y el libro de Bramley y Stainer la ponen después de "you" [^ecco1760][^sandys1833][^hone1823][^bramley].
 
-### ¿Es "God rest ye" o "God rest you", o "God bless ye"?
+### ¿Es "God rest ye", "God rest you" o "God bless ye"?
 
 Las impresiones antiguas dicen "you": la hoja de hacia 1760, la lista de Hone de 1823, Sandys en 1833 y Bramley y Stainer en 1867 traen todas "God rest you merry" [^ecco1760][^hone1823][^sandys1833][^bramley]. "Ye" es una forma de sonido más antiguo que hoy cantan muchos, con el mismo significado; nuestro título la conserva, y cantamos "you". "God bless you" es otro saludo: así lo canta el joven cantor ante la cerradura de Scrooge en Cuento de Navidad (A Christmas Carol), de Dickens, en 1843 [^dickens-mcgill]. "God rest you merry" quiere decir "God keep you merry", que Dios los guarde alegres [^ned-rest][^rolfe].
 

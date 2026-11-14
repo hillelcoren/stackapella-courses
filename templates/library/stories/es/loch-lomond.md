@@ -158,17 +158,17 @@ Nuestro arreglo parte de Songs of Scotland, de John Reid (Nueva York, 1908), sub
 
 La letra no lo dice. Leída al pie de la letra, dos personas vuelven a Escocia por caminos distintos, y la que va por el camino bajo llega primero [^sotn]. La lectura popular, impresa ya en 1904, es que habla un jacobita condenado de 1745, y que el camino bajo es el camino de los muertos [^ford][^tbi]. No se conoce ninguna copia de la canción anterior a la de hacia 1840, así que esa historia no puede rastrearse hasta 1745, aunque el texto más antiguo ya llora Culloden [^browns][^tbi].
 
-### ¿Quién escribió "Loch Lomond", y cuándo?
+### ¿Quién escribió "Loch Lomond" y cuándo?
 
 Nadie lo sabe. Su primera impresión conocida es una hoja titulada Bonnie Loch Loman, publicada en Edimburgo por Paterson & Roy hacia 1840, y la canción puede ser más antigua [^browns][^tbi][^moffat]. Se atribuyó a menudo a Lady John Scott, la compositora de Annie Laurie, pero ella dijo que su marido y ella aprendieron la letra y la melodía de un niño que cantaba por las calles de Edimburgo [^moffat][^browns]. La idea de que se escribió en 1746 llegó más tarde, aunque el texto más antiguo ya llora Culloden [^greig][^browns].
 
-### ¿Quién cantó primero Loch Lomond, y cuál es la versión original?
+### ¿Quién cantó primero Loch Lomond y cuál es la versión original?
 
 Nadie sabe quién la cantó primero: es una canción tradicional, y la original es la antigua canción escocesa, cuya primera impresión conocida es una hoja de Edimburgo de hacia 1840 [^browns][^tbi]. Lady John Scott dijo que la aprendió de un niño que cantaba por las calles de Edimburgo [^moffat]. La grabación más antigua que conocemos es la de Henry Burr, hecha para Victor el 4 de enero de 1905, y un disco de swing de agosto de 1937 fue un gran éxito [^jukebox1905][^synco]. Una banda de rock escocesa la volvió a hacer popular en la década de 1980, también en Alemania; la suya es un arreglo nuevo de la vieja canción [^express2024].
 
-### ¿Cómo se pronuncia "Loch Lomond", y qué es un loch?
+### ¿Cómo se pronuncia "Loch Lomond" y qué es un loch?
 
-Un loch es un lago, la palabra que se usa para los lagos naturales en toda Escocia [^dsl-loch]. Se dice "loj": el Dictionary of the Scots Language da la ch como el sonido aspirado que se forma en el fondo de la boca, como en el alemán Bach, no una k [^dsl-loch]. En la canción, el nombre se canta "Lomon'", sin la d final, como lo escribe Songs of the North [^sotn].
+Un loch es un lago, la palabra que se usa para los lagos naturales en toda Escocia [^dsl-loch]. Se dice "loj": el Dictionary of the Scots Language describe la ch como el sonido aspirado que se forma en el fondo de la boca, como en el alemán Bach, no una k [^dsl-loch]. En la canción, el nombre se canta "Lomon'", sin la d final, como lo escribe Songs of the North [^sotn].
 
 ### ¿Por qué los aficionados del FC Köln cantan Loch Lomond?
 

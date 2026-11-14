@@ -178,7 +178,7 @@ Nadie sabe quién la creó. Es un espiritual de afroamericanos esclavizados de l
 
 Es una oración cantada al remo. Quien canta pide al arcángel Miguel que lleve la barca a la orilla, y su barca se vuelve "a gospel boat", una barca del evangelio; ve a una madre "gwine home", camino de casa, y mira al otro lado del Jordán, el río de la tierra prometida, donde está Jesús [^scan31][^kjv]. Cada verso responde "Hallelujah", "¡alabado sea el Señor!" [^zondervan]. Miguel aparece en la Biblia, "el gran príncipe" en Daniel y "el arcángel Miguel" en Judas, pero nunca en una barca [^kjv].
 
-### ¿Es un espiritual o un himno?
+### ¿Michael, Row the Boat Ashore es un espiritual o un himno?
 
 Es un espiritual, una canción religiosa popular de afroamericanos esclavizados, y una canción de trabajo: los remeros de las Sea Islands la cantaban para llevar el ritmo del remo, no en la iglesia con un himnario. William Francis Allen, que la imprimió en 1867, la llamó la única "auténtica canción de barca" que conocía y no tenía "ninguna duda" de que era "un verdadero espiritual", porque invoca al arcángel [^slavesongs]. Los espirituales de concierto, cantados por coros, llegaron después, con las giras de los Fisk Jubilee Singers en la década de 1870 [^amheritage][^tnenc].
 

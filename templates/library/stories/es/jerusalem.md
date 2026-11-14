@@ -139,7 +139,7 @@ Nuestro arreglo parte de la propia plancha de Curwen de la canción de Parry, ta
 
 No. Jerusalem nunca se ha convertido en himno oficial, y las campañas de muchos años para convertirlo en el himno propio de Inglaterra no han prosperado hasta ahora [^dibble][^hensher]. Pero en 2010 una votación pública lo eligió como himno de la victoria de Inglaterra en los Juegos de la Commonwealth [^teamengland][^oliveira].
 
-### ¿Es el himno el poema completo Jerusalem de William Blake?
+### ¿El himno es el poema Jerusalem de William Blake completo?
 
 No. El himno pone música a las cuatro estrofas del prefacio de Milton: a Poem, de Blake, que no llevan título propio [^milton-ws][^princeton]. El largo poema de Blake Jerusalem: The Emanation of the Giant Albion es otro libro, que el Yale Center for British Art fecha entre 1804 y 1820 [^ycba].
 

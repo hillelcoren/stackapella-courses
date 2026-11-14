@@ -148,7 +148,7 @@ Formaba parte de una visión, en el capítulo 1 de Ezequiel. Junto a cuatro sere
 
 Su estribillo vuelve a contar la visión de Ezequiel y hace de las ruedas una imagen de la fe y de la gracia de Dios [^hampton1909][^kjv]. Sus estrofas advierten sobre los feligreses que cantan y gritan pero pronto son "turned out" (expulsados), sobre los hipócritas que murmuran y sobre el día en que "Dis ole worl' gwine to reel an' rock" (este viejo mundo se va a tambalear y a sacudir): el fin del mundo [^hampton1909].
 
-### ¿Quién escribió Ezekiel Saw the Wheel, y cuándo?
+### ¿Quién escribió Ezekiel Saw the Wheel y cuándo?
 
 Nadie lo sabe. Es un espiritual afroamericano tradicional, y ninguna fuente de las que hemos leído nombra un autor ni una fecha [^hampton1909][^dett1927]. Su primera impresión conocida está en el cancionero del Hampton Institute de 1909; no está en la edición de Hampton de 1901, ni en Calhoun Plantation Songs (1901), ni en los libros de Fisk de 1872 a 1907 que hemos consultado [^cabin1901][^calhoun1901][^seward1872][^marsh1903][^work1904][^work1907]. Algunos de sus versos son más antiguos [^hampton1874][^barton1899].
 

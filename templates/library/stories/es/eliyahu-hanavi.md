@@ -210,7 +210,7 @@ En el libro de oraciones Edot HaMizrach, cada estrofa termina con "Eliyahu hanav
 
 ## Preguntas
 
-### ¿Quién escribió Eliyahu HaNavi, y de dónde viene su letra?
+### ¿Quién escribió Eliyahu HaNavi y de dónde viene su letra?
 
 Nadie sabe quién la escribió. La letra es un estribillo tradicional hecho con palabras de la Biblia, y la melodía es una melodía popular cuyo origen, según las notas del Milken Archive, sigue sin determinarse.[^idel1929][^milken] Los tres nombres vienen del libro de los Reyes, "Elías Thisbita, que era de los moradores de Galaad"; la esperanza de que venga con el Mesías se apoya en la promesa de Malaquías de que Hashem enviaría a Elías antes del gran día.[^kings][^malachi][^jeelijah] Idelsohn llamó al estribillo la parte más antigua de las canciones de Elías que se cantaban al cierre del sabbat en el siglo XI; las notas del Milken son más prudentes.[^idel1929][^milken]
 

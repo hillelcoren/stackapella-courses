@@ -147,7 +147,7 @@ La letra original es la de Boulton: un estribillo y cuatro estrofas, sobre la to
 
 Sí, pero traduce el inglés de Boulton; no es la canción de los barqueros. Smith señaló en 1888 que Songs of the North daba también una versión gaélica. La reimpresión posterior que leímos y Our National Songs, de 1923, imprimen "Iorram Sgitheanach", un iorram de Skye, es decir, una canción de barca, como la "única traducción autorizada" de Neil Shaw, y la reimpresión anuncia un volumen cuyo texto gaélico editó Shaw. No se conocen sus fechas, así que no la reproducimos aquí. Ninguna fuente antigua imprime ni nombra la canción de los propios barqueros.[^sotn][^smith1888][^ons1923][^standrews]
 
-### ¿Qué es la versión de Outlander de The Skye Boat Song?
+### ¿Qué versión de The Skye Boat Song suena en Outlander?
 
 Es la letra de Robert Louis Stevenson, no la de Boulton, cantada con la misma melodía como tema de la serie de televisión Outlander, que empezó en 2014. El compositor de la serie recurrió a "Sing me a song of a lad that is gone" de Stevenson y cambió "lad" (muchacho) por "lass" (muchacha) por la protagonista de la historia; por eso es distinta del "Speed, bonnie boat" que conoce casi todo el mundo.[^mccreary2014][^variety2025][^songsoftravel]
 

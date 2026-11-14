@@ -211,7 +211,7 @@ La letra de Oliphant de 1862 era una canción de bebida para las fiestas. Su pri
 
 Quiere decir "pongámonos ahora nuestra ropa de fiesta". "Don" es ponerse, "apparel" es ropa, y "gay" tiene el sentido antiguo de la palabra: alegre, o vistoso y llamativo [^dictionary]. El verso sustituyó al "Fill the mead-cup, drain the barrel" de Oliphant; su impresión más antigua conocida está en una revista escolar estadounidense de 1877 [^psj1877][^hullah1866].
 
-### ¿Por qué se escribió Deck the Halls, y es un villancico?
+### ¿Por qué se escribió Deck the Halls? ¿Es un villancico?
 
 Thomas Oliphant escribió en 1862 una letra inglesa para una melodía galesa de arpa para la víspera de Año Nuevo, Nos Galan, en las Welsh Melodies de John Thomas, que la imprimieron junto a una letra galesa de Talhaiarn; la suya no es una traducción [^thomas1862][^hullah1866][^handyfinch3]. Se canta como villancico de Navidad, pero no es religioso: habla del acebo, del canto y del año que cambia, y nunca menciona el nacimiento de Jesús [^thomas1862]. Las estrofas de Oliphant eran también para beber; la letra estadounidense de 1877 quitó la bebida [^psj1877][^hullah1866].
 

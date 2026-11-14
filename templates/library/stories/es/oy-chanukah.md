@@ -156,7 +156,7 @@ Mordkhe Rivesman escribió la letra. El libro encabeza el n.º 24 con "Werter fu
 
 Es la misma melodía con otra letra. Oy Chanukah es la canción en ídish de Mordkhe Rivesman, impresa en San Petersburgo en 1911 o 1912.[^k4][^idel29] La canción inglesa que se canta con su melodía, a menudo llamada Oh Chanukah o Chanukah, Oh Chanukah, no es una traducción directa del ídish, como señala My Jewish Learning.[^mjl] En hebreo, con esta melodía se canta Yemei HaChanukah, "Los días de Janucá", con letra de Avraham Avronin basada en la de Rivesman.[^zemer][^chagim]
 
-### ¿Cómo se pronuncian las palabras en ídish?
+### ¿Cómo se pronuncia la letra en ídish de Oy Chanukah?
 
 Dilas tal como se escriben, en el sistema YIVO: kh como la j de "jota", ey como "ei" en "rey", oy como en "hoy", ay como "ai" en "baile", ts como en "tsunami".[^yivo] En nuestras notas cada sílaba tiene su propia nota, así que Khanike son tres: Kha-ni-ke. Donde una palabra termina en -ln o -n sin vocal, como shpiln y tantsn, nuestro arreglo da a esa n una nota propia: shpi-ln, tan-tsn.
 

@@ -136,7 +136,7 @@ Son la flor de la primavera, la que todos salen a ver. En la poesía japonesa an
 
 ### ¿Hay una versión en inglés de Sakura Sakura?
 
-No encontramos una letra en inglés estándar para cantarla; se canta en japonés, como la cantamos nosotros. Rudolf Dittrich imprimió traducciones al alemán y al inglés encima de su música en 1894, pero su versión inglesa es prosa, no pensada para encajar en las notas: "No! for the fragrance of the blossoms diffuses itself" (¡No!, pues la fragancia de las flores se difunde) [^dittrich]. Nuestra traducción sencilla, verso a verso, está en "La letra completa", más arriba, y la International Shakuhachi Society ofrece una traducción moderna [^tsuge].
+No encontramos ninguna letra inglesa de uso común para cantarla; se canta en japonés, como la cantamos nosotros. Rudolf Dittrich imprimió traducciones al alemán y al inglés encima de su música en 1894, pero su versión inglesa es prosa, no pensada para encajar en las notas: "No! for the fragrance of the blossoms diffuses itself" (¡No!, pues la fragancia de las flores se difunde) [^dittrich]. Nuestra traducción sencilla, verso a verso, está en "La letra completa", más arriba, y la International Shakuhachi Society ofrece una traducción moderna [^tsuge].
 
 ## Canta después
 

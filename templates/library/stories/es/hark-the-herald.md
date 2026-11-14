@@ -219,7 +219,7 @@ No hay ningún Harold: la palabra es "herald", que en inglés suena igual. Un "h
 
 No es católico de origen, pero los católicos también lo cantan. Charles Wesley era sacerdote de la Iglesia de Inglaterra, ordenado en 1735, y cerca de su muerte dijo que moría en su comunión [^hymnary-wesley]. Hoy lo imprimen himnarios católicos, entre ellos el Catholic Book of Worship III (1994, n.º 323) y Gather Comprehensive (1994, n.º 348) [^hymnary-text]. Es de dominio público: Wesley murió en 1788, Whitefield en 1770 y Madan en 1790, y Mendelssohn, que murió en 1847, escribió la melodía en 1840, impresa con esta letra en 1856 [^duke-hsp][^julian][^hymnary-mendelssohn][^mt1897]. El arreglo es nuestro, hecho a partir del himnario de 1875.
 
-### ¿Tiene contracanto agudo?
+### ¿Tiene Hark the Herald Angels Sing un contracanto agudo?
 
 El nuestro no: nuestro arreglo canta las cuatro voces del Hymns Ancient and Modern de 1875, con la soprano en la melodía [^ham1875]. El contracanto agudo que cantan muchos coros es de David Willcocks, de Carols for Choirs, publicado por Oxford University Press en 1961; los himnarios que lo imprimen llevan el aviso de copyright de Oxford University Press de 1961 y la mención de que se usa con permiso, así que aquí no se canta [^ph1990][^musicanet][^oupblog].
 

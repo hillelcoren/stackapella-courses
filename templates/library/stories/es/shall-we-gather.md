@@ -178,7 +178,7 @@ Se conoce sobre todo por dos películas del Oeste de John Ford. En Stagecoach (1
 
 ### ¿Es Shall We Gather at the River un himno de funeral?
 
-Es un himno evangélico, escrito por un pastor bautista para las escuelas dominicales, no un espiritual [^burrage1888][^canterbury-hymn]. Como canta el reencuentro junto al río de la vida, muchos himnarios lo incluyen para funerales, del Chalice Hymnal a Glory to God [^hymnary-text]. También se canta en la Iglesia católica: Journeysongs y Glory and Praise lo incluyen en el Ritual de exequias (Order of Christian Funerals), el rito católico de funerales [^hymnary-text][^ocf]. En The Searchers se canta junto a una tumba [^filmsite-searchers].
+Se usa mucho en funerales: como canta el reencuentro junto al río de la vida, muchos himnarios lo incluyen para ellos, del Chalice Hymnal a Glory to God [^hymnary-text]. Nació como himno evangélico, escrito por un pastor bautista para las escuelas dominicales, no como espiritual [^burrage1888][^canterbury-hymn]. También se canta en la Iglesia católica: Journeysongs y Glory and Praise lo incluyen en el Ritual de exequias (Order of Christian Funerals), el rito católico de funerales [^hymnary-text][^ocf]. En The Searchers se canta junto a una tumba [^filmsite-searchers].
 
 ### ¿Qué voz canta la melodía?
 

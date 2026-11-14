@@ -194,7 +194,7 @@ Los documentos no lo dicen. Su hermano solo pudo fecharlo "Before 1872", antes d
 
 ### ¿Qué significa In the Bleak Midwinter en la Biblia?
 
-La frase no viene de la Biblia, que no da ninguna estación para el nacimiento; la nieve es de Rossetti [^kjv][^hymnary-text]. Mucho de lo demás del poema sí es Escritura: el cielo que "cannot hold him", que no puede contenerlo, recuerda 1 Reyes 8:27; el cielo y la tierra que huyen vienen de Apocalipsis 20:11; el pesebre, de Lucas 2:7; el buey y el asno recuerdan Isaías 1:3, y los regalos de los magos vienen de Mateo 2:11 [^kjv].
+La frase no viene de la Biblia, que no dice en qué estación fue el nacimiento; la nieve es de Rossetti [^kjv][^hymnary-text]. Mucho de lo demás del poema sí es Escritura: el cielo que "cannot hold him", que no puede contenerlo, recuerda 1 Reyes 8:27; el cielo y la tierra que huyen vienen de Apocalipsis 20:11; el pesebre, de Lucas 2:7; el buey y el asno recuerdan Isaías 1:3, y los regalos de los magos vienen de Mateo 2:11 [^kjv].
 
 ### ¿Es In the Bleak Midwinter de dominio público?
 

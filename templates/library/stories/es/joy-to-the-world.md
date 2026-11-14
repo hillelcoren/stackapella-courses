@@ -143,7 +143,7 @@ Sobre todo de la primera, según el propio Watts, aunque dijo que tenía present
 
 ### ¿Escribió Händel Joy to the World?
 
-No. Lowell Mason publicó la melodía en 1836 marcada "Arranged from Handel", pero, según Hymnology Archive, no se ha encontrado ninguna melodía así en las obras de Händel [^mason1836][^hymnarchive]. Sus primeras impresiones conocidas son libros de melodías ingleses de principios de la década de 1830, donde se llama COMFORT [^hymnarchive]. Algunas partes recuerdan momentos del Mesías de Händel, como "Lift up your heads" y "Comfort ye" [^hymnarchive][^cyber].
+No. Lowell Mason publicó la melodía en 1836 con la leyenda "Arranged from Handel", pero, según Hymnology Archive, no se ha encontrado ninguna melodía así en las obras de Händel [^mason1836][^hymnarchive]. Sus primeras impresiones conocidas son libros de melodías ingleses de principios de la década de 1830, donde se llama COMFORT [^hymnarchive]. Algunas partes recuerdan momentos del Mesías de Händel, como "Lift up your heads" y "Comfort ye" [^hymnarchive][^cyber].
 
 ### ¿Qué voz canta la melodía?
 

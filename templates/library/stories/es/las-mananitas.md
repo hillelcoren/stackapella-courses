@@ -142,7 +142,7 @@ Margit Frenk, según recoge Gómez Mutio, cuenta diez canciones distintas llamad
 
 No se sabe de nadie que la escribiera: es una canción tradicional mexicana. Su melodía y la estrofa de Amapolita las imprimió en 1904 García Cubas, de memoria [^garciacubas1904]. Manuel M. Ponce, a quien a menudo se nombra como su autor, escribió en un ensayo impreso en 1917 que era obra del "anónimo autor popular" [^ponce1917]. La primera impresión conocida de la estrofa del rey David es un cancionero de 1921 que no nombra autor [^laud1921].
 
-### ¿Por qué se cantan Las Mañanitas, y desde cuándo?
+### ¿Por qué se cantan Las Mañanitas y desde cuándo?
 
 Para despertar al festejado al amanecer de su cumpleaños o de su santo [^toor1947][^manfred1932]. Gómez Mutio la cuenta entre las herederas de las antiguas albas y alboradas, canciones del amanecer [^gomez2024]. García Cubas, en un libro de 1904, recuerda cantar mañanitas al alba en la década de 1860 [^garciacubas1904]; una hoja suelta de 1911 las canta para el día del santo [^carter1911]; y en 1947 Frances Toor la llamó la serenata nacional de cumpleaños al amanecer [^toor1947]. También se canta fuera de México: en 1921 se imprimió en Los Ángeles [^laud1921].
 

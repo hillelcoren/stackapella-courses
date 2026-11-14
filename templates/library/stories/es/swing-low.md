@@ -143,7 +143,7 @@ Los cantantes del Hampton Institute tenían su propia versión, impresa en Hampt
 
 No hay pruebas de que lo fuera. La idea de que avisaba de que un guía estaba cerca, o de que era la canción de Harriet Tubman, no se apoya en ningún documento de la época; los historiadores del Ferrocarril Subterráneo y de Tubman las tienen por mitos [^bordewich][^larson]. Aun así, los espirituales podían tener un segundo sentido, como dejó escrito Frederick Douglass de las canciones sobre Canaán [^douglass1855].
 
-### ¿Por qué cantan Swing Low, Sweet Chariot las aficiones del rugby inglés?
+### ¿Por qué los aficionados al rugby inglés cantan Swing Low, Sweet Chariot?
 
 Viene de los clubes, donde se cantaba al menos desde los años sesenta [^wrm2020]. Unas imágenes de la BBC muestran al público de Twickenham cantándola en 1987 para un joven jugador negro apodado "Chariots" [^wrm2020][^rte]. Según el relato habitual, la afición inglesa la adoptó el 19 de marzo de 1988, cuando otro ala negro marcó tres ensayos a Irlanda [^rte][^wrm2020]. En junio de 2020 la Rugby Football Union la revisó por sus raíces en la esclavitud estadounidense, y en octubre decidió no prohibirla, sino enseñar a la afición de dónde venía [^the42][^skysports].
 
