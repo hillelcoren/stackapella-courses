@@ -171,7 +171,7 @@ En la tercera edición, de 1890, el propio Hymnal Companion de Bickersteth reesc
 
 - [Soprano](/songs/nearer-my-god/soprano): llevas la melodía de Mason, tranquila y regular. Los versos 1, 3 y 7 bajan igual, de Si a Mi. Tu Re grave llega en "Near-", al principio del segundo verso y del último, y en "That", y subes hasta tu Mi agudo en "all", en "Still all my song", y en la sílaba "-er" del "Nearer" que sigue.
 - [Contralto](/songs/nearer-my-god/alto): cantas bajo la melodía, con más frecuencia en Re, con Sol, Do, Si y Mi. Bajo "Still all my song shall be, Nearer, my", te quedas en Sol mientras la melodía sube a su punto más alto. Bajas a Si en "Near-", al principio del segundo verso y del último, en "That" y en el último "thee".
-- [Tenor](/songs/nearer-my-god/tenor): cantas en el centro de los acordes, con más frecuencia en Sol, entre Fa sostenido y Do. En "That raiseth me" y en el "Nearer to thee" final subes Sol, La, Do y terminas en Si; ponlo en solo en el reproductor para afinar ese Do.
+- [Tenor](/songs/nearer-my-god/tenor): cantas en el centro de los acordes, con más frecuencia en Sol, entre Fa sostenido y Do. En "That raiseth me" y en el "Nearer to thee" final subes Sol, La, Do y terminas en Si; escúchalo solo en el reproductor para afinar ese Do.
 - [Bajo](/songs/nearer-my-god/bass): cantas sobre todo las fundamentales de los acordes, en Sol, Re y Do, desde el Sol agudo con el que empiezas hasta el Sol grave una octava más abajo, en el "Near-" y el "to" del segundo verso, en el "me" de "That raiseth me" y en el último "thee". Como la contralto, te quedas en ese Sol agudo durante "Still all my song shall be, Nearer, my".
 
 ## Preguntas

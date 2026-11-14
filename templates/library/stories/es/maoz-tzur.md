@@ -176,7 +176,7 @@ En cada estrofa se canta dos veces el último verso, como piden los signos de re
 
 - [Soprano](/songs/maoz-tzur/soprano): la melodía. Empieza grave, baja hasta su Si grave en el "oz" de "Maoz" y el "kon" de "Tikon", y en el tercer verso sube hasta su Mi agudo, que sostiene dos pulsos en el "be-" de "matbeach,". La estrofa 5 hace lo mismo en el "va-" de "Yevanim", el "far-" de "Ufartzu" y el "ka-" de "kankanim,".
 - [Contralto](/songs/maoz-tzur/alto): casi siempre una tercera o una sexta por debajo de la melodía, en Sol sostenido más que en ninguna otra nota. Fíjate en el final de cada "hamizbeach." y "urenanim.", donde la contralto salta una cuarta hacia arriba hasta Sol sostenido, una tercera por encima de la última nota de la melodía.
-- [Tenor](/songs/maoz-tzur/tenor): el centro del acorde, sobre todo en Si y luego en Mi. Cada vez que la estrofa 1 termina en "chanukat hamizbeach." sostiene su Si más de tres pulsos mientras la melodía baja por encima hasta su última nota; ponla en solo en el reproductor para oír esa nota larga.
+- [Tenor](/songs/maoz-tzur/tenor): el centro del acorde, sobre todo en Si y luego en Mi. Cada vez que la estrofa 1 termina en "chanukat hamizbeach." sostiene su Si más de tres pulsos mientras la melodía baja por encima hasta su última nota; escúchala sola en el reproductor para oír esa nota larga.
 - [Bajo](/songs/maoz-tzur/bass): casi siempre las fundamentales de los acordes, en Mi algo más de la mitad del tiempo. Sube hasta La en el "ha-" de "hamenabeach." y el "sa" de "naasa", y baja a su La grave en muchas notas, entre ellas el "kat hamizbe-" de cada "chanukat hamizbeach." y el "'u shir u-" de cada "kav'u shir urenanim.".
 
 ## Preguntas

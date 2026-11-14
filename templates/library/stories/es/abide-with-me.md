@@ -173,7 +173,7 @@ Julian comparó cuatro textos antiguos: el manuscrito de Lyte, la hoja de 1847, 
 ## Cómo cantarla
 
 - [Soprano](/songs/abide-with-me/soprano): llevas la melodía serena de Monk, de Mi bemol hasta Do en "falls" y en el "deep-" de "deepens", y de vuelta a Mi bemol en el último "me". Después de "Lord" sube por grados conjuntos, Fa, Sol, La becuadro, Si bemol, en "with me abide".
-- [Contralto](/songs/abide-with-me/alto): cantas la letra muy cerca de la melodía, por debajo, con solo cuatro notas, sobre todo Mi bemol y Re. Bajo "comforts flee" pasas por Mi becuadro hasta Fa, el único momento cromático de tu voz. Ponla en solo en el reproductor y afina bien ese Mi becuadro.
+- [Contralto](/songs/abide-with-me/alto): cantas la letra muy cerca de la melodía, por debajo, con solo cuatro notas, sobre todo Mi bemol y Re. Bajo "comforts flee" pasas por Mi becuadro hasta Fa, el único momento cromático de tu voz. Escúchala sola en el reproductor y afina bien ese Mi becuadro.
 - [Tenor](/songs/abide-with-me/tenor): cantas la letra en el centro de los acordes, sobre todo en Si bemol. Bajas a un Mi bemol grave en "fast falls" y en el "a-" de "Lord, with me abide", y subes a Do en "Lord", en "fail, and com-" y en el "a-" del último "abide".
 - [Bajo](/songs/abide-with-me/bass): cantas la línea del bajo, sobre todo Mi bemol, Si bemol y Do. Bajas a un Sol grave en "fast" y en el "-ers" de "helpers", luego subes a tu nota más aguda, La bemol, en "Help" y bajas por la escala, La bemol, Sol, Fa, Mi bemol, bajo "Help of the help-", antes de que el "-less" baje a Si bemol.
 

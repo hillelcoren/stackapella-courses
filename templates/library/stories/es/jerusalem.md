@@ -129,7 +129,7 @@ Nuestro arreglo parte de la propia plancha de Curwen de la canción de Parry, ta
 ## Cómo cantarla
 
 - [Soprano](/songs/jerusalem/soprano): llevas la amplia melodía de Parry, del Si grave de "green?" al Mi agudo del "-ru-" de "Jerusalem". El primer y el tercer verso empiezan con la misma subida, Re, Fa sostenido, La, Si, en "And did those feet" y en "And was the Ho-". Atención al Sol sostenido del "-sant" de "pleasant" y al Do becuadro del "cloud-" de "clouded".
-- [Contralto](/songs/jerusalem/alto): cantas la letra por debajo de la melodía, sobre todo en Re, Si y Mi, desde un Sol grave en "green?" hasta La en "Lamb". Bajo "And did the Countenance Divine" pasas por Re sostenido y Do becuadro; ponlo en solo en el reproductor.
+- [Contralto](/songs/jerusalem/alto): cantas la letra por debajo de la melodía, sobre todo en Re, Si y Mi, desde un Sol grave en "green?" hasta La en "Lamb". Bajo "And did the Countenance Divine" pasas por Re sostenido y Do becuadro; escúchalo solo en el reproductor.
 - [Tenor](/songs/jerusalem/tenor): cantas la letra en el centro de la armonía, sobre todo en Sol y La. Te quedas en un Re grave durante "England's mountains green?" y el "And" que sigue, y subes a Re en "here".
 - [Bajo](/songs/jerusalem/bass): sigues las notas más graves del acompañamiento de Parry, sobre todo Sol, Si y Re. Bajas a un Fa sostenido grave en varios puntos, entre ellos "England's", "Lamb of" y el "dark Sa-" de "dark Satanic", y subes a La en el "-ance" de "Countenance" y en el "Di-" de "Divine".
 

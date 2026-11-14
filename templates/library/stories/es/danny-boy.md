@@ -130,7 +130,7 @@ Para nuestro arreglo tomamos la melodía tal como la imprimió Petrie en 1855 y 
 - [Soprano](/songs/danny-boy/soprano): la melodía, lenta y amplia. La primera mitad se queda más grave y baja a un La sostenido grave en el primer "It's" de "It's you, it's you". La segunda mitad sube: "come ye back" llega a Re en "back" y "the valley's" en "val-", y "I'll be here" alcanza la cima en "here", en el Fa sostenido agudo. Cántalo con suavidad.
 - [Contralto](/songs/danny-boy/alto): la letra bajo la melodía, a menudo repitiendo una sola nota: todo "the pipes, the pipes" va en Re, y "summer's in the meadow" en Fa sostenido. Su nota más grave, un Sol grave, llega en "are calling" y otra vez desde el final de "falling" hasta "It's you".
 - [Tenor](/songs/danny-boy/tenor): canta La durante más de dos tercios de la canción. Los momentos en que se aparta son los que hay que aprender: baja a Re grave en "you, it's you must", en "hushed and white with" y en el último "oh Danny", y sube una vez a Do sostenido en el "-mer's" de "when summer's".
-- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y no entra hasta "boy". Baja a su Sol grave bajo el "-ses" de "roses" y "falling, It's" y sube a Fa sostenido bajo "when summer's"; ponlo en solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
+- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y no entra hasta "boy". Baja a su Sol grave bajo el "-ses" de "roses" y "falling, It's" y sube a Fa sostenido bajo "when summer's"; escúchalo solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
 
 ## Preguntas
 
