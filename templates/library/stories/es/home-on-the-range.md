@@ -16,7 +16,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: home on the range significado | home on the range historia | quién escribió home on the range | home on the range letra en español | home on the range canción de kansas
-translatedFrom: 88bebfce70a7
+translatedFrom: 263fa5a62089
 original: Lomax, Cowboy Songs and Other Frontier Ballads (1910), Internet Archive | https://archive.org/details/cowboysongsother00lomauoft/page/n70/mode/1up
 ---
 
@@ -174,9 +174,9 @@ Nuestro arreglo está tomado de la impresión de Lomax de 1910, que la pone en M
 ## Cómo cantarla
 
 - [Soprano](/songs/home-on-the-range/soprano): llevas la melodía, desde el Re grave hasta el Re una octava más arriba. "Oh, give me a home" salta hasta Sol y sube a Si en "home"; luego "buffalo" y "discouraging" saltan cada una una sexta, de Mi a Do. Tu Re agudo llega en "deer", en el "Where the deer" de la estrofa, y otra vez en el primer "Home," del estribillo, que dura un compás entero. Dale a las notas largas su tiempo: "play," dura más de un compás y "day.", casi dos.
-- [Contralto](/songs/home-on-the-range/alto): cantas la letra una tercera o una sexta por debajo de la melodía; empiezas en el Si por debajo del Do central y pasas casi todo el tiempo en Si, Re y Mi. Subes a tu Si agudo en "deer", bajo el Re de la melodía. En "And the skies are not cloudy all day" bajas paso a paso de Sol a Si grave; luego, tras tomar aire, saltas una octava hasta Si para el primer "Home," del estribillo.
+- [Contralto](/songs/home-on-the-range/alto): cantas la letra una tercera o una sexta por debajo de la melodía; empiezas en el Si por debajo del Do central y pasas sobre todo por Si, Re y Mi. Subes a tu Si agudo en "deer", bajo el Re de la melodía. En "And the skies are not cloudy all day" bajas de Sol a Si grave; luego, tras tomar aire, saltas una octava hasta Si para el primer "Home," del estribillo.
 - [Tenor](/songs/home-on-the-range/tenor): te quedas en el centro del acorde, casi la mitad del tiempo en el Sol por debajo del Do central; todo "Oh, give me a home" va en Sol. Subes a tu Re agudo en "the deer" de la estrofa y en "the skies are", y en "on" de "Home, home on the range". Antes de cada "day." final bajas a Fa sostenido en "all" y vuelves a posarte en Sol.
-- [Bajo](/songs/home-on-the-range/bass): entras bajo "give" y sostienes notas largas en "oo", sobre todo Sol, Do, Re y Si, la mayoría de un compás o más. Tu nota más aguda, Mi, llega bajo "lope", justo antes del Re largo bajo "play,". En el estribillo cantas "Home, home on the range": Sol grave, subes a Re, bajas pasando por Si y Do, y vuelves a un Sol grave largo, donde también termina la canción.
+- [Bajo](/songs/home-on-the-range/bass): entras bajo "give" y sostienes notas largas en "oo", sobre todo Sol, Do, Re y Si, la mayoría de un compás o más. Tu nota más aguda, Mi, llega bajo "lope", justo antes del Re largo bajo "play,". En el estribillo cantas "Home, home on the range": Sol grave, subes a Re, bajas a Si, subes a Do y vuelves a un Sol grave largo, donde también termina la canción.
 
 ## Preguntas
 

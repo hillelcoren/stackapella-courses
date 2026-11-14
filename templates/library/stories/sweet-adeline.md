@@ -102,7 +102,7 @@ Sweet Adeline was sold as a ballad for voice and piano; in its printed chorus th
 
 ![[2]]
 
-Our arrangement sings the chorus only, every pitch and rhythm as printed in the Lilly Library copy, in B-flat and 4/4 [^lilly1903]. All four parts sing the words together in close harmony rather than echoing: the soprano carries the tune, the alto and tenor sing close under it, and the bass walks the roots. For 2 to 4 singers, it adds the bass to soprano and alto, then the tenor. The print's fermatas and grace notes are left out, and short breaths are written in after "line", "pine" and "beams". The chords include dominant sevenths on D, C and F, and near the end a C minor seventh that turns into C7 on "heart".
+Our arrangement sings the chorus only, every pitch and rhythm as printed in the Lilly Library copy, in B-flat and 4/4 [^lilly1903]. All four parts sing the words together in close harmony rather than echoing: the soprano carries the tune, the alto sings close under it, the tenor in the middle, and the bass leaps from root to root. For 2 to 4 singers, it adds the bass to soprano and alto, then the tenor. The print's fermatas and grace notes are left out, and short breaths are written in after "line", "pine" and "beams". The chords include dominant sevenths on D, C and F, and near the end a C minor seventh that turns into C7 on "heart".
 
 ![[3]]
 
@@ -119,9 +119,9 @@ Our arrangement sings the chorus only, every pitch and rhythm as printed in the 
 ## Singing it
 
 - [Soprano](/songs/sweet-adeline/soprano): you carry the tune, from the E above middle C to a high E-flat. "Sweet Ad-e-line" falls from D to C, drops a fifth to F, and rises to a B-flat held for two and a half beats; most little lines end on a long note like it. In "My Adeline" lean the F-sharp up into G. Your top E-flat is "of" in "flower of my heart", your lowest E is "I" in "For you I pine", and the last "Ad-e-line" has a quick "e" before a three-beat "line".
-- [Alto](/songs/sweet-adeline/alto): you sing close under the tune. Through "Sweet Adeline, My Ad-" and "In all my dreams, Your fair" you hold D while the chords change around you, then step down to C and B-natural. "For you I pine" drops to your lowest note, A. At the end you move by half steps, E-flat on "of my", E on "heart, Sweet", E-flat on "Ad-e-" and D on "line": tune each one.
+- [Alto](/songs/sweet-adeline/alto): you sing close under the tune. Through "Sweet Adeline, My Ad-" and "In all my dreams, Your fair" you hold D while the chords change around you, then step down to C and B-natural. "For you I pine" drops to your lowest note, A, on "pine". At the end you move by half steps, E-flat on "of my", E on "heart, Sweet", E-flat on "Ad-e-" and D on "line": tune each one.
 - [Tenor](/songs/sweet-adeline/tenor): you sing in the middle, from the F below middle C to the E-flat above it, mostly on B-flat and F. In "My Ad-e-line" you climb F, F-sharp, A, G: the half step into F-sharp slides into the D7 chord. On "pine" you rise to E-flat, the seventh of F7, just under the tune's F. From "the flower" you sit on B-flat, and you end on C, A and a held F.
-- [Bass](/songs/sweet-adeline/bass): you walk the roots, mostly B-flat, C and F. You rise from B-flat to D on "Ad-e-" and drop to your lowest note, low G, on "line" and again on "beams". "At night, dear heart" and "For you I pine" leap from C up to F, and you end on a held low B-flat.
+- [Bass](/songs/sweet-adeline/bass): you sing the roots, leaping from one to the next, mostly B-flat, C and F. You rise from B-flat to D on "Ad-e-" and drop to your lowest note, low G, on "line" and again on "beams". "At night, dear heart" and "For you I pine" leap from C up to F, and you end on a held low B-flat.
 
 ## Questions
 

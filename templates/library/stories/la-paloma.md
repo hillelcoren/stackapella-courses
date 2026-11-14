@@ -186,9 +186,9 @@ Our arrangement is verse 1 and the refrain in Spanish, in C as printed, for 2 to
 
 ## Singing it
 
-- [Soprano](/songs/la-paloma/soprano): you sing the tune. The first line climbs in quick triplets, E, F, G, A, B, C on "sa-lí de la Ha-ba-na", and "Na-die" jumps straight up to D. In the refrain's last "¡ay!" you touch your top F, then "vi-vo yo" falls to the low C at the end.
-- [Alto](/songs/la-paloma/alto): you sing the words a third or a sixth under the tune, between low B and G. Hold steady on F through "que ven-te con mi-go" the first time and on G the second.
-- [Tenor](/songs/la-paloma/tenor): you sing mostly C and G. The whole first line, up to "Vál-ga-me", is on one C, so keep it bright and in tune. In the refrain you rise to D for "mor, ¡Ay! que ven-te con mi-go", your highest note.
+- [Soprano](/songs/la-paloma/soprano): you sing the tune. The first line climbs, partly in quick triplets, E, F, G, A, B, C on "sa-lí de la Ha-ba-na", and "Na-die" jumps straight up to D. In the refrain's last "¡ay!" you touch your top F, then "vi-vo yo" falls to the low C at the end.
+- [Alto](/songs/la-paloma/alto): you sing the words mostly a third or a sixth under the tune, between low B and G. Hold steady on F through "que ven-te con mi-go" the first time and on G the second.
+- [Tenor](/songs/la-paloma/tenor): you sing mostly C and G. The whole first line, up to "Vál-ga-me", is on one C, so keep it bright and in tune. In the refrain you rise to D for "mor, ¡Ay! que ven-te con mi-go, Chi-", your highest note.
 - [Bass](/songs/la-paloma/bass): you are the habanera. On "dm" you sing its pattern, long, short, then two even notes, on C, G and D, from low G up to G, with a breath before each line. Keep it light and exact; everyone else leans on it.
 
 ## Questions

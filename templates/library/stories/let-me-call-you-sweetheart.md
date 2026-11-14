@@ -108,10 +108,10 @@ Our arrangement takes the melody and words of the chorus from Friedman's first e
 
 ## Singing it
 
-- [Soprano](/songs/let-me-call-you-sweetheart/soprano): you carry the tune, a slow waltz that settles on a long held note at the end of each line. It opens by climbing from the D-sharp above middle C, "Let me call you sweet-", then drops a sixth on "heart". Your top note, a high E, comes once, on "I'm" in the last line, and the final "you." holds for two full bars.
-- [Alto](/songs/let-me-call-you-sweetheart/alto): you sing close under the tune, often a third below, hopping between the warm notes of each barbershop chord. In the third line you hold one note, E, through "Let me hear you whis-per that you" while the tune moves above; on "I'm in" in the last line you sing C natural twice, a note outside the key, under the tune's high E and D-sharp, so tune it with care.
+- [Soprano](/songs/let-me-call-you-sweetheart/soprano): you carry the tune, a slow waltz that settles on a long held note at the end of every second line. It opens by climbing from the D-sharp above middle C, "Let me call you sweet-", then drops a sixth on "heart". Your top note, a high E, comes once, on "I'm" in the last line, and the final "you." holds for two full bars.
+- [Alto](/songs/let-me-call-you-sweetheart/alto): you sing close under the tune, often a third below, hopping between the warm notes of each barbershop chord. From the third line you stay on one note, E, through "Let me hear you whis-per that you" while the tune moves above; on "I'm in" in the last line you sing C natural twice, a note outside the key, under the tune's high E and D-sharp, so tune it with care.
 - [Tenor](/songs/let-me-call-you-sweetheart/tenor): you sing the words in the middle, mostly on F-sharp, then B and C-sharp, a narrow line from low E to C-sharp. "Let me hear you" sits on C-sharp, with a dip to A-sharp on "whis-"; on "too." you drop to your lowest note, E, the seventh of the chord, and you end on F-sharp, held for two bars.
-- [Bass](/songs/let-me-call-you-sweetheart/bass): you sing the words on the bass line, holding B and F-sharp for long stretches under the chords: B through "Let me call you sweet-", low F-sharp through "Let me hear you". On the first "love with you.", and again on "eyes so true.", you walk down E, D-sharp, C-sharp; you end on B, held for two bars.
+- [Bass](/songs/let-me-call-you-sweetheart/bass): you sing the words on the bass line, staying on B or F-sharp for long stretches under the chords, one note to each syllable: B through "Let me call you sweet-", low F-sharp through "Let me hear you". On the first "love with you.", and again on "eyes so true.", you walk down E, D-sharp, C-sharp; you end on B, held for two bars.
 
 ## Questions
 

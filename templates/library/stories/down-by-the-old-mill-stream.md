@@ -85,7 +85,7 @@ The song was sold for voice and piano, and its waltz chorus asks for freedom: it
 
 It was a quartet song early on. Our copy gives male quartets their own page, with the tune in the second tenor, and there the other voices answer with "(sweet sixteen)" and "(village queen)" [^scan1910]. IMSLP lists the same quartet page in a printing with the song's first, 1910 imprint [^imslp]. A male quartet recorded it for Columbia in June 1911; Victor's quartet takes that September were never issued, and its October record was a solo with a quartet chorus [^dahr]. In his 1940 book on barbershop singing, Spaeth used its opening as his example of the tenor climbing while the melody falls, to stay above the lead, and noted that quartets sang the echoes on "my village queen" in various ways [^spaeth1940].
 
-Our arrangement, read from the same copy, is in 3/4, written in A, a step above the printed G, for men's voices [^scan1910]. We sing the chorus once, for 2 to 4 singers: the lead and baritone, then the bass, then the tenor. The harmony is a barbershop voicing over our copy's own chords. The lead sings "You were sixteen" and "my village queen" alone, and the others answer "sweet sixteen" and "village queen", as the quartet page has them.
+Our arrangement, read from the same copy, is in 3/4, written in A, a step above the printed G, for men's voices [^scan1910]. We sing the chorus once, for 2 to 4 singers: the lead and baritone, then the bass, then the tenor. The harmony is a barbershop voicing over our copy's own chords. The lead starts "You were sixteen" and "my village queen" alone, and the others answer "sweet sixteen" and "village queen" over its held "-teen" and "queen", as the quartet page has them.
 
 ## Versions and other words
 
@@ -97,10 +97,10 @@ The old mill stream was a common setting for songs of the day: the same 1910 cop
 
 ## Singing it
 
-- [Lead](/songs/down-by-the-old-mill-stream/lead): you carry Taylor's tune, from a low C-sharp on "With" up to E on "old" and "there". Your pickup "where I" creeps up a half step before you leap to "first", so tune it with care. Sing "You were sixteen" and "my village queen" alone, taking your time, and let the others answer you.
+- [Lead](/songs/down-by-the-old-mill-stream/lead): you carry Taylor's tune, from a low C-sharp on "With" up to E on "old" and "there". Your pickup "where I" creeps up a half step before you leap to "first", so tune it with care. Start "You were sixteen" and "my village queen" alone, taking your time, and let the others answer you while you hold "-teen" and "queen".
 - [Tenor](/songs/down-by-the-old-mill-stream/tenor): you ring above the tune, mostly on E. On "old" and "mill" you climb to A and hold it while the tune slides down beneath you, and again on "there" and "I". You answer the lead with "sweet sixteen" on one repeated note, then "village queen".
-- [Baritone](/songs/down-by-the-old-mill-stream/baritone): you fill the chord between the lead and the bass, mostly on A and C-sharp. You start on the high C-sharp for "Down by the old", above the tune on "Down by", and later sink to the low C-sharp on "With your eyes". Expect to cross the lead, as a barbershop baritone does.
-- [Bass](/songs/down-by-the-old-mill-stream/bass): you hold the roots, mostly on a low A. Under the opening "old mill stream" you climb from A through C to E, and on "ging-" you drop to your lowest E. Your "sweet sixteen" answer sits on a low F.
+- [Baritone](/songs/down-by-the-old-mill-stream/baritone): you fill the chord between the lead and the bass, mostly on A and C-sharp. You start on the high C-sharp for "Down by the old", above the tune on "Down by", and later sink to the low C-sharp on "you", "With your eyes", "too" and the last "stream". Expect to cross the lead, as a barbershop baritone does.
+- [Bass](/songs/down-by-the-old-mill-stream/bass): you sing the bass line, mostly on a low A. Under the opening "old mill stream" you climb from A through C to E, and on "ging-" you drop to your lowest E. Your "sweet sixteen" answer sits on a low F.
 
 ## Questions
 
@@ -118,7 +118,7 @@ Yes, though it was written for voice and piano. Its early sheet music already ha
 
 ### Which part sings the tune?
 
-The lead. In our barbershop arrangement the lead carries Taylor's melody, with the tenor above it, the baritone filling the chord and the bass on the roots, as on the sheet music's quartet page, where the tune is in the second tenor [^scan1910]. The lead also sings "You were sixteen" alone before the others answer.
+The lead. In our barbershop arrangement the lead carries Taylor's melody, with the tenor above it, the baritone filling the chord and the bass on the low notes of the chords, as on the sheet music's quartet page, where the tune is in the second tenor [^scan1910]. The lead also starts "You were sixteen" alone before the others answer.
 
 ## Sing next
 

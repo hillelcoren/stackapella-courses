@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ye banks and braes significado | ye banks and braes letra traducida | quién escribió ye banks and braes | ye banks and braes historia | ye banks and braes letra en español
-translatedFrom: fc496332ce70
+translatedFrom: 707259040795
 original: The Scots Musical Museum de James Johnson, vol. 4 (Edimburgo, 1792), National Library of Scotland, Internet Archive | https://archive.org/details/scotsmusicalmuse04rugg
 listen: National Jukebox, grabación de 1909 | https://archive.org/details/loc-jukebox-127860-ye-banks-and-braes-o-bonnie-doon || National Jukebox, grabación de 1915, solo de celesta, sin letra | https://archive.org/details/loc-jukebox-650692-ye-banks-and-braes-o-bonny-doon
 ---
@@ -119,9 +119,9 @@ Nuestro arreglo canta la letra de Burns tal como la imprimió Johnson en 1792, l
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ye-banks-and-braes/soprano): cantas la melodía de Burns, del Re al Mi una octava y un tono más arriba. La melodía del primer verso vuelve en el tercero y el séptimo, y la del segundo en el cuarto y el último, así que dos versos te enseñan seis de los ocho. El punto más alto, "Thou'll break my heart", salta de Si a Re, y luego a tu Mi agudo en "my". Canta ligeros los snaps rápidos de "bloom", "weary" y "never": un Sol corto y luego un Mi más largo.
-- [Contralto](/songs/ye-banks-and-braes/alto): cantas muy cerca por debajo de la melodía, de Si a Sol, una nota por sílaba. Escucha el semitono de Do a Si en "bloom sae" y "wea-ry", y en "re-turn" al final. En "Thou'll break my heart, thou warbling bird" te quedas entre Mi y Sol mientras la melodía sube; escucha tu voz sola en el reproductor.
-- [Tenor](/songs/ye-banks-and-braes/tenor): completas el acorde, casi siempre con dos notas. Después de "Ye banks and" en Sol, cantas "braes o' bonie Doon, How can ye" todo en Re, y "I sae weary fu' o'" todo en Sol. "Thou'll break my heart" sube La, Do, Re, y cada estrofa termina grave, bajando de Mi a Re en "return" y "wi' me".
+- [Soprano](/songs/ye-banks-and-braes/soprano): cantas la melodía de Burns, del Re al Mi una octava y un tono más arriba. La melodía del primer verso vuelve, tras una anacrusa distinta, en el tercero y el séptimo, y la del segundo en el cuarto y el último, terminando en Sol en vez de La, así que dos versos te enseñan seis de los ocho. El punto más alto, "Thou'll break my heart", salta de Si a Re, y luego a tu Mi agudo en "my". Canta ligeros los snaps rápidos de "bloom", "weary" y "never": un Sol corto y luego un Mi más largo.
+- [Contralto](/songs/ye-banks-and-braes/alto): cantas muy cerca por debajo de la melodía, de Si a Sol, una nota por sílaba. Escucha el semitono de Do a Si en "bloom sae", "wea-ry" y "ne-ver", y en "re-turn" al final. En "Thou'll break my heart, thou warbling bird" te quedas entre Mi y Sol mientras la melodía sube; escucha tu voz sola en el reproductor.
+- [Tenor](/songs/ye-banks-and-braes/tenor): completas el acorde, sobre todo con dos notas. Después de "Ye banks and" en Sol, cantas "braes o' bonie Doon, How can ye" todo en Re, y "I sae weary fu' o'" todo en Sol. "Thou'll break my heart" sube Sol, La, Do, Re, y cada estrofa termina grave, bajando de Mi a Re en "return" y "wi' me".
 - [Bajo](/songs/ye-banks-and-braes/bass): cantas la línea del bajo, del Sol grave hasta una octava más arriba. Empiezas en Si en "Ye banks and", y subes a Sol en "bonie". "Thou'll break my heart" baja Mi, Re, Do hasta el Sol grave, y "That wantons thro' the flow-" se queda abajo, en La y Sol. Cada estrofa termina en el Sol grave.
 
 ## Preguntas

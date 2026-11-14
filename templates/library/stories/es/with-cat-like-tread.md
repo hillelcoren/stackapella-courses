@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: with cat like tread significado | with cat like tread letra | with cat like tread los piratas de penzance | come friends who plough the sea letra | hail hail the gang's all here origen | with cat like tread partitura
-translatedFrom: 5316049a158b
+translatedFrom: 6dc4ac115c3d
 original: The Pirates of Penzance, partitura vocal de Chappell (Londres, hacia 1920), Internet Archive | https://archive.org/details/vocalscoreofpira00sull
 listen: National Jukebox, grabación de 1910, un popurrí que incluye With Cat-like Tread | https://archive.org/details/loc-jukebox-129632-gems-from-pirates-of-penzance
 ---
@@ -143,9 +143,9 @@ Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" d
 ## Cómo cantarla
 
 - [Soprano](/songs/with-cat-like-tread/soprano): llevas la melodía de los piratas. "Come, friends" baja de Do sostenido a un Mi grave en "sea"; "Truce to navigation" y "Take another station" comparten el mismo ritmo saltarín con puntillo, así que mantén ligeras las notas cortas. "With a little burglaree!" sube saltando por el acorde de La hasta tu Mi agudo en "bur-". "With cat-like tread" se queda en un solo Si. Al final, "way" y "we" sostienen cada uno ese Mi agudo durante un compás entero antes de que "feel" baje a La.
-- [Contralto](/songs/with-cat-like-tread/alto): cantas la letra de los piratas por debajo de la melodía. Empiezas en Mi, y en "Truce", "navigation", "Take" y "station" bajas a tu Sol sostenido grave. "With cat-like tread" sostiene un solo Re. Subes a La en "Upon", "prey", "steal" y "cautious". Bajo el largo Mi agudo de la soprano pasas del Do sostenido de "way" al Re de "we", la séptima del acorde de Mi7, y vuelves al Do sostenido en "feel".
+- [Contralto](/songs/with-cat-like-tread/alto): cantas la letra de los piratas por debajo de la melodía. Empiezas en Mi, y en "Truce", el "-gation" de "navigation", "Take" y "station" bajas a tu Sol sostenido grave. "With cat-like tread" sostiene un solo Re. Subes a La en el "-on" de "Upon", en "prey", en "steal" y en el "cau-" de "cautious". Bajo el largo Mi agudo de la soprano pasas del Do sostenido de "way" al Re de "we", la séptima del acorde de Mi7, y vuelves al Do sostenido en "feel".
 - [Tenor](/songs/with-cat-like-tread/tenor): eres un policía, y empiezas la canción a la vez que el bajo, en "Ta-ran-ta-" sobre Mi. Luego cantas "ra" en los tiempos fuertes, sobre todo en Mi y Fa sostenido, bajo la marcha de los piratas. Tu único La llega en el largo "ra" bajo el Mi agudo de las sopranos; sostenlo un compás, baja un grado a Sol sostenido y termina en Mi.
-- [Bajo](/songs/with-cat-like-tread/bass): también eres un policía, en la línea del bajo de Sullivan. Tras la anacrusa en Mi, tus "ra" se quedan en el La grave, luego en Si y luego en La; al final de "Come, friends" subes de Re a Re sostenido para llevar a Mi. Dos veces tu "Ta-ran-ta-ra" sube Si, Do sostenido, Re, Mi bajo los piratas. Sostienes Mi durante dos compases bajo el Mi agudo y luego bajas al La grave para el último "ra!".
+- [Bajo](/songs/with-cat-like-tread/bass): también eres un policía, en la línea del bajo de Sullivan. Tras la anacrusa en Mi, tus "ra" se quedan en el La grave, luego en Si y luego en La; al final de "Come, friends" subes de Re a Re sostenido para llevar a Mi. Dos veces tu "Ta-ran-ta-ra" sube Si, Do sostenido, Re, Mi bajo los piratas. Te quedas en Mi durante dos compases, un "ra" largo en cada uno, bajo el Mi agudo y luego bajas al La grave para el último "ra!".
 
 ## Preguntas
 

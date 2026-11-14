@@ -151,9 +151,9 @@ Our arrangement reads the tune and Macfarren's harmony from Chappell's page 230,
 ## Singing it
 
 - [Soprano](/songs/greensleeves/soprano): you carry the old tune, from C sharp up to the top E on the refrain's first and third "Greensleeves". Listen for one change: in the verse, "love" turns on D natural, but in the refrain "sleeves" falls from E through D sharp. "Discourteously" and "delight" end on your low C sharp.
-- [Alto](/songs/greensleeves/alto): you sing the words under the tune, mostly on C sharp and A, with many repeated notes. You rise to F sharp on "Alas! my" and "I have", sit low on G sharp for "do me wrong" and "you so long", and lift to E on "my heart of", dropping to B for "gold".
-- [Tenor](/songs/greensleeves/tenor): your whole line fits between E and A, moving mostly by step. You open on A for "Alas! my love", and the refrain starts low, five notes on E for "Greensleeves was all my". Mind the E sharp, a half step above your low E, on "-courteously" and in "my delight".
-- [Bass](/songs/greensleeves/bass): you sing Macfarren's bass line, mostly E, C sharp and F sharp. The opening walks down F sharp, D, A on "Alas! my love". The ending is the big moment: after "who but my" on F sharp and "Lady" on C sharp, you drop to the low F sharp under the last "Greensleeves".
+- [Alto](/songs/greensleeves/alto): you sing the words under the tune, mostly on C sharp and A, with many repeated notes. You rise to F sharp on the "-las!" of "Alas!", on "my" and on "I have", sit low on G sharp for "do me wrong" and "you so long", and lift to E on "my heart of", dropping to B for "gold".
+- [Tenor](/songs/greensleeves/tenor): your whole line fits between E and A, moving mostly by step. You open on A for "Alas! my love", and the refrain starts low, five notes on E for "Greensleeves was all my". Mind the E sharp, a half step above your low E, on the "-cour-" and "-ly" of "discourteously" and on "my" and "-light" in "my delight".
+- [Bass](/songs/greensleeves/bass): you sing Macfarren's bass line, mostly E, C sharp and F sharp. The opening goes down F sharp, D, A on "Alas! my love". The ending is the big moment: after "who but my" on F sharp and "Lady" on C sharp, you drop to the low F sharp under the last "Greensleeves".
 
 ## Questions
 

@@ -100,9 +100,9 @@ Our arrangement is read from E. H. Fellowes's edition of 1913, its accidentals c
 
 ## Singing it
 
-- [Soprano](/songs/now-is-the-month-of-maying/soprano): you carry Morley's dancing tune, up on the top D on "playing", on "his bonny lass" and in the fa las. Listen for the C sharp on "are" just before "playing"; it pulls up into the D. In the second half's fa las you run up the scale from the low D, one note to each half beat.
-- [Alto](/songs/now-is-the-month-of-maying/alto): your tune sits close under the soprano, mostly on G and F sharp. Watch the F naturals: the first "Fa la", "with" and "up-" are a half step lower than your usual F sharp. You reach A only in the second half, on "his bonny", "grass" and the fa las, rising through G sharp on "greeny".
-- [Tenor](/songs/now-is-the-month-of-maying/tenor): you sing Morley's two tenor parts in one line, mostly on D, up to F on "his". On "greeny grass" you have G sharp, then C sharp, the bright notes of those chords. In the second half's fa las you walk down to your low E while the other three run up.
+- [Soprano](/songs/now-is-the-month-of-maying/soprano): you carry Morley's dancing tune, up on the top D on "playing", on "his bon-" and "lass" and in the fa las. Listen for the C sharp on "are" just before "playing"; it pulls up into the D. In the second half's fa las you run up the scale from the low D, one note to each half beat.
+- [Alto](/songs/now-is-the-month-of-maying/alto): your tune sits close under the soprano, mostly on G and F sharp. Watch the F naturals: the first "Fa la", "with" and "up-" are a half step lower than your usual F sharp. You reach A only in the second half, on "his bon-" and in the fa las, leaping up to it from E after "grass".
+- [Tenor](/songs/now-is-the-month-of-maying/tenor): you sing Morley's two tenor parts in one line, most often on D, up to F on "his". On the "-y" of "greeny" and on "grass" you have G sharp, then C sharp, the bright notes of those chords. In the second half's fa las you walk down to your low E while the soprano runs up.
 - [Bass](/songs/now-is-the-month-of-maying/bass): you are the foundation, mostly D and G, from the low G on "Now", "Maying" and "When" up to A on "bonny". After "grass" you start the fa las first, with the tenor, and then lead the rising scale, G, A, B, C, D, that the alto and soprano take up a beat apart.
 
 ## Questions

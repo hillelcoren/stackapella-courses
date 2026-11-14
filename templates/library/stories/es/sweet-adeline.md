@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: sweet adeline historia | sweet adeline significado | quién escribió sweet adeline | sweet adeline letra en español | sweet adeline barbershop | quién cantó primero sweet adeline
-translatedFrom: bff538b1877e
+translatedFrom: 677c2875da0d
 original: You're the Flower of My Heart, Sweet Adeline (Witmark, 1903), Lilly Library, Universidad de Indiana | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-250085
 listen: National Jukebox, grabación de 1904 | https://archive.org/details/loc-jukebox-245492-sweet-adeline || National Jukebox, grabación de 1908 | https://archive.org/details/loc-jukebox-726049-you-re-the-flower-of-my-heart-sweet-adeline
 ---
@@ -127,7 +127,7 @@ Sweet Adeline se vendió como balada para voz y piano; en su estribillo impreso,
 
 ![[2]]
 
-Nuestro arreglo canta solo el estribillo, con cada altura y cada ritmo tal como están impresos en el ejemplar de la Lilly Library, en Si bemol y en 4/4 [^lilly1903]. Las cuatro voces cantan la letra a la vez, en armonía cerrada, en lugar de hacer ecos: la soprano lleva la melodía, la contralto y el tenor cantan muy cerca por debajo, y el bajo camina por las fundamentales. Para 2 a 4 cantantes, a la soprano y la contralto se suma el bajo, y luego el tenor. Se omiten los calderones y las notas de adorno de la partitura, y se añaden respiraciones cortas después de "line", "pine" y "beams". Entre los acordes hay séptimas de dominante sobre Re, Do y Fa, y, cerca del final, un Do menor séptima que se convierte en Do7 en "heart".
+Nuestro arreglo canta solo el estribillo, con cada altura y cada ritmo tal como están impresos en el ejemplar de la Lilly Library, en Si bemol y en 4/4 [^lilly1903]. Las cuatro voces cantan la letra a la vez, en armonía cerrada, en lugar de hacer ecos: la soprano lleva la melodía, la contralto canta muy cerca por debajo, el tenor en el centro, y el bajo salta de fundamental en fundamental. Para 2 a 4 cantantes, a la soprano y la contralto se suma el bajo, y luego el tenor. Se omiten los calderones y las notas de adorno de la partitura, y se añaden respiraciones cortas después de "line", "pine" y "beams". Entre los acordes hay séptimas de dominante sobre Re, Do y Fa, y, cerca del final, un Do menor séptima que se convierte en Do7 en "heart".
 
 ![[3]]
 
@@ -144,9 +144,9 @@ Nuestro arreglo canta solo el estribillo, con cada altura y cada ritmo tal como 
 ## Cómo cantarla
 
 - [Soprano](/songs/sweet-adeline/soprano): llevas la melodía, desde el Mi por encima del Do central hasta un Mi bemol agudo. "Sweet Ad-e-line" baja de Re a Do, cae una quinta hasta Fa y sube a un Si bemol mantenido durante dos tiempos y medio; la mayoría de los versos cortos terminan en una nota larga como esa. En "My Adeline", inclina el Fa sostenido hacia arriba, hacia el Sol. Tu Mi bemol agudo es "of", en "flower of my heart"; tu Mi más grave es "I", en "For you I pine", y el último "Ad-e-line" tiene una "e" rápida antes de un "line" de tres tiempos.
-- [Contralto](/songs/sweet-adeline/alto): cantas muy cerca por debajo de la melodía. Durante "Sweet Adeline, My Ad-" y "In all my dreams, Your fair" mantienes el Re mientras los acordes cambian a tu alrededor, y luego bajas por grados a Do y a Si becuadro. "For you I pine" baja hasta tu nota más grave, La. Al final te mueves por semitonos: Mi bemol en "of my", Mi en "heart, Sweet", Mi bemol en "Ad-e-" y Re en "line": afina cada uno.
+- [Contralto](/songs/sweet-adeline/alto): cantas muy cerca por debajo de la melodía. Durante "Sweet Adeline, My Ad-" y "In all my dreams, Your fair" mantienes el Re mientras los acordes cambian a tu alrededor, y luego bajas por grados a Do y a Si becuadro. "For you I pine" baja hasta tu nota más grave, La, en "pine". Al final te mueves por semitonos: Mi bemol en "of my", Mi en "heart, Sweet", Mi bemol en "Ad-e-" y Re en "line": afina cada uno.
 - [Tenor](/songs/sweet-adeline/tenor): cantas en el centro, desde el Fa por debajo del Do central hasta el Mi bemol por encima de él, sobre todo en el Si bemol y el Fa. En "My Ad-e-line" subes Fa, Fa sostenido, La, Sol: el semitono hacia el Fa sostenido se desliza al acorde de Re7. En "pine" subes a Mi bemol, la séptima de Fa7, justo por debajo del Fa de la melodía. Desde "the flower" te quedas en Si bemol, y terminas en Do, La y un Fa mantenido.
-- [Bajo](/songs/sweet-adeline/bass): caminas por las fundamentales, sobre todo Si bemol, Do y Fa. Subes de Si bemol a Re en "Ad-e-" y bajas a tu nota más grave, el Sol grave, en "line" y de nuevo en "beams". "At night, dear heart" y "For you I pine" saltan hacia arriba de Do a Fa, y terminas en un Si bemol grave mantenido.
+- [Bajo](/songs/sweet-adeline/bass): cantas las fundamentales, saltando de una a otra, sobre todo Si bemol, Do y Fa. Subes de Si bemol a Re en "Ad-e-" y bajas a tu nota más grave, el Sol grave, en "line" y de nuevo en "beams". "At night, dear heart" y "For you I pine" saltan hacia arriba de Do a Fa, y terminas en un Si bemol grave mantenido.
 
 ## Preguntas
 

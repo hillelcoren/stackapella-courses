@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: a red red rose significado | a red red rose poema significado | quién escribió a red red rose | my love is like a red red rose traducción | a red red rose robert burns historia | a red red rose canción
-translatedFrom: 00b34d7825f7
+translatedFrom: 0c104f9f6160
 original: A Selection of Scots Songs de Peter Urbani, libro 2 (Edimburgo, 1794), Internet Archive | https://archive.org/details/selectionofscots02urba
 ---
 
@@ -140,9 +140,9 @@ El mismo volumen de Smith tiene otra canción de la rosa roja en la página 74, 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/red-red-rose/soprano): cantas la melodía de Smith, del Do central al Sol. Practica el segundo verso: en "O, my" subes corriendo Do, Re, Mi, y luego bajas una décima hasta el Do central para "love". "So deep in love" salta de Sol hasta el Fa de arriba, y el verso siguiente llega a tu Sol agudo en "And I will". Terminas en un Do largo.
+- [Soprano](/songs/red-red-rose/soprano): cantas la melodía de Smith, del Do central al Sol. Practica el segundo verso: en "O, my" subes corriendo Do, Re, Mi, y luego bajas una décima hasta el Do central para "love". "So deep in love" salta de Sol hasta el Fa de arriba, y el verso siguiente llega a tu Sol agudo en el "And" y el "will" de "And I will". Terminas en un Do largo.
 - [Contralto](/songs/red-red-rose/alto): empiezas en el Do central, y en "love is" compartes la nota de la melodía. Luego te mueves sobre todo una tercera o una sexta por debajo, del Si por debajo del Do central al Si de arriba. En el "I;" de "am I;" subes a ese Si, respiras, y lo vuelves a cantar un tiempo entero en "And" mientras la melodía canta Sol y Fa por encima. Terminas en Mi.
-- [Tenor](/songs/red-red-rose/tenor): tu línea vive en Sol y en el Do de encima, entre Fa y Re. Subes a La en "bonnie lass" y "only love", y a Re en el "I;" de "am I;" y en el "-while!" de "awhile!", y sostienes Re un tiempo entero en el "And" que sigue. El Fa grave llega una vez en cada estrofa, en "seas" y en "thou-". Terminas en Sol.
+- [Tenor](/songs/red-red-rose/tenor): tu línea vive en Sol y en el Do de encima, entre Fa y Re. Subes a La en "bonnie lass" y "only love", en "love" de "So deep in love" y en "weel" de "O fare thee weel awhile!", y a Re en el "I;" de "am I;" y en el "-while!" de "awhile!", y sostienes Re un tiempo entero en el "And" que sigue. El Fa grave llega una vez en cada estrofa, en "seas" y en "thou-". Terminas en Sol.
 - [Bajo](/songs/red-red-rose/bass): cantas del Sol grave al Sol de arriba. Mientras la melodía vuelve a subir desde el Do central en "is like a", tú bajas por Mi, Re, Do. Los versos terminan Re, Sol grave, Do en "seas gang dry". El gran momento es el "I;" de "am I;" en el Sol agudo, y luego una caída de una octava al Sol grave, sostenido en "And". Terminas en Do.
 
 ## Preguntas
@@ -161,7 +161,7 @@ Un símil: una comparación hecha con "like" (como). El amor de quien canta es c
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía, Low down in the Broom en la versión de Smith [^smith]. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo, que canta sobre todo las fundamentales de los acordes; el tenor completa las cuatro.
+La soprano canta la melodía, Low down in the Broom en la versión de Smith [^smith]. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo, que canta la línea del bajo de los acordes de Smith; el tenor completa las cuatro.
 
 ## Canta después
 

@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: will ye no come back again significado | will ye no come back again traducción | quién escribió will ye no come back again | will ye no come back again letra en español | will ye no come back again historia | bonnie prince charlie canción
-translatedFrom: bbe6b9740d43
+translatedFrom: a6ca4299b1c9
 original: Gems of Scottish Song (Boston: Oliver Ditson & Company, catalogada como de 1883), Internet Archive | https://archive.org/details/gemsofscottishso0000vari
 ---
 
@@ -153,10 +153,10 @@ La letra varía entre impresiones, y lo que hemos leído no resuelve cuál es la
 
 ## Cómo cantarla
 
-- [Soprano](/songs/will-ye-no-come-back-again/soprano): llevas la melodía, del Do grave al Fa agudo. Cuatro versos de las estrofas bajan al Do grave ("awa", "twa", "men", "glen"), y cada verso siguiente salta una octava hasta Do. La segunda frase del estribillo empieza en tu Fa agudo, "Will", y baja por grados. Dos notas comparten "back" en el estribillo, y "Char-" en la estrofa 2 se desliza de La a Sol.
+- [Soprano](/songs/will-ye-no-come-back-again/soprano): llevas la melodía, del Do grave al Fa agudo. Cuatro versos de las estrofas bajan al Do grave (el "-wa" de "awa", "twa", "men", "glen"), y cada verso siguiente salta una octava hasta Do. La segunda frase del estribillo empieza en tu Fa agudo, "Will", y baja por grados. Dos notas comparten "back" en el estribillo, y "Char-" en la estrofa 2 se desliza de La a Sol.
 - [Contralto](/songs/will-ye-no-come-back-again/alto): cantas la letra sobre todo una tercera o una sexta por debajo de la melodía, entre el La grave y el La de arriba. "Safely owre", "Should he ne'er" y el "They trusted you" de la estrofa 2 están en ese La agudo; la mayoría de los versos de las estrofas terminan en el La grave. En la estrofa 2 llegas a "lie!" de "dear Charlie" un tiempo antes que la soprano y lo sostienes en Mi; escucha solo esas dos voces en el reproductor para oírlo.
 - [Tenor](/songs/will-ye-no-come-back-again/tenor): completas el acorde, del Do grave al Re por encima del Do central. "Safely owre the friendly main" está casi todo en el Do central, y tras una anacrusa en Mi, "trusted in your Hieland men" de la estrofa 2 está todo en Fa. Tu Re agudo llega en el primer "back" del estribillo. Cada estribillo termina en tu Do grave, una quinta por encima del Fa del bajo.
-- [Bajo](/songs/will-ye-no-come-back-again/bass): cantas las fundamentales, sobre todo Fa, Si bemol y Do, entre el Fa grave y el Fa una octava más arriba. "Bonnie Charlie's" está en el Fa grave, y luego "awa" sube por Si bemol hasta el Fa agudo. El último verso del estribillo va bajando, Re, La, Fa grave, y luego Do, La y otra vez el Fa grave.
+- [Bajo](/songs/will-ye-no-come-back-again/bass): cantas las fundamentales, sobre todo Fa, Si bemol y Do, entre el Fa grave y el Fa una octava más arriba. "Bonnie Charlie's" está en el Fa grave, y luego "now awa" sube por Si bemol hasta el Fa agudo. El último verso del estribillo va bajando, Re, La, Fa grave, y luego Do, La y otra vez el Fa grave.
 
 ## Preguntas
 

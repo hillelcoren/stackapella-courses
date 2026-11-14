@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: down by the old mill stream historia | down by the old mill stream significado | quién escribió down by the old mill stream | down by the old mill stream letra en español | down by the old mill stream barbershop | down by the old mill stream partitura
-translatedFrom: 8b25d894eaeb
+translatedFrom: 93d80a3c87cb
 original: Connecticut College, Greer Music Library, Historic Sheet Music Collection, Internet Archive | https://archive.org/details/sm_downbytheoldmillstream
 listen: Internet Archive, grabación de 1911 con cuarteto | https://archive.org/details/loc-jukebox-645949-down-by-the-old-mill-stream || Internet Archive, grabación de 1911 con estribillo de cuarteto | https://archive.org/details/loc-jukebox-130891-down-by-the-old-mill-stream
 ---
@@ -98,7 +98,7 @@ La canción se vendió para voz y piano, y su estribillo de vals pide libertad: 
 
 Fue una canción de cuarteto desde muy pronto. Nuestro ejemplar da a los cuartetos masculinos su propia página, con la melodía en el segundo tenor, y allí las otras voces responden con "(sweet sixteen)" y "(village queen)" [^scan1910]. IMSLP recoge la misma página de cuarteto en una impresión con el primer pie de imprenta de la canción, el de 1910 [^imslp]. Un cuarteto masculino la grabó para Columbia en junio de 1911; las tomas que el cuarteto de Victor hizo en septiembre nunca se publicaron, y su disco de octubre fue un solo con estribillo de cuarteto [^dahr]. En su libro de 1940 sobre el canto barbershop, Spaeth usó su comienzo como ejemplo del tenor que sube mientras la melodía baja, para mantenerse por encima del lead, la voz que lleva la melodía, y señaló que los cuartetos cantaban de distintas maneras los ecos de "my village queen" [^spaeth1940].
 
-Nuestro arreglo, tomado del mismo ejemplar, está en 3/4, escrito en La, un tono por encima del Sol impreso, para voces masculinas [^scan1910]. Cantamos el estribillo una vez, para 2 a 4 cantantes: el lead y el barítono, luego el bajo y luego el tenor. La armonía es una disposición de barbershop sobre los propios acordes de nuestro ejemplar. El lead canta "You were sixteen" y "my village queen" en solitario, y los demás responden "sweet sixteen" y "village queen", como los trae la página de cuarteto.
+Nuestro arreglo, tomado del mismo ejemplar, está en 3/4, escrito en La, un tono por encima del Sol impreso, para voces masculinas [^scan1910]. Cantamos el estribillo una vez, para 2 a 4 cantantes: el lead y el barítono, luego el bajo y luego el tenor. La armonía es una disposición de barbershop sobre los propios acordes de nuestro ejemplar. El lead empieza en solitario "You were sixteen" y "my village queen", y los demás responden "sweet sixteen" y "village queen" sobre su "-teen" y su "queen" sostenidos, como los trae la página de cuarteto.
 
 ## Versiones y otras letras
 
@@ -110,10 +110,10 @@ El viejo arroyo del molino era un escenario habitual en las canciones de la épo
 
 ## Cómo cantarla
 
-- [Lead](/songs/down-by-the-old-mill-stream/lead): llevas la melodía de Taylor, desde un Do sostenido grave en "With" hasta Mi en "old" y "there". Tu anacrusa "where I" sube apenas un semitono antes de que saltes a "first", así que afínala con cuidado. Canta "You were sixteen" y "my village queen" en solitario, sin prisa, y deja que los demás te respondan.
+- [Lead](/songs/down-by-the-old-mill-stream/lead): llevas la melodía de Taylor, desde un Do sostenido grave en "With" hasta Mi en "old" y "there". Tu anacrusa "where I" sube apenas un semitono antes de que saltes a "first", así que afínala con cuidado. Empieza en solitario "You were sixteen" y "my village queen", sin prisa, y deja que los demás te respondan mientras sostienes "-teen" y "queen".
 - [Tenor](/songs/down-by-the-old-mill-stream/tenor): resuenas por encima de la melodía, sobre todo en Mi. En "old" y "mill" subes a La y lo sostienes mientras la melodía se desliza por debajo de ti, y de nuevo en "there" y "I". Respondes al lead con "sweet sixteen" en una sola nota repetida, y luego con "village queen".
-- [Barítono](/songs/down-by-the-old-mill-stream/baritone): completas el acorde entre el lead y el bajo, sobre todo en La y Do sostenido. Empiezas en el Do sostenido agudo en "Down by the old", por encima de la melodía en "Down by", y más tarde bajas al Do sostenido grave en "With your eyes". Cuenta con cruzarte con el lead, como hace un barítono de barbershop.
-- [Bajo](/songs/down-by-the-old-mill-stream/bass): sostienes las fundamentales, sobre todo en un La grave. Debajo del "old mill stream" del comienzo subes de La a Mi pasando por Do, y en "ging-" bajas a tu Mi más grave. Tu respuesta "sweet sixteen" se queda en un Fa grave.
+- [Barítono](/songs/down-by-the-old-mill-stream/baritone): completas el acorde entre el lead y el bajo, sobre todo en La y Do sostenido. Empiezas en el Do sostenido agudo en "Down by the old", por encima de la melodía en "Down by", y más tarde bajas al Do sostenido grave en "you", "With your eyes", "too" y el último "stream". Cuenta con cruzarte con el lead, como hace un barítono de barbershop.
+- [Bajo](/songs/down-by-the-old-mill-stream/bass): cantas la línea del bajo, sobre todo en un La grave. Debajo del "old mill stream" del comienzo subes de La a Mi pasando por Do, y en "ging-" bajas a tu Mi más grave. Tu respuesta "sweet sixteen" se queda en un Fa grave.
 
 ## Preguntas
 
@@ -131,7 +131,7 @@ Sí, aunque se escribió para voz y piano. Sus primeras partituras ya traían un
 
 ### ¿Qué voz canta la melodía?
 
-El lead. En nuestro arreglo de barbershop, el lead lleva la melodía de Taylor, con el tenor por encima, el barítono completando el acorde y el bajo en las fundamentales, como en la página de cuarteto de la partitura, donde la melodía está en el segundo tenor [^scan1910]. El lead también canta "You were sixteen" en solitario antes de que respondan los demás.
+El lead. En nuestro arreglo de barbershop, el lead lleva la melodía de Taylor, con el tenor por encima, el barítono completando el acorde y el bajo en las notas graves de los acordes, como en la página de cuarteto de la partitura, donde la melodía está en el segundo tenor [^scan1910]. El lead también empieza en solitario "You were sixteen" antes de que respondan los demás.
 
 ## Canta después
 

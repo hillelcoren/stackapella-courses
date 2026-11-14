@@ -122,10 +122,10 @@ Our arrangement is read from John Reid's Songs of Scotland (New York, 1908), mov
 
 ## Singing it
 
-- [Soprano](/songs/loch-lomond/soprano): you carry the tune, from the D above middle C up to the E a ninth higher. Your top E comes on "banks" in every "On the bonnie, bonnie banks", on "me and" in each "me and my true love", on "afore" in both choruses, on "Lomon'" in "bright on Loch Lomon'" and "side o' Ben Lomon'", and on "purple" and "out" in the second verse. In the chorus the tune sinks to its lowest note, D, on "low road".
-- [Alto](/songs/loch-lomond/alto): you sing the words a sixth or a third under the tune, low and mostly on B and C. You go above F-sharp only in the second verse, on "Ben Lomon', Where in purple hue the", climbing to your top B on "Lomon', Where in": practise that phrase on its own.
-- [Tenor](/songs/loch-lomond/tenor): you sing in the middle of the chord, mostly on G, with E and A. You dip to low D on "shines bright" in the first verse and on "Scotland" in each chorus, and reach your top D only in the second verse, on "Ben Lomon', Where in".
-- [Bass](/songs/loch-lomond/bass): you sing the words on the roots, apart from five passing B's, and sit on a low G for more than half the song, like a drone. You move to C and D where the chords change: each verse and chorus ends on C, then G, then D on "Lo-" (on "gloam-" in the second verse) before home to G.
+- [Soprano](/songs/loch-lomond/soprano): you carry the tune, from the D above middle C up to the E a ninth higher. Your top E comes on "banks" in every "On the bonnie, bonnie banks", on "me and" in each "me and my true love", on the "-fore" of "afore" in both choruses, on the "Lo-" of "Lomon'" in "bright on Loch Lomon'" and "side o' Ben Lomon'", and on "purple" and "out" in the second verse. In the chorus the tune sinks to its lowest note, D, on "low road".
+- [Alto](/songs/loch-lomond/alto): you sing the words a sixth or a third under the tune, low and mostly on B and C. You go above F-sharp only in the second verse, on "Ben Lomon', Where in purple hue the", climbing to your top B on the "-mon'" of "Lomon'" and on "Where in": practise that phrase on its own.
+- [Tenor](/songs/loch-lomond/tenor): you sing in the middle of the chord, mostly on G, with E and A. You dip to low D on "shines bright" in the first verse and on the "Scot-" of "Scotland" in each chorus, and reach your top D only in the second verse, on "Ben", the "-mon'" of "Lomon'" and "Where in".
+- [Bass](/songs/loch-lomond/bass): you sing the words on the roots, apart from five passing B's, and sit on a low G for more than half the song, like a drone. You move to C and D where the chords change: each verse and chorus ends on C, then G, then D on "Lo-" (on "gloam-" in the second verse) before home to G; in the verses a passing B comes just before that D.
 
 ## Questions
 

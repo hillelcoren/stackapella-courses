@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: loch lomond significado | loch lomond historia | quién escribió loch lomond | loch lomond letra traducción | high road low road significado | cómo se pronuncia loch lomond
-translatedFrom: 8bac0be2b26a
+translatedFrom: 0b34d3b1ee7f
 original: Songs of Scotland, p. 228, Internet Archive | https://archive.org/details/songsofscotlands00unse/page/n249/mode/1up
 listen: National Jukebox, grabación de 1905 | https://www.loc.gov/item/jukebox-121041/
 ---
@@ -147,10 +147,10 @@ Nuestro arreglo está tomado de Songs of Scotland, de John Reid (Nueva York, 190
 
 ## Cómo cantarla
 
-- [Soprano](/songs/loch-lomond/soprano): cantas la melodía, desde el Re por encima del Do central hasta el Mi una novena más arriba. Tu Mi agudo llega en "banks" de cada "On the bonnie, bonnie banks", en "me and" de cada "me and my true love", en "afore" de los dos estribillos, en "Lomon'" de "bright on Loch Lomon'" y de "side o' Ben Lomon'", y en "purple" y "out" de la segunda estrofa. En el estribillo, la melodía baja a su nota más grave, Re, en "low road".
-- [Contralto](/songs/loch-lomond/alto): cantas la letra una sexta o una tercera por debajo de la melodía, grave y sobre todo en el Si y el Do. Solo pasas por encima de Fa sostenido en la segunda estrofa, en "Ben Lomon', Where in purple hue the", y subes hasta tu Si agudo en "Lomon', Where in": practica esa frase por separado.
-- [Tenor](/songs/loch-lomond/tenor): cantas en el centro del acorde, sobre todo en el Sol, con Mi y La. Bajas al Re grave en "shines bright" en la primera estrofa y en "Scotland" en cada estribillo, y solo llegas a tu Re agudo en la segunda estrofa, en "Ben Lomon', Where in".
-- [Bajo](/songs/loch-lomond/bass): cantas la letra en las fundamentales, salvo cinco Si de paso, y te quedas en un Sol grave durante más de la mitad de la canción, como un bordón. Pasas a Do y Re donde cambian los acordes: cada estrofa y cada estribillo terminan en Do, luego Sol, luego Re en "Lo-" (en "gloam-" en la segunda estrofa), antes de volver a casa, a Sol.
+- [Soprano](/songs/loch-lomond/soprano): cantas la melodía, desde el Re por encima del Do central hasta el Mi una novena más arriba. Tu Mi agudo llega en "banks" de cada "On the bonnie, bonnie banks", en "me and" de cada "me and my true love", en el "-fore" de "afore" de los dos estribillos, en el "Lo-" de "Lomon'" en "bright on Loch Lomon'" y en "side o' Ben Lomon'", y en "purple" y "out" de la segunda estrofa. En el estribillo, la melodía baja a su nota más grave, Re, en "low road".
+- [Contralto](/songs/loch-lomond/alto): cantas la letra una sexta o una tercera por debajo de la melodía, grave y sobre todo en el Si y el Do. Solo pasas por encima de Fa sostenido en la segunda estrofa, en "Ben Lomon', Where in purple hue the", y subes hasta tu Si agudo en el "-mon'" de "Lomon'" y en "Where in": practica esa frase por separado.
+- [Tenor](/songs/loch-lomond/tenor): cantas en el centro del acorde, sobre todo en el Sol, con Mi y La. Bajas al Re grave en "shines bright" en la primera estrofa y en el "Scot-" de "Scotland" en cada estribillo, y solo llegas a tu Re agudo en la segunda estrofa, en "Ben", en el "-mon'" de "Lomon'" y en "Where in".
+- [Bajo](/songs/loch-lomond/bass): cantas la letra en las fundamentales, salvo cinco Si de paso, y te quedas en un Sol grave durante más de la mitad de la canción, como un bordón. Pasas a Do y Re donde cambian los acordes: cada estrofa y cada estribillo terminan en Do, luego Sol, luego Re en "Lo-" (en "gloam-" en la segunda estrofa), antes de volver a casa, a Sol; en las estrofas, un Si de paso llega justo antes de ese Re.
 
 ## Preguntas
 

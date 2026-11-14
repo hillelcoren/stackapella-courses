@@ -128,10 +128,10 @@ The words differ between printings, and the record we have read does not settle 
 
 ## Singing it
 
-- [Soprano](/songs/will-ye-no-come-back-again/soprano): you carry the tune, from low C to high F. Four verse lines fall to the low C ("awa", "twa", "men", "glen"), and each next line leaps an octave up to C. The chorus's second line starts on your top F, "Will", and steps down. Two notes share "back" in the chorus, and "Char-" in verse 2 slides from A to G.
+- [Soprano](/songs/will-ye-no-come-back-again/soprano): you carry the tune, from low C to high F. Four verse lines fall to the low C (the "-wa" of "awa", "twa", "men", "glen"), and each next line leaps an octave up to C. The chorus's second line starts on your top F, "Will", and steps down. Two notes share "back" in the chorus, and "Char-" in verse 2 slides from A to G.
 - [Alto](/songs/will-ye-no-come-back-again/alto): you sing the words mostly a third or a sixth under the tune, between low A and the A above. "Safely owre", "Should he ne'er" and verse 2's "They trusted you" sit on that high A; most verse lines end on the low A. In verse 2 you reach "lie!" of "dear Charlie" a beat before the soprano and hold it on E; solo the two in the player to hear it.
 - [Tenor](/songs/will-ye-no-come-back-again/tenor): you fill in the chord, from low C to the D above middle C. "Safely owre the friendly main" is almost all on middle C, and after a pickup E, verse 2's "trusted in your Hieland men" is all on F. Your top D comes on the chorus's first "back". Each chorus ends on your low C, a fifth above the bass's F.
-- [Bass](/songs/will-ye-no-come-back-again/bass): you sing the roots, mostly F, B-flat and C, between low F and the F an octave up. "Bonnie Charlie's" sits on the low F, then "awa" climbs through B-flat to the high F. The chorus's last line walks down, D, A, low F, then C, A and the low F again.
+- [Bass](/songs/will-ye-no-come-back-again/bass): you sing the roots, mostly F, B-flat and C, between low F and the F an octave up. "Bonnie Charlie's" sits on the low F, then "now awa" climbs through B-flat to the high F. The chorus's last line comes down, D, A, low F, then C, A and the low F again.
 
 ## Questions
 

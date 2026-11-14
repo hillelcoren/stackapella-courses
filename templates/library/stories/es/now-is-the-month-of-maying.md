@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: now is the month of maying significado | now is the month of maying historia | quién escribió now is the month of maying | now is the month of maying letra en español | now is the month of maying thomas morley | now is the month of maying traducción
-translatedFrom: 56ee01fd4357
+translatedFrom: 4efc75878c32
 original: The First Booke of Balletts to Five Voyces de Thomas Morley (Londres: Thomas Este, 1595), microfilm de Early English Books, Internet Archive | https://archive.org/details/bim_early-english-books-1475-1640_the-first-booke-of-balle_morley-thomas-este_1595
 ---
 
@@ -113,9 +113,9 @@ Nuestro arreglo está tomado de la edición de E. H. Fellowes de 1913, con sus a
 
 ## Cómo cantarla
 
-- [Soprano](/songs/now-is-the-month-of-maying/soprano): llevas la melodía danzante de Morley, arriba en el Re agudo en "playing", en "his bonny lass" y en los fa las. Escucha el Do sostenido en "are", justo antes de "playing": tira hacia arriba, hacia el Re. En los fa las de la segunda mitad subes la escala desde el Re grave, una nota en cada medio pulso.
-- [Contralto](/songs/now-is-the-month-of-maying/alto): tu melodía va muy cerca por debajo de la soprano, sobre todo en el Sol y el Fa sostenido. Cuidado con los Fa becuadro: el primer "Fa la", "with" y "up-" están un semitono más abajo que tu Fa sostenido de siempre. Solo llegas a La en la segunda mitad, en "his bonny", "grass" y los fa las, subiendo por el Sol sostenido de "greeny".
-- [Tenor](/songs/now-is-the-month-of-maying/tenor): cantas las dos voces de tenor de Morley en una sola línea, sobre todo en el Re, y subes a Fa en "his". En "greeny grass" tienes Sol sostenido y luego Do sostenido, las notas brillantes de esos acordes. En los fa las de la segunda mitad bajas por grados conjuntos hasta tu Mi grave mientras las otras tres voces suben.
+- [Soprano](/songs/now-is-the-month-of-maying/soprano): llevas la melodía danzante de Morley, arriba en el Re agudo en "playing", en "his bon-" y "lass" y en los fa las. Escucha el Do sostenido en "are", justo antes de "playing": tira hacia arriba, hacia el Re. En los fa las de la segunda mitad subes la escala desde el Re grave, una nota en cada medio pulso.
+- [Contralto](/songs/now-is-the-month-of-maying/alto): tu melodía va muy cerca por debajo de la soprano, sobre todo en el Sol y el Fa sostenido. Cuidado con los Fa becuadro: el primer "Fa la", "with" y "up-" están un semitono más abajo que tu Fa sostenido de siempre. Solo llegas a La en la segunda mitad, en "his bon-" y en los fa las, saltando a él desde el Mi después de "grass".
+- [Tenor](/songs/now-is-the-month-of-maying/tenor): cantas las dos voces de tenor de Morley en una sola línea, con más frecuencia en el Re, y subes a Fa en "his". En el "-y" de "greeny" y en "grass" tienes Sol sostenido y luego Do sostenido, las notas brillantes de esos acordes. En los fa las de la segunda mitad bajas por grados conjuntos hasta tu Mi grave mientras la soprano sube.
 - [Bajo](/songs/now-is-the-month-of-maying/bass): eres la base, sobre todo Re y Sol, desde el Sol grave en "Now", "Maying" y "When" hasta La en "bonny". Después de "grass" empiezas los fa las el primero, con el tenor, y luego llevas la escala ascendente, Sol, La, Si, Do, Re, que la contralto y la soprano retoman a un pulso de distancia.
 
 ## Preguntas

@@ -15,7 +15,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: skye boat song significado | skye boat song letra original | quién escribió skye boat song | skye boat song historia | skye boat song letra en gaélico | skye boat song traducción
-translatedFrom: 32fc131eac20
+translatedFrom: 951e3f616bac
 original: Songs of the North, vol. I (reimpresión de Cramer), Internet Archive | https://archive.org/details/31761034118778
 ---
 
@@ -129,8 +129,8 @@ Nuestro arreglo toma la melodía, la letra y la armonía de Songs of the North, 
 ## Cómo cantarla
 
 - [Soprano](/songs/skye-boat-song/soprano): llevas la melodía, desde el Re por encima del Do central hasta el Re una octava más arriba. El estribillo tiene un ritmo con puntillo que se mece ("Speed bon-nie") y sube hasta tu Re agudo, sostenido, en "wing" y "king", y luego baja una quinta, de Si a Mi, en "sai-lors" y "sea to". La estrofa se mueve sobre todo en notas iguales, cada medio verso un grado más abajo que el anterior: "howl" en Si, "roar" en La, "rend the" en Sol, y luego una tercera más abajo, hasta Mi, en "air".
-- [Contralto](/songs/skye-boat-song/alto): te mueves en notas largas bajo la melodía, casi siempre una nota por cada compás o medio compás. En el estribillo empiezas en Si y lo sostienes durante "boat like a", y luego te quedas en Fa sostenido en "bird on the wing" mientras la melodía sube por encima de ti. En la estrofa bajas desde tu Sol agudo en "winds howl" y "waves leap" hasta tu Sol grave en "air", "dare", "bed" y "head".
-- [Tenor](/songs/skye-boat-song/tenor): te quedas sobre todo en Sol, la nota base. En el estribillo subes a Do en "bird on the" y "born to be", y te posas en La en "wing" y "king". En la estrofa bajas a tu Mi grave en "Thunderclaps", "stand by the shore" y "Flora will keep"; pon tu voz en solo en el reproductor para afinar esas bajadas.
+- [Contralto](/songs/skye-boat-song/alto): te mueves despacio bajo la melodía, sobre todo en una misma nota por cada compás o medio compás, una sílaba en cada nota. En el estribillo empiezas en Si y lo sostienes durante "boat like a", y luego te quedas en Fa sostenido en "bird on the wing" mientras la melodía sube por encima de ti. En la estrofa bajas desde tu Sol agudo en "winds howl" y "waves leap" hasta tu Sol grave en "air", "dare", "bed" y "head".
+- [Tenor](/songs/skye-boat-song/tenor): te quedas sobre todo en Sol, la nota base. En el estribillo subes a Do en "bird on the" y "born to be", y te posas en La en "wing" y "king". En la estrofa bajas a tu Mi grave en "Thunderclaps", "stand by the shore" y "Follow they" en la estrofa 1, y en "Ocean's a", "Flora will keep" y "Watch by your" en la estrofa 2; pon tu voz en solo en el reproductor para afinar esas bajadas.
 - [Bajo](/songs/skye-boat-song/bass): cantas el bordón de Lawson como una línea que se mueve: Sol grave, subes a Re en "bird on the", luego Do en "wing", Si en "onward the" y otra vez Do antes de volver a Sol en "cry". La estrofa empieza aguda, en Mi, en "Loud the winds howl", y cada mitad termina subiendo: Si, luego Re sostenido en "rend the", luego Mi en "air". Ese Re sostenido, la única nota de la canción fuera de la tonalidad, se inclina hacia el Mi; afínalo alto.
 
 ## Preguntas

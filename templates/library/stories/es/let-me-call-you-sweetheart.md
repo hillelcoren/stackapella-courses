@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: let me call you sweetheart historia | let me call you sweetheart significado | quién escribió let me call you sweetheart | let me call you sweetheart letra en español | quién cantó primero let me call you sweetheart
-translatedFrom: 75e63f7c8563
+translatedFrom: 11c1b9aa3d42
 original: Edición de Leo Friedman de 1910, Lilly Library, Indiana University | https://purl.dlib.indiana.edu/iudl/lilly/devincent/LL-SDV-244050
 listen: National Jukebox, grabación de 1911 | https://archive.org/details/loc-jukebox-646117-let-me-call-you-sweetheart || National Jukebox, grabación de 1924 | https://archive.org/details/loc-jukebox-71293-let-me-call-you-sweetheart-i-m-in-love-with-you
 ---
@@ -133,10 +133,10 @@ Nuestro arreglo toma la melodía y la letra del estribillo de la primera edició
 
 ## Cómo cantarla
 
-- [Soprano](/songs/let-me-call-you-sweetheart/soprano): llevas la melodía, un vals lento que reposa en una nota larga y mantenida al final de cada verso. Empieza subiendo desde el Re sostenido por encima del Do central, "Let me call you sweet-", y luego baja una sexta en "heart". Tu nota más aguda, un Mi agudo, llega una sola vez, en "I'm" del último verso, y el "you." final se mantiene durante dos compases enteros.
-- [Contralto](/songs/let-me-call-you-sweetheart/alto): cantas muy cerca por debajo de la melodía, a menudo una tercera más abajo, saltando entre las notas cálidas de cada acorde de barbershop. En el tercer verso mantienes una sola nota, Mi, durante "Let me hear you whis-per that you" mientras la melodía se mueve por encima; en "I'm in", en el último verso, cantas dos veces Do becuadro, una nota fuera de la tonalidad, bajo el Mi agudo y el Re sostenido de la melodía, así que afínalo con cuidado.
+- [Soprano](/songs/let-me-call-you-sweetheart/soprano): llevas la melodía, un vals lento que reposa en una nota larga y mantenida al final de cada dos versos. Empieza subiendo desde el Re sostenido por encima del Do central, "Let me call you sweet-", y luego baja una sexta en "heart". Tu nota más aguda, un Mi agudo, llega una sola vez, en "I'm" del último verso, y el "you." final se mantiene durante dos compases enteros.
+- [Contralto](/songs/let-me-call-you-sweetheart/alto): cantas muy cerca por debajo de la melodía, a menudo una tercera más abajo, saltando entre las notas cálidas de cada acorde de barbershop. Desde el tercer verso te quedas en una sola nota, Mi, durante "Let me hear you whis-per that you" mientras la melodía se mueve por encima; en "I'm in", en el último verso, cantas dos veces Do becuadro, una nota fuera de la tonalidad, bajo el Mi agudo y el Re sostenido de la melodía, así que afínalo con cuidado.
 - [Tenor](/songs/let-me-call-you-sweetheart/tenor): cantas la letra en el centro, sobre todo en el Fa sostenido, luego en el Si y el Do sostenido: una línea de ámbito estrecho, del Mi grave al Do sostenido. "Let me hear you" va en Do sostenido, con una bajada a La sostenido en "whis-"; en "too." bajas a tu nota más grave, Mi, la séptima del acorde, y terminas en Fa sostenido, mantenido durante dos compases.
-- [Bajo](/songs/let-me-call-you-sweetheart/bass): cantas la letra en la línea del bajo, manteniendo Si y Fa sostenido durante largos tramos bajo los acordes: Si durante "Let me call you sweet-", Fa sostenido grave durante "Let me hear you". En el primer "love with you.", y otra vez en "eyes so true.", bajas por Mi, Re sostenido y Do sostenido; terminas en Si, mantenido durante dos compases.
+- [Bajo](/songs/let-me-call-you-sweetheart/bass): cantas la letra en la línea del bajo, quedándote en Si o en Fa sostenido durante largos tramos bajo los acordes, una nota por sílaba: Si durante "Let me call you sweet-", Fa sostenido grave durante "Let me hear you". En el primer "love with you.", y otra vez en "eyes so true.", bajas por Mi, Re sostenido y Do sostenido; terminas en Si, mantenido durante dos compases.
 
 ## Preguntas
 

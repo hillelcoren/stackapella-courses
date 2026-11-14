@@ -18,7 +18,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the water is wide significado | the water is wide historia | quién escribió the water is wide | the water is wide letra traducida | o waly waly significado | the water is wide letra en español
-translatedFrom: 8d02f1d8c6d7
+translatedFrom: 7a0621cad7b8
 original: Folk Songs from Somerset, tercera serie (1906), p. 32, Internet Archive | https://archive.org/details/imslp-songs-from-somerset-sharp-cecil/SIBLEY1802.5603.14257.9a16-39087013594496thirdseries/page/n43/mode/1up
 ---
 
@@ -148,7 +148,7 @@ Nuestro arreglo toma la melodía y la letra de la impresión de 1906. Está en S
 
 ## Cómo cantarla
 
-- [Soprano](/songs/the-water-is-wide/soprano): llevas la melodía de la señora Cox, fluida y casi siempre por grados conjuntos, cantada dos veces. Empieza en un Re grave en "The" y sube una cuarta hasta Sol en "wa-". Tu nota más aguda, el Re una octava por encima de donde empezaste, llega una vez en cada estrofa, en "boat" y en "old". Los pequeños giros de dos notas ("to", "a", "car-ry") piden un toque ligero. En el último verso te quedas en el Re grave en "row, my love" ("-way like morn-" en nuestra segunda estrofa), y luego subes por Mi y Fa sostenido hasta descansar en Sol.
+- [Soprano](/songs/the-water-is-wide/soprano): llevas la melodía de la señora Cox, fluida y sobre todo por grados conjuntos, cantada dos veces. Empieza en un Re grave en "The" y sube una cuarta hasta Sol en "wa-". Tu nota más aguda, el Re una octava por encima de donde empezaste, llega una vez en cada estrofa, en "boat" y en "old". Los pequeños giros de dos notas ("to", "a", el "-ry" de "carry") piden un toque ligero. En el último verso te quedas en el Re grave en "row, my love" ("-way like morn-" en nuestra segunda estrofa), y luego subes por Mi y Fa sostenido hasta descansar en Sol.
 - [Contralto](/songs/the-water-is-wide/alto): cantas la letra por debajo de la melodía, casi siempre una tercera o una sexta más abajo, en solo seis notas, desde el Si por debajo del Do central hasta Sol. Buena parte de lo que cantas descansa en ese Si grave, como en "row, my love" y en el "dew." final. Tu Sol más agudo llega en "two," y en "cold,", bajo el Si de la melodía.
 - [Tenor](/songs/the-water-is-wide/tenor): cantas la letra en el centro, a menudo sosteniendo Sol mientras la melodía se mueve por encima, como en "The water is". Subes al Do central, tu nota más aguda, en los mismos lugares en las dos estrofas: en la primera, en "cannot", "fly", "will carry" y el "And" del último verso. Tu última nota baja a un Re grave, tu nota más grave, que solo cantas ahí, bajo el Sol final de la melodía.
 - [Bajo](/songs/the-water-is-wide/bass): cantas en "oo" (una u), en notas largas. La canción empieza con un Sol grave sostenido dos compases. De "boat" a "two" caminas por Si, Do y La, y luego subes a Mi, tu nota más aguda. Bajo "row, my love and" sostienes Re dos compases, bajo tres acordes distintos.

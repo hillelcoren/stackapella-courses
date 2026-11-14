@@ -96,7 +96,7 @@ Many later hymnals print the blessing without the sevenfold Amen [^phh][^hymnary
 - [Soprano](/songs/the-lord-bless-you/soprano): you sing the top line of the blessing, smooth and slow, climbing to E on "face". In the Amen you come in last, and your second Amen rises to the highest note of the piece, a G, before you fall back down the scale.
 - [Alto](/songs/the-lord-bless-you/alto): you sing under the soprano, mostly on C, E and D. "The Lord bless you and keep you" sits almost entirely on one C, so tune it to the bass. You are the third voice into the Amen.
 - [Tenor](/songs/the-lord-bless-you/tenor): you sing in the middle of the chord, mostly on C, A and B, and you start the sevenfold Amen alone, with the bass a beat behind you. Your top E comes in the middle of the Amen, held for three beats, and near the end you step down by half steps from A to F before landing on your low E.
-- [Bass](/songs/the-lord-bless-you/bass): you sing the lowest line, mostly on G, C and F, from a low F on "keep" up to middle C on "make" and in the Amen. After "countenance upon you" you sing "and give you peace" first, while the others hold "you", and they answer you. You are the second voice into the Amen.
+- [Bass](/songs/the-lord-bless-you/bass): you sing the lowest line, mostly on G, C and F, from a low F on "keep" up to middle C on "make" and in the Amen. After "countenance upon you" you sing "and give you peace" first, as the others finish "you" and rest, and they answer you. You are the second voice into the Amen.
 
 ## Questions
 

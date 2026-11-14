@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: quién escribió la paloma | la paloma significado | la paloma historia | la paloma de iradier | la paloma letra completa | la paloma habanera cuba
-translatedFrom: eedd9e78d6da
+translatedFrom: 433579a62aae
 original: La Paloma (Nueva York: Century Music, 1906), Internet Archive | https://archive.org/details/lapalomadovecanc00yrad
 listen: National Jukebox, grabación de 1902 | https://archive.org/details/loc-jukebox-422018-la-paloma || National Jukebox, grabación de 1903 | https://archive.org/details/loc-jukebox-117554-la-paloma
 ---
@@ -139,9 +139,9 @@ Nuestro arreglo es la estrofa 1 y el estribillo en español, en Do, como en la p
 
 ## Cómo cantarla
 
-- [Soprano](/songs/la-paloma/soprano): cantas la melodía. El primer verso sube en tresillos rápidos, Mi, Fa, Sol, La, Si, Do, en "sa-lí de la Ha-ba-na", y "Na-die" salta directamente hasta Re. En el último "¡ay!" del estribillo tocas tu Fa agudo, y luego "vi-vo yo" baja hasta el Do grave del final.
-- [Contralto](/songs/la-paloma/alto): cantas la letra una tercera o una sexta por debajo de la melodía, entre el Si grave y Sol. Mantente firme en Fa durante "que ven-te con mi-go" la primera vez, y en Sol la segunda.
-- [Tenor](/songs/la-paloma/tenor): cantas sobre todo Do y Sol. Todo el primer verso, hasta "Vál-ga-me", va en un solo Do, así que mantenlo brillante y afinado. En el estribillo subes a Re en "mor, ¡Ay! que ven-te con mi-go", tu nota más aguda.
+- [Soprano](/songs/la-paloma/soprano): cantas la melodía. El primer verso sube, en parte en tresillos rápidos, Mi, Fa, Sol, La, Si, Do, en "sa-lí de la Ha-ba-na", y "Na-die" salta directamente hasta Re. En el último "¡ay!" del estribillo tocas tu Fa agudo, y luego "vi-vo yo" baja hasta el Do grave del final.
+- [Contralto](/songs/la-paloma/alto): cantas la letra sobre todo una tercera o una sexta por debajo de la melodía, entre el Si grave y Sol. Mantente firme en Fa durante "que ven-te con mi-go" la primera vez, y en Sol la segunda.
+- [Tenor](/songs/la-paloma/tenor): cantas sobre todo Do y Sol. Todo el primer verso, hasta "Vál-ga-me", va en un solo Do, así que mantenlo brillante y afinado. En el estribillo subes a Re en "mor, ¡Ay! que ven-te con mi-go, Chi-", tu nota más aguda.
 - [Bajo](/songs/la-paloma/bass): tú eres la habanera. En "dm" cantas su patrón, una nota larga, una corta y luego dos iguales, en Do, Sol y Re, del Sol grave al Sol de arriba, con una respiración antes de cada verso. Mantenlo ligero y exacto; todos los demás se apoyan en él.
 
 ## Preguntas

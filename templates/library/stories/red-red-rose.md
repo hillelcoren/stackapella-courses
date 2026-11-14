@@ -115,9 +115,9 @@ Smith's same volume has a different red-rose song on page 74, "O gin my love wer
 
 ## Singing it
 
-- [Soprano](/songs/red-red-rose/soprano): you sing Smith's tune, middle C up to G. Practise the second line: on "O, my" you run up C, D, E, then drop a tenth to middle C for "love". "So deep in love" leaps from G up to F, and the next line reaches your top G on "And I will". You end on a long C.
+- [Soprano](/songs/red-red-rose/soprano): you sing Smith's tune, middle C up to G. Practise the second line: on "O, my" you run up C, D, E, then drop a tenth to middle C for "love". "So deep in love" leaps from G up to F, and the next line reaches your top G on the "And" and the "will" of "And I will". You end on a long C.
 - [Alto](/songs/red-red-rose/alto): you start on middle C, and on "love is" you share the tune's note. Then you move mostly a third or sixth below it, from the B below middle C to the B above. On the "I;" of "am I;" you rise to that B, breathe, and sing it again for a full beat on "And" while the tune sings G and F above. You end on E.
-- [Tenor](/songs/red-red-rose/tenor): your line lives on G and the C above it, within F to D. You step up to A on "bonnie lass" and "only love", and to D on the "I;" of "am I;" and the "-while!" of "awhile!", holding D a full beat on the "And" after. The low F comes once in each verse, on "seas" and on "thou-". You end on G.
+- [Tenor](/songs/red-red-rose/tenor): your line lives on G and the C above it, within F to D. You step up to A on "bonnie lass" and "only love", on "love" in "So deep in love" and on "weel" in "O fare thee weel awhile!", and to D on the "I;" of "am I;" and the "-while!" of "awhile!", holding D a full beat on the "And" after. The low F comes once in each verse, on "seas" and on "thou-". You end on G.
 - [Bass](/songs/red-red-rose/bass): you sing from low G to the G above. As the tune climbs back from middle C on "is like a", you walk down E, D, C beneath it. Lines end D, low G, C on "seas gang dry". The big moment is the "I;" of "am I;" on high G, then an octave drop to low G held for "And". You end on C.
 
 ## Questions
@@ -136,7 +136,7 @@ A simile: a comparison made with "like". The singer's love is like a rose newly 
 
 ### Which part sings the tune?
 
-The soprano sings the tune, Smith's Low down in the Broom [^smith]. With two singers you have the tune and the alto; with three, add the bass, which mostly sings the roots of the chords; the tenor makes four.
+The soprano sings the tune, Smith's Low down in the Broom [^smith]. With two singers you have the tune and the alto; with three, add the bass, which sings the bass line of Smith's chords; the tenor makes four.
 
 ## Sing next
 

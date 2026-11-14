@@ -158,9 +158,9 @@ Margit Frenk, as Gómez Mutio reports, counts ten different songs called Las ma�
 
 ## Singing it
 
-- [Soprano](/songs/las-mananitas/soprano): you sing the tune, in G and 3/4. Each verse opens with a leap, from the low D of "Es-tas" up a sixth to B on "son", and climbs to your top E on "Da-vid," ("Te-pic," in verse 2). In the refrain you leap again, from G on "Ya los" to four Es on "pa-ja-ri-llos". You end on B, not G.
+- [Soprano](/songs/las-mananitas/soprano): you sing the tune, in G and 3/4. Each verse opens with a leap, from the low D of "Es-tas" up a sixth to B on "son" ("A-ma-" to "-po-" in verse 2), and climbs to your top E on the "-vid," of "Da-vid," (the "-pic," of "Te-pic," in verse 2). In the refrain you leap again, from G on "Ya los" to four Es on "pa-ja-ri-llos". You end on B, not G.
 - [Alto](/songs/las-mananitas/alto): you sing close under the tune, from low B up to B. In the refrain you climb F-sharp, G, A, B on "mi bien, des-pier-", a third under the soprano, then stay on G under the soprano's four high Es on "pajarillos". Your last note is D.
-- [Tenor](/songs/las-mananitas/tenor): your part sits between G and D. You start on G, then sing eight notes on D through "-nitas que cantaba el rey Da-", and six on C for "Ya los pajarillos". Each second line ends stepping down C, A, G, as on "se es-con-dió"; solo it in the player to keep the repeated notes in tune.
+- [Tenor](/songs/las-mananitas/tenor): your part sits between G and D. You start on G, then sing eight notes on D through "-nitas que cantaba el rey Da-", and six on C for "Ya los pajarillos". Each second line ends coming down C, A, G, as on "se es-con-dió"; solo it in the player to keep the repeated notes in tune.
 - [Bass](/songs/las-mananitas/bass): you sing on G, A, C and D, the A under the D chords in the middle of each verse line. The verses stay mostly on low G. In the refrain you lift an octave, from low G on "Des-" through D to high G on "-pier-ta, Mi-" and "-ció". You end on low G.
 
 ## Questions

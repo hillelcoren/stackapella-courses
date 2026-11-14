@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: the lord bless you and keep you significado | the lord bless you and keep you historia | quién escribió the lord bless you and keep you | the lord bless you and keep you lutkin | bendición sacerdotal números 6 24 26 | jehová te bendiga y te guarde
-translatedFrom: d2483f139b87
+translatedFrom: 0f820934e13f
 original: Lutkin, The Lord Bless You and Keep You (Summy), Internet Archive | https://archive.org/details/TheLordBlessYouAndKeepYou_700
 ---
 
@@ -107,7 +107,7 @@ Muchos himnarios posteriores imprimen la bendición sin el Amén séptuple [^phh
 - [Soprano](/songs/the-lord-bless-you/soprano): cantas la línea superior de la bendición, fluida y lenta, y subes hasta Mi en "face". En el Amén entras la última, y tu segundo Amén sube a la nota más aguda de la obra, un Sol, antes de que vuelvas a bajar por la escala.
 - [Contralto](/songs/the-lord-bless-you/alto): cantas por debajo de la soprano, sobre todo en Do, Mi y Re. "The Lord bless you and keep you" se queda casi entera en un mismo Do, así que afínalo con el bajo. Eres la tercera voz en entrar en el Amén.
 - [Tenor](/songs/the-lord-bless-you/tenor): cantas en el centro del acorde, sobre todo en Do, La y Si, y empiezas solo el Amén séptuple, con el bajo un tiempo por detrás. Tu Mi más agudo llega en medio del Amén, sostenido tres tiempos, y cerca del final bajas por semitonos de La a Fa antes de llegar a tu Mi grave.
-- [Bajo](/songs/the-lord-bless-you/bass): cantas la línea más grave, sobre todo en Sol, Do y Fa, desde un Fa grave en "keep" hasta el Do central en "make" y en el Amén. Después de "countenance upon you" cantas tú primero "and give you peace", mientras los demás sostienen "you", y ellos te responden. Eres la segunda voz en entrar en el Amén.
+- [Bajo](/songs/the-lord-bless-you/bass): cantas la línea más grave, sobre todo en Sol, Do y Fa, desde un Fa grave en "keep" hasta el Do central en "make" y en el Amén. Después de "countenance upon you" cantas tú primero "and give you peace", mientras los demás terminan "you" y callan, y ellos te responden. Eres la segunda voz en entrar en el Amén.
 
 ## Preguntas
 

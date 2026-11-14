@@ -107,7 +107,7 @@ Nuestro arreglo es una estrofa en Sol y en 3/4, la tonalidad y el compás de las
 
 - [Soprano](/songs/happy-birthday/soprano): llevas la melodía que todo el mundo conoce, desde el Re por encima del Do central hasta el Re una octava más arriba. El gran momento es el tercer verso: "Hap-py" está en el Re grave y "birth-" salta una octava entera hasta el Re agudo, antes de que el verso baje hasta "dear friend", donde "friend" lleva dos notas. Luego el último verso empieza en Do y vuelve a casa; sostén el último "you" un compás entero.
 - [Contralto](/songs/happy-birthday/alto): cantas la letra casi siempre una tercera o una sexta por debajo de la melodía, en Si y Do la mayor parte del tiempo, grave y cómoda. Tu nota más grave, el La por debajo del Do central, llega en "day" en el segundo verso, y la más aguda, Mi, en "Hap-py", al principio del último verso.
-- [Tenor](/songs/happy-birthday/tenor): cantas la letra casi siempre en Sol, con Fa sostenido durante casi todo el segundo verso, una voz fácil de mantener. En el tercer verso subes a Si en "day, dear", y el último "you" baja a un Re grave, sostenido todo el compás.
+- [Tenor](/songs/happy-birthday/tenor): cantas la letra sobre todo en Sol, con Fa sostenido durante casi todo el segundo verso, una voz fácil de mantener. En el tercer verso subes a Si en "day, dear", y el último "you" baja a un Re grave, sostenido todo el compás.
 - [Bajo](/songs/happy-birthday/bass): sostienes la línea del bajo en "oo", solo nueve notas, casi todas largas, en Sol, Do y Re. Entras después de la anacrusa, bajo "birth-", en un Sol grave sostenido todo el compás; tu único Do llega bajo "friend", y terminas en el Sol grave.
 
 ## Preguntas
@@ -126,7 +126,7 @@ La canción y las velas tienen historias distintas. La canción se difundió com
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin. Con dos cantantes, la contralto se une casi siempre una tercera o una sexta por debajo; con tres, el bajo añade notas largas y graves en "oo"; con cuatro, el tenor rellena el centro, casi siempre en Sol. Todas las voces menos el bajo cantan la letra.
+La soprano canta la melodía de principio a fin. Con dos cantantes, la contralto se une casi siempre una tercera o una sexta por debajo; con tres, el bajo añade notas largas y graves en "oo"; con cuatro, el tenor rellena el centro, sobre todo en Sol. Todas las voces menos el bajo cantan la letra.
 
 ## Canta después
 

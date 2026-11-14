@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: greensleeves historia | greensleeves significado | quién escribió greensleeves | greensleeves enrique viii ana bolena | greensleeves letra traducción | greensleeves y what child is this
-translatedFrom: 43fa8a5bf021
+translatedFrom: 647cbf13c283
 original: A Handful of Pleasant Delights (1584), reimpresión de Arber, Internet Archive | https://archive.org/details/handfulofpleasan00robiuoft/page/n38/mode/1up
 ---
 
@@ -195,8 +195,8 @@ Nuestro arreglo toma la melodía y la armonía de Macfarren de la página 230 de
 ## Cómo cantarla
 
 - [Soprano](/songs/greensleeves/soprano): llevas la antigua melodía, desde Do sostenido hasta el Mi agudo en el primer y el tercer "Greensleeves" del estribillo. Escucha un cambio: en la estrofa, "love" gira sobre Re becuadro, pero en el estribillo "sleeves" baja desde Mi pasando por Re sostenido. "Discourteously" y "delight" terminan en tu Do sostenido grave.
-- [Contralto](/songs/greensleeves/alto): cantas la letra por debajo de la melodía, sobre todo en Do sostenido y La, con muchas notas repetidas. Subes a Fa sostenido en "Alas! my" y en "I have", te quedas abajo, en Sol sostenido, en "do me wrong" y "you so long", y subes a Mi en "my heart of" para bajar a Si en "gold".
-- [Tenor](/songs/greensleeves/tenor): toda tu línea cabe entre Mi y La, y se mueve sobre todo por grados conjuntos. Empiezas en La en "Alas! my love", y el estribillo arranca abajo, con cinco notas en Mi para "Greensleeves was all my". Cuidado con el Mi sostenido, medio tono por encima de tu Mi grave, en "-courteously" y en "my delight".
+- [Contralto](/songs/greensleeves/alto): cantas la letra por debajo de la melodía, sobre todo en Do sostenido y La, con muchas notas repetidas. Subes a Fa sostenido en el "-las!" de "Alas!", en "my" y en "I have", te quedas abajo, en Sol sostenido, en "do me wrong" y "you so long", y subes a Mi en "my heart of" para bajar a Si en "gold".
+- [Tenor](/songs/greensleeves/tenor): toda tu línea cabe entre Mi y La, y se mueve sobre todo por grados conjuntos. Empiezas en La en "Alas! my love", y el estribillo arranca abajo, con cinco notas en Mi para "Greensleeves was all my". Cuidado con el Mi sostenido, medio tono por encima de tu Mi grave, en el "-cour-" y el "-ly" de "discourteously" y en "my" y "-light" de "my delight".
 - [Bajo](/songs/greensleeves/bass): cantas la línea del bajo de Macfarren, sobre todo Mi, Do sostenido y Fa sostenido. El comienzo baja por Fa sostenido, Re y La en "Alas! my love". El final es el gran momento: después de "who but my" en Fa sostenido y "Lady" en Do sostenido, bajas al Fa sostenido grave bajo el último "Greensleeves".
 
 ## Preguntas

@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: las mañanitas historia | quién escribió las mañanitas | las mañanitas significado | las mañanitas del rey david | origen de las mañanitas | las mañanitas letra completa
-translatedFrom: 3a6e9fad744b
+translatedFrom: 74be82cbf5e5
 original: El laúd hispano-americano (Los Ángeles, 1921), ejemplar de la Library of Congress, Internet Archive | https://archive.org/details/ellaudhispanoame00sant
 ---
 
@@ -131,10 +131,10 @@ Margit Frenk, según recoge Gómez Mutio, cuenta diez canciones distintas llamad
 
 ## Cómo cantarla
 
-- [Soprano](/songs/las-mananitas/soprano): cantas la melodía, en Sol y en 3/4. Cada estrofa empieza con un salto, del Re grave de "Es-tas" una sexta arriba hasta el Si de "son", y sube hasta tu Mi agudo en "Da-vid," ("Te-pic," en la estrofa 2). En el estribillo vuelves a saltar, del Sol de "Ya los" a cuatro Mi en "pa-ja-ri-llos". Terminas en Si, no en Sol.
+- [Soprano](/songs/las-mananitas/soprano): cantas la melodía, en Sol y en 3/4. Cada estrofa empieza con un salto, del Re grave de "Es-tas" una sexta arriba hasta el Si de "son" ("A-ma-" a "-po-" en la estrofa 2), y sube hasta tu Mi agudo en el "-vid," de "Da-vid," (el "-pic," de "Te-pic," en la estrofa 2). En el estribillo vuelves a saltar, del Sol de "Ya los" a cuatro Mi en "pa-ja-ri-llos". Terminas en Si, no en Sol.
 - [Contralto](/songs/las-mananitas/alto): cantas muy cerca por debajo de la melodía, del Si grave al Si. En el estribillo subes Fa sostenido, Sol, La, Si en "mi bien, des-pier-", una tercera por debajo de la soprano, y luego te quedas en Sol bajo los cuatro Mi agudos de la soprano en "pajarillos". Tu última nota es Re.
 - [Tenor](/songs/las-mananitas/tenor): tu voz se mueve entre Sol y Re. Empiezas en Sol, luego cantas ocho notas en Re a lo largo de "-nitas que cantaba el rey Da-", y seis en Do en "Ya los pajarillos". Cada segundo verso termina bajando Do, La, Sol, como en "se es-con-dió"; escucha tu voz sola en el reproductor para mantener afinadas las notas repetidas.
-- [Bajo](/songs/las-mananitas/bass): cantas en Sol, La, Do y Re, el La bajo los acordes de Re en mitad de cada verso. Las estrofas se quedan casi siempre en el Sol grave. En el estribillo subes una octava, del Sol grave en "Des-", pasando por Re, hasta el Sol agudo en "-pier-ta, Mi-" y "-ció". Terminas en el Sol grave.
+- [Bajo](/songs/las-mananitas/bass): cantas en Sol, La, Do y Re, el La bajo los acordes de Re en mitad de cada verso. Las estrofas se quedan sobre todo en el Sol grave. En el estribillo subes una octava, del Sol grave en "Des-", pasando por Re, hasta el Sol agudo en "-pier-ta, Mi-" y "-ció". Terminas en el Sol grave.
 
 ## Preguntas
 
