@@ -70,7 +70,7 @@ El poema no tiene pesebre ni pastores; su tema es lo que el canto de los ángele
 
 **Estrofa 3.** Esta es la estrofa de la guerra. En los dos mil años transcurridos desde aquella noche, la gente ha seguido haciendo el mal bajo el "angel-strain" (la melodía de los ángeles), y "man, at war with man" (el hombre, en guerra con el hombre) no oye el canto de amor que traen. Los últimos versos son una súplica: que quienes pelean callen su ruido y escuchen [^register1849].
 
-**Estrofa 4.** Ahora el poema se dirige a los agotados: gente encorvada bajo "life's crushing load" (la carga aplastante de la vida), que sube por un camino duro "with painful steps and slow" (con pasos dolorosos y lentos). Llegan deprisa horas mejores, así que pueden descansar junto al camino y oír a los ángeles. En sus notas sobre el villancico, los metodistas británicos entienden que esta estrofa se dirige también a las personas esclavizadas y a los pobres, además de a los cansados [^methodist].
+**Estrofa 4.** Ahora el poema se dirige a los agotados: gente encorvada bajo "life's crushing load" (la carga aplastante de la vida), que sube por un camino duro "with painful steps and slow" (con pasos dolorosos y lentos). Llegan aprisa horas mejores, así que pueden descansar junto al camino y oír a los ángeles. En sus notas sobre el villancico, los metodistas británicos entienden que esta estrofa se dirige también a las personas esclavizadas y a los pobres, además de a los cansados [^methodist].
 
 **Estrofa 5.** Se acercan los días que anunciaron los "prophet bards" (los profetas, oídos como poetas), cuando el girar de los años traiga de vuelta la "age of gold", la edad de oro de los poetas antiguos. La paz se extenderá por toda la tierra, y el mundo devolverá el canto que hoy cantan los ángeles. Hymnology Archive remite a profecías como la de Isaías, en la que las naciones convierten sus espadas en rejas de arado [^hymnarchive][^kjv]. Algunos editores consideraron la edad de oro ajena a la Escritura y alteraron o suprimieron la estrofa, como hicieron el libro londinense de 1874 y nuestro libro de Boston de 1916 [^hymnarchive][^chwt1874][^hutchins1916].
 
@@ -144,7 +144,7 @@ con pasos dolorosos y lentos:
 > Look now! for glad and golden hours
 ¡que miren ahora!, pues horas alegres y doradas
 > Come swiftly on the wing,
-llegan volando deprisa.
+llegan volando aprisa.
 > O rest beside the weary road,
 ¡Oh, que descansen junto al camino cansado
 > And hear the angels sing!
@@ -152,7 +152,7 @@ y oigan cantar a los ángeles!
 
 **Estrofa 5**
 > For lo, the days are hastening on,
-Porque, mira, se acercan deprisa los días
+Porque, mira, se acercan aprisa los días
 > By prophet bards foretold,
 que anunciaron los poetas profetas,
 > When with the ever-circling years,
@@ -176,7 +176,7 @@ Los libros estadounidenses usan CAROL, de Willis: el United Methodist Hymnal lo 
 
 La mayoría de los himnarios imprimen cuatro de las cinco estrofas. Según Hymnary.org, la que más a menudo se omite es la de la guerra; Singing the Faith, de los metodistas británicos, como antes Hymns & Psalms, omite la cuarta [^hymnary-text][^methodist].
 
-Nuestro arreglo está tomado de las cuatro voces de Willis tal como las imprimió Charles L. Hutchins en Carols Old and Carols New (Boston, 1916), villancico 607, p. 491, en Si bemol y en 6/8, como en el libro [^hutchins1916]. La soprano canta la melodía de Willis y las demás voces están adaptadas para principiantes; es para 2 a 4 cantantes. Cantamos las estrofas 1 a 3 de las cuatro que imprime Hutchins, que son las estrofas 1, 2 y 4 de Sears; Hutchins empieza la tercera con "O ye" donde Sears escribe "And ye", y no imprime la estrofa de la guerra. Dejamos fuera su estrofa 4, una reescritura de la quinta de Sears que espera el día en que "the new heaven and earth shall own / The Prince of Peace their King" (el nuevo cielo y la nueva tierra reconocerán como su Rey al Príncipe de Paz) [^hutchins1916][^register1849].
+Nuestro arreglo parte de las cuatro voces de Willis tal como las imprimió Charles L. Hutchins en Carols Old and Carols New (Boston, 1916), villancico 607, p. 491, en Si bemol y en 6/8, como en el libro [^hutchins1916]. La soprano canta la melodía de Willis y las demás voces están adaptadas para principiantes; es para 2 a 4 cantantes. Cantamos las estrofas 1 a 3 de las cuatro que imprime Hutchins, que son las estrofas 1, 2 y 4 de Sears; Hutchins empieza la tercera con "O ye" donde Sears escribe "And ye", y no imprime la estrofa de la guerra. Dejamos fuera su estrofa 4, una reescritura de la quinta de Sears que espera el día en que "the new heaven and earth shall own / The Prince of Peace their King" (el nuevo cielo y la nueva tierra reconocerán como su Rey al Príncipe de Paz) [^hutchins1916][^register1849].
 
 ## Versiones y otras letras
 

@@ -44,7 +44,7 @@ En su historia de la música judía de 1929, A. Z. Idelsohn solo encontró en Ma
 - 1724: Benedetto Marcello, en Venecia, imprime otra melodía, con la que los judíos asquenazíes de la ciudad cantaban Maoz Tzur. [^je][^ej][^idel29]
 - 1815: Las Hebrew Melodies de Isaac Nathan, en Londres, recogen la primera impresión conocida de la melodía que se canta hoy, con la letra de Byron. [^ej][^je]
 - 1897: El Union Hymnal de la Central Conference of American Rabbis imprime la melodía con el himno inglés "Rock of Ages, let our song". [^uh1897][^je]
-- 1911 a 1912: El Sefer ha-Shirim de A. Z. Idelsohn, un cancionero hebreo para escuelas fechado en 5672, la imprime a dos y tres voces; nuestro arreglo está tomado de esa página. [^id1912]
+- 1911 a 1912: El Sefer ha-Shirim de A. Z. Idelsohn, un cancionero hebreo para escuelas fechado en 5672, la imprime a dos y tres voces; nuestro arreglo parte de esa página. [^id1912]
 
 ## Qué dice la letra
 
@@ -158,7 +158,7 @@ Aparta al rojo a la sombra de Tzalmón; levanta para nosotros a los siete pastor
 
 Maoz Tzur pertenece al rito asquenazí, donde se canta tras el encendido de las luces de Janucá, en casa y en la sinagoga.[^je][^ej] La Encyclopaedia Judaica señala que las sinagogas reformistas y conservadoras también cantan Rock of Ages, en inglés, junto al hebreo o en su lugar.[^ej][^uh1897]
 
-Nuestro arreglo está tomado de la página 77 del Sefer ha-Shirim de A. Z. Idelsohn, un cancionero para escuelas hebreas publicado en Berlín y Jerusalén y fechado en 5672, es decir, 1911 a 1912, donde es el n.º 83, en Mi mayor, en 4/4. Junto a "neima mekubala" indica el movimiento halicha bechazaka, más o menos "a paso firme".[^id1912] Cantamos las estrofas 1 y 5, para 2 a 4 cantantes, con cuatro voces escritas a partir de la armonía a dos y tres voces del libro. La letra va en pronunciación israelí moderna, acorde con el libro: su prefacio critica a los cancioneros anteriores por usar el acento asquenazí, que no podían seguir los alumnos de Oriente, de pronunciación sefardí.[^id1912]
+Nuestro arreglo parte de la página 77 del Sefer ha-Shirim de A. Z. Idelsohn, un cancionero para escuelas hebreas publicado en Berlín y Jerusalén y fechado en 5672, es decir, 1911 a 1912, donde es el n.º 83, en Mi mayor, en 4/4. Junto a "neima mekubala" indica el movimiento halicha bechazaka, más o menos "a paso firme".[^id1912] Cantamos las estrofas 1 y 5, para 2 a 4 cantantes, con cuatro voces escritas a partir de la armonía a dos y tres voces del libro. La letra va en pronunciación israelí moderna, acorde con el libro: su prefacio critica a los cancioneros anteriores por usar el acento asquenazí, que no podían seguir los alumnos de Oriente, de pronunciación sefardí.[^id1912]
 
 ![[2]]
 

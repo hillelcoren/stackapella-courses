@@ -160,7 +160,7 @@ el día de Navidad por la mañana.
 
 Es un villancico para el propio día de Navidad: sus estrofas terminan "On Christmas day in the morning" (el día de Navidad por la mañana), o algo muy parecido, en todas las versiones impresas que citamos aquí [^sandys1833][^husk1868][^sharp1911]. En el siglo XIX se vendía en pliegos sueltos, a menudo en el mismo pliego que God Rest You Merry, Gentlemen y The Seven Joys of Mary [^husk1868][^obc1928]. La primera versión de Sharp se la dio una persona que había vivido en Wotton-under-Edge, en Gloucestershire, y que la cantaba como la habían cantado los niños del pueblo muchos años antes [^sharp1911].
 
-Nuestro arreglo está tomado del n.º 64 de la edición completa de Bramley y Stainer [^ccno-complete]. Ese ejemplar no tiene fecha, y su portada nombra a "Sir John Stainer", así que se imprimió después de que lo nombraran caballero [^ccno-complete][^dnb-stainer]. Cantamos las estrofas 1, 2, 3 y 9, en Sol, como en la impresión: los barcos, la pregunta, la respuesta y la llamada a la alegría. La soprano canta la melodía, y la contralto, el tenor y el bajo están adaptados de la armonía de Stainer.
+Nuestro arreglo parte del n.º 64 de la edición completa de Bramley y Stainer [^ccno-complete]. Ese ejemplar no tiene fecha, y su portada nombra a "Sir John Stainer", así que se imprimió después de que lo nombraran caballero [^ccno-complete][^dnb-stainer]. Cantamos las estrofas 1, 2, 3 y 9, en Sol, como en la impresión: los barcos, la pregunta, la respuesta y la llamada a la alegría. La soprano canta la melodía, y la contralto, el tenor y el bajo están adaptados de la armonía de Stainer.
 
 ## Versiones y otras letras
 

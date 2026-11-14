@@ -43,7 +43,7 @@ William J. Kirkpatrick (1838 a 1921) era un músico de iglesia de Filadelfia, di
 
 ![[2]]
 
-Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra fuera de Estados Unidos [^hill]. En 1905, la Sunday School Union de Londres la imprimió en el Sunday School Hymnary de Carey Bonner, con la indicación "Children in Unison. Softly. Not too quickly." (niños al unísono, suave, no demasiado deprisa) y la presentó como "Translated from Martin Luther" (traducido de Martín Lutero) [^bonner1905].
+Hill comprobó que la versión de Kirkpatrick fue la primera que llevó la letra fuera de Estados Unidos [^hill]. En 1905, la Sunday School Union de Londres la imprimió en el Sunday School Hymnary de Carey Bonner, con la indicación "Children in Unison. Softly. Not too quickly." (niños al unísono, suave, no demasiado aprisa) y la presentó como "Translated from Martin Luther" (traducido de Martín Lutero) [^bonner1905].
 
 ![[3]]
 
@@ -109,7 +109,7 @@ Desde el principio fue un villancico para niños pequeños: un recitado en 1883,
 
 La melodía de Kirkpatrick se llama CRADLE SONG, y la de Murray, MUELLER, aunque los libros también llaman a cualquiera de las dos AWAY IN A MANGER [^phh-tunes][^canterbury][^iph2004]. Common Praise (1998), de la Iglesia Anglicana de Canadá, y The Irish Presbyterian Hymnbook (2004) imprimen la de Kirkpatrick [^cp1998][^iph2004]. Los libros estadounidenses varían: The United Methodist Hymnal (1989) usa la de Murray, el Hymnal 1982 episcopaliano usa la de Kirkpatrick, y el Psalter Hymnal de la Christian Reformed Church imprime las dos [^umh1989][^eh1982][^phh-tunes].
 
-Nuestro arreglo está tomado de The Church Hymnal Revised, editado por Charles L. Hutchins (Boston, 1920), n.º 643, MANGER, entre sus himnos "For Younger Children" (para los más pequeños), donde la melodía de Kirkpatrick y su segunda voz están impresas en Fa; las transportamos un tono más arriba, a Sol [^hutchins1920]. Allí sus dos voces coinciden con las del Joy and Praise del propio Kirkpatrick, con el que lo cotejamos [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que fluya mejor. El tenor y el bajo son nuestros, escritos sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
+Nuestro arreglo parte de The Church Hymnal Revised, editado por Charles L. Hutchins (Boston, 1920), n.º 643, MANGER, entre sus himnos "For Younger Children" (para los más pequeños), donde la melodía de Kirkpatrick y su segunda voz están impresas en Fa; las transportamos un tono más arriba, a Sol [^hutchins1920]. Allí sus dos voces coinciden con las del Joy and Praise del propio Kirkpatrick, con el que lo cotejamos [^jp1908]. La soprano canta su melodía y la contralto su segunda voz, con once notas cambiadas para que fluya mejor. El tenor y el bajo son nuestros, escritos sobre su armonía. Cantamos la primera estrofa para 2 a 4 cantantes, lenta y suave.
 
 ## Versiones y otras letras
 

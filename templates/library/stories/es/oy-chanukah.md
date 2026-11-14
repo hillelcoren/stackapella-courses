@@ -46,7 +46,7 @@ El prefacio de Kisselgof explica por qué. Los maestros escribían una y otra ve
 - 1913: Muere Pesach Lvov, que arregló la canción; la nota de Kisselgof en su memoria fecha su muerte el 22 de febrero. [^k4][^penn]
 - 1914: La segunda edición, ampliada, lleva la nota de Kisselgof en memoria de Lvov, fechada en enero de 1914; el Yiddish Leksikon fecha esa edición en 1913. [^k4][^leksk]
 - 1922: Miembros del círculo de la Sociedad fundan en Berlín Juwal, una editorial de música judía. [^idel29][^jmrc]
-- 1923: Aparece en Berlín la cuarta edición de Juwal; nuestro arreglo está tomado de ella. [^penn][^leksk]
+- 1923: Aparece en Berlín la cuarta edición de Juwal; nuestro arreglo parte de ella. [^penn][^leksk]
 
 ## Qué dice la letra
 
@@ -130,7 +130,7 @@ Janucá empieza el 25 de Kislev y dura ocho días. Recuerda la nueva dedicación
 
 Oy Chanukah no es una oración, sino una canción de esas noches, hecha para la escuela y la familia.[^k4]
 
-Nuestro arreglo está tomado de la cuarta edición del cancionero, publicada en Berlín por Juwal (n.º 24, página 32), en Fa menor y en 2/4, como está impreso, a 80 pulsos por minuto, un poco más lento que los 88 del libro.[^k4] Es para 2 a 4 cantantes, cantado en ídish: estrofa 1, estrofa 2 y otra vez la estrofa 1. La soprano y la contralto cantan las dos voces impresas con el nombre de Lvov. El tenor y el bajo salen de la mano izquierda del piano: el tenor canta la letra, y el bajo canta un "dm" corto bajo los demás, y solo se suma a la letra al final de cada estrofa. En la estrofa 2 algunas notas se reparten en notas repetidas para que quepan las sílabas de más.
+Nuestro arreglo parte de la cuarta edición del cancionero, publicada en Berlín por Juwal (n.º 24, página 32), en Fa menor y en 2/4, como está impreso, a 80 pulsos por minuto, un poco más lento que los 88 del libro.[^k4] Es para 2 a 4 cantantes, cantado en ídish: estrofa 1, estrofa 2 y otra vez la estrofa 1. La soprano y la contralto cantan las dos voces impresas con el nombre de Lvov. El tenor y el bajo salen de la mano izquierda del piano: el tenor canta la letra, y el bajo canta un "dm" corto bajo los demás, y solo se suma a la letra al final de cada estrofa. En la estrofa 2 algunas notas se reparten en notas repetidas para que quepan las sílabas de más.
 
 ## ¿Sabías que...?
 

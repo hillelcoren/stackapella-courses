@@ -164,7 +164,7 @@ The English Hymnal y la página del texto en Hymnary.org dicen que su métrica e
 
 Las estrofas que canta cada iglesia dependen de su libro. El Hymnal 1982 de la Iglesia episcopal (n.º 112) y The United Methodist Hymnal (n.º 221) imprimen cuatro y dejan fuera la tercera, la del "breastful of milk" [^eh1982][^umh1989]. Algunos libros imprimen solo la última estrofa, como "What Can I Give Him?" [^hymnary-text].
 
-Nuestro arreglo está tomado de la primera edición de The English Hymnal (1906), n.º 25, con el encabezamiento "CRANHAM. (Irreg.)": la melodía que Holst compuso y armonizó para el libro, en Fa y en 4/4, como está impresa [^eh1906]. La soprano canta la melodía de Holst, y sus voces de contralto, tenor y bajo están adaptadas para 2 a 4 principiantes. Cantamos tres de las cinco estrofas de Rossetti, sus estrofas 1, 2 y 5, con su numeración, así que la tercera se llama Estrofa 5. Dejamos fuera su estrofa 3, la que suprimen muchos himnarios, y su estrofa 4, la de los ángeles y el beso de su madre [^eh1906][^hymnary-text].
+Nuestro arreglo parte de la primera edición de The English Hymnal (1906), n.º 25, con el encabezamiento "CRANHAM. (Irreg.)": la melodía que Holst compuso y armonizó para el libro, en Fa y en 4/4, como está impresa [^eh1906]. La soprano canta la melodía de Holst, y sus voces de contralto, tenor y bajo están adaptadas para 2 a 4 principiantes. Cantamos tres de las cinco estrofas de Rossetti, sus estrofas 1, 2 y 5, con su numeración, así que la tercera se llama Estrofa 5. Dejamos fuera su estrofa 3, la que suprimen muchos himnarios, y su estrofa 4, la de los ángeles y el beso de su madre [^eh1906][^hymnary-text].
 
 ## Versiones y otras letras
 

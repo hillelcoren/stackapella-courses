@@ -152,7 +152,7 @@ Sí. Es la pista 8 del álbum de la banda sonora de la película de 2000, editad
 
 ### ¿Keep on the Sunny Side es de dominio público?
 
-La canción sí: la letra y la música se publicaron en Estados Unidos en 1899, y las obras publicadas allí antes de 1931 son de dominio público [^bm1899][^cornell]. Las grabaciones son otra cosa. Una grabación estadounidense de esa época está protegida durante 100 años desde su primera publicación, así que el disco de la Carter Family, grabado en 1928 y editado en 1928 o 1929 (las fuentes difieren), sigue protegido hasta finales de 2028 o de 2029 [^copyright-office][^cornell]. Nuestro arreglo está tomado de la impresión de 1900.
+La canción sí: la letra y la música se publicaron en Estados Unidos en 1899, y las obras publicadas allí antes de 1931 son de dominio público [^bm1899][^cornell]. Las grabaciones son otra cosa. Una grabación estadounidense de esa época está protegida durante 100 años desde su primera publicación, así que el disco de la Carter Family, grabado en 1928 y editado en 1928 o 1929 (las fuentes difieren), sigue protegido hasta finales de 2028 o de 2029 [^copyright-office][^cornell]. Nuestro arreglo parte de la impresión de 1900.
 
 ### ¿Qué voz canta la melodía?
 

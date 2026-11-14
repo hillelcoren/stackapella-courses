@@ -51,13 +51,13 @@ No está claro de dónde viene la melodía. La Jewish Encyclopedia la tenía por
 - 1677: Friedrich Albrecht Christiani, que había sido cantor en Bruchsal, imprime en Leipzig una segunda forma de la melodía. [^idel29][^jechristiani]
 - 1769: Der Jude, de Gottfried Selig, en Leipzig, imprime la melodía con letra alemana, casi como se cantaba en el norte de Alemania en 1901. [^je][^idel29]
 - 1897: El Union Hymnal une el himno inglés de Gustav Gottheil "God of Might, God of Right" a esta melodía. [^uh1897][^hymnary]
-- 1923: La Union Haggadah revisada imprime "Addir Hu" en hebreo, para voz y piano; nuestro arreglo está tomado de esa página. [^uh1923]
+- 1923: La Union Haggadah revisada imprime "Addir Hu" en hebreo, para voz y piano; nuestro arreglo parte de esa página. [^uh1923]
 
 ## Qué dice la letra
 
 El título es el comienzo del himno: adir es "poderoso" y hu, "él": "Él es poderoso".[^sefaria] El himno completo tiene ocho estrofas. La primera tiene una sola palabra, para la letra álef, y las otras siete, tres cada una, de modo que los nombres avanzan desde bet hasta tav, la última letra.[^je][^sefaria] La Union Haggadah, cuya versión cantamos, imprime tres estrofas con nombres tomados de todo el himno, y cada una respeta el orden del alfabeto.[^uh1923][^sefaria]
 
-**El estribillo, en cada estrofa.** Yivne veito bekarov: que construya pronto Su casa. Bimhera, bimhera, beyameinu bekarov: deprisa, deprisa, en nuestros días, pronto. Kel bene, Kel bene, b'ne veitcha bekarov: Hashem, construye; Hashem, construye; construye pronto Tu casa.[^sefaria] Su casa es el Templo de Jerusalén.[^ej][^je][^idel29]
+**El estribillo, en cada estrofa.** Yivne veito bekarov: que construya pronto Su casa. Bimhera, bimhera, beyameinu bekarov: aprisa, aprisa, en nuestros días, pronto. Kel bene, Kel bene, b'ne veitcha bekarov: Hashem, construye; Hashem, construye; construye pronto Tu casa.[^sefaria] Su casa es el Templo de Jerusalén.[^ej][^je][^idel29]
 
 **Estrofa 1.** Adir hu: Él es poderoso. El libro lo imprime dos veces, y nuestra melodía lo canta una tercera vez para llenar los compases que en las otras estrofas ocupan tres nombres.[^uh1923]
 
@@ -79,7 +79,7 @@ Estas son las ocho estrofas de la Hagadá de Sefaria (el texto de Da'at), con la
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -92,7 +92,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -105,7 +105,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -118,7 +118,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -131,7 +131,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -144,7 +144,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -157,7 +157,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -170,7 +170,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 que construya pronto Su casa.
 > בִּמְהֵרָה, בִּמְהֵרָה, בְּיָמֵינוּ בְּקָרוֹב.
 *Bimhera, bimhera, beyameinu bekarov.*
-Deprisa, deprisa, en nuestros días, pronto.
+Aprisa, aprisa, en nuestros días, pronto.
 > קֵל בְּנֵה, קֵל בְּנֵה, בְּנֵה בֵיתְךָ בְּקָרוֹב.
 *Kel bene, Kel bene, b'ne veitcha bekarov.*
 Hashem, construye, Hashem, construye, construye pronto Tu casa.
@@ -179,7 +179,7 @@ Hashem, construye, Hashem, construye, construye pronto Tu casa.
 
 Adir Hu es sobre todo un canto del séder asquenazí. En el orden tradicional va después de los salmos del Hallel y de las palabras que cierran el rito: primero Ki Lo Na'eh, luego Adir Hu, y más tarde Echad Mi Yodea, la canción de contar, y Chad Gadya.[^sefaria][^ej] La Union Haggadah del movimiento reformista mantiene los cantos después de la cuarta copa de vino, pero pone Adir Hu antes de Ki Lo Na'eh.[^uh1923] La Jewish Encyclopedia pensaba que la melodía cambió poco una vez que tomó esta forma, porque una familia sentada a la mesa, niños incluidos, podía cantarla sin los giros difíciles del canto de sinagoga.[^je]
 
-Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí lleva el encabezado "Chorus" (coro), la indicación Maestoso y la nota "Traditional" (tradicional), en Do mayor y en 4/4, para voz y piano.[^uh1923] Lo cantamos a un tempo majestuoso, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "yivneh veso b'korov"; nosotros lo pasamos a la pronunciación israelí moderna, así que "b'korov" pasa a ser "bekarov".[^uh1923] Cantamos sus tres estrofas para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Hemos marcado dos respiraciones breves para principiantes.
+Nuestro arreglo parte de la página 81 de la Union Haggadah, edición revisada, publicada por la Central Conference of American Rabbis en 1923. Allí lleva el encabezado "Chorus" (coro), la indicación Maestoso y la nota "Traditional" (tradicional), en Do mayor y en 4/4, para voz y piano.[^uh1923] Lo cantamos a un tempo majestuoso, con cuatro voces nuestras; la parte de piano solo sirvió para comprobar los acordes. El libro escribe el hebreo a la manera asquenazí, "yivneh veso b'korov"; nosotros lo pasamos a la pronunciación israelí moderna, así que "b'korov" pasa a ser "bekarov".[^uh1923] Cantamos sus tres estrofas para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Hemos marcado dos respiraciones breves para principiantes.
 
 ![[4]]
 
@@ -199,7 +199,7 @@ Nuestro arreglo está tomado de la página 81 de la Union Haggadah, edición rev
 
 ### ¿Qué significa Adir Hu?
 
-"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Hashem de la misma manera, con nombres como elegido, grande y santo, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, deprisa, en nuestros días.[^sefaria][^je][^ej]
+"Él es poderoso". Adir significa poderoso y hu significa él. El resto del himno nombra a Hashem de la misma manera, con nombres como elegido, grande y santo, en el orden del alfabeto hebreo, y cada estrofa pide: que construya Su casa, el Templo, pronto, aprisa, en nuestros días.[^sefaria][^je][^ej]
 
 ### ¿Hay una versión en inglés de Adir Hu?
 

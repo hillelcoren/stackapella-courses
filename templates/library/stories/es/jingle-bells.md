@@ -142,7 +142,7 @@ en un trineo abierto de un solo caballo;
 > He laughed as there I sprawling lie,
 se rio mientras yo estaba allí tendido,
 > But quickly drove away.
-pero se alejó deprisa.
+pero se alejó aprisa.
 
 **Estrofa 4 (la estrofa 3 en 1909)**
 > Now the ground is white;

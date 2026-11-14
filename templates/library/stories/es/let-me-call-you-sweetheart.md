@@ -150,7 +150,7 @@ Sí. Se publicó en Estados Unidos en 1910, y todas las obras publicadas allí a
 
 ### ¿De qué género es Let Me Call You Sweetheart?
 
-Es una canción popular de Tin Pan Alley, una canción de amor en tiempo de vals, escrita para voz y piano y marcada Moderato, en 3/4 [^sager][^lilly1910][^loc-work]. Su editor la publicó también para cuarteto masculino y mixto, orquesta y banda, y su grabación temprana más conocida, de 1911, es de un cuarteto masculino [^rossiter1925][^byu][^sager][^locblog].
+Es una canción popular de Tin Pan Alley, una canción de amor en tiempo de vals, escrita para voz y piano y con la indicación Moderato, en 3/4 [^sager][^lilly1910][^loc-work]. Su editor la publicó también para cuarteto masculino y mixto, orquesta y banda, y su grabación temprana más conocida, de 1911, es de un cuarteto masculino [^rossiter1925][^byu][^sager][^locblog].
 
 ### ¿Cuándo fue popular Let Me Call You Sweetheart?
 

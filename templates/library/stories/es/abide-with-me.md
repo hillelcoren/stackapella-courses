@@ -61,7 +61,7 @@ El 11 de octubre de 1915, la víspera de la ejecución en Bruselas de la enferme
 
 Lyte encabezó el himno con Lucas 24:29: "Quédate con nosotros, porque se hace tarde, y el día ya ha declinado" [^remains1850][^kjv]. Son las palabras que dos discípulos, camino de Emaús, dirigen a Jesús resucitado antes de reconocerlo. "Abide" significa quedarse; "eventide", el anochecer. El himnólogo John Ellerton señaló en 1881 que se clasifica entre los himnos de la tarde por sus dos primeros versos, pero que en ningún momento habla del final del día natural, porque las palabras de Lucas son una metáfora de principio a fin, y que encaja mejor en los funerales [^julian]. Un libro de 1889 lo entiende igual: Lyte pensaba "en el anochecer de la vida" [^romance1889].
 
-1. La noche cae deprisa; cuando cualquier otra ayuda y todo consuelo fallan, quédate conmigo.
+1. La noche cae aprisa; cuando cualquier otra ayuda y todo consuelo fallan, quédate conmigo.
 2. El "little day" (pequeño día) de la vida se retira como la marea y sus alegrías se apagan. Todo cambia; Dios no.
 3. No una mirada de paso: quédate como Jesús se quedó con sus discípulos, "familiar, condescending", que en el sentido antiguo significa bajar con bondad hasta su altura. "Sojourn": una estancia breve.
 4. No como un temible Rey de reyes, sino amable, "with healing in Thy wings" (con salud en tus alas), una expresión de Malaquías, y como el "Friend of sinners" (amigo de pecadores), un nombre que se da a Jesús en Mateo [^kjv]. "Bide" significa quedarse.
@@ -78,7 +78,7 @@ Estas son las ocho estrofas de Lyte. Las estrofas 1, 2 y 6 a 8 son como las impr
 
 **Estrofa 1**
 > Abide with me; fast falls the even-tide;
-Quédate conmigo; el anochecer cae deprisa;
+Quédate conmigo; el anochecer cae aprisa;
 > The darkness deepens; Lord, with me abide;
 la oscuridad se hace más honda; Señor, quédate conmigo;
 > When other helpers fail, and comforts flee,
@@ -88,7 +88,7 @@ ayuda de los que no tienen ayuda, oh, quédate conmigo.
 
 **Estrofa 2**
 > Swift to its close ebbs out life's little day;
-Deprisa hacia su final se retira, como la marea, el pequeño día de la vida;
+Aprisa hacia su final se retira, como la marea, el pequeño día de la vida;
 > Earth's joys grow dim, its glories pass away;
 las alegrías de la tierra se apagan, sus glorias pasan;
 > Change and decay in all around I see;

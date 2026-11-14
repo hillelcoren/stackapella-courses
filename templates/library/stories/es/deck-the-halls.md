@@ -109,7 +109,7 @@ fa la la la la, la la la la.
 
 **Estrofa 3**
 > Fast away the old year passes
-El año viejo se va deprisa,
+El año viejo se va aprisa,
 > Fa la la la la, la la la la.
 fa la la la la, la la la la.
 > Hail the new, ye lads and lasses,
@@ -163,7 +163,7 @@ mientras canto el tesoro de la belleza.
 
 **Estrofa 3 de Oliphant (1862)**
 > Fast away the old year passes,
-El año viejo se va deprisa,
+El año viejo se va aprisa,
 > Fa, la, la, la, la, la, la, la, la!
 ¡fa, la, la, la, la, la, la, la, la!
 > Hail the new, ye lads and lasses:
@@ -183,7 +183,7 @@ sin hacer caso del viento ni del tiempo.
 
 Se canta en Navidad, y su última estrofa es de la víspera de Año Nuevo, la noche a la que se refiere su nombre galés [^hullah1866][^jones1794]. La página de Hullah de 1866 dice "Repeat in Chorus" (repetir en coro) [^hullah1866].
 
-Nuestro arreglo está tomado de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, y todas las voces cantan la letra. Hemos cambiado once notas para que el dúo tenga sus terceras en la mayoría de los tiempos, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
+Nuestro arreglo parte de las cuatro voces del Golden Book en la página 66, impresas en Fa y cantadas aquí un tono más abajo, en Mi bemol [^golden1923]. Cantamos la primera estrofa para 2 a 4 cantantes, con un aire brillante y rápido, y todas las voces cantan la letra. Hemos cambiado once notas para que el dúo tenga sus terceras en la mayoría de los tiempos, la contralto sostenga un Sol bajo el "fa la la" que sube y ninguna voz interior dé saltos incómodos, y las respiraciones están marcadas para principiantes.
 
 ## ¿Sabías que...?
 
