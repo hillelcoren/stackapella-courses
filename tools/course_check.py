@@ -7,8 +7,8 @@ lesson on the web"). A song course's exercise (course/songs, `song`) must name a
 of its parts and phrases it has, and never carry notes of its own. A song's fallback where it's withheld
 (`altSong`, steps.json) must name another song that's here, keep its object's kind and languages, and pass that
 object's own checks; a lesson's or boss's partial one only where something inside it falls back. A public lesson page's address
-(slugged from an English title) must still be in course/page-slugs.json, so a retitle never moves a page silently, and every lesson
-id must still be in course/lesson-ids.json, meaning the same lesson. Prints one line;
+(slugged from an English title) must still be in tools/page-slugs.json, so a retitle never moves a page silently, and every lesson
+id must still be in tools/lesson-ids.json, meaning the same lesson. Prints one line;
 `--apps` lists those lessons. Python's standard library only.
 """
 import json
@@ -732,8 +732,8 @@ def warmups():
 # The public lesson pages' addresses (the site's Lessons.php): /courses/<course>/<page>, the page slugged from an English
 # title, so a retitle moves a page that search engines and the guides link to. The free course ("harmony") and the
 # choir-part course have a page a unit, from the unit's title; every other live course a page a lesson, a challenge folded into the lesson
-# before it, from the lesson's title. course/page-slugs.json is the list the site has now; `--write-slugs` rewrites it.
-SLUGS = ROOT / "course" / "page-slugs.json"
+# before it, from the lesson's title. tools/page-slugs.json is the list the site has now; `--write-slugs` rewrites it.
+SLUGS = ROOT / "tools" / "page-slugs.json"  # beside this tool, not in course/: content.sh copies course/ to the app
 PER_UNIT = {"choir-part"}  # catalogue ids (Lessons::PER_UNIT), besides the free course
 
 
@@ -815,11 +815,11 @@ def check_slugs():
 
 
 # Saved progress, streaks and links key on lesson ids, so an id must never vanish or come to mean another lesson.
-# course/lesson-ids.json lists every course file's lesson ids in order; a generated course's (a song course by song_course.py,
+# tools/lesson-ids.json lists every course file's lesson ids in order; a generated course's (a song course by song_course.py,
 # its lessons a part's lines, or a Plus course a tools/*_course.py writes) also with its English title, so a regrouping that
 # shifts ids (two lines made alike, merged into one lesson) fails here; a hand-written course's ids alone, its titles free. `--write-lesson-ids` rewrites the list on purpose,
 # once saved progress is planned for (the app's progress for the moved ids, or the song's version bump).
-LESSON_IDS = ROOT / "course" / "lesson-ids.json"
+LESSON_IDS = ROOT / "tools" / "lesson-ids.json"
 
 
 def generated_courses():
