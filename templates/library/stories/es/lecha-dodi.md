@@ -92,7 +92,7 @@ para renombre, para gloria y para alabanza.
 **Estrofa 2**
 > לִקְרַאת שַׁבָּת לְכוּ וְנֵלְ֒כָה.
 *Likrat Shabat lechu venelcha,*
-Al encuentro del sabbat, venid, vayamos,
+Al encuentro del sabbat, vengan, vayamos,
 > כִּי הִיא מְקוֹר הַבְּ֒רָכָה.
 *ki hi mekor haberacha.*
 porque ella es la fuente de la bendición.

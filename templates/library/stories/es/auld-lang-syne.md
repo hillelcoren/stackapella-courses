@@ -22,7 +22,7 @@ original: The Scots Musical Museum, Internet Archive | https://archive.org/detai
 listen: National Jukebox, grabación de 1918 | https://www.loc.gov/item/jukebox-28325/ || National Jukebox, grabación de 1908 | https://www.loc.gov/item/jukebox-422466/
 ---
 
-Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer verso, Should Auld Acquaintance Be Forgot, es una canción en escocés de Robert Burns. Su título equivale al inglés "old long since": los días de hace mucho tiempo [^hh4][^dick]. Su pregunta es si hay que olvidar a los viejos amigos, y su respuesta es beber juntos "a cup o' kindness", una copa de afecto, por aquellos días [^smm5]. Burns la envió a una amiga en 1788 como una canción antigua que admiraba, y su primera impresión conocida llegó en Edimburgo en 1796, pocos meses después de su muerte, con una melodía antigua y lenta [^gebbie3][^dick][^smm5]. La melodía que se canta en Año Nuevo en todo el mundo se unió a la letra en 1799, en la colección de aires escoceses de George Thomson [^thomson][^dick][^mccue].
+Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer verso, Should Auld Acquaintance Be Forgot, es una canción en escocés de Robert Burns. Su título equivale al inglés "old long since": los días de hace mucho tiempo [^hh4][^dick]. Su pregunta es si hay que olvidar a los viejos amigos, y su respuesta es beber juntos "a cup o' kindness", una copa de afecto, por aquellos días [^smm5]. Burns la envió a una amiga en 1788 como una canción antigua que admiraba, y su primera impresión conocida salió en Edimburgo en 1796, pocos meses después de su muerte, con una melodía antigua y lenta [^gebbie3][^dick][^smm5]. La melodía que se canta en Año Nuevo en todo el mundo se unió a la letra en 1799, en la colección de aires escoceses de George Thomson [^thomson][^dick][^mccue].
 
 ![[1]]
 
@@ -36,13 +36,13 @@ Auld Lang Syne, impresa también como Auld Langsyne y conocida por su primer ver
 
 ![[2]]
 
-**La melodía que cantamos.** En 1799, Thomson imprimió la canción en el segundo volumen de su Select Collection of Original Scottish Airs, n.º 68, con el encabezado "From an old MS. in the Editor's possession" (de un viejo manuscrito en poder del editor); Dick señala que el manuscrito era del propio Burns y no tenía cinco años [^thomson][^dick][^gla]. Su melodía alegre, marcada "Allegretto", la arregló el compositor bohemio Leopold Kozeluch [^thomson][^mccue]. Venía de un strathspey, The Miller's Wedding, de la colección de reels de Bremner de 1759, llamado más tarde también The Miller's Daughter [^glen][^dick][^stenhouse]. Burns ya había escrito "O can ye labour lea" con una forma de esa melodía, impresa en el Museum en 1792 [^glen][^mccue][^dick]. En noviembre de 1794 le dijo a Thomson que "la otra melodía puede oírse como una danza campestre escocesa corriente", y Dick entiende que se refiere a esta [^gebbie5][^dick].
+**La melodía que cantamos.** En 1799, Thomson imprimió la canción en el segundo volumen de su Select Collection of Original Scottish Airs, n.º 68, con el encabezado "From an old MS. in the Editor's possession" (de un viejo manuscrito en poder del editor); Dick señala que el manuscrito era del propio Burns y no tenía ni cinco años [^thomson][^dick][^gla]. Su melodía alegre, marcada "Allegretto", la arregló el compositor bohemio Leopold Kozeluch [^thomson][^mccue]. Venía de un strathspey, The Miller's Wedding, de la colección de reels de Bremner de 1759, llamado más tarde también The Miller's Daughter [^glen][^dick][^stenhouse]. Burns ya había escrito "O can ye labour lea" para una variante de esa melodía, impresa en el Museum en 1792 [^glen][^mccue][^dick]. En noviembre de 1794 le dijo a Thomson que "la otra melodía puede oírse como una danza campestre escocesa corriente", y Dick entiende que se refiere a esta [^gebbie5][^dick].
 
 ![[3]]
 
 **Las canciones más antiguas.** El primer verso ya era antiguo. El Bannatyne Manuscript, escrito en 1568, contiene un poema sobre la amistad olvidada, "Auld kyndnes foryett" [^dick][^stenhouse][^mccue]. James Watson imprimió en 1711 una canción de amor, "Old-Long-syne", que empieza "Should old Acquaintance be forgot, And never thought upon" [^watson][^dick][^hh3]. Le siguió en 1720 "Should auld acquaintance be forgot, Tho' they return with scars", de Allan Ramsay, y el primer volumen del Museum la puso con la melodía antigua en 1787 [^glen][^dick][^smm1]. Henry Playford había impreso esa melodía en Londres en 1700 como "For Old long Gine my Joe" [^glen][^dick].
 
-**Mito y documentos.** Se suele contar que Burns solo anotó lo que cantaba un anciano. Lo que muestran los documentos: no se ha encontrado esa canción, y Thomson llegó a pensar que Burns lo dijo "en tono de broma" [^dick][^hh3]. Stenhouse, siguiendo al editor Cromek, dijo que Burns admitió que solo tres estrofas eran antiguas; Dick lo llama "una mera repetición de Cromek", que no dio ninguna autoridad para ello [^stenhouse][^dick]. Se suele contar también que el compositor inglés William Shield escribió la melodía de hoy. Es cierto que la usó para cerrar la obertura de su ópera Rosina, estrenada en Londres a principios de la década de 1780 [^stenhouse][^glen]. La edición de Henley y Henderson de 1897 atribuye la melodía a Shield, pero Glen y Dick comprobaron que el strathspey es anterior y que Shield nunca la reclamó como suya [^hh3][^glen][^dick].
+**Mito y documentos.** Se suele contar que Burns solo anotó lo que cantaba un anciano. Lo que muestran los documentos es que esa canción nunca se ha encontrado, y Thomson llegó a pensar que Burns lo dijo "en tono de broma" [^dick][^hh3]. Stenhouse, siguiendo al editor Cromek, dijo que Burns admitió que solo tres estrofas eran antiguas; Dick lo llama "una mera repetición de Cromek", que no citó ninguna fuente para ello [^stenhouse][^dick]. Se suele contar también que el compositor inglés William Shield escribió la melodía de hoy. Es cierto que la usó para cerrar la obertura de su ópera Rosina, estrenada en Londres a principios de la década de 1780 [^stenhouse][^glen]. La edición de Henley y Henderson de 1897 atribuye la melodía a Shield, pero Glen y Dick comprobaron que el strathspey es anterior y que Shield nunca la reclamó como suya [^hh3][^glen][^dick].
 
 ### Cronología
 
@@ -69,13 +69,13 @@ La canción está en escocés, la lengua de las Tierras Bajas de Escocia. Auld e
 
 **Estrofa 4.** Los dos chapoteamos (paidl'd) en el burn, el arroyo, desde el sol de la mañana hasta el dine, la hora de comer, a mediodía [^dsl-dine][^gebbie6][^hh4][^dick]. Pero desde entonces han rugido entre nosotros anchos (braid) mares [^hh4][^dick].
 
-**Estrofa 5.** Aquí tienes mi mano, mi fiel fiere, mi amigo, y dame tú una mano tuya [^hh4][^dick]. Tomaremos un buen gude-willie-waught: un waught es un trago largo, y gude-willie significa de corazón, dado con buena voluntad; es decir, un hondo trago de amistad [^dick][^hh4][^gebbie6].
+**Estrofa 5.** Aquí tienes mi mano, mi fiel fiere, mi amigo, y dame tú la tuya [^hh4][^dick]. Tomaremos un buen gude-willie-waught: un waught es un trago largo, y gude-willie significa de corazón, dado con buena voluntad; es decir, un hondo trago de amistad [^dick][^hh4][^gebbie6].
 
 El Museum pone en segundo lugar la estrofa del pint-stoup; Thomson la pasó al final, como hacen casi todos los libros posteriores, y pone "my dear" en lugar de "my jo" [^smm5][^thomson][^dick].
 
 ### La letra completa
 
-Esta es la letra de Burns tal como la imprimió The Scots Musical Museum en 1796, n.º 413, con la ortografía y la puntuación impresas. La primera estrofa y el estribillo están bajo las notas, y aquí los disponemos en versos; después de cada estrofa siguiente, la página imprime "For auld &c.", que pide volver al estribillo. La nota al pie sobre "cup" dice "Some Sing Kiss in place of Cup" (algunos cantan "Kiss", beso, en lugar de "Cup", copa) [^smm5].
+Esta es la letra de Burns tal como la imprimió The Scots Musical Museum en 1796, n.º 413, con la ortografía y la puntuación impresas. La primera estrofa y el estribillo van bajo las notas, y aquí los disponemos en versos; después de cada una de las estrofas siguientes, la página imprime "For auld &c.", que pide volver al estribillo. La nota al pie sobre "cup" dice "Some Sing Kiss in place of Cup" (algunos cantan "Kiss", beso, en lugar de "Cup", copa) [^smm5].
 
 **Estrofa 1**
 > Should auld acquaintance be forgot
@@ -131,7 +131,7 @@ desde los viejos tiempos.
 > And there's a hand, my trusty fiere!
 ¡Y aquí tienes mi mano, mi fiel amigo!
 > And gie's a hand o' thine!
-¡Y dame tú una mano tuya!
+¡Y dame tú la tuya!
 > And we'll tak a right gude-willie-waught,
 Y tomaremos un buen trago de amistad
 > For auld lang syne.
@@ -139,7 +139,7 @@ por los viejos tiempos.
 
 ## Cómo se canta
 
-En Escocia se canta a medianoche en Hogmanay, la noche de fin de año, en un círculo con las manos unidas; en la última estrofa todos cruzan los brazos y toman las manos de quienes tienen a cada lado [^edinburgh][^scotorg]. Esa estrofa es la de las manos: "And there's a hand, my trusty fiere! And gie's a hand o' thine!" (aquí tienes una mano, mi fiel compañero, y dame tú la tuya) [^scotorg][^smm5]. Por qué se cruzan los brazos, ninguna fuente antigua lo dice. Una historia de la canción de 2021, escrita por una musicóloga de la Universidad de Edimburgo, relaciona la costumbre con la "cadena mística" de los masones, un círculo en el que cada uno cruza los brazos para dar una mano a cada vecino, lo que estrecha el círculo y lo hace más fuerte [^grant][^edunews]. Encuentra una noche de Burns de una logia de Mauchline, en Ayrshire, que en 1879 terminó "by forming the circle of unity, and singing part of 'Auld langsyne'" (formando el círculo de la unidad y cantando parte de "Auld langsyne"), y un concierto escolar en Marlborough, en 1867, que terminó con la canción cantada "with crossed hands" (con las manos cruzadas) [^grant][^edunews]. Se canta también en las despedidas; una autoridad de Glasgow en Burns la llama "la canción mundial de la despedida" [^gla][^dick]. En el siglo XIX se extendió por las reuniones sociales, entre ellas las masónicas, y por el teatro, y en Escocia ocupó el lugar de "Good night, and joy be wi' you a'" como la canción que cierra una noche de fiesta [^mccue][^dick].
+En Escocia se canta a medianoche en Hogmanay, la noche de fin de año, en un círculo con las manos unidas; en la última estrofa todos cruzan los brazos y toman las manos de quienes tienen a cada lado [^edinburgh][^scotorg]. Esa estrofa es la de las manos: "And there's a hand, my trusty fiere! And gie's a hand o' thine!" (aquí tienes una mano, mi fiel compañero, y dame tú la tuya) [^scotorg][^smm5]. Ninguna fuente antigua explica por qué se cruzan los brazos. Un libro de 2021 sobre la historia de la canción, escrito por una musicóloga de la Universidad de Edimburgo, relaciona la costumbre con la "cadena mística" de los masones, un círculo en el que cada uno cruza los brazos para dar una mano a cada vecino, lo que estrecha el círculo y lo hace más fuerte [^grant][^edunews]. La autora encontró una velada en honor de Burns, en una logia de Mauchline (Ayrshire), que en 1879 terminó "by forming the circle of unity, and singing part of 'Auld langsyne'" (formando el círculo de la unidad y cantando parte de "Auld langsyne"), y un concierto escolar en Marlborough, en 1867, que terminó con la canción cantada "with crossed hands" (con las manos cruzadas) [^grant][^edunews]. Se canta también en las despedidas; una autoridad en Burns de Glasgow la llama "la canción mundial de la despedida" [^gla][^dick]. En el siglo XIX se extendió por las reuniones sociales, entre ellas las masónicas, y por el teatro, y en Escocia ocupó el lugar de "Good night, and joy be wi' you a'" como la canción que cierra una noche de fiesta [^mccue][^dick].
 
 Nuestro arreglo toma la melodía de la página de Thomson, en Fa, escrita en 4/4 con todos los valores de las notas duplicados, y la letra de Burns del Museum, con su "and auld lang syne" [^thomson][^smm5]. Cantamos la primera estrofa para 2 a 4 cantantes: la soprano canta la melodía, la contralto y el tenor cantan la letra con ella, y el bajo sostiene las fundamentales en "oo" (una u). Tres notas largas, entre ellas la de "mind", se acortan para respirar.
 
@@ -154,8 +154,8 @@ En el mismo volumen de 1799, Thomson puso "Now Spring has clad the grove in gree
 
 ## Cómo cantarla
 
-- [Soprano](/songs/auld-lang-syne/soprano): cantas la melodía, desde el Do central hasta el Re una novena por encima. El segundo verso sube La, Do, Re en "brought to mind?", y ese Re es tu nota más aguda, sostenida; respira en el silencio y empieza el tercer verso en ese mismo Re. En "lang" bajas de Re a Do antes de un Fa largo en "syne?".
-- [Contralto](/songs/auld-lang-syne/alto): cinco notas graves, desde el La por debajo del Do central hasta Mi. Empiezas en La las cuatro primeras sílabas, luego subes por Do hasta Mi en "be" y te meces entre Re y Mi en "forgot". "Never brought to" está en Do, y tus notas largas cierran los versos: Si bemol en "mind?", La en "syne?".
+- [Soprano](/songs/auld-lang-syne/soprano): cantas la melodía, desde el Do central hasta el Re una novena por encima. El segundo verso sube por La, Do y Re en "brought to mind?", y ese Re es tu nota más aguda, sostenida; respira en el silencio y empieza el tercer verso en ese mismo Re. En "lang" bajas de Re a Do antes de un Fa largo en "syne?".
+- [Contralto](/songs/auld-lang-syne/alto): cinco notas graves, desde el La por debajo del Do central hasta Mi. Cantas en La las cuatro primeras sílabas, luego subes por Do hasta Mi en "be" y te meces entre Re y Mi en "forgot". "Never brought to" está en Do, y tus notas largas cierran los versos: Si bemol en "mind?", La en "syne?".
 - [Tenor](/songs/auld-lang-syne/tenor): tu nota base es Fa. Empiezas justo por debajo, en Mi, en "Should", subes a Sol en cada "be forgot", subes una tercera hasta La en "-ver brought to" y en el segundo "acquaintance", y vuelves a Fa cada vez. El momento que hay que practicar es la última palabra: desde Fa bajas una cuarta hasta el Do grave y lo sostienes en "syne?".
 - [Bajo](/songs/auld-lang-syne/bass): diez notas en "oo", desde el Fa grave hasta el Fa una octava más arriba. Tras una breve anacrusa en La, sostienes Fa, Do, Fa y Si bemol, de tres o cuatro tiempos cada una. El tercer verso salta hasta el Fa agudo. Al final los acordes se aceleran: Si bemol, Do y luego Fa.
 
@@ -163,15 +163,15 @@ En el mismo volumen de 1799, Thomson puso "Now Spring has clad the grove in gree
 
 ### ¿Por qué se canta Auld Lang Syne en Año Nuevo?
 
-Porque en Escocia es la canción de Hogmanay, que se canta a medianoche en un círculo de manos unidas, y su letra, viejos amigos que brindan por los viejos tiempos, encaja con el final de un año [^edinburgh][^scotorg]. La orquesta de baile canadiense de Guy Lombardo la tocaba al dar la medianoche en sus emisiones anuales de fin de año, que se oían en toda Norteamérica [^tce][^natgeo]. Por qué exactamente se convirtió en una canción de todo el mundo sigue siendo, según una estudiosa de Burns de Glasgow, algo así como un misterio [^mccue].
+Porque en Escocia es la canción de Hogmanay, que se canta a medianoche en un círculo de manos unidas, y su letra, viejos amigos que brindan por los viejos tiempos, encaja con el final de un año [^edinburgh][^scotorg]. La orquesta de baile canadiense de Guy Lombardo la tocaba al dar la medianoche en sus emisiones anuales de fin de año, que se oían en toda Norteamérica [^tce][^natgeo]. Por qué exactamente se convirtió en una canción de todo el mundo sigue siendo, según una estudiosa de Burns de Glasgow, en cierto modo un misterio [^mccue].
 
 ### ¿Quién escribió Auld Lang Syne, y quién compuso la música?
 
-Robert Burns escribió la letra que cantamos, siguiendo canciones más antiguas con el mismo primer verso, que imprimieron James Watson en 1711 y Allan Ramsay en 1720 [^watson][^glen][^dick]. En 1793 dijo que la había anotado "from an old man's singing" (del canto de un anciano), pero esa canción nunca se ha encontrado, y no se sabe cuánto de ella es suyo [^gebbie5][^dick][^hh3]. La música no es suya: la melodía de hoy es una danza escocesa impresa en 1759, que George Thomson unió a la letra en 1799. No es de William Shield [^glen][^dick][^thomson].
+Robert Burns escribió la letra que cantamos, a partir de canciones más antiguas con el mismo primer verso, que imprimieron James Watson en 1711 y Allan Ramsay en 1720 [^watson][^glen][^dick]. En 1793 dijo que la había anotado "from an old man's singing" (del canto de un anciano), pero esa canción nunca se ha encontrado, y no se sabe cuánto de ella es suyo [^gebbie5][^dick][^hh3]. La música no es suya: la melodía de hoy es una danza escocesa impresa en 1759, que George Thomson unió a la letra en 1799. No es de William Shield [^glen][^dick][^thomson].
 
 ### ¿Cuál es la melodía original de Auld Lang Syne?
 
-La primera impresión conocida de la letra de Burns, de 1796, usa una melodía más antigua y más lenta, llamada también Auld Lang Syne, que Henry Playford imprimió en 1700 [^smm5][^mccue][^glen][^dick]. La melodía que se canta hoy es una melodía de danza escocesa, impresa como el strathspey The Miller's Wedding en 1759, que George Thomson puso con la letra en 1799 [^glen][^dick][^thomson]. La melodía antigua es la más reflexiva [^mccue][^gla].
+La primera impresión conocida de la letra de Burns, de 1796, usa una melodía más antigua y más lenta, llamada también Auld Lang Syne, que Henry Playford imprimió en 1700 [^smm5][^mccue][^glen][^dick]. La melodía que se canta hoy es una melodía de danza escocesa, impresa como el strathspey The Miller's Wedding en 1759, que George Thomson puso con la letra en 1799 [^glen][^dick][^thomson]. De las dos, la melodía antigua es la más reflexiva [^mccue][^gla].
 
 ### ¿Cómo se pronuncia Auld Lang Syne?
 
@@ -183,7 +183,7 @@ La soprano canta la melodía, desde el Do central hasta el Re una novena por enc
 
 ## Canta después
 
-- [Comin' Thro' the Rye](/songs/comin-thro-the-rye): letra según Burns, con una melodía prima de la misma melodía de danza; una forma anterior está en el mismo volumen de 1796.
+- [Comin' Thro' the Rye](/songs/comin-thro-the-rye): letra a partir de Burns, con una melodía emparentada con la misma danza; una versión anterior está en el mismo volumen de 1796.
 - [A Red, Red Rose](/songs/red-red-rose): otra canción de Burns del quinto volumen del Museum.
 - [Ye Banks and Braes o' Bonnie Doon](/songs/ye-banks-and-braes): una canción lenta de Burns del Museum de Johnson.
 

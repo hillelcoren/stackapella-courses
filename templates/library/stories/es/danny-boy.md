@@ -28,17 +28,17 @@ Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, aboga
 
 ## De dónde viene
 
-**La melodía.** En 1855 el anticuario George Petrie publicó en Dublín The Petrie Collection of the Ancient Music of Ireland. En la página 57 hay una melodía encabezada "Name unknown" (nombre desconocido).[^petrie][^minerva] Petrie la arregló para piano en mi bemol, con la indicación Andante y su velocidad marcada, como la de todas las melodías del libro, por la oscilación de un péndulo, aquí de 24 pulgadas; su índice la incluye entre las melodías anónimas como "Song" (canción), de la señorita Jane Ross, de Newtownlimavady.[^petrie] Petrie dio las gracias a la señorita J. Ross, de Newtown-Limavady, hoy Limavady, en el condado de Londonderry, que había reunido una gran colección de melodías inéditas del condado y le había enviado esta. "El nombre de la melodía, por desgracia, no lo averiguó la señorita Ross", escribió. Ella la llamaba "muy antigua", y él dijo estar de acuerdo.[^petrie][^minerva] Como venía del condado de Londonderry, se la llegó a llamar Londonderry Air; los himnarios también la llaman Air from County Derry.[^ballad][^hymnary][^methodist]
+**La melodía.** En 1855 el anticuario George Petrie publicó en Dublín The Petrie Collection of the Ancient Music of Ireland. En la página 57 hay una melodía encabezada "Name unknown" (nombre desconocido).[^petrie][^minerva] Petrie la arregló para piano en Mi bemol, con la indicación Andante y su velocidad marcada, como la de todas las melodías del libro, por la oscilación de un péndulo, aquí de 24 pulgadas; su índice la incluye entre las melodías anónimas como "Song" (canción), de la señorita Jane Ross, de Newtownlimavady.[^petrie] Petrie dio las gracias a la señorita J. Ross, de Newtown-Limavady, hoy Limavady, en el condado de Londonderry, que había reunido una gran colección de melodías inéditas del condado y le había enviado esta. "El nombre de la melodía, por desgracia, no lo averiguó la señorita Ross", escribió. Ella la llamaba "muy antigua", y él dijo estar de acuerdo.[^petrie][^minerva] Como venía del condado de Londonderry, se la llegó a llamar Londonderry Air; los himnarios también la llaman Air from County Derry.[^ballad][^hymnary][^methodist]
 
 ![[1]]
 
-**La letra.** Weatherly escribió la letra de bastante más de mil canciones.[^mann][^ballad] En unas palabras suyas que cita Aileen Dillane, recordaba: "Dio la casualidad de que en marzo de 1910 yo había escrito una canción llamada Danny Boy pensando en otra melodía".[^dillane] Aquella primera versión no llegó a nada.[^ballad] Luego la melodía le llegó desde Estados Unidos. El relato de su bisnieto dice que se la envió en 1912 su cuñada, que vivía allí, y un relato más antiguo de un cancionero también habla de una cuñada; un relato reciente dice que fue su hermana, y sitúa su reescritura en 1911.[^mann][^ballad][^dillane] Por un golpe de suerte, dijo en ese mismo relato, la letra solo necesitó "unos pocos cambios" para encajar.[^dillane]
+**La letra.** Weatherly escribió la letra de bastante más de mil canciones.[^mann][^ballad] En unas palabras suyas que cita Aileen Dillane, recordaba: "Dio la casualidad de que en marzo de 1910 yo había escrito una canción llamada Danny Boy pensando en otra melodía".[^dillane] Aquella primera versión quedó en nada.[^ballad] Luego la melodía le llegó desde Estados Unidos. Según su bisnieto, se la envió en 1912 su cuñada, que vivía allí, y una nota más antigua de un cancionero también habla de una cuñada; un relato reciente dice que fue su hermana y sitúa la reescritura en 1911.[^mann][^ballad][^dillane] Por suerte, contó en esas mismas palabras, la letra solo necesitó "unos pocos cambios" para encajar.[^dillane]
 
 **La unión.** Boosey & Co. publicó Danny Boy en 1913, en Londres y Nueva York, para voz y piano, adaptada de una antigua melodía irlandesa.[^imslp][^conncoll] Acompañó a los soldados a la Primera Guerra Mundial, y una colección moderna de canciones de los soldados de esa guerra la incluye.[^dillane][^ballad] En Estados Unidos se convirtió sobre todo en una canción irlandesa-estadounidense, unida al Día de San Patricio, y un editor irlandés-estadounidense la llamó el "himno irlandés-estadounidense".[^dillane][^odowd]
 
 ![[2]]
 
-**Mito y documentos.** Se suele contar que un violinista ciego, Jimmy McCurry, tocó la melodía en Limavady un día de mercado de 1851 mientras Jane Ross la anotaba; o que la melodía se remonta al arpista Rory Dall O'Cahan.[^niarchive][^rte1980][^odowd][^ballad] Lo que muestran los documentos: Petrie no nombra a ningún intérprete ni da fecha de cuándo se anotó.[^petrie] Un estudio de 2000 señala que la fecha de 1851 puede venir de los propios manuscritos de Ross.[^audley] La historia de McCurry es una tradición de Limavady, y las versiones no coinciden ni siquiera en el instrumento: en una es violinista, en otra gaitero.[^niarchive][^odowd][^methodist] The Ballad Index considera que las "pruebas" sobre O'Cahan no se explican, y señala que algunos dudan de que Rory Dall existiera.[^ballad] También se ha discutido la antigüedad de la melodía. Anne Gilchrist en 1934, y más tarde Hugh Shields, sospecharon que quien la recogió le dio forma. El mismo estudio, en el Journal of the Royal Musical Association, sostuvo que de verdad es antigua y que la moldeó la tradición.[^audley][^ballad][^dillane]
+**Mito y documentos.** Se suele contar que un violinista ciego, Jimmy McCurry, tocó la melodía en Limavady un día de mercado de 1851 mientras Jane Ross la anotaba; o que la melodía se remonta al arpista Rory Dall O'Cahan.[^niarchive][^rte1980][^odowd][^ballad] Lo que muestran los documentos es que Petrie no nombra a ningún intérprete ni dice cuándo se anotó.[^petrie] Un estudio de 2000 señala que la fecha de 1851 puede venir de los propios manuscritos de Ross.[^audley] La historia de McCurry es una tradición de Limavady, y las versiones no coinciden ni siquiera en el instrumento: en una es violinista, en otra gaitero.[^niarchive][^odowd][^methodist] The Ballad Index señala que nadie explica las "pruebas" sobre O'Cahan, y señala que algunos dudan de que Rory Dall existiera.[^ballad] También se ha discutido la antigüedad de la melodía. Anne Gilchrist en 1934, y más tarde Hugh Shields, sospecharon que quien la recogió le dio forma. El mismo estudio, en el Journal of the Royal Musical Association, sostuvo que es realmente antigua y que la moldeó la tradición.[^audley][^ballad][^dillane]
 
 ### Cronología
 
@@ -54,7 +54,7 @@ Danny Boy es una canción de despedida. Su letra es de Frederic Weatherly, aboga
 
 Weatherly escribió dos estrofas. Nuestro arreglo canta la primera.[^conncoll]
 
-**Estrofa 1, primera mitad (se canta).** Danny, las gaitas llaman, de un "glen" al siguiente y montaña abajo. Un "glen" es un valle estrecho; las "pipes" son las gaitas, que lo llaman a partir. El verano se ha acabado y las rosas se caen. Es Danny quien debe irse, y quien canta quien debe "bide", es decir, quedarse y esperar.[^conncoll]
+**Estrofa 1, primera mitad (se canta).** Danny, las gaitas llaman, de un "glen" al siguiente y montaña abajo. Un "glen" es un valle estrecho; las "pipes" son las gaitas, que lo llaman a partir. El verano se ha acabado y las rosas se caen. Es Danny quien debe irse, y quien canta, quien debe "bide", es decir, quedarse y esperar.[^conncoll]
 
 ![[3]]
 
@@ -62,7 +62,7 @@ Weatherly escribió dos estrofas. Nuestro arreglo canta la primera.[^conncoll]
 
 **Estrofa 2 (no se canta).** Quien canta piensa en la posibilidad de morir antes de que Danny vuelva a casa. Si es así, Danny encontrará la tumba, se arrodillará allí y rezará un "Ave", el avemaría. Quien canta lo oirá incluso a través de la tierra, la tumba se sentirá más cálida por su amor, y dormirá en paz hasta que Danny también llegue.[^conncoll]
 
-¿Quién es Danny? Nadie conocido: ningún relato que hayamos leído lo relaciona con una persona real, y la canción nunca dice quién canta, ni a qué llaman las gaitas a Danny.[^dillane][^ballad] Puede ser una madre, un padre o una persona amada. Algunas ediciones indican a un hombre que la cante que use otras palabras, impresas en cursiva, y la canción se convierte en Eily Dear.[^cf][^uwm] Tampoco se escribió como canción de guerra: Weatherly escribió la letra en 1910, y la canción se publicó en 1913, antes de la Primera Guerra Mundial.[^dillane][^imslp] En los años de guerra encajaba con los soldados y con quienes los esperaban en casa; los irlandeses de Estados Unidos oían en ella las despedidas de sus propios emigrantes.[^dillane][^odowd]
+¿Quién es Danny? Nadie conocido: ningún relato que hayamos leído lo relaciona con una persona real, y la canción nunca dice quién canta, ni a qué llaman las gaitas a Danny.[^dillane][^ballad] Puede ser una madre, un padre o una persona amada. Algunas ediciones traen en cursiva otras palabras para cuando la canta un hombre, y entonces la canción se convierte en Eily Dear.[^cf][^uwm] Tampoco se escribió como canción de guerra: Weatherly escribió la letra en 1910, y la canción se publicó en 1913, antes de la Primera Guerra Mundial.[^dillane][^imslp] En los años de guerra encajaba con los soldados y con quienes los esperaban en casa; los irlandeses de Estados Unidos oían en ella las despedidas de sus propios emigrantes.[^dillane][^odowd]
 
 ### La letra completa
 
@@ -106,15 +106,15 @@ y yo dormiré en paz hasta que vengas a mí.
 
 ## Cómo se canta
 
-Danny Boy se publicó como canción para una voz y piano.[^imslp] Se canta en las reuniones irlandesas de Estados Unidos y el Día de San Patricio.[^odowd][^dillane] Se pide en los funerales, pero no es un himno, y algunas diócesis católicas de Estados Unidos la han dejado fuera de la misa de funeral, que reservan para la música litúrgica. En Nueva York, las familias en duelo respondieron con letras religiosas cantadas con la misma melodía.[^ap][^golway]
+Danny Boy se publicó como canción para voz y piano.[^imslp] Se canta en las reuniones irlandesas de Estados Unidos y el Día de San Patricio.[^odowd][^dillane] Se pide en los funerales, pero no es un himno, y algunas diócesis católicas de Estados Unidos la han dejado fuera de la misa de funeral, que reservan para la música litúrgica. En Nueva York, las familias en duelo respondieron con letras religiosas cantadas con la misma melodía.[^ap][^golway]
 
-En los himnarios la melodía es LONDONDERRY AIR. Hymnary.org la recoge como 11.10.11.10 D, pero los himnarios que conservan el último verso largo la imprimen como 11.10.11.10.11.10.11.12, como van los versos de Danny Boy. Las iglesias la cantan con varios textos.[^hymnary][^methodist]
+En los himnarios la melodía es LONDONDERRY AIR. Hymnary.org la recoge como 11.10.11.10 D, pero los himnarios que conservan el último verso largo la imprimen como 11.10.11.10.11.10.11.12, que es como van los versos de Danny Boy. Las iglesias la cantan con varios textos.[^hymnary][^methodist]
 
-Nuestro arreglo toma la melodía tal como la imprimió Petrie en 1855 y le ajustamos nosotros la primera estrofa de Weatherly, en lugar de seguir nota a nota la partitura de Boosey de 1913.[^petrie] La canta una vez, despacio, en Re mayor, para 2 a 4 cantantes. La soprano canta la melodía. La contralto y el tenor cantan la letra con ella, y el bajo sostiene las notas graves en "oo" (una u). Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro el tenor rellena el centro.
+Para nuestro arreglo tomamos la melodía tal como la imprimió Petrie en 1855 y le ajustamos nosotros mismos la primera estrofa de Weatherly, en lugar de seguir nota a nota la partitura de Boosey de 1913.[^petrie] Se canta una vez, despacio, en Re mayor, para 2 a 4 cantantes. La soprano canta la melodía. La contralto y el tenor cantan la letra con ella, y el bajo sostiene las notas graves en "oo" (una u). Con dos cantantes son soprano y contralto; con tres se suma el bajo; con cuatro el tenor rellena el centro.
 
 ## Versiones y otras letras
 
-**Otras letras para la melodía.** The Concise Oxford Dictionary of Music atribuye a Alfred Perceval Graves las dos primeras letras de la melodía.[^odm] Una es Emer's Farewell to Cucullain, la segunda canción de Songs of Old Ireland, que Graves hizo con Stanford en 1882.[^lieder][^imslpsoi][^ballad][^howell] Christopher Howell, que escribe sobre la música de Stanford, señala que en general se considera que ese arreglo de 1882 marcó el comienzo de la fama de la melodía.[^howell] "Would God I were the tender apple blossom" (ojalá fuera yo la tierna flor del manzano), de Katharine Tynan, está impresa con el "Londonderry Air" en el Irish Song Book de Graves, en su segunda edición de 1895.[^isb]
+**Otras letras para la melodía.** The Concise Oxford Dictionary of Music atribuye a Alfred Perceval Graves las dos primeras letras de la melodía.[^odm] Una es Emer's Farewell to Cucullain, la segunda canción de Songs of Old Ireland, que Graves preparó con Stanford en 1882.[^lieder][^imslpsoi][^ballad][^howell] Christopher Howell, que escribe sobre la música de Stanford, señala que en general se considera que ese arreglo de 1882 marcó el comienzo de la fama de la melodía.[^howell] "Would God I were the tender apple blossom" (ojalá fuera yo la tierna flor del manzano), de Katharine Tynan, está impresa con el "Londonderry Air" en el Irish Song Book de Graves, en su segunda edición de 1895.[^isb]
 
 **Un himno.** El himno de William Young Fullerton "I cannot tell why He, whom angels worship" (no sé decir por qué Él, a quien adoran los ángeles) se canta con esta melodía.[^methodist][^hymnary]
 
@@ -129,8 +129,8 @@ Nuestro arreglo toma la melodía tal como la imprimió Petrie en 1855 y le ajust
 
 - [Soprano](/songs/danny-boy/soprano): la melodía, lenta y amplia. La primera mitad se queda más grave y baja a un La sostenido grave en el primer "It's" de "It's you, it's you". La segunda mitad sube: "come ye back" llega a Re en "back" y "the valley's" en "val-", y "I'll be here" alcanza la cima en "here", en el Fa sostenido agudo. Cántalo con suavidad.
 - [Contralto](/songs/danny-boy/alto): la letra bajo la melodía, a menudo repitiendo una sola nota: todo "the pipes, the pipes" va en Re, y "summer's in the meadow" en Fa sostenido. Su nota más grave, un Sol grave, llega en "are calling" y otra vez desde el final de "falling" hasta "It's you".
-- [Tenor](/songs/danny-boy/tenor): La durante más de dos tercios de la canción. Los momentos en que se aparta son los que hay que aprender: baja a Re grave en "you, it's you must", en "hushed and white with" y en el último "oh Danny", y sube una vez a Do sostenido en el "-mer's" de "when summer's".
-- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y solo entra en "boy". Baja a su Sol grave bajo el "-ses" de "roses" y "falling, It's" y sube a Fa sostenido bajo "when summer's"; ponlo en solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
+- [Tenor](/songs/danny-boy/tenor): canta La durante más de dos tercios de la canción. Los momentos en que se aparta son los que hay que aprender: baja a Re grave en "you, it's you must", en "hushed and white with" y en el último "oh Danny", y sube una vez a Do sostenido en el "-mer's" de "when summer's".
+- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y no entra hasta "boy". Baja a su Sol grave bajo el "-ses" de "roses" y "falling, It's" y sube a Fa sostenido bajo "when summer's"; ponlo en solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
 
 ## Preguntas
 
@@ -140,7 +140,7 @@ No se escribió como tal, pero se canta a menudo en los funerales. Su segunda es
 
 ### ¿Danny Boy es irlandesa o escocesa?
 
-La melodía es irlandesa: George Petrie la imprimió en 1855 a partir de Jane Ross, de Limavady, en el condado de Londonderry. La letra es inglesa, de Frederic Weatherly, un abogado de Inglaterra. Sus gaitas y sus "glens" pueden sonar escoceses, pero la melodía se recogió en Irlanda y la letra se escribió en Inglaterra. Se volvió irlandesa por el uso, y sobre todo irlandesa-estadounidense.[^petrie][^mann][^dillane][^odowd]
+La melodía es irlandesa: George Petrie la imprimió en 1855 con la versión que le envió Jane Ross, de Limavady, en el condado de Londonderry. La letra es inglesa, de Frederic Weatherly, un abogado de Inglaterra. Sus gaitas y sus "glens" pueden sonar escoceses, pero la melodía se recogió en Irlanda y la letra se escribió en Inglaterra. Se volvió irlandesa por el uso, y sobre todo irlandesa-estadounidense.[^petrie][^mann][^dillane][^odowd]
 
 ### ¿Danny Boy es católica o protestante?
 
@@ -156,8 +156,8 @@ La soprano canta la melodía todo el tiempo. La contralto y el tenor cantan la l
 
 ## Canta después
 
-- [Be Thou My Vision](/songs/be-thou-my-vision): otra melodía popular irlandesa que adoptaron las iglesias, y un primer tramo más suave.
-- [The Water Is Wide](/songs/the-water-is-wide): una canción popular lenta de amor y distancia, con una melodía de menos extensión para empezar.
+- [Be Thou My Vision](/songs/be-thou-my-vision): otra melodía popular irlandesa que adoptaron las iglesias, y un primer paso más suave.
+- [The Water Is Wide](/songs/the-water-is-wide): una canción popular lenta de amor y distancia, con una melodía de menor extensión, para empezar.
 - [Shenandoah](/songs/shenandoah): una canción lenta estadounidense sobre un río, llena de añoranza, del mismo nivel intermedio.
 
 ## Fuentes
