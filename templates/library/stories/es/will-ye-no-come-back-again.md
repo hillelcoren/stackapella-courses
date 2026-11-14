@@ -18,7 +18,7 @@ translatedFrom: a6ca4299b1c9
 original: Gems of Scottish Song (Boston: Oliver Ditson & Company, catalogada como de 1883), Internet Archive | https://archive.org/details/gemsofscottishso0000vari
 ---
 
-Will Ye No Come Back Again? es una canción en escocés de Carolina Oliphant, Lady Nairne, sobre el príncipe Carlos Eduardo Estuardo, "Bonnie Prince Charlie", que escapó a Francia en septiembre de 1746, tras la derrota de su ejército en Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. Se la conoce también como Bonnie Charlie [^hazard][^scotlandspeople], y empieza "Bonnie Charlie's now awa" [^gems1894]. En cinco estrofas cortas, la gente que lo escondió le pregunta: ¿no vas a volver? Lady Nairne nació en Gask, en Perthshire, veinte años después, en una familia que había luchado por él [^chambers][^dnb]. Publicó sus canciones de forma anónima y solo se la nombró como autora después de su muerte [^rogers1869][^henderson1900][^dnb]. Hacia 1900, su biógrafo ya la contaba entre las canciones más conocidas de la lengua [^henderson1900].
+Will Ye No Come Back Again? es una canción en escocés de Carolina Oliphant, Lady Nairne, sobre el príncipe Carlos Eduardo Estuardo, "Bonnie Prince Charlie", que escapó a Francia en septiembre de 1746, tras la derrota de su ejército en Culloden [^gems1894][^rogers1855][^blaikie][^chambers]. Se la conoce también como Bonnie Charlie [^hazard][^scotlandspeople], y empieza "Bonnie Charlie's now awa" [^gems1894]. En cinco estrofas cortas, la gente que lo escondió le pregunta: ¿no vas a volver? Lady Nairne nació en Gask, en Perthshire, veinte años después, en una familia que había luchado por él [^chambers][^dnb]. Publicó sus canciones de forma anónima y no se la reconoció como autora hasta después de su muerte [^rogers1869][^henderson1900][^dnb]. Hacia 1900, su biógrafo ya la contaba entre las canciones más conocidas de la lengua [^henderson1900].
 
 ## De dónde viene
 
@@ -26,11 +26,11 @@ Will Ye No Come Back Again? es una canción en escocés de Carolina Oliphant, La
 
 ![[1]]
 
-**Los Oliphant de Gask.** El abuelo y el padre de Carolina, los dos llamados Laurence Oliphant, tomaron parte en el levantamiento jacobita, y los dos fueron proscritos por ello [^chambers][^kington]. Casi todo lo demás que sabemos de ellos viene de los papeles de la propia familia en Gask, que publicó Kington Oliphant, quien también le dio a Rogers la primera parte de su semblanza [^kington][^rogers1869]. Según esos papeles, su padre fue uno de los ayudantes de campo del príncipe en la marcha hacia Derby, y tras Culloden padre e hijo zarparon hacia Suecia en noviembre de 1746, siguieron a Francia y vivieron diecisiete años en el exilio, hasta volver en 1763 [^kington][^rogers1869]. Carolina nació en Gask el 16 de agosto de 1766, según la lista de nacimientos de su padre; un artículo de los National Records of Scotland da el 16 de julio [^kington][^henderson1900][^dnb][^scotlandspeople].
+**Los Oliphant de Gask.** El abuelo y el padre de Carolina, los dos llamados Laurence Oliphant, tomaron parte en el levantamiento jacobita, y los dos fueron proscritos por ello [^chambers][^kington]. Casi todo lo demás que sabemos de ellos viene de los papeles de la propia familia en Gask, que publicó Kington Oliphant, quien también le dio a Rogers la primera parte de su semblanza [^kington][^rogers1869]. Según esos papeles, su padre fue uno de los ayudantes de campo del príncipe en la marcha hacia Derby, y tras Culloden padre e hijo zarparon hacia Suecia en noviembre de 1746, siguieron a Francia y vivieron diecisiete años en el exilio, hasta volver en 1763 [^kington][^rogers1869]. Carolina nació en Gask el 16 de agosto de 1766, según la lista de nacimientos de su padre; un artículo de los National Records of Scotland indica el 16 de julio [^kington][^henderson1900][^dnb][^scotlandspeople].
 
 ![[2]]
 
-**La autora secreta.** En junio de 1806 se casó con su primo, el comandante William Murray Nairne, y se establecieron en Edimburgo [^rogers1869][^kington][^dnb][^scotlandspeople]. Tanto Rogers como el Dictionary of National Biography dicen que escribió canciones jacobitas para un viejo pariente, Robertson de Strowan [^rogers1869][^henderson1900][^dnb]. En 1821, el editor de Edimburgo Robert Purdie empezó The Scotish Minstrel, con arreglos de R. A. Smith, y ella le enviaba canciones como "Mrs. Bogan of Bogan", firmadas "B. B.", con la caligrafía disfrazada [^minstrel][^rogers1869][^henderson1900][^dnb]. Rogers cuenta que visitó a Purdie vestida como una dama de otra época, y que él nunca sospechó que su colaboradora vivía en Edimburgo [^rogers1869][^henderson1900]. El sexto y último volumen salió en 1824, y sus editores daban las gracias a quien había escrito "The Land of the Leal" sin nombrarla, por miedo a herir "una delicadeza que rehúye toda mirada" [^minstrel6][^rogers1869]. Ese año se le restituyó a su marido el título nobiliario que la familia había perdido, y ella pasó a ser Lady Nairne [^rogers1869][^kington][^dnb].
+**La autora secreta.** En junio de 1806 se casó con su primo, el comandante William Murray Nairne, y se establecieron en Edimburgo [^rogers1869][^kington][^dnb][^scotlandspeople]. Tanto Rogers como el Dictionary of National Biography dicen que escribió canciones jacobitas para un viejo pariente, Robertson de Strowan [^rogers1869][^henderson1900][^dnb]. En 1821, el editor de Edimburgo Robert Purdie empezó The Scotish Minstrel, con arreglos de R. A. Smith, y ella le enviaba canciones con el nombre de "Mrs. Bogan of Bogan", firmadas "B. B.", con la caligrafía disfrazada [^minstrel][^rogers1869][^henderson1900][^dnb]. Rogers cuenta que visitó a Purdie vestida como una dama de otra época, y que él nunca sospechó que su colaboradora vivía en Edimburgo [^rogers1869][^henderson1900]. El sexto y último volumen salió en 1824, y sus editores daban las gracias a quien había escrito "The Land of the Leal" sin nombrarla, por miedo a herir "una delicadeza que rehúye toda mirada" [^minstrel6][^rogers1869]. Ese año se le restituyó a su marido el título nobiliario que la familia había perdido, y ella pasó a ser Lady Nairne [^rogers1869][^kington][^dnb].
 
 ![[3]]
 
@@ -38,7 +38,7 @@ Will Ye No Come Back Again? es una canción en escocés de Carolina Oliphant, La
 
 **La canción impresa.** No hemos podido leer Lays from Strathearn, así que aquí no queda resuelta cuál es la impresión más antigua de esta canción; la más antigua que hemos leído es The Modern Scottish Minstrel de Rogers, de 1855, con cinco estrofas bajo su nombre [^rogers1855].
 
-**Dos páginas de Boston.** Nuestro arreglo está tomado de Gems of Scottish Song, de Oliver Ditson. En la impresión catalogada como de 1883 está en la página 107, con el encabezado "Finlay Dun." y nada más, marcada "In moderate time.", en Fa y 4/4. La página siguiente es otra de sus canciones, "I Am Wearing Awa' to the Land o' the Leal" [^gems1883][^rogers1869][^dnb]. La impresión de 1894 la vuelve a grabar en la página 119 y añade "Lady Nairne. (1766-1845)"; su "kent your", donde la de 1883 dice "kept your", está en letra más pequeña, como si se hubiera corregido la plancha [^gems1894][^gems1883].
+**Dos páginas de Boston.** Nuestro arreglo parte de Gems of Scottish Song, de Oliver Ditson. En la impresión catalogada como de 1883 está en la página 107, con el encabezado "Finlay Dun." y nada más, y la indicación "In moderate time.", en Fa y 4/4. La página siguiente es otra de sus canciones, "I Am Wearing Awa' to the Land o' the Leal" [^gems1883][^rogers1869][^dnb]. La impresión de 1894 la vuelve a grabar en la página 119 y añade "Lady Nairne. (1766-1845)"; su "kent your", donde la de 1883 dice "kept your", está en letra más pequeña, como si se hubiera corregido la plancha [^gems1894][^gems1883].
 
 ![[4]]
 
@@ -133,7 +133,7 @@ pero a mí siempre (aye) me canta una sola canción (ae sang):
 
 ## Cómo se canta
 
-Es una canción para el hogar: en 1855, Rogers encontró sus canciones, casi nunca conocidas como suyas, familiares "en el salón y en la cabaña" [^rogers1855], y Ditson la imprimió para voz y piano [^gems1883]. Las dos impresiones de Ditson marcan que el estribillo crezca en volumen, que su aguda segunda frase se tome con libertad ("a piacere"), con un calderón en el "gain?" de esa frase, y que "Better lo'ed ye canna be" vuelva a tempo [^gems1883][^gems1894].
+Es una canción para el hogar: en 1855, Rogers encontró sus canciones, casi nunca conocidas como suyas, familiares "en el salón y en la cabaña" [^rogers1855], y Ditson la imprimió para voz y piano [^gems1883]. Las dos impresiones de Ditson indican que el estribillo crezca en volumen, que su aguda segunda frase se tome con libertad ("a piacere"), con un calderón en el "gain?" de esa frase, y que "Better lo'ed ye canna be" vuelva a tempo [^gems1883][^gems1894].
 
 Nuestro arreglo toma la melodía de la impresión de 1883 y la letra de la estrofa 2 de la de 1894, para 2 a 4 cantantes. Nuestros acordes son más sencillos que los de Dun. Dejamos fuera la nota de adorno y los calderones, y marcamos una respiración al final de cada verso.
 
@@ -174,7 +174,7 @@ Es una de varias canciones sobre él. Esta es la despedida: le pide a Carlos que
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía, tal como la imprimió Gems of Scottish Song, de Ditson [^gems1883]. Con dos cantantes tienes la melodía y la contralto, sobre todo una tercera o una sexta por debajo; con tres, añade el bajo en las fundamentales, y el tenor completa las cuatro.
+La soprano canta la melodía, tal como la imprimió Gems of Scottish Song, de Ditson [^gems1883]. Con dos cantantes, son soprano y contralto, esta sobre todo una tercera o una sexta por debajo; con el bajo, en las fundamentales, son tres, y con el tenor, cuatro.
 
 ## Canta después
 

@@ -31,15 +31,15 @@ With Cat-like Tread, cuya segunda melodía empieza con Come, Friends, Who Plough
 
 ![[1]]
 
-**La escena.** El acto II transcurre en una capilla en ruinas, a la luz de la luna, en la finca del mayor general Stanley [^chappell-score][^hitchcock-lib]. El general se libró de los piratas fingiéndose huérfano, y los piratas, que nunca roban a un huérfano, han descubierto que mintió [^tribune1880]. Llegan de noche buscando "a penalty fifty-fold, For General Stanley's story" (un castigo cincuenta veces mayor por la historia del general Stanley) [^chappell-score][^gs-libretto]. Los policías, enviados a detenerlos, los oyen llegar y deciden que "our obvious course is now to hide" (lo obvio ahora es escondernos): la partitura de Chappell da el verso a su sargento, y los primeros libretos, a todo el coro de policías [^chappell-score][^hitchcock-lib][^stoddart-lib]. En los primeros libretos estadounidenses (el de Hitchcock, en Nueva York, sin fecha, y el de Stoddart, con copyright de 1880), los policías se esconden en una de las naves mientras los piratas entran trepando por una ventana en ruinas y bajan por el escenario de puntillas [^hitchcock-lib][^stoddart-lib]. Entonces los piratas cantan "(Very loud.) With cat-like tread", y los policías, escondidos, responden "(Pianissimo.) Tarantara!" [^hitchcock-lib][^stoddart-lib].
+**La escena.** El acto II transcurre en una capilla en ruinas, a la luz de la luna, en la finca del mayor general Stanley [^chappell-score][^hitchcock-lib]. El general se libró de los piratas fingiéndose huérfano, y los piratas, que nunca roban a un huérfano, han descubierto que mintió [^tribune1880]. Llegan de noche buscando "a penalty fifty-fold, For General Stanley's story" (un castigo cincuenta veces mayor por la historia del general Stanley) [^chappell-score][^gs-libretto]. Los policías, enviados a detenerlos, los oyen llegar y deciden que "our obvious course is now to hide" (lo obvio ahora es escondernos): la partitura de Chappell asigna el verso a su sargento, y los primeros libretos, a todo el coro de policías [^chappell-score][^hitchcock-lib][^stoddart-lib]. En los primeros libretos estadounidenses (el de Hitchcock, en Nueva York, sin fecha, y el de Stoddart, con copyright de 1880), los policías se esconden en una de las naves mientras los piratas entran trepando por una ventana en ruinas y bajan por el escenario de puntillas [^hitchcock-lib][^stoddart-lib]. Entonces los piratas cantan "(Very loud.) With cat-like tread", y los policías, escondidos, responden "(Pianissimo.) Tarantara!" [^hitchcock-lib][^stoddart-lib].
 
 ![[2]]
 
-**La marcha de Sullivan.** Sullivan lo escribió como una marcha, Allegro marziale, en Re, con los piratas marcados forte y el piano tocando tres acordes suaves en la mayoría de los compases y uno fortissimo, estruendoso, en el cuarto tiempo [^stoddart-score][^chappell-score]. Samuel, el lugarteniente de los piratas, reparte las herramientas de ladrón en un solo; luego se unen los dos coros, y la reprise crece de suave a fortissimo [^chappell-score][^stoddart-score][^gs-libretto]. Un corresponsal en el estreno de Nueva York vio la broma: los ladrones "corean a voz en grito" que se acercan sin ser vistos [^era-ny].
+**La marcha de Sullivan.** Sullivan lo escribió como una marcha, Allegro marziale, en Re, con los piratas marcados forte y el piano tocando tres acordes suaves en la mayoría de los compases y uno fortissimo, estruendoso, en el cuarto tiempo [^stoddart-score][^chappell-score]. Samuel, el lugarteniente de los piratas, reparte las herramientas de ladrón en un solo; luego se unen los dos coros, y la reprise crece de suave a fortissimo [^chappell-score][^stoddart-score][^gs-libretto]. Un corresponsal en el estreno de Nueva York captó la broma: los ladrones "corean a voz en grito" que se acercan sin ser vistos [^era-ny].
 
 ![[3]]
 
-**La partitura que leímos.** Nuestro arreglo está tomado de una impresión londinense posterior de la partitura vocal de Chappell, conservada en la University of Toronto y catalogada como de hacia 1920 [^chappell-score]. El número de plancha de Chappell, 23731, aparece al pie de cada página, y la portada cita la Copyright Act de 1911 y remite a quien quiera representar la ópera a Rupert D'Oyly Carte, en el Savoy Hotel [^chappell-score]. With Cat-like Tread es el acto II, n.º 12, un "Solo (Samuel and Chorus of Pirates)", como en la partitura de Stoddart de 1880 [^chappell-score][^stoddart-score]. En la letra E, en la página 152, piratas y policías cantan juntos, fortissimo, y alguien ha escrito a lápiz "Ladies" (damas) en lo alto de la página 149, donde empieza el segundo "Come, friends" [^chappell-score]. La partitura escribe "piracee" y "burglaree" para que rimen con "sea"; los primeros libretos imprimen "piracy" y "burglary" [^chappell-score][^hitchcock-lib].
+**La partitura que leímos.** Nuestro arreglo parte de una impresión londinense posterior de la partitura vocal de Chappell, conservada en la University of Toronto y catalogada como de hacia 1920 [^chappell-score]. El número de plancha de Chappell, 23731, aparece al pie de cada página, y la portada cita la Copyright Act de 1911 y remite a quien quiera representar la ópera a Rupert D'Oyly Carte, en el Savoy Hotel [^chappell-score]. With Cat-like Tread es el acto II, n.º 12, un "Solo (Samuel and Chorus of Pirates)", como en la partitura de Stoddart de 1880 [^chappell-score][^stoddart-score]. En la letra E, en la página 152, piratas y policías cantan juntos, fortissimo, y alguien ha escrito a lápiz "Ladies" (damas) en lo alto de la página 149, donde empieza el segundo "Come, friends" [^chappell-score]. La partitura escribe "piracee" y "burglaree" para que rimen con "sea"; los primeros libretos imprimen "piracy" y "burglary" [^chappell-score][^hitchcock-lib].
 
 ![[4]]
 
@@ -105,13 +105,13 @@ variemos la piratería
 
 **Samuel**
 > Here's your crowbar, and your centre-bit,
-Aquí tienes tu palanca y tu broca de berbiquí,
+Aquí tienen su palanca y su broca de berbiquí,
 > Your life preserver, you may want to hit!
-¡tu porra, quizá quieras golpear!
+¡su porra, quizá quieran golpear!
 > Your silent matches, your dark lantern seize!
-¡Toma tus fósforos silenciosos, tu linterna sorda!
+¡Tomen sus fósforos silenciosos, su linterna sorda!
 > Take your file and your skeletonic keys!
-¡Toma tu lima y tus ganzúas!
+¡Tomen su lima y sus ganzúas!
 
 **Piratas**
 > With cat-like tread
@@ -127,7 +127,7 @@ avanzamos a tientas, con cuidado.
 
 En escena lo canta el coro masculino de piratas, con el solo de Samuel en medio y los policías respondiendo desde su escondite; en la página anterior, el "Tarantara" de los policías está marcado "repeat this, and dim till next Chorus" (repetir, disminuyendo hasta el siguiente coro) mientras desaparecen de la vista [^chappell-score][^gs-libretto]. Enlaza directamente con el número siguiente, en el que, como escribió un crítico neoyorquino en 1880, los dos coros piden silencio "a pleno pulmón" mientras el general entra deambulando con una vela [^tribune1880].
 
-Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" de la página 151 hasta el final de las voces en la página 152, que Sullivan escribió en Re para los dos coros masculinos [^chappell-score]. Lo cantamos en La: la soprano y la contralto son los piratas; el tenor y el bajo, los policías. Los piratas de Sullivan cantan "Come, friends" al unísono y sus policías cantan "ra" en cada pulso [^chappell-score]; nuestra contralto bajo "Come, friends" es nueva, nuestros policías cantan un pulso sí y otro no, y desde la letra E las voces se redistribuyen para que, con dos o tres cantantes, cada acorde conserve su tercera, salvo el Mi7 de "we", donde la contralto mantiene la séptima del acorde, Re, que baja a Do sostenido en "feel". Con dos cantantes se cantan los piratas; con tres se añade el bajo, y con cuatro, el tenor. Canta la dinámica (los matices) de Sullivan: suave en "Come, friends", creciendo a lo largo de "Let's vary piracee", y a plena voz desde "With cat-like tread" [^chappell-score].
+Cantamos el final de la reprise, desde el último "Come, friends" de la página 151 hasta el final de las voces en la página 152, que Sullivan escribió en Re para los dos coros masculinos [^chappell-score]. Lo cantamos en La: la soprano y la contralto son los piratas; el tenor y el bajo, los policías. Los piratas de Sullivan cantan "Come, friends" al unísono y sus policías cantan "ra" en cada pulso [^chappell-score]; nuestra contralto bajo "Come, friends" es nueva, nuestros policías cantan un pulso sí y otro no, y desde la letra E las voces se redistribuyen para que, con dos o tres cantantes, cada acorde conserve su tercera, salvo el Mi7 de "we", donde la contralto mantiene la séptima del acorde, Re, que baja a Do sostenido en "feel". Con dos cantantes, son los piratas (soprano y contralto); con el bajo son tres, y con el tenor, cuatro. Canta la dinámica (los matices) de Sullivan: suave en "Come, friends", creciendo a lo largo de "Let's vary piracee", y a plena voz desde "With cat-like tread" [^chappell-score].
 
 ## Versiones y otras letras
 
@@ -137,7 +137,7 @@ Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" d
 
 ## ¿Sabías que...?
 
-- En los primeros libretos estadounidenses y en la partitura de Stoddart, es el Rey Pirata quien entra "laden with burglarious tools and pistols" (cargado de herramientas de ladrón y pistolas), aunque es Samuel quien las reparte cantando; el texto del Gilbert and Sullivan Archive le da las herramientas a Samuel [^hitchcock-lib][^stoddart-lib][^stoddart-score][^gs-libretto].
+- En los primeros libretos estadounidenses y en la partitura de Stoddart, es el Rey Pirata quien entra "laden with burglarious tools and pistols" (cargado de herramientas de ladrón y pistolas), aunque es Samuel quien las reparte cantando; el texto del Gilbert and Sullivan Archive atribuye las herramientas a Samuel [^hitchcock-lib][^stoddart-lib][^stoddart-score][^gs-libretto].
 - En el estreno de Nueva York, el Rey Pirata se llamaba Richard y el sargento de policía, Edward; la partitura posterior de Chappell que leímos los llama solo el Rey Pirata y el sargento de policía [^hitchcock-lib][^gs-casts][^stoddart-score][^chappell-score].
 
 ## Cómo cantarla
@@ -151,7 +151,7 @@ Nuestro arreglo canta el final de la reprise, desde el último "Come, friends" d
 
 ### ¿Qué significa cat-like tread?
 
-Significa pisar tan suavemente como un gato [^webster-tread]. Los piratas aseguran avanzar con tanto sigilo que se oiría el paso de una mosca [^chappell-score]. Ahí está la broma: el libreto de Gilbert marca el coro "Very loud" (muy fuerte), y Sullivan lo escribió como una marcha con acordes estruendosos [^hitchcock-lib][^chappell-score].
+Significa pisar tan suavemente como un gato [^webster-tread]. Los piratas aseguran avanzar con tanto sigilo que se oiría el paso de una mosca [^chappell-score]. Ahí está la broma: el libreto de Gilbert pide para el coro "Very loud" (muy fuerte), y Sullivan lo escribió como una marcha con acordes estruendosos [^hitchcock-lib][^chappell-score].
 
 ### ¿Hail, Hail, the Gang's All Here viene de The Pirates of Penzance?
 

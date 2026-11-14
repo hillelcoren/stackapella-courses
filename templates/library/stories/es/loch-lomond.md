@@ -25,7 +25,7 @@ Loch Lomond, llamada también The Bonnie Banks o' Loch Lomond, o conocida por su
 
 ## De dónde viene
 
-**La primera impresión conocida.** La primera impresión conocida es una hoja suelta titulada Bonnie Loch Loman, publicada por Paterson & Roy, del número 27 de George Street, en Edimburgo, hacia 1840. En 1911, la revista de un librero de Aberdeen, Brown's Book-Stall, reimprimió su letra con ese pie de imprenta, citando al recopilador de canciones populares Gavin Greig: sus siete estrofas figuraban como "escritas por una dama", y la música como arreglada por Finlay Dun [^browns]. El Ballad Index da 1841, y nombra The Vocal Melodies of Scotland, la serie de canciones escocesas de la casa, con arreglos de Dun y John Thomson [^tbi][^thirty]. Alfred Moffat había contado lo mismo en la década de 1890: la casa de Paterson, Finlay Dun y una dama [^moffat].
+**La primera impresión conocida.** La primera impresión conocida es una hoja suelta titulada Bonnie Loch Loman, publicada por Paterson & Roy, del número 27 de George Street, en Edimburgo, hacia 1840. En 1911, la revista de un librero de Aberdeen, Brown's Book-Stall, reimprimió su letra con ese pie de imprenta, citando al recopilador de canciones populares Gavin Greig: sus siete estrofas figuraban como "escritas por una dama", y la música como arreglada por Finlay Dun [^browns]. El Ballad Index indica 1841, y nombra The Vocal Melodies of Scotland, la serie de canciones escocesas de la casa, con arreglos de Dun y John Thomson [^tbi][^thirty]. Alfred Moffat había contado lo mismo en la década de 1890: la casa de Paterson, Finlay Dun y una dama [^moffat].
 
 ![[1]]
 
@@ -134,7 +134,7 @@ en las hermosas, hermosas orillas del Loch Lomond.
 
 Es una canción lenta de despedida, que se canta con sentimiento, y Songs of the North pide un poco más de movimiento en el estribillo [^sotn]. En la década de 1890, Scots Minstrelsie la llamó una canción "relativamente olvidada durante mucho tiempo" que se había vuelto muy popular hacía poco, y unos años después Ford escribió sobre su "boga en los círculos más altos" [^greig][^ford]. Luego pasó a los coros y a las orquestas de baile: Ralph Vaughan Williams la arregló para barítono y coro masculino, en un arreglo publicado en 1921, y una grabación de swing hecha en agosto de 1937 fue un gran éxito [^imslp-vw][^synco][^tbi].
 
-Nuestro arreglo está tomado de Songs of Scotland, de John Reid (Nueva York, 1908), subido de Mi a Sol, y cotejado con Scots Minstrelsie, del que cantamos el ritmo parejo de "By" y "bonnie" y la forma "Lomon'" [^reid1908][^minstrelsie3]. Cantamos las dos primeras estrofas, cada una con el estribillo, para 2 a 4 cantantes, despacio y con ternura, todas las voces con la letra.
+Nuestro arreglo parte de Songs of Scotland, de John Reid (Nueva York, 1908), subido de Mi a Sol, y cotejado con Scots Minstrelsie, del que cantamos el ritmo parejo de "By" y "bonnie" y la forma "Lomon'" [^reid1908][^minstrelsie3]. Cantamos las dos primeras estrofas, cada una con el estribillo, para 2 a 4 cantantes, despacio y con ternura, todas las voces con la letra.
 
 ## Versiones y otras letras
 
@@ -150,7 +150,7 @@ Nuestro arreglo está tomado de Songs of Scotland, de John Reid (Nueva York, 190
 - [Soprano](/songs/loch-lomond/soprano): cantas la melodía, desde el Re por encima del Do central hasta el Mi una novena más arriba. Tu Mi agudo llega en "banks" de cada "On the bonnie, bonnie banks", en "me and" de cada "me and my true love", en el "-fore" de "afore" de los dos estribillos, en el "Lo-" de "Lomon'" en "bright on Loch Lomon'" y en "side o' Ben Lomon'", y en "purple" y "out" de la segunda estrofa. En el estribillo, la melodía baja a su nota más grave, Re, en "low road".
 - [Contralto](/songs/loch-lomond/alto): cantas la letra una sexta o una tercera por debajo de la melodía, grave y sobre todo en el Si y el Do. Solo pasas por encima de Fa sostenido en la segunda estrofa, en "Ben Lomon', Where in purple hue the", y subes hasta tu Si agudo en el "-mon'" de "Lomon'" y en "Where in": practica esa frase por separado.
 - [Tenor](/songs/loch-lomond/tenor): cantas en el centro del acorde, sobre todo en el Sol, con Mi y La. Bajas al Re grave en "shines bright" en la primera estrofa y en el "Scot-" de "Scotland" en cada estribillo, y solo llegas a tu Re agudo en la segunda estrofa, en "Ben", en el "-mon'" de "Lomon'" y en "Where in".
-- [Bajo](/songs/loch-lomond/bass): cantas la letra en las fundamentales, salvo cinco Si de paso, y te quedas en un Sol grave durante más de la mitad de la canción, como un bordón. Pasas a Do y Re donde cambian los acordes: cada estrofa y cada estribillo terminan en Do, luego Sol, luego Re en "Lo-" (en "gloam-" en la segunda estrofa), antes de volver a casa, a Sol; en las estrofas, un Si de paso llega justo antes de ese Re.
+- [Bajo](/songs/loch-lomond/bass): cantas la letra en las fundamentales, salvo cinco Si de paso, y te quedas en un Sol grave durante más de la mitad de la canción, como un bordón. Pasas a Do y Re donde cambian los acordes: cada estrofa y cada estribillo terminan en Do, luego Sol, luego Re en "Lo-" (en "gloam-" en la segunda estrofa), antes de volver a Sol, la tónica; en las estrofas, un Si de paso llega justo antes de ese Re.
 
 ## Preguntas
 

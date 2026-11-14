@@ -146,7 +146,7 @@ a los reinos del día sin fin.
 
 Es un himno congregacional, presente en los himnarios de muchas iglesias [^hymnary-text][^hymnary-nettleton]. Su metro es 8.7.8.7 D: ocho versos que alternan ocho y siete sílabas [^hymnary-nettleton][^temple1851]. NETTLETON va a tres tiempos, y su forma es AABA: la música de los dos primeros versos vuelve en los versos 3 y 4, una música nueva eleva los versos 5 y 6, y el comienzo vuelve para cerrar [^psh][^methodist1905].
 
-Nuestro arreglo sale del n.º 19 de The Methodist Hymnal (Nueva York, 1905), donde la melodía se atribuye a John Wyeth y la armonía va sin firma, en Mi bemol, como está impreso [^methodist1905]. Cantamos la estrofa 1 para 2 a 4 cantantes, alegre y cadenciosa, a tres tiempos, con cada verso en una sola respiración. Para principiantes cambiamos tres notas del bajo para evitar un salto amplio, cantamos en una sola nota una sílaba de dos notas del tenor, y cambiamos seis notas de la contralto para que dos cantantes se muevan en terceras y terminen dos versos en un acorde más lleno [^methodist1905].
+Nuestro arreglo parte del n.º 19 de The Methodist Hymnal (Nueva York, 1905), donde la melodía se atribuye a John Wyeth y la armonía va sin firma, en Mi bemol, como está impreso [^methodist1905]. Cantamos la estrofa 1 para 2 a 4 cantantes, alegre y cadenciosa, a tres tiempos, con cada verso en una sola respiración. Para principiantes cambiamos tres notas del bajo para evitar un salto amplio, cantamos en una sola nota una sílaba de dos notas del tenor, y cambiamos seis notas de la contralto para que dos cantantes se muevan en terceras y terminen dos versos en un acorde más lleno [^methodist1905].
 
 ![[4]]
 

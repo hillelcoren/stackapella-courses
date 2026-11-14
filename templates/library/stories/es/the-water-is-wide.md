@@ -40,7 +40,7 @@ The Water Is Wide, impresa también como O Waly, Waly, es una canción popular i
 
 **Mito y documentos.** Se suele contar que las estrofas son el lamento de lady Barbara Erskine, que se casó con James, segundo marqués de Douglas, en 1670 y se separó formalmente de él en 1681; Robert Chambers escribió que las estrofas "son el lamento de la desdichada marquesa" [^chambers1862][^child]. Chambers fecha la boda en septiembre, y Child, hacia finales de año [^chambers1862][^child]. Lo que muestran los documentos: hay estrofas de la canción en la balada que cuenta su historia, Jamie Douglas, pero Child comprobó que la canción se imprimió unos cincuenta años antes que cualquier copia de la balada, y que la canción es el lamento de una mujer soltera, no de una esposa [^child]. Una segunda leyenda situaba la canción en el reinado de María Estuardo, reina de Escocia, porque una parodia burlesca de su estrofa "love is bonny" aparece en un libro de música de iglesia copiado en 1566. David Laing respondió en 1853 que esos versos se escribieron en el manuscrito mucho más tarde, y Child los fechó hacia 1620 [^stenhouse][^child].
 
-**En el oeste de Inglaterra.** Sabine Baring-Gould reunió tres veces la canción, como A Ship Came Sailing: se la enviaron desde la parroquia de Saint Enoder, en Cornualles, donde el párroco la anotó de un hombre muy anciano, y la oyó a Sally Satterley, en Dartmoor, y a William Nichols, de Whitchurch, cerca de Tavistock. Es el n.º 86 de Songs of the West, cuya edición revisada de 1905 tuvo a Sharp como editor musical [^baringgould][^sharp1907]. La nota de Sharp llama de Devon a las tres versiones, aunque una venía de Cornualles [^sharp1906][^baringgould]. Sharp contó Waly, Waly entre las "llamadas baladas escocesas" que había encontrado en Somerset [^sharp1907].
+**En el oeste de Inglaterra.** Sabine Baring-Gould recogió tres versiones de la canción, como A Ship Came Sailing: se la enviaron desde la parroquia de Saint Enoder, en Cornualles, donde el párroco la anotó de un hombre muy anciano, y la oyó a Sally Satterley, en Dartmoor, y a William Nichols, de Whitchurch, cerca de Tavistock. Es el n.º 86 de Songs of the West, cuya edición revisada de 1905 tuvo a Sharp como editor musical [^baringgould][^sharp1907]. La nota de Sharp atribuye a Devon las tres versiones, aunque una venía de Cornualles [^sharp1906][^baringgould]. Sharp incluyó Waly, Waly entre las "llamadas baladas escocesas" que había encontrado en Somerset [^sharp1907].
 
 ### Cronología
 
@@ -169,7 +169,7 @@ No, es una canción de amor, pero su melodía es también una melodía de himno,
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía, tal como la imprimió Sharp en 1906 [^sharp1906]. La contralto y el tenor cantan la letra por debajo, y el bajo canta "oo" por debajo de todos. Con dos cantantes tienes la melodía y la contralto; añade el bajo para tres y el tenor para cuatro.
+La soprano canta la melodía, tal como la imprimió Sharp en 1906 [^sharp1906]. La contralto y el tenor cantan la letra por debajo, y el bajo canta "oo" por debajo de todos. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
 
 ## Canta después
 

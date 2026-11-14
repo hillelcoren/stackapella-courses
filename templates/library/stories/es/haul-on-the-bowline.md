@@ -1,6 +1,6 @@
 ---
 title: Haul on the Bowline: historia, significado y la letra explicada
-description: Shanty de tirón corto: todos tiraban en el último "haul". Su estribillo ya se imprimía en 1868; la nuestra es la de John Short, impresa por Cecil Sharp en 1914.
+description: Shanty de tirón corto: todos tiraban en el último "haul". Su estribillo ya se imprimía en 1868; cantamos la de John Short, impresa por Cecil Sharp en 1914.
 lead: Haul on the Bowline es una canción marinera (shanty) para unos pocos tirones cortos y fuertes de un cabo. El solista (el shantyman) canta un verso, la tripulación responde y todos tiran a la vez en el último "haul".
 words: Canción marinera tradicional (impresa ya en 1868; estas estrofas, tal como las cantaba John Short, impresas en 1914)
 tune: Tradicional (con una melodía impresa ya en 1882; esta melodía, tal como la cantaba John Short, impresa en 1914)
@@ -23,11 +23,11 @@ Haul on the Bowline, que también se imprimió como "Haul the Bowline" y "We'll 
 
 ## De dónde viene
 
-**La impresión más antigua que hemos encontrado.** El 1 de agosto de 1868, el semanario londinense *Once a Week* imprimió un artículo sin firma, "On Shanties" [^onceaweek]. Para el trabajo pesado, o cuando hay pocos brazos, dice el autor, se usa una canción para halar de metro más largo, y da su letra: "Haul the bowline, the fore and main-top bowline, / Haul the bowline, the bowline haul", y luego "Kitty you're my darling". La última palabra, "haul", indicaba a los hombres cuándo tirar [^onceaweek]. The Traditional Ballad Index también data la canción a partir de este artículo [^balladindex].
+**La impresión más antigua que hemos encontrado.** El 1 de agosto de 1868, el semanario londinense *Once a Week* imprimió un artículo sin firma, "On Shanties" [^onceaweek]. Para el trabajo pesado, o cuando hay pocos brazos, dice el autor, se usa una canción para halar de metro más largo, y cita su letra: "Haul the bowline, the fore and main-top bowline, / Haul the bowline, the bowline haul", y luego "Kitty you're my darling". La última palabra, "haul", indicaba a los hombres cuándo tirar [^onceaweek]. The Traditional Ballad Index también data la canción a partir de este artículo [^balladindex].
 
 ![[1]]
 
-**La melodía más antigua.** En julio de 1882, William L. Alden imprimió "the Bowline" con su melodía en *Harper's New Monthly Magazine*, de Nueva York [^alden]. Situó la escena en un paquebote de Liverpool treinta años antes: la verga de gavia no sube hasta que alguien pide "the Bowline", y los hombres halan en su última sílaba. La consideró, como Haul Away, Joe, que va a su lado, de origen puramente náutico y "sin duda muy antigua" [^alden]. Laura Alexandrine Smith imprimió los mismos versos con una melodía en 1888 [^smith].
+**La melodía más antigua.** En julio de 1882, William L. Alden imprimió "the Bowline" con su melodía en *Harper's New Monthly Magazine*, de Nueva York [^alden]. Situó la escena en un paquebote de Liverpool treinta años antes: la verga de gavia no sube hasta que alguien pide "the Bowline", y los hombres halan en su última sílaba. La consideró, como Haul Away, Joe, que aparece a su lado, de origen puramente náutico y "sin duda muy antigua" [^alden]. Laura Alexandrine Smith imprimió los mismos versos con una melodía en 1888 [^smith].
 
 ![[2]]
 
@@ -37,7 +37,7 @@ Haul on the Bowline, que también se imprimió como "Haul the Bowline" y "We'll 
 
 **De dónde salieron las shanties.** Los marineros y estibadores afrodescendientes fueron centrales en la shanty: un folclorista de la Library of Congress escribe que el cantante más apreciado a bordo era a menudo un marinero afrodescendiente, y Joanna Colcord hizo remontar toda una clase de shanties a los estibadores afroamericanos que metían el algodón en las bodegas en los puertos del Golfo [^winick][^colcord]. El vapor puso fin a la vida de trabajo de la shanty: Alden oía el chigre de vapor donde antes sonaba la canción para halar, y Sharp escribió que el vapor le había dado a la chantey el golpe de gracia [^alden][^sharp].
 
-**Mito y documentos.** Se suele contar que es la shanty más antigua de todas, cantada ya en tiempos de Enrique VIII. Lo que muestran los documentos: la fuente más antigua que hemos encontrado para esa fecha es *A Sailor's Garland* (1906), de John Masefield, que no da ninguna prueba de ello, y Colcord lo repitió [^masefield][^colcord]. W. B. Whall, que la creía posiblemente una de las más antiguas porque la bolina ("bowline") fue en otro tiempo el cabo más importante de un barco, señaló los gritos de los marineros en *The Complaynt of Scotland*, que él y Sharp fechaban hacia 1450 [^whall][^sharp]. Ese libro es un siglo más reciente: su editor de 1872 lo fechó en 1549, y una historia naval de 1897, en 1548 [^murray][^clowes]. En él, unos marineros que halan la bolina de la vela mayor responden al grito de un hombre con "boulena, boulena" ("bolina, bolina"), un grito de trabajo, no este estribillo [^murray][^clowes]. La orden es antigua; la canción, hasta donde muestran los impresos, empieza en 1868.
+**Mito y documentos.** Se suele contar que es la shanty más antigua de todas, cantada ya en tiempos de Enrique VIII. Lo que muestran los documentos: la fuente más antigua que hemos encontrado para esa fecha es *A Sailor's Garland* (1906), de John Masefield, que no aporta ninguna prueba de ello, y Colcord lo repitió [^masefield][^colcord]. W. B. Whall, que la creía posiblemente una de las más antiguas porque la bolina ("bowline") fue en otro tiempo el cabo más importante de un barco, señaló los gritos de los marineros en *The Complaynt of Scotland*, que él y Sharp fechaban hacia 1450 [^whall][^sharp]. Ese libro es un siglo más reciente: su editor de 1872 lo fechó en 1549, y una historia naval de 1897, en 1548 [^murray][^clowes]. En él, unos marineros que halan la bolina de la vela mayor responden al grito de un hombre con "boulena, boulena" ("bolina, bolina"), un grito de trabajo, no este estribillo [^murray][^clowes]. La orden es antigua; la canción, hasta donde muestran los impresos, empieza en 1868.
 
 ### Cronología
 
@@ -93,14 +93,14 @@ Es una shanty de tirón corto, para faenas que pedían unos pocos tirones fuerte
 
 ![[4]]
 
-- **Las escotas.** Bullen la puso entre sus "fore sheet Chanties" (chanties de la escota de trinquete), que se cantaban siempre, dice, al halar ese cabo "con un solo tirón colectivo", y dice que se usaba continuamente en la escota de trinquete y en la mayor; Masefield la puso entre las chanties de escota, amura y bolina, y para Colcord servía para cazar las velas de trinquete y mayor [^bullen][^masefield][^colcord]. Smith la usa para tesar las amuras y las escotas después de que el barco vira por avante [^smith].
+- **Las escotas.** Bullen la puso entre sus "fore sheet Chanties" (chanties de la escota de trinquete), que se cantaban siempre, dice, al halar ese cabo "con un solo tirón colectivo", y añade que se usaba continuamente en la escota de trinquete y en la mayor; Masefield la puso entre las chanties de escota, amura y bolina, y para Colcord servía para cazar las velas de trinquete y mayor [^bullen][^masefield][^colcord]. Smith la asocia a tesar las amuras y las escotas después de que el barco vira por avante [^smith].
 - **"Sweating up".** Richard Terry, que la aprendió del capitán John Runciman, la llamó la shanty más popular para el "sweating up", los últimos tirones, muy fuertes, que dejan tenso un cabo [^terry][^sharp].
 - **Drizas.** En la escena de Alden, los hombres izan una verga de gavia [^alden].
 - **La propia bolina.** Bullen pensaba que el nombre era una anomalía, porque en su época la bolina era un cabo ligero que nunca necesitaba una shanty [^bullen]. Colcord pensaba que en los barcos isabelinos "bowline" designaba lo que más tarde se llamó la escota de trinquete [^colcord].
 
-La última palabra era un tirón, no una nota. Bullen la marca "(shout)" (gritado), cortada lo antes posible, y Terry escribe que siempre se gritaba [^bullen][^terry]. Bullen marca su versión "Briskly" (con brío), mientras que Masefield describe una melodía lenta, con la tripulación echándose hacia atrás sobre el cabo al final [^bullen][^masefield].
+La última palabra era un tirón, no una nota. Bullen le pone "(shout)" (gritado), cortada lo antes posible, y Terry escribe que siempre se gritaba [^bullen][^terry]. Bullen indica "Briskly" (con brío) para su versión, mientras que Masefield describe una melodía lenta, con la tripulación echándose hacia atrás sobre el cabo al final [^bullen][^masefield].
 
-Nuestro arreglo está tomado de la página de Sharp, un tono más arriba, en Re, sobre la armonía de su acompañamiento de piano, así que la armonía es de Sharp, no de los barcos [^sharpscan]. Canta todas las palabras que él imprime, para 2 a 4 cantantes: la soprano hace de solista (el shantyman) y canta en solitario la llamada y el primer verso de cada estrofa, y todos se unen en el último verso de cada estrofa y en el estribillo final, y aterrizan a la vez en el último "haul", donde Sharp marca el tirón. Tal como lo imprime Sharp, ese "haul" se canta, no se grita [^sharpscan].
+Nuestro arreglo parte de la página de Sharp, un tono más arriba, en Re, y se apoya en la armonía de su acompañamiento de piano, así que la armonía es de Sharp, no de los barcos [^sharpscan]. Cantamos toda la letra que él imprime, para 2 a 4 cantantes: la soprano hace de solista (el shantyman) y canta en solitario la llamada y el primer verso de cada estrofa, y todos se unen en el último verso de cada estrofa y en el estribillo final, y aterrizan a la vez en el último "haul", donde Sharp marca el tirón. Tal como lo imprime Sharp, ese "haul" se canta, no se grita [^sharpscan].
 
 ## Versiones y otras letras
 
@@ -131,7 +131,7 @@ No hay una sola letra original: el estribillo era fijo y el solista inventaba su
 
 ### ¿Es la misma canción que "Haul Away the Bowline"?
 
-Sí. The Traditional Ballad Index da "Haul Away the Bowline" como otro título de esta canción marinera, y recoge el texto de la colección Greig-Duncan, de Aberdeenshire, como "Haul Away Your Bowline" [^balladindex]. Otras ediciones la llaman "Haul the Bowline" o "We'll Haul the Bowline" [^onceaweek][^alden][^terry]. No es Haul Away, Joe, otra canción para halar que Alden imprimió junto a esta en 1882 [^alden].
+Sí. The Traditional Ballad Index registra "Haul Away the Bowline" como otro título de esta canción marinera, y recoge el texto de la colección Greig-Duncan, de Aberdeenshire, como "Haul Away Your Bowline" [^balladindex]. Otras ediciones la llaman "Haul the Bowline" o "We'll Haul the Bowline" [^onceaweek][^alden][^terry]. No es Haul Away, Joe, otra canción para halar que Alden imprimió junto a esta en 1882 [^alden].
 
 ### ¿Qué voz canta la melodía?
 

@@ -25,7 +25,7 @@ Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie,
 
 ## De dónde viene
 
-**La canción antigua.** En 1823, el coleccionista de Edimburgo Charles Kirkpatrick Sharpe imprimió A Ballad Book para sus amigos, solo treinta ejemplares según su propio relato [^sharpe][^ross1910]. La canción XXXVII empieza "Maxwelton banks are bonnie, Whare early fa's the dew", en dos estrofas que terminan "I'd lay down my head and die". La nota de Sharpe dice que Anne Laurie era famosa por su belleza y que conquistó el corazón del señor Douglas de Fingland, "de quien se dice que compuso los versos siguientes". Por desgracia para él, ella se casó con el señor Ferguson de Craigdarroch [^sharpe]. En 1825, el poeta Allan Cunningham la reimprimió, tomada de Sharpe, en sus Songs of Scotland [^cunningham1825][^graham]. No se conoce ninguna impresión anterior [^fuld][^chambers1862][^moffat], y editores posteriores pensaron que su segunda estrofa era en parte prestada: Graham, de una antigua John Anderson, My Jo; Moffat, de una canción de un manuscrito de Percy [^graham][^moffat].
+**La canción antigua.** En 1823, el coleccionista de Edimburgo Charles Kirkpatrick Sharpe imprimió A Ballad Book para sus amigos, solo treinta ejemplares según su propio relato [^sharpe][^ross1910]. La canción XXXVII empieza "Maxwelton banks are bonnie, Whare early fa's the dew", en dos estrofas que terminan "I'd lay down my head and die". La nota de Sharpe dice que Anne Laurie era famosa por su belleza y que conquistó el corazón del señor Douglas de Fingland, "de quien se dice que compuso los versos siguientes". Por desgracia para él, ella se casó con el señor Ferguson de Craigdarroch [^sharpe]. En 1825, el poeta Allan Cunningham la reimprimió, tomada de Sharpe, en sus Songs of Scotland [^cunningham1825][^graham]. No se conoce ninguna impresión anterior [^fuld][^chambers1862][^moffat], y editores posteriores pensaron que su segunda estrofa estaba tomada en parte de otras canciones: según Graham, de una antigua John Anderson, My Jo; según Moffat, de una canción de un manuscrito de Percy [^graham][^moffat].
 
 ![[1]]
 
@@ -39,7 +39,7 @@ Annie Laurie, conocida también por su primer verso, Maxwelton Braes Are Bonnie,
 
 ![[2]]
 
-**La impresión de Nueva York que hemos leído.** Nuestro arreglo está tomado de una partitura publicada por William Hall & Son, de Nueva York, plancha 793; su biblioteca la fecha hacia 1848 por la dirección del editor [^hall]. Su portada, un retrato de Jenny Lind que incluye Annie Laurie como n.º 7 de ocho canciones, apunta a algo más tarde: la gira estadounidense de Lind empezó en Nueva York en septiembre de 1850 [^hall][^nps][^epochs]. Dentro hay cuatro páginas para voz y piano, marcadas Moderato, con las tres estrofas y sin nombre de autor ni de compositor [^hall]. Una edición de Cincinnati con las mismas notas salió en una serie cuya portada dice "Selection of Scotch Songs as sung by Jenny Lind", con Annie Laurie como n.º 4; dentro, lleva el encabezado "as sung by Catherine Hayes" [^peters].
+**La impresión de Nueva York que hemos leído.** Nuestro arreglo parte de una partitura publicada por William Hall & Son, de Nueva York, plancha 793; su biblioteca la fecha hacia 1848 por la dirección del editor [^hall]. Su portada, un retrato de Jenny Lind que incluye Annie Laurie como n.º 7 de ocho canciones, apunta a una fecha algo posterior: la gira estadounidense de Lind empezó en Nueva York en septiembre de 1850 [^hall][^nps][^epochs]. Dentro hay cuatro páginas para voz y piano, marcadas Moderato, con las tres estrofas y sin nombre de autor ni de compositor [^hall]. Una edición de Cincinnati con las mismas notas salió en una serie cuya portada dice "Selection of Scotch Songs as sung by Jenny Lind", con Annie Laurie como n.º 4; dentro, lleva el encabezado "as sung by Catherine Hayes" [^peters].
 
 ![[3]]
 
@@ -66,11 +66,11 @@ La canción es la promesa de un enamorado. La segunda estrofa de la canción ant
 2. Su frente es blanca como un "snaw drift", un montón de nieve, y su garganta tan elegante como la de un cisne. Su rostro es el más hermoso que haya iluminado el sol, y su "e'e", su ojo, es azul oscuro.
 3. "The fa' o' her fairy feet", su paso ligero, es como el rocío posado en la "gowan", la margarita [^dsl-gowan]. Su voz es baja y dulce, como los vientos que suspiran en verano, y ella es todo el mundo para mí.
 
-Las impresiones difieren en palabras pequeñas: algunas ponen "neck" (cuello) en lugar de "throat" (garganta) [^graham][^moffat], el texto de la propia Lady John Scott dice "bonniest" en lugar de "fairest" [^warrender1911], y un cancionero estadounidense de 1894 suaviza el escocés en "falls", "Gave" y "die" [^reddall].
+Las impresiones difieren en pequeños detalles de la letra: algunas ponen "neck" (cuello) en lugar de "throat" (garganta) [^graham][^moffat], el texto de la propia Lady John Scott dice "bonniest" en lugar de "fairest" [^warrender1911], y un cancionero estadounidense de 1894 suaviza el escocés en "falls", "Gave" y "die" [^reddall].
 
 ### La letra completa
 
-Estas son las tres estrofas tal como las imprime la partitura de William Hall & Son de la que está tomado nuestro arreglo, páginas 2 a 5, con su ortografía y su puntuación. Imprime "And its" donde nosotros cantamos "And it's". Lady John Scott murió en 1900, así que las tres estrofas son de dominio público.
+Estas son las tres estrofas tal como las imprime la partitura de William Hall & Son de la que parte nuestro arreglo, páginas 2 a 5, con su ortografía y su puntuación. Imprime "And its" donde nosotros cantamos "And it's". Lady John Scott murió en 1900, así que las tres estrofas son de dominio público.
 
 **Estrofa 1**
 > Maxwelton braes are bonnie,
@@ -130,7 +130,7 @@ me tumbaría a morir.
 
 Annie Laurie nació como canción para una sola voz: Lady John Scott la cantaba para su familia, y los editores la vendían para voz y piano [^warrender1911][^hall][^peters]. Cada estrofa repite su cuarto verso, como hacía la canción antigua [^hall][^sharpe].
 
-Nuestro arreglo tiene cuatro voces propias sobre la melodía de Lady John Scott, en Do mayor y 2/4, como lo imprime la partitura de Hall, lento y tierno, para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Sus acordes se comprobaron con la parte de piano de Hall y con el arreglo para piano de Finlay Dun, en una impresión de St. Louis de 1877 [^hall][^dun1877]. Cantamos las estrofas 1 y 2. En la estrofa 2, "throat is like the" sigue el ritmo de la edición de Peters, porque al compás de Hall le sobra una semicorchea [^peters]; se dejan fuera las notas de adorno y los compases de piano entre las estrofas.
+Nuestro arreglo construye cuatro voces sobre la melodía de Lady John Scott, en Do mayor y 2/4, como lo imprime la partitura de Hall, lento y tierno, para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. Cotejamos sus acordes con la parte de piano de Hall y con el arreglo para piano de Finlay Dun, en una impresión de St. Louis de 1877 [^hall][^dun1877]. Cantamos las estrofas 1 y 2. En la estrofa 2, "throat is like the" sigue el ritmo de la edición de Peters, porque al compás de Hall le sobra una semicorchea [^peters]; omitimos las notas de adorno y los compases de piano entre las estrofas.
 
 ## ¿Sabías que...?
 
@@ -163,7 +163,7 @@ Es escocesa, pero es una canción de autor más que una canción popular: las do
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Lady John Scott, tal como la da la impresión de Hall [^hall]. La contralto empieza con ella en el Do central y luego canta sobre todo una tercera o una sexta por debajo. Con dos cantantes tienes la melodía y la contralto; con tres, añade el bajo, y el tenor completa las cuatro.
+La soprano canta la melodía de Lady John Scott, tal como la da la impresión de Hall [^hall]. La contralto empieza con ella en el Do central y luego canta sobre todo una tercera o una sexta por debajo. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro.
 
 ## Canta después
 

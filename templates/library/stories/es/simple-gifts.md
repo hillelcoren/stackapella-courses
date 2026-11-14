@@ -27,7 +27,7 @@ Simple Gifts es una canción de los shakers, una comunidad religiosa que celebra
 
 ## De dónde viene
 
-**Los shakers.** La United Society of Believers, cuyos miembros eran llamados shakers, creció en torno a Ann Lee, hija de un herrero de Manchester, en Inglaterra, a la que sus seguidores llamaban Madre Ann (Mother Ann) [^andrews][^shakerheritage]. En 1774, Madre Ann y un pequeño grupo de seguidores cruzaron a América, y en 1776 ya se habían asentado en Niskayuna, más tarde llamada Watervliet, cerca de Albany, Nueva York [^andrews][^shakerheritage][^shakermuseum]. Vivían apartados del mundo, en celibato, compartiendo el trabajo y los bienes, y celebraban su culto con sus propios cantos y danzas [^shakermuseum][^andrews]. Desde 1837, un largo avivamiento, que ellos llamaron la Obra de Madre Ann (Mother Ann's Work) y los historiadores la Era de las Manifestaciones, llenó sus reuniones de visiones y de "gift songs", canciones de don: canciones que, según creía quien las recibía, le había dado un espíritu, a menudo Madre Ann [^andrews][^wintcoll].
+**Los shakers.** La United Society of Believers, cuyos miembros se conocían como shakers, creció en torno a Ann Lee, hija de un herrero de Manchester, en Inglaterra, a la que sus seguidores llamaban Madre Ann (Mother Ann) [^andrews][^shakerheritage]. En 1774, Madre Ann y un pequeño grupo de seguidores cruzaron a América, y en 1776 ya se habían asentado en Niskayuna, más tarde llamada Watervliet, cerca de Albany, Nueva York [^andrews][^shakerheritage][^shakermuseum]. Vivían apartados del mundo, en celibato, compartiendo el trabajo y los bienes, y celebraban su culto con sus propios cantos y danzas [^shakermuseum][^andrews]. Desde 1837, un largo avivamiento, que ellos llamaron la Obra de Madre Ann (Mother Ann's Work) y los historiadores la Era de las Manifestaciones, llenó sus reuniones de visiones y de "gift songs", canciones de don: canciones que, según creía quien las recibía, le había dado un espíritu, a menudo Madre Ann [^andrews][^wintcoll].
 
 **El cancionero.** Mary Hazzard era una hermana de la Church Family de New Lebanon, Nueva York, la comunidad principal de los shakers [^andrews][^smportrait][^shakermuseum]. Edward Deming Andrews escribió que su "fine penmanship" (su letra fina) la hizo "one of the busiest scribes in the Shaker order" (una de las copistas más ocupadas de la orden shaker), y la llamó eldress, élder, de la Church Family [^andrews]. En esta portada escribió su apellido "Hazzard", y la biblioteca lo cataloga como "Hazard" [^hazzardbook][^hazzard]. Su portada dice: "A Collection of Extra Songs of Various Kinds Written and Pricked For the Purpose of Retaining them by Mary Hazzard. Begining February 7th 1847" [^hazzardbook]. "Pricked" significa que las melodías están escritas además de la letra [^webster1828], y las "extra songs" eran canciones breves que se cantaban en el culto además de las prescritas [^andrews]. El libro reúne canciones de muchas aldeas shakers, la mayoría marcadas con la comunidad de la que venían, y sus primeras páginas copian viejas melodías sin letra rotuladas "Mother Ann's Song - 1782" y "Father Williams Song 1782" [^hazzardbook][^andrews]. Hoy lo guarda la Winterthur Library, en Delaware, como ASC 893, con fechas de 1847 a 1856 [^wintcat].
 
@@ -35,13 +35,13 @@ Simple Gifts es una canción de los shakers, una comunidad religiosa que celebra
 
 ![[1]]
 
-Dos páginas antes, "Mother's Blessing" termina con la nota "From Mother Ann to Elder Joseph Brackett Dec 20th 1847 Chosen Land" [^hazzardbook]. Chosen Land era el nombre que los shakers daban a su aldea de New Gloucester, Maine, junto a Sabbathday Lake [^andrews][^neh]. Varias canciones a uno y otro lado de Simple Gifts están marcadas también Chosen Land [^hazzardbook]. Pero el libro no sigue el orden de las fechas: una canción de octubre de 1847 viene después de la de diciembre, en la página 44. Así que la página solo puede situarse de forma aproximada: las canciones fechadas más cercanas, de las páginas 30 a 44, son todas de 1847, pero una canción fechada en marzo de 1849 aparece más adelante, en la página 72 [^hazzardbook].
+Dos páginas antes, "Mother's Blessing" termina con la nota "From Mother Ann to Elder Joseph Brackett Dec 20th 1847 Chosen Land" [^hazzardbook]. Chosen Land era el nombre que los shakers daban a su aldea de New Gloucester, Maine, junto a Sabbathday Lake [^andrews][^neh]. Varias canciones a uno y otro lado de Simple Gifts llevan también la indicación Chosen Land [^hazzardbook]. Pero el libro no sigue el orden de las fechas: una canción de octubre de 1847 viene después de la de diciembre, en la página 44. Así que la página solo puede situarse de forma aproximada: las canciones fechadas más cercanas, de las páginas 30 a 44, son todas de 1847, pero una canción fechada en marzo de 1849 aparece más adelante, en la página 72 [^hazzardbook].
 
 ![[2]]
 
 **Quién la hizo.** La atribución habitual es a Joseph Brackett (1797 a 1882), un dirigente shaker de Maine [^lcname][^hall][^hall2019]. Era élder en New Gloucester, y el Shaker Museum dice que fue llamado al Ministerio de Maine en 1848 y que vivió sobre todo en Alfred, Maine, durante casi una década. Volvió a New Gloucester y murió allí en 1882 [^smblog][^hall]. La primera impresión conocida de la canción es la de Andrews, en 1937, en un artículo sobre los cantos shakers en The Musical Quarterly, con la nota "Probably first sung at Hancock about 1849" (probablemente se cantó por primera vez en Hancock hacia 1849) [^andrews1937]. En su libro The Gift to Be Simple (1940) la fechó de otro modo: escribió que la canción se cantaba en toda la sociedad shaker, y que un manuscrito dice que fue "composed by the Alfred Ministry June 28, 1848" (compuesta por el Ministerio de Alfred el 28 de junio de 1848) [^andrews]. Andrews nombra al Ministerio de Alfred, no a Brackett; autores posteriores nombran a Brackett, que sirvió en ese ministerio [^andrews][^hall][^smblog]. El Shaker Museum sugiere que la canción puede ser más antigua, y que 1848 quizá sea solo el año en que se puso por escrito [^smblog].
 
-**Su vida posterior.** Andrews imprimió una fotografía de esta misma página en 1940, como figura 4 de su libro, con el título "Song-book of Mary Hazzard. New Lebanon, 1847". El año 1847 es el del comienzo del libro [^andrews][^hazzard]. El libro de Hazzard pasó a Winterthur con la colección Andrews de cancioneros shakers, donada por Faith Andrews [^wintcoll]. Aaron Copland contó después que había encontrado la melodía en un libro de biblioteca, que un estudio de 2019 identifica como el de Andrews [^hall2019]. La usó en Appalachian Spring, un ballet para Martha Graham encargado por Elizabeth Sprague Coolidge y estrenado en la Biblioteca del Congreso el 30 de octubre de 1944 [^locblog][^loctreasures]. La melodía forma una serie de variaciones cerca del final de la partitura, y el ballet dio a conocer la vieja canción en todo el país [^locblog][^boriskin].
+**Su vida posterior.** Andrews imprimió una fotografía de esta misma página en 1940, como figura 4 de su libro, con el título "Song-book of Mary Hazzard. New Lebanon, 1847". El año 1847 es el del comienzo del libro [^andrews][^hazzard]. El libro de Hazzard pasó a Winterthur con la colección Andrews de cancioneros shakers, donada por Faith Andrews [^wintcoll]. Aaron Copland contó después que había encontrado la melodía en un libro de biblioteca, que un estudio de 2019 identifica como el de Andrews [^hall2019]. La usó en Appalachian Spring, un ballet para Martha Graham encargado por Elizabeth Sprague Coolidge y estrenado en la Biblioteca del Congreso el 30 de octubre de 1944 [^locblog][^loctreasures]. Sobre la melodía se construye una serie de variaciones cerca del final de la partitura, y el ballet dio a conocer la vieja canción en todo el país [^locblog][^boriskin].
 
 ### Cronología
 
@@ -56,7 +56,7 @@ Dos páginas antes, "Mother's Blessing" termina con la nota "From Mother Ann to 
 
 ## Qué dice la letra
 
-La letra de Hazzard es la que se canta hoy, solo con la ortografía cambiada: su "gain'd" y su "asham'd" son nuestros "gained" y "ashamed" [^hazzard][^andrews].
+La letra de Hazzard es la que se canta hoy, salvo por la ortografía: su "gain'd" y su "asham'd" son nuestros "gained" y "ashamed" [^hazzard][^andrews].
 
 **"'Tis the gift to be simple, 'tis the gift to be free."** "'Tis" es "it is" (es). Para los shakers, un "gift", un don, era todo lo que daba el espíritu de Dios, una palabra que tomaron del "repartimiento de dones" de la primera carta de Pablo a los corintios [^andrews]. La sencillez atravesaba toda la vida shaker. Significaba hablar y vestir con llaneza y tratar a los demás con honradez, pero también humildad y un único propósito [^andrews].
 
@@ -72,7 +72,7 @@ La letra de Hazzard es la que se canta hoy, solo con la ortografía cambiada: su
 
 ### La letra completa
 
-Esta es la única estrofa de la página de Mary Hazzard, con su ortografía y su puntuación, dispuesta según las frases de la música y no según sus saltos de línea [^hazzard]. Las estrofas de más que se cantan hoy en algunos lugares se añadieron después, y no las escribió ningún shaker [^hall]. No hemos encontrado autor ni fecha para ellas, así que no las imprimimos.
+Esta es la única estrofa de la página de Mary Hazzard, con su ortografía y su puntuación, dispuesta según las frases de la música y no según sus saltos de línea [^hazzard]. Las estrofas adicionales que se cantan hoy en algunos lugares se añadieron después, y no las escribió ningún shaker [^hall]. No hemos encontrado autor ni fecha para ellas, así que no las imprimimos.
 
 > 'Tis the gift to be simple 'tis the gift to be free,
 Es un don ser sencillo, es un don ser libre,
@@ -97,7 +97,7 @@ Los shakers la cantaban en el culto, como canción para bailar [^hall][^andrews]
 
 ![[3]]
 
-Nuestro arreglo se lee de la página de Hazzard, transportado de Do a Sol con cada altura tal como ella la escribió [^hazzard]. Hay respiraciones marcadas para principiantes, y cantamos cada mitad una vez, donde su página repite las dos. Es para 2 a 4 cantantes, y la armonía es nuestra.
+Nuestro arreglo parte de la página de Hazzard, transportado de Do a Sol, con todas las notas tal como ella las escribió [^hazzard]. Hay respiraciones marcadas para principiantes, y cantamos cada mitad una vez, mientras que su página repite las dos. Es para 2 a 4 cantantes, y la armonía es nuestra.
 
 ## Versiones y otras letras
 
@@ -126,15 +126,15 @@ No es un espiritual afroamericano. Es una canción de los shakers, cuyo culto in
 
 ### ¿Tiene Simple Gifts más estrofas?
 
-No. La copia de Mary Hazzard tiene una estrofa en dos mitades, cada una marcada para repetirse, y Andrews imprimió esa misma estrofa única en 1937 y de nuevo en 1940 [^hazzard][^andrews1937][^andrews][^hall2019]. Las estrofas de más que a veces se cantan hoy se añadieron después, y ninguna es de un shaker [^hall]. Lord of the Dance, de Sydney Carter, de 1963, es otra canción con la misma melodía [^hymnary-lotd].
+No. La copia de Mary Hazzard tiene una estrofa en dos mitades, cada una con signo de repetición, y Andrews imprimió esa misma estrofa única en 1937 y de nuevo en 1940 [^hazzard][^andrews1937][^andrews][^hall2019]. Las estrofas adicionales que a veces se cantan hoy se añadieron después, y ninguna es de un shaker [^hall]. Lord of the Dance, de Sydney Carter, de 1963, es otra canción con la misma melodía [^hymnary-lotd].
 
 ### ¿En qué tonalidad está Simple Gifts?
 
-Mary Hazzard la escribió en Do, en la notación por letras de los shakers, con la melodía terminando en Do [^hazzard]. Andrews la imprimió en Sol en 1940, y la página de la melodía en Hymnary.org da Sol mayor [^andrews][^hymnary-tune]. Nosotros la cantamos en Sol, transportada desde su Do [^hazzard].
+Mary Hazzard la escribió en Do, en la notación por letras de los shakers, con la melodía terminando en Do [^hazzard]. Andrews la imprimió en Sol en 1940, y la página de la melodía en Hymnary.org indica Sol mayor [^andrews][^hymnary-tune]. Nosotros la cantamos en Sol, transportada desde su Do [^hazzard].
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto canta la letra muy cerca, por debajo de la melodía, con más frecuencia una tercera más abajo; el tenor canta la misma letra más grave, sobre todo en Sol y Si; y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
+La soprano canta la melodía de principio a fin. Con dos cantantes, son soprano y contralto; con el bajo son tres, y con el tenor, cuatro. La contralto canta la letra muy cerca, por debajo de la melodía, con más frecuencia una tercera más abajo; el tenor canta la misma letra más grave, sobre todo en Sol y Si; y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
 
 ## Canta después
 

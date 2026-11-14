@@ -46,7 +46,7 @@ Home on the Range, que también se canta como "Oh, Give Me a Home Where the Buff
 
 **Mito y documentos.** Se suele contar que la canción nació en los campamentos mineros de Colorado como Colorado Home, o en Arizona. Lo que muestran los documentos: Colorado Home se cantaba ya en 1885 y la canción de los Goodwin es de 1905, pero el Kirwin Chief imprimió el poema de Higley en 1874 [^mechem][^kansapedia].
 
-Kansas hizo de Home on the Range su canción oficial en 1947 [^kansapedia][^kpr][^mechem]. Higley había muerto en Shawnee, Oklahoma, en 1911, y Kelley en Waterloo, Iowa, en 1905 [^mechem][^ohs-marker][^iagenweb]. Las fuentes difieren en detalles: la lápida de Higley da 1822 como año de su nacimiento, y una página de la Historical Society da 1909 como el de su muerte [^ohs-marker][^kansapedia-higley].
+Kansas hizo de Home on the Range su canción oficial en 1947 [^kansapedia][^kpr][^mechem]. Higley había muerto en Shawnee, Oklahoma, en 1911, y Kelley en Waterloo, Iowa, en 1905 [^mechem][^ohs-marker][^iagenweb]. Las fuentes difieren en detalles: la lápida de Higley indica 1822 como año de su nacimiento, y una página de la Historical Society indica 1909 como el de su muerte [^ohs-marker][^kansapedia-higley].
 
 ### Cronología
 
@@ -67,7 +67,7 @@ La canción es el deseo de un colono: un hogar en campo abierto, entre animales 
 2. El aire es puro y los "zephyrs", brisas suaves (la palabra significó primero el viento del oeste) [^webster-zephyr], son libres y templados. Quien canta no cambiaría este hogar por todas las ciudades brillantes.
 3. A los nativos americanos, llamados con el viejo término "red man", los han echado de esta parte del Oeste, y es poco probable que vuelvan a las orillas del Red River, donde ahora rara vez arden sus fogatas. La estrofa cuenta cómo se tomó la tierra, vista desde el lado de los colonos. Mechem la tenía por "una estrofa extraviada", recogida en la ruta del ganado, no parte del poema de Higley [^mechem].
 4. En noches claras, quien canta se ha quedado de pie bajo las estrellas y se ha preguntado si su gloria es mayor que la nuestra.
-5. Quien canta ama las flores silvestres, el grito del zarapito ("curlew"), las rocas blancas y las manadas de antílopes que pastan en las verdes cumbres. Mechem pensaba que el ave era, lo más probable, el zarapito de pico largo, un ave limícola grande de los pastizales secos del Oeste, con un largo pico curvado hacia abajo [^mechem][^audubon].
+5. Quien canta ama las flores silvestres, el grito del zarapito ("curlew"), las rocas blancas y las manadas de antílopes que pastan en las verdes cumbres. Mechem pensaba que el ave era, muy probablemente, el zarapito de pico largo, un ave limícola grande de los pastizales secos del Oeste, con un largo pico curvado hacia abajo [^mechem][^audubon].
 6. Dame una tierra donde la arena brillante destelle en un arroyo lento y un cisne blanco se deslice como una muchacha en un sueño.
 7. La última estrofa convierte el comienzo en una promesa: no cambiaría mi hogar en la pradera.
 
@@ -109,7 +109,7 @@ por todas las ciudades tan brillantes.
 > The red man was pressed from this part of the West,
 A los indígenas los echaron de esta parte del Oeste,
 > He's likely no more to return
-y es probable que ya no vuelva
+y es probable que ya no vuelvan
 > To the banks of Red River where seldom if ever
 a las orillas del Red River, donde rara vez, si acaso,
 > Their flickering camp-fires burn.
@@ -169,7 +169,7 @@ y el cielo no está nublado en todo el día.
 
 Home on the Range ha sido muchas cosas: una pieza de baile en el condado de Smith en la década de 1870, una canción de vaqueros en la ruta del ganado, una de las favoritas de la radio en los años treinta y, desde 1947, la canción oficial del estado de Kansas [^kansapedia][^mechem][^kpr].
 
-Nuestro arreglo está tomado de la impresión de Lomax de 1910, que la pone en Mi bemol y en 6/8; nosotros la cantamos en Sol y en 3/4, como un vals suave [^lomax1910]. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. La soprano lleva la melodía, la contralto canta la letra una tercera o una sexta por debajo, el tenor completa el acorde por el centro, y el bajo sostiene notas largas en "oo" (una u), y solo canta la letra en "Home, home on the range".
+Nuestro arreglo parte de la impresión de Lomax de 1910, que la presenta en Mi bemol y en 6/8; nosotros la cantamos en Sol y en 3/4, como un vals suave [^lomax1910]. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes: soprano y contralto, luego el bajo, luego el tenor. La soprano lleva la melodía, la contralto canta la letra una tercera o una sexta por debajo, el tenor completa el acorde por el centro, y el bajo sostiene notas largas en "oo" (una u), y solo canta la letra en "Home, home on the range".
 
 ## Cómo cantarla
 

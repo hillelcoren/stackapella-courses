@@ -28,11 +28,11 @@ Drunken Sailor, que también se canta como "What Shall We Do with the Drunken Sa
 
 ![[1]]
 
-El 11 de febrero de 1840, Olmsted escribió sobre las canciones que cantaban los hombres mientras halaban de la jarcia. Iban bien "cuando hay una larga fila de hombres halando a la vez". Mr. Freeman, escribió, "suele oficiar de cantor": entonaba la canción "mientras todos los demás se unen al estribillo". A veces, añadió, "todos cantan juntos, como he procurado representar", y así anotó la primera canción que imprimió [^olmsted]: su melodía, con las palabras "Ho! Ho! and up she rises" tres veces y "Early in the morning". Su *Incidents of a Whaling Voyage* salió en Nueva York en 1841, la primera impresión conocida del estribillo, aunque sin la estrofa del marinero borracho [^olmsted][^balladindex].
+El 11 de febrero de 1840, Olmsted escribió sobre las canciones que cantaban los hombres mientras halaban de la jarcia. Venían bien "cuando hay una larga fila de hombres halando a la vez". Mr. Freeman, escribió, "suele oficiar de cantor": entonaba la canción "mientras todos los demás se unen al estribillo". A veces, añadió, "todos cantan juntos, como he procurado representar", y así anotó la primera canción que imprimió [^olmsted]: su melodía, con las palabras "Ho! Ho! and up she rises" tres veces y "Early in the morning". Su *Incidents of a Whaling Voyage* salió en Nueva York en 1841, la primera impresión conocida del estribillo, aunque sin la estrofa del marinero borracho [^olmsted][^balladindex].
 
 ![[2]]
 
-**Los marineros que la recordaban.** La estrofa está impresa en 1908 como muy tarde, en *A Sailor's Garland*, del poeta John Masefield, cuya primera edición salió en 1906 [^masefield][^openlibrary]. W. B. Whall se hizo a la mar en 1861 y pasó once años en los viejos barcos de pasajeros, los East Indiamen, anotando canciones tal como las cantaban los marineros, según su propio relato [^whall]. Escribió que, aunque en general se creía que las shanties nunca se permitían en la Royal Navy, esta canción y otra más se permitían a veces, sobre todo en los guardacostas de aduanas, o se cantaban en voz baja en barcos más grandes [^whall]. En 1914, Cecil Sharp imprimió una versión cantada por James Tucker en Bristol [^sharp], y Frank Bullen, que había sido shantyman en el mar, imprimió otra [^bullen].
+**Los marineros que la recordaban.** La estrofa ya estaba impresa en 1908, en *A Sailor's Garland*, del poeta John Masefield, cuya primera edición salió en 1906 [^masefield][^openlibrary]. W. B. Whall se hizo a la mar en 1861 y pasó once años en los viejos barcos de pasajeros, los East Indiamen, anotando canciones tal como las cantaban los marineros, según su propio relato [^whall]. Escribió que, aunque en general se creía que las shanties nunca se permitían en la Royal Navy, esta canción y otra más se permitían a veces, sobre todo en los guardacostas de aduanas, o se cantaban en voz baja en barcos más grandes [^whall]. En 1914, Cecil Sharp imprimió una versión cantada por James Tucker en Bristol [^sharp], y Frank Bullen, que había sido shantyman en el mar, imprimió otra [^bullen].
 
 ![[3]]
 
@@ -57,9 +57,9 @@ El 11 de febrero de 1840, Olmsted escribió sobre las canciones que cantaban los
 
 La canción es una broma: cada estrofa propone un remedio brusco para que se le pase la borrachera al marinero [^terryscan].
 
-**El estribillo.** "Hooray and up she rises" (¡hurra, y arriba se alza!) es la respuesta de la tripulación. Las impresiones más antiguas lo cantan de otro modo: "Ho! Ho!" en 1841, "Way, hay, there she rises" en Masefield, "Way, ay" en Sharp, "Hoo-rah" en Whall y "Hooray" en Bullen y en Terry [^olmsted][^masefield][^sharp][^whall][^bullen][^terryscan]. Ninguna dice qué es "she" (ella).
+**El estribillo.** "Hooray and up she rises" (¡hurra, y arriba se alza!) es la respuesta de la tripulación. Las impresiones más antiguas lo escriben de otro modo: "Ho! Ho!" en 1841, "Way, hay, there she rises" en Masefield, "Way, ay" en Sharp, "Hoo-rah" en Whall y "Hooray" en Bullen y en Terry [^olmsted][^masefield][^sharp][^whall][^bullen][^terryscan]. Ninguna dice qué es "she" (ella).
 
-**Estrofa 2.** Ponlo en la lancha ("long-boat") hasta que esté sobrio: solía ser el bote más grande que llevaba un barco [^smyth]. En Whall y en Sharp, además, le hacen achicar el agua [^whall][^sharp].
+**Estrofa 2.** Ponlo en la lancha ("long-boat") hasta que esté sobrio: la lancha solía ser el bote más grande que llevaba un barco [^smyth]. En Whall y en Sharp, además, le hacen achicar el agua [^whall][^sharp].
 
 **Estrofa 3.** Quita el tapón ("plug") y empápalo entero. El tapón de un bote era un cono de madera encajado en un agujero de su fondo [^smyth].
 
@@ -145,17 +145,17 @@ de buena mañana.
 
 ## Cómo se canta
 
-Tenía más de un trabajo.
+Servía para más de un trabajo.
 
-- **"Stamp and go".** Whall escribió que era la única canción que se usaba para un "stamp and go": toda la tripulación cantaba mientras marchaba por la cubierta con el cabo, sin pausa entre estrofas. Cuando las tripulaciones se hicieron demasiado pequeñas para marchar tirando de nada, dejó de usarse [^whall]. The Sailor's Word-Book de 1867 da "Stamp and go!" como la orden de avanzar con paso firme en el cabrestante o con un cabo, a menudo al son de un pífano o un violín [^smyth].
+- **"Stamp and go".** Whall escribió que era la única canción que se usaba para un "stamp and go": toda la tripulación cantaba mientras marchaba por la cubierta con el cabo, sin pausa entre estrofas. Cuando las tripulaciones se hicieron demasiado pequeñas para marchar tirando de nada, dejó de usarse [^whall]. The Sailor's Word-Book de 1867 define "Stamp and go!" como la orden de avanzar con paso firme en el cabrestante o con un cabo, a menudo al son de un pífano o un violín [^smyth].
 - **Un estribillo a la carrera.** Masefield describe a toda la tripulación corriendo por la cubierta en las brazas para girar las grandes vergas, pisando fuerte en cada "Way, hay" [^masefield]. A Sharp le contaron que el estribillo se cantaba mientras los marineros marchaban por la cubierta izando una verga [^sharp].
 - **El cabrestante.** Terry la puso entre las shanties de molinete y cabrestante, para levar el ancla, y Sir Walter Runciman, que escribió el prólogo del libro, le contó que la cantaba a menudo para halar mano sobre mano [^terry].
 
 Así que los libros no coinciden en su trabajo principal: un "stamp and go" para Whall, sobre todo el molinete o el cabrestante para Terry [^whall][^terry].
 
-Terry, Masefield y Whall coinciden en que era rápida [^terry][^masefield][^whall]. Difieren en quién cantaba qué. Whall dice que toda la tripulación cantaba cada verso, Masefield la llama un coro sin parte de solista, y Olmsted anotó la suya como la cantaban todos juntos [^whall][^masefield][^olmsted]. Sharp y Bullen dan la estrofa al shantyman y el estribillo a la tripulación [^sharp][^bullen].
+Terry, Masefield y Whall coinciden en que era rápida [^terry][^masefield][^whall]. Difieren en quién cantaba qué. Whall dice que toda la tripulación cantaba cada verso, Masefield la llama un coro sin parte de solista, y Olmsted anotó la suya como la cantaban todos juntos [^whall][^masefield][^olmsted]. Sharp y Bullen asignan la estrofa al shantyman y el estribillo a la tripulación [^sharp][^bullen].
 
-Terry la imprimió en 2/4, sin armadura, en Re dórico, una escala de sonido menor con la sexta elevada [^terryscan][^terry]. Nuestro arreglo está tomado de su página, un tono más arriba, en Mi, y más lento de lo que la cantaban en los barcos: la estrofa 1 y el estribillo para 2 a 4 cantantes; la soprano canta sola la estrofa, como la escribió Terry, y las demás voces se unen en el estribillo con las notas de su acompañamiento de piano. La armonía es suya, no de los barcos.
+Terry la imprimió en 2/4, sin armadura, en Re dórico, una escala de sonido menor con la sexta elevada [^terryscan][^terry]. Nuestro arreglo parte de su página, un tono más arriba, en Mi, y más lento de lo que la cantaban en los barcos: la estrofa 1 y el estribillo para 2 a 4 cantantes; la soprano canta sola la estrofa, como la escribió Terry, y las demás voces se unen en el estribillo con las notas de su acompañamiento de piano. La armonía es suya, no de los barcos.
 
 ## Versiones y otras letras
 
@@ -171,13 +171,13 @@ Terry la imprimió en 2/4, sin armadura, en Re dórico, una escala de sonido men
 - [Soprano](/songs/drunken-sailor/soprano): eres el solista (el shantyman). Canta a solas "What shall we do with a drunken sailor" y luego encabeza el estribillo. El tercer verso de cada uno sube hasta tu Mi agudo, en el "-lor" del tercer "sailor" y en el "-ses" del tercer "rises"; el Do sostenido de la subida, en el tercer "drunken" y en el tercer "she", es la nota que hace dórica la melodía.
 - [Contralto](/songs/drunken-sailor/alto): descansas durante la estrofa y entras en "Hooray and up she rises", sobre todo en Sol y Fa sostenido, y bajas a un Sol grave en "morning".
 - [Tenor](/songs/drunken-sailor/tenor): entras en el estribillo con acordes fuertes y sencillos, sobre todo en Si y La; subes a Re en el tercer "up" y terminas en Mi en "morning".
-- [Bajo](/songs/drunken-sailor/bass): cantas el estribillo sobre todo en las fundamentales de los acordes, Mi y Re por encima de todo, y bajas a un Sol grave en el tercer "rises". Mantenlo firme, como pies sobre la cubierta.
+- [Bajo](/songs/drunken-sailor/bass): cantas el estribillo sobre todo en las fundamentales de los acordes, Mi y Re por encima de todo, y bajas a un Sol grave en el tercer "rises". Mantenlo firme, como los pies sobre la cubierta.
 
 ## Preguntas
 
 ### ¿Quién escribió originalmente Drunken Sailor?
 
-Nadie lo sabe: es tradicional, y ninguna fuente antigua nombra a un autor. Su estribillo está impreso ya en 1841, a partir de un diario escrito en 1840 en el ballenero North America, de New London, donde la tripulación la cantaba a la vez mientras halaba [^olmsted][^balladindex]. La estrofa, "What shall we do with a drunken sailor", está impresa en 1908 como muy tarde, en *A Sailor's Garland*, de John Masefield [^masefield]. La melodía que cantamos es la que imprimió Richard Terry en 1921 [^terryscan].
+Nadie lo sabe: es tradicional, y ninguna fuente antigua nombra a un autor. Su estribillo está impreso ya en 1841, a partir de un diario escrito en 1840 en el ballenero North America, de New London, donde la tripulación la cantaba a la vez mientras halaba [^olmsted][^balladindex]. La estrofa, "What shall we do with a drunken sailor", ya estaba impresa en 1908, en *A Sailor's Garland*, de John Masefield [^masefield]. La melodía que cantamos es la que imprimió Richard Terry en 1921 [^terryscan].
 
 ### ¿Cuál es la letra original de Drunken Sailor?
 
@@ -189,7 +189,7 @@ Ninguna fuente antigua de las que hemos leído lo dice. El documento más antigu
 
 ### ¿Qué significa la hija del capitán ("the captain's daughter") en Drunken Sailor?
 
-No encontramos ninguna impresión anterior a 1921 con esa estrofa: no está en ninguna de las versiones impresas de 1841 a 1921 que hemos leído [^olmsted][^masefield][^whall][^sharp][^terryscan]. Hay quien dice que significa una tanda de azotes, pero no encontramos ninguna impresión anterior a 1921 que la lea así. Los marineros sí tenían un nombre de esa forma: The Sailor's Word-Book de 1867 dice que "the gunner's daughter" (la hija del artillero) era el cañón al que se "casaba" a los grumetes, es decir, se los amarraba, para castigarlos [^smyth].
+No encontramos ninguna impresión anterior a 1921 con esa estrofa: no está en ninguna de las versiones impresas de 1841 a 1921 que hemos leído [^olmsted][^masefield][^whall][^sharp][^terryscan]. Hay quien dice que significa una tanda de azotes, pero no encontramos ninguna impresión anterior a 1921 que la interprete así. Los marineros sí tenían un nombre de esa forma: The Sailor's Word-Book de 1867 dice que "the gunner's daughter" (la hija del artillero) era el cañón al que se "casaba" a los grumetes, es decir, se los amarraba, para castigarlos [^smyth].
 
 ### ¿Qué voz canta la melodía?
 

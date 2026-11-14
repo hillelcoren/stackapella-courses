@@ -35,7 +35,7 @@ La Paloma es una habanera, una canción con el ritmo de la danza cubana de ese n
 
 ![[2]]
 
-**Las páginas que leímos.** Nuestro arreglo sale de una edición de Nueva York, con copyright de 1906, de la serie "Vocal Blossoms" de Century Music, n.º 84, "La Paloma, Low, C, Yradier" [^century1906]. La página 2 lleva el encabezado "LA PALOMA. CANCIÓN AMERICANA.", con una letra en inglés de "M. H. R." sobre la española. Bajo la letra española, un antiguo dueño escribió a lápiz una traducción literal al inglés, que empieza en la página 2 con "When I came up from the havana protect me God" [^century1906]. La cotejamos con el Artists' Vocal Album de 1887 (Boston, White, Smith & Co.), donde la canción es "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", con su página marcada "Copyright, 1878" [^ava1887]. Los dos impresos tienen la misma primera estrofa y la misma coda rápida, casi hablada.
+**Las páginas que leímos.** Nuestro arreglo parte de una edición de Nueva York, con copyright de 1906, de la serie "Vocal Blossoms" de Century Music, n.º 84, "La Paloma, Low, C, Yradier" [^century1906]. La página 2 lleva el encabezado "LA PALOMA. CANCIÓN AMERICANA.", con una letra en inglés de "M. H. R." sobre la española. Bajo la letra española, un antiguo dueño escribió a lápiz una traducción literal al inglés, que empieza en la página 2 con "When I came up from the havana protect me God" [^century1906]. La cotejamos con el Artists' Vocal Album de 1887 (Boston, White, Smith & Co.), donde la canción es "La Paloma (Fly, Dove, o'er the Billow)", "Translated by L. C. Elson", con su página marcada "Copyright, 1878" [^ava1887]. Los dos impresos tienen la misma primera estrofa y la misma coda rápida, casi hablada.
 
 ![[3]]
 
