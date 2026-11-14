@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: daisy bell historia | daisy bell significado | quién escribió daisy bell | daisy bell letra en español | daisy bell computadora | daisy bell hal 9000
-translatedFrom: 197830c32013
+translatedFrom: aba757e83258
 original: Harry Dacre, Daisy Bell (T. B. Harms & Co., copyright 1892), Internet Archive | https://archive.org/details/daisybell00harr
 listen: UCSB Cylinder Audio Archive, grabación de 1894 | https://www.library.ucsb.edu/OBJID/Cylinder10477 || National Jukebox, grabación de 1915, un popurrí que incluye Daisy Bell | https://archive.org/details/loc-jukebox-13605-songs-of-the-past-no-1 || National Jukebox, grabación de 1922, un popurrí que incluye Daisy Bell | https://archive.org/details/loc-jukebox-669619-medley-of-old-timers
 ---
@@ -143,7 +143,7 @@ te dejaré usar el freno,
 
 Daisy Bell es una canción popular de la década de 1890 en tiempo de vals, vendida como partitura para voz y piano y cantada en el escenario del music hall [^harms1892][^powell][^loc-nrr]. En 1926, el historiador de la canción Sigmund Spaeth escribió que seguía en las hojas de canciones de los clubes Kiwanis y Rotary, y que el público, cuando cantaba en grupo, todavía la entonaba [^spaeth].
 
-Nuestro arreglo está tomado de la partitura de Dacre (copyright 1892), en su propia tonalidad, Sol, y en 3/4 [^harms1892]. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes, todas las voces con la letra: soprano y contralto, luego el bajo y luego el tenor. La armonía es nuestra propia armonía cerrada, construida sobre los acordes de la parte de piano de Dacre, y en "Of a", justo antes del último verso, la melodía canta sola.
+Nuestro arreglo está tomado de la partitura de Dacre (copyright 1892), en su propia tonalidad, Sol, y en 3/4 [^harms1892]. Cantamos la primera estrofa y el estribillo, para 2 a 4 cantantes, todas las voces con la letra: soprano y contralto, luego el bajo y luego el tenor. La armonía es nuestra propia armonía cerrada, construida sobre los acordes de la parte de piano de Dacre, y en "Of a", al comienzo del último verso, la melodía canta sola.
 
 ## ¿Sabías que...?
 
@@ -156,7 +156,7 @@ Nuestro arreglo está tomado de la partitura de Dacre (copyright 1892), en su pr
 
 - [Soprano](/songs/daisy-bell/soprano): llevas la melodía, desde el Re por encima del Do central hasta el Mi una novena más arriba. En la estrofa, "Daisy, Daisy!" salta una octava, del Re grave al Re agudo. Tu único Mi agudo llega en "ti-" de "beau-ti-ful", y "Bell!" sostiene luego un Re agudo. Mantén ligero el tresillo de "mar-", canta "Of a" a solas y sostén el último "two!" durante dos compases.
 - [Contralto](/songs/daisy-bell/alto): cantas muy cerca por debajo de la melodía, sobre todo una tercera o una sexta más abajo. En los finales graves de los versos de la estrofa, "heart", "-sy" del primer "Daisy", "dart", "not" y "lot", la melodía baja por debajo de ti y tú te quedas en la nota de encima; en el primer "Bell!" subes a tu Si agudo, sobre el Sol de la melodía.
-- [Tenor](/songs/daisy-bell/tenor): cantas en el centro del acorde, sobre todo en Sol, Do, Re y Si. En "Some-" y "hard" de "Sometimes it's hard to tell", tu Do es la séptima del acorde de Re7, así que afínalo con cuidado. Al final bajas paso a paso por "bi-cy-cle built for two!" hasta el Re grave, tu nota más grave, sostenido durante dos compases.
+- [Tenor](/songs/daisy-bell/tenor): cantas en el centro del acorde, sobre todo en Sol, Do, Re y Si. En "Some-" y "hard" de "Sometimes it's hard to tell", tu Do es la séptima del acorde de Re7, así que afínalo con cuidado. Al final bajas desde el Re de "bi-cy-" por Do, La y Fa sostenido en "-cle built for", casi todo por terceras, hasta el Re grave de "two!", tu nota más grave, sostenido durante dos compases.
 - [Bajo](/songs/daisy-bell/bass): cantas la letra en la línea del bajo, grave y firme, sobre todo en Sol y Re, con Mi. "Plant-ed by Dai-sy Bell!" empieza en tu Sol grave y sube pasando por Re hasta el Sol una octava más arriba. Terminas en el Sol grave bajo "two!", sostenido durante dos compases.
 
 ## Preguntas

@@ -19,7 +19,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: danny boy significado | danny boy historia | quién escribió danny boy | danny boy letra en español | danny boy canción de funeral | danny boy es irlandesa o escocesa
-translatedFrom: 63d8cf6bcd1b
+translatedFrom: cd6c08c7a488
 listen: National Jukebox, grabación de 1917 | https://www.loc.gov/item/jukebox-189331/ || Internet Archive, grabación de Edison de 1918 | https://archive.org/details/edison-82559_01_6475
 original: The Petrie Collection (1855), Internet Archive | https://archive.org/details/petriecollection01petr/page/n84/mode/1up || Danny Boy, Boosey & Co. (copyright de 1913; ejemplar impreso en 1920 o después), Connecticut College | https://digitalcommons.conncoll.edu/sheetmusic/45
 ---
@@ -127,10 +127,10 @@ Nuestro arreglo toma la melodía tal como la imprimió Petrie en 1855 y le ajust
 
 ## Cómo cantarla
 
-- [Soprano](/songs/danny-boy/soprano): la melodía, lenta y amplia. La primera mitad se queda más grave y baja a un La sostenido grave en el primer "It's you". La segunda mitad sube: "come ye back" y "the valley's" llegan a Re, y "I'll be here" alcanza la cima en el Fa sostenido agudo. Cántalo con suavidad.
+- [Soprano](/songs/danny-boy/soprano): la melodía, lenta y amplia. La primera mitad se queda más grave y baja a un La sostenido grave en el primer "It's" de "It's you, it's you". La segunda mitad sube: "come ye back" llega a Re en "back" y "the valley's" en "val-", y "I'll be here" alcanza la cima en "here", en el Fa sostenido agudo. Cántalo con suavidad.
 - [Contralto](/songs/danny-boy/alto): la letra bajo la melodía, a menudo repitiendo una sola nota: todo "the pipes, the pipes" va en Re, y "summer's in the meadow" en Fa sostenido. Su nota más grave, un Sol grave, llega en "are calling" y otra vez desde el final de "falling" hasta "It's you".
-- [Tenor](/songs/danny-boy/tenor): La durante más de dos tercios de la canción. Los momentos en que se aparta son los que hay que aprender: baja a Re grave en "you, it's you must", en "hushed and white with" y en el último "oh Danny", y sube una vez a Do sostenido en "when summer's".
-- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y solo entra en "boy". Baja a su Sol grave bajo "the roses falling" y sube a Fa sostenido bajo "when summer's"; ponlo en solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
+- [Tenor](/songs/danny-boy/tenor): La durante más de dos tercios de la canción. Los momentos en que se aparta son los que hay que aprender: baja a Re grave en "you, it's you must", en "hushed and white with" y en el último "oh Danny", y sube una vez a Do sostenido en el "-mer's" de "when summer's".
+- [Bajo](/songs/danny-boy/bass): notas largas en "oo", sobre todo Re y La, y solo entra en "boy". Baja a su Sol grave bajo el "-ses" de "roses" y "falling, It's" y sube a Fa sostenido bajo "when summer's"; ponlo en solo en el reproductor para oír cómo se mueve ahí la línea del bajo.
 
 ## Preguntas
 
@@ -152,7 +152,7 @@ Sí, la letra y la melodía lo son. La melodía se imprimió en 1855. La letra d
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía todo el tiempo. La contralto y el tenor cantan la letra con ella, la contralto justo por debajo y el tenor casi siempre en una sola nota, La. El bajo no canta letra: sostiene las notas graves en "oo". Con dos cantantes son soprano y contralto; el bajo se suma en tercer lugar.
+La soprano canta la melodía todo el tiempo. La contralto y el tenor cantan la letra con ella, la contralto justo por debajo y el tenor sobre todo en una sola nota, La. El bajo no canta letra: sostiene las notas graves en "oo". Con dos cantantes son soprano y contralto; el bajo se suma en tercer lugar.
 
 ## Canta después
 

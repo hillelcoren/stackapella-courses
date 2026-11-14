@@ -109,7 +109,7 @@ My beautiful Daisy Bell!
 
 Daisy Bell is a popular song of the 1890s in waltz time, sold as sheet music for voice and piano and sung on the music hall stage [^harms1892][^powell][^loc-nrr]. In 1926 the song historian Sigmund Spaeth wrote that it was still on the song sheets of Kiwanis and Rotary clubs, and that singing crowds still took it up [^spaeth].
 
-Our arrangement is read from Dacre's sheet music (copyright 1892), in its own key of G and in 3/4 [^harms1892]. We sing the first verse and the chorus, for 2 to 4 singers, all on the words: soprano and alto, then the bass, then the tenor. The harmony is our own close harmony, built on the chords of Dacre's piano part, and on "Of a", just before the last line, the tune sings alone.
+Our arrangement is read from Dacre's sheet music (copyright 1892), in its own key of G and in 3/4 [^harms1892]. We sing the first verse and the chorus, for 2 to 4 singers, all on the words: soprano and alto, then the bass, then the tenor. The harmony is our own close harmony, built on the chords of Dacre's piano part, and on "Of a", at the start of the last line, the tune sings alone.
 
 ## Did you know?
 
@@ -122,7 +122,7 @@ Our arrangement is read from Dacre's sheet music (copyright 1892), in its own ke
 
 - [Soprano](/songs/daisy-bell/soprano): you carry the tune, from the D above middle C to the E a ninth higher. In the verse, "Daisy, Daisy!" leaps an octave from low D to high D. Your only top E comes on "ti-" of "beau-ti-ful", and "Bell!" then holds a high D. Keep the triplet on "mar-" light, sing "Of a" on your own, and hold the last "two!" for two bars.
 - [Alto](/songs/daisy-bell/alto): you sing close under the tune, mostly a third or a sixth below it. At the low ends of the verse's lines, "heart", "-sy" of the first "Daisy", "dart", "not" and "lot", the tune drops below you and you keep the note above it; on the first "Bell!" you rise to your top B over the tune's G.
-- [Tenor](/songs/daisy-bell/tenor): you sing in the middle of the chord, mostly on G, C, D and B. On "Some-" and "hard" in "Sometimes it's hard to tell" your C is the seventh of the D7 chord, so tune it with care. At the end you walk down "bi-cy-cle built for two!" to the low D, your lowest note, held for two bars.
+- [Tenor](/songs/daisy-bell/tenor): you sing in the middle of the chord, mostly on G, C, D and B. On "Some-" and "hard" in "Sometimes it's hard to tell" your C is the seventh of the D7 chord, so tune it with care. At the end you come down from D on "bi-cy-" through C, A and F sharp on "-cle built for", mostly in thirds, to the low D on "two!", your lowest note, held for two bars.
 - [Bass](/songs/daisy-bell/bass): you sing the words on the bass line, low and steady, mostly on G and D, with E. "Plant-ed by Dai-sy Bell!" starts on your low G and climbs through D to the G an octave above. You end on the low G under "two!", held for two bars.
 
 ## Questions

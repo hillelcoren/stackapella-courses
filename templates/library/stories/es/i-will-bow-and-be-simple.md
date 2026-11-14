@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i will bow and be simple | i will bow and be simple letra | i will bow and be simple partitura
-translatedFrom: ca3d9eeef4fd
+translatedFrom: 54d930deca71
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
@@ -92,9 +92,9 @@ Andrews imprimió la melodía en 1940 como canción n.º 29, en Do y en 2/4, y s
 
 ## Cómo cantarla
 
-- [Soprano](/songs/i-will-bow-and-be-simple/soprano): llevas la melodía, que empieza en el Do central y sube Do, Mi, Sol en "I will bow". La primera sección salta una sexta hasta su Mi agudo en "hum-ble". En la segunda cantas ese Mi agudo cinco veces seguidas, en "be broken, yea I'll", y luego desciendes en "fall upon the rock", que termina en el Do por encima del Do central.
+- [Soprano](/songs/i-will-bow-and-be-simple/soprano): llevas la melodía, que empieza en el Do central y sube Do, Mi, Sol en "I will bow". La primera sección salta una sexta hasta su Mi agudo en el "hum-" de "hum-ble". En la segunda cantas ese Mi agudo cinco veces seguidas, en "be broken, yea I'll", y luego desciendes en "fall upon the rock", que termina en el Do por encima del Do central.
 - [Contralto](/songs/i-will-bow-and-be-simple/alto): empiezas en el Do central con la melodía, y luego cantas la letra casi siempre una tercera o una sexta por debajo. Bajo los cinco Mi agudos de la soprano sostienes Sol cinco veces. En la segunda sección, tu única nota baja es el Re en "-ken" de "token".
-- [Tenor](/songs/i-will-bow-and-be-simple/tenor): cantas la letra sobre todo en Sol y Do. La segunda sección te lleva más arriba, a Re en "to-ken" y en "bow" de "bow and be broken", y baja a Si en "I will" y "yea I'll"; tu nota más grave es el Fa en "will" de "I will wear".
+- [Tenor](/songs/i-will-bow-and-be-simple/tenor): cantas la letra sobre todo en Sol y Do. La segunda sección te lleva más arriba, a Re en el "to-" de "to-ken" y en "bow" de "bow and be broken", y baja a Si en "I will" y "yea I'll"; tu nota más grave es el Fa en "will" de "I will wear".
 - [Bajo](/songs/i-will-bow-and-be-simple/bass): cantas "oo", entras después de la anacrusa de dos notas y sostienes un Do grave durante dos compases enteros. La primera sección son notas largas sostenidas; en la segunda te mueves más: bajas a tu nota más grave, un La, bajo "is the" en "this is the token", y luego vas y vienes entre Mi, Re y Do bajo "I will bow and be broken".
 
 ## Preguntas

@@ -110,10 +110,10 @@ Our arrangement takes the tune as Petrie printed it in 1855 and fits Weatherly's
 
 ## Singing it
 
-- [Soprano](/songs/danny-boy/soprano): the tune, slow and wide. The first half stays lower, dipping to a low A sharp on the first "It's you". The second half climbs: "come ye back" and "the valley's" reach D, and "I'll be here" peaks on the top F sharp. Take it gently.
+- [Soprano](/songs/danny-boy/soprano): the tune, slow and wide. The first half stays lower, dipping to a low A sharp on the first "It's" of "It's you, it's you". The second half climbs: "come ye back" reaches D on "back" and "the valley's" on "val-", and "I'll be here" peaks on "here", on the top F sharp. Take it gently.
 - [Alto](/songs/danny-boy/alto): the words under the tune, often repeating one note: all of "the pipes, the pipes" sits on D, and "summer's in the meadow" on F sharp. Its lowest note, a low G, comes on "are calling" and again from the end of "falling" through "It's you".
-- [Tenor](/songs/danny-boy/tenor): A for more than two thirds of the song. The moves away are the moments to learn: down to low D on "you, it's you must", on "hushed and white with", and on the last "oh Danny", and up once to C sharp on "when summer's".
-- [Bass](/songs/danny-boy/bass): long notes on "oo", mostly D and A, coming in only on "boy". It drops to its low G under "the roses falling" and rises to F sharp under "when summer's"; solo it in the player to hear the bass line move there.
+- [Tenor](/songs/danny-boy/tenor): A for more than two thirds of the song. The moves away are the moments to learn: down to low D on "you, it's you must", on "hushed and white with", and on the last "oh Danny", and up once to C sharp on the "-mer's" of "when summer's".
+- [Bass](/songs/danny-boy/bass): long notes on "oo", mostly D and A, coming in only on "boy". It drops to its low G under the "-ses" of "roses" and "falling, It's" and rises to F sharp under "when summer's"; solo it in the player to hear the bass line move there.
 
 ## Questions
 

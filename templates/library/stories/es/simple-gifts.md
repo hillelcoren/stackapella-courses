@@ -110,7 +110,7 @@ En 1963, el compositor inglés Sydney Carter puso su propia letra, Lord of the D
 ## Cómo cantarla
 
 - [Soprano](/songs/simple-gifts/soprano): llevas la melodía, un baile ligero que se mueve sobre todo por grados conjuntos y en notas repetidas, de Re hasta el Re una octava más arriba. La segunda mitad empieza en ese Re agudo, en "When"; toma la respiración marcada justo antes.
-- [Contralto](/songs/simple-gifts/alto): cantas la letra por debajo de la melodía, casi siempre una tercera más abajo. Empiezas con cuatro Si repetidos mientras la melodía sube de Re a Sol; donde la melodía se mueve, a menudo sostienes tu nota.
+- [Contralto](/songs/simple-gifts/alto): cantas la letra por debajo de la melodía, con más frecuencia una tercera más abajo. Empiezas con cuatro Si repetidos mientras la melodía sube de Re a Sol; donde la melodía se mueve, a menudo sostienes tu nota.
 - [Tenor](/songs/simple-gifts/tenor): cantas la letra sobre todo en Sol y Si. El primer verso se queda en Sol durante nueve notas antes de subir a Si en el segundo "gift", así que es una voz fácil de mantener firme.
 - [Bajo](/songs/simple-gifts/bass): sostienes la línea del bajo en "oo", sobre todo con notas largas y graves que vuelven una y otra vez a Sol. Entras después de la anacrusa, en un Sol grave.
 
@@ -134,7 +134,7 @@ Mary Hazzard la escribió en Do, en la notación por letras de los shakers, con 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto canta la letra muy cerca, por debajo de la melodía, casi siempre una tercera más abajo; el tenor canta la misma letra más grave, sobre todo en Sol y Si; y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
+La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto canta la letra muy cerca, por debajo de la melodía, con más frecuencia una tercera más abajo; el tenor canta la misma letra más grave, sobre todo en Sol y Si; y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
 
 ## Canta después
 

@@ -17,7 +17,7 @@ updated: 2026-11-12
 checked: 2026-11-12
 reviewed: true
 searches: canción de cuna de brahms historia | canción de cuna de brahms significado | quién escribió la canción de cuna de brahms | canción de cuna de brahms letra original en alemán | guten abend gut nacht significado | lullaby and good night letra en español
-translatedFrom: 70b1fbc483eb
+translatedFrom: 6b2ac8e398f6
 listen: National Jukebox, grabación de 1906, en alemán | https://www.loc.gov/item/jukebox-123756/ || National Jukebox, grabación de 1912, en inglés | https://www.loc.gov/item/jukebox-132112/
 original: La primera edición, N. Simrock, Berlín, 1868, Brahms-Institut Lübeck | https://www.brahms-portal.de/objekt/dc00008243
 ---
@@ -132,7 +132,7 @@ Es un Lied, una canción de concierto para voz y piano, y durante medio siglo an
 
 ![[3]]
 
-Nuestro arreglo está tomado de la primera edición, en la tonalidad de Brahms, Mi bemol, con la letra inglesa de Westbrook y su reparto de sílabas bajo las notas tomados del libro de Ditson de 1903, que imprimió la canción en Do [^first-ed][^forty]. Cantamos dos estrofas, como las dan las impresiones desde la década de 1870 en adelante (la primera edición tiene una estrofa, con un signo de repetición para cantarla otra vez), y dejamos fuera sus dos notas de adorno [^first-ed][^simrock-en]. Es para 2 a 4 cantantes: la soprano lleva la melodía, la contralto canta la misma letra una tercera o una sexta por debajo, y el tenor y el bajo cantan suaves acordes en "oo" (una u) tomados de la mano izquierda de Brahms.
+Nuestro arreglo está tomado de la primera edición, en la tonalidad de Brahms, Mi bemol, con la letra inglesa de Westbrook y su reparto de sílabas bajo las notas tomados del libro de Ditson de 1903, que imprimió la canción en Do [^first-ed][^forty]. Cantamos dos estrofas, como las dan las impresiones desde la década de 1870 en adelante (la primera edición tiene una estrofa, con un signo de repetición para cantarla otra vez), y dejamos fuera sus dos notas de adorno [^first-ed][^simrock-en]. Es para 2 a 4 cantantes: la soprano lleva la melodía, la contralto canta la misma letra, sobre todo una tercera o una sexta por debajo, y el tenor y el bajo cantan suaves acordes en "oo" (una u) tomados de la mano izquierda de Brahms.
 
 ## ¿Sabías que...?
 
@@ -141,10 +141,10 @@ Nuestro arreglo está tomado de la primera edición, en la tonalidad de Brahms, 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/brahms-lullaby/soprano): la melodía de Brahms, que se mece como una cuna, con cada verso en una sola respiración cómoda. Cada "If God will" y "They will guard" salta una octava entera, del Mi bemol grave al agudo, así que canta con ligereza el "If God" grave y deja que la voz flote hacia arriba; el Mi bemol agudo vuelve en "roses", "head", "blue" y "fear".
+- [Soprano](/songs/brahms-lullaby/soprano): la melodía de Brahms, que se mece como una cuna, con cada verso en una sola respiración cómoda. Cada "If God will" y "They will guard" salta una octava entera, del Mi bemol grave al agudo, así que canta con ligereza el "If God" grave y deja que la voz flote hacia arriba; el Mi bemol agudo vuelve en el "ro-" de "roses", en "head", "blue" y "fear".
 - [Contralto](/songs/brahms-lullaby/alto): empieza cada estrofa en el mismo Sol que la melodía y luego canta la letra sobre todo una tercera o una sexta por debajo de ella. En "Creep into thy bed" y "Bright angels are near" se queda en un mismo Re. Baja a su Sol grave en cada "If God", "They will", "wake" y "harm", y en la última palabra de cada estrofa, "break" y "charm".
-- [Tenor](/songs/brahms-lullaby/tenor): suaves acordes en "oo" de la parte de piano de Brahms en solo cuatro notas, Fa, Sol, La bemol y Si bemol. En los cuatro primeros versos de cada estrofa sostiene Si bemol; debajo de "If God will" y "They will guard" se mueve con suavidad entre Sol y La bemol, con un Fa debajo de "morning" y "dream-land's".
-- [Bajo](/songs/brahms-lullaby/bass): notas graves en "oo" en solo tres notas, Si bemol, Mi bemol y La bemol, casi siempre la fundamental del acorde. Hace silencio en la anacrusa de cada verso y entra en el tiempo fuerte, y llega a su La bemol grave debajo de "will" y "guard".
+- [Tenor](/songs/brahms-lullaby/tenor): suaves acordes en "oo" de la parte de piano de Brahms en solo cuatro notas, Fa, Sol, La bemol y Si bemol. En los cuatro primeros versos de cada estrofa sostiene Si bemol; debajo de "If God will" y "They will guard" se mueve con suavidad entre Sol y La bemol, con un Fa que empieza en cada "morn-" de "morning" y "dream-" de "dream-land's".
+- [Bajo](/songs/brahms-lullaby/bass): notas graves en "oo" en solo tres notas, Si bemol, Mi bemol y La bemol, siempre la fundamental del acorde. Hace silencio en la anacrusa de cada verso y entra en el tiempo fuerte, y llega a su La bemol grave debajo de "will" y "guard".
 
 ## Preguntas
 

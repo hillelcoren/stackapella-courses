@@ -16,7 +16,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: asleep in the deep historia | asleep in the deep significado | quién escribió asleep in the deep | asleep in the deep letra en español | asleep in the deep solo de bajo | asleep in the deep nota más grave
-translatedFrom: 90d422d0c297
+translatedFrom: b2e48b61a896
 original: Lester S. Levy Sheet Music Collection, caja 145, ítem 046, Johns Hopkins | https://levysheetmusic.mse.jhu.edu/collection/145/046
 listen: National Jukebox, grabación de 1901 | https://www.loc.gov/item/jukebox-5329/ || National Jukebox, grabación de 1913 | https://www.loc.gov/item/jukebox-186846/
 ---
@@ -138,10 +138,10 @@ Nuestro arreglo está tomado de la edición de Mills en Fa, cotejada con la edic
 
 ## Cómo cantarla
 
-- [Bajo](/songs/asleep-in-the-deep/bass): llevas la melodía de Petrie y toda la letra, desde un Fa grave hasta un Re agudo, así que canta con suavidad las notas más agudas y las más graves. "Stormy the night" sube por el acorde desde el Do hasta la octava y vuelve a bajar. Tu Re agudo llega en "lovers stand", en "-or" del primer "Sailor" y en "Danger". Después de "Danger", los dos últimos "Beware!" bajan paso a paso: Re, Do, Si bemol, La. El primer "Many brave hearts are asleep in the deep" sube por la escala desde el Sol grave hasta el Si bemol; el segundo baja hasta el último "beware!", sostenido en el Fa grave.
-- [Contralto](/songs/asleep-in-the-deep/alto): sostienes acordes suaves en "oo" (una u) en el centro, sobre todo en el La y el Mi, entre un La grave y un Do. En "Tho' death be near, she knows no fear" vas y vienes entre Sol sostenido y Do bajo la melodía; afina alto el Sol sostenido. Tu La grave llega cerca del final, bajo el último "ware!" del primer "So beware! beware!".
-- [Soprano](/songs/asleep-in-the-deep/soprano): dejas flotar acordes suaves en "oo" muy por encima del bajo, sobre todo en el Do, con Si bemol, Re y La. Tu único Mi agudo llega pronto, bajo "ship" en "Bravely the ship doth ride". Bajo el último de los "Beware!" que descienden sostienes un Do sostenido, la nota brillante de un acorde de La mayor.
-- [Tenor](/songs/asleep-in-the-deep/tenor): cantas en "oo" cerca de la melodía del bajo, sobre todo en el Do. Cuando empieza el estribillo subes a Fa y lo sostienes bajo "Loudly the bell"; bajo "Sailor" tocas un Mi bemol, y bajo el primero de los "Beware!" que descienden bajas a tu Fa grave.
+- [Bajo](/songs/asleep-in-the-deep/bass): llevas la melodía de Petrie y toda la letra, desde un Fa grave hasta un Re agudo, así que canta con suavidad las notas más agudas y las más graves. "Stormy the night" sube por el acorde desde el Do hasta la octava y vuelve a bajar. Tu Re agudo llega en "lovers stand", en "-or" del primer "Sailor" y en el "Dan-" de "Danger". Después de "Danger", los dos últimos "Beware!" bajan paso a paso: Re, Do, Si bemol, La. El primer "Many brave hearts are asleep in the deep" sube por la escala desde el Sol grave hasta el Si bemol; el segundo baja hasta el último "beware!", sostenido en el Fa grave.
+- [Contralto](/songs/asleep-in-the-deep/alto): sostienes acordes suaves en "oo" (una u) en el centro, sobre todo en el La y el Mi, entre un La grave y un Do. En "Tho' death be near, she knows no fear" vas y vienes entre Sol sostenido y Do por encima de la melodía; afina alto el Sol sostenido. Tu La grave llega cerca del final, bajo el último "ware!" del primer "So beware! beware!" y otra vez bajo el "Many brave" que le sigue.
+- [Soprano](/songs/asleep-in-the-deep/soprano): dejas flotar acordes suaves en "oo" muy por encima del bajo, sobre todo en el Do, con Si bemol, Re y La. Tu único Mi agudo llega pronto, bajo "ship doth" en "Bravely the ship doth ride". Bajo el "-ware!" del último de los "Beware!" que descienden sostienes un Do sostenido, la nota brillante de un acorde de La mayor.
+- [Tenor](/songs/asleep-in-the-deep/tenor): cantas en "oo" cerca de la melodía del bajo, sobre todo en el Do. Cuando empieza el estribillo subes a Fa y lo sostienes bajo "Loudly the bell in the"; bajo el primer "Sailor, take" tocas un Mi bemol; y bajo el primero de los "Beware!" que descienden bajas a tu Fa grave, que sigue sonando bajo el siguiente "Be-", y vuelves a él bajo el segundo "Many brave".
 
 ## Preguntas
 

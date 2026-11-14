@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: auld lang syne significado | auld lang syne traducción | quién escribió auld lang syne | auld lang syne historia | por qué se canta auld lang syne en año nuevo
-translatedFrom: 966599573267
+translatedFrom: 862a4f8c0150
 original: The Scots Musical Museum, Internet Archive | https://archive.org/details/scotsmusicalmuv300john/page/n22
 listen: National Jukebox, grabación de 1918 | https://www.loc.gov/item/jukebox-28325/ || National Jukebox, grabación de 1908 | https://www.loc.gov/item/jukebox-422466/
 ---
@@ -156,7 +156,7 @@ En el mismo volumen de 1799, Thomson puso "Now Spring has clad the grove in gree
 
 - [Soprano](/songs/auld-lang-syne/soprano): cantas la melodía, desde el Do central hasta el Re una novena por encima. El segundo verso sube La, Do, Re en "brought to mind?", y ese Re es tu nota más aguda, sostenida; respira en el silencio y empieza el tercer verso en ese mismo Re. En "lang" bajas de Re a Do antes de un Fa largo en "syne?".
 - [Contralto](/songs/auld-lang-syne/alto): cinco notas graves, desde el La por debajo del Do central hasta Mi. Empiezas en La las cuatro primeras sílabas, luego subes por Do hasta Mi en "be" y te meces entre Re y Mi en "forgot". "Never brought to" está en Do, y tus notas largas cierran los versos: Si bemol en "mind?", La en "syne?".
-- [Tenor](/songs/auld-lang-syne/tenor): tu nota base es Fa. Empiezas justo por debajo, en Mi, en "Should", subes a Sol en "be forgot" y a La en "-ver brought to", y vuelves a Fa cada vez. El momento que hay que practicar es la última palabra: desde Fa bajas una cuarta hasta el Do grave y lo sostienes en "syne?".
+- [Tenor](/songs/auld-lang-syne/tenor): tu nota base es Fa. Empiezas justo por debajo, en Mi, en "Should", subes a Sol en cada "be forgot", subes una tercera hasta La en "-ver brought to" y en el segundo "acquaintance", y vuelves a Fa cada vez. El momento que hay que practicar es la última palabra: desde Fa bajas una cuarta hasta el Do grave y lo sostienes en "syne?".
 - [Bajo](/songs/auld-lang-syne/bass): diez notas en "oo", desde el Fa grave hasta el Fa una octava más arriba. Tras una breve anacrusa en La, sostienes Fa, Do, Fa y Si bemol, de tres o cuatro tiempos cada una. El tercer verso salta hasta el Fa agudo. Al final los acordes se aceleran: Si bemol, Do y luego Fa.
 
 ## Preguntas

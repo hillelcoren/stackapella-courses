@@ -109,10 +109,10 @@ William Byrd, the English royal organist, printed his Ave verum corpus in his Gr
 
 ## Singing it
 
-- [Soprano](/songs/ave-verum-corpus/soprano): you sing Mozart's smooth, slow tune, mostly between E and B. The first "A-ve" leaps from A up to D and falls to F-sharp. On "in cru-ce" you hold a high D for five beats. Near the end you sing "in" alone, then hold a D while the others enter under you and climb to your one top E, on the last "mor-tis".
-- [Alto](/songs/ave-verum-corpus/alto): you sing the Latin close under the tune, mostly on E and D, with F-sharp and C-sharp. Through "Cu-jus la-tus per-fo-ra-" you stay on one E for thirteen beats while the tune moves above you, and your lowest note, a B, comes on "no-bis".
-- [Tenor](/songs/ave-verum-corpus/tenor): you sing in the middle of the chords, mostly on A and C-sharp. From "ve-rum cor-pus" to "vir-gi-ne" you stay on a single A, so tune it well. You reach E on "cru-ce" and "flu-xit", and on "san-gui-ne" you drop to your low E.
-- [Bass](/songs/ave-verum-corpus/bass): you sing Mozart's bass line, mostly D and A. Under "un-da flu-xit et san-gui-ne" you start on F, walk down E, D, C-sharp to A, then sing B-flat, A, your low G-sharp and A. At "Es-to no-bis" you and the tenor wait a bar and enter after the soprano and alto. Your highest note, B, comes on "pas-sum" and the first "in mor-tis".
+- [Soprano](/songs/ave-verum-corpus/soprano): you sing Mozart's smooth, slow tune, mostly between E and B. The first "A-ve" leaps from A up to D and falls to F-sharp. On the "cru-" of "in cru-ce" you hold a high D for five beats. Near the end you sing "in" alone, then hold a D while the others enter under you and climb to your one top E, on the "mor-" of the last "mor-tis".
+- [Alto](/songs/ave-verum-corpus/alto): you sing the Latin close under the tune, mostly on E and D, with F-sharp and C-sharp. Through "Cu-jus la-tus per-fo-ra-" you stay on one E for thirteen beats while the tune moves above you, and your lowest note, a B, comes on the "-bis" of "no-bis".
+- [Tenor](/songs/ave-verum-corpus/tenor): you sing in the middle of the chords, mostly on A and C-sharp. From "ve-rum cor-pus" to "vir-gi-ne" you stay on a single A, so tune it well. You reach E on the "cru-" of "cru-ce" and the "-xit" of "flu-xit", and on the "-ne" of "san-gui-ne" you drop to your low E.
+- [Bass](/songs/ave-verum-corpus/bass): you sing Mozart's bass line, most often A and D. Under "un-da flu-xit et san-gui-ne" you start on F, walk down E, D, C-sharp to A, then sing B-flat, A, your low G-sharp and A. At "Es-to no-bis" you and the tenor wait a bar and enter after the soprano and alto. Your highest note, B, comes on "pas-sum" and on "in" and the "mor-" of the first "in mor-tis".
 
 ## Questions
 
@@ -130,7 +130,7 @@ It was made for the elevation, when the priest lifts the host at Mass, and Mozar
 
 ### Which part sings the tune?
 
-The soprano sings Mozart's tune, mostly between E and B, rising to a top E only once, on the last "mortis". The alto moves close beneath it, the tenor holds the middle of the chords, and the bass sings Mozart's bass line, so all four are needed for his harmony [^mw1880][^nma].
+The soprano sings Mozart's tune, mostly between E and B, rising to a top E only once, on the "mor-" of the last "mortis". The alto moves close beneath it, the tenor holds the middle of the chords, and the bass sings Mozart's bass line, so all four are needed for his harmony [^mw1880][^nma].
 
 ## Sing next
 

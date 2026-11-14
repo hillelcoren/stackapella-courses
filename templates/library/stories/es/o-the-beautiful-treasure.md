@@ -15,7 +15,7 @@ checked: 2026-11-13
 reviewed: true
 searches: o the beautiful treasures | o the beautiful treasure canción shaker | qué son las canciones shaker | canciones shaker significado | haceos tesoros en el cielo significado | haceos tesoros en el cielo versículo
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
-translatedFrom: 16f764e8b14b
+translatedFrom: 97fc82a26278
 ---
 
 O the Beautiful Treasure, titulada "Valuable Riches" (riquezas valiosas) en su manuscrito, es una breve canción shaker en tonalidad menor. Sus dos breves secciones alaban un tesoro guardado para los sabios, más brillante que los diamantes en la frente de un príncipe. Mary Hazzard, una hermana shaker de New Lebanon, Nueva York, la copió en su cancionero manuscrito hacia 1849 y la firmó "Holy Ground", que el historiador Edward Deming Andrews da como el nombre que los shakers daban a Canterbury, Nuevo Hampshire [^hazzard][^andrews]. No se nombra a ningún autor [^hazzard]. Su imagen del tesoro guardado recuerda las palabras de Jesús sobre hacerse tesoros en el cielo, una imagen que los shakers cantaron una y otra vez [^kjv-bg][^kjv-pg][^hazzardbook][^andrews]. En 1940, Andrews la imprimió en su libro de canciones shakers con el título "Oh the Beautiful Treasures" [^andrews].
@@ -88,10 +88,10 @@ La impresión de Andrews de 1940, titulada "Oh the Beautiful Treasures", tiene l
 
 ## Cómo cantarla
 
-- [Soprano](/songs/o-the-beautiful-treasure/soprano): llevas la melodía en tonalidad menor. La primera sección se queda cerca de Mi, Fa sostenido y Sol, y luego baja a un Si grave en "wise". La segunda sección se eleva: "Far" lleva dos notas, Sol y La, y "brighter" y "richer" llegan a Do. Al final, "can be-stow" sube Si, Re, Mi hasta tu Mi agudo, la nota más alta de la canción.
-- [Contralto](/songs/o-the-beautiful-treasure/alto): cantas la letra muy cerca por debajo de la melodía, casi siempre una tercera más abajo después de las tres primeras notas. Tu Sol grave llega en "O", "wise" y "prize". En la segunda sección subes a Sol en "than"; la segunda vez, empieza "Far" en Re, no en Si.
-- [Tenor](/songs/o-the-beautiful-treasure/tenor): cantas la letra en la zona grave, entre Re y Do. "How precious" se queda en un Re grave durante tres notas. La primera sección termina distinta cada vez: la segunda vez subes a Do en "glorious" y terminas en Sol, no en Mi. La segunda sección se queda casi siempre en Sol y termina en Si en "be-stow".
-- [Bajo](/songs/o-the-beautiful-treasure/bass): cantas "oo", casi siempre en las fundamentales de los acordes, y entras en Mi después de la anacrusa "O the". Sostén el Do largo bajo "sure laid up for the" durante seis pulsos. En la segunda sección, espera durante "Far" y entra en un Sol grave, tu nota más grave.
+- [Soprano](/songs/o-the-beautiful-treasure/soprano): llevas la melodía en tonalidad menor. La primera sección se queda cerca de Mi, Fa sostenido y Sol, y luego baja a un Si grave en "wise". La segunda sección se eleva: "Far" lleva dos notas, Sol y La, y "brighter" y "richer" suben de Si a Do en su segunda sílaba. Al final, "can be-stow" sube Si, Re, Mi hasta tu Mi agudo, la nota más alta de la canción.
+- [Contralto](/songs/o-the-beautiful-treasure/alto): cantas la letra muy cerca por debajo de la melodía, una tercera o una sexta más abajo casi todo el tiempo, con más frecuencia una tercera; tus tres primeras notas son sextas. Tu Sol grave llega en "O", "wise" y "prize". En la segunda sección subes a Sol en "than"; la segunda vez, empieza "Far" en Re, no en Si.
+- [Tenor](/songs/o-the-beautiful-treasure/tenor): cantas la letra en la zona grave, entre Re y Do. "How precious" se queda en un Re grave durante tres notas. La primera sección termina distinta cada vez: la segunda vez subes a Do en el "glo-" de "glorious" y terminas en Sol, no en Mi. La segunda sección se queda sobre todo en Sol y termina en Si en "be-stow".
+- [Bajo](/songs/o-the-beautiful-treasure/bass): cantas "oo", sobre todo en las fundamentales de los acordes, y entras en Mi después de la anacrusa "O the". Sostén el Do largo bajo "sure laid up for the" durante seis pulsos. En la segunda sección, espera durante "Far" y entra en un Sol grave, tu nota más grave.
 
 ## Preguntas
 
@@ -105,7 +105,7 @@ Significa guardado para que lo reciban los sabios. La expresión es un eco de Ma
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto y el tenor cantan la misma letra muy cerca, por debajo de la melodía, y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
+La soprano canta la melodía de principio a fin. Dos cantantes hacen la soprano y la contralto; tres añaden el bajo; el tenor completa las cuatro voces. La contralto canta la misma letra muy cerca, por debajo de la melodía, el tenor la canta más grave y el bajo canta "oo". La página de Hazzard tiene solo la melodía, así que la armonía es nuestra [^hazzard].
 
 ## Canta después
 

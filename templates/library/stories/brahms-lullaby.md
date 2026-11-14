@@ -119,7 +119,7 @@ It is a Lied, an art song for voice and piano, and for half a century before 192
 
 ![[3]]
 
-Our arrangement is read from the first edition, in Brahms's key of E-flat, with Westbrook's English and its underlay from the 1903 Ditson book, which printed the song in C [^first-ed][^forty]. We sing two verses, as printings from the 1870s on give them (the first edition has one verse, with a repeat sign to sing it again), and leave out his two grace notes [^first-ed][^simrock-en]. It is for 2 to 4 singers: the soprano has the tune, the alto the same words a third or a sixth below, and the tenor and bass soft "oo" chords from Brahms's left hand.
+Our arrangement is read from the first edition, in Brahms's key of E-flat, with Westbrook's English and its underlay from the 1903 Ditson book, which printed the song in C [^first-ed][^forty]. We sing two verses, as printings from the 1870s on give them (the first edition has one verse, with a repeat sign to sing it again), and leave out his two grace notes [^first-ed][^simrock-en]. It is for 2 to 4 singers: the soprano has the tune, the alto the same words, mostly a third or a sixth below, and the tenor and bass soft "oo" chords from Brahms's left hand.
 
 ## Did you know?
 
@@ -128,10 +128,10 @@ Our arrangement is read from the first edition, in Brahms's key of E-flat, with 
 
 ## Singing it
 
-- [Soprano](/songs/brahms-lullaby/soprano): Brahms's rocking tune, every line one easy breath. Each "If God will" and "They will guard" leaps a full octave, from the low E-flat to the high one, so take the low "If God" lightly and let the voice float up; the high E-flat comes back on "roses", "head", "blue" and "fear".
+- [Soprano](/songs/brahms-lullaby/soprano): Brahms's rocking tune, every line one easy breath. Each "If God will" and "They will guard" leaps a full octave, from the low E-flat to the high one, so take the low "If God" lightly and let the voice float up; the high E-flat comes back on the "ro-" of "roses", "head", "blue" and "fear".
 - [Alto](/songs/brahms-lullaby/alto): starts each verse on the same G as the tune, then sings the words mostly a third or a sixth below it. Through "Creep into thy bed" and "Bright angels are near" it rests on one D. It drops to its low G on each "If God", "They will", "wake" and "harm", and on each verse's last word, "break" and "charm".
-- [Tenor](/songs/brahms-lullaby/tenor): soft "oo" chords from Brahms's piano part on just four notes, F, G, A-flat and B-flat. For the first four lines of each verse it holds B-flat; under "If God will" and "They will guard" it moves gently between G and A-flat, with an F under "morning" and "dream-land's".
-- [Bass](/songs/brahms-lullaby/bass): low "oo"s on just three notes, B-flat, E-flat and A-flat, almost always the root of the chord. It rests on each line's pickup and comes in on the downbeat, reaching its low A-flat under "will" and "guard".
+- [Tenor](/songs/brahms-lullaby/tenor): soft "oo" chords from Brahms's piano part on just four notes, F, G, A-flat and B-flat. For the first four lines of each verse it holds B-flat; under "If God will" and "They will guard" it moves gently between G and A-flat, with an F starting on each "morn-" of "morning" and "dream-" of "dream-land's".
+- [Bass](/songs/brahms-lullaby/bass): low "oo"s on just three notes, B-flat, E-flat and A-flat, always the root of the chord. It rests on each line's pickup and comes in on the downbeat, reaching its low A-flat under "will" and "guard".
 
 ## Questions
 

@@ -14,7 +14,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: i am filled with heavenly treasures | heavenly treasures canción shaker | qué son las canciones shaker | canciones de don shakers | haceos tesoros en el cielo significado
-translatedFrom: 97e75d7f7881
+translatedFrom: 54cf84dba236
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
@@ -90,8 +90,8 @@ Nuestro arreglo se lee de la página de Hazzard, con cada altura tal como ella l
 
 ## Cómo cantarla
 
-- [Soprano](/songs/heavenly-treasures/soprano): llevas la melodía y todas las series sin letra. En la primera sección tu nota más aguda es Do, en "heav-en-ly". Después de "treasures" sigues cantando la palabra a lo largo de una serie de ocho notas, Sol, Mi, Fa sostenido, Sol, Fa sostenido, Sol, Mi, Fa sostenido, antes de que vuelva el verso. La segunda sección salta una octava, del Mi grave al Mi agudo en el primer "Praise", y luego canta Si, Do y La en los otros tres.
-- [Contralto](/songs/heavenly-treasures/alto): cantas la letra con el ritmo de la melodía, una tercera por debajo, y subes a La en "heav-en-ly". Mientras la soprano hace su serie en la primera sección, cantas "oo", una nota por pulso, en Mi y Re, y bajas a Do al cerrarse la sección. Tus líneas de "Praise" están en Sol, Sol, Mi y Fa sostenido, y el último "oo" de la sección baja a un Sol grave.
+- [Soprano](/songs/heavenly-treasures/soprano): llevas la melodía y todas las series sin letra. En la primera sección tu nota más aguda es Do, en el "-en-" de "heav-en-ly". Después de "treasures" sigues cantando la palabra a lo largo de una serie de ocho notas, Sol, Mi, Fa sostenido, Sol, Fa sostenido, Sol, Mi, Fa sostenido, antes de que vuelva el verso. La segunda sección salta una octava, del Mi grave al Mi agudo en el primer "Praise", y luego canta Si, Do y La en los otros tres.
+- [Contralto](/songs/heavenly-treasures/alto): en la primera sección cantas la letra con el ritmo de la melodía, una tercera por debajo, y subes a La en el "-en-" de "heav-en-ly". Mientras la soprano hace su serie en la primera sección, cantas "oo", una nota por pulso, en Mi y Re, y bajas a Do al cerrarse la sección. Tus líneas de "Praise" están en Sol, Sol, Mi y Fa sostenido, y el último "oo" de la sección baja a un Sol grave.
 - [Tenor](/songs/heavenly-treasures/tenor): tu voz se mueve en un espacio estrecho, de Fa sostenido a Si. "I am fill'd with heav-" se queda en Si durante cinco notas antes de bajar a Sol y subir a La. La primera línea de "Praise" está en Sol, Sol, Sol y Fa sostenido; la segunda empieza más arriba, en Si.
 - [Bajo](/songs/heavenly-treasures/bass): cantas "oo" y sostienes la primera sección sobre un Mi largo, subiendo a Fa sostenido bajo "treasures" y volviendo. En la segunda sección te mueves una vez por pulso con los "praise", Mi, Sol, Do, Re, y terminas en un Mi largo.
 

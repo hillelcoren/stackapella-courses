@@ -83,9 +83,9 @@ Andrews's 1940 printing, headed "Oh the Beautiful Treasures", has the same words
 
 ## Singing it
 
-- [Soprano](/songs/o-the-beautiful-treasure/soprano): you carry the minor-key tune. The first strain stays close around E, F sharp and G, then drops to a low B on "wise". The second strain lifts: "Far" takes two notes, G and A, and "brighter" and "richer" reach C. At the very end, "can be-stow" climbs B, D, E to your top E, the highest note of the song.
-- [Alto](/songs/o-the-beautiful-treasure/alto): you sing the words close beneath the tune, mostly a third under it after the first three notes. Your low G comes on "O", "wise" and "prize". In the second strain you rise to G on "than"; the second time through it, start "Far" on D, not B.
-- [Tenor](/songs/o-the-beautiful-treasure/tenor): you sing the words low, between D and C. "How precious" sits on a low D for three notes. The first strain ends differently each time: the second time you rise to C on "glorious" and end on G, not E. The second strain stays mostly on G and ends on B for "be-stow".
+- [Soprano](/songs/o-the-beautiful-treasure/soprano): you carry the minor-key tune. The first strain stays close around E, F sharp and G, then drops to a low B on "wise". The second strain lifts: "Far" takes two notes, G and A, and "brighter" and "richer" climb from B to C on their second syllables. At the very end, "can be-stow" climbs B, D, E to your top E, the highest note of the song.
+- [Alto](/songs/o-the-beautiful-treasure/alto): you sing the words close beneath the tune, a third or a sixth under it almost all the time, more often a third; your first three notes are sixths. Your low G comes on "O", "wise" and "prize". In the second strain you rise to G on "than"; the second time through it, start "Far" on D, not B.
+- [Tenor](/songs/o-the-beautiful-treasure/tenor): you sing the words low, between D and C. "How precious" sits on a low D for three notes. The first strain ends differently each time: the second time you rise to C on the "glo-" of "glorious" and end on G, not E. The second strain stays mostly on G and ends on B for "be-stow".
 - [Bass](/songs/o-the-beautiful-treasure/bass): you sing "oo", mostly on the roots of the chords, coming in on E after the "O the" pickup. Hold the long C under "sure laid up for the" for six beats. In the second strain, wait through "Far" and come in on a low G, your lowest note.
 
 ## Questions
@@ -100,7 +100,7 @@ It means stored away for wise people to receive. The phrase echoes Matthew 6:20,
 
 ### Which part sings the tune?
 
-The soprano sings the tune all the way through. Two singers take the soprano and alto; three add the bass; the tenor makes four. The alto and tenor sing the same words close beneath the tune, and the bass sings "oo". Hazzard's page has the tune alone, so the harmony is ours [^hazzard].
+The soprano sings the tune all the way through. Two singers take the soprano and alto; three add the bass; the tenor makes four. The alto sings the same words close beneath the tune, the tenor sings them lower, and the bass sings "oo". Hazzard's page has the tune alone, so the harmony is ours [^hazzard].
 
 ## Sing next
 

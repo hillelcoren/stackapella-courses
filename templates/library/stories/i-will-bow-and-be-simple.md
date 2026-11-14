@@ -86,9 +86,9 @@ Andrews printed the tune in 1940 as song No. 29, in C and in 2/4, and suggested 
 
 ## Singing it
 
-- [Soprano](/songs/i-will-bow-and-be-simple/soprano): you carry the tune, which opens on middle C and climbs C, E, G on "I will bow". The first strain leaps up a sixth to its top E on "hum-ble". In the second strain you sing that high E five times running, on "be broken, yea I'll", then fall away to "fall upon the rock", which ends on the C above middle C.
+- [Soprano](/songs/i-will-bow-and-be-simple/soprano): you carry the tune, which opens on middle C and climbs C, E, G on "I will bow". The first strain leaps up a sixth to its top E on the "hum-" of "hum-ble". In the second strain you sing that high E five times running, on "be broken, yea I'll", then fall away to "fall upon the rock", which ends on the C above middle C.
 - [Alto](/songs/i-will-bow-and-be-simple/alto): you start on middle C with the tune, then sing the words almost always a third or a sixth below it. Under the soprano's five high Es you hold G five times. In the second strain your one low step is the D on "-ken" of "token".
-- [Tenor](/songs/i-will-bow-and-be-simple/tenor): you sing the words mostly on G and C. The second strain takes you higher, to D on "to-ken" and on "bow" in "bow and be broken", and dips to B on "I will" and "yea I'll"; your lowest note is the F on "will" in "I will wear".
+- [Tenor](/songs/i-will-bow-and-be-simple/tenor): you sing the words mostly on G and C. The second strain takes you higher, to D on the "to-" of "to-ken" and on "bow" in "bow and be broken", and dips to B on "I will" and "yea I'll"; your lowest note is the F on "will" in "I will wear".
 - [Bass](/songs/i-will-bow-and-be-simple/bass): you sing "oo", coming in after the two-note pickup and holding a low C for two whole bars. The first strain is long held notes; in the second you move more, dropping to your lowest note, an A, under "is the" in "this is the token", then going to and fro on E, D and C under "I will bow and be broken".
 
 ## Questions

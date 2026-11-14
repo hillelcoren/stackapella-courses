@@ -175,8 +175,8 @@ Our arrangement takes the melody and words from Songs of the Four Nations, moved
 
 ## Singing it
 
-- [Soprano](/songs/all-through-the-night/soprano): you carry the tune, moving mostly by step. The opening line's tune comes three times, on "Sleep my love", "Guardian angels" and "Love alone"; the third line climbs: "Soft the drowsy" starts high, on C, and your top note, the E, comes on "hours".
-- [Alto](/songs/all-through-the-night/alto): you sing the words mostly in thirds and sixths under the tune, resting mostly on C and B, close and easy to hold. The third line moves more: you dip to your lowest note, A, on "creep-", then rise to your top G on "and" in "Hill and dale" and on "slum-".
+- [Soprano](/songs/all-through-the-night/soprano): you carry the tune, moving mostly by step. The opening line's tune comes three times, on "Sleep my love", "Guardian angels" and "Love alone"; the third phrase climbs: "Soft the drowsy" starts high, on C, and your top note, the E, comes on "hours".
+- [Alto](/songs/all-through-the-night/alto): you sing the words mostly in thirds and sixths under the tune, resting mostly on C and B, close and easy to hold. The third phrase moves more: you dip to your lowest note, A, on "creep-", then rise to your top G on "and" in "Hill and dale" and on "slum-".
 - [Tenor](/songs/all-through-the-night/tenor): you sing in the middle of the chord, mostly on G, D and A, with no big jumps. Your top D comes on "God will", on "and dale" and on "slum-"; you begin on the low D, "Sleep my", and end there, on "through the night".
 - [Bass](/songs/all-through-the-night/bass): you sing the bass line, low and steady, mostly on G, A and D, with C now and then. Each "All through the night" ends on your low G, and your top note, E, comes only twice, on "-gels" and on "in" of "in slumber".
 

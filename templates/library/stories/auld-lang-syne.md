@@ -131,7 +131,7 @@ In the same 1799 volume Thomson set Burns's "Now Spring has clad the grove in gr
 
 - [Soprano](/songs/auld-lang-syne/soprano): you sing the tune, from middle C up to the D a ninth above it. The second line climbs A, C, D on "brought to mind?", and the D is your top note, held; breathe in the rest, then start the third line on that same D. On "lang" you step D to C before a long F on "syne?".
 - [Alto](/songs/auld-lang-syne/alto): five low notes, from A below middle C up to E. You open on A for the first four syllables, then rise through C to E on "be" and rock D, E on "forgot". "Never brought to" sits on C, and your long notes end the lines: B flat on "mind?", A on "syne?".
-- [Tenor](/songs/auld-lang-syne/tenor): your home note is F. You start just below it on E for "Should", step up to G on "be forgot" and to A on "-ver brought to", and come back to F each time. The moment to practise is the last word: from F you drop a fourth to low C and hold it for "syne?".
+- [Tenor](/songs/auld-lang-syne/tenor): your home note is F. You start just below it on E for "Should", step up to G on each "be forgot", rise a third to A on "-ver brought to" and on the second "acquaintance", and come back to F each time. The moment to practise is the last word: from F you drop a fourth to low C and hold it for "syne?".
 - [Bass](/songs/auld-lang-syne/bass): ten notes on "oo", from low F to the F an octave above. After a short A pick-up you hold F, C, F and B flat, three or four beats each. The third line leaps up to high F. At the end the chords quicken: B flat, C, then F.
 
 ## Questions

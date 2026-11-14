@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: who will bow and bend | who will bow and bend like a willow | who will bow and bend like a willow lyrics
-translatedFrom: 30d322ebef22
+translatedFrom: 008853c853e5
 original: Winterthur Library, Mary Hazzard, "A Collection of Extra Songs of Various Kinds" (iniciada en 1847), ASC 893 | https://winterthur.libraryhost.com/repositories/2/archival_objects/95
 ---
 
@@ -100,9 +100,9 @@ Andrews imprimió la letra en 1937 sin melodía, lugar ni fecha, como "also a qu
 
 ## Cómo cantarla
 
-- [Soprano](/songs/who-will-bow-and-bend/soprano): la melodía es tuya, y su nota más frecuente es Mi. La primera sección se queda grave, entre el Do central y Sol, y "Who will turn" e "In the gale" empiezan cada una con dos Do centrales. La segunda salta: "will drink the wine" está en el Do por encima del Do central y "of power" llega a tu Mi agudo. Luego, después de "shower", bajas una octava hasta el Do central en "Pride". La tercera sección se mantiene aguda, con "O ho" sostenido en ese Do agudo, y termina en él, en "stiffening".
+- [Soprano](/songs/who-will-bow-and-bend/soprano): la melodía es tuya, y su nota más frecuente es Mi. La primera sección se queda grave, entre el Do central y Sol, y "Who will turn" e "In the gale" empiezan cada una con dos Do centrales. La segunda salta: "will drink the wine" está en el Do por encima del Do central, y "of" y el "pow-" de "power" llegan a tu Mi agudo. Luego, después de "shower", bajas una octava hasta el Do central en "Pride". La tercera sección se mantiene aguda, con "O ho" sostenido en ese Do agudo, y termina en él, en "stiffening".
 - [Contralto](/songs/who-will-bow-and-bend/alto): cantas la letra una tercera o una sexta por debajo de la melodía casi todo el tiempo, sobre todo una tercera, y empiezas en el La por debajo del Do central, tu nota más grave. En la primera sección te unes a la melodía en su Do central, en "will" de "Who will turn" y en las dos notas de "In the". En la segunda sección cantas casi todo "Dropping down like a shower" en Si, tu nota más aguda, cinco veces seguidas, y luego vuelves a ese La grave en "Pride".
-- [Tenor](/songs/who-will-bow-and-bend/tenor): tu primera sección se queda grave, sobre todo en Sol y Mi, y baja a tu nota más grave, el Do una octava por debajo del Do central, solo en "bow", en su primer verso. En "will" de "Who will turn", donde la soprano y la contralto comparten el Do central, tú cantas el Mi por debajo de ellas. En la segunda sección subes por grados, Sol, La, Si, Do, en "the wine of power" y cantas "Dropping down like a show-" en tu Re agudo, para bajar a La en "-er". La tercera sección se queda casi siempre en el Do central, y sube a Re en "Shake out all the".
+- [Tenor](/songs/who-will-bow-and-bend/tenor): tu primera sección se queda grave, sobre todo en Sol y Mi, y baja a tu nota más grave, el Do una octava por debajo del Do central, solo en "bow", en su primer verso. En "will" de "Who will turn", donde la soprano y la contralto comparten el Do central, tú cantas el Mi por debajo de ellas. En la segunda sección subes por grados, Sol, La, Si, Do, en "the wine of power" y cantas "Dropping down like a show-" en tu Re agudo, para bajar a La en "-er". La tercera sección se queda sobre todo en el Do central, y sube a Re en "Shake out all the".
 - [Bajo](/songs/who-will-bow-and-bend/bass): cantas "oo" (una u), empezando en un La grave, así que la canción empieza con un acorde de La menor antes de asentarse en Do. Sostienes un Sol grave durante cinco tiempos bajo "bow and bend like a wil-" y durante siete bajo "Dropping down like a show-", y llegas a tu nota más grave, Fa, bajo el segundo "Who" de la primera sección y bajo "reeling" en la tercera.
 
 ## Preguntas
@@ -121,7 +121,7 @@ Significa ser humilde y flexible, como un sauce que se dobla hasta abajo con el 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano tiene la melodía de la primera nota a la última, la línea que escribió Hazzard [^hazzard]. Con dos cantantes, la contralto se une a la soprano y canta la misma letra casi siempre una tercera más abajo. Un tercer cantante hace el bajo y canta sobre todo las fundamentales de los acordes en "oo". Con cuatro, el tenor añade la letra en el centro del acorde.
+La soprano tiene la melodía de la primera nota a la última, la línea que escribió Hazzard [^hazzard]. Con dos cantantes, la contralto se une a la soprano y canta la misma letra sobre todo una tercera más abajo. Un tercer cantante hace el bajo y canta sobre todo las fundamentales de los acordes en "oo". Con cuatro, el tenor añade la letra en el centro del acorde.
 
 ## Canta después
 

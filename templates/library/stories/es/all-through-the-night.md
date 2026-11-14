@@ -20,7 +20,7 @@ updated: 2026-11-13
 checked: 2026-11-12
 reviewed: true
 searches: all through the night significado | all through the night historia | ar hyd y nos significado | ar hyd y nos traducción | quién escribió all through the night | all through the night letra en español
-translatedFrom: 5853a8574d4a
+translatedFrom: 160b3e74cf1b
 original: Edward Jones, Musical and Poetical Relicks of the Welsh Bards (1784), Internet Archive | https://archive.org/details/bib_fict_4103341
 ---
 
@@ -200,8 +200,8 @@ Nuestro arreglo toma la melodía y la letra de Songs of the Four Nations, y las 
 
 ## Cómo cantarla
 
-- [Soprano](/songs/all-through-the-night/soprano): llevas la melodía, moviéndote sobre todo por grados conjuntos. La melodía del primer verso se oye tres veces, en "Sleep my love", "Guardian angels" y "Love alone"; el tercer verso sube: "Soft the drowsy" empieza agudo, en Do, y tu nota más aguda, el Mi, llega en "hours".
-- [Contralto](/songs/all-through-the-night/alto): cantas la letra sobre todo en terceras y sextas por debajo de la melodía, apoyándote sobre todo en el Do y el Si: una voz cercana y fácil de llevar. El tercer verso se mueve más: bajas a tu nota más grave, La, en "creep-", y luego subes a tu Sol agudo en "and" de "Hill and dale" y en "slum-".
+- [Soprano](/songs/all-through-the-night/soprano): llevas la melodía, moviéndote sobre todo por grados conjuntos. La melodía del primer verso se oye tres veces, en "Sleep my love", "Guardian angels" y "Love alone"; la tercera frase sube: "Soft the drowsy" empieza agudo, en Do, y tu nota más aguda, el Mi, llega en "hours".
+- [Contralto](/songs/all-through-the-night/alto): cantas la letra sobre todo en terceras y sextas por debajo de la melodía, apoyándote sobre todo en el Do y el Si: una voz cercana y fácil de llevar. La tercera frase se mueve más: bajas a tu nota más grave, La, en "creep-", y luego subes a tu Sol agudo en "and" de "Hill and dale" y en "slum-".
 - [Tenor](/songs/all-through-the-night/tenor): cantas en el centro del acorde, sobre todo en el Sol, el Re y el La, sin grandes saltos. Tu Re agudo llega en "God will", en "and dale" y en "slum-"; empiezas en el Re grave, en "Sleep my", y terminas allí, en "through the night".
 - [Bajo](/songs/all-through-the-night/bass): cantas la línea del bajo, grave y firme, sobre todo en el Sol, el La y el Re, con Do de vez en cuando. Cada "All through the night" termina en tu Sol grave, y tu nota más aguda, el Mi, llega solo dos veces, en "-gels" y en "in" de "in slumber".
 

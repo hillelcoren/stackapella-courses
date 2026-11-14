@@ -17,7 +17,7 @@ updated: 2026-11-13
 checked: 2026-11-13
 reviewed: true
 searches: ave verum corpus significado | ave verum corpus traducción | ave verum corpus letra en español | ave verum corpus historia | quién escribió el ave verum corpus | ave verum corpus mozart
-translatedFrom: 6279202e3bd4
+translatedFrom: 726b60ab0621
 original: Partitura autógrafa de Mozart (1791), Biblioteca Nacional de Austria | https://data.onb.ac.at/rep/1321BF0C
 listen: Internet Archive, grabación de 1923 | https://archive.org/details/AveVerum746Az || Internet Archive, grabación de 1914 | https://archive.org/details/aveverumgoldora
 ---
@@ -110,10 +110,10 @@ William Byrd, el organista real inglés, imprimió su Ave verum corpus en su Gra
 
 ## Cómo cantarla
 
-- [Soprano](/songs/ave-verum-corpus/soprano): cantas la melodía lenta y fluida de Mozart, sobre todo entre Mi y Si. El primer "A-ve" sube de un salto de La a Re y baja a Fa sostenido. En "in cru-ce" sostienes un Re agudo durante cinco tiempos. Cerca del final cantas "in" sola, luego sostienes un Re mientras las demás voces entran por debajo, y subes a tu único Mi agudo en el último "mor-tis".
-- [Contralto](/songs/ave-verum-corpus/alto): cantas el texto latino muy cerca por debajo de la melodía, sobre todo en Mi y Re, con Fa sostenido y Do sostenido. En "Cu-jus la-tus per-fo-ra-" te quedas en un mismo Mi durante trece tiempos mientras la melodía se mueve por encima, y tu nota más grave, un Si, llega en "no-bis".
-- [Tenor](/songs/ave-verum-corpus/tenor): cantas en el centro de los acordes, sobre todo en La y Do sostenido. De "ve-rum cor-pus" a "vir-gi-ne" te quedas en un solo La, así que afínalo bien. Llegas a Mi en "cru-ce" y en "flu-xit", y en "san-gui-ne" bajas a tu Mi grave.
-- [Bajo](/songs/ave-verum-corpus/bass): cantas la línea del bajo de Mozart, sobre todo Re y La. Bajo "un-da flu-xit et san-gui-ne" empiezas en Fa, bajas Mi, Re, Do sostenido hasta La, y luego cantas Si bemol, La, tu Sol sostenido grave y La. En "Es-to no-bis", igual que el tenor, esperas un compás y entras después de la soprano y la contralto. Tu nota más aguda, Si, llega en "pas-sum" y en el primer "in mor-tis".
+- [Soprano](/songs/ave-verum-corpus/soprano): cantas la melodía lenta y fluida de Mozart, sobre todo entre Mi y Si. El primer "A-ve" sube de un salto de La a Re y baja a Fa sostenido. En el "cru-" de "in cru-ce" sostienes un Re agudo durante cinco tiempos. Cerca del final cantas "in" sola, luego sostienes un Re mientras las demás voces entran por debajo, y subes a tu único Mi agudo en el "mor-" del último "mor-tis".
+- [Contralto](/songs/ave-verum-corpus/alto): cantas el texto latino muy cerca por debajo de la melodía, sobre todo en Mi y Re, con Fa sostenido y Do sostenido. En "Cu-jus la-tus per-fo-ra-" te quedas en un mismo Mi durante trece tiempos mientras la melodía se mueve por encima, y tu nota más grave, un Si, llega en el "-bis" de "no-bis".
+- [Tenor](/songs/ave-verum-corpus/tenor): cantas en el centro de los acordes, sobre todo en La y Do sostenido. De "ve-rum cor-pus" a "vir-gi-ne" te quedas en un solo La, así que afínalo bien. Llegas a Mi en el "cru-" de "cru-ce" y en el "-xit" de "flu-xit", y en el "-ne" de "san-gui-ne" bajas a tu Mi grave.
+- [Bajo](/songs/ave-verum-corpus/bass): cantas la línea del bajo de Mozart, con más frecuencia La y Re. Bajo "un-da flu-xit et san-gui-ne" empiezas en Fa, bajas Mi, Re, Do sostenido hasta La, y luego cantas Si bemol, La, tu Sol sostenido grave y La. En "Es-to no-bis", igual que el tenor, esperas un compás y entras después de la soprano y la contralto. Tu nota más aguda, Si, llega en "pas-sum" y en "in" y el "mor-" del primer "in mor-tis".
 
 ## Preguntas
 
@@ -131,7 +131,7 @@ Se hizo para la elevación, cuando el sacerdote alza la hostia en la Misa, y el 
 
 ### ¿Qué voz canta la melodía?
 
-La soprano canta la melodía de Mozart, sobre todo entre Mi y Si, y sube a un Mi agudo una sola vez, en el último "mortis". La contralto se mueve muy cerca por debajo, el tenor sostiene el centro de los acordes y el bajo canta la línea del bajo de Mozart, así que hacen falta las cuatro voces para su armonía [^mw1880][^nma].
+La soprano canta la melodía de Mozart, sobre todo entre Mi y Si, y sube a un Mi agudo una sola vez, en el "mor-" del último "mortis". La contralto se mueve muy cerca por debajo, el tenor sostiene el centro de los acordes y el bajo canta la línea del bajo de Mozart, así que hacen falta las cuatro voces para su armonía [^mw1880][^nma].
 
 ## Canta después
 
