@@ -208,7 +208,7 @@ def imp_1_third():
                   {"tempo": 92, "notes": placed(first, DO), "turn": False, "with": [{"notes": placed(line(TUNE, 0, 16), DO)}], "chords": chords(DO, until=16)}),
             {"kind": "play", "text": EN("First sing the tune itself, once through, so it's yours."),
              "exercise": {"tempo": 92, "notes": placed(TUNE, DO, BAR), "turn": False, "chords": chords(DO, BAR)}},
-            {"kind": "play", "text": EN("Now hold the part above on its two long notes while the tune moves. With headphones, you'll hear the chord ring."),
+            {"kind": "play", "text": EN("Now hold the part above on its two long notes while the tune moves. Best with headphones: you'll hear the chord ring."),
              "exercise": {"tempo": 92, "notes": placed(long_ones, DO, BAR), "turn": False,
                           "with": [{"notes": placed(line(TUNE, 0, 16), DO, BAR)}], "chords": chords(DO, BAR, 16)}},
             {"kind": "play", "text": EN("Now the part above for the whole verse, every note shown on the lane. With headphones, the guide sings the tune with you."),

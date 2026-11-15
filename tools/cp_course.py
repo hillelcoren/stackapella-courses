@@ -83,7 +83,7 @@ def cp_1_round():
                    ("Three voices join you", "Two bars apart. Listen to them: never sing louder to hear yourself"),
                    ("Best with headphones", "Through a speaker, they rest while you sing. Stop if anything tightens or hurts")], "round", listen),
             {"kind": "try", "text": EN("The quick half, \"merrily\" to \"dream\", at your own pace: each note waits until you find it."), "exercise": tryit},
-            {"kind": "play", "text": EN("After a bar of the drone, the low note that keeps sounding, sing it twice through. Keep your own line while the voices come in."),
+            {"kind": "play", "text": EN("After a bar of the drone, the low note that keeps sounding, sing it twice through. Keep your own line while the voices come in. Best with headphones."),
              "exercise": play,
              "measures": EN("Scored on your notes on pitch. Did you know? Row, Row, Row Your Boat was in print by 1852, though its early tune differs from today's.")},
         ],

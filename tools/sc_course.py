@@ -206,7 +206,7 @@ def sc_1_trade():
             learn("Scat is singing like a horn on syllables. The guide sings a call over the band; you sing it back. No wrong notes here: where you choose, any of the stacked notes fits.",
                   [("The call", "Two bars, sung over the band"), ("Your echo", "The same two bars back"), ("Your last note", "Any of the stacked notes: each sounds at rest")]),
             play("One call, a note at a time, on its syllables: doo, bah, doo, bah, doo, bah, doo. Each note waits until you're on it.", exercise(try_notes, try_names), None, kind="try"),
-            play(f"Four trades: hear each call, then sing it back. End each on any of the stacked notes, a different one each time if you like. {SAFETY}",
+            play(f"Four trades: hear each call, then sing it back. End each on any of the stacked notes, a different one each time if you like. {SAFETY} Best with headphones.",
                  first_trades(keep="sc.first-trade", generous=True), "Scored on your notes on pitch and in time with the swung beat, and on ending each trade on one of the stacked notes.", rhythm="swing"),
         ],
     }
