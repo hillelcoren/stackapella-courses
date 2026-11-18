@@ -152,6 +152,8 @@ SONGS = {
     "what-child-is-this": "with the song",
     "o-come-o-come-emmanuel": "with the song",
     "i-saw-three-ships": "with the song",
+    # New library song, built 2026-11-18 from the Schoen first edition.
+    "cantique-de-jean-racine": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")

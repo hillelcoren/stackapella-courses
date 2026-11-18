@@ -1,0 +1,2202 @@
+{
+    "id": "song-cantique-de-jean-racine",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Cantique de Jean Racine", "es": "Cantique de Jean Racine"},
+    "units": [
+        {
+            "id": "song-cantique-de-jean-racine-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Cantique de Jean Racine: hear the whole song first, then the tune on its own.", "es": "Cantique de Jean Racine: escucha primero la canción entera y luego la melodía sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 4: each one waits until you're on it.", "es": "Busca las notas de la frase 4: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "cjr-franck", "text": {"en": "The first printing calls Fauré \"organist of the choir school of Saint-Sulpice\" and is dedicated \"To Monsieur César Franck\". Schoen of Paris printed it as No. 10 in the first issue of Écho des Maîtrises, a new series of unpublished church music edited by Romain Bussine.", "es": "La primera impresión llama a Fauré \"organista de la escolanía de Saint-Sulpice\" y está dedicada \"A Monsieur César Franck\". Schoen, de París, la publicó como n.º 10 del primer número de Écho des Maîtrises, una nueva colección de música religiosa inédita dirigida por Romain Bussine."}, "source": {"en": "Écho des Maîtrises, first issue (Paris: F. Schoen, undated, plate F. 309 S.), cover and p. 2, No. 10; Bibliothèque nationale de France, Vmg. 17107 (I,10), read from the scan", "es": "Écho des Maîtrises, primer número (París: F. Schoen, sin fecha, plancha F. 309 S.), cubierta y p. 2, n.º 10; Bibliothèque nationale de France, Vmg. 17107 (I,10), leído en el escaneo"}, "url": "https://imslp.org/wiki/Cantique_de_Jean_Racine,_Op.11_(Faur%C3%A9,_Gabriel)"}
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-2",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back.", "es": "Ahora las frases 4 y 5 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-3",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined, with the guide.", "es": "Ahora las frases 6 y 7 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-4",
+                    "title": {"en": "Lines 8 and 9", "es": "Frases 8 y 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 and 9 joined, with the guide.", "es": "Ahora las frases 8 y 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-5",
+                    "title": {"en": "Lines 10 and 11", "es": "Frases 10 y 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 and 11 joined, with the guide.", "es": "Ahora las frases 10 y 11 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-6",
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [13, 14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-7",
+                    "title": {"en": "Lines 16 to 18", "es": "Frases 16 a 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 18 joined, with the guide.", "es": "Ahora las frases 16 a 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-8",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verbe égal au Très-Haut start to end, with the guide.", "es": "\"Verbe égal au Très-Haut\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Répands sur nous le feu start to end, with the guide.", "es": "\"Répands sur nous le feu\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [6, 7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ô Christ sois favorable start to end, with the guide.", "es": "\"Ô Christ sois favorable\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Et de tes dons start to end, with the guide.", "es": "\"Et de tes dons\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-9",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-10",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-soprano-11",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Cantique de Jean Racine in Sing, with the other parts playing.", "es": "Graba la melodía de Cantique de Jean Racine en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "cantique-de-jean-racine", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "cjr-puissante", "text": {"en": "In the French Roman Breviary that printed Racine's hymns, the second verse asks for \"ta grâce invincible\" and a sleep \"qui rend l'âme insensible\". \"Puissante\" and \"languissante\", the words Fauré set, come from the edition of Racine's son Louis, and Racine's 1865 editor thought the change was the son's.", "es": "En el Breviario romano en francés que imprimió los himnos de Racine, la segunda estrofa pide \"ta grâce invincible\" (tu gracia invencible) y habla de un sueño \"qui rend l'âme insensible\" (que vuelve insensible el alma). \"Puissante\" y \"languissante\", las palabras que puso Fauré, vienen de la edición de Louis Racine, hijo del poeta, y el editor de Racine de 1865 pensaba que el cambio era del hijo."}, "source": {"en": "Œuvres de J. Racine, ed. Paul Mesnard, vol. 4 (Paris: Hachette, 1865), pp. 112 and 113, \"Le mardi, à matines\", and note 3; University of Toronto copy, read from the scan", "es": "Œuvres de J. Racine, ed. Paul Mesnard, vol. 4 (París: Hachette, 1865), pp. 112 y 113, \"Le mardi, à matines\", y la nota 3; ejemplar de la University of Toronto, leído en el escaneo"}, "url": "https://archive.org/details/oeuvres04raci/page/n125/mode/1up"}
+                }
+            ]
+        },
+        {
+            "id": "song-cantique-de-jean-racine-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-cantique-de-jean-racine-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Cantique de Jean Racine: hear the whole song first, then the alto part on its own.", "es": "Cantique de Jean Racine: escucha primero la canción entera y luego la voz de contralto sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 3: each one waits until you're on it.", "es": "Busca las notas de la frase 3: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-2",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-3",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide.", "es": "Ahora las frases 5 y 6 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-4",
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined, with the guide.", "es": "Ahora las frases 7 y 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-5",
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined, with the guide.", "es": "Ahora las frases 9 y 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-6",
+                    "title": {"en": "Lines 11 and 13", "es": "Frases 11 y 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 13 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 11 y 13 en su lugar, con la guía; las demás voces cantan la frase intermedia."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [10, 11, 12],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-7",
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [13, 14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-8",
+                    "title": {"en": "Lines 16 to 18", "es": "Frases 16 a 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 18 joined, with the guide.", "es": "Ahora las frases 16 a 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-9",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verbe égal au Très-Haut start to end, with the guide.", "es": "\"Verbe égal au Très-Haut\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Répands sur nous le feu start to end, with the guide.", "es": "\"Répands sur nous le feu\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [6, 7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ô Christ sois favorable start to end, with the guide.", "es": "\"Ô Christ sois favorable\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Et de tes dons start to end, with the guide.", "es": "\"Et de tes dons\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-10",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-11",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "alto",
+                                    "phrases": [2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-alto-12",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Cantique de Jean Racine in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Cantique de Jean Racine en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "cantique-de-jean-racine", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-cantique-de-jean-racine-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-cantique-de-jean-racine-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Cantique de Jean Racine: hear the whole song first, then the bass part on its own.", "es": "Cantique de Jean Racine: escucha primero la canción entera y luego la voz de bajo sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide.", "es": "Ahora las frases 5 y 6 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-5",
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined, with the guide.", "es": "Ahora las frases 7 y 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-6",
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined, with the guide.", "es": "Ahora las frases 9 y 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-7",
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined, with the guide.", "es": "Ahora las frases 11 y 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-8",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined, with the guide.", "es": "Ahora las frases 13 y 14 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-9",
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined, with the guide.", "es": "Ahora las frases 15 y 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-10",
+                    "title": {"en": "Lines 17 and 18", "es": "Frases 17 y 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 and 18 joined, with the guide.", "es": "Ahora las frases 17 y 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-11",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verbe égal au Très-Haut start to end, with the guide.", "es": "\"Verbe égal au Très-Haut\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Répands sur nous le feu start to end, with the guide.", "es": "\"Répands sur nous le feu\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [6, 7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ô Christ sois favorable start to end, with the guide.", "es": "\"Ô Christ sois favorable\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Et de tes dons start to end, with the guide.", "es": "\"Et de tes dons\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-12",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-13",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-bass-14",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Cantique de Jean Racine in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Cantique de Jean Racine en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "cantique-de-jean-racine", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-cantique-de-jean-racine-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Cantique de Jean Racine: hear the whole song first, then the tenor part on its own.", "es": "Cantique de Jean Racine: escucha primero la canción entera y luego la voz de tenor sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 2: each one waits until you're on it.", "es": "Busca las notas de la frase 2: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-2",
+                    "title": {"en": "Lines 2 and 3", "es": "Frases 2 y 3"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 2 and 3 joined: hear them, then sing them back.", "es": "Ahora las frases 2 y 3 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-3",
+                    "title": {"en": "Lines 4 and 5", "es": "Frases 4 y 5"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 4 and 5 joined: hear them, then sing them back.", "es": "Ahora las frases 4 y 5 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [3, 4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-4",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined, with the guide.", "es": "Ahora las frases 6 y 7 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-5",
+                    "title": {"en": "Lines 8 and 9", "es": "Frases 8 y 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 and 9 joined, with the guide.", "es": "Ahora las frases 8 y 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-6",
+                    "title": {"en": "Lines 10 and 11", "es": "Frases 10 y 11"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 and 11 joined, with the guide.", "es": "Ahora las frases 10 y 11 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-7",
+                    "title": {"en": "Lines 12 and 13", "es": "Frases 12 y 13"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 12 and 13 joined, with the guide.", "es": "Ahora las frases 12 y 13 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [11, 12]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-8",
+                    "title": {"en": "Lines 14 and 15", "es": "Frases 14 y 15"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 14 and 15 joined, with the guide.", "es": "Ahora las frases 14 y 15 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [13, 14]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-9",
+                    "title": {"en": "Lines 16 to 18", "es": "Frases 16 a 18"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 16 to 18 joined, with the guide.", "es": "Ahora las frases 16 a 18 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-10",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Verbe égal au Très-Haut start to end, with the guide.", "es": "\"Verbe égal au Très-Haut\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Répands sur nous le feu start to end, with the guide.", "es": "\"Répands sur nous le feu\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [6, 7, 8, 9, 10]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Ô Christ sois favorable start to end, with the guide.", "es": "\"Ô Christ sois favorable\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [11, 12, 13, 14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Et de tes dons start to end, with the guide.", "es": "\"Et de tes dons\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-11",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-12",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "cantique-de-jean-racine",
+                                    "part": "tenor",
+                                    "phrases": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-cantique-de-jean-racine-tenor-13",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Cantique de Jean Racine in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Cantique de Jean Racine en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "cantique-de-jean-racine", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
