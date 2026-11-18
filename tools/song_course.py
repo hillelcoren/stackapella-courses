@@ -162,6 +162,8 @@ SONGS = {
     "and-the-glory-of-the-lord": "with the song",
     # Messiah choruses, 2026-11-18.
     "for-unto-us-a-child-is-born": "with the song",
+    # New library songs (Hillel lifted the pause, 2026-11-18).
+    "locus-iste": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
