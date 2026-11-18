@@ -27,7 +27,7 @@ Every maker died by 1925 (Handel 1759, Jennens 1773, Prout 1909) and the printin
 
 ## What is sung
 
-Handel's four voice parts, every pitch, rhythm and word as Prout prints them, from the alto's entry in bar 11 to the end, written a major third lower (F major). The orchestra is left out; its interludes become a bar's rest each; the Adagio is written at 1.5 times its values; breaths are written in. All in the licence and DECISION.md.
+Handel's four voice parts, every pitch, rhythm and word as Prout prints them, from the alto's entry in bar 11 to the end, in Handel's key, A major (Hillel, 2026-11-18: choirs sing it in A; first built in F, then rebuilt in A). The orchestra is left out; its interludes become a bar's rest each; the Adagio is written at 1.5 times its values; breaths are written in. All in the licence and DECISION.md.
 
 ## Reading method
 

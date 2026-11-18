@@ -11,8 +11,7 @@ What it does to Handel's parts, in order (each one is named in the licence):
   beat), so the song ends on a whole bar;
 - ties are joined into one note;
 - the breaths in BREATHS are written in: the note before gives up the time (a beat at 100);
-- the whole is moved down N semitones (default 4: F major, a major third under Handel's A, the key with the
-  fewest notes outside the beginner ranges);
+- the whole can be moved down N semitones (default 0: Handel's A major, as choirs sing it; Hillel, 2026-11-18);
 - `br` marks each note that starts a new line after a rest.
 """
 import json
@@ -112,7 +111,7 @@ def events(d, v):
     return [e for e in out if e[0] >= START]
 
 
-def build(down=4):
+def build(down=0):
     d = trans.read()
     meta = json.load(open(os.path.join(HERE, 'meta.json'), encoding='utf-8'))
     parts = []
@@ -176,7 +175,7 @@ def build(down=4):
 
 
 if __name__ == '__main__':
-    down = int(sys.argv[sys.argv.index("--down") + 1]) if "--down" in sys.argv else 4
+    down = int(sys.argv[sys.argv.index("--down") + 1]) if "--down" in sys.argv else 0
     out = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else os.path.join(ROOT, 'templates', 'library', 'and-the-glory-of-the-lord.json')
     s = build(down)
     with open(out, 'w', encoding='utf-8') as f:
