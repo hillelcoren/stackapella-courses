@@ -152,6 +152,8 @@ SONGS = {
     "what-child-is-this": "with the song",
     "o-come-o-come-emmanuel": "with the song",
     "i-saw-three-ships": "with the song",
+    # Carol batch 4, parked 2026-11-13, finished 2026-11-18.
+    "good-christian-men-rejoice": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")

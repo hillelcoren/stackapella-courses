@@ -37,6 +37,7 @@ GM = (7, "min", None)
 GM7 = (7, "min7", None)
 AM_C = (9, "min", 0)
 BB_D = (10, "maj", 2)
+C_E = (0, "maj", 4)
 
 VERSE = [
     # Good Christian men, rejoice With heart, and soul, and voice;
@@ -47,7 +48,7 @@ VERSE = [
     (6, 1, [("Bb4", 1)], "D4", "Bb3", "F3", BB_F, False),
     (7, 5, [("C5", 2), ("D5", 1), ("C5", 2)], "E4", "G3", "C3", C, False),
     (12, 1, [("C5", 1)], "E4", "G3", "C3", C, False),
-    (13, 2, [("F4", 2)], "D4", "Bb3", "F3", BB_F, False),
+    (13, 2, [("F4", 2)], "D4", "Bb3", "D3", BB_D, False),  # review: D in the bass, not F (no octaves by contrary motion with the tune's C5 to F4)
     (15, 1, [("F4", 1)], "C4", "C4", "F3", F, False),
     (16, 2, [("A4", 2)], "C4", "C4", "F3", F, False),
     (18, 1, [("Bb4", 1)], "D4", "Bb3", "F3", BB_F, False),
@@ -68,8 +69,8 @@ VERSE = [
     (46, 2, [("A4", 2)], "C4", "A3", "C3", F_C, False),
     (48, 1, [("G4", 1)], "E4", "Bb3", "C3", C7, False),
     (49, 2, [("F4", 2)], "D4", "A3", "D3", DM, False),
-    (51, 1, [("G4", 1)], "C4", "Bb3", "E3", C7_E, False),
-    (52, 2, [("A4", 2)], "C4", "A3", "F3", F, False),  # then a quaver rest
+    (51, 1, [("G4", 1)], "C4", "G3", "E3", C_E, False),  # review: C over E, the tenor free to rise to C4
+    (52, 2, [("A4", 2)], "F4", "C4", "F3", F, False),  # then a quaver rest; review: no octaves (tenor) or fifths (alto) across the breath into "Ox"
     # Ox and ass before him bow, And He is in the manger now.
     (55, 2, [("C5", 2)], "E4", "C4", "A2", AM, True),
     (57, 1, [("D5", 1)], "F4", "Bb3", "G2", GM7, False),
