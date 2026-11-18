@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "locus-iste",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 59,
+    "high": 79,
+    "semitones": 20
+  },
+  "scale": {
+    "notes": 8,
+    "kind": "chromatic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "fi",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "4/4",
+    "pickupBeats": 0
+  },
+  "rhythm": {
+    "notes": 113,
+    "scotchSnaps": 0,
+    "dottedPairs": 9,
+    "syncopations": 0
+  },
+  "phraseEndHold": 2.27,
+  "climaxAt": 0.14,
+  "opening": [
+    "do",
+    "ti",
+    "la",
+    "sol"
+  ],
+  "ending": [
+    "fa",
+    "re",
+    "mi"
+  ],
+  "difficulty": {
+    "melody": 49,
+    "parts": {
+      "soprano": 49,
+      "alto": 37,
+      "tenor": 38,
+      "bass": 56
+    }
+  },
+  "kin": [
+    {
+      "id": "joy-to-the-world",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "ti",
+        "la",
+        "sol"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    },
+    {
+      "id": "white-coral-bells",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "ti",
+        "la",
+        "sol"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
