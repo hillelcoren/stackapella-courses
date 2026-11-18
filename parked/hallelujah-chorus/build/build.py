@@ -1,6 +1,6 @@
 # Builds templates/library/hallelujah-chorus.json from trans.txt (Handel's four voice parts as Prout's
 # 1902 Novello edition prints them, read from the scans) and meta.json, with the changes listed in
-# CHANGES (breaths for beginners) and the key moved down a major third (D to B-flat).
+# SHORTEN and DELAY (breaths for beginners), in Handel's key, D.
 # Run: python3 -I build.py   (writes the template and prints what it changed)
 import json
 import os
@@ -11,7 +11,7 @@ sys.path.insert(0, HERE)
 from parse import load, FIRST_BAR  # noqa: E402
 
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..', '..'))
-SHIFT = -4
+SHIFT = 0
 PART_KEYS = {'S': 'soprano', 'A': 'alto', 'T': 'tenor', 'B': 'bass'}
 
 
@@ -57,10 +57,9 @@ SHORTEN = [
     ('B', 88, 1, 0.5, 'er,'),
 ]
 
-# Pitches changed for voices (sung pitch after the move to B-flat): the alto's octave drop on "Om-"
-# (bars 18 and 30, Handel's G3, here E-flat 3) would go under the app's hard alto range (E3), so the
-# alto stays on its E-flat 4 for "Om-" as the soprano and tenor's "God Om-" figure does not need.
-REPITCH = [('A', 18, 1.5, 63, 'Om-'), ('A', 30, 1.5, 63, 'Om-')]
+# Pitches changed for voices (none: in D the alto's octave drop on "Om-", G3 at bars 18 and 30, is inside
+# the app's hard alto range, so Handel's note is sung).
+REPITCH = []
 
 # The tenor's "for" (bars 25 and 29) comes half a beat late, after a breath: Handel's "Hal-le-lu-jah!"
 # runs straight into it on an eighth note, too short to give up anything.
@@ -236,7 +235,7 @@ def chords(notes):
         elif holds(after):
             picks[i] = (after[0], after[1], None)
         else:
-            scale = {(10 + x) % 12 for x in (0, 2, 4, 5, 7, 9, 11)}  # B-flat major, the key here
+            scale = {(2 + x) % 12 for x in (0, 2, 4, 5, 7, 9, 11)}  # D major, the key here
             picks[i] = (pc, 'min' if (pc + 3) % 12 in scale and (pc + 4) % 12 not in scale else 'maj', None)
     prev = None
     for i, p in enumerate(picks):

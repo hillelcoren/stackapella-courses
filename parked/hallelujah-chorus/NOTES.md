@@ -83,8 +83,9 @@ A reviewer who did not build it compared the transcription with both scans: one 
 
 - Whole chorus, voices only. 364 beats at 60: about 6 minutes, the longest song in the library (the longest open song
   was 212 s, Were You There); the app's take limit is 600 s and the format sets no length.
-- Key B-flat (printed D): down a major third, the transposition with the fewest seconds out of the beginner ranges
-  (17.5 s against 97.5 s in D, where the bass is out for 60 s). Remaining excursions are listed in DECISION.md.
+- Key D, Handel's own, as choirs sing it (Hillel, 2026-11-18: singers practise for their own choir's performance in D).
+  Marked advanced; every range excursion is Handel's writing, listed in the licence and DECISION.md. (A first build
+  the same day was a major third lower, in B-flat, the key with the fewest seconds out of the beginner ranges.)
 - Tempo 60 (Prout prints crotchet = 72): the fastest at which Handel's quaver rests count as a breath (half a second)
   and his semiquaver "Hal-le" stays a quarter second (singable rules 1 to 3). At 72 every Hallelujah line runs on.
 - For 4 singers only, like Ave verum corpus: fugal entries and a tune that moves between the parts.
