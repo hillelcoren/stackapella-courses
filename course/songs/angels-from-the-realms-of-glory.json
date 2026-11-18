@@ -56,7 +56,8 @@
                                 }
                             }
                         }
-                    ]
+                    ],
+                    "fact": {"id": "afrg-iris-1816", "text": {"en": "Montgomery first printed this hymn in his own Sheffield newspaper, the Iris, on Christmas Eve 1816, as \"The Nativity\", signed only \"J. M.\". Four of its five groups are hailed with an exclamation mark, \"Angels!\", \"Shepherds!\", \"Sages!\" and \"Saints!\", but the sinners of the last verse get only a comma.", "es": "Montgomery imprimió este himno por primera vez en su propio periódico de Sheffield, el Iris, en la Nochebuena de 1816, como \"The Nativity\" (la Natividad), firmado solo \"J. M.\". A cuatro de sus cinco grupos los llama con un signo de exclamación, \"Angels!\", \"Shepherds!\", \"Sages!\" y \"Saints!\" (¡ángeles!, ¡pastores!, ¡sabios!, ¡santos!), pero los pecadores de la última estrofa reciben solo una coma."}, "source": {"en": "The Iris, or The Sheffield Advertiser, vol. 30, no. 1543 (Sheffield, 24 December 1816), \"The Nativity\", signed \"J. M.\"; the page photograph reproduced as Fig. 1 in the Hymnology Archive's article \"Angels, from the realms of glory\"", "es": "The Iris, or The Sheffield Advertiser, vol. 30, n.º 1543 (Sheffield, 24 de diciembre de 1816), \"The Nativity\", firmado \"J. M.\"; la fotografía de la página reproducida como fig. 1 en el artículo \"Angels, from the realms of glory\" del Hymnology Archive"}, "url": "https://www.hymnologyarchive.com/angels-from-the-realms-of-glory"}
                 },
                 {
                     "id": "song-angels-from-the-realms-of-glory-soprano-2",
@@ -357,7 +358,14 @@
                     "steps": [
                         {"kind": "record", "text": {"en": "Record the tune of Angels from the Realms of Glory in Sing, with the other parts playing.", "es": "Graba la melodía de Angels from the Realms of Glory en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "angels-from-the-realms-of-glory", "singers": 4, "part": "soprano"}
                     ],
-                    "challenge": true
+                    "challenge": true,
+                    "fact": {
+                        "id": "afrg-regent-square-1866",
+                        "text": {"en": "Henry Smart's tune was first printed in London in 1866, headed \"Regent Square\", in the Presbyterian book Psalms and Hymns for Divine Worship, and not to these words: its page sets it to two other hymns, \"Bright with all his crowns of glory\" and \"Glory be to God the Father\". The book's index calls it an \"Original Melody, by Henry Smart\".", "es": "La melodía de Henry Smart se imprimió por primera vez en Londres en 1866, con el título \"Regent Square\", en el libro presbiteriano Psalms and Hymns for Divine Worship, y no con esta letra: su página la pone con otros dos himnos, \"Bright with all his crowns of glory\" y \"Glory be to God the Father\". El índice del libro la llama \"Original Melody, by Henry Smart\" (melodía original de Henry Smart)."},
+                        "source": {"en": "Psalms and Hymns for Divine Worship (London: James Nisbet and Co., 1866), p. 58, \"Regent Square\", hymns 126 and 127, and the Index to Hymn Tunes; Princeton Theological Seminary Library copy, read from the scan", "es": "Psalms and Hymns for Divine Worship (Londres: James Nisbet and Co., 1866), p. 58, \"Regent Square\", himnos 126 y 127, y el índice de melodías (Index to Hymn Tunes); ejemplar de la Princeton Theological Seminary Library, leído en el escaneo"},
+                        "url": "https://archive.org/details/fordi00pres/page/n273/mode/1up",
+                        "distinct": ["jttw-echo", "nmg-jacob"]
+                    }
                 }
             ]
         },
