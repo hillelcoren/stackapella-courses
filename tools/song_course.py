@@ -156,6 +156,8 @@ SONGS = {
     "angels-from-the-realms-of-glory": "with the song",
     "good-christian-men-rejoice": "with the song",
     "once-in-royal-davids-city": "with the song",
+    # New songs, 2026-11-18 (Hillel lifted the pause): Messiah.
+    "hallelujah-chorus": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
