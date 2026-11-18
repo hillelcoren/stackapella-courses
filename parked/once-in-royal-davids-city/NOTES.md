@@ -1,6 +1,6 @@
 # Once in Royal David's City: research notes
 
-Template: templates/library/once-in-royal-davids-city.json (built by ~/Code/arranger-keep/carols/ordc-build/tools/build.py from ordc-build/meta.json). Scans and crops in ordc-build/scans and ordc-build/crops (kept out of the repo).
+Template: templates/library/once-in-royal-davids-city.json (built by ~/Code/arranger-keep/carols/ordc-build/tools/build.py from ordc-build/meta.json, then changed by hand in the 2026-11-18 choral review: the template is now the source, and a rebuild would undo the review's fixes). Scans and crops in ordc-build/scans and ordc-build/crops (kept out of the repo).
 
 ## Printings seen (read from the page images)
 
@@ -11,7 +11,7 @@ Template: templates/library/once-in-royal-davids-city.json (built by ~/Code/arra
    - n15 (preface, end): signed only "September, 1868" (the Compilers, unnamed); thanks Mr. Monk for "general supervision".
    - n33 (Index of Tunes, p. xxviii, metre 87, 87, 77): "Irby | Dr. Gauntlett | Dr. Gauntlett | 361" (Name of Tune | Composer, or source whence taken | Harmonized or Arranged by | Hymn). No asterisk, so not a tune new to the book.
    - n24 (Index of First Lines, p. xix): "Once in royal David's city ... 87, 87, 77 ... Irby ... 361".
-2. **Hymns Ancient and Modern** (New York: Pott, Young and Co., catalogued 1874), Harold B. Lee Library copy: archive.org/details/hymnsancientmode00monk, n264 (p. 251): Hymn 329 (the standard numbering), "For the Young", "The Child Jesus". Same tune and harmony; lines 5 and 6 compared note by note (identical), lines 1 to 4 compared by eye. Words capitalise "Mother" and add dynamics (mf, p, f, cr).
+2. **Hymns Ancient and Modern, Revised and Enlarged Edition** (title page, n4: London: printed for the proprietors by William Clowes and Sons, Limited; undated; the catalogue gives New York, Pott, Young and Co., 1874), Harold B. Lee Library copy: archive.org/details/hymnsancientmode00monk, n264 (p. 251): Hymn 329 (the revised edition's numbering), "For the Young", "The Child Jesus". Same tune and harmony; lines 5 and 6 compared note by note (identical), lines 1 to 4 compared by eye. Words capitalise "Mother" and add dynamics (mf, p, f, cr).
 3. **Hymns for Little Children**, First American Edition (Philadelphia: Hooker, [1850]), archive.org/details/hymnsforlittlech00alex, n35 (p. 30), No. 11, headed "Who was conceived by the Holy Ghost, born of the Virgin Mary." Verses 1 and 2 read as in the 1868 book apart from capitals and punctuation ("City," "bed." "Heaven," "his shelter", "his cradle"); verse 3 has "lovely maiden" where the 1868 book has "lowly maiden" (verse 3 is not sung here). Verses 4 to 6 (n36) not looked at.
 
 ## The tune as read (G major, crotchet beats, beat 0 the first pickup)
@@ -47,11 +47,16 @@ Every person died in 1925 or earlier: the rights bar is met.
 
 - Verses 1, 2 and 6 of six: the story (1), the stable (2) and the close (6). Verse 3 ("Christian children all must be / Mild, obedient, good as He") and verse 4 are left out for length.
 - Underlay is ours (the book prints the words apart from the music): one syllable a note, each beamed quaver pair one syllable (as the beams show), and in verse 2 the line ends "low-ly" and "Ho-ly" (eight syllables where the tune has seven) take the line's last minim as two crotchets.
-- Tempo 60: the fastest at which a half-beat breath at each line end is half a second (singable rule 1) without moving the tune's on-beat pickups; the tune moves in quavers in every bar, so it does not drag.
+- Tempo 60 (kept in the 2026-11-18 review; DECISION.md has the reasons): the fastest at which a half-beat breath at each line end is half a second (singable rule 1) without moving the tune's on-beat pickups; the tune moves in quavers in every bar, so it does not drag.
 - Words as the 1868 book prints them, small capitals as ordinary capitals (Jesus Christ, God, Lord, Saviour), "bed :" as "bed:".
 
 ## Uncertain
 
 - The 1849 (or 1848) Masters printing and the London 1848 words not seen.
 - Baker's role and death year taken from another template's notes.
-- Lines 1 to 4 of the 1874 New York printing compared by eye only.
+- Lines 1 to 4 of the later (revised edition) printing compared by eye only.
+- Neither printing gives a tempo or metronome mark.
+
+## Choral review (2026-11-18)
+
+Fixes, the reasons and the open points' resolutions are in DECISION.md here. Part-page lines (song_parts, English and Spanish) are in pages.json here, written from ~/Code/arranger-keep/partfacts.py. Words: "City" is capitalised in verse 1, as the 1868 book prints it.
