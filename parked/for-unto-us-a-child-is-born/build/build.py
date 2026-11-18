@@ -1,5 +1,5 @@
 """Builds templates/library/for-unto-us-a-child-is-born.json from notes.txt (the reading of Prout's 1902
-edition, bars 7 to 91) and meta.json: transposes a major third down (G to E-flat), writes the beginner breaths
+edition, bars 7 to 91) and meta.json: keeps Handel's key, G, writes the beginner breaths
 listed in BREATHS, marks each line's first note, and adds sections, phrases and chords.
     python3 -I parked/for-unto-us-a-child-is-born/build/build.py"""
 import json, os, sys
@@ -9,7 +9,7 @@ sys.path.insert(0, str(HERE))
 import parse
 
 ROOT = HERE.parents[2]
-SHIFT = -4  # G major as printed to E-flat major
+SHIFT = 0  # Handel's key, G, as printed (Hillel, 2026-11-18)
 NEED = 0.75  # the shortest breath at the tempo (singable rule 1: half a second, in quarter beats)
 B = lambda bar, beat=1: (bar - 7) * 4 + (beat - 1)  # template beat of a bar and beat
 
@@ -49,8 +49,8 @@ SECTIONS = [
     ('The Prince of Peace', 85, 92, [85, 87, 89]),
 ]
 
-# The local key (as sung, E-flat major) from each bar: Handel's G, D, C as printed, a major third down.
-KEY_REGIONS = [(7, 3), (18, 10), (38, 3), (54, 8), (59, 3), (62, 8), (71, 3)]
+# The local key from each bar: Handel's G, D and C as printed (moved with SHIFT).
+KEY_REGIONS = [(bar, (key + SHIFT) % 12) for bar, key in [(7, 7), (18, 2), (38, 7), (54, 0), (59, 7), (62, 0), (71, 7)]]
 
 QUALITIES = [('maj', (0, 4, 7)), ('min', (0, 3, 7)), ('dom7', (0, 4, 7, 10)), ('min7', (0, 3, 7, 10)),
              ('dim', (0, 3, 6)), ('maj7', (0, 4, 7, 11)), ('hdim7', (0, 3, 6, 10)), ('dim7', (0, 3, 6, 9)),
