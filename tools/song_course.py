@@ -155,6 +155,7 @@ SONGS = {
     # Carol batch 4, opened 2026-11-18.
     "angels-from-the-realms-of-glory": "with the song",
     "good-christian-men-rejoice": "with the song",
+    "once-in-royal-davids-city": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
