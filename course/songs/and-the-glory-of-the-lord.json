@@ -1,0 +1,2359 @@
+{
+    "id": "song-and-the-glory-of-the-lord",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "And the Glory of the Lord", "es": "And the Glory of the Lord"},
+    "units": [
+        {
+            "id": "song-and-the-glory-of-the-lord-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "And the Glory of the Lord: hear the whole song first, then the tune on its own.", "es": "And the Glory of the Lord: escucha primero la canción entera y luego la melodía sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {
+                        "id": "agl-glory-of",
+                        "text": {"en": "In \"the glory of the Lord\", Handel puts \"ry\" and \"of\" on one note, the Italian way of joining two vowels. Other editions had moved the words; Ebenezer Prout's of 1902 put Handel's notes back: \"It is just as easy to sing 'glo-ryof' ... in two syllables as 'glo-rious'.\"", "es": "En \"the glory of the Lord\", Handel pone \"ry\" y \"of\" en una sola nota, a la manera italiana de unir dos vocales. Otras ediciones habían movido la letra; la de Ebenezer Prout, de 1902, devolvió las notas de Handel: \"It is just as easy to sing 'glo-ryof' ... in two syllables as 'glo-rious'\" (es igual de fácil cantar \"glo-ryof\" en dos sílabas que \"glo-rious\")."},
+                        "source": {"en": "Ebenezer Prout (editor), Handel, Messiah, full score (London: Novello, 1902), preface, p. vi; University of Toronto, Faculty of Music copy, read from the scan", "es": "Ebenezer Prout (editor), Handel, Messiah, partitura completa (Londres: Novello, 1902), prefacio, p. vi; ejemplar de la Facultad de Música de la Universidad de Toronto, leído en el escaneo"},
+                        "url": "https://archive.org/details/messiahsacredora00hand_0/page/n11/mode/1up",
+                        "distinct": ["fuu-con-ripieni", "fuu-mozart-soloists", "halle-one-note", "halle-tenor-and-he"]
+                    }
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-4",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined, with the guide.", "es": "Ahora las frases 6 y 7 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-5",
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined, with the guide.", "es": "Ahora las frases 9 y 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-6",
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined, with the guide.", "es": "Ahora las frases 11 y 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-7",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined, with the guide.", "es": "Ahora las frases 13 y 14 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-8",
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined, with the guide.", "es": "Ahora las frases 15 y 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-9",
+                    "title": {"en": "Lines 17 to 19", "es": "Frases 17 a 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 19, then sing it back.", "es": "Escucha la frase 19 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 to 19 joined, with the guide.", "es": "Ahora las frases 17 a 19 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-10",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "And the glory of the Lord start to end, with the guide.", "es": "\"And the glory of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "And all flesh shall see it start to end, with the guide.", "es": "\"And all flesh shall see it\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [5, 6, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "For the mouth of the Lord start to end, with the guide.", "es": "\"For the mouth of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-11",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-12",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-soprano-13",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of And the Glory of the Lord in Sing, with the other parts playing.", "es": "Graba la melodía de And the Glory of the Lord en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "and-the-glory-of-the-lord", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {
+                        "id": "agl-second-and",
+                        "text": {"en": "Near the end Handel wrote \"and the glory, and the glory of the Lord\". Every printed edition leaves out the second \"and\", Prout's too, \"the sense being quite complete without it\", so the sopranos sing \"and the glory, the glory, the glory of the Lord\".", "es": "Cerca del final, Handel escribió \"and the glory, and the glory of the Lord\". Todas las ediciones impresas omiten el segundo \"and\", también la de Prout, porque \"the sense being quite complete without it\" (el sentido queda completo sin él), así que las sopranos cantan \"and the glory, the glory, the glory of the Lord\"."},
+                        "source": {"en": "Ebenezer Prout (editor), Handel, Messiah, full score (London: Novello, 1902), preface, p. viii, on No. 4; University of Toronto, Faculty of Music copy, read from the scan", "es": "Ebenezer Prout (editor), Handel, Messiah, partitura completa (Londres: Novello, 1902), prefacio, p. viii, sobre el n.º 4; ejemplar de la Facultad de Música de la Universidad de Toronto, leído en el escaneo"},
+                        "url": "https://archive.org/details/messiahsacredora00hand_0/page/n13/mode/1up",
+                        "distinct": ["fuu-con-ripieni", "fuu-mozart-soloists", "halle-one-note", "halle-tenor-and-he"]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "song-and-the-glory-of-the-lord-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "And the Glory of the Lord: hear the whole song first, then the alto part on its own.", "es": "And the Glory of the Lord: escucha primero la canción entera y luego la voz de contralto sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide.", "es": "Ahora las frases 5 y 6 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-5",
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined, with the guide.", "es": "Ahora las frases 7 y 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-6",
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined, with the guide.", "es": "Ahora las frases 9 y 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-7",
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined, with the guide.", "es": "Ahora las frases 11 y 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-8",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined, with the guide.", "es": "Ahora las frases 13 y 14 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-9",
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined, with the guide.", "es": "Ahora las frases 15 y 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-10",
+                    "title": {"en": "Lines 17 to 19", "es": "Frases 17 a 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 19, then sing it back.", "es": "Escucha la frase 19 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 to 19 joined, with the guide.", "es": "Ahora las frases 17 a 19 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-11",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "And the glory of the Lord start to end, with the guide.", "es": "\"And the glory of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "And all flesh shall see it start to end, with the guide.", "es": "\"And all flesh shall see it\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "For the mouth of the Lord start to end, with the guide.", "es": "\"For the mouth of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-12",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-13",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-alto-14",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of And the Glory of the Lord in Sing, with the other parts playing.", "es": "Graba la voz de contralto de And the Glory of the Lord en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "and-the-glory-of-the-lord", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-and-the-glory-of-the-lord-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "And the Glory of the Lord: hear the whole song first, then the bass part on its own.", "es": "And the Glory of the Lord: escucha primero la canción entera y luego la voz de bajo sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-4",
+                    "title": {"en": "Lines 6 and 7", "es": "Frases 6 y 7"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 6 and 7 joined, with the guide.", "es": "Ahora las frases 6 y 7 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [5, 6]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-5",
+                    "title": {"en": "Lines 8 and 9", "es": "Frases 8 y 9"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 8 and 9 joined, with the guide.", "es": "Ahora las frases 8 y 9 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-6",
+                    "title": {"en": "Lines 10 and 12", "es": "Frases 10 y 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 10 and 12 in their places, the other parts singing the lines between, with the guide.", "es": "Ahora las frases 10 y 12 en su lugar, con la guía; las demás voces cantan la frase intermedia."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [9, 10, 11],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-7",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined, with the guide.", "es": "Ahora las frases 13 y 14 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-8",
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined, with the guide.", "es": "Ahora las frases 15 y 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-9",
+                    "title": {"en": "Lines 17 to 19", "es": "Frases 17 a 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 19, then sing it back.", "es": "Escucha la frase 19 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 to 19 joined, with the guide.", "es": "Ahora las frases 17 a 19 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-10",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "And the glory of the Lord start to end, with the guide.", "es": "\"And the glory of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "And all flesh shall see it start to end, with the guide.", "es": "\"And all flesh shall see it\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "For the mouth of the Lord start to end, with the guide.", "es": "\"For the mouth of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [9, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-11",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-12",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-bass-13",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of And the Glory of the Lord in Sing, with the other parts playing.", "es": "Graba la voz de bajo de And the Glory of the Lord en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "and-the-glory-of-the-lord", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-and-the-glory-of-the-lord-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "And the Glory of the Lord: hear the whole song first, then the tenor part on its own.", "es": "And the Glory of the Lord: escucha primero la canción entera y luego la voz de tenor sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined, with the guide.", "es": "Ahora las frases 1 y 2 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined, with the guide.", "es": "Ahora las frases 3 y 4 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined, with the guide.", "es": "Ahora las frases 5 y 6 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-5",
+                    "title": {"en": "Lines 7 and 8", "es": "Frases 7 y 8"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 7, then sing it back.", "es": "Escucha la frase 7 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [6]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 8, then sing it back.", "es": "Escucha la frase 8 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [7]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 7 and 8 joined, with the guide.", "es": "Ahora las frases 7 y 8 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [6, 7]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-6",
+                    "title": {"en": "Lines 9 and 10", "es": "Frases 9 y 10"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 9, then sing it back.", "es": "Escucha la frase 9 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [8]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 10, then sing it back.", "es": "Escucha la frase 10 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [9]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 9 and 10 joined, with the guide.", "es": "Ahora las frases 9 y 10 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [8, 9]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-7",
+                    "title": {"en": "Lines 11 and 12", "es": "Frases 11 y 12"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 11, then sing it back.", "es": "Escucha la frase 11 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [10]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 12, then sing it back.", "es": "Escucha la frase 12 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [11]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 11 and 12 joined, with the guide.", "es": "Ahora las frases 11 y 12 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [10, 11]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-8",
+                    "title": {"en": "Lines 13 and 14", "es": "Frases 13 y 14"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 13, then sing it back.", "es": "Escucha la frase 13 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [12]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 14, then sing it back.", "es": "Escucha la frase 14 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [13]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 13 and 14 joined, with the guide.", "es": "Ahora las frases 13 y 14 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [12, 13]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-9",
+                    "title": {"en": "Lines 15 and 16", "es": "Frases 15 y 16"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 15, then sing it back.", "es": "Escucha la frase 15 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [14]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 16, then sing it back.", "es": "Escucha la frase 16 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [15]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 15 and 16 joined, with the guide.", "es": "Ahora las frases 15 y 16 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [14, 15]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-10",
+                    "title": {"en": "Lines 17 to 19", "es": "Frases 17 a 19"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 17, then sing it back.", "es": "Escucha la frase 17 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [16]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 18, then sing it back.", "es": "Escucha la frase 18 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [17]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 19, then sing it back.", "es": "Escucha la frase 19 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [18]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 17 to 19 joined, with the guide.", "es": "Ahora las frases 17 a 19 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-11",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "And the glory of the Lord start to end, with the guide.", "es": "\"And the glory of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "And all flesh shall see it start to end, with the guide.", "es": "\"And all flesh shall see it\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [4, 5, 6, 7, 8]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "For the mouth of the Lord start to end, with the guide.", "es": "\"For the mouth of the Lord\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-12",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-13",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "and-the-glory-of-the-lord",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-and-the-glory-of-the-lord-tenor-14",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of And the Glory of the Lord in Sing, with the other parts playing.", "es": "Graba la voz de tenor de And the Glory of the Lord en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "and-the-glory-of-the-lord", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}
