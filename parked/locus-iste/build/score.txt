@@ -1,0 +1,70 @@
+# Locus iste, Bruckner, as read from the first edition (Vier Graduale No. 2, Vienna: Th. Rättig, T.R. 41, [1886]),
+# pp. 8 to 10, ÖNB copy M.S. 5216 (scans: iiif.acdh.oeaw.ac.at/iiif/images/bruckner/drucke/WAB023/WAB023-02..04).
+# C major, common time (C), Allegro moderato; quarter-note beats; 48 bars, no pickup.
+# The tenor is printed in the treble clef an octave above its sound: written here at sounding pitch.
+# Token: PITCH/BEATS[:lyric] ; r/BEATS a rest ; a trailing = ties the note into the next one (same pitch).
+# A note with no lyric continues the syllable before it (a slur in the print).
+# Bars are separated by |, one line per system of the print (page.system).
+
+[soprano]
+# p8.1 bars 1-4
+C5/3:Lo- B4/1:cus | A4/2:i- G4/1:ste r/1 | r/1 G4/1:a A4/1:De- E4/1:o | G4/1.5:fac- G4/0.5:tus F4/1:est r/1 |
+# p8.2 bars 5-9
+D5/3:lo- C5/1:cus | C5/2:i- B4/1:ste r/1 | r/1 D5/1:a E5/1:De- G5/1:o | F5/1.5:fac- F5/0.5:tus E5/1:est, r/1 | r/1 F5/1:a F5/1:De- E5/1:o |
+# p8.3 bars 10-13
+r/1 F4/2:De- E4/1:o | D4/3:fac- C4/1:tus | B3/1:est r/1 r/2 | r/1 D4/1:in- D4/1:æ- D4/1:sti- |
+# p9.1 bars 14-17
+D4/1.5:ma- E4/0.5:bi- F4/1:le Bb4/1 | D5/3:sa- E5/1:cra- | E5/1:men- A4/1:tum r/2 | r/1 E4/1:in- E4/1:æ- E4/1:sti- |
+# p9.2 bars 18-21
+E4/1.5:ma- F#4/0.5:bi- G4/1:le C5/1 | E5/3:sa- F#5/1:cra- | F#5/1:men- B4/1:tum r/2 | r/4 |
+# p9.3 bars 22-24
+F#4/1:ir- F#4/1:re- F#4/1:pre- F#4/1:hen- | G4/0.75:si- G4/0.25:bi- G4/1:lis G4/1:est r/1 | E4/1:ir- E4/1:re- E4/1:pre- E4/1:hen- |
+# p9.4 bars 25-27
+F4/0.75:si- F4/0.25:bi- F4/1:lis F4/1:est r/1 | F4/2:ir- E4/2:re- | A4/3:pre- G4/1:hen- |
+# p10.1 bars 28-31
+F4/1.5:si- F4/0.5:bi- E4/2:lis | E4/1:est D4/1 r/2 | C5/3:Lo- B4/1:cus | A4/2:i- G4/1:ste r/1 |
+# p10.2 bars 32-36
+r/1 G4/1:a A4/1:De- E4/1:o | G4/1.5:fac- G4/0.5:tus F4/1:est r/1 | D5/3:lo- C5/1:cus | C5/2:i- B4/1:ste r/1 | r/1 D5/1:a E5/1:De- G5/1:o |
+# p10.3 bars 37-41
+F5/1.5:fac- F5/0.5:tus E5/1:est r/1 | r/1 F5/1:a F5/1:De- E5/1:o | r/1 F4/2:De- E4/1:o | D4/3:De- E4/1 | F4/2 F#4/2= |
+# p10.4 bars 42-48
+F#4/2 G4/2:o | r/4 | r/1 G4/1:a F4/1:De- E4/1:o | F4/2:De- D4/2:o | D4/4=:fac- | D4/2 D4/2:tus | E4/3:est. r/1
+
+[alto]
+E4/3:Lo- E4/1:cus | E4/2:i- E4/1:ste r/1 | r/1 E4/1:a E4/1:De- E4/1:o | D4/1.5:fac- D4/0.5:tus D4/1:est r/1 |
+F#4/3:lo- F#4/1:cus | F#4/2:i- G4/1:ste r/1 | r/1 G4/1:a G4/1:De- G4/1:o | G4/1.5:fac- G4/0.5:tus G4/1:est r/1 | r/1 G4/1:a G4/1:De- G4/1:o |
+r/1 D4/2:De- C4/1:o | B3/2:fac- G3/2:tus | G3/1:est r/1 r/2 | r/1 D4/1:in- D4/1:æ- D4/1:sti- |
+D4/1.5:ma- D4/0.5:bi- D4/1:le F4/1 | F4/3:sa- G4/1:cra- | A4/1:men- E4/1:tum r/2 | r/1 E4/1:in- E4/1:æ- E4/1:sti- |
+E4/1.5:ma- E4/0.5:bi- E4/1:le G4/1 | G4/3:sa- A4/1:cra- | B4/1:men- F#4/1:tum r/2 | r/4 |
+E4/1:ir- E4/1:re- D#4/1:pre- D#4/1:hen- | D4/0.75:si- D4/0.25:bi- D4/1:lis D4/1:est r/1 | D4/1:ir- D4/1:re- C#4/1:pre- C#4/1:hen- |
+C4/0.75:si- C4/0.25:bi- C4/1:lis C4/1:est r/1 | B3/2:ir- C4/2:re- | C4/3:pre- C4/1:hen- |
+C4/1:si- B3/1:bi- C4/2:lis | C4/1:est B3/1 r/2 | E4/3:Lo- E4/1:cus | E4/2:i- E4/1:ste r/1 |
+r/1 E4/1:a E4/1:De- E4/1:o | D4/1.5:fac- D4/0.5:tus D4/1:est r/1 | F#4/3:lo- F#4/1:cus | F#4/2:i- G4/1:ste r/1 | r/1 G4/1:a G4/1:De- G4/1:o |
+G4/1.5:fac- G4/0.5:tus G4/1:est r/1 | r/1 G4/1:a G4/1:De- G4/1:o | r/1 D4/2:De- C4/1:o | C4/1:De- B3/1 Bb3/2= | Bb3/1 A3/1 C4/2= |
+C4/2 B3/2:o | r/4 | r/1 C4/1:a B3/1:De- C4/1:o | C4/2:De- C4/2:o | C4/4:fac- | B3/2 B3/2:tus | C4/3:est. r/1
+
+[tenor]
+G3/3:Lo- G3/1:cus | C4/2:i- C4/1:ste r/1 | r/1 C4/1:a C4/1:De- C4/1:o | A3/1.5:fac- A3/0.5:tus A3/1:est r/1 |
+A3/3:lo- D4/1:cus | D4/2:i- D4/1:ste r/1 | r/1 B3/1:a C4/1:De- D4/1:o | D4/1.5:fac- D4/0.5:tus C4/1:est r/1 | r/1 D4/1:a D4/1:De- C4/1:o |
+r/1 G3/2:De- G3/1:o | F3/2:fac- E3/2:tus | D3/1:est r/1 r/2 | r/1 D3/1:in- Bb3/1:æ- C4/1:sti- |
+D4/1.5:ma- D4/0.5:bi- D4/2:le | D4/3:sa- D4/1:cra- | D4/1:men- C#4/1:tum r/2 | r/1 E3/1:in- C4/1:æ- D4/1:sti- |
+E4/1.5:ma- E4/0.5:bi- E4/2:le | E4/3:sa- E4/1:cra- | E4/1:men- D#4/1:tum r/2 | C4/1:ir- C4/1:re- C4/1:pre- C4/1:hen- |
+B3/0.75:si- B3/0.25:bi- B3/1:lis B3/1:est r/1 | Bb3/1:ir- Bb3/1:re- Bb3/1:pre- Bb3/1:hen- | A3/0.75:si- A3/0.25:bi- A3/1:lis A3/1:est r/1 |
+Ab3/1:ir- Ab3/1:re- Ab3/1:pre- Ab3/1:hen- | G3/0.75:si- G3/0.25:bi- G3/1:lis G3/1:est, r/1 | F3/1:ir- F3/1:re- E3/1:pre- E3/1:hen- |
+D3/1.5:si- D3/0.5:bi- E3/1:lis C3/1 | G3/2:est r/2 | G3/3:Lo- G3/1:cus | C4/2:i- C4/1:ste r/1 |
+r/1 C4/1:a C4/1:De- C4/1:o | A3/1.5:fac- A3/0.5:tus A3/1:est r/1 | A3/3:lo- D4/1:cus | D4/2:i- D4/1:ste r/1 | r/1 B3/1:a C4/1:De- D4/1:o |
+D4/1.5:fac- D4/0.5:tus C4/1:est r/1 | r/1 D4/1:a D4/1:De- C4/1:o | r/1 G3/2:De- G3/1:o | G3/4:De- | F3/2 A3/2= |
+A3/2 G3/2:o | r/4 | r/1 G3/1:a G3/1:De- G3/1:o | A3/2:De- A3/2:o | G3/4=:fac- | G3/2 G3/2:tus | G3/3:est. r/1
+
+[bass]
+C3/3:Lo- C3/1:cus | C3/2:i- C3/1:ste C3/1:a | C3/3:De- C3/1:o | D3/1.5:fac- D3/0.5:tus D3/1:est r/1 |
+D3/3:lo- D3/1:cus | G2/2:i- G2/1:ste G3/1:a | F3/2:De- E3/1 B2/1:o | C3/1.5:fac- C3/0.5:tus C3/1:est, C3/1:a | B2/2:De- C3/2:o |
+B2/2:De- C3/2:o | G2/2:fac- G2/2:tus | G2/1:est G2/1:in- G2/1:æ- A2/1:sti- | Bb2/1.5:ma- D3/0.5:bi- G3/1:le A3/1 |
+Bb3/3:sa- Bb3/1:cra- | Bb3/2:men- Bb2/2 | A2/1:tum, A2/1:in- A2/1:æ- B2/1:sti- | C3/1.5:ma- E3/0.5:bi- A3/1:le B3/1 |
+C4/3:sa- C4/1:cra- | C4/2:men- C3/2 | B2/2:tum, r/2 | r/4 |
+r/4 | r/4 | r/4 |
+r/4 | r/4 | r/4 |
+r/4 | r/4 | C3/3:Lo- C3/1:cus | C3/2:i- C3/1:ste C3/1:a |
+C3/3:De- C3/1:o | D3/1.5:fac- D3/0.5:tus D3/1:est r/1 | D3/3:lo- D3/1:cus | G2/2:i- G2/1:ste G3/1:a | F3/2:De- E3/1 B2/1:o |
+C3/1.5:fac- C3/0.5:tus C3/1:est C3/1:a | B2/2:De- C3/2:o | B2/2:De- C3/2:o | G2/2:De- G3/1 C#3/1 | D3/3 D#3/1 |
+E3/2 E3/2:o | r/4 | r/1 E3/1:a D3/1:De- C3/1:o | F2/2:De- F#2/2:o | G2/4=:fac- | G2/2 G2/2:tus | C3/3:est. r/1
