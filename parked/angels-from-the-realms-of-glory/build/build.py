@@ -80,24 +80,23 @@ def change(e, parts, why):
 
 change(12, ("E4", "C4", "E3"), "\"glo-\": the alto E4 (Smart's G4, a bare fourth under the tune's C5)")
 change(14, ("E4", "C4", "E3"), "\"ry,\": the alto E4 (Smart's G4, a unison with the tune)")
+change(16, ("C4", "C4", "F3"), "\"Wing\": the tenor holds C4 (Smart's A3, doubling the tune's A, the F chord's third), so the third isn't doubled and the tenor holds instead of leaping")
 change(20, ("E4", "C4", "E3"), "\"flight\": the alto E4 and the tenor C4 (Smart's C4 and G3), so the duet sings a third, not a fifth")
-change(22, ("E4", "C4", "A2"), "\"o'er\": the alto E4 and the tenor C4 (Smart's C4 and A3), so the duet has no octave and the A minor chord its fifth")
+change(22, ("E4", "C4", "A2"), "\"o'er\": the alto E4 and the tenor C4 (Smart's C4 and A3), so the duet has no octave; Smart's A3 under the alto's E4 would move in fifths with it into \"all\"")
 change(24, ("D4", "D4", "B2"), "\"all\": the tenor D4 (Smart's G3), stepping up, with no parallel octaves with the tune")
-change(26, ("D4", "B3", "G2"), "\"the\": the alto D4 and the tenor B3 (Smart's B3 and G3), so the G7 has its fifth and the duet a third")
-change(28, ("C4", "C4", "C3"), "\"earth\": the tenor C4 (Smart's G3), its B rising to C, not falling a fourth")
 change(44, ("A4", "C4", "E3"), "\"sto-\": the alto A4 and the tenor C4 (Smart's E4 and A3), so the duet sings a third")
 change(46, ("G#4", "E4", "E3"), "\"ry,\": the alto G-sharp 4 and the tenor E4 (Smart's E4 and G-sharp 3), so the duet and trio have the E chord's third, not a bare fifth")
 change(48, ("A4", "E4", "A3"), "\"Now\": the alto A4 and the tenor E4 (Smart's E4 and A3)")
 change(50, ("G#4", "E4", "E3"), "\"pro-\": the alto G-sharp 4 and the tenor E4 (Smart's E4 and G-sharp 3), as at \"ry,\"")
-change(60, ("B3", "G3", "G2"), "\"birth\": the alto B3 and the tenor G3 (Smart's G4, a unison with the tune, and B3), so the duet and trio have the G chord's third")
 change(64, ("B4", "D4", "G3"), "\"Come\": the alto B4 and the tenor D4 (Smart's G4 and B3), so the duet and trio have a third, not a bare fifth")
 change(67, ("B4", "D4", "G3"), "\"and\": as \"Come\"")
 change(36, ("E4", "C4", "E3"), "\"sang\": the alto E4 and the tenor C4 (Smart's G4 and G3), so the duet sings a sixth, not a bare fourth")
-change(38, ("F4", "B3", "D3"), "\"cre-\": one note a syllable, Smart's second quaver (alto F4, bass D3), and the tenor B3 (Smart's G3), so the G7 has its third")
+change(38, ("G4", "B3", "D3"), "\"cre-\": one note a syllable, the alto on Smart's first quaver (G4; his F4 after it is a second under the tune that would rise to G4 on \"a-\"), the bass on his second (D3), and the tenor B3 (Smart's G3), so the passing G chord on D has its third")
+change(43, ("G4", "B3", "D3"), "\"tion's\": the alto holds G4 (Smart's F4, a seventh that would rise to the alto's A on \"sto-\"), a passing G chord on D")
 change(40, ("G4", "C4", "C3"), "\"a-\": the alto G4 (Smart's E4, an octave under the tune's E5)")
 change(54, ("E4", "C4", "A2"), "\"Mes-\": the tenor C4 for the syllable (Smart's D4 then C4)")
-change(75, ("G4", "Bb3", "C3"), "\"and\": the alto holds G4 (Smart's E4)")
-change(76, ("A4", "C4", "F3"), "\"wor-\": the alto A4 and the tenor C4 (Smart's F4 and A3), so the duet has the F chord's third, not a bare fifth")
+change(75, ("Bb4", "E4", "C3"), "\"and\": the alto B-flat 4 and the tenor E4 (Smart's E4 and B-flat 3, exchanged), so the duet sings a third and each falls or rises a step into the F chord")
+change(76, ("A4", "F4", "F3"), "\"wor-\": the alto A4 and the tenor F4 (Smart's F4 and A3), so the duet has the F chord's third, not a bare fifth, the alto's seventh falls and the tenor's E rises")
 change(84, ("F4", "A3", "F3"), "\"Christ\": one note a syllable, Smart's first quaver (tenor A3, bass F3)")
 change(86, ("E4", "C4", "A3"), "\"the\": the alto E4 for the syllable (Smart's E4 then F4)")
 change(88, ("E4", "C4", "G3"), "\"new-\": the alto E4 and the tenor C4 (Smart's G4 and D4, the tune's C suspended over a G chord), a C chord over the bass's G, so the duet has no bare fourth")
@@ -109,8 +108,8 @@ CHORDS = {  # quaver: (root, quality, bass or None), in C as printed
     8: ("C", "maj", "G"), 11: ("G", "dom7", "F"), 12: ("C", "maj", "E"),
     16: ("F", "maj", None), 20: ("C", "maj", "E"), 22: ("A", "min", None),
     24: ("G", "maj", "B"), 26: ("G", "dom7", None), 28: ("C", "maj", None),
-    32: ("C", "maj", None), 34: ("C", "maj", "G"), 36: ("C", "maj", "E"), 38: ("G", "dom7", "D"),
-    40: ("C", "maj", None), 43: ("G", "dom7", "D"), 44: ("A", "min", "E"), 46: ("E", "maj", None),
+    32: ("C", "maj", None), 34: ("C", "maj", "G"), 36: ("C", "maj", "E"), 38: ("G", "maj", "D"),
+    40: ("C", "maj", None), 43: ("G", "maj", "D"), 44: ("A", "min", "E"), 46: ("E", "maj", None),
     48: ("A", "min", None), 50: ("E", "maj", None), 52: ("A", "min", "C"), 54: ("A", "min", None),
     56: ("G", "maj", "D"), 58: ("D", "dom7", None), 60: ("G", "maj", None),
     64: ("G", "maj", None), 72: ("C", "maj", None), 75: ("C", "dom7", None), 76: ("F", "maj", None),
