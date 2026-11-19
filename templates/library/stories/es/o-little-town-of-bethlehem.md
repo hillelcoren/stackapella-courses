@@ -15,11 +15,11 @@ alsoKnownAs: Little Town of Bethlehem; O little town of Bethlehem, how still we 
 wikidata: Q1619459
 quote: The hopes and fears of all the years Are met in thee to-night.
 quoteSource: hutchins1916
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: o little town of bethlehem historia | o little town of bethlehem significado | quién escribió o little town of bethlehem | o little town of bethlehem letra significado | o little town of bethlehem melodía st louis | o little town of bethlehem en qué tonalidad está
-translatedFrom: 25b9f649185a
+translatedFrom: fcf4759fb4b0
 original: The Church Porch, Nueva York, 1874, n.º 43, Internet Archive | https://archive.org/details/churchporchservi00hunt/page/n112
 listen: Internet Archive, grabación de 1916 (Library of Congress National Jukebox) | https://archive.org/details/loc-jukebox-19923-oh-little-town-of-bethlehem
 ---
@@ -177,6 +177,10 @@ La melodía cambia según el himnario. The United Methodist Hymnal (1989) lo tra
 
 Cantamos ST. LOUIS en Sol, como la imprimió Hutchins, villancico 599 en la p. 484, cotejada con el Hymnal de 1916 de la Iglesia episcopal, n.º 78, que tiene la misma melodía [^hutchins1916][^hymnal1916]. The Church Porch de 1874 difiere en una nota, Si donde ellos tienen Re, en el "and" de "deep and dreamless", y en algunos lugares de la contralto y el tenor [^churchporch1874][^hutchins1916][^hymnal1916]. Nuestro arreglo parte de las cuatro voces de Redner tal como las imprime Hutchins: cantamos las estrofas 1, 3 y 4 de las cuatro que imprime, para 2 a 4 cantantes. Dos cantantes son soprano y contralto; con el bajo son tres, y con el tenor, cuatro [^hutchins1916]. La soprano canta la melodía de Redner sin cambios, salvo las respiraciones marcadas para principiantes. Conservamos sus acordes y adaptamos las demás voces para principiantes: una nota por sílaba, la contralto y el tenor con las notas repartidas de otro modo en algunos lugares, y el bajo una octava más grave de "by;" a "Light;", para quedarse en una extensión de principiante, con un Si grave sostenido bajo "The everlast-", donde Redner dobla la melodía en las cuatro voces.
 
+### La versión del Reino Unido
+
+La mayoría de los libros británicos cantan esta letra con FOREST GREEN [^ch4][^iph2004][^stf2011], pero el arreglo de Vaughan Williams todavía no es uno que podamos usar. Así que para quienes cantan en el Reino Unido tenemos otra melodía que cantan los coros británicos, de Henry Walford Davies (1869 a 1941) [^hymnary-davies][^ws1905]. Su impresión más antigua conocida está en Worship Song, de W. Garrett Horder (Londres: Novello, 1905), n.º 661, titulada "Christmas Carol" como segunda melodía del himno: las estrofas son para las sopranos sobre el órgano, y la última, "O holy Child of Bethlehem", pasa a cuatro voces, marcada "Refrain. Harmony." (estribillo, armonía) [^ws1905]. Cambia de una versión a otra arriba en esta página; quien nos visita desde el Reino Unido empieza por esta. Cantamos las estrofas 1 y 3 y luego el estribillo, un tono más abajo, en Fa; las voces del estribillo son las de Walford Davies, adaptadas para principiantes, y bajo las estrofas la contralto, el tenor y el bajo son nuestros, sobre los acordes de su órgano [^ws1905].
+
 ## Versiones y otras letras
 
 FOREST GREEN es la otra melodía principal. En The English Hymnal lleva las cinco estrofas, con la cuarta en su forma "Mother mild" y las dos mitades de la segunda estrofa intercambiadas [^eh1906][^eh1906words][^hymnarchive]. El Hymnal episcopaliano de 1892 solo imprimió la letra. Sus ediciones musicales rivales trajeron melodías nuevas para el villancico: la de J. Ireland Tucker y W. W. Rousseau trae dos, de James C. Knox y de W. H. Walter [^hrgc1892]. Benson escribió que también volvieron a llamar la atención sobre la melodía de Redner [^benson1903].
@@ -246,3 +250,5 @@ No tiene una tonalidad fija. La melodía de Redner se imprimió en Sol en The Ch
 - [^stf2011]: Hymnary.org, *Singing the Faith* (Londres: Hymns Ancient & Modern for the Methodist Church, 2011), Iglesia Metodista de Gran Bretaña, n.º 213, melodía FOREST GREEN. https://hymnary.org/hymn/STF2011/213
 - [^newadvent]: *The Catholic Encyclopedia*, "Immaculate Conception" (Nueva York: Robert Appleton, 1910), en New Advent. https://www.newadvent.org/cathen/07674d.htm
 - [^kjv]: La Biblia, versión King James: Miqueas 5:2; Juan 1:9; Job 38:7; Lucas 2:14; Apocalipsis 3:20; Mateo 1:23; las citas en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Micah+5%3A2%3BJohn+1%3A9%3BJob+38%3A7%3BLuke+2%3A14%3BRevelation+3%3A20%3BMatthew+1%3A23&version=KJV
+- [^ws1905]: W. Garrett Horder (ed.), *Worship Song* (Londres: Novello, 1905), n.º 661, "Christmas Carol", segunda melodía, H. Walford Davies, pp. 744 a 745, "Copyright, 1905, by W. Garrett Horder"; ejemplar de la Universidad de Toronto, imágenes n785 y n786. https://archive.org/details/worshipsongwith00horduoft/page/n785
+- [^hymnary-davies]: Hymnary.org, *H. Walford Davies* (página de la persona). https://hymnary.org/person/Davies_HW

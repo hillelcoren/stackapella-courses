@@ -15,7 +15,7 @@ alsoKnownAs: Little Town of Bethlehem; O little town of Bethlehem, how still we 
 wikidata: Q1619459
 quote: The hopes and fears of all the years Are met in thee to-night.
 quoteSource: hutchins1916
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: who wrote o little town of bethlehem | who wrote the music for o little town of bethlehem | what year was o little town of bethlehem written | o little town of bethlehem history | o little town of bethlehem meaning | o little town of bethlehem lyrics meaning | o little town of bethlehem tune st louis | o little town of bethlehem tune forest green | o little town of bethlehem two tunes | what key is o little town of bethlehem in
@@ -136,6 +136,10 @@ The tune depends on the book. The United Methodist Hymnal (1989) sets it to ST. 
 
 We sing ST. LOUIS in G as Hutchins printed it, Carol 599 on p. 484, checked against the Episcopal Church's Hymnal of 1916, No. 78, which has the same tune [^hutchins1916][^hymnal1916]. The Church Porch of 1874 differs in one note, B where they have D on "and" in "deep and dreamless", and in places in the alto and tenor [^churchporch1874][^hutchins1916][^hymnal1916]. Our arrangement is read from Redner's four parts as Hutchins prints them: verses 1, 3 and 4 of his four, for two to four singers, soprano and alto, then bass for three and tenor for four [^hutchins1916]. The soprano sings Redner's tune, unchanged but for breaths written in for beginners. His chords are kept, and the lower parts are adapted for beginners: one note to a syllable, the alto and tenor revoiced in places, and the bass an octave lower from "by;" to "Light;" to stay in a beginner's range, holding a low B under "The everlast-" where Redner doubles the tune in all four voices.
 
+### The UK version
+
+Most British books sing these words to FOREST GREEN [^ch4][^iph2004][^stf2011], but Vaughan Williams's setting of it is not yet one we can use. So for UK singers we have another tune that British choirs sing, by Henry Walford Davies (1869 to 1941) [^hymnary-davies][^ws1905]. Its earliest known printing is in W. Garrett Horder's Worship Song (London: Novello, 1905), No. 661, headed "Christmas Carol" as the hymn's second tune: the stanzas are for the sopranos over the organ, and the last, "O holy Child of Bethlehem", turns to four-part harmony, marked "Refrain. Harmony." [^ws1905] Switch between the two versions at the top of this page; visitors in the UK start on this one. We sing stanzas 1 and 3 and then the refrain, a tone lower in F; the refrain's parts are Walford Davies's, adapted for beginners, and under the stanzas the alto, tenor and bass are ours, on his organ's chords [^ws1905].
+
 ## Versions and other words
 
 FOREST GREEN is the main other tune. In The English Hymnal it carries all five stanzas, with the fourth in its "Mother mild" form and the two halves of the second stanza swapped [^eh1906][^eh1906words][^hymnarchive]. The Episcopal Hymnal of 1892 printed only words. Its rival musical editions wrote new tunes for the carol: one, edited by J. Ireland Tucker and W. W. Rousseau, gives two, by James C. Knox and W. H. Walter [^hrgc1892]. Benson wrote that they also drew attention afresh to Redner's tune [^benson1903].
@@ -205,3 +209,5 @@ It has no fixed key. Redner's tune was printed in G in The Church Porch of 1874,
 - [^stf2011]: Hymnary.org, *Singing the Faith* (London: Hymns Ancient & Modern for the Methodist Church, 2011), Methodist Church of Great Britain, No. 213, tune FOREST GREEN. https://hymnary.org/hymn/STF2011/213
 - [^newadvent]: *The Catholic Encyclopedia*, "Immaculate Conception" (New York: Robert Appleton, 1910), via New Advent. https://www.newadvent.org/cathen/07674d.htm
 - [^kjv]: The Bible, King James Version: Micah 5:2; John 1:9; Job 38:7; Luke 2:14; Revelation 3:20; Matthew 1:23. https://www.biblegateway.com/passage/?search=Micah+5%3A2%3BJohn+1%3A9%3BJob+38%3A7%3BLuke+2%3A14%3BRevelation+3%3A20%3BMatthew+1%3A23&version=KJV
+- [^ws1905]: W. Garrett Horder (ed.), *Worship Song* (London: Novello, 1905), No. 661, "Christmas Carol", second tune, H. Walford Davies, pp. 744 to 745, "Copyright, 1905, by W. Garrett Horder"; University of Toronto copy, images n785 and n786. https://archive.org/details/worshipsongwith00horduoft/page/n785
+- [^hymnary-davies]: Hymnary.org, *H. Walford Davies* (person page). https://hymnary.org/person/Davies_HW
