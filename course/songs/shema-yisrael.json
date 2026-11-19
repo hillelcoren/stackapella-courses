@@ -1,0 +1,1210 @@
+{
+    "id": "song-shema-yisrael",
+    "version": 1,
+    "reviewed": false,
+    "title": {"en": "Shema Yisrael", "es": "Shema Yisrael"},
+    "units": [
+        {
+            "id": "song-shema-yisrael-soprano",
+            "title": {"en": "The melody", "es": "La melodía"},
+            "colour": 1,
+            "lessons": [
+                {
+                    "id": "song-shema-yisrael-soprano-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shema Yisrael: hear the whole song first, then the tune on its own.", "es": "Shema Yisrael: escucha primero la canción entera y luego la melodía sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tune", "es": "Luego, la melodía"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tune on its own.", "es": "Ahora la melodía sola."},
+                            "steps": [{"title": {"en": "Soprano", "es": "Soprano"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ],
+                    "fact": {"id": "sy-1926", "text": {"en": "The tune's earliest known printing, in Israel and Samuel E. Goldfarb's Synagogue Melodies for the High Holy Days (Brooklyn, 1926), gives it to the congregation as one line marked \"Traditional\", and sets Baruch shem to the same notes, to be added on Yom Kippur.", "es": "La impresión más antigua conocida de la melodía, en Synagogue Melodies for the High Holy Days de Israel y Samuel E. Goldfarb (Brooklyn, 1926), se la da a la congregación como una sola línea marcada \"Traditional\" (tradicional), y pone Baruch shem con las mismas notas, para añadirlo en Yom Kipur."}, "source": {"en": "Israel Goldfarb and Samuel E. Goldfarb, Synagogue Melodies for the High Holy Days (Brooklyn, 1926), Nos. 18 and 19, p. 17, read from the scan", "es": "Israel Goldfarb y Samuel E. Goldfarb, Synagogue Melodies for the High Holy Days (Brooklyn, 1926), n.os 18 y 19, p. 17, leído en el escaneo"}, "url": "https://www.shulmusic.org/sheetmusic/index.html"}
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-3",
+                    "title": {"en": "Lines 3 to 6", "es": "Frases 3 a 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Line 4 is the tune of line 1 again, with new words. Sing it with the guide.", "es": "La frase 4 repite la melodía de la frase 1, con otra letra. Cántala con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [3]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 to 6 joined, with the guide.", "es": "Ahora las frases 3 a 6 seguidas, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-4",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shema Yisrael start to end, with the guide.", "es": "\"Shema Yisrael\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Baruch shem start to end, with the guide.", "es": "\"Baruch shem\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-5",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-6",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "soprano",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-soprano-7",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tune of Shema Yisrael in Sing, with the other parts playing.", "es": "Graba la melodía de Shema Yisrael en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shema-yisrael", "singers": 4, "part": "soprano"}
+                    ],
+                    "challenge": true,
+                    "fact": {"id": "sy-sulzer", "text": {"en": "Salomon Sulzer's own Shema, in his Schir Zion, is another tune in the same 3/4 time: the cantor sings the verse and the choir answers with it. Only its first note and its closing \"Adoshem echad\" match the tune sung today.", "es": "El Shemá del propio Salomon Sulzer, en su Schir Zion, es otra melodía en el mismo compás de 3/4: el cantor canta el versículo y el coro le responde con él. Solo su primera nota y su \"Adoshem echad\" final coinciden con la melodía que se canta hoy."}, "source": {"en": "Salomon Sulzer, Schir Zion, revised by Joseph Sulzer, 3rd edition (Frankfurt: J. Kauffmann), No. 104, p. 97, read from the scan", "es": "Salomon Sulzer, Schir Zion, revisado por Joseph Sulzer, 3.ª edición (Fráncfort: J. Kauffmann), n.º 104, p. 97, leído en el escaneo"}, "url": "https://www.shulmusic.org/sheetmusic/sulzer/sulz_97.htm"}
+                }
+            ]
+        },
+        {
+            "id": "song-shema-yisrael-alto",
+            "title": {"en": "Alto", "es": "Contralto"},
+            "colour": 2,
+            "lessons": [
+                {
+                    "id": "song-shema-yisrael-alto-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shema Yisrael: hear the whole song first, then the alto part on its own.", "es": "Shema Yisrael: escucha primero la canción entera y luego la voz de contralto sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the alto part", "es": "Luego, la contralto"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the alto part on its own.", "es": "Ahora la voz de contralto sola."},
+                            "steps": [{"title": {"en": "Alto", "es": "Contralto"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-5",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shema Yisrael start to end, with the guide.", "es": "\"Shema Yisrael\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Baruch shem start to end, with the guide.", "es": "\"Baruch shem\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-6",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-7",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "alto",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-alto-8",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the alto part of Shema Yisrael in Sing, with the other parts playing.", "es": "Graba la voz de contralto de Shema Yisrael en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shema-yisrael", "singers": 4, "part": "alto"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-shema-yisrael-bass",
+            "title": {"en": "Bass", "es": "Bajo"},
+            "colour": 3,
+            "lessons": [
+                {
+                    "id": "song-shema-yisrael-bass-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shema Yisrael: hear the whole song first, then the bass part on its own.", "es": "Shema Yisrael: escucha primero la canción entera y luego la voz de bajo sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the bass part", "es": "Luego, el bajo"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the bass part on its own.", "es": "Ahora la voz de bajo sola."},
+                            "steps": [{"title": {"en": "Bass", "es": "Bajo"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-5",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shema Yisrael start to end, with the guide.", "es": "\"Shema Yisrael\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Baruch shem start to end, with the guide.", "es": "\"Baruch shem\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-6",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-7",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "bass",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-bass-8",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the bass part of Shema Yisrael in Sing, with the other parts playing.", "es": "Graba la voz de bajo de Shema Yisrael en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shema-yisrael", "singers": 4, "part": "bass"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        },
+        {
+            "id": "song-shema-yisrael-tenor",
+            "title": {"en": "Tenor", "es": "Tenor"},
+            "colour": 4,
+            "lessons": [
+                {
+                    "id": "song-shema-yisrael-tenor-1",
+                    "title": {"en": "Hear it", "es": "Escuchar"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Shema Yisrael: hear the whole song first, then the tenor part on its own.", "es": "Shema Yisrael: escucha primero la canción entera y luego la voz de tenor sola."},
+                            "steps": [
+                                {"title": {"en": "Listen before you sing", "es": "Escucha antes de cantar"}, "detail": {"en": "The whole song, every part together", "es": "La canción entera, con todas las voces"}},
+                                {"title": {"en": "Then the tenor part", "es": "Luego, el tenor"}, "detail": {"en": "The guide sings it, line by line", "es": "La guía la canta frase a frase"}},
+                                {"title": {"en": "Sing gently", "es": "Canta suave"}, "detail": {"en": "Stop if anything tightens or hurts", "es": "Si algo se tensa o duele, para"}}
+                            ],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "learn",
+                            "headline": {"en": "Now the tenor part on its own.", "es": "Ahora la voz de tenor sola."},
+                            "steps": [{"title": {"en": "Tenor", "es": "Tenor"}, "detail": {"en": "Follow the words as it plays", "es": "Sigue la letra mientras suena"}}],
+                            "listen": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            }
+                        },
+                        {
+                            "kind": "try",
+                            "text": {"en": "Find the notes of line 1: each one waits until you're on it.", "es": "Busca las notas de la frase 1: cada una te espera hasta que estés en ella."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-2",
+                    "title": {"en": "Lines 1 and 2", "es": "Frases 1 y 2"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 1, then sing it back.", "es": "Escucha la frase 1 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 2, then sing it back.", "es": "Escucha la frase 2 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 1 and 2 joined: hear them, then sing them back.", "es": "Ahora las frases 1 y 2 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-3",
+                    "title": {"en": "Lines 3 and 4", "es": "Frases 3 y 4"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 3, then sing it back.", "es": "Escucha la frase 3 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [2]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 4, then sing it back.", "es": "Escucha la frase 4 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 3 and 4 joined: hear them, then sing them back.", "es": "Ahora las frases 3 y 4 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [2, 3]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-4",
+                    "title": {"en": "Lines 5 and 6", "es": "Frases 5 y 6"},
+                    "strictness": "relaxed",
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 5, then sing it back.", "es": "Escucha la frase 5 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [4]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Hear line 6, then sing it back.", "es": "Escucha la frase 6 y repítela."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Now lines 5 and 6 joined: hear them, then sing them back.", "es": "Ahora las frases 5 y 6 seguidas: escúchalas y repítelas."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [4, 5]
+                                },
+                                "turn": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-5",
+                    "title": {"en": "The whole song", "es": "La canción entera"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Shema Yisrael start to end, with the guide.", "es": "\"Shema Yisrael\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Baruch shem start to end, with the guide.", "es": "\"Baruch shem\", de principio a fin, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "The whole song, with the guide.", "es": "La canción entera, con la guía."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5]
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-6",
+                    "title": {"en": "With the others", "es": "Con los demás"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "Sing your part with the other parts, and the guide with you. Hold your line while the others move.", "es": "Canta tu parte con las demás voces, y la guía contigo. Mantente firme en ella mientras las otras se mueven."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-7",
+                    "title": {"en": "On your own", "es": "Sin guía"},
+                    "steps": [
+                        {
+                            "kind": "play",
+                            "text": {"en": "The guide drops out: your part with the others only. Give me my note plays your first note quietly.", "es": "La guía deja de cantar: tu parte, solo con las demás voces. \"Escuchar mi nota\" te da tu primera nota, suave."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        },
+                        {
+                            "kind": "play",
+                            "text": {"en": "Once more on your own, from the top.", "es": "Otra vez sin guía, desde el principio."},
+                            "exercise": {
+                                "song": {
+                                    "template": "shema-yisrael",
+                                    "part": "tenor",
+                                    "phrases": [0, 1, 2, 3, 4, 5],
+                                    "with": "others"
+                                },
+                                "turn": false,
+                                "guide": false,
+                                "giveNote": true
+                            },
+                            "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}
+                        }
+                    ]
+                },
+                {
+                    "id": "song-shema-yisrael-tenor-8",
+                    "title": {"en": "Record it", "es": "Grabar"},
+                    "steps": [
+                        {"kind": "record", "text": {"en": "Record the tenor part of Shema Yisrael in Sing, with the other parts playing.", "es": "Graba la voz de tenor de Shema Yisrael en Cantar, con las demás voces sonando."}, "measures": {"en": "Scored on the notes.", "es": "Se puntúan las notas."}, "template": "shema-yisrael", "singers": 4, "part": "tenor"}
+                    ],
+                    "challenge": true
+                }
+            ]
+        }
+    ]
+}

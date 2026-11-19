@@ -166,6 +166,8 @@ SONGS = {
     "locus-iste": "with the song",
     # New library song, built 2026-11-18 from the Schoen first edition.
     "cantique-de-jean-racine": "with the song",
+    # New library song, built 2026-11-18 from Goldfarb's Synagogue Melodies for the High Holy Days (1926).
+    "shema-yisrael": "with the song",
 }
 COLOURS = [1, 2, 3, 4, 5, 6]  # a unit's colour, by its part's place in the course
 SCORED = EN("Scored on the notes.")
