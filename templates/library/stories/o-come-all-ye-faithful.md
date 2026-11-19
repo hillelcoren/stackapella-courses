@@ -15,7 +15,7 @@ alsoKnownAs: Adeste Fideles; Portuguese Hymn (the tune)
 wikidata: Q356486
 quote: Mr. John Francis Wade, a Layman, aged 75
 quoteSource: zon
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: who wrote o come all ye faithful | o come all ye faithful meaning | o come all ye faithful meaning bible verse | o come all ye faithful joyful and triumphant meaning | o come all ye faithful original lyrics | o come all ye faithful lyrics catholic version | o come all ye faithful history
@@ -165,6 +165,10 @@ Adeste Fideles began in Catholic Latin worship. The 1760 Evening Office sets it 
 
 Our arrangement sings the first verse and the refrain, in G and in 4/4, for 2 to 4 singers, with everyone singing the words. Two singers take soprano and alto; a third adds bass. The refrain says "O come, let us adore him" three times, each "come" higher than the last, before "Christ the Lord" brings it home to G.
 
+### The UK version
+
+In Britain the hymn is sung from Hymns Ancient and Modern, whose music editor William Henry Monk, who died in 1889, harmonised the tune for its first edition of 1861, No. 42 [^am1861]. We also have it in that harmony as the UK version: switch between the two at the top of this page, and visitors in the UK start on it. It is read from Monk's four parts as the book's Revised Edition prints them, No. 59, in A, written here a tone lower in G, with the first verse and the refrain [^am1875]. There the refrain's first line is the tune alone over the organ, its second line has no bass, and everyone comes in for the last "O come, let us adore Him" [^am1875]. Our alto and tenor sing the line Monk gives the voices there in 1861, so it has harmony at every size [^am1861].
+
 ## Versions and other words
 
 - **The added Latin verses:** three by the French priest Étienne Borderies, printed in 1822, about the shepherds, the Father's glory and the poor child in the manger, which French use sings in place of three of Wade's; and an anonymous one about the wise men [^hymnarchive][^hcnotes][^julian].
@@ -240,3 +244,5 @@ The soprano sings the tune in our arrangement. With two singers you have the tun
 - [^hws1909]: *Hymns of Worship and Service*, 20th ed. (The Century Co., New York, 1909), No. 89, "Adeste Fideles", p. 63 (image n102), Princeton Theological Seminary Library copy, call number 6157. https://archive.org/details/hymnsofworship00newy/page/n102
 - [^elhimnario]: *El Himnario* (Church Publishing, 1998), No. 81, "Venid, fieles todos", at Hymnary.org. https://hymnary.org/hymn/EH1998/81
 - [^neh]: *The New English Hymnal*, No. 30, text at Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text
+- [^am1861]: *Hymns Ancient and Modern* (London: Novello, 1861), No. 42, "Adeste fideles", and the Index of Tunes, p. xx, naming W. H. Monk as harmoniser; University of Toronto copy, images n73 and n25. https://archive.org/details/hymnsancientmode00unse/page/n73
+- [^am1875]: *Hymns Ancient and Modern*, Revised Edition (London, 1875; this copy a later printing with the 1889 Supplement), No. 59, "Adeste fideles", pp. 74 to 75, in A; images n109 and n110. https://archive.org/details/hymnsanci00chur/page/n109

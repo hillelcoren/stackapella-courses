@@ -15,11 +15,11 @@ alsoKnownAs: Adeste Fideles; Portuguese Hymn (la melodía); Venid, fieles todos
 wikidata: Q356486
 quote: el Sr. John Francis Wade, laico, de 75 años
 quoteSource: zon
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: adeste fideles historia | adeste fideles significado | quién escribió adeste fideles | adeste fideles letra original en latín | o come all ye faithful significado | o come all ye faithful historia | venid fieles todos letra | adeste fideles en español
-translatedFrom: 271d5b0dc467
+translatedFrom: 22cd2b157e3d
 listen: National Jukebox, grabación de 1919 | https://www.loc.gov/item/jukebox-661390/ || National Jukebox, grabación de 1915 | https://www.loc.gov/item/jukebox-12842/
 original: Hymns of Worship and Service (1909), Internet Archive | https://archive.org/details/hymnsofworship00newy/page/n102
 ---
@@ -189,6 +189,10 @@ Adeste Fideles nació en el culto católico en latín. El Evening Office de 1760
 
 Nuestro arreglo canta la primera estrofa y el estribillo, en Sol y en 4/4, para 2 a 4 cantantes, y todos cantan la letra. Dos cantantes hacen soprano y contralto; un tercero añade el bajo. El estribillo dice tres veces "O come, let us adore him", y cada "come" sube más que el anterior, hasta que "Christ the Lord" lo hace descansar de nuevo en Sol.
 
+### La versión del Reino Unido
+
+En Gran Bretaña este himno se canta con Hymns Ancient and Modern, cuyo editor musical, William Henry Monk, que murió en 1889, armonizó la melodía para su primera edición de 1861, n.º 42 [^am1861]. También lo tenemos con esa armonía como versión del Reino Unido: cambia de una a otra arriba en esta página; quien nos visita desde el Reino Unido empieza por ella. Parte de las cuatro voces de Monk tal como las imprime la edición revisada del libro, n.º 59, en La, escritas aquí un tono más abajo, en Sol, con la primera estrofa y el estribillo [^am1875]. Allí la primera línea del estribillo es la melodía sola sobre el órgano, la segunda no tiene bajo, y todos entran en el último "O come, let us adore Him" [^am1875]. Nuestras contralto y tenor cantan la línea que Monk da a las voces en 1861, así que hay armonía con cualquier número de cantantes [^am1861].
+
 ## Versiones y otras letras
 
 - **Las estrofas latinas añadidas:** tres del sacerdote francés Étienne Borderies, impresas en 1822, sobre los pastores, la gloria del Padre y el niño pobre en el pesebre, que el uso francés canta en lugar de tres de las de Wade; y una anónima sobre los magos [^hymnarchive][^hcnotes][^julian].
@@ -264,3 +268,5 @@ En nuestro arreglo, la soprano canta la melodía. Con dos cantantes tienes la me
 - [^hws1909]: *Hymns of Worship and Service*, 20.ª ed. (The Century Co., Nueva York, 1909), n.º 89, "Adeste Fideles", p. 63 (imagen n102), ejemplar de la Princeton Theological Seminary Library, signatura 6157. https://archive.org/details/hymnsofworship00newy/page/n102
 - [^elhimnario]: *El Himnario* (Church Publishing, 1998), n.º 81, "Venid, fieles todos", en Hymnary.org. https://hymnary.org/hymn/EH1998/81
 - [^neh]: *The New English Hymnal*, n.º 30, texto en Hymnary.org. https://hymnary.org/hymn/NEH1985/30?media=text
+- [^am1861]: *Hymns Ancient and Modern* (Londres: Novello, 1861), n.º 42, "Adeste fideles", y el índice de melodías, p. xx, que nombra a W. H. Monk como armonizador; ejemplar de la Universidad de Toronto, imágenes n73 y n25. https://archive.org/details/hymnsancientmode00unse/page/n73
+- [^am1875]: *Hymns Ancient and Modern*, edición revisada (Londres, 1875; este ejemplar es una impresión posterior con el suplemento de 1889), n.º 59, "Adeste fideles", pp. 74 a 75, en La; imágenes n109 y n110. https://archive.org/details/hymnsanci00chur/page/n109
