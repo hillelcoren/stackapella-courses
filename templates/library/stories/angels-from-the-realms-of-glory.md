@@ -15,7 +15,7 @@ alsoKnownAs: Angels, from the Realms of Glory; The Nativity; Good Tidings of Gre
 wikidata: Q3544254
 quote: Come and worship, Worship Christ the new-born King.
 quoteSource: cp1825
-updated: 2026-11-18
+updated: 2026-11-19
 checked: 2026-11-18
 reviewed: true
 searches: who wrote angels from the realms of glory | who wrote angels from the realms of glory lyrics | angels from the realms of glory history | angels from the realms of glory hymn history | history of the song angels from the realms of glory | angels from the realms of glory meaning | angels from the realms of glory lyrics meaning | angels from the realms of glory lyrics meaning in english | angels from the realms of glory hymn lyrics
@@ -121,6 +121,10 @@ In the United States and Canada it is usually REGENT SQUARE; in England, most of
 
 Our arrangement is read from Smart's four parts as Charles L. Hutchins printed them in The Church Hymnal (Boston, 1894), No. 60, headed "Christmas", "Regent Square" and "H. Smart", in C major and 4/4 [^hutchins1894]. Hutchins prints four of the five verses and, under the first, sets "Come and worship" twice to fill Smart's fifth line [^hutchins1894]. We sing it a tone lower, in B-flat, with Smart's tune and chords, the lower parts revoiced in places for beginners, one note to each syllable. We sing verses 1 to 3, the angels, the shepherds and the sages, in Hutchins's words, each with "Come and worship" twice [^hutchins1894]. It is for two to four singers: two take soprano, on the tune, and alto, a third adds the bass, and the tenor makes four.
 
+### The UK version
+
+Since Britain often sings these words to IRIS, we also have them that way as the UK version: switch between the two at the top of this page, and visitors in the UK start on it [^ha][^methodist]. The harmony that churches use with IRIS today is under copyright, so ours is read from an older one: S. S. Greatheed's four parts of the French tune in R. R. Chope's Carols for Use in Church (London, 1875), Carol 68, p. 139, where the book's index marks it "Traditional, arranged by the Rev. S. S. Greatheed" [^chope1875]. Chope printed it with other words, so the pairing of Montgomery's verses with Greatheed's harmony is our own. His verse has seven syllables a line where Montgomery's long lines have eight, so one note in each of those lines is sung twice, on the same pitch; the "Gloria in excelsis Deo" chorus is sung as Chope prints it, after each of the first three verses [^chope1875][^cp1825].
+
 ## Versions and other words
 
 - **A different last verse:** in 1825 The Christmas Box printed Montgomery's hymn beside "The Babe of Bethlehem", an anonymous carol in the same meter. One of its verses, "Though an infant now we view him", is sometimes sung in place of Montgomery's fifth, as in the Oxford Book of Carols of 1928 [^obc1928][^ha].
@@ -185,3 +189,4 @@ Because of its hard opening, sinners "doom'd for guilt to endless pains", which 
 - [^kjv]: The Holy Bible, King James Version: Job 38:7, Haggai 2:7, Malachi 3:1, Psalm 85:10, Matthew 1:23 and 2:1 to 2, Luke 2:8 to 10, 2:25 and 2:36 to 38, at Bible Gateway. https://www.biblegateway.com/passage/?search=Luke+2%3A8-10%3BMatthew+2%3A1-2&version=KJV
 - [^webster-natal]: Noah Webster, *An American Dictionary of the English Language* (1828), "Natal". https://webstersdictionary1828.com/Dictionary/natal
 - [^webster-wring]: Noah Webster, *An American Dictionary of the English Language* (1828), "Wring", verb, sense 5. https://webstersdictionary1828.com/Dictionary/wring
+- [^chope1875]: R. R. Chope (ed.), *Carols for Use in Church*, music edited by Herbert Stephen Irons (London: Metzler; Novello, Ewer, 1875), Carol 68, "When the crimson sun had set", p. 139, and the index, p. xxxvi. https://archive.org/details/carolnch00chop/page/n178

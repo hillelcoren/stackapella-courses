@@ -15,11 +15,11 @@ alsoKnownAs: Angels, from the Realms of Glory; The Nativity; Good Tidings of Gre
 wikidata: Q3544254
 quote: Come and worship, Worship Christ the new-born King.
 quoteSource: cp1825
-updated: 2026-11-18
+updated: 2026-11-19
 checked: 2026-11-18
 reviewed: true
 searches: angels from the realms of glory historia | angels from the realms of glory significado | quién escribió angels from the realms of glory | angels from the realms of glory letra | angels from the realms of glory letra en español | himno angels from the realms of glory historia
-translatedFrom: 885d55afc639
+translatedFrom: 155302541851
 listen: Internet Archive, grabación de 1915 | https://archive.org/details/edison-50303_01_4132 || Internet Archive, grabación de 1916 | https://archive.org/details/loc-jukebox-19919-angels-from-the-realms-of-glory
 original: The Christian Psalmist (Glasgow, 1825), p. 389, texto revisado de Montgomery, Internet Archive | https://archive.org/details/christianpsalmis00montiala/page/n406/mode/1up
 ---
@@ -152,6 +152,10 @@ En Estados Unidos y Canadá suele ser REGENT SQUARE; en Inglaterra, casi siempre
 
 Nuestro arreglo parte de las cuatro voces de Smart tal como las imprimió Charles L. Hutchins en The Church Hymnal (Boston, 1894), n.º 60, con los encabezados "Christmas", "Regent Square" y "H. Smart", en Do mayor y en 4/4 [^hutchins1894]. Hutchins imprime cuatro de las cinco estrofas y, bajo la primera, pone "Come and worship" dos veces para completar el quinto verso de Smart [^hutchins1894]. Lo cantamos un tono más bajo, en Si bemol, con la melodía y los acordes de Smart; en algunos pasajes rehicimos las voces graves para principiantes, con una nota por sílaba. Cantamos las estrofas 1 a 3, la de los ángeles, la de los pastores y la de los sabios, con la letra de Hutchins, cada una con "Come and worship" dos veces [^hutchins1894]. Es para 2 a 4 cantantes: con dos, la soprano (que lleva la melodía) y la contralto; con el bajo son tres, y con el tenor, cuatro.
 
+### La versión del Reino Unido
+
+Como en Gran Bretaña esta letra se canta a menudo con IRIS, también la tenemos así como versión del Reino Unido: cambia de una a otra arriba en esta página; quien nos visita desde el Reino Unido empieza por ella [^ha][^methodist]. La armonía que las iglesias usan hoy con IRIS tiene derechos de autor, así que la nuestra parte de una más antigua: las cuatro voces de S. S. Greatheed sobre la melodía francesa en Carols for Use in Church, de R. R. Chope (Londres, 1875), villancico 68, p. 139, que el índice del libro marca "Traditional, arranged by the Rev. S. S. Greatheed" (tradicional, arreglo del reverendo S. S. Greatheed) [^chope1875]. Chope la imprimió con otra letra, así que unir las estrofas de Montgomery con la armonía de Greatheed es cosa nuestra. Su estrofa tiene siete sílabas por verso donde los versos largos de Montgomery tienen ocho, así que en cada uno de esos versos una nota se canta dos veces, en la misma altura; el coro "Gloria in excelsis Deo" se canta como lo imprime Chope, tras cada una de las tres primeras estrofas [^chope1875][^cp1825].
+
 ## Versiones y otras letras
 
 - **Una última estrofa distinta:** en 1825 The Christmas Box imprimió el himno de Montgomery junto a "The Babe of Bethlehem", un villancico anónimo con la misma métrica. Una de sus estrofas, "Though an infant now we view him", se canta a veces en lugar de la quinta de Montgomery, como en el Oxford Book of Carols de 1928 [^obc1928][^ha].
@@ -216,3 +220,4 @@ Por su comienzo duro, los pecadores "doom'd for guilt to endless pains" (condena
 - [^kjv]: The Holy Bible, King James Version: Job 38:7, Ageo 2:7, Malaquías 3:1, Salmo 85:10, Mateo 1:23 y 2:1 a 2, Lucas 2:8 a 10, 2:25 y 2:36 a 38, en Bible Gateway; la cita en español, de la Reina-Valera de 1909. https://www.biblegateway.com/passage/?search=Luke+2%3A8-10%3BMatthew+2%3A1-2&version=KJV
 - [^webster-natal]: Noah Webster, *An American Dictionary of the English Language* (1828), "Natal". https://webstersdictionary1828.com/Dictionary/natal
 - [^webster-wring]: Noah Webster, *An American Dictionary of the English Language* (1828), "Wring", verbo, acepción 5. https://webstersdictionary1828.com/Dictionary/wring
+- [^chope1875]: R. R. Chope (ed.), *Carols for Use in Church*, música editada por Herbert Stephen Irons (Londres: Metzler; Novello, Ewer, 1875), villancico 68, "When the crimson sun had set", p. 139, y el índice, p. xxxvi. https://archive.org/details/carolnch00chop/page/n178
