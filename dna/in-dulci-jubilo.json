@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "generatedBy": "tools/song_dna.py",
+  "id": "in-dulci-jubilo",
+  "templateVersion": 1,
+  "melodyPart": "soprano",
+  "range": {
+    "low": 62,
+    "high": 74,
+    "semitones": 12
+  },
+  "scale": {
+    "notes": 7,
+    "kind": "diatonic",
+    "solfa": [
+      "do",
+      "re",
+      "mi",
+      "fa",
+      "sol",
+      "la",
+      "ti"
+    ],
+    "missing": []
+  },
+  "mode": "major",
+  "meter": {
+    "timeSignature": "3/4",
+    "pickupBeats": 1
+  },
+  "rhythm": {
+    "notes": 113,
+    "scotchSnaps": 0,
+    "dottedPairs": 0,
+    "syncopations": 0
+  },
+  "phraseEndHold": 1.31,
+  "climaxAt": 0.05,
+  "opening": [
+    "do",
+    "mi",
+    "fa",
+    "sol"
+  ],
+  "ending": [
+    "fa",
+    "re",
+    "do"
+  ],
+  "difficulty": {
+    "melody": 23,
+    "parts": {
+      "soprano": 23,
+      "alto": 26,
+      "tenor": 24,
+      "bass": 39
+    }
+  },
+  "kin": [
+    {
+      "id": "good-christian-men-rejoice",
+      "kind": "sharedRun",
+      "notes": 17,
+      "solfa": [
+        "re",
+        "do",
+        "mi",
+        "fa",
+        "sol",
+        "la",
+        "sol",
+        "do",
+        "mi",
+        "fa",
+        "sol",
+        "la",
+        "sol",
+        "la",
+        "sol",
+        "fa",
+        "mi"
+      ],
+      "beat": 88.0,
+      "theirBeat": 31.333
+    },
+    {
+      "id": "ki-lo-naeh",
+      "kind": "sameOpening",
+      "notes": 4,
+      "solfa": [
+        "do",
+        "mi",
+        "fa",
+        "sol"
+      ],
+      "beat": 0.0,
+      "theirBeat": 0.0
+    }
+  ]
+}
