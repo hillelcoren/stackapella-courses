@@ -34,6 +34,25 @@
             "type": "boolean",
             "description": "False until the musician has checked it; drafts only show on localhost or with ?drafts=1."
         },
+        "versionOf": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "song",
+                "name"
+            ],
+            "description": "Optional. This file is another version of a song (Hillel, 2026-11-18, \"One song, US/UK switch\": a UK carol sung to another tune or harmony): its own notes, makers and first printing, never listed on its own; the song's page and the app's library offer it beside the song, and people where it's sung start on it (the server's config song_versions.starts).",
+            "properties": {
+                "song": {
+                    "type": "string",
+                    "description": "The song's id (its own file's: lowercase letters, digits and dashes), which must not itself be a version."
+                },
+                "name": {
+                    "type": "string",
+                    "description": "The version's name, 2 to 8 lowercase letters: \"uk\". The song's own file goes by \"us\"."
+                }
+            }
+        },
         "title": {
             "type": "string"
         },

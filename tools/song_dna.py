@@ -347,7 +347,8 @@ def load() -> list[dict]:
 
 
 def build(songs: list[dict]) -> dict[str, str]:
-    dna = {s['id']: analyse(s) for s in songs if s.get('reviewed')}
+    # A song's other version (a UK carol's, `versionOf`) is the song in the app's lists, never one of its own.
+    dna = {s['id']: analyse(s) for s in songs if s.get('reviewed') and not s.get('versionOf')}
     kin(dna)
     out = {}
     for sid, d in sorted(dna.items()):

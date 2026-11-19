@@ -15,7 +15,7 @@ alsoKnownAs: It Came Upon a Midnight Clear; Christmas Carols; Christmas Carol; P
 wikidata: Q1094974
 quote: O hush the noise, ye men of strife, And hear the angels sing!
 quoteSource: register1849
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: who wrote it came upon the midnight clear | who wrote the music for it came upon a midnight clear | when was it came upon the midnight clear written | it came upon the midnight clear meaning | it came upon the midnight clear lyrics meaning | it came upon the midnight clear history | it came upon the midnight clear all verses | it came upon the midnight clear tune noel | it came upon the midnight clear english tune | is it came upon the midnight clear public domain
@@ -136,6 +136,10 @@ American books use Willis's CAROL: The United Methodist Hymnal has it at No. 218
 Most hymnals print four of the five stanzas. Hymnary.org finds the war stanza the one most often dropped; the British Methodists' Singing the Faith, like Hymns & Psalms before it, drops the fourth [^hymnary-text][^methodist].
 
 Our arrangement is read from Willis's four parts as Charles L. Hutchins printed them in Carols Old and Carols New (Boston, 1916), Carol 607, p. 491, in B-flat and 6/8 as printed [^hutchins1916]. The soprano sings Willis's tune, the lower parts are adapted for beginners, and it is for 2 to 4 singers. We sing verses 1 to 3 of the four Hutchins prints, which are Sears's stanzas 1, 2 and 4; Hutchins begins the third "O ye" where Sears has "And ye", and prints no war stanza. We leave out his verse 4, a rewrite of Sears's fifth that hopes for the day "the new heaven and earth shall own / The Prince of Peace their King" [^hutchins1916][^register1849].
+
+### The UK version
+
+Singers in Britain know this carol to NOEL, so we also have it as the UK version: switch between the two at the top of this page, and visitors in the UK start on it. It is read from the four parts printed with the tune in Church Hymns with Tunes (1874), No. 82, in F, which the page heads only "Traditional Air rearranged"; Arthur Sullivan was the book's music editor, and later books credit the arrangement to him [^chwt1874][^hymnary-noel]. The soprano sings the tune as printed, the lower parts are that book's, adapted for beginners, and it is for 2 to 4 singers. We sing the first three of the book's four verses as it prints them: its third is Sears's stanza about war, "Yet with the woes of sin and strife", ending "The words of peace they bring" [^chwt1874].
 
 ## Versions and other words
 

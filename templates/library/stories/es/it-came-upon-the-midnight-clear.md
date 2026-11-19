@@ -15,11 +15,11 @@ alsoKnownAs: It Came Upon a Midnight Clear; Christmas Carols; Christmas Carol; P
 wikidata: Q1094974
 quote: O hush the noise, ye men of strife, And hear the angels sing!
 quoteSource: register1849
-updated: 2026-11-13
+updated: 2026-11-19
 checked: 2026-11-13
 reviewed: true
 searches: it came upon the midnight clear historia | it came upon the midnight clear significado | quién escribió it came upon the midnight clear | it came upon the midnight clear letra significado | it came upon a midnight clear melodía | it came upon the midnight clear dominio público
-translatedFrom: 043a92c7b461
+translatedFrom: a641ddd9d8af
 original: Christian Register, Boston, 29 de diciembre de 1849, p. 206, Internet Archive (de microfilm) | https://archive.org/details/sim_unitarian-register-and-the-universalist-leader_christian-register_1849-12-29_28_52/page/n1
 listen: Internet Archive, grabación de 1914 | https://archive.org/details/loc-jukebox-190754-it-came-upon-the-midnight-clear
 ---
@@ -177,6 +177,10 @@ Los libros estadounidenses usan CAROL, de Willis: el United Methodist Hymnal lo 
 La mayoría de los himnarios imprimen cuatro de las cinco estrofas. Según Hymnary.org, la que más a menudo se omite es la de la guerra; Singing the Faith, de los metodistas británicos, como antes Hymns & Psalms, omite la cuarta [^hymnary-text][^methodist].
 
 Nuestro arreglo parte de las cuatro voces de Willis tal como las imprimió Charles L. Hutchins en Carols Old and Carols New (Boston, 1916), villancico 607, p. 491, en Si bemol y en 6/8, como en el libro [^hutchins1916]. La soprano canta la melodía de Willis y las demás voces están adaptadas para principiantes; es para 2 a 4 cantantes. Cantamos las estrofas 1 a 3 de las cuatro que imprime Hutchins, que son las estrofas 1, 2 y 4 de Sears; Hutchins empieza la tercera con "O ye" donde Sears escribe "And ye", y no imprime la estrofa de la guerra. Dejamos fuera su estrofa 4, una reescritura de la quinta de Sears que espera el día en que "the new heaven and earth shall own / The Prince of Peace their King" (el nuevo cielo y la nueva tierra reconocerán como su Rey al Príncipe de Paz) [^hutchins1916][^register1849].
+
+### La versión del Reino Unido
+
+En Gran Bretaña este villancico se canta con NOEL, así que también lo tenemos en su versión del Reino Unido: cambia de una a otra arriba en esta página; quien nos visita desde el Reino Unido empieza por ella. Parte de las cuatro voces impresas con la melodía en Church Hymns with Tunes (1874), n.º 82, en Fa, que la página encabeza solo con "Traditional Air rearranged" (melodía tradicional rearreglada); Arthur Sullivan era el editor musical del libro, y libros posteriores le atribuyen el arreglo [^chwt1874][^hymnary-noel]. La soprano canta la melodía como está impresa, las demás voces son las del libro, adaptadas para principiantes, y es para 2 a 4 cantantes. Cantamos las tres primeras de las cuatro estrofas del libro tal como las imprime: la tercera es la estrofa de Sears sobre la guerra, "Yet with the woes of sin and strife", que termina "The words of peace they bring" (las palabras de paz que traen) [^chwt1874].
 
 ## Versiones y otras letras
 
