@@ -15,7 +15,7 @@ alsoKnownAs: Good Christian Friends, Rejoice; In dulci jubilo (the original); In
 wikidata: Q21501380
 quote: Give ye heed to what we say: News! News!
 quoteSource: neale1853
-updated: 2026-11-18
+updated: 2026-11-19
 checked: 2026-11-18
 reviewed: true
 searches: good christian men rejoice meaning | good christian men rejoice history | good christian men rejoice hymn history | who wrote good christian men rejoice | good christian men rejoice lyrics | in dulci jubilo meaning | in dulci jubilo meaning in english | in dulci jubilo meaning latin | in dulci jubilo lyrics german | in dulci jubilo history | in dulci jubilo pearsall
@@ -165,6 +165,10 @@ The tune is IN DULCI JUBILO [^hymnary][^ha]. In Neale and Helmore's book it is i
 
 Our arrangement takes its tune and words from the 1854 vocal edition, No. VI, in F major and 6/8, starting on a quick pickup, with all three verses as printed there [^cvp1854]. So verse 3 sings "Peace Peace!" as that page has it, and holds both "Peace" notes long, where verses 1 and 2 cut the first "News!" and "Joy!" short [^cvp1854]. The alto, tenor and bass are our own, one note to each syllable, on the chords of the unsigned four-part harmony in Bramley and Stainer's Christmas Carols New and Old [^bram]. It is for two to four singers: two take soprano, on the tune, and alto, a third adds the bass, and the tenor makes four.
 
+### The UK version
+
+The Cowley Carol Book, compiled for an Oxford parish, prints the tune a second time as its No. 12, "harmonized by R. L. de Pearsall", in a steady triple time without the "News! News!" line [^cowley1912]. We also have that as the UK version: switch between the two at the top of this page, and visitors in the UK start on it. It is read from Cowley's page, in F, with Pearsall's tune, bass and most of his chords; Cowley prints George Ratcliffe Woodward's own words, so we sing Neale's three verses to it, which fit its notes once the cries are left out [^cowley1912][^cvp1854].
+
 ## Versions and other words
 
 - **In Scots English.** The earliest English version, "In dulci jubilo, Now let us sing with mirth and jo", is in The Gude and Godlie Ballatis. The Oxford Book of Carols dates it to about 1540 and credits John Wedderburn; Julian cites the edition of 1568, and the Hymnology Archive shows one of 1578 [^obc][^julian][^ha].
@@ -223,3 +227,4 @@ Because of a misreading. Thomas Helmore, who read the tune from the old notes of
 - [^canterbury-pearsall]: *The Canterbury Dictionary of Hymnology* (Canterbury Press), "Robert Lucas Pearsall", open excerpt. https://hymnology.hymnsam.co.uk/r/robert-lucas-pearsall
 - [^hymnary]: Hymnary.org, "Good Christian Friends, Rejoice" (text): translator J. M. Neale (1853), meter, tune IN DULCI JUBILO, number of hymnals, and notes from the *Psalter Hymnal Handbook* (1988). https://hymnary.org/text/good_christian_men_rejoice
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "Ope". https://webstersdictionary1828.com/Dictionary/ope
+- [^cowley1912]: G. R. Woodward (ed.), *The Cowley Carol Book*, Revised and Enlarged Edition (London: A. R. Mowbray, 1912), No. 12, second tune, "In Dulci Iubilo", "harmonized by R. L. de Pearsall", p. 22. https://archive.org/details/cowleycarolbook0000grwo/page/n31

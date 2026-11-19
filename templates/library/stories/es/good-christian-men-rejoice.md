@@ -15,11 +15,11 @@ alsoKnownAs: Good Christian Friends, Rejoice; In dulci jubilo (the original); In
 wikidata: Q21501380
 quote: Give ye heed to what we say: News! News!
 quoteSource: neale1853
-updated: 2026-11-18
+updated: 2026-11-19
 checked: 2026-11-18
 reviewed: true
 searches: good christian men rejoice historia | in dulci jubilo significado | in dulci jubilo letra en español | quién escribió good christian men rejoice | in dulci jubilo historia
-translatedFrom: 2f7c1fd41d87
+translatedFrom: 6fdacd424a21
 listen: Internet Archive, grabación de 1924 | https://archive.org/details/78_good-christian-men-rejoice_the-temple-carol-singers_gbia3033990a
 original: The Condensed Vocal Parts to the Carols for Christmas-tide (1854), p. 20, HathiTrust | https://catalog.hathitrust.org/Record/011630024
 ---
@@ -190,6 +190,10 @@ La melodía es IN DULCI JUBILO [^hymnary][^ha]. En el libro de Neale y Helmore e
 
 Nuestro arreglo parte de la edición vocal de 1854, n.º VI: de esta página tomamos la melodía y la letra, en Fa mayor y en 6/8, con una anacrusa rápida, y las tres estrofas tal como se imprimen allí [^cvp1854]. Por eso la estrofa 3 canta "Peace Peace!" como en esa página, y hace largas las dos notas de "Peace", mientras que las estrofas 1 y 2 cortan breves el primer "News!" y el primer "Joy!" [^cvp1854]. La contralto, el tenor y el bajo son obra nuestra, una nota por sílaba, sobre los acordes de la armonía a cuatro voces sin firma de Christmas Carols New and Old, de Bramley y Stainer [^bram]. Es para dos a cuatro cantantes: dos cantan la soprano, que lleva la melodía, y la contralto; con el bajo son tres, y con el tenor, cuatro.
 
+### La versión del Reino Unido
+
+The Cowley Carol Book, reunido para una parroquia de Oxford, imprime la melodía por segunda vez como su n.º 12, "harmonized by R. L. de Pearsall" (armonizada por R. L. de Pearsall), en un compás ternario regular, sin la línea de "News! News!" [^cowley1912]. También la tenemos así como versión del Reino Unido: cambia de una a otra arriba en esta página; quien nos visita desde el Reino Unido empieza por ella. Parte de la página de Cowley, en Fa, con la melodía, el bajo y casi todos los acordes de Pearsall; Cowley imprime la letra del propio George Ratcliffe Woodward, así que cantamos con ella las tres estrofas de Neale, que encajan en sus notas al dejar fuera las exclamaciones [^cowley1912][^cvp1854].
+
 ## Versiones y otras letras
 
 - **En el inglés de Escocia.** La versión inglesa más antigua, "In dulci jubilo, Now let us sing with mirth and jo", está en The Gude and Godlie Ballatis. The Oxford Book of Carols la sitúa hacia 1540 y la atribuye a John Wedderburn; Julian cita la edición de 1568, y el Hymnology Archive muestra una de 1578 [^obc][^julian][^ha].
@@ -248,3 +252,4 @@ Por una mala lectura. Thomas Helmore, que en 1853 leyó la melodía en las notas
 - [^canterbury-pearsall]: *The Canterbury Dictionary of Hymnology* (Canterbury Press), "Robert Lucas Pearsall", extracto de acceso abierto. https://hymnology.hymnsam.co.uk/r/robert-lucas-pearsall
 - [^hymnary]: Hymnary.org, "Good Christian Friends, Rejoice" (texto): traductor J. M. Neale (1853), métrica, melodía IN DULCI JUBILO, número de himnarios y notas del *Psalter Hymnal Handbook* (1988). https://hymnary.org/text/good_christian_men_rejoice
 - [^webster]: Noah Webster, *An American Dictionary of the English Language* (1828), "Ope". https://webstersdictionary1828.com/Dictionary/ope
+- [^cowley1912]: G. R. Woodward (ed.), *The Cowley Carol Book*, edición revisada y ampliada (Londres: A. R. Mowbray, 1912), n.º 12, segunda melodía, "In Dulci Iubilo", "harmonized by R. L. de Pearsall", p. 22. https://archive.org/details/cowleycarolbook0000grwo/page/n31
