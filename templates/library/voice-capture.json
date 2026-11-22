@@ -1,6 +1,6 @@
 {
   "id": "voice-capture",
-  "version": 2,
+  "version": 3,
   "reviewed": true,
   "hidden": true,
   "title": "Voice capture",
@@ -26,7 +26,7 @@
     "arrangement": "original, written for Stackapella: the two tunes joined, one key, one part",
     "recordings": "none: it's what a singer records themselves",
     "checked": null,
-    "source": "Happy Birthday: the melody of happy-birthday.json (version 6), note for note, down a whole step to F; its sources are in that template. For He's a Jolly Good Fellow: \"For He's a Jolly Good Fellow!\", No. 61 in Peter W. Dykema, Will Earhart, Osbourne McConathy and Hollis Dann, eds., Twice 55 Community Songs, No. 1: The Brown Book (Boston: C. C. Birchard, copyright 1919), archive.org/details/twice55community01dyke (leaf n38), the verse ending \"which nobody can deny!\", G major 6/8, its melody (the top of the printed chords) note for note, down a whole step to F, each eighth half a beat of 3/4; \"you're\" for the print's \"he's\"; no fermatas; the last \"ny!\" held to the bar's end; checked against Louis C. Elson, Folk Songs of Many Nations (Cincinnati: John Church, 1905), p. 52, archive.org/details/bub_gb_FCvaAAAAMAAJ (leaf n57), the same tune in G 6/8, whose verse ends \"So say we all of us\" and whose pickups are two sixteenths"
+    "source": "Happy Birthday: the melody of happy-birthday.json (version 6), note for note, down a whole step to F; its sources are in that template. For He's a Jolly Good Fellow: \"For He's a Jolly Good Fellow!\", No. 61 in Peter W. Dykema, Will Earhart, Osbourne McConathy and Hollis Dann, eds., Twice 55 Community Songs, No. 1: The Brown Book (Boston: C. C. Birchard, copyright 1919), archive.org/details/twice55community01dyke (leaf n38), the verse ending \"which nobody can deny!\", G major 6/8, its melody (the top of the printed chords) note for note, moved to A-flat, down a major sixth from the F of version 2, 11 semitones below the print's G, so its first note is Happy Birthday's first note (Hillel, 2026-11-22: \"can Jolly Good Fellow start at the same note?\"), each eighth half a beat of 3/4; \"you're\" for the print's \"he's\"; no fermatas; the last \"ny!\" held to the bar's end; checked against Louis C. Elson, Folk Songs of Many Nations (Cincinnati: John Church, 1905), p. 52, archive.org/details/bub_gb_FCvaAAAAMAAJ (leaf n57), the same tune in G 6/8, whose verse ends \"So say we all of us\" and whose pickups are two sixteenths"
   },
   "makers": [
     {
@@ -105,8 +105,8 @@
       "key": "soprano",
       "name": "Tune",
       "range": {
-        "low": 60,
-        "high": 74
+        "low": 56,
+        "high": 72
       },
       "melody": true,
       "guide": {
@@ -268,191 +268,191 @@
           {
             "beat": 27.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "For",
             "br": true
           },
           {
             "beat": 28,
             "length": 1,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "you're"
           },
           {
             "beat": 29,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "a"
           },
           {
             "beat": 29.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "jol-"
           },
           {
             "beat": 30,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "ly"
           },
           {
             "beat": 30.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "good"
           },
           {
             "beat": 31,
             "length": 1.5,
-            "pitch": 70,
+            "pitch": 61,
             "lyric": "fel-"
           },
           {
             "beat": 32.5,
             "length": 1,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "low,"
           },
           {
             "beat": 33.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "For",
             "br": true
           },
           {
             "beat": 34,
             "length": 1,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "you're"
           },
           {
             "beat": 35,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "a"
           },
           {
             "beat": 35.5,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "jol-"
           },
           {
             "beat": 36,
             "length": 0.5,
-            "pitch": 65,
+            "pitch": 56,
             "lyric": "ly"
           },
           {
             "beat": 36.5,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "good"
           },
           {
             "beat": 37,
             "length": 1.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "fel-"
           },
           {
             "beat": 38.5,
             "length": 1,
-            "pitch": 65,
+            "pitch": 56,
             "lyric": "low,"
           },
           {
             "beat": 39.5,
             "length": 0.5,
-            "pitch": 65,
+            "pitch": 56,
             "lyric": "For",
             "br": true
           },
           {
             "beat": 40,
             "length": 1,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "you're"
           },
           {
             "beat": 41,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "a"
           },
           {
             "beat": 41.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "jol-"
           },
           {
             "beat": 42,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "ly"
           },
           {
             "beat": 42.5,
             "length": 0.5,
-            "pitch": 69,
+            "pitch": 60,
             "lyric": "good"
           },
           {
             "beat": 43,
             "length": 1.5,
-            "pitch": 70,
+            "pitch": 61,
             "lyric": "fel-"
           },
           {
             "beat": 44.5,
             "length": 1,
-            "pitch": 74,
+            "pitch": 65,
             "lyric": "low,"
           },
           {
             "beat": 45.5,
             "length": 0.5,
-            "pitch": 74,
+            "pitch": 65,
             "lyric": "Which",
             "br": true
           },
           {
             "beat": 46,
             "length": 0.5,
-            "pitch": 72,
+            "pitch": 63,
             "lyric": "no-"
           },
           {
             "beat": 46.5,
             "length": 0.5,
-            "pitch": 72,
+            "pitch": 63,
             "lyric": "bod-"
           },
           {
             "beat": 47,
             "length": 0.5,
-            "pitch": 72,
+            "pitch": 63,
             "lyric": "y"
           },
           {
             "beat": 47.5,
             "length": 1,
-            "pitch": 70,
+            "pitch": 61,
             "lyric": "can"
           },
           {
             "beat": 48.5,
             "length": 0.5,
-            "pitch": 67,
+            "pitch": 58,
             "lyric": "de-"
           },
           {
             "beat": 49,
             "length": 3,
-            "pitch": 65,
+            "pitch": 56,
             "lyric": "ny!"
           }
         ]
