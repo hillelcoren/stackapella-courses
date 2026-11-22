@@ -63,6 +63,28 @@
             "type": "string",
             "description": "The language the words are sung in (BCP 47, e.g. en, la, uk). Optional; English when missing."
         },
+        "sungRespelling": {
+            "description": "A song not in English: how each lyric syllable is sung, as English-like words read by the dictionary (each syllable as the words write it, lowercased, its hyphen and punctuation gone). Only sung, never shown.",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                    "syllable",
+                    "sung"
+                ],
+                "properties": {
+                    "syllable": {
+                        "type": "string",
+                        "pattern": "^[a-z']{1,20}$"
+                    },
+                    "sung": {
+                        "type": "string",
+                        "pattern": "^[a-z' ]{1,40}$"
+                    }
+                }
+            }
+        },
         "difficulty": {
             "type": "string",
             "enum": [

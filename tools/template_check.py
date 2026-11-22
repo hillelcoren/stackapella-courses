@@ -92,9 +92,51 @@ def check(path):
         if melodies and melodies[0] not in voicing:
             problems.append(f"{where}: voicing {count} leaves out the melody ({melodies[0]})")
     check_meters(song, where)
+    check_respelling(song, where, parts)
     if "hidden" in song and not isinstance(song["hidden"], bool):
         problems.append(f"{where}: \"hidden\" is true or false")
     check_rights(song, where)
+
+
+SYLLABLE = re.compile(r"^[a-z']{1,20}$")
+SUNG = re.compile(r"^[a-z' ]{1,40}$")
+
+
+def check_respelling(song, where, parts):
+    """sungRespelling (a song not in English sung through English-like respellings, each syllable read by the
+    dictionary; Hillel, 2026-11-22): only on a song not in English, each entry a syllable as the words write it
+    (lowercased, its "-" and punctuation gone) and how it's sung, each syllable once, and every syllable the parts
+    sing there (one missing would be sung on "oo")."""
+    if "sungRespelling" not in song:
+        return
+    entries = song["sungRespelling"]
+    if str(song.get("language") or "en").lower().startswith("en"):
+        problems.append(f"{where}: sungRespelling is for a song not in English")
+        return
+    if not isinstance(entries, list) or not entries:
+        problems.append(f"{where}: sungRespelling is a list of {{syllable, sung}}")
+        return
+    seen = set()
+    for e in entries:
+        if not isinstance(e, dict) or set(e) != {"syllable", "sung"}:
+            problems.append(f"{where}: sungRespelling entry {e!r}: just a syllable and how it's sung")
+            continue
+        syl, sung = e["syllable"], e["sung"]
+        if not (isinstance(syl, str) and SYLLABLE.match(syl)) or not (isinstance(sung, str) and SUNG.match(sung)):
+            problems.append(f"{where}: sungRespelling {syl!r}: {sung!r}: lowercase letters and apostrophes (sung: and spaces)")
+        if syl in seen:
+            problems.append(f"{where}: sungRespelling gives {syl!r} twice")
+        seen.add(syl)
+    sung_here = set()
+    for part in parts:
+        for note in (part.get("guide") or {}).get("notes") or []:
+            if isinstance(note.get("lyric"), str):
+                key = re.sub(r"[^a-z']", "", note["lyric"].lower()).strip("'")
+                if key:
+                    sung_here.add(key)
+    missing = sorted(sung_here - seen)
+    if missing:
+        problems.append(f"{where}: sungRespelling lacks {', '.join(missing[:8])}{' and more' if len(missing) > 8 else ''} (sung on oo)")
 
 
 def check_meters(song, where):
