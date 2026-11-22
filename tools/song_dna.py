@@ -1,6 +1,6 @@
 """Song DNA: what a singer can hear in each open song's melody, as data.
 
-Writes dna/<id>.json for every open song (`reviewed: true`) in templates/library and
+Writes dna/<id>.json for every open song (`reviewed: true`, not `hidden`) in templates/library and
 templates/free, and removes the file of a song that is no longer open. `--check` writes nothing and
 fails when a file is missing, stale or left over. `--report` prints the sanity numbers (the
 difficulty score against the editors' labels, over every song, hidden ones too).
@@ -348,7 +348,8 @@ def load() -> list[dict]:
 
 def build(songs: list[dict]) -> dict[str, str]:
     # A song's other version (a UK carol's, `versionOf`) is the song in the app's lists, never one of its own.
-    dna = {s['id']: analyse(s) for s in songs if s.get('reviewed') and not s.get('versionOf')}
+    # Open songs only: a hidden one (voice-capture, say) has no page, so no DNA, and is never another's relative.
+    dna = {s['id']: analyse(s) for s in songs if s.get('reviewed') and not s.get('versionOf') and not s.get('hidden')}
     kin(dna)
     out = {}
     for sid, d in sorted(dna.items()):

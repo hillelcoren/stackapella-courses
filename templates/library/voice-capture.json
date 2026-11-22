@@ -1,0 +1,462 @@
+{
+  "id": "voice-capture",
+  "version": 1,
+  "reviewed": true,
+  "hidden": true,
+  "title": "Voice capture",
+  "description": "What a singer sings once to make the AI voice of their own choir songs: Happy Birthday, then For He's a Jolly Good Fellow, the tune only, about 30 seconds. Never listed: the app asks for it when a singer starts a choir song.",
+  "difficulty": "beginner",
+  "genre": [
+    "celebration",
+    "traditional"
+  ],
+  "style": "free",
+  "tempo": 100,
+  "key": "F",
+  "timeSignature": "3/4",
+  "pickupBeats": 1,
+  "credits": {
+    "words": "Traditional",
+    "tune": "Happy Birthday: \"Good Morning to All\", Mildred J. Hill (1893); For He's a Jolly Good Fellow: traditional (\"Malbrough s'en va-t-en guerre\")",
+    "arrangement": "Stackapella"
+  },
+  "licence": {
+    "words": "public domain: Happy Birthday's words as in happy-birthday.json (its licence note); For He's a Jolly Good Fellow's are traditional, printed throughout the 19th century",
+    "tune": "public domain: Happy Birthday's published 1893; For He's a Jolly Good Fellow's traditional (French, 18th century), printed long before 1931",
+    "arrangement": "original, written for Stackapella: the two tunes joined, one key, one part",
+    "recordings": "none: it's what a singer records themselves",
+    "checked": null,
+    "source": "Happy Birthday: the melody of happy-birthday.json (version 6), note for note, down a whole step to F; its sources are in that template. For He's a Jolly Good Fellow: \"For He's a Jolly Good Fellow!\", No. 61 in Peter W. Dykema, Will Earhart, Osbourne McConathy and Hollis Dann, eds., Twice 55 Community Songs, No. 1: The Brown Book (Boston: C. C. Birchard, copyright 1919), archive.org/details/twice55community01dyke (leaf n38), the verse ending \"which nobody can deny!\", G major 6/8, its melody (the top of the printed chords) note for note, down a whole step to F, each eighth half a beat of 3/4; \"you're\" for the print's \"he's\"; no fermatas; checked against Louis C. Elson, Folk Songs of Many Nations (Cincinnati: John Church, 1905), p. 52, archive.org/details/bub_gb_FCvaAAAAMAAJ (leaf n57), the same tune in G 6/8, whose verse ends \"So say we all of us\" and whose pickups are two sixteenths"
+  },
+  "makers": [
+    {
+      "name": "Mildred J. Hill",
+      "role": "music",
+      "died": 1916,
+      "nationality": "US"
+    },
+    {
+      "name": "Patty Smith Hill",
+      "role": "words",
+      "died": 1946,
+      "nationality": "US"
+    },
+    {
+      "name": "Peter W. Dykema",
+      "role": "edition",
+      "died": 1951,
+      "nationality": "US"
+    }
+  ],
+  "firstPublished": {
+    "year": 1919,
+    "country": "US"
+  },
+  "sections": [
+    {
+      "name": "Happy Birthday",
+      "startBeat": 0,
+      "endBeat": 25,
+      "phrases": [
+        [
+          0,
+          6
+        ],
+        [
+          6,
+          12
+        ],
+        [
+          12,
+          18
+        ],
+        [
+          18,
+          25
+        ]
+      ]
+    },
+    {
+      "name": "Jolly Good Fellow",
+      "startBeat": 25,
+      "endBeat": 52,
+      "phrases": [
+        [
+          27.5,
+          33.5
+        ],
+        [
+          33.5,
+          39.5
+        ],
+        [
+          39.5,
+          45.5
+        ],
+        [
+          45.5,
+          52
+        ]
+      ]
+    }
+  ],
+  "parts": [
+    {
+      "key": "soprano",
+      "name": "Tune",
+      "range": {
+        "low": 60,
+        "high": 74
+      },
+      "melody": true,
+      "guide": {
+        "type": "notes",
+        "notes": [
+          {
+            "beat": 0,
+            "length": 0.75,
+            "pitch": 60,
+            "lyric": "Hap-",
+            "br": true
+          },
+          {
+            "beat": 0.75,
+            "length": 0.25,
+            "pitch": 60,
+            "lyric": "py"
+          },
+          {
+            "beat": 1,
+            "length": 1,
+            "pitch": 62,
+            "lyric": "birth-"
+          },
+          {
+            "beat": 2,
+            "length": 1,
+            "pitch": 60,
+            "lyric": "day"
+          },
+          {
+            "beat": 3,
+            "length": 1,
+            "pitch": 65,
+            "lyric": "to"
+          },
+          {
+            "beat": 4,
+            "length": 1,
+            "pitch": 64,
+            "lyric": "you,"
+          },
+          {
+            "beat": 6,
+            "length": 0.75,
+            "pitch": 60,
+            "lyric": "Hap-",
+            "br": true
+          },
+          {
+            "beat": 6.75,
+            "length": 0.25,
+            "pitch": 60,
+            "lyric": "py"
+          },
+          {
+            "beat": 7,
+            "length": 1,
+            "pitch": 62,
+            "lyric": "birth-"
+          },
+          {
+            "beat": 8,
+            "length": 1,
+            "pitch": 60,
+            "lyric": "day"
+          },
+          {
+            "beat": 9,
+            "length": 1,
+            "pitch": 67,
+            "lyric": "to"
+          },
+          {
+            "beat": 10,
+            "length": 1,
+            "pitch": 65,
+            "lyric": "you,"
+          },
+          {
+            "beat": 12,
+            "length": 0.75,
+            "pitch": 60,
+            "lyric": "Hap-",
+            "br": true
+          },
+          {
+            "beat": 12.75,
+            "length": 0.25,
+            "pitch": 60,
+            "lyric": "py"
+          },
+          {
+            "beat": 13,
+            "length": 1,
+            "pitch": 72,
+            "lyric": "birth-"
+          },
+          {
+            "beat": 14,
+            "length": 1,
+            "pitch": 69,
+            "lyric": "day"
+          },
+          {
+            "beat": 15,
+            "length": 1,
+            "pitch": 65,
+            "lyric": "dear"
+          },
+          {
+            "beat": 16,
+            "length": 0.5,
+            "pitch": 64,
+            "lyric": "friend,"
+          },
+          {
+            "beat": 16.5,
+            "length": 0.5,
+            "pitch": 62
+          },
+          {
+            "beat": 18,
+            "length": 0.75,
+            "pitch": 70,
+            "lyric": "Hap-",
+            "br": true
+          },
+          {
+            "beat": 18.75,
+            "length": 0.25,
+            "pitch": 70,
+            "lyric": "py"
+          },
+          {
+            "beat": 19,
+            "length": 1,
+            "pitch": 69,
+            "lyric": "birth-"
+          },
+          {
+            "beat": 20,
+            "length": 1,
+            "pitch": 65,
+            "lyric": "day"
+          },
+          {
+            "beat": 21,
+            "length": 1,
+            "pitch": 67,
+            "lyric": "to"
+          },
+          {
+            "beat": 22,
+            "length": 3,
+            "pitch": 65,
+            "lyric": "you."
+          },
+          {
+            "beat": 27.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "For",
+            "br": true
+          },
+          {
+            "beat": 28,
+            "length": 1,
+            "pitch": 69,
+            "lyric": "you're"
+          },
+          {
+            "beat": 29,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "a"
+          },
+          {
+            "beat": 29.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "jol-"
+          },
+          {
+            "beat": 30,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "ly"
+          },
+          {
+            "beat": 30.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "good"
+          },
+          {
+            "beat": 31,
+            "length": 1.5,
+            "pitch": 70,
+            "lyric": "fel-"
+          },
+          {
+            "beat": 32.5,
+            "length": 1,
+            "pitch": 69,
+            "lyric": "low,"
+          },
+          {
+            "beat": 33.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "For",
+            "br": true
+          },
+          {
+            "beat": 34,
+            "length": 1,
+            "pitch": 67,
+            "lyric": "you're"
+          },
+          {
+            "beat": 35,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "a"
+          },
+          {
+            "beat": 35.5,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "jol-"
+          },
+          {
+            "beat": 36,
+            "length": 0.5,
+            "pitch": 65,
+            "lyric": "ly"
+          },
+          {
+            "beat": 36.5,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "good"
+          },
+          {
+            "beat": 37,
+            "length": 1.5,
+            "pitch": 69,
+            "lyric": "fel-"
+          },
+          {
+            "beat": 38.5,
+            "length": 1,
+            "pitch": 65,
+            "lyric": "low,"
+          },
+          {
+            "beat": 39.5,
+            "length": 0.5,
+            "pitch": 65,
+            "lyric": "For",
+            "br": true
+          },
+          {
+            "beat": 40,
+            "length": 1,
+            "pitch": 69,
+            "lyric": "you're"
+          },
+          {
+            "beat": 41,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "a"
+          },
+          {
+            "beat": 41.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "jol-"
+          },
+          {
+            "beat": 42,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "ly"
+          },
+          {
+            "beat": 42.5,
+            "length": 0.5,
+            "pitch": 69,
+            "lyric": "good"
+          },
+          {
+            "beat": 43,
+            "length": 1.5,
+            "pitch": 70,
+            "lyric": "fel-"
+          },
+          {
+            "beat": 44.5,
+            "length": 1,
+            "pitch": 74,
+            "lyric": "low,"
+          },
+          {
+            "beat": 45.5,
+            "length": 0.5,
+            "pitch": 74,
+            "lyric": "Which",
+            "br": true
+          },
+          {
+            "beat": 46,
+            "length": 0.5,
+            "pitch": 72,
+            "lyric": "no-"
+          },
+          {
+            "beat": 46.5,
+            "length": 0.5,
+            "pitch": 72,
+            "lyric": "bod-"
+          },
+          {
+            "beat": 47,
+            "length": 0.5,
+            "pitch": 72,
+            "lyric": "y"
+          },
+          {
+            "beat": 47.5,
+            "length": 1,
+            "pitch": 70,
+            "lyric": "can"
+          },
+          {
+            "beat": 48.5,
+            "length": 0.5,
+            "pitch": 67,
+            "lyric": "de-"
+          },
+          {
+            "beat": 49,
+            "length": 2.5,
+            "pitch": 65,
+            "lyric": "ny!"
+          }
+        ]
+      }
+    }
+  ]
+}
