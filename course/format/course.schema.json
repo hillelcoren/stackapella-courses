@@ -62,6 +62,7 @@
                 "title": { "$ref": "#/$defs/words" },
                 "challenge": { "type": "boolean" },
                 "findsHome": { "type": "boolean" },
+                "harmonyWhy": { "$ref": "#/$defs/words", "description": "One clause on why the lesson matters for singing harmony, shown under the next lesson's name (steps.json lessonHarmonyWhy)" },
                 "strictness": { "enum": ["relaxed", "standard", "precise"] },
                 "fact": { "$ref": "#/$defs/fact" },
                 "keepSong": { "type": "object", "description": "The lesson end offers to keep the finale as a song in Sing (steps.json lessonExtras)" },

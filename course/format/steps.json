@@ -13,7 +13,8 @@
         "line",
         "description",
         "source",
-        "endLine"
+        "endLine",
+        "harmonyWhy"
     ],
     "course": [
         "id",
@@ -60,7 +61,8 @@
         "variants",
         "quiet",
         "headphones",
-        "altSong"
+        "altSong",
+        "harmonyWhy"
     ],
     "altSong": {
         "about": "A song's fallback where its rights hold it back in the singer's country (docs/geo-rights-plan.md in the app's repo, section 4): where a song is withheld the app uses the altSong of the object that names it, or hides that step (and a lesson it leaves empty) when there's none. It sits on the object that names the song: a step with template (use, record) or from (a play step whose own notes are taken from a song: from names it), an exercise's song, or a unit's song. altSong is a whole replacement of that object in its own schema: the same kind, another song, its own part, singers or phrases, notes and words, every word in the languages the original has; an exercise song's altSong may also carry text, the step's words, when they name the song. A lesson or a boss may carry a partial altSong, only the fields listed here that name the song, used when anything inside it fell back, and only where something inside it has an altSong; a lesson's fact there is a new one, its id used nowhere else.",
@@ -443,6 +445,7 @@
     "lessonVariants": "variants: { \"<experiment id>-<arm>\": { steps, minutes? } }: in an A/B test (docs/experiments.md), a device drawn into that arm gets these steps in place of the lesson's; everything else (id, title, findsHome) stays the lesson's, and arm a or a device not drawn gets the lesson as written. The id must be in course/format/experiments.json. Removing the losing arm is deleting the variant, or moving its steps into the lesson.",
     "courseGame": "game: optional, game mode's rules for this course (First steps to belting's voice-health review: no game pressure); every field optional, absent = as everywhere. replayXp: false = a lesson already starred pays no XP when sung again (the first finish pays as usual); combo: false = no combo counter, bonus pop-ups or combo bonus XP on its steps; streak: false = its lesson ends show no streak chip and no Streak! burst; meter: \"plain\" (its only value) = its takes keep the plain bars, never game mode's power-bar or level-meter look. The lesson view applies them as one of the course's lessons opens and drops them as it closes, so every other course keeps everything.",
     "lessonQuiet": "quiet: true = game mode's moments off for this lesson (no pop-ups, fanfares, title card or celebration); the arcade look stays. Optional, absent = false (First steps to belting's spiritual line).",
+    "lessonHarmonyWhy": "harmonyWhy: words, one clause (no full stop) on why the lesson matters for singing harmony, shown under the next lesson's name on a lesson's end, the course wall and the wrap (docs/first-week-plan.md in the app's repo, change 1). Optional; the app shows nothing where it is missing. Units 1 to 3 of the free course have it. Web only until the app reads it.",
     "courseDailyCap": "dailyCap: { minutes }: the course's lessons stop for the day after that many minutes (a whole number, 1 to 60), checked only as a lesson opens and counted only while one of its lessons is open and on screen, kept per day with the account (progress.courses.<id>.capDay); then the rest card (en.json course.dailyCap.*, which names belting: a second capped course needs its own words). First steps to belting: { \"minutes\": 10 }.",
     "courseParts": "parts: { template, choose, default }: the singer picks one of the template's parts (choose, in score order; default when nothing is known; the app suggests one from the singer's range) and the pick is kept per course (progress.courses.<id>.personal.part). Then \"part\": \"yours\" in a song spec (exercise.song, listen.song) or a record step sings the pick; a learn step's byPart { <part>: { headline, steps } } and a sung step's textByPart { <part>: words } replace that step's own words for the picked part (whole: every card written out), the step's own words being the default part's. Then and now keeps a first take per part. Learn your part for rehearsal (docs/courses/choir-part-sections-plan.md in the app's repo).",
     "courseHeadphones": "headphones: \"needed\" (its only value), on a course or on one lesson (a lesson's own wins): what plays under the singer (partners, chords, a drone, earlier takes) rests through a speaker during a scored take, so the lesson needs headphones. The course page and the lesson's first card say \"Best with headphones\" quietly, and the lesson's headphones ask is firm (\"This lesson needs headphones\"), asked again once a lesson even after the speaker was picked, the speaker still a choice. Absent = asked as usual. Live looping and Backing vocals (the whole course), and Barbershop's lessons judged on the ring meter or sung over your own takes."
