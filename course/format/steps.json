@@ -128,10 +128,11 @@
                 "measures",
                 "textByPart",
                 "from",
-                "altSong"
+                "altSong",
+                "songPiece"
             ],
             "exercise": "play",
-            "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored. from: the song (a template id) its own notes are taken from, so its altSong stands in where that song is withheld"
+            "about": "Hear it, then sing it back (turn: true), or sing over a drone or chords (turn: false); scored. from: the song (a template id) its own notes are taken from, so its altSong stands in where that song is withheld. songPiece: true makes it a song piece (docs/song-snippets-plan.md in the app's repo): a real song's line (exercise.song) at the lesson's end that never sets the stars, is always relaxed and stays out of the score history; behind the app's song_pieces switch, and left out where its song is withheld (its altSong may stand in). Web only."
         },
         "home": {
             "web": "yes",
