@@ -15,7 +15,7 @@ agreement to sign. A song must be in the public domain (its words and its tune),
   `vib-1-laser`, and the step) or which song and part, what's wrong, and what you'd change.
 - **Then a pull request** that changes one lesson, one song or one fix at a time, saying what you
   heard or saw and why your change is better.
-- **The checks must pass** (`tools/course_check.py`, `tools/template_check.py`); CI runs them.
+- **The checks must pass** (`tools/course_check.py`, `tools/template_check.py`, `tools/say_check.py`); CI runs them.
 - **Who reviews it:** a course's maintainer reviews the music and the teaching; the arranger
   reviews songs (ranges, voicings, the arrangement review); Stackapella (Hillel) merges. A change to
   how a lesson is scored, or a new step kind, is a change to the app too, and starts as an issue.

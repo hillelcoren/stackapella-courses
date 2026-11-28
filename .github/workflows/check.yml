@@ -22,3 +22,5 @@ jobs:
         run: python3 -I tools/template_check.py
       - name: Song DNA is current
         run: python3 -I tools/song_dna.py --check
+      - name: How to say it
+        run: python3 -I tools/say_check.py

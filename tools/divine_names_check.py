@@ -5,7 +5,8 @@ Usage: python3 tools/divine_names_check.py [content dir, default: this repo]
 Rule (Hillel): on Jewish song pages a full divine name never appears, in Hebrew script or in transliteration, in any
 language. We write and sing only the substituted forms (Kel, Keli, Elokeinu, Elokim, Adoshem, Shakai, Hashem, ה'), and our own words never use God, Lord, Almighty, Dios, Señor or Todopoderoso as a title for the Name (quotations, book titles and source lines aside).
 Jewish songs are the song files whose language is Hebrew or Yiddish. For each one this checks its song file, its
-stories (en and es), its meaning file, its course file (every language in it) and its course facts.
+stories (en and es), its meaning file, its How to say it file, its course file (every language in it) and its course
+facts.
 """
 import glob
 import json
@@ -94,26 +95,31 @@ def report(where, text, english):
         problems.append('%s: "%s"' % (where, h))
 
 
-facts = json.load(open(os.path.join(ROOT, 'tools/song_facts.json')))
-slugs = jewish_slugs()
-for slug, song_file in slugs:
-    for p, s, en in walk(json.load(open(song_file)), True):
-        report('%s%s' % (os.path.relpath(song_file, ROOT), p), s, en)
-    for rel, en in (('stories/%s.md' % slug, True), ('stories/es/%s.md' % slug, False)):
-        f = os.path.join(LIB, rel)
-        if os.path.exists(f):
-            for n, line in enumerate(open(f), 1):
-                report('templates/library/%s:%d' % (rel, n), line, en)
-    for rel in ('templates/library/meaning/%s.json' % slug, 'course/songs/%s.json' % slug,
-                'templates/library/stories/media/%s/media.json' % slug):
-        f = os.path.join(ROOT, rel)
-        if os.path.exists(f):
-            for p, s, en in walk(json.load(open(f)), True):
-                report(rel + p, s, en)
-    for p, s, en in walk(facts.get(slug, []), True):
-        report('tools/song_facts.json:%s%s' % (slug, p), s, en)
+def main():
+    facts = json.load(open(os.path.join(ROOT, 'tools/song_facts.json')))
+    slugs = jewish_slugs()
+    for slug, song_file in slugs:
+        for p, s, en in walk(json.load(open(song_file)), True):
+            report('%s%s' % (os.path.relpath(song_file, ROOT), p), s, en)
+        for rel, en in (('stories/%s.md' % slug, True), ('stories/es/%s.md' % slug, False)):
+            f = os.path.join(LIB, rel)
+            if os.path.exists(f):
+                for n, line in enumerate(open(f), 1):
+                    report('templates/library/%s:%d' % (rel, n), line, en)
+        for rel in ('templates/library/meaning/%s.json' % slug, 'course/songs/%s.json' % slug, 'say/%s.json' % slug,
+                    'templates/library/stories/media/%s/media.json' % slug):
+            f = os.path.join(ROOT, rel)
+            if os.path.exists(f):
+                for p, s, en in walk(json.load(open(f)), True):
+                    report(rel + p, s, en)
+        for p, s, en in walk(facts.get(slug, []), True):
+            report('tools/song_facts.json:%s%s' % (slug, p), s, en)
 
-for p in problems:
-    print(p)
-print('divine names: %d Jewish songs checked, %d problems' % (len(slugs), len(problems)))
-sys.exit(1 if problems else 0)
+    for p in problems:
+        print(p)
+    print('divine names: %d Jewish songs checked, %d problems' % (len(slugs), len(problems)))
+    sys.exit(1 if problems else 0)
+
+
+if __name__ == '__main__':
+    main()
